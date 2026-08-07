@@ -1,8 +1,8 @@
 ---
 
-title: "Nova Microdermabrasion 20.5\/25\ Wide Stadium Seat for Bleac"
-seo_title: "Nova Microdermabrasion 20.5\/25\ Wide Stadium Seat Review"
-meta_description: "Our full nova microdermabrasion 20.5\/25\ wide stadium seat for bleac review. Read Amazon customer insights, pros, cons, and our verdict."
+title: "Nova Microdermabrasion 20.5/25\ Wide Stadium Seat for Bleac"
+seo_title: "Nova Microdermabrasion 20.5/25\ Wide Stadium Seat Review"
+meta_description: "Our full nova microdermabrasion 20.5/25\ wide stadium seat for bleac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nova-microdermabrasion-20-5-25-wide-stadium-seat-for-bleachers-w-back-b0dqd1-review"
 image_alt: "Nova Microdermabrasion 20.5/25 Wide Stadium Seat for Bleachers w/Back Support Padded Cushion Portable Reclining Bleacher"
 verdict_score: 4.2

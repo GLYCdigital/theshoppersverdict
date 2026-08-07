@@ -1,8 +1,8 @@
 ---
 
-title: "XDDIAS 67\/70'' Freestanding Punching Bag, Heavy Boxing Bag,"
-seo_title: "XDDIAS 67\/70'' Freestanding Punching Bag, Heavy B Review"
-meta_description: "Our full xddias 67\/70'' freestanding punching bag, heavy boxing bag, review. Read Amazon customer insights, pros, cons, and our verdict."
+title: "XDDIAS 67/70'' Freestanding Punching Bag, Heavy Boxing Bag,"
+seo_title: "XDDIAS 67/70'' Freestanding Punching Bag, Heavy B Review"
+meta_description: "Our full xddias 67/70'' freestanding punching bag, heavy boxing bag, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "xddias-67-70-freestanding-punching-bag-heavy-boxing-bag-adult-men-stand-b0dy16-review"
 image_alt: "XDDIAS 67/70 Freestanding Punching Bag, Heavy Boxing Bag, Adult/Men Stand Kickboxing Bag for MMA Martial Arts Boxing Tra"
 verdict_score: 4.2

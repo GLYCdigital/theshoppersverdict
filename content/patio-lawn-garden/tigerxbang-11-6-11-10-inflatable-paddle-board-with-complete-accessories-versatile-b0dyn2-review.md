@@ -1,8 +1,8 @@
 ---
 
-title: "TIGERXBANG 11'6\/11'/10' Inflatable Paddle Board with Comple"
-seo_title: "TIGERXBANG 11'6\/11'/10' Inflatable Paddle Board w Review"
-meta_description: "Our full tigerxbang 11'6\/11'/10' inflatable paddle board with comple review. Read Amazon customer insights, pros, cons, and our verdict."
+title: "TIGERXBANG 11'6/11'/10' Inflatable Paddle Board with Comple"
+seo_title: "TIGERXBANG 11'6/11'/10' Inflatable Paddle Board w Review"
+meta_description: "Our full tigerxbang 11'6/11'/10' inflatable paddle board with comple review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tigerxbang-11-6-11-10-inflatable-paddle-board-with-complete-accessories-versatile-b0dyn2-review"
 image_alt: "TIGERXBANG 116/11/10 Inflatable Paddle Board with Complete Accessories, Versatile Premium Paddle Boards for Adults/Youth"
 verdict_score: 4.6
