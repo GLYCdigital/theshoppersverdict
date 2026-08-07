@@ -40,7 +40,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [outputs]
   section = ["HTML", "RSS"]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [menu]
   [[menu.main]]

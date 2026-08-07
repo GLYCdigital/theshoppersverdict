@@ -117,6 +117,7 @@
 <!-- Section 1: Verdict Row — top 4 newest reviews (50-25-25) -->
 {{ $row := first 4 $daily }}
 {{ $rowItems := len $row }}
+<noscript>
 <section class="section-white verdict-row-section">
   <div class="container">
     <div class="verdict-row">
@@ -225,6 +226,177 @@
 </section>
 {{ end }}
 
+</noscript>
+
+<script>
+(function() {
+  var today = new Date();
+  var start = new Date(today.getFullYear(), 0, 1);
+  var weekNum = Math.ceil((((today - start) / 86400000) + start.getDay() + 1) / 7);
+
+  fetch('/index.json')
+    .then(function(r) { return r.json(); })
+    .then(function(reviews) {
+      if (!reviews || reviews.length < 10) return;
+      var total = reviews.length;
+      var startIdx = (weekNum * 10) % total;
+      var picks = [];
+      for (var i = 0; i < 10; i++) {
+        picks.push(reviews[(startIdx + i) % total]);
+      }
+      renderVerdicts(picks);
+
+      // Best-of columns
+      var dayOfYear = Math.floor((today - start) / 86400000) + 1;
+      var fiveStar = reviews.filter(function(r) { return parseFloat(r.rating) >= 5.0; });
+      var luxury = reviews.filter(function(r) { return r.category === 'Luxury & Beauty'; });
+      if (fiveStar.length < 3) return;
+
+      // Today's Top Pick (3 per day from 5-star)
+      var tdStart = (dayOfYear * 3) % fiveStar.length;
+      var todayPicks = [];
+      for (var i = 0; i < 3; i++) todayPicks.push(fiveStar[(tdStart + i) % fiveStar.length]);
+
+      // Best of the Week (3 per week from 5-star)
+      var wkStart = (weekNum * 3) % fiveStar.length;
+      var weekPicks = [];
+      for (var i = 0; i < 3; i++) weekPicks.push(fiveStar[(wkStart + i) % fiveStar.length]);
+
+      // Editor's Favourite (2 luxury + 1 five-star per week)
+      var luxStart = (weekNum * 2) % luxury.length;
+      var editorPicks = [];
+      for (var i = 0; i < 2; i++) editorPicks.push(luxury[(luxStart + i) % luxury.length]);
+      editorPicks.push(fiveStar[(weekNum + 5) % fiveStar.length]);
+
+      renderBestOf(todayPicks, weekPicks, editorPicks);
+    })
+    .catch(function() {});
+
+  function renderVerdicts(reviews) {
+    var sect = document.getElementById('verdict-rotator');
+    if (!sect) return;
+    var row = reviews.slice(0, 4);
+    var grid = reviews.slice(4, 10);
+    var html = '';
+
+    // Verdict Row (4 cards: 50-25-25 layout)
+    html += '<div class="container"><div class="verdict-row">';
+
+    // Col 1: #1 (50%)
+    if (row[0]) {
+      var r = row[0];
+      html += '<div class="vr-col vr-col-main">';
+      html += '<div class="verdict-card verdict-card-square">';
+      html += '<a href="' + r.permalink + '" class="vc-image-link">';
+      html += '<div class="vc-image' + (r.image ? '' : ' vc-image-placeholder') + '">';
+      if (r.image) html += '<img src="' + r.image.replace('_SL1500_', '_SL300_') + '" alt="' + esc(r.title) + '" class="vc-img-fill" loading="lazy">';
+      html += '</div></a>';
+      html += '<div class="vc-body"><span class="vc-category">' + esc(r.category) + '</span>';
+      html += '<h3><a href="' + r.permalink + '" class="vc-title-link">' + esc(r.title) + '</a></h3>';
+      if (r.rating) html += '<div class="vc-stars">' + starsHTML(r.rating) + ' <span class="rating-inline">' + r.rating + '/5</span></div>';
+      html += '<p class="vc-summary">' + esc(r.summary) + '</p>';
+      html += '</div></div></div>';
+    }
+
+    // Col 2: #2 (25%)
+    if (row[1]) {
+      var r = row[1];
+      html += '<div class="vr-col vr-col-side">';
+      html += '<div class="verdict-card verdict-card-tall">';
+      html += '<a href="' + r.permalink + '" class="vc-image-link">';
+      html += '<div class="vc-image' + (r.image ? '' : ' vc-image-placeholder') + '">';
+      if (r.image) html += '<img src="' + r.image.replace('_SL1500_', '_SL300_') + '" alt="' + esc(r.title) + '" class="vc-img-fill" loading="lazy">';
+      html += '</div></a>';
+      html += '<div class="vc-body"><span class="vc-category">' + esc(r.category) + '</span>';
+      html += '<h3><a href="' + r.permalink + '" class="vc-title-link">' + esc(r.title) + '</a></h3>';
+      if (r.rating) html += '<div class="vc-stars">' + starsHTML(r.rating) + ' <span class="rating-inline">' + r.rating + '/5</span></div>';
+      html += '<p class="vc-summary">' + esc(r.summary) + '</p>';
+      html += '</div></div></div>';
+    }
+
+    // Col 3: #3 and #4 (25% stacked)
+    html += '<div class="vr-col vr-col-stack">';
+    for (var i = 2; i < 4 && i < row.length; i++) {
+      var r = row[i];
+      html += '<div class="verdict-card verdict-card-half">';
+      html += '<a href="' + r.permalink + '" class="vc-image-link-sm">';
+      html += '<div class="vc-image-sm' + (r.image ? '' : ' vc-image-sm-placeholder') + '">';
+      if (r.image) html += '<img src="' + r.image.replace('_SL1500_', '_SL300_') + '" alt="' + esc(r.title) + '" class="vc-img-fill-sm" loading="lazy">';
+      html += '</div></a>';
+      html += '<div class="vc-body-sm"><span class="vc-category">' + esc(r.category) + '</span>';
+      html += '<h4><a href="' + r.permalink + '" class="vc-title-link-sm">' + esc(r.title) + '</a></h4>';
+      if (r.rating) html += '<div class="vc-stars-sm">' + starsHTML(r.rating) + ' <span class="rating-inline-sm">' + r.rating + '/5</span></div>';
+      html += '</div></div>';
+    }
+    html += '</div></div></div>';
+
+    // Verdict Grid (6 cards)
+    if (grid.length > 0) {
+      html += '<div class="container"><div class="verdict-grid">';
+      for (var i = 0; i < grid.length; i++) {
+        var r = grid[i];
+        html += '<div class="vg-card">';
+        html += '<a href="' + r.permalink + '" class="vg-image-link">';
+        html += '<div class="vg-image' + (r.image ? '' : ' vg-image-placeholder') + '">';
+        if (r.image) html += '<img src="' + r.image.replace('_SL1500_', '_SL300_') + '" alt="' + esc(r.title) + '" class="vg-img-fill" loading="lazy">';
+        html += '</div></a>';
+        html += '<div class="vg-body"><span class="vg-category">' + esc(r.category) + '</span>';
+        html += '<h4><a href="' + r.permalink + '" class="vg-title-link">' + esc(r.title) + '</a></h4>';
+        if (r.rating) html += '<div class="vg-stars">' + starsHTML(r.rating) + ' <span class="rating-inline">' + r.rating + '/5</span></div>';
+        html += '<p class="vg-summary">' + esc(r.summary) + '</p>';
+        html += '</div></div>';
+      }
+      html += '</div></div>';
+    }
+
+    sect.innerHTML = html;
+  }
+
+  function esc(s) {
+    if (!s) return '';
+    var d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function starsHTML(rating) {
+    var r = parseFloat(rating) || 0;
+    var full = Math.floor(r);
+    var s = '';
+    for (var i = 0; i < full; i++) s += '&#9733;';
+    return s;
+  }
+
+  function renderBestOf(todayPicks, weekPicks, editorPicks) {
+    var cols = document.querySelectorAll('.featured-picks .picks-col');
+    if (cols.length < 3) return;
+    var picks = [todayPicks, weekPicks, editorPicks];
+    var badges = ['🏆 TODAY\'S TOP PICK', '⭐ BEST OF THE WEEK', '❤️ EDITOR\'S FAVOURITE'];
+    for (var col = 0; col < 3; col++) {
+      var target = cols[col];
+      // Skip noscript-hidden cols — find non-hidden or create
+      var html = '<span class="picks-col-badge">' + badges[col] + '</span>';
+      for (var i = 0; i < picks[col].length; i++) {
+        var r = picks[col][i];
+        html += '<div class="pick-row">';
+        html += '<a href="' + (r.permalink || '#') + '" class="pick-img-link">';
+        html += '<div class="pick-img' + (r.image ? '' : ' pick-img-placeholder') + '">';
+        if (r.image) html += '<img src="' + r.image.replace('_SL1500_', '_SL300_') + '" alt="' + esc(r.title) + '" class="pick-img-fill" loading="lazy">';
+        html += '</div></a>';
+        html += '<div class="pick-info">';
+        html += '<a href="' + (r.permalink || '#') + '" class="pick-name">' + esc(r.title) + '</a>';
+        if (r.rating) html += '<span class="pick-verdict">' + starsHTML(r.rating) + ' ' + r.rating + '/5</span>';
+        html += '</div></div>';
+      }
+      target.innerHTML = html;
+    }
+  }
+})();
+</script>
+
+<!-- Client-side rendered verdicts -->
+<section class="section-white verdict-row-section" id="verdict-rotator"></section>
+
 <!-- Featured Picks -->
 <section class="featured-picks">
   <div class="container">
@@ -233,7 +405,8 @@
       <h2 class="section-title">TOP RATED PRODUCTS</h2>
     </div>
     <div class="picks-columns">
-      <!-- Col 1: TODAY'S TOP PICK — top 3 scored from the 10 -->
+      <!-- Col 1: TODAY'S TOP PICK — rotated daily from 5-star pool -->
+      <noscript>
       <div class="picks-col">
         <span class="picks-col-badge">🏆 TODAY'S TOP PICK</span>
         {{ range $todayTop3 }}
@@ -255,7 +428,10 @@
         {{ end }}
       </div>
 
-      <!-- Col 2: BEST OF THE WEEK — top 3 scored from last 7 days -->
+      </noscript>
+
+      <!-- Col 2: BEST OF THE WEEK — rotated weekly from 5-star pool -->
+      <noscript>
       <div class="picks-col">
         <span class="picks-col-badge">⭐ BEST OF THE WEEK</span>
         {{ range $weekTop3 }}
@@ -277,7 +453,10 @@
         {{ end }}
       </div>
 
-      <!-- Col 3: EDITOR'S FAVOURITE — top 3 scored from last 30 days -->
+      </noscript>
+
+      <!-- Col 3: EDITOR'S FAVOURITE — 2 luxury-beauty + 1 five-star, rotated weekly -->
+      <noscript>
       <div class="picks-col">
         <span class="picks-col-badge">❤️ EDITOR'S FAVOURITE</span>
         {{ range $monthTop3 }}

@@ -1,0 +1,16 @@
+[
+  {{- $all := where .Site.RegularPages "Type" "in" (slice "kitchen" "coffee" "home-office" "home-improvement" "luxury-beauty" "pet-supplies" "furniture" "patio-lawn-garden" "sports-fitness" "toys-games") -}}
+  {{- $sorted := $all.ByDate.Reverse -}}
+  {{- range $i, $p := $sorted -}}
+    {{- if $i }},{{ end -}}
+    {
+      "title": {{ $p.Title | jsonify }},
+      "permalink": {{ $p.RelPermalink | jsonify }},
+      "image": {{ $p.Params.amazon_image | jsonify }},
+      "rating": {{ $p.Params.amazon_rating | jsonify }},
+      "verdict": {{ $p.Params.verdict_score | jsonify }},
+      "summary": {{ $p.Summary | plainify | truncate 120 | jsonify }},
+      "category": {{ $p.CurrentSection.Title | jsonify }}
+    }
+  {{- end -}}
+]
