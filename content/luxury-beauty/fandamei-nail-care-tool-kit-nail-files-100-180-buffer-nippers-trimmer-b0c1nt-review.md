@@ -1,4 +1,5 @@
 ---
+
 title: "FANDAMEI Nail Care Tool Kit Review – Pro Results at Home"
 seo_title: "FANDAMEI Nail Care Tool Kit Review – Pro Results at Hom Review"
 meta_description: "FANDAMEI nail care tool kit review: 100/180 files, buffer, nippers, and trimmer tested. Is this 4.7-star grooming set worth it? Find out."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 **The Short Version**

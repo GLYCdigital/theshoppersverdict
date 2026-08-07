@@ -1,4 +1,5 @@
 ---
+
 title: "Big and Tall Gaming Chair 440LBS with Metal Base Memory Foam"
 seo_title: "Big & Tall Gaming Chair 440LBS Review: Memory Foam Comfort"
 meta_description: "Honest Big and Tall Gaming Chair 440LBS review: metal base, memory foam, real weight capacity. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4V742PK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PKoCpJaAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Genuine 440lb weight capacity backed by a reinforced steel frame and heavy-duty 4 inch gas lift — not marketing fluff
   - "Memory foam seat and lumbar cushion hold their shape through marathon sessions, unlike cheap polyurethane that flattens in weeks"
   - "Solid metal base with dual-wheel casters rolls smoothly on carpet and hardwood without the wobble common in budget chairs"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes and the instructions are mostly diagrams with tiny text — budget time and patience"
   - "Armrests adjust only up/down, not side-to-side or forward/back, which limits custom fit for broader shoulders"
   - "Faux leather upholstery traps heat; expect a sweaty back in summer unless you run AC or add a breathable cover"
+
 ---
 
 # Big and Tall Gaming Chair 440LBS: Built for Larger Frames Without the Compromise

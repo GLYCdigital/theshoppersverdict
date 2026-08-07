@@ -1,4 +1,5 @@
 ---
+
 title: "Carport, 10 x 20 FT Portable Garage Heavy Duty, Carport Cano"
 seo_title: "10x20 Portable Garage Review: Heavy Duty Carport Canopy"
 meta_description: "Honest 10x20 portable carport review: build quality, wind resistance, real user feedback. Is this heavy-duty canopy worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0F4KF9SBN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R5EGPJIjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely spacious 10x20 footprint fits a full-size truck or SUV with room to walk around"
   - "Steel frame with reinforced trusses handles moderate snow loads better than budget canopies"
   - "Includes anchor kits and ratchet straps — most competitors charge extra for these"
-cons:
+cons: 
   - "Cover is water-resistant, not waterproof — heavy rain pools on the roof and seeps through seams"
   - "Assembly is a two-person, 3-4 hour job with confusing instructions and undersized hardware"
   - "No side walls included — rain blows in horizontally during storms, limiting real protection"
+
 ---
 
 You're looking at a 200-square-foot shelter for the price of a decent lawnmower. The 10x20 portable garage from Cano promises heavy-duty protection for your vehicle or equipment. But with a 3.5-star average across 175 ratings, the reality is more complicated than the marketing photos suggest. Here's what you need to know before handing over your money.

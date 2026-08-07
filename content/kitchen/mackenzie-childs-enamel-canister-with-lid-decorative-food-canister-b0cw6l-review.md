@@ -1,4 +1,5 @@
 ---
+
 title: "MACKENZIE-CHILDS Enamel Canister with Lid, Decorative Food C"
 seo_title: "MACKENZIE-CHILDS Enamel Canister with Lid, Decorat Review"
 meta_description: "Our full mackenzie-childs enamel canister with lid, decorative food c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CW6LCQMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lUR9w5I5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $100 question with any MACKENZIE-CHILDS piece is simple: Are you paying for storage, or are you paying for the pattern? With this enamel canister, the honest answer is both — and that's exactly why it works.

@@ -1,4 +1,5 @@
 ---
+
 title: "Boardwalk BWK410320 3.2 in. x 525 ft. 2-Ply Septic Safe Jumb"
 seo_title: "Boardwalk BWK410320 3.2x525 Septic Safe Toilet Paper Review"
 meta_description: "Boardwalk BWK410320 525-ft 2-ply septic-safe toilet paper review: durability, value, and performance tested. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00MI8Q9U2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41F7e2jELML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "525-foot roll lasts roughly 3-4x longer than standard residential rolls; fewer change-outs"
   - "2-ply construction holds up well in commercial restrooms without clogging standard dispensers"
   - "Septic-safe certification and rapid-dissolve design protect plumbing in older buildings"
-cons:
+cons: 
   - "Priced per roll higher than bulk residential packs; savings only materialize at commercial quantities"
   - "Core diameter (3.2 in.) requires compatible jumbo dispensers; won't fit standard residential spindles"
   - "Texture is utilitarian — noticeably rougher than premium consumer brands like Cottonelle or Charmin Ultra"
+
 ---
 
 Most toilet paper reviews are written for people buying for a single bathroom. This one isn't. The Boardwalk BWK410320 is a commercial-grade jumbo roll designed for office buildings, schools, restaurants, and high-traffic facilities — and that distinction matters far more than the paper itself.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo True Chews"
 seo_title: "Blue Buffalo True Chews Review: Are These Treats Worth It?"
 meta_description: "Honest Blue Buffalo True Chews review: ingredients, texture, and value. See what 229 Amazon buyers say before you buy these dog treats."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2JHTYLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hjlYEHHML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real meat is the first ingredient — no meal or by-product fillers in the ingredient list"
   - "Soft, chewy texture that works for senior dogs and puppies with dental sensitivities"
   - "Resealable bag actually holds up — treats stay moist to the last piece"
-cons:
+cons: 
   - "Smaller than expected for the price point — several buyers noted the pieces are bite-sized"
   - "Not grain-free — contains barley and rice, which is a dealbreaker for some owners"
+
 ---
 
 **Blue Buffalo True Chews Review: The Honest Take on This Popular Dog Treat**

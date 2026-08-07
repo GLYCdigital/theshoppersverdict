@@ -1,7 +1,8 @@
 ---
-title: "Lennox X8788 MERV 16 Pleated Filter 20\" x 26\" x 5\" Healthy C"
-seo_title: "Lennox X8788 MERV 16 Pleated Filter 20\" x 26\" x 5\" Review"
-meta_description: "Our full lennox x8788 merv 16 pleated filter 20\" x 26\" x 5\" healthy c review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lennox X8788 MERV 16 Pleated Filter 20\ x 26\ x 5\ Healthy C"
+seo_title: "Lennox X8788 MERV 16 Pleated Filter 20\ x 26\ x 5\ Review"
+meta_description: "Our full lennox x8788 merv 16 pleated filter 20\ x 26\ x 5\ healthy c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lennox-x8788-merv-16-pleated-filter-20-x-26-x-5-healthy-b004x4-review"
 image_alt: "Lennox X8788 MERV 16 Pleated Filter 20 x 26 x 5 Healthy Climate For Lennox PCO20-28"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004X4UQ9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710ctofA0pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the honest, buyer-focused review:

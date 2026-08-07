@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 48-11-1850R M18 18V 5Ah XC Extended Capacity Resis"
 seo_title: "Milwaukee 48-11-1850R M18 18V 5Ah XC Extended Capa Review"
 meta_description: "Our full milwaukee 48-11-1850r m18 18v 5ah xc extended capacity resis review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B8TDYXBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kNwjPWwwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Real-World Performance

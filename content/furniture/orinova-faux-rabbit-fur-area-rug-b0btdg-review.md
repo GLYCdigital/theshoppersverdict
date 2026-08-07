@@ -1,4 +1,5 @@
 ---
+
 title: "ORINOVA Faux Rabbit Fur Area Rug"
 seo_title: "ORINOVA Faux Rabbit Fur Area Rug Review: Verdict | TSV"
 meta_description: "Our full orinova faux rabbit fur area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BTDG14LV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815-g81gv5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ORINOVA Faux Rabbit Fur Area Rug has 220 Amazon ratings sitting at a solid 4.4 stars. After digging through the reviews and examining the specs, here's what I can tell you: this rug is a mood-changer, not a workhorse.

@@ -1,4 +1,5 @@
 ---
+
 title: "A1A9 5 Light Bathroom Vanity Light Fixture, Modern Wall Ligh"
 seo_title: "A1A9 5-Light Vanity Light Review: Worth It? (2026)"
 meta_description: "Honest A1A9 5-light bathroom vanity light review: build quality, brightness, installation. See pros, cons, and who should buy this modern fixture."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7BS6XR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Rw-4Vo9qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully adjustable individual light heads let you aim beams exactly where needed — shaving, makeup, or task lighting"
   - "Damp-rated construction with sealed sockets handles steamy bathrooms without corrosion or flicker issues"
   - "Clear glass shades with exposed bulbs give bright, shadow-free illumination — no dim yellow glow like frosted fixtures"
-cons:
+cons: 
   - "Bulbs not included — you'll spend an extra $20–40 on five compatible bulbs (E12 base, candelabra style)"
   - "Installation requires two people for the 30-inch bar; the mounting plate is heavy and awkward to hold while wiring"
   - "No dimmer built in — you'll need a separate dimmer switch and dimmable bulbs to adjust brightness"
+
 ---
 
 A bathroom vanity light is one of those purchases you don't think about until you're trying to put on makeup in a shadow-filled cave. The A1A9 5-Light fixture promises to fix that. After digging through 235 ratings and the technical specs, here's the real story.

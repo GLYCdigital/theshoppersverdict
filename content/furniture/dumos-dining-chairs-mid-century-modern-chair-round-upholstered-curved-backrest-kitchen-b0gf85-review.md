@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Dining Chairs, Mid Century Modern Chair Round Upholste"
 seo_title: "DUMOS Dining Chairs Review: Mid-Century Comfort for 2026 inch"
 meta_description: "DUMOS mid-century dining chairs offer curved comfort and retro style. Read our honest review covering build quality, sizing, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GF85CWRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V4JP6XxsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ergonomic curved backrest that actually supports the lumbar region without digging in"
   - "Sturdy solid wood legs with reinforced crossbars — no wobble reported even on uneven floors"
   - "Easy 10-minute assembly with all tools and hardware included, no drilling required"
-cons:
+cons: 
   - "Upholstery is thin — heavier users (220+ lbs) report the foam compresses noticeably within months"
   - "Only available in a limited color palette; the fabric is prone to showing lint and pet hair"
+
 ---
 
 If your dining room is stuck in builder-grade bland, the DUMOS Mid-Century Modern Chair is the easiest visual upgrade you'll make this year. But the 4.4-star average across 220 ratings tells a more nuanced story — this chair nails the retro aesthetic but makes a few compromises under the seat. Here's what you need to know before you add it to your cart.

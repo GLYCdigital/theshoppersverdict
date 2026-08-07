@@ -1,4 +1,5 @@
 ---
+
 title: "COZZIVITA GE Silver Drip Pans and Stove Burner Element Unit"
 seo_title: "COZZIVITA GE Silver Drip Pans Review: Element Unit Fit"
 meta_description: "COZZIVITA GE silver drip pans and burner element unit review: fit, durability, and performance for GE ranges. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D5GZG1R7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w+supOFHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exact-fit stamped steel for GE/JennAir/Café ranges—no bending or trimming needed on standard burners"
   - "Silver finish hides baked-on grease far better than chrome or black pans"
   - "Includes both drip pans and burner element unit covers, so it's a complete replacement kit"
-cons:
+cons: 
   - "Thinner gauge steel than OEM parts—can warp if overheated on high for long stretches"
   - "Not universal—won't fit Frigidaire, Whirlpool, or older GE models with non-standard burner bowls"
+
 ---
 
 Let's be honest: drip pans are the least glamorous part of any kitchen. You only think about them when the crusty, burnt-on residue starts flaking onto your burners or when company's coming and you realize your stovetop looks like a crime scene. The COZZIVITA GE Silver Drip Pans and Stove Burner Element Unit set aims to solve that problem without the OEM markup. After digging through 210 ratings and the actual product specs, here's what you need to know before clicking buy.

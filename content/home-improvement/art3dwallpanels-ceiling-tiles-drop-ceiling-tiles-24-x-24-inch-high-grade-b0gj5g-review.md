@@ -1,4 +1,5 @@
 ---
+
 title: "Art3dwallpanels Ceiling Tiles Drop Ceiling Tiles, 24 x 24 In"
 seo_title: "Art3dwallpanels Ceiling Tiles Review: 24x24 Drop Ceiling"
 meta_description: "Art3dwallpanels 24x24 drop ceiling tiles review: real-world performance, installation tips, and honest pros/cons. See if they're worth $49.99."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJ5GG5JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WdZUi3YaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lightweight PVC construction (under 2 lbs per tile) makes overhead installs a one-person job"
   - "Moisture-resistant surface holds up in bathrooms and basements where fiberboard tiles sag"
   - "Clean, modern square-edge profile with a matte white finish that hides minor ceiling imperfections"
-cons:
+cons: 
   - "Ships flat but edges can arrive slightly compressed if the box takes any impact during shipping"
   - "Not paintable — the PVC surface rejects latex and oil-based paints without special primer"
+
 ---
 
 If you've wrestled a 2x4 fiberboard ceiling tile into a grid while balancing on a ladder, you know the pain. The Art3dwallpanels 24x24 drop ceiling tiles cut that struggle significantly. At $49.99 for a set, they're priced like standard builder-grade tiles, but they're actually a different animal entirely — lightweight PVC instead of compressed fiberboard.

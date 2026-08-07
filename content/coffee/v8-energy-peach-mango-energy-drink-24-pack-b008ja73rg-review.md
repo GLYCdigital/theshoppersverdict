@@ -1,4 +1,5 @@
 ---
+
 title: "V8 Energy Peach Mango Energy Drink, 8 fl oz Can (24 Pack)"
 seo_title: "V8 Energy Peach Mango Review — 4.7★ Energy Drink with Veggies"
 meta_description: "V8 Energy Peach Mango review: 18,091 ratings analyzed. 80mg caffeine, half the sugar of soda, one serving of veggies. Is it legit energy or just juice?"
@@ -11,21 +12,22 @@ review_count: 18091
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008JA73RG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ce5cxhrIL._SL1500_.jpg"
-faq:
+faq: 
   - question: "How much caffeine is in V8 Energy Peach Mango?"
     answer: "80 milligrams per can — comparable to a standard cup of coffee. Enough for a clean lift without the jitters or crash associated with higher-caffeine energy drinks."
   - question: "Does V8 Energy contain added sugar?"
     answer: "No added sugar, though it's not a low-calorie beverage. Each can has 50 calories and 12g of carbs from fruit and vegetable juice concentrates. The sweetness comes from the fruit, not from refined sugar."
   - question: "Is V8 Energy a good substitute for coffee?"
     answer: "It depends on your caffeine tolerance. At 80mg per can, it delivers roughly the same caffeine as a cup of coffee, but with B vitamins and vegetable nutrition that coffee doesn't provide. Many reviewers use it as a morning alternative."
-pros:
+pros: 
   - "80mg caffeine from green tea — clean energy without synthetic stimulants"
   - "One combined serving of fruits and vegetables per can"
   - "Excellent source of B vitamins (B3, B5, B6, B12) for energy metabolism"
   - "No added sugar, Non-GMO, and gluten-free"
-cons:
+cons: 
   - "50 calories per can — not a zero-calorie energy drink"
   - "Taste leans sweet from fruit juice concentrates; may not appeal to those who prefer unsweetened drinks"
+
 ---
 
 **The energy drink that doesn't taste like a science experiment**

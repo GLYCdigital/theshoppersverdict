@@ -1,24 +1,26 @@
 ---
+
 title: "Fred's Flyers Balsa Wood Airplane Kits - 5-Pack - USA Made W"
 seo_title: "Fred's Flyers Balsa Wood Airplane Kits Review (5-Pack, USA Made)"
 meta_description: "Honest Fred's Flyers balsa wood airplane kit review: build quality, flight performance, and who should buy this 5-pack. USA-made classic fun."
 slug: "fred-s-flyers-balsa-wood-airplane-kits-5-pack-usa-made-wooden-b08c4l-review"
 image_alt: "Fred's Flyers balsa wood airplane kit 5-pack with pre-cut wooden parts and rubber band launcher"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 204  
-amazon_rating: 4.1  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 204
+amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08C4LR3P7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s5yFtpPOL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine USA-made balsa wood — light, stiff, and consistent grain for predictable flights"  
   - "Pre-cut, notched parts snap together cleanly; most builds finish in 15–20 minutes without glue"  
   - "Five kits per pack means you can experiment with trim adjustments or share with kids"  
-cons:  
+cons: 
   - "Rubber bands are thin and break after a dozen or so launches — buy spares"  
   - "No landing gear or wheels; you'll need a smooth, open space for best flights"  
   - "Wingspan is modest (~12 inches), so outdoor flights can get tossed by wind easily"
+
 ---
 
 Let's cut through the nostalgia. Fred's Flyers balsa wood airplane kits are the kind of thing you remember from your childhood — and for good reason. These are simple, honest, physics-teaching toys that still work. But they're not without quirks. Here's what you need to know before you buy.

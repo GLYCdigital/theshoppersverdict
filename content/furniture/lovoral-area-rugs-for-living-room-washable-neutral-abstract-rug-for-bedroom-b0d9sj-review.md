@@ -1,4 +1,5 @@
 ---
+
 title: "LOVORAL Area Rugs for Living Room: Washable Neutral Abstract"
 seo_title: "LOVORAL Area Rugs for Living Room: Washable Neutra Review"
 meta_description: "Our full lovoral area rugs for living room: washable neutral abstract review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9SJYK1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FSK+iHP-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Washable Rug That Actually Survives Real Life

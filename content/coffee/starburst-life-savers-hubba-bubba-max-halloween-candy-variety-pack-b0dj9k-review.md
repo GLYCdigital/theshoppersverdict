@@ -1,4 +1,5 @@
 ---
+
 title: "STARBURST, LIFE SAVERS & HUBBA BUBBA Max Halloween Candy Var"
 seo_title: "STARBURST, LIFE SAVERS & HUBBA BUBBA Max Halloween Review"
 meta_description: "Our full starburst, life savers & hubba bubba max halloween candy var review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ9K1R2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615gvuMEN4L._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about Halloween candy: most variety packs are 60% off-brand lollipops kids trade away by November 2nd. This STARBURST, LIFE SAVERS & HUBBA BUBBA Max box sidesteps that problem entirely by stocking only three Wrigley brands that actually have name recognition at the door.

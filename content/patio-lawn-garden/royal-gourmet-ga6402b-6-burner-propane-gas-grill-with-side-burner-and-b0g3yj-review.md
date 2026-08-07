@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Gourmet GA6402B 6 Burner Propane Gas Grill with Side B"
 seo_title: "Royal Gourmet GA6402B 6 Burner Propane Gas Grill w Review"
 meta_description: "Our full royal gourmet ga6402b 6 burner propane gas grill with side b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G3YJXQKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71spR5VmhKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Royal Gourmet GA6402B 6 Burner Propane Gas Grill with Side B: The Budget Big-Rig That Actually Delivers

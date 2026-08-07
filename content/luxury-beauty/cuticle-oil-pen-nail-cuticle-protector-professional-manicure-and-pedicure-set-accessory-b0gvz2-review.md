@@ -1,4 +1,5 @@
 ---
+
 title: "Cuticle Oil Pen - Nail Cuticle Protector - Professional Mani"
 seo_title: "Cuticle Oil Pen Review: Precision Nail Care for Manis"
 meta_description: "Cuticle Oil Pen review: precision applicator, fast-absorbing formula, and mess-free design. Does this professional manicure tool deliver? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVZ21TR1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dso-l-3VL._SL1500_.jpg"
-pros:
+pros: 
   - "Fine-tip precision applicator delivers oil exactly where you need it — no flooding the nail bed or wasting product"
   - "Fast-absorbing formula that doesn't leave a greasy residue on hands or phone screens"
   - "Mess-free design works equally well for at-home touch-ups and professional manicure stations"
-cons:
+cons: 
   - "Small reservoir means frequent refills if you use it daily on all ten fingers"
   - "Clip-on cap can loosen over time if you toss it in a bag without the protective sleeve"
+
 ---
 
 The problem with most cuticle oils isn’t the oil — it’s the delivery. Drippy droppers, sticky brushes, and bottles that tip over mid-manicure. The Cuticle Oil Pen solves that with a format that’s so obvious you’ll wonder why every brand doesn’t do it. But does the formula inside match the clever packaging? After digging through 220 ratings and the specs, here’s the real story.

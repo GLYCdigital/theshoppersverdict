@@ -1,4 +1,5 @@
 ---
+
 title: "Large Carrying Case for Meta Quest 3S/Quest 3, Hard Travel C"
 seo_title: "Large Carrying Case for Meta Quest 3S/Quest 3, Har Review"
 meta_description: "Our full large carrying case for meta quest 3s/quest 3, hard travel c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK1SR2QS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ySNuz1luL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the Quest case you've been searching for?

@@ -1,24 +1,26 @@
 ---
+
 title: "Aigybobo Learning Toys for 1,2,3 Year Old"
 seo_title: "Aigybobo Learning Toys Review: Best for 1-3 Year Olds (2026)"
 meta_description: "Honest Aigybobo learning toys review for 1,2,3 year olds. See what 235 buyers say, real pros/cons, and who should buy. 4.7-star rated."
 slug: "aigybobo-learning-toys-for-1-2-3-year-old-b0cgrc-review"
 image_alt: "Aigybobo toddler learning toy set with colorful sorting pieces and activity cards laid out on a play mat"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGRCS4TK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mBkbuQM0L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Twelve distinct activities (shape sorting, number matching, color recognition) in one compact set — replaces three separate toys"  
   - "Chunky, rounded plastic pieces sized for 12-month-old hands; no small parts that pose choking hazards"  
   - "Storage box doubles as the play base, so cleanup is built into the toy itself"  
-cons:  
+cons: 
   - "Cardboard activity cards can bend or tear with aggressive toddler handling — expect to replace them within months"  
   - "Some shape pieces fit loosely into their slots, which frustrates perfectionist 2-year-olds who want a satisfying 'click'"  
   - "No sound or light features — if your kid demands electronic stimulation, this won't hold their attention for long stretches"
+
 ---
 
 **Aigybobo Learning Toys for 1,2,3 Year Old Review: The Quiet Workhorse of Toddler Playrooms**

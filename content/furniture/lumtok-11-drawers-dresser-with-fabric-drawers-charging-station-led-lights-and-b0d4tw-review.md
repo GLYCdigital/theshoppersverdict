@@ -1,4 +1,5 @@
 ---
+
 title: "LUMTOK 11 Drawers Dresser with Fabric Drawers,Charging Stati"
 seo_title: "LUMTOK 11 Drawers Dresser with Fabric Drawers,Char Review"
 meta_description: "Our full lumtok 11 drawers dresser with fabric drawers,charging stati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4TW1Z2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Yg5L0qplL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most fabric-drawer dressers under $150 are flimsy afterthoughts. The LUMTOK 11 Drawer Dresser tries to be more — it bolts on a charging station, throws in LED lights, and dares to charge a premium for the convenience. Does it earn the 4.3-star average across 215 ratings? Mostly yes, with caveats you need before checkout.

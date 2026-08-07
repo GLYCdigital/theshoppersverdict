@@ -1,4 +1,5 @@
 ---
+
 title: "Dole Canned Fruits Heavy Syrup, Gluten Free, Pantry Staples"
 seo_title: "Dole Canned Fruits Heavy Syrup Review: Pantry Staples (2026)"
 meta_description: "Honest Dole Canned Fruits Heavy Syrup review: flavor, texture, and value for pantry staples. See what 229 buyers rate 4.6/5 before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4FPD96S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BMWJTP9lL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent fruit texture — chunks hold shape without turning mushy, even after months in the pantry"
   - "Gluten-free certification removes guesswork for celiac shoppers or those avoiding wheat"
   - "Heavy syrup delivers noticeably sweeter, richer flavor than light syrup or juice-packed versions"
-cons:
+cons: 
   - "Sugar content is high — roughly 18-20g per serving — a dealbreaker for low-carb or diabetic diets"
   - "Fruit mix skews heavy on peaches and pears; pineapple and cherries are proportionally sparse in many cans"
+
 ---
 
 **Is canned fruit in heavy syrup still relevant in 2026?** Surprisingly, yes — especially when you need a reliable dessert topping, a quick fruit salad base, or a pantry item that won't spoil for two years. Dole's version holds a 4.6-star average across 229 ratings, which is solid for a category most people buy on autopilot. Here's the real breakdown.

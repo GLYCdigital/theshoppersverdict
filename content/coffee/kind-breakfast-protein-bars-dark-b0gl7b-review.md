@@ -1,4 +1,5 @@
 ---
+
 title: "KIND Breakfast Protein Bars, Dark"
 seo_title: "KIND Breakfast Protein Bars, Dark Review: Verdict | TSV"
 meta_description: "Our full kind breakfast protein bars, dark review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GL7B3BNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OC5sMu6fL._CR0,0,500,500_._FMjpg_._SL34_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about KIND Breakfast Protein Bars in Dark Chocolate. These are not your average protein bars. Most products in this category are glorified candy bars with whey powder sprinkled in. KIND actually does something different — and for the most part, it works.

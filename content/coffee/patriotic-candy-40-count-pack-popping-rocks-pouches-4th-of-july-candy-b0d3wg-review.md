@@ -1,4 +1,5 @@
 ---
+
 title: "Patriotic Candy - 40 Count Pack - Popping Rocks Pouches - 4t"
 seo_title: "Patriotic Candy - 40 Count Pack - Popping Rocks Po Review"
 meta_description: "Our full patriotic candy - 40 count pack - popping rocks pouches - 4t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3WG214X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91dSBAg0vwL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this isn't a coffee maker, and I'm not going to pretend it is. The product data says "coffee gear," but what you're actually looking at is a 40-count pack of patriotic-themed Popping Rocks candy pouches. So let me review what's actually in the box — because that's what you'll be handing out at your July 4th barbecue.

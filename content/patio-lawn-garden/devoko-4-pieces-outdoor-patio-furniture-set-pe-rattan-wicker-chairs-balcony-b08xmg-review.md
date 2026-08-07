@@ -1,4 +1,5 @@
 ---
+
 title: "Devoko 4 Pieces Outdoor Patio Furniture Set, PE Rattan Wicke"
 seo_title: "Devoko 4-Piece Patio Set Review: Worth It? (2026)"
 meta_description: "Honest Devoko 4-piece PE rattan patio set review: build quality, comfort, assembly, and who should buy. Real buyer feedback at 4.3 stars."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08XMGST8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u6ezQgpsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-weather PE rattan over a powder-coated steel frame that actually holds up in sun and rain"
   - "Generous 26.7-inch wide seats with thick foam cushions — genuinely comfortable for all-day sitting"
   - "Glass tabletop with safety edge is stable and easy to clean, unlike cheaper plastic alternatives"
-cons:
+cons: 
   - "Cushions are not waterproof — you'll need to bring them inside or cover them when rain hits"
   - "Assembly takes about 45-60 minutes with two people; the bolts align awkwardly on the chair backs"
   - "Low-slung design sits closer to the ground than standard patio chairs, which may not suit taller users"
+
 ---
 
 If you've priced a comparable 4-piece rattan patio set lately, you know the good ones run $600–$900. The Devoko comes in well under that, which raises the obvious question: where did they cut corners? After digging through 215 verified buyer ratings and the spec sheet, here's the honest answer.

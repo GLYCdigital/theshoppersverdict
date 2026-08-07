@@ -1,4 +1,5 @@
 ---
+
 title: "EXPO Dry Erase Markers, Low"
 seo_title: "EXPO Dry Erase Markers Review: Low-Odor Workhorse (2026)"
 meta_description: "Honest EXPO Dry Erase Markers review: 4.0-star rated low-odor markers. Tested for ghosting, dry time & durability. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GS8TPDBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Low-odor ink formulation that won't overwhelm small conference rooms or home offices"
   - "Chisel tip delivers both broad strokes for headers and fine lines for details"
   - "Consistent ink flow with minimal pressure required — reduces hand fatigue during long sessions"
-cons:
+cons: 
   - "Not truly dry-erase on all surfaces — porous whiteboards can ghost permanently"
   - "Black and blue caps loosen slightly after repeated use, risking dry-out if stored vertically"
+
 ---
 
 **The $12 Question: Are These Worth It or Just Another Office Drawer Filler?**

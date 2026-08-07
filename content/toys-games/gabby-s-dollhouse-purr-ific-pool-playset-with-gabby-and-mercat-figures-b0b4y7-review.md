@@ -1,4 +1,5 @@
 ---
+
 title: "Gabby's Dollhouse, Purr-ific Pool Playset with Gabby and Mer"
 seo_title: "Gabby's Dollhouse Purr-ific Pool Playset Review: Worth It?"
 meta_description: "Honest review of the Gabby's Dollhouse Purr-ific Pool Playset with Gabby & Mer figures. See what buyers love and what falls short before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B4Y76VNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81l+6mo8NrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Slide actually works — figures zip down into the pool without getting stuck, which is rare for playsets this size"
   - "Includes two detailed figures (Gabby and Mer-Cat) with correct articulation for small hands"
   - "Water-play compatible — the pool basin holds liquid, adding a second play mode most dollhouse sets skip"
-cons:
+cons: 
   - "Small footprint — roughly the size of a shoebox, so it won't satisfy kids expecting a full dollhouse room"
   - "Some reported the palm tree base pops off during vigorous play; a drop of glue fixes it permanently"
   - "No storage — loose pieces scatter easily since there's no lid or carrying handle"
+
 ---
 
 **Is the Purr-ific Pool worth the shelf space? Let's talk about what actually happens when a 4-year-old gets their hands on it.**

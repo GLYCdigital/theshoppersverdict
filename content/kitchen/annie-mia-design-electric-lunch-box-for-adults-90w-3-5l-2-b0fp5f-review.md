@@ -1,4 +1,5 @@
 ---
+
 title: "Annie & Mia Design Electric Lunch Box for Adults, 90w 3.5L 2 inch"
 seo_title: "Annie & Mia Electric Lunch Box Review: 90W 3.5L (2026)"
 meta_description: "Honest Annie & Mia Design electric lunch box review: 90W heating, 3.5L capacity, 2 compartments. Does it actually keep food hot? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FP5F2VZ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X4vYc8MkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 90W heating element gets food piping hot in 25–30 minutes, not just warm"
   - "3.5L capacity with 2 removable stainless steel containers — actually fits a full adult meal"
   - "Leak-proof silicone gasket and secure latches survive commutes without spills"
-cons:
+cons: 
   - "Heating requires a wall outlet; no 12V car adapter included for road warriors"
   - "Slightly bulky at 3.5L — won't fit slim messenger bags or small lockers"
+
 ---
 
 Let's cut through the noise: most electric lunch boxes are glorified food warmers that barely take the chill off your leftovers. The **Annie & Mia Design Electric Lunch Box** claims to be different — 90 watts, 3.5 liters, and two compartments. After digging through 225 ratings and the spec sheet, here's what actually matters.

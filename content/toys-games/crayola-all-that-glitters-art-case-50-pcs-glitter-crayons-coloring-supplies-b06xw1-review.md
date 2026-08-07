@@ -1,5 +1,6 @@
 ---
 
+
 title: "Crayola All That Glitters Art Case (50+pcs), Glitter Crayons"
 seo_title: "Crayola All That Glitters Art Case Review: 50+ Pcs of Sparkle"
 meta_description: "Crayola All That Glitters Art Case review: 50+ glitter crayons, markers & supplies in a fold-out case. See what sparkles, what smudges, and who should buy."
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06XW16JWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rljvkrwtL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine glitter payoff in crayons and markers — colors show actual sparkle on paper, not subtle shimmer"
   - "Sturdy fold-out case with elastic closures keeps all 50+ pieces organized and portable"
   - "Includes 8 full-size glitter crayons plus standard colors, giving real variety for under $20 inch"
-cons:
+cons: 
   - "Glitter particles shed during use — expect sparkly crumbs on tables and floors that need cleanup"
   - "Case inserts are molded plastic; crayons fit snugly but markers can be tight for small hands to remove"
   - "Some glitter crayons produce lighter color coverage than standard crayons due to glitter content"
+
 
 ---
 

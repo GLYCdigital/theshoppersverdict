@@ -1,4 +1,5 @@
 ---
+
 title: "Altman Plants, Live Succulents Plants"
 seo_title: "Altman Plants Live Succulents Review: Worth It? (2026)"
 meta_description: "Honest Altman Plants live succulents review: quality, packaging, survival rate, and value. See what 225 buyers say before you order."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C5LRTR9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vUMYd2piL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plants arrive healthy and well-rooted in 2-inch nursery pots, not bare-root or dried out"
   - "Variety packs include uncommon species like Echeveria, Haworthia, and Graptopetalum you won't find at big-box stores"
   - "Each plant arrives labeled with care instructions — rare for online succulent sellers"
-cons:
+cons: 
   - "No size guarantee — some buyers report receiving very small 1-inch plugs despite photos showing mature plants"
   - "Soil is dense peat-based that holds moisture too long; repotting into gritty mix is recommended within the first week"
   - "Shipping is slow (5-7 days) and cold-weather buyers risk frost damage without a heat pack option"
+
 ---
 
 ## You're One Click Away From a Box of Live Plants — Here's What Actually Shows Up

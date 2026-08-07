@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement for Delta Classic 13 Series Single-Function Trim"
 seo_title: "Replacement for Delta Classic 13 Series Single-Fun Review"
 meta_description: "Our full replacement for delta classic 13 series single-function trim review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9L6G17K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jArzokySL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a wall plate that's cracked, a handle that wobbles, and a finish that's flaking after a decade of hard water. The Delta Classic 13 series valve in your wall is still perfectly fine—it's just the trim that's shot. Delta wants $80+ for a genuine replacement. This aftermarket trim runs about half that. But is saving $40 worth risking a poor fit on a fixture you'll touch every day?

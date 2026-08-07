@@ -1,4 +1,5 @@
 ---
+
 title: "Vesgantti Mattress Pillow Top 2 New"
 seo_title: "Vesgantti Mattress Pillow Top 2 New Review: Verdict | TSV"
 meta_description: "Our full vesgantti mattress pillow top 2 new review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CWGZ115W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WFkSTfwdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Vesgantti Mattress Pillow Top 2 New: The Honest Breakdown

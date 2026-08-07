@@ -1,4 +1,5 @@
 ---
+
 title: "WORX Cordless String Trimmer & Lawn Edger, 12'' Electric Wee"
 seo_title: "WORX Cordless String Trimmer & Lawn Edger, 12'' El Review"
 meta_description: "Our full worx cordless string trimmer & lawn edger, 12'' electric wee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GRTZC479/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most cordless trimmers under $100 are toys. The WORX 12'' Cordless String Trimmer & Lawn Edger, however, occupies a strange middle ground — it’s light enough to feel like a toy, but it cuts like a real tool. After digging through 220 Amazon ratings (4.4 stars) and cross-referencing buyer experiences, here’s what you actually need to know before spending your money.

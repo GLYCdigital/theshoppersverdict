@@ -1,4 +1,5 @@
 ---
+
 title: "Swimming Pool Liner Patch Repair Kit with Extra Large 2'x2' "
 seo_title: "Swimming Pool Liner Patch Repair Kit with Extra La Review"
 meta_description: "Our full swimming pool liner patch repair kit with extra large 2'x2'  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CW3MGD4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516v0+hksML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a tear in your pool liner, you’re staring down two options: a $200+ service call or a $25 repair kit. This one from the brand behind the 2'x2' extra-large patch promises the DIY route. With a 3.8-star average across 190 ratings, it’s not a home run — but it might be enough to get you through the season. Let’s dig into what you actually get.

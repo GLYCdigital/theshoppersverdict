@@ -1,4 +1,5 @@
 ---
+
 title: "Ohtomber 22OZ Coffee Canister Storage Container"
 seo_title: "Ohtomber 22OZ Coffee Canister Storage Container Review: V"
 meta_description: "Our full ohtomber 22oz coffee canister storage container review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4PVX84B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616fP0ntBBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've bought expensive coffee beans, only to watch them go stale in a flimsy bag with a folded-top seal. The Ohtomber 22OZ Canister promises to fix that, and at a 4.6-star average across 229 ratings, it's clearly doing something right. But is it the right canister for your counter? Let's break it down.

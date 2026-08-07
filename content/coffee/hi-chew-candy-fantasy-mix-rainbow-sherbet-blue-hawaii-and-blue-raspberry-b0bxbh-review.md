@@ -1,4 +1,5 @@
 ---
+
 title: "Hi Chew Candy Fantasy Mix - Rainbow Sherbet, Blue Hawaii, an"
 seo_title: "Hi Chew Candy Fantasy Mix - Rainbow Sherbet, Blue  Review"
 meta_description: "Our full hi chew candy fantasy mix - rainbow sherbet, blue hawaii, an review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXBHW6Z2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NxjnNdBZL._SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about what this is: Hi Chew's Fantasy Mix is a candy product, not coffee gear. But it's the kind of thing you *want* next to your espresso machine or pour-over station — a bright, chewy palate cleanser between cups. And honestly, it might be the best thing to happen to your coffee corner since you stopped using tap water.

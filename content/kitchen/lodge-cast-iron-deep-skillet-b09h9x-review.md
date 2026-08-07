@@ -1,4 +1,5 @@
 ---
+
 title: "Lodge Cast Iron Deep Skillet"
 seo_title: "Lodge Cast Iron Deep Skillet Review: Verdict | TSV"
 meta_description: "Our full lodge cast iron deep skillet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09H9X835X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Rjq4oIbBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lodge Deep Skillet is the answer to a question you didn't know you had: what if a cast iron pan could also be a Dutch oven's lighter, more maneuverable cousin? At first glance, it looks like a standard 10.25-inch skillet that's been stretched taller. But that extra inch and a half of wall height changes everything about how you cook.

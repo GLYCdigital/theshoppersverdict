@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns L-Shaped Executive Desk with Reversible File Cabi"
 seo_title: "Tribesigns L-Shaped Executive Desk with Reversible Review"
 meta_description: "Our full tribesigns l-shaped executive desk with reversible file cabi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQJN1SM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/919k1UWkoJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some desks try to be everything to everyone and end up mediocre at all of it. The Tribesigns L-Shaped Executive Desk with Reversible File Cabinet takes a different approach — it commits to a specific layout and executes it well. After digging through 210 ratings and the spec sheet, here's what actually matters if you're considering this for your home office.

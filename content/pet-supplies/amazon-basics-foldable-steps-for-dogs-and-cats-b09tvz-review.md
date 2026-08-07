@@ -1,23 +1,25 @@
 ---
+
 title: "Amazon Basics Foldable Steps for Dogs and Cats"
 seo_title: "Amazon Basics Foldable Pet Steps Review (2026) – Worth It?"
 meta_description: "Amazon Basics Foldable Steps for Dogs and Cats review: real buyer insights, weight limits, stability issues, and who should buy. Honest 4.2/5 verdict."
 slug: "amazon-basics-foldable-steps-for-dogs-and-cats-b09tvz-review"
 image_alt: "Amazon Basics Foldable Pet Steps with non-slip surface and lightweight aluminum frame"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09TVZGKBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71loJp1lcCL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Folds flat to 2 inches thick – stores easily under sofas or in closets"  
   - "Non-slip tread covers every step; grippy even for senior pets with weak hips"  
   - "Holds up to 150 lbs – tested by multiple reviewers with 70+ lb dogs"  
-cons:  
+cons: 
   - "Feet have no rubber grips – slides on hardwood floors unless you add adhesive pads"  
   - "Steps are narrow (12.5 inches wide) – larger breeds need to angle their paws"
+
 ---
 
 **Is this the ramp your aging pup needs, or a wobbly waste of $40?** With 215 ratings averaging 4.3 stars, the Amazon Basics Foldable Steps are clearly doing something right. But as with most budget pet gear, the devil is in the details — and the details here are mostly good, with a few gotchas worth knowing before checkout.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fitwarm Thermal Knitted Dog Sweater Doggy Winter Coat Pet Cl"
 seo_title: "Fitwarm Knitted Dog Sweater Review: Warm Winter Coat for Small Dogs"
 meta_description: "Honest Fitwarm Thermal Knitted Dog Sweater review: Warm turtleneck winter coat for small dogs. Real owner feedback on fit, warmth & durability."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09HWVBPTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iQ8rJq9aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely warm knitted fabric that holds heat without bulk"
   - "Turtleneck collar provides extra neck/chest coverage small dogs need"
   - "Stretchy knit accommodates a range of body shapes and sizes"
-cons:
+cons: 
   - "Cable knit loops can snag on claws and rough play"
   - "Hand-wash only — machine washing will shrink it fast"
   - "Sizing runs small; measure your dog before ordering"
+
 ---
 
 Let's be honest: most dog sweaters are either too flimsy to matter or so bulky your pup waddles like a penguin. The Fitwarm Thermal Knitted Dog Sweater sits in a rare middle ground — it's actually warm, it actually fits, and it doesn't look like you dressed your dog from a dumpster. With 225 ratings averaging 4.5 stars, this is one of the more reliable budget-friendly options for small breeds heading into cold weather.

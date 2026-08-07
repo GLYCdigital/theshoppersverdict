@@ -1,4 +1,5 @@
 ---
+
 title: "MOON LENCE Pop Up Tent 3-4 Person, 60s Instant Setup Camping"
 seo_title: "MOON LENCE Pop Up Tent 3-4 Person, 60s Instant Set Review"
 meta_description: "Our full moon lence pop up tent 3-4 person, 60s instant setup camping review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C2XNR4T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G3Bfu3T7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a "60-second instant setup tent" really means. Most of them are gimmicks — you still wrestle with tangled poles and fight the rainfly for ten minutes. The MOON LENCE 3-4 person pop-up is different, and the reason is in the engineering, not the marketing.

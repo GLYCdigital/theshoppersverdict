@@ -1,4 +1,5 @@
 ---
+
 title: "ANZZI Shower Door AZ09 Master Variation"
 seo_title: "ANZZI Shower Door AZ09 Review: Master Variation (2026)"
 meta_description: "ANZZI Shower Door AZ09 Master Variation review: tempered glass, brushed nickel finish, and easy install. Is it worth it? Find out pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHTVVBPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qstOs8lbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5/8-inch tempered glass with a polished edge — noticeably sturdier than the 1/4-inch panels most competitors ship at this price point"
   - "Fully reversible design; hinges can be mounted left or right, so you don't gamble on opening direction before you buy"
   - "Branded ANZZI hardware in brushed nickel resists water spots and fingerprints far better than the cheap chrome found on budget doors"
-cons:
+cons: 
   - "Installation is not a one-person job; the glass panel weighs roughly 85 pounds and needs two people to align the hinges safely"
   - "The included sweep and bottom seal are functional but thin — several buyers replace them within a year to stop minor drips"
+
 ---
 
 The ANZZI AZ09 Master Variation walks a tightrope between "cheap builder-grade door" and "boutique frameless glass." At 4.4 stars across 220 ratings, it's clearly doing something right. But let's be blunt: a shower door is a permanent fixture. You don't want to learn about its flaws after the silicone cures. Here's the real story.

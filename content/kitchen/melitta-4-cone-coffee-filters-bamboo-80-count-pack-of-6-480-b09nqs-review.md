@@ -1,4 +1,5 @@
 ---
+
 title: "Melitta #4 Cone Coffee Filters, Bamboo, 80 Count (Pack Of 6)"
 seo_title: "Melitta #4 Cone Coffee Filters, Bamboo, 80 Count ( Review"
 meta_description: "Our full melitta #4 cone coffee filters, bamboo, 80 count (pack of 6) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09NQS89V5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lyzjlq8hL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Shopper's Verdict: Melitta #4 Cone Coffee Filters, Bamboo (480 Count)**

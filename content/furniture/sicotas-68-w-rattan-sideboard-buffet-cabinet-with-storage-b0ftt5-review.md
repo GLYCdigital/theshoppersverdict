@@ -1,7 +1,8 @@
 ---
-title: "SICOTAS 68\" W Rattan Sideboard Buffet Cabinet with Storage"
-seo_title: "SICOTAS 68\" W Rattan Sideboard Buffet Cabinet with Review"
-meta_description: "Our full sicotas 68\" w rattan sideboard buffet cabinet with storage review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SICOTAS 68\ W Rattan Sideboard Buffet Cabinet with Storage"
+seo_title: "SICOTAS 68\ W Rattan Sideboard Buffet Cabinet with Review"
+meta_description: "Our full sicotas 68\ w rattan sideboard buffet cabinet with storage review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sicotas-68-w-rattan-sideboard-buffet-cabinet-with-storage-b0ftt5-review"
 image_alt: "SICOTAS 68 W Rattan Sideboard Buffet Cabinet with Storage"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTT54NM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EthJi8X2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "rattan" furniture sold on Amazon is printed MDF pretending to be natural fiber. The SICOTAS 68" sideboard is not that. This is actual woven rattan stretched over a solid wood frame, and it makes a visible difference in person.

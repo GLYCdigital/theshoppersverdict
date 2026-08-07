@@ -1,4 +1,5 @@
 ---
+
 title: "GTPLAYER Gaming Chair, Computer Chair with Mesh Back, Ergono"
 seo_title: "GTPLAYER Gaming Chair Review: Mesh Back Comfort (2026)"
 meta_description: "Honest GTPLAYER gaming chair review: breathable mesh back, ergonomic support, build quality, and who should buy it. 4.5-star rated, 225+ reviews."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGHWFC45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t7adYQpRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Breathable mesh backrest prevents the dreaded swamp-back during long sessions — real airflow, not just marketing"
   - "Fully adjustable lumbar support and 4D armrests that actually lock into place without wobble"
   - "Solid steel frame rated for 300 lbs, with a smooth-rolling base that doesn't scratch hardwood floors"
-cons:
+cons: 
   - "Seat cushion runs firm for the first two weeks — needs a break-in period before it softens"
   - "Assembly requires two people for the backrest-to-seat connection; the bolt alignment is finicky"
   - "Headrest pillow attaches with basic elastic straps that slip if you lean back hard"
+
 ---
 
 Most "gaming chairs" are just racing buckets wrapped in bonded leather that turn your back into a sweat lodge by hour two. The GTPLAYER Ergono takes a different path — and that's exactly why it's worth your attention.

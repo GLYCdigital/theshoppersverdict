@@ -1,4 +1,5 @@
 ---
+
 title: "L'Oreal Paris Makeup Lineur Intense Felt Tip Liquid Eyeliner"
 seo_title: "L'Oreal Paris Makeup Lineur Intense Felt Tip Liqui Review"
 meta_description: "Our full l'oreal paris makeup lineur intense felt tip liquid eyeliner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FYPGZDKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41AxBlNavDL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What you're actually paying for**

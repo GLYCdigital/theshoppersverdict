@@ -1,4 +1,5 @@
 ---
+
 title: "HUBBA BUBBA Minis SKITTLES Flavored Bubble Gum"
 seo_title: "HUBBA BUBBA Minis SKITTLES Flavored Bubble Gum Review: Ve"
 meta_description: "Our full hubba bubba minis skittles flavored bubble gum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2NTBCYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Q17UAiiOL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've chewed a lot of gum in my day, and most "candy-flavored" bubble gums are a marketing lie. The flavor lasts ninety seconds, the texture turns to chalk, and you're left with a mouthful of regret. The HUBBA BUBBA Minis Skittles Flavored Bubble Gum is not that. But it's also not perfect, and here's the full story before you add it to your cart.

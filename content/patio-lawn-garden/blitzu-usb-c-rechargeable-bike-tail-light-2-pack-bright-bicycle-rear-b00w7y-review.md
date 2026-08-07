@@ -1,4 +1,5 @@
 ---
+
 title: "BLITZU USB-C Rechargeable Bike Tail Light 2 Pack, Bright Bic"
 seo_title: "BLITZU USB-C Bike Tail Light 2 Pack Review: Bright & Reliable"
 meta_description: "Honest BLITZU USB-C rechargeable bike tail light 2-pack review: brightness, battery life, mounting, and durability tested. Is it worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00W7Y27CQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7141KhlG6aL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "USB-C charging means one less cable type to carry — most riders already have one for their phone"
   - "Two lights in the pack for roughly the price of one premium unit — excellent value for multi-bike households"
   - "Multiple brightness modes including a daylight strobe that's genuinely visible in full sun"
-cons:
+cons: 
   - "Battery life on the brightest steady mode is short — roughly 2.5 hours, so plan charging for long rides"
   - "Rubber strap mount works fine on standard seatposts but can slip on aero or oddly-shaped posts"
+
 ---
 
 Let’s be plain about what this is: a pair of USB-C rechargeable bike tail lights that cost less than a single premium unit from the big brands. The question isn’t whether they’re cheap — it’s whether they’re *good enough* to trust with your visibility on the road. At 4.6 stars from 229 ratings, the crowd says yes. Here’s the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Huel Energy+ | Refreshing Plant-Based Drink with Real Fruit "
 seo_title: "Huel Energy+ | Refreshing Plant-Based Drink with R Review"
 meta_description: "Our full huel energy+ | refreshing plant-based drink with real fruit  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DSGJ37CY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vkozA1sOL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen the marketing: plant-based, real fruit, 200mg of caffeine. But does Huel Energy+ actually deliver, or is it another overpriced wellness drink? I tested it over two weeks — here's the unvarnished truth.

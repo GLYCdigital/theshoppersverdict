@@ -1,4 +1,5 @@
 ---
+
 title: "Copper Creek Egg Door Knob"
 seo_title: "Copper Creek Egg Door Knob Review: Worth It? (2026)"
 meta_description: "Copper Creek Egg Door Knob review: 4.5-star rated passage knob. We break down build quality, finish durability, and installation. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B2CJV97L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510lCVaSRSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a substantial 2.4 lb weight — feels premium, not hollow"
   - "Smooth, quiet turn action with a soft spring-back; no cheap rattling or wobble"
   - "Finish options (satin nickel, oil-rubbed bronze) hold up well against fingerprints and cleaning products"
-cons:
+cons: 
   - "Latch mechanism requires a firm push to fully engage; some users report a slight 'catch' if not aligned perfectly"
   - "No privacy lock version available — passage-only function limits where you can use it"
+
 ---
 
 Let’s be blunt: most door knobs on Amazon are flimsy, hollow-feeling afterthoughts that you install, forget, and replace in two years. The Copper Creek Egg Door Knob is not that. With a 4.5-star average across 225 ratings, it’s earned a reputation as the budget-friendly upgrade that punches above its price class. But is it right for your doors? Here’s the full breakdown.

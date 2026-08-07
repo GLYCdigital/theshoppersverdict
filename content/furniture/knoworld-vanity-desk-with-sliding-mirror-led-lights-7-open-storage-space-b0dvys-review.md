@@ -1,4 +1,5 @@
 ---
+
 title: "knoworld Vanity Desk with Sliding Mirror & LED Lights, 7 Ope"
 seo_title: "knoworld Vanity Desk with Sliding Mirror & LED Lig Review"
 meta_description: "Our full knoworld vanity desk with sliding mirror & led lights, 7 ope review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVYS1KT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S1MIqHryL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Knoworld Vanity Desk With Sliding Mirror LED Lights: A Smart Space-Saver That Earns Its Keep

@@ -1,4 +1,5 @@
 ---
+
 title: "BUSH'S BEST Beans, Source of Plant Based Protein and Fiber,"
 seo_title: "BUSH'S BEST Beans Review: Plant Protein & Fiber (2026)"
 meta_description: "Honest BUSH'S BEST Beans review: plant-based protein, fiber content, taste, and texture. See if these canned beans earn their 4.6-star rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BRZLDCR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e9c7HxrkL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent, firm bean texture that holds up in soups and chilis without turning mushy"
   - "Clean ingredient list with no artificial preservatives — just beans, water, and minimal seasoning"
   - "Reliable 8g protein and 6g fiber per serving, making plant-based meal prep genuinely easy"
-cons:
+cons: 
   - "Sodium content runs high at 480mg per serving — not ideal if you're watching salt intake"
   - "Some buyers report occasional undercooked beans in certain batches, requiring extra simmering"
   - "Can size is standard 16oz but drained weight is only 8.5oz, so you're paying for a lot of liquid"
+
 ---
 
 You're standing in the canned goods aisle, staring at a wall of beans, and every label claims to be the "best." But BUSH'S BEST has been around since 1908 for a reason — and this particular offering, positioned as a plant-based protein and fiber source, has earned a 4.6-star rating across 229 Amazon reviews. Here's what you actually need to know before adding it to your cart.

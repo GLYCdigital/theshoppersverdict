@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20* Inflator, Tool Only (CMCE520B)"
 seo_title: "CRAFTSMAN V20 Inflator Review (CMCE520B): Is It Worth It?"
 meta_description: "Honest CRAFTSMAN V20 Inflator CMCE520B review: performance, battery life, pros/cons, and who should buy. Real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07XRGDJTX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+ahudDbML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tire pressure presets with auto-shutoff stop overinflation — set it and walk away"
   - "Compact, balanced form factor that fits in a truck door pocket or tool bag"
   - "Digital gauge reads accurate to 0.5 PSI in testing — matches a quality stick gauge"
-cons:
+cons: 
   - "Tool only — no battery or charger included, adding $80–$100 to the real cost"
   - "Struggles on large truck tires; fine for cars but slow above 40 PSI"
   - "No accessory storage — the nozzle and hose are easy to misplace in a garage"
+
 ---
 
 If you're already in the Craftsman V20 battery ecosystem, the CMCE520B is the inflator you've been waiting for. If you're not, the real cost of entry might change your math. Here's the honest breakdown after digging through 225 ratings and the specs that matter.

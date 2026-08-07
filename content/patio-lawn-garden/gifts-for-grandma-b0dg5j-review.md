@@ -1,4 +1,5 @@
 ---
+
 title: "Gifts for Grandma"
 seo_title: "Gifts for Grandma Review: Patio Garden Set Worth It?"
 meta_description: "Honest Gifts for Grandma review: a 4.9-star patio garden set. See what buyers love, where it falls short, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DG5JZDM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pabgpHPEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weatherproof resin construction holds up through rain, snow, and direct sun without fading or cracking"
   - "Sentimental engraved message and floral artwork that reads as genuinely heartfelt, not mass-produced"
   - "Compact 6-inch size fits flower beds, patio corners, or porch shelves without dominating the space"
-cons:
+cons: 
   - "Arrives with a strong chemical odor that lingers for several days after unboxing"
   - "Not suitable for mounting on walls or fences — designed strictly as a ground or shelf piece"
+
 ---
 
 **The Short Version: A Sentimental Garden Stone That Earns Its Keep**

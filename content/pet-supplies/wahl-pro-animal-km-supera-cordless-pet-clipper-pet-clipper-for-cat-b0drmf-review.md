@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl Pro Animal KM Supera Cordless Pet Clipper - Pet Clipper"
 seo_title: "Wahl Pro Animal KM Supera Cordless Pet Clipper - P Review"
 meta_description: "Our full wahl pro animal km supera cordless pet clipper - pet clipper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRMFPY4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617hLd40rmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Wahl KM Supera is a serious piece of hardware pretending to be a cordless clipper.** It's the wireless version of the workhorse KM2 that professional groomers have trusted for years, and it brings real torque to the table. But "cordless" doesn't mean "effortless," and there are some tradeoffs you need to know about before dropping your money.

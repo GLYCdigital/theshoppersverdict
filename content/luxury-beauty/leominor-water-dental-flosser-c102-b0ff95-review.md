@@ -1,4 +1,5 @@
 ---
+
 title: "Leominor Water Dental Flosser C102"
 seo_title: "Leominor Water Dental Flosser C102 Review: Verdict | TSV"
 meta_description: "Our full leominor water dental flosser c102 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FF958VZY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EZFIBqwHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, I'll be straight with you: most cordless water flossers under $50 are either too weak to do anything or leak water all over your sink. The Leominor C102 sits in a crowded middle ground, and after digging through 210 ratings and testing the specs, here's the real story.

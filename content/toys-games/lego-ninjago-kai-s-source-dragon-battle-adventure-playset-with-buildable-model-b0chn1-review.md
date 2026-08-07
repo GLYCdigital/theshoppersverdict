@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Kaiâ€™s Source Dragon Battle Adventure Playset "
 seo_title: "LEGO NINJAGO Kaiâ€™s Source Dragon Battle Adventur Review"
 meta_description: "Our full lego ninjago kaiâ€™s source dragon battle adventure playset  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CHN1G59X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Zskm++4JL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the NINJAGO Set Your Kid Actually Wants?

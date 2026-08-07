@@ -1,4 +1,5 @@
 ---
+
 title: "Dreamholder Desk Lamp with 3 USB Charging Ports, 2 AC Outlet"
 seo_title: "Dreamholder Desk Lamp Review: USB Ports & AC Outlets (2026)"
 meta_description: "Dreamholder Desk Lamp with 3 USB ports & 2 AC outlets: Our honest review covers brightness, build quality, charging speeds, and whether it's worth your desk space."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08BZM4QJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gS7eQRO7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five powered ports (3 USB-A + 2 AC) in a compact base that actually stays stable with the included mounting clamp"
   - "Three color temperature modes and stepless dimming from 10% to 100%, controlled by a single touch sensor"
   - "Integrated 2.1A USB output charges a modern smartphone to roughly 50% in about 40 minutes without dropping the lamp's brightness"
-cons:
+cons: 
   - "AC outlets are ungrounded (2-prong), so sensitive electronics like desktop PC power supplies won't get a proper ground reference"
   - "USB ports are USB-A only — no USB-C PD, so newer laptops or fast-charging phones won't hit their full charging speed"
   - "Touch controls require a deliberate tap; brushing past the base accidentally cycles through modes instead of turning the lamp off"
+
 ---
 
 ## The Desk Lamp That Doubles as a Power Strip — But Is It Actually Good?

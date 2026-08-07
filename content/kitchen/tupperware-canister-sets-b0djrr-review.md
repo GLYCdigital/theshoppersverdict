@@ -1,4 +1,5 @@
 ---
+
 title: "Tupperware - Canister Sets"
 seo_title: "Tupperware - Canister Sets Review: Verdict | TSV"
 meta_description: "Our full tupperware - canister sets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJRRDY49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zHhsU2xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There's a reason Tupperware has survived seven decades while countless "As Seen on TV" storage brands have come and gone. The brand's canister sets — like this one from their current lineup — still do the one thing that matters most: keep food fresh. But at a premium price, you deserve to know exactly what you're paying for before you click buy.

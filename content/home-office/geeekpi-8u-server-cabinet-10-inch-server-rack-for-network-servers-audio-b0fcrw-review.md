@@ -1,4 +1,5 @@
 ---
+
 title: "GeeekPi 8U Server Cabinet, 10 inch Server Rack for Network, "
 seo_title: "GeeekPi 8U Server Cabinet, 10 inch Server Rack for Review"
 meta_description: "Our full geeekpi 8u server cabinet, 10 inch server rack for network,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCRW3YD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aJd+USIXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your network setup has outgrown a shelf but doesn't justify a full 19-inch rack, the GeeekPi 8U is the sweet spot. This 10-inch mini server cabinet packs enterprise features into a desktop-sized footprint — and for the most part, it delivers exactly what home labbers and small office users need.

@@ -1,4 +1,5 @@
 ---
+
 title: "HP 17t-CN300 Personal Laptop, 2025, Free Lifetime Office 202"
 seo_title: "HP 17t-CN300 Personal Laptop, 2025, Free Lifetime  Review"
 meta_description: "Our full hp 17t-cn300 personal laptop, 2025, free lifetime office 202 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F5P58JV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lckke0U-L._AC_SL1423_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The big-screen laptop that quietly makes sense — if you know what you're giving up.**

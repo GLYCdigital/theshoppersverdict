@@ -1,4 +1,5 @@
 ---
+
 title: "Widluth Hand-Woven Rattan Chandelier"
 seo_title: "Widluth Hand-Woven Rattan Chandelier Review: Verdict | TS"
 meta_description: "Our full widluth hand-woven rattan chandelier review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3L69HLQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PuvmhV-qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Widluth Hand-Woven Rattan Chandelier the boho centerpiece your space needs — or a dusty hassle waiting to happen? After digging through 235 verified buyer experiences, here's the real story.**

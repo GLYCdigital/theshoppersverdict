@@ -1,4 +1,5 @@
 ---
+
 title: "Color Gradient Adjustable Bike Helmet with Knee and Elbow Pa"
 seo_title: "Color Gradient Bike Helmet with Knee & Elbow Pads Review"
 meta_description: "Honest review of the Color Gradient Adjustable Bike Helmet with knee and elbow pads. 4.7★ rated. Is it safe, durable, and worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D98SWVML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VD82DKZrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multi-shell construction with EPS foam core absorbs impact better than single-layer helmets at this price point"
   - "360° reflective trim on the shell improves visibility during dusk rides"
   - "Gradient color finish resists scratches and doesn't peel after regular use"
-cons:
+cons: 
   - "Velcro straps on knee/elbow pads loosen after 15-20 wears and need re-sewing"
   - "Head circumference adjustment dial maxes out around 54cm — won't fit older kids with larger heads"
+
 ---
 
 Look, I've tested my share of "complete protection kits" for kids, and most of them are cheap plastic junk that falls apart in a month. The **Color Gradient Adjustable Bike Helmet with Knee and Elbow Pads** is genuinely different. At 4.7 stars from 235 verified buyers, this isn't a gamble — it's a solid investment for parents of toddlers and young kids learning to ride.

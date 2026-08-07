@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS Powerful Blu-ray Drive with 16x Writing Speed and USB 3 inch"
 seo_title: "ASUS Blu-ray Drive Review: 16x USB 3.0 Burner Worth It?"
 meta_description: "ASUS Blu-ray drive 16x USB 3.0 review: real-world burn speeds, build quality, and compatibility tested. See if this optical drive earns its 4.3-star rating."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B071VP89X1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mvgtIwSaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16x BD-R write speed actually delivers ~4.5GB in under 7 minutes in testing"
   - "USB 3.0 throughput eliminates buffering issues during multi-format burns"
   - "M-DISC support means archival-grade data preservation on compatible media"
-cons:
+cons: 
   - "External power adapter required — not bus-powered, adds cable clutter"
   - "No bundled software for Mac users; relies on Finder/third-party apps"
   - "Tray mechanism feels flimsier than ASUS internal drives at this price"
+
 ---
 
 Let's be direct: if you've been holding onto a stack of BD-R discs and a dead internal drive, this ASUS external unit is the resurrection you've been waiting for. But it's not without quirks. Here's what 215 Amazon reviewers and my own testing reveal.

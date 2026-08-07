@@ -1,4 +1,5 @@
 ---
+
 title: "ARCCAPTAIN PT31 Plasma Cutting Consumables Fit CUT-40 CUT-50 inch"
 seo_title: "ARCCAPTAIN PT31 Plasma Consumables Review: Worth It?"
 meta_description: "ARCCAPTAIN PT31 plasma cutting consumables review: fit, durability, and real-world performance for CUT-40/CUT-50 torches. See if they beat OEM parts."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CD7TVZ1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rFNHjfQyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full kit covers 20+ individual consumable pieces — electrodes, nozzles, shields, and swirl rings — so you won't reorder for months"
   - "Consistent arc starts and clean cuts on 1/4-inch steel in testing; tolerances match OEM PT31 specs"
   - "Costs roughly half what equivalent OEM consumable sets run, without the noticeable quality drop"
-cons:
+cons: 
   - "No carrying case included — the bag is thin and won't survive a tool box toss"
   - "Some batches show minor burrs on the swirl ring threads; check before install"
+
 ---
 
 Let's be blunt: plasma torch consumables are the hidden tax of owning a cutter. You pay $300+ for the machine, then discover the tips burn out faster than you'd like, and OEM replacements run $8–$12 a pop. That's where the ARCCAPTAIN PT31 kit steps in — a 20-plus piece bundle that claims to fit CUT-40 and CUT-50 torches for a fraction of the OEM cost. After digging through specs, user reports, and the 4.6-star rating across 229 reviews, here's the real story.

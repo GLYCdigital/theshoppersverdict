@@ -1,4 +1,5 @@
 ---
+
 title: "Jonathan Y SMB109A-210 Trebol Moroccan Trellis Textured Weav"
 seo_title: "Jonathan Y SMB109A-210 Trebol Moroccan Trellis Tex Review"
 meta_description: "Our full jonathan y smb109a-210 trebol moroccan trellis textured weav review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BFMNL9FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1V77GjOjuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Jonathan Y Trebol Moroccan Trellis Rug: A 4.6-Star Workhorse That Earns Its Keep

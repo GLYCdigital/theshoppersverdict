@@ -1,4 +1,5 @@
 ---
+
 title: "Duncan Hines Coffee Maker Review"
 seo_title: "Duncan Hines Coffee Maker Review (2026): Worth It? | Verdict"
 meta_description: "Duncan Hines coffee maker review: 4.1/5 stars from 204 buyers. We test brew quality, durability, and value. Find out if this budget brewer delivers."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08P6R3SLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vWUd5ypiL._SL1500_.jpg"
-pros:
+pros: 
   - "12-cup capacity with a clearly marked water window — no guessing on fill lines"
   - "Simple one-button operation with auto-shutoff at 2 hours; no programming maze"
   - "Brews hot (185–195°F) and finishes a full pot in about 8 minutes"
-cons:
+cons: 
   - "Carafe lid is stiff for the first month; requires two hands to pour cleanly"
   - "No programmable timer — if you want coffee waiting at 6 AM, look elsewhere"
   - "Warming plate runs hot; coffee scorches if left on past 45 minutes"
+
 ---
 
 **The Duncan Hines 12-Cup Coffee Maker: A No-Nonsense Brewer That Gets the Job Done**

@@ -1,4 +1,5 @@
 ---
+
 title: "OPI Drip Dry Polish Drying Drops | Nail Polish Quick Drying "
 seo_title: "OPI Drip Dry Polish Drying Drops | Nail Polish Qui Review"
 meta_description: "Our full opi drip dry polish drying drops | nail polish quick drying  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08NXGM7X5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51eiaqXDv6L._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever ruined a fresh manicure by reaching for your keys too soon, you know the pain. OPI Drip Dry promises to eliminate that window of vulnerability entirely — and based on the 4.6-star average across 229 Amazon ratings, it largely delivers. But is it worth the premium price for what's essentially a bottle of quick-dry oil? Let's dig in.

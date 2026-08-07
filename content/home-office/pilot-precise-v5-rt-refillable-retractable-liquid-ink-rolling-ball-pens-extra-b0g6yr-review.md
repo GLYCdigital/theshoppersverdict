@@ -1,4 +1,5 @@
 ---
+
 title: "PILOT Precise V5 RT Refillable & Retractable Liquid Ink Roll"
 seo_title: "PILOT Precise V5 RT Refillable & Retractable Liqui Review"
 meta_description: "Our full pilot precise v5 rt refillable & retractable liquid ink roll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G6YR7RXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ssiU4tFaL._SS100_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the PILOT Precise V5 RT is the pen you buy when you're done buying pens. This is the refillable, retractable evolution of the classic V5 that's been a desk drawer staple for decades. With a 4.8-star average across 240 ratings, it's clearly earning its keep. But is it actually worth swapping out your current everyday carry? Let's break it down.

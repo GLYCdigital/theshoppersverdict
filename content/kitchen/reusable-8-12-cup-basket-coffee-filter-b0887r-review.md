@@ -1,4 +1,5 @@
 ---
+
 title: "Reusable 8-12 Cup Basket Coffee Filter"
 seo_title: "Reusable 8-12 Cup Basket Coffee Filter Review: Verdict | "
 meta_description: "Our full reusable 8-12 cup basket coffee filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0887RSP7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812lt9hgteL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you brew a full pot every morning, you're burning through paper filters at a rate that adds up fast. This reusable 8-12 cup basket filter promises to eliminate that recurring cost—but only if it brews properly. After digging through the specs and 225 Amazon ratings, here's the real story.

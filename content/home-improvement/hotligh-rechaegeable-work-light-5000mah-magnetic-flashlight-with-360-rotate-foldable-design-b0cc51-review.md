@@ -1,4 +1,5 @@
 ---
+
 title: "HOTLIGH Rechaegeable Work Light, 5000mAh Magnetic Flashlight"
 seo_title: "HOTLIGH Rechaegeable Work Light, 5000mAh Magnetic  Review"
 meta_description: "Our full hotligh rechaegeable work light, 5000mah magnetic flashlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CC51Q3K2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jALjfWElL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOTLIGH Rechargeable Work Light Review: A 5000mAh Magnetic Beast That Actually Delivers

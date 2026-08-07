@@ -1,4 +1,5 @@
 ---
+
 title: "Mruikeny Magnetic Tiles Cars Construction Set - 4 PCS Magnet"
 seo_title: "Mruikeny Magnetic Tiles Cars Construction Set - 4  Review"
 meta_description: "Our full mruikeny magnetic tiles cars construction set - 4 pcs magnet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DZX3M8SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uhuB+VpjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Hook: More Than Just a Car**

@@ -1,4 +1,5 @@
 ---
+
 title: "iabifo Adjustable Heavy Duty Bookshelf, Industrial Wooden Op"
 seo_title: "iabifo Adjustable Heavy Duty Bookshelf, Industrial Review"
 meta_description: "Our full iabifo adjustable heavy duty bookshelf, industrial wooden op review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSJ6J9ST/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vw9LsZ19L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # iabifo Adjustable Heavy Duty Bookshelf: Industrial Storage That Actually Holds Up

@@ -1,4 +1,5 @@
 ---
+
 title: "TYMENSH Overdoor Organizer Straight Light Weight"
 seo_title: "TYMENSH Overdoor Organizer Straight Light Weight Review: "
 meta_description: "Our full tymensh overdoor organizer straight light weight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6BD2XCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rbRc+pMJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Stop digging through closets — this hangs on your door and just works

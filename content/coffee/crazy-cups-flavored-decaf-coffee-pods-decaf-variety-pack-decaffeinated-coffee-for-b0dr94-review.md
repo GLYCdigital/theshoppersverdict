@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Cups Flavored Decaf Coffee Pods, Decaf Variety Pack, D"
 seo_title: "Crazy Cups Decaf Variety Pack Review: Worth It? (2026)"
 meta_description: "Honest Crazy Cups flavored decaf coffee pods review: flavor breakdown, strength, value, and who should buy this 4.3-star variety pack."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR94NGHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KcMofhJuL._SL1500_.jpg"
-pros:
+pros: 
   - "12 distinct flavors in one box — actual variety, not just 3 flavors repeated"
   - "Decaf that doesn't taste like punishment — Swiss water process preserves real coffee character"
   - "Works in both Keurig 2.0 and standard 1.0 brewers without adapter fuss"
-cons:
+cons: 
   - "Flavor intensity varies wildly between pods — some taste strongly, others barely register"
   - "No strength control — you're locked into whatever Crazy Cups decided the brew ratio should be"
+
 ---
 
 Here's the thing about flavored decaf coffee: most of it tastes like someone waved a vanilla bean near a cup of hot water and called it a day. Crazy Cups actually tries harder than that, and for the most part, it pays off.

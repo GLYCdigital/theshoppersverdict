@@ -1,4 +1,5 @@
 ---
+
 title: "COOLJOB 3 Pairs Kids Gardening Gloves, Grippy Rubber Coated"
 seo_title: "COOLJOB Kids Gardening Gloves Review: Grippy & Durable (2026)"
 meta_description: "Honest COOLJOB kids gardening gloves review: 3 pairs, rubber-coated grip, sizes for ages 3-10. See pros, cons, and if they're worth buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MDNYTW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oCWGLpygL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three pairs per pack at a price that undercuts most single-pair kids' gloves"
   - "Full rubber coating extends past knuckles to wrist — real protection, not just palm dots"
   - "Sizes actually run true to the age chart; small fits 3-5 year olds without swimming"
-cons:
+cons: 
   - "Latex-based rubber coating — a dealbreaker if your child has a latex allergy"
   - "No breathable backing; sweaty hands on hot summer days"
   - "Cuff elastic is snug on chunky wrists; some kids need help pulling them on"
+
 ---
 
 Look, kids' gardening gloves are usually a gimmick. Flimsy knit fabric, cartoon prints, and zero actual grip — they fall apart before the first tomato ripens. The COOLJOB 3-pack flips that script. These are real work gloves shrunk down to kid size, with a rubber coating that actually grabs onto shovel handles and weed roots. For the price of a single pair of branded kids' gloves, you get three pairs in different colors. That's the headline.

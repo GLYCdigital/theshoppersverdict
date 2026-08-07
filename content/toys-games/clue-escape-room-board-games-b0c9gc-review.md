@@ -1,4 +1,5 @@
 ---
+
 title: "CLUE Escape Room Board Games"
 seo_title: "CLUE Escape Room Board Game Review: Worth It? (2026)"
 meta_description: "CLUE Escape Room board game review: 4.3-star rated mystery game. Is the mix of classic Clue and escape rooms worth your money? Find out here."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9GCM3PQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f4OqQvTZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Replayable across multiple scenarios — you're not locked into one mystery after a single playthrough"
   - "Clever hybrid mechanic that blends classic Clue deduction with hands-on puzzle solving"
   - "Setup is 5 minutes and plays in under an hour — fits a weeknight game session"
-cons:
+cons: 
   - "Card quality feels thinner than standard Clue decks — expect wear after repeated shuffling"
   - "Once you solve a scenario, there's little incentive to revisit it immediately"
   - "Requires 2+ players; solo fans will need to adapt the rules themselves"
+
 ---
 
 **CLUE Escape Room Board Games Review: When Deduction Meets Puzzle-Solving**

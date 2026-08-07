@@ -1,4 +1,5 @@
 ---
+
 title: "Brita Metro Water Filter Pitcher with SmartLight Change Indi"
 seo_title: "Brita Metro Pitcher Review: SmartLight Filter Indicator Worth It?"
 meta_description: "Brita Metro Water Filter Pitcher with SmartLight reviewed: Does the change indicator justify the price? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G2618LQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "SmartLight indicator takes the guesswork out of filter changes — no more marking calendars"
   - "Slim, space-saving footprint fits neatly on fridge shelves without dominating the door"
   - "BPA-free construction with a sturdy handle that feels solid even when full"
-cons:
+cons: 
   - "The SmartLight runs on batteries that require periodic replacement — an added ongoing cost"
   - "Pitcher capacity is on the smaller side for households that drink a lot of water daily"
   - "Some users report the lid doesn't snap as securely as older Brita models"
+
 ---
 
 **The Brita Metro: Smart Filter Changes, But Is It Worth the Upgrade?**

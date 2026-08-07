@@ -1,4 +1,5 @@
 ---
+
 title: "KMaiPem 6-Light Farmhouse Chandelier, Rustic Industrial Meta"
 seo_title: "KMaiPem 6-Light Farmhouse Chandelier, Rustic Indus Review"
 meta_description: "Our full kmaipem 6-light farmhouse chandelier, rustic industrial meta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRZWMXR3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LUPSSXtDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most chandeliers under $150 look like they belong in a hotel lobby clearance bin. The KMaiPem 6-Light Farmhouse Chandelier isn't that. This is a legitimately handsome fixture that pulls off the rustic-industrial look without screaming "Amazon special" from across the room. Currently sitting at 4.5 stars across 225 ratings, it's clearly earning its keep in real dining rooms and kitchens. Here's the full breakdown before you hand over your card.

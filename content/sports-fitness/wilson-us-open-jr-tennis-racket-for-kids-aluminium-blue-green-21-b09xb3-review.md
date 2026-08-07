@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson US Open Jr Tennis Racket, for Kids, Aluminium, Blue/G"
 seo_title: "Wilson US Open Jr Tennis Racket, for Kids, Alumini Review"
 meta_description: "Our full wilson us open jr tennis racket, for kids, aluminium, blue/g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09XB3GDVD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617PSwBcb0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A First Racquet That Won't Teach Bad Habits

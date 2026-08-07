@@ -1,4 +1,5 @@
 ---
+
 title: "Comnova Grill Cover - 600D BBQ Covers for Outdoor Grill Heav"
 seo_title: "Comnova Grill Cover Review: 600D Heavy-Duty Protection (2026)"
 meta_description: "Comnova 600D grill cover review: real durability, rain protection, and fit. See pros, cons, and who should buy this heavy-duty BBQ cover."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C5J1FQ4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nkqtkoZQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 600D heavy-duty polyester with waterproof PVC backing — not the flimsy 300D you see on cheaper covers"
   - "Adjustable straps with buckles on both sides keep it secure in high winds, even for larger grills"
   - "Heat-resistant inner lining on the top panel prevents melting when the grill is still warm"
-cons:
+cons: 
   - "No air vents — on humid days, trapped moisture can cause mildew if you cover a completely cold, wet grill"
   - "The black color fades to a grayish tone after 4–5 months of direct summer sun; cosmetic only, but worth noting"
+
 ---
 
 ## The Grill Cover That Actually Stays Put

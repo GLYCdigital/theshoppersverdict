@@ -1,4 +1,5 @@
 ---
+
 title: "3 Ring Binder 0.5 Inch, PANDRI 12 Pack 0.5-Inch Binder Fits"
 seo_title: "PANDRI 12 Pack 0.5 Inch Binder Review: Slim, Durable, Worth It?"
 meta_description: "PANDRI 12-pack 0.5-inch binders reviewed: slim profile, sturdy build, 4.6★ rating. See real pros, cons, and who should buy these budget office staples."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMTD8626/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hd5NvqtPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid front and back covers (polypropylene) hold their shape in backpacks and briefcases without bending"
   - "True 0.5-inch capacity — fits roughly 70–80 sheets of standard 20 lb paper without the rings jamming"
   - "Non-stick clear overlay pockets on the spine and front cover let you label without adhesive residue"
-cons:
+cons: 
   - "Ring mechanism is riveted, not replaceable — if you bend a ring, the whole binder is done"
   - "No interior document pockets on the inside covers, so loose handouts have nowhere to live"
   - "Spine label is a paper insert, not a clear view window — you'll need to tape it if you want a polished look"
+
 ---
 
 The 0.5-inch binder is the office equivalent of a compact car: nobody buys it for the thrill, but when you need to organize a 60-page manual or a semester's worth of handouts without hauling a two-inch tank, nothing else fits the job. The PANDRI 12-pack of half-inch binders is exactly that — a bulk box of slim, no-drama organization at a price that makes individual binder anxiety disappear. With a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the full picture before you click buy.

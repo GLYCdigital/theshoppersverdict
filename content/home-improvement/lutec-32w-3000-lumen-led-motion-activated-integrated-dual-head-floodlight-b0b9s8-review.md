@@ -1,4 +1,5 @@
 ---
+
 title: "LUTEC 32W 3000 Lumen LED Motion Activated Integrated Dual-He"
 seo_title: "LUTEC 32W 3000 Lumen LED Motion Activated Integrat Review"
 meta_description: "Our full lutec 32w 3000 lumen led motion activated integrated dual-he review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9S88V1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61An6ZMYClL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the 20 minutes I spent staring at my garage wall: the LUTEC 32W dual-head floodlight is a solid, no-nonsense motion light that does exactly what it promises — and nothing more. It's not the fanciest fixture on Amazon, but at this price point with 220 ratings averaging 4.4 stars, it's the kind of product that earns its keep through reliability rather than bells and whistles.

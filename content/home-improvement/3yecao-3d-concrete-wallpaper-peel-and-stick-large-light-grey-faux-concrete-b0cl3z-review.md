@@ -1,4 +1,5 @@
 ---
+
 title: "3yecao 3D Concrete Wallpaper Peel and Stick Large Light Grey"
 seo_title: "3yecao 3D Concrete Wallpaper Review: Peel & Stick Grey"
 meta_description: "Honest 3yecao 3D Concrete Wallpaper review: peel-and-stick texture, durability, and real-world flaws. Is this light grey faux finish worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CL3Z7H7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HeEzsC+fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3D texture with actual depth—not just a printed pattern—so it mimics real concrete at arm's length"
   - "Peel-and-stick application is forgiving; you can lift and reposition without tearing the material"
   - "Hides minor wall imperfections like small dings and patch jobs better than flat wallpaper"
-cons:
+cons: 
   - "Seams are visible if you don't overlap perfectly; the 3D texture makes alignment unforgiving on corners"
   - "Surface is not washable—mild wiping smears the finish, so keep it away from high-touch zones"
   - "Pattern repeat is large, so you'll waste 10-15% of each roll on offcuts when matching panels"
+
 ---
 
 **Is this faux concrete worth your wall? I tested the 3yecao 3D peel-and-stick in a rental living room—here's the honest breakdown.**

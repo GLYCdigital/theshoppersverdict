@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Z3-1BRL- Aurora Smart Bulb Dimmer, White"
 seo_title: "Lutron Z3-1BRL- Aurora Smart Bulb Dimmer, White Review: V"
 meta_description: "Our full lutron z3-1brl- aurora smart bulb dimmer, white review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RX8FWZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hkvswwGVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lutron Aurora Smart Bulb Dimmer solves a problem you didn't know you had: smart bulbs are great until someone flips the wall switch and kills power to your entire setup. Then your "smart" home becomes a dumb one, and you're walking across a dark room to fix it. The Aurora, shown in the product image, is a battery-powered dial that snaps directly over your existing toggle switch — turning it into a smart dimmer without touching a single wire.

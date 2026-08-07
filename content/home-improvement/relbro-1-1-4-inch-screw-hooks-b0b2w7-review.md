@@ -1,4 +1,5 @@
 ---
+
 title: "RELBRO 1-1/4 Inch Screw Hooks"
 seo_title: "RELBRO 1-1/4 Inch Screw Hooks Review: Verdict | TSV"
 meta_description: "Our full relbro 1-1/4 inch screw hooks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B2W7C5XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Jq3h6INFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You can buy a single screw hook at Home Depot for about two bucks, or you can buy this 50-pack from RELBRO for roughly the same price per hook as a pack of gum. That math alone gets most shoppers to the checkout page. But cheap hardware can mean stripped threads, bent hooks, and stuff crashing to the floor. So the real question is: are these actually any good, or just cheap?

@@ -1,4 +1,5 @@
 ---
+
 title: "MOZA CRP2 Load Cell Pedals and Clutch Pedal for Sim Racing D"
 seo_title: "MOZA CRP2 Load Cell Pedals and Clutch Pedal for Si Review"
 meta_description: "Our full moza crp2 load cell pedals and clutch pedal for sim racing d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSHXK46R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61scU1GE8uL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MOZA CRP2 Load Cell Pedals and Clutch Pedal for Sim Racing D: The Serious Sim Racer's Upgrade

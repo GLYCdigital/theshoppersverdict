@@ -1,4 +1,5 @@
 ---
+
 title: "D'vine Dev Terracotta Plant Pot with Drainage Hole and Sauce"
 seo_title: "D'vine Dev Terracotta Pot Review: Drainage, Saucer, Durability"
 meta_description: "Honest D'vine Dev terracotta plant pot review: drainage hole, saucer fit, durability, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6QY39YF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ekpz5+-BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine terracotta with a single drainage hole large enough to prevent waterlogging in heavy rain"
   - "Saucer fits snugly — no wobble, no water seepage on your patio or windowsill"
   - "Frost-resistant construction that survived a full winter outdoors in testing"
-cons:
+cons: 
   - "Slightly heavier than comparable pots at 2.8 lbs, making it awkward for hanging applications"
   - "The unglazed exterior develops white mineral stains within weeks if you use tap water"
+
 ---
 
 Look, most terracotta pots on Amazon are either too thin to survive a season or so thick they crack under temperature swings. The D'vine Dev Terracotta Plant Pot sits in a rare middle ground: it's genuinely functional, correctly proportioned, and comes with a saucer that actually fits. At 4.7 stars across 235 ratings, buyers agree — but let's get into the specifics that matter before you hand over your money.

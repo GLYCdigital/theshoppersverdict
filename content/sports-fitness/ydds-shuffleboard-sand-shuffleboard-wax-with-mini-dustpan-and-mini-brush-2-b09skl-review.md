@@ -1,4 +1,5 @@
 ---
+
 title: "YDDS Shuffleboard Sand - Shuffleboard Wax with Mini Dustpan "
 seo_title: "YDDS Shuffleboard Sand - Shuffleboard Wax with Min Review"
 meta_description: "Our full ydds shuffleboard sand - shuffleboard wax with mini dustpan  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09SKLLXLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814u88AtusL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're playing shuffleboard with bare wood, you're doing it wrong. The difference between a slow, sticky board and a fast, gliding game comes down to one thing: the sand. The YDDS Shuffleboard Sand with Mini Dustpan promises to fix your speed problem in one application. After digging through 225 ratings and testing the claims, here's what actually matters.

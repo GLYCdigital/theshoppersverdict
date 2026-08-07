@@ -1,4 +1,5 @@
 ---
+
 title: "Bed Bath & Beyond Concepts in Wood Double Wide Bookcase, 12 inch"
 seo_title: "Concepts in Wood Double Wide Bookcase Review (12 Shelves)"
 meta_description: "Honest review of the Bed Bath & Beyond Concepts in Wood Double Wide Bookcase with 12 shelves. Real buyer feedback, assembly tips, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07SW7RT4J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616Dt2TselL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine wood construction — not particleboard — at a price point where most competitors use engineered materials"
   - "12 shelves offer 48 linear inches of display space per row; enough for a serious book collection or curated decor"
   - "Double-wide design fits flush against walls; 30-inch depth footprint works in narrow rooms"
-cons:
+cons: 
   - "Assembly is a legitimate time commitment — expect 60-90 minutes with two people; cam locks are finicky"
   - "Finish is matte and light; shows dust and fingerprints quickly, especially on lower shelves"
   - "No backing panel — items can slide through from the back if you don't push them fully forward"
+
 ---
 
 If you've priced solid wood bookcases lately, you know the sting. A comparable piece from a dedicated furniture retailer runs $400–$600. This Concepts in Wood double wide from Bed Bath & Beyond sits well below that, and the 4.0-star average across 200 ratings tells you it's not perfect — but it might be the best value in the category right now.

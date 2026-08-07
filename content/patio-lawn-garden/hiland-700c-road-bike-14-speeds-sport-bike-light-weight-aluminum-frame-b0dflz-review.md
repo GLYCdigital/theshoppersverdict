@@ -1,4 +1,5 @@
 ---
+
 title: "HILAND 700C Road Bike, 14 Speeds Sport Bike, Light Weight Al"
 seo_title: "HILAND 700C Road Bike, 14 Speeds Sport Bike, Light Review"
 meta_description: "Our full hiland 700c road bike, 14 speeds sport bike, light weight al review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFLZTQBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-o7QEmcwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the HILAND 700C the budget road bike that actually delivers — or just another cheap frame with flashy specs?**

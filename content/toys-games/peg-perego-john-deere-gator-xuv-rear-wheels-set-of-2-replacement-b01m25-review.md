@@ -1,4 +1,5 @@
 ---
+
 title: "Peg Perego John Deere Gator XUV Rear Wheels - Set of 2 Repla"
 seo_title: "Peg Perego John Deere Gator XUV Rear Wheels - Set  Review"
 meta_description: "Our full peg perego john deere gator xuv rear wheels - set of 2 repla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01M2503XW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IxfjqoqBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Peg Perego John Deere Gator XUV has a rear wheel that's cracked, stripped, or just wobbling like a shopping cart, you're staring at the exact part you need. This is the genuine OEM replacement — not a universal fit, not a "works with most models" gamble. It's the factory wheel, full stop.

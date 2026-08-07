@@ -1,23 +1,25 @@
 ---
+
 title: "Annual Vehicle Inspection Report Form (Snap-Out Format, 3-Pl"
 seo_title: "Annual Vehicle Inspection Report Form Review: 3-Ply Snap-Out"
 meta_description: "Honest review of the 3-ply snap-out Annual Vehicle Inspection Report Form. See how it handles real fleet use, carbonless copies, and durability."
 slug: "annual-vehicle-inspection-report-form-snap-out-format-3-ply-carbonless-8-b0bjgj-review"
 image_alt: "3-ply carbonless annual vehicle inspection report form with snap-out separation"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BJGJ6CML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BfmqgQoFL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "3-ply carbonless design eliminates carbons—no smudged fingers or torn transfer sheets"  
   - "Snap-out format separates cleanly into three distinct copies (white, yellow, pink) for easy routing"  
   - "Standard 8.5″ x 11″ size fits existing binders and filing systems without special storage"  
-cons:  
+cons: 
   - "No perforation between sections—you must fold or cut to separate the inspection checklist from the summary block"  
   - "Limited to annual inspections—no space for quarterly or monthly follow-up notes"
+
 ---
 
 You manage a fleet of 15 vans and you're still using a spiral notebook to track DOT inspections? Stop. This 3-ply snap-out form is the kind of mundane office purchase that quietly saves you an hour a week and a pile of arguments with your auditor. At 4.8 stars across 240 ratings, it's clearly doing something right. Here's what that something is.

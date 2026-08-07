@@ -1,4 +1,5 @@
 ---
+
 title: "Moleskine Classic Notebook, Large, Plain, Black, Hard Cover "
 seo_title: "Moleskine Classic Notebook, Large, Plain, Black, H Review"
 meta_description: "Our full moleskine classic notebook, large, plain, black, hard cover  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/8883701143/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81BiGWHeIPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Moleskine Classic Large is the notebook you've seen tucked under a thousand arms in coffee shops and conference rooms. At $14.99 with a 4.7-star rating across 235 reviews, it's the benchmark against which every other hardcover notebook gets measured. The question isn't whether it's good — it's whether it's worth the premium over the competition. Here's the honest breakdown.

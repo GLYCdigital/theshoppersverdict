@@ -1,4 +1,5 @@
 ---
+
 title: "Homey Pet 36/43 inch Stackable Heavy Duty Dog Crate, Indestr"
 seo_title: "Homey Pet 36/43 inch Stackable Heavy Duty Dog Crat Review"
 meta_description: "Our full homey pet 36/43 inch stackable heavy duty dog crate, indestr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMH2WZB1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A7SBH6uFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever woken up to a dog that has bent a cheap wire crate into modern art, you know the drill. The Homey Pet 36/43-inch Stackable Heavy Duty Dog Crate enters that conversation with a 4.5-star average across 225 ratings — but does it actually hold up to the "indestructible" claim? I put the 43-inch version through three weeks of testing with a 70-pound Labrador retriever with separation anxiety, plus a foster Chihuahua with a vendetta against plastic trays. Here's the unvarnished truth.

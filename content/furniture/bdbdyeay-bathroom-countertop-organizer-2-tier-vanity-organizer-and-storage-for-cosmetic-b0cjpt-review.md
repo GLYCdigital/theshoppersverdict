@@ -1,4 +1,5 @@
 ---
+
 title: "BDBDYEAY Bathroom Countertop Organizer, 2 Tier Vanity Organi"
 seo_title: "BDBDYEAY 2-Tier Bathroom Organizer Review (2026) | Honest Verdict"
 meta_description: "BDBDYEAY 2-tier bathroom countertop organizer review: build quality, real-world fit, and whether it's worth your money. 4.7★ from 235 buyers."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJPT1242/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VCklsjioL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two-tier design reclaims vertical space — fits a surprising amount of tall bottles without hogging counter width"
   - "Sturdy metal frame with non-slip feet; doesn't wobble even when fully loaded with heavy glass serum bottles"
   - "Open wire construction means water drains and air circulates — no moldy buildup underneath products"
-cons:
+cons: 
   - "No drawers or enclosed storage — dust settles on products, and small items like bobby pins have no dedicated spot"
   - "Bottom tier clearance is tight (~4 inches); taller pump bottles won't fit underneath without removing the top shelf"
+
 ---
 
 ## Is this the countertop declutter you've been circling?

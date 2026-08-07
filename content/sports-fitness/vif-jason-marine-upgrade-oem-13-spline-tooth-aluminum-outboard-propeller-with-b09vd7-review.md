@@ -1,4 +1,5 @@
 ---
+
 title: "VIF Jason Marine Upgrade OEM 13 Spline Tooth Aluminum Outboa"
 seo_title: "VIF Jason Marine Upgrade OEM 13 Spline Tooth Alumi Review"
 meta_description: "Our full vif jason marine upgrade oem 13 spline tooth aluminum outboa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09VD72PL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51u7JBWTjIL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running a 40–115 HP outboard and you've been paying $150+ for OEM propellers, the VIF Jason Marine 13-spline aluminum prop is the kind of product that makes you wonder why you waited so long. This isn't a no-name knockoff — it's a precision-machined replacement that matches factory specs for Yamaha, Mercury, Suzuki, and Tohatsu gearcases, and at roughly half the price of dealer parts, it's earned its 4.6-star rating across 229 verified purchases.

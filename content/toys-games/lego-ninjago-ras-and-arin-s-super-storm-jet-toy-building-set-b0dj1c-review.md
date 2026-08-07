@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Ras and Arin's Super Storm Jet Toy - Building S"
 seo_title: "LEGO NINJAGO Ras and Arin's Super Storm Jet Toy -  Review"
 meta_description: "Our full lego ninjago ras and arin's super storm jet toy - building s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1CLJNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+Cq4NhVYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If your kid is deep into NINJAGO's current season, this jet delivers exactly what they want — two key characters, a swooshable ship, and a gimmick that actually works. It's not the most complex build, but it nails the fantasy.

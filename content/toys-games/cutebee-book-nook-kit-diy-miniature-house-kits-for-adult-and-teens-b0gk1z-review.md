@@ -1,4 +1,5 @@
 ---
+
 title: "CUTEBEE Book Nook Kit, DIY Miniature House Kits for Adult an"
 seo_title: "CUTEBEE Book Nook Kit Review: Worth It? (2026)"
 meta_description: "Honest CUTEBEE Book Nook Kit review: build quality, difficulty, LED lighting, and real buyer feedback. Is this DIY miniature house worth your money?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK1Z4N6L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UIIq-JLRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut wooden pieces fit precisely — no sanding or forcing required, which is rare in this price tier"
   - "Includes LED lighting with real wiring that actually works, adding a warm glow that transforms the finished piece"
   - "Instruction manual uses clear step-by-step photos, not just diagrams — significantly reduces assembly confusion"
-cons:
+cons: 
   - "Small parts (furniture legs, book spines) require tweezers and patience; not a casual evening project"
   - "LED wiring is delicate — several buyers report needing to re-solder connections if handled roughly during assembly"
+
 ---
 
 Let me be straight with you: most book nook kits under $50 are a gamble. Either the wood splinters, the instructions read like hieroglyphics, or the finished piece looks like a kindergarten craft project. The CUTEBEE Book Nook Kit sits at a 4.6-star average across 229 ratings, which suggests it's doing something right. After digging into what buyers actually say, here's the real story.

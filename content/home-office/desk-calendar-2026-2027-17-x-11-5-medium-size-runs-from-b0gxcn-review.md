@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Calendar 2026-2027 17 inch  x 11.5 inch  Medium Size Runs from Ju"
 seo_title: "Desk Calendar 2026-2027 Review: 17x11.5 Medium — Worth It?"
 meta_description: "Honest review of the 17 inch  x 11.5 inch  Desk Calendar 2026-2027. See real pros, cons, and who should buy this medium-size planner before you spend."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXCNK1S4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712RYhMykiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - 17 inch " x 11.5 inch " spread gives generous daily blocks — roughly 1.5 inch " x 1.25 inch " per day for writing
   - "Runs July 2026 through December 2027 — 18 months of coverage means you buy once and skip the mid-year scramble"
   - "Thick 120gsm paper holds up to gel pens and light marker without ghosting through the page"
-cons:
+cons: 
   - Won't fit standard 12 inch "-deep desks when open — measure your workspace first or it'll overhang the edge
   - "Month-at-a-glance only; no weekly or daily breakdown for people who need hourly scheduling"
+
 ---
 
 Most desk calendars force you into a compromise: big enough to write in, small enough to actually fit on your desk. This 17" x 11.5" medium-size option from the 2026–2027 lineup tries to split that difference. With a 4.7-star average across 235 ratings, it's clearly landing well for most buyers. But "most" isn't "all" — and there are a few things you should know before you click buy.

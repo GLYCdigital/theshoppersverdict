@@ -1,7 +1,8 @@
 ---
-title: "Ribilake 70\" Futon Sofa Bed, 4 in 1 Multi-Function Couch Sle"
-seo_title: "Ribilake 70\" Futon Sofa Bed, 4 in 1 Multi-Function Review"
-meta_description: "Our full ribilake 70\" futon sofa bed, 4 in 1 multi-function couch sle review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Ribilake 70\ Futon Sofa Bed, 4 in 1 Multi-Function Couch Sle"
+seo_title: "Ribilake 70\ Futon Sofa Bed, 4 in 1 Multi-Function Review"
+meta_description: "Our full ribilake 70\ futon sofa bed, 4 in 1 multi-function couch sle review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ribilake-70-futon-sofa-bed-4-in-1-multi-function-couch-sleeper-b0djr6-review"
 image_alt: "Ribilake 70 Futon Sofa Bed, 4 in 1 Multi-Function Couch Sleeper with Adjustable Backrest, Modern Convertible Futon, Recl"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJR6B8JR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815fnmH4bUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 70-Inch Shape-Shifter That Actually Delivers**  

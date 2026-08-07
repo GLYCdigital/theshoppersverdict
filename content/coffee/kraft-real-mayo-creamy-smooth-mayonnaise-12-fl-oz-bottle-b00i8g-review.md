@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft Real Mayo Creamy & Smooth Mayonnaise, 12 fl oz Bottle"
 seo_title: "Kraft Real Mayo Creamy & Smooth Mayonnaise, 12 fl  Review"
 meta_description: "Our full kraft real mayo creamy & smooth mayonnaise, 12 fl oz bottle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00I8GGQMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Tphy1H0L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products hide their flaws behind clever marketing. Kraft Real Mayo doesn't need to. This is the mayo that shows up to every cookout, every tuna sandwich, every deviled egg platter — and it earns its place through sheer consistency. With a 4.7-star average across 235 Amazon ratings, it's clear I'm not the only one who keeps a bottle within arm's reach.

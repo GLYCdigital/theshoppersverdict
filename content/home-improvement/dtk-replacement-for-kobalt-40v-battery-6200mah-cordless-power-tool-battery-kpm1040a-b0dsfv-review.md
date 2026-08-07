@@ -1,4 +1,5 @@
 ---
+
 title: "DTK Replacement for Kobalt 40V Battery 6200mAh Cordless Powe"
 seo_title: "DTK Kobalt 40V Battery Replacement Review (6200mAh)"
 meta_description: "DTK 40V 6200mAh replacement battery for Kobalt tools: real-world runtime, compatibility, build quality. Is it worth skipping OEM? Our honest review."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSFVS3DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cSI4CRTTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "6200mAh capacity delivers roughly 30-40% more runtime per charge than the stock Kobalt 2.0Ah/4.0Ah batteries"
   - "Exact drop-in fit for Kobalt 40V max tools (string trimmers, blowers, chainsaws) — no adapter or modification needed"
   - "LED charge indicator with 4 bars gives accurate, at-a-glance remaining capacity"
-cons:
+cons: 
   - "No official Kobalt branding — warranty claims on your tool may be scrutinized if you use this battery"
   - "Slightly heavier than OEM 4.0Ah packs — adds noticeable weight on extended overhead work"
   - "Charging time runs 15-20% longer than stock due to higher capacity"
+
 ---
 
 If you own a Kobalt 40V string trimmer or leaf blower, you know the pain: the OEM battery dies right when the yard isn't done. The DTK 6200mAh replacement pack is the aftermarket answer that's been quietly earning 4.5 stars from 225 buyers. Here's the honest breakdown before you click buy.

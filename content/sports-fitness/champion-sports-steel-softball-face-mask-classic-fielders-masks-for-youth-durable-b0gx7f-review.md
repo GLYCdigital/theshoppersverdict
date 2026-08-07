@@ -1,4 +1,5 @@
 ---
+
 title: "Champion Sports Steel Softball Face Mask - Classic Fielders"
 seo_title: "Champion Sports Steel Softball Face Mask Review (2026)"
 meta_description: "Honest Champion Sports Steel Softball Face Mask review: durability, fit, visibility, and safety for youth & adult fielders. Is it worth the buy?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX7FR3ZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Full steel cage construction with a wide field of vision — you can track pop flies without the frame blocking your sight line"
   - "Powder-coated finish resists chipping and rust, even after a full season of dugout tossing and gear bag abuse"
   - "Adjustable chin strap with hook-and-loop closure fits securely over batting helmets or bare-headed, accommodating most head sizes from youth to adult"
-cons:
+cons: 
   - "The interior padding is thin; several long-term users report it compresses after a few months, requiring a DIY foam pad replacement"
   - "At roughly 12 ounces, it's noticeably heavier than composite or titanium options — you'll feel it during extended infield drills"
+
 ---
 
 ## A $30 Cage That Could Save Your Smile — But Check the Padding

@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Distributor,Espresso Distributor,Espresso Distributio"
 seo_title: "Coffee Distributor & Espresso Leveler Tool Review (2026)"
 meta_description: "Honest review of the Coffee Distributor/Espresso Leveler Tool: build quality, dosing accuracy, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08MCBKY31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61b2Z5f1wRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable depth ring from 0.5mm to 5mm locks in place with a hex wrench, so you can dial in the exact dose height for your basket"
   - "All-stainless construction — no anodized coating that flakes off after months of use"
   - "53mm base fits standard Breville portafilters (54mm) with a snug, centered fit"
-cons:
+cons: 
   - "The included hex wrench is tiny and easy to lose; you'll want a spare 1.5mm allen key on hand"
   - "No calibration markings on the adjustment ring — you'll need to count rotations or mark it yourself"
   - "Edge of the base can catch on deep, ridged baskets if you're not perfectly level"
+
 ---
 
 **If you're still tapping your portafilter against the counter and praying for a flat bed, this tool is the intervention you need.** The Coffee Distributor / Espresso Leveler is a simple concept executed well: spin a flat stainless disc across your grounds, and the surface comes out perfectly level before you ever touch the tamper. At a 4.7 rating across 235 reviews, it's clearly doing something right — but let's dig into whether it's the right leveler for *your* setup.

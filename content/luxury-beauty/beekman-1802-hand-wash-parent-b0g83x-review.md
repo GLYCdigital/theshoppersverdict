@@ -1,4 +1,5 @@
 ---
+
 title: "Beekman 1802 Hand Wash Parent"
 seo_title: "Beekman 1802 Hand Wash Review: Is It Worth It? (2026)"
 meta_description: "Beekman 1802 Hand Wash review: 4.4-star rated luxury goat milk cleanser. We break down scent, lather, and whether it's worth the premium price."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G83XFLB3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NnO13OuJL._SL1500_.jpg"
-pros:
+pros: 
   - "Goat milk formula with ceramides leaves hands noticeably softer — no tight, stripped feeling after washing"
   - "Creamy, rich lather that actually cleans without excessive suds or residue"
   - "Clean, subtle scent (milk & honey notes) that doesn't clash with hand lotions or perfumes"
-cons:
+cons: 
   - "Premium price per ounce compared to drugstore alternatives — you're paying for the brand story"
   - "Pump can be finicky on first use; some units arrive with a stiff dispenser that takes effort to prime"
+
 ---
 
 **The $18 Hand Wash That Actually Changed My Hands — Here’s the Truth**

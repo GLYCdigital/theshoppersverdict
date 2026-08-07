@@ -1,4 +1,5 @@
 ---
+
 title: "Lamzu Maya X Wireless Gaming Mouse, Ultra Lightweight 47g, O"
 seo_title: "Lamzu Maya X Wireless Gaming Mouse, Ultra Lightwei Review"
 meta_description: "Our full lamzu maya x wireless gaming mouse, ultra lightweight 47g, o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFH2GQY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dYQrHhkFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 47g Mouse That Makes Everything Else Feel Heavy**

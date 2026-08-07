@@ -1,4 +1,5 @@
 ---
+
 title: "3PK USA Mower Blade for 52 inch  Ferris 21227S 481711 Scag 482462 inch"
 seo_title: "3PK USA Mower Blade for 52 inch  Ferris & Scag: Review"
 meta_description: "Honest review of the 3PK USA mower blade set for 52 inch  Ferris 21227S and Scag 482462. Real cutting performance, fitment details, and durability verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0852BKF7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JnswWKANL._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Made in USA with 0.203-inch thick steel — noticeably more rigid than OEM stamped blades, reducing flex on thick turf"
   - Matches factory part numbers 21227S and 481711 exactly; no spacers, drilling, or shims needed for 52 inch " Ferris/Scag decks
   - "Pre-sharpened cutting edge with a 2.75-inch sail height that generates serious lift for bagging and clean mulching"
-cons:
+cons: 
   - Not all 52 inch " Ferris/Scag decks use this blade — you must verify your deck's part number or you'll waste a return trip
   - "Coating is standard powder over bare steel; expect surface rust after a season if you don't blow blades off after wet cuts"
+
 ---
 
 If you're running a 52" Ferris or Scag and you're tired of paying dealer markup for blades that bend on the first rock, this three-pack is worth a hard look. Let's be blunt: replacement blades are a commodity, but this 3PK USA set does a few things differently — and most of those differences matter.

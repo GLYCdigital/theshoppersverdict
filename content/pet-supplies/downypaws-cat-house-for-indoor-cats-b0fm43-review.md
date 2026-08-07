@@ -1,4 +1,5 @@
 ---
+
 title: "DownyPaws Cat House for Indoor Cats"
 seo_title: "DownyPaws Cat House Review: Is It Worth It? (2026)"
 meta_description: "Read our honest DownyPaws Cat House review. We break down durability, size, cleaning, and whether indoor cats actually use it. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FM43HRX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XE-oxfJeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable, machine-washable inner cushion that survives repeated washings without clumping"
   - "Sturdy 3-layer construction that holds its shape even when a 15-lb cat launches onto the roof"
   - "Entry hole is 7 inches — large enough for bigger breeds without feeling drafty"
-cons:
+cons: 
   - "Base is not waterproof; spills or accidents seep through to the floor beneath"
   - "Initial chemical smell from packaging takes 2–3 days to fully dissipate"
+
 ---
 
 **The Short Version: A Cozy Cave That Cats Actually Use**

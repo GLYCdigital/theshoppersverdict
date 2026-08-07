@@ -1,4 +1,5 @@
 ---
+
 title: "SANJICHA Christmas Lights Outdoor/Indoor, Upgraded Super Bri"
 seo_title: "SANJICHA Christmas Lights Outdoor/Indoor, Upgraded Review"
 meta_description: "Our full sanjicha christmas lights outdoor/indoor, upgraded super bri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVFVCG2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FoF+05RtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the holiday lighting noise. Most string lights you'll find on Amazon fall into two camps: cheap sets that die by New Year's, or commercial-grade rigs that cost more than your tree. The SANJICHA set tries to split the difference — and for most homeowners, it actually lands in a sweet spot.

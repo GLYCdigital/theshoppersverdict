@@ -1,4 +1,5 @@
 ---
+
 title: "Ghost Controls Premium Wireless Keypad for Automatic Gate Op"
 seo_title: "Ghost Controls Premium Wireless Keypad for Automat Review"
 meta_description: "Our full ghost controls premium wireless keypad for automatic gate op review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01GIIMB2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VJYedYc1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Ghost Controls AXWK: A No-Nonsense Keypad for Gate Owners Who Hate Fumbling

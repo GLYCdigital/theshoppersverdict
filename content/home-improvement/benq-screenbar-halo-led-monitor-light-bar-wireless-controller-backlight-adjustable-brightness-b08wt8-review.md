@@ -1,4 +1,5 @@
 ---
+
 title: "BenQ ScreenBar Halo LED Monitor Light Bar - Wireless Control"
 seo_title: "BenQ ScreenBar Halo Review: Worth It? (2026)"
 meta_description: "BenQ ScreenBar Halo review: wireless monitor light bar with backlight. Is it worth $199? Read pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08WT889V3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TVzOs05eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Curved backlight reduces eye strain by balancing contrast behind the monitor — a feature most cheaper bars lack"
   - "Wireless puck controller with auto-dimming sensor feels premium and works reliably from across the desk"
   - "Zero screen glare thanks to the asymmetrical optical design; you see the light on your desk, not on your display"
-cons:
+cons: 
   - "Hefty price tag — nearly 3x what basic monitor bars cost"
   - "No USB-C power option; needs the included barrel plug cable"
   - "Puck controller requires coin battery replacement every 4-6 months"
+
 ---
 
 # BenQ ScreenBar Halo Review: The Gold Standard for Monitor Lighting, But Is It Worth It?

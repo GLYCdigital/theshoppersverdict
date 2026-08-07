@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Harness with Leash Set, No Pull Adjustable Reflective St"
 seo_title: "Dog Harness with Leash Set Review: No-Pull & Reflective"
 meta_description: "Honest Dog Harness with Leash Set review: no-pull design, reflective stitching, adjustable fit. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7HFHNXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kOEyUdW5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Step-in design makes it genuinely easy to put on wiggly dogs — no lifting legs over the head"
   - "Reflective stitching runs across the chest and back panels, visible in low-light conditions"
   - "Dual attachment points (front and back) give you real control options for pullers"
-cons:
+cons: 
   - "Sizing runs small — measure your dog's girth carefully before ordering, not just weight"
   - "Padding is thin on the chest strap; heavy pullers may find it less comfortable on long walks"
   - "Leash included is functional but basic — no padded handle for extended walks"
+
 ---
 
 **Bottom line: This is a solid budget-friendly harness set that solves the two biggest walking problems — pulling and low-light visibility — without breaking the bank. But sizing is the catch.**

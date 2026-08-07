@@ -1,4 +1,5 @@
 ---
+
 title: "Trail maker Bulk One Subject Wide Ruled Notebooks, 140 Pages"
 seo_title: "Trail maker Bulk One Subject Wide Ruled Notebooks, Review"
 meta_description: "Our full trail maker bulk one subject wide ruled notebooks, 140 pages review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GTWZ49JK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81igQaj8PCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 140-Page Notebook That Makes You Question Why You Settled for Less**

@@ -1,4 +1,5 @@
 ---
+
 title: "Rake Zilla | Extra-Large Heavy-Duty Lake and Pond Aquatic We"
 seo_title: "Rake Zilla | Extra-Large Heavy-Duty Lake and Pond  Review"
 meta_description: "Our full rake zilla | extra-large heavy-duty lake and pond aquatic we review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08WTC1NGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eKcvU1SUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Rake Zilla Review: The 60-Inch Weed Puller That Actually Works**

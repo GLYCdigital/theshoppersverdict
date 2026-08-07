@@ -1,4 +1,5 @@
 ---
+
 title: "HIFAY ES4 Electric Sprayer 1 Gallon Built-in 4000mAh Recharg"
 seo_title: "HIFAY ES4 Electric Sprayer 1 Gallon Built-in 4000m Review"
 meta_description: "Our full hifay es4 electric sprayer 1 gallon built-in 4000mah recharg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BP6HXB23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71npCMBO+CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HIFAY ES4 isn't trying to be the cheapest sprayer on Amazon, and it isn't. What it's trying to be is the last sprayer you buy for a while — the one that actually holds a charge, sprays consistently, and doesn't make your forearm feel like it went through a workout. After 200 ratings averaging 4.0 stars, the consensus is clear: this is a solid mid-tier electric sprayer with a few quirks you should know about before you click buy.

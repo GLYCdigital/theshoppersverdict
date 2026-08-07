@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja 12-Cup Programmable Coffee Brewer — Classic Drip Done Right"
 seo_title: "Ninja 12-Cup Coffee Brewer Review — 4.4★ Programmable Drip at $186"
 meta_description: "Ninja 12-Cup Programmable Coffee Brewer review: 28,709 Amazon reviews analyzed. Two brew styles, adjustable warm plate, delay brew. Is it the best drip coffee maker under $200?"
@@ -11,24 +12,25 @@ review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+HcYgDo1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two brew styles — Classic and Rich — genuinely produce different-tasting coffee"
   - "Removable water reservoir makes filling and cleaning noticeably easier"
   - "Adjustable warm plate keeps coffee hot without burning it"
   - "Delay brew feature works reliably for morning automation"
   - "Design matches modern kitchens — black and stainless steel finish"
-cons:
+cons: 
   - "60oz carafe is awkward to pour without dripping — design flaw mentioned repeatedly"
   - "No built-in grinder — requires pre-ground coffee or a separate grinder"
   - "Brew basket can overflow with finer grinds if you use the wrong setting"
 
-faq:
+faq: 
   - question: "Is the Ninja 12-Cup Programmable Coffee Brewer worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 The Ninja 12-Cup Programmable Coffee Brewer doesn't try to reinvent drip coffee. It just does it better than most. 28,709 Amazon reviews and a 4.4-star average place it firmly in the top tier of mid-range drip machines. The question is whether its refinements justify the $186 price tag over budget options.

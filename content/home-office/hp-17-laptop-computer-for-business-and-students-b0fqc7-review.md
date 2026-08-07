@@ -1,4 +1,5 @@
 ---
+
 title: "HP 17 Laptop Computer for Business and Students"
 seo_title: "HP 17 Laptop Computer for Business and Students Review: V"
 meta_description: "Our full hp 17 laptop computer for business and students review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.7
 amazon_url: "https://www.amazon.com/dp/B0FQC7MWG2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YwG7e2lzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 2.7-star average on Amazon tells you something went wrong. With 150 ratings, that's not a fluke. But the HP 17 isn't a disaster — it's a budget laptop that overpromised and underdelivered on the specs that matter most to students and business users. Here's what you need to know before spending your money.

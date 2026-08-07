@@ -1,4 +1,5 @@
 ---
+
 title: "FUNGYAND Sushi Making Kit, 27-in-1 Professional Maker Set wi"
 seo_title: "FUNGYAND Sushi Making Kit, 27-in-1 Professional Ma Review"
 meta_description: "Our full fungyand sushi making kit, 27-in-1 professional maker set wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BYK577KX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wAvQcAuZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 27-in-1 claim is actually real — here's what you get

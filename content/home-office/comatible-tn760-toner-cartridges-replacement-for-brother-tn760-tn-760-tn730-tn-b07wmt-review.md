@@ -1,4 +1,5 @@
 ---
+
 title: "Comatible TN760 Toner Cartridges Replacement for Brother TN7 inch"
 seo_title: "TN760 Toner Cartridge Review: Honest Brother Replacement Test"
 meta_description: "Real test of Comatible TN760 toner cartridges for Brother printers. Compare page yield, print quality, and value against OEM before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WMTBRH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KLYY2WYKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One cartridge handles four Brother models (TN760, TN730, TN-760, TN-730) — simplifies reordering"
   - "Rated for 3,000 pages per cartridge, matching OEM Brother yield specs"
   - "Sub-$30 street price delivers roughly 60% savings versus Brother-branded cartridges"
-cons:
+cons: 
   - "No chip reset — you'll need to manually dismiss the low-toner warning on your printer"
   - "Some users report slight color density variance on photo-heavy documents compared to OEM"
+
 ---
 
 # Comatible TN760 Toner Cartridges: The $25 Question Every Brother Owner Asks

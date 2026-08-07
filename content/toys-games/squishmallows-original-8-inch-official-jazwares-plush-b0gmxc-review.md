@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 8-Inch - Official Jazwares Plush"
 seo_title: "Squishmallows Original 8-Inch - Official Jazwares  Review"
 meta_description: "Our full squishmallows original 8-inch - official jazwares plush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GMXCXKZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iywubWHWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The internet is obsessed with these things. Here's the honest truth after testing one.**

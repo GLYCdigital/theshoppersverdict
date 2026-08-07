@@ -1,4 +1,5 @@
 ---
+
 title: "Kira Home Harlow Penants"
 seo_title: "Kira Home Harlow Penants Review: Verdict | TSV"
 meta_description: "Our full kira home harlow penants review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07V6ZVKVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bePw7XEgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most flush-mount ceiling lights look like they were designed by someone who gave up. The Kira Home Harlow Penants isn't that. This 3-light semi-flush mount has quietly racked up 229 ratings at a 4.6 average — and it earns it. But before you click buy, here's what you actually need to know.

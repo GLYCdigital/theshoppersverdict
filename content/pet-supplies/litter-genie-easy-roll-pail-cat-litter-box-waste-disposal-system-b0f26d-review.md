@@ -1,4 +1,5 @@
 ---
+
 title: "Litter Genie Easy Roll Pail Cat Litter Box Waste Disposal Sy"
 seo_title: "Litter Genie Easy Roll Pail Cat Litter Box Waste D Review"
 meta_description: "Our full litter genie easy roll pail cat litter box waste disposal sy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F26DZZKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fDYq3qe4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: scooping litter is the worst part of cat ownership. The Litter Genie Easy Roll Pail claims to fix that by letting you drop waste into a self-sealing pail that traps odors and uses regular trash bags. After digging through 225 ratings and testing the mechanics, here's the real deal.

@@ -1,4 +1,5 @@
 ---
+
 title: "FUSPWEAO Beach Toys Sand Toys for Kids with 2 Beach Buckets"
 seo_title: "FUSPWEAO Beach Toys Review: 2 Buckets & 14-Piece Set (2026)"
 meta_description: "Honest FUSPWEAO beach toys review: 14-piece sand toy set with 2 buckets, molds, and shovels. See what buyers love, what breaks, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQKR7X3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8108Vsq-AJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fourteen pieces total means two kids can play simultaneously without fighting over tools — rare for budget sets"
   - "Molds actually release sand cleanly thanks to open-bottom design; no more smashed castle frustration"
   - "Carrying net bag with drawstring keeps everything together and shakes sand out easily"
-cons:
+cons: 
   - "Plastic feels thin on the shovels — several buyers report handles cracking under heavy digging pressure"
   - "Small bucket capacity (~1.5 quarts) limits bigger castle builds; fine for toddlers, small for older kids"
+
 ---
 
 ## Two Kids, One Set, Zero Arguments — Mostly

@@ -1,4 +1,5 @@
 ---
+
 title: "Floating Shelf Bracket, 6 Pcs of 6 inch Heavy Duty Industria"
 seo_title: "Floating Shelf Bracket Review: 6-Pack Heavy Duty Steel"
 meta_description: "Honest review of 6-inch heavy duty floating shelf brackets. Do they hold up? Real specs, load limits, and buyer feedback. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DB5JB4G8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8150m0bZOuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3mm steel construction with welded seams — no thin stamped metal that flexes under load"
   - "Includes all mounting hardware (screws and anchors) for both drywall and stud mounting out of the box"
   - "Matte black powder coat finish is uniform and scratch-resistant through repeated installations"
-cons:
+cons: 
   - "6-inch depth limits what you can display — won't fit large dinner plates or deep cookbooks flush"
   - "Screw heads sit slightly proud of the bracket surface, so shelves need a small notch or recess to sit perfectly flat"
   - "No included template for drilling — you'll want to measure twice or make your own paper guide"
+
 ---
 
 **The honest take on a 6-pack of industrial shelf brackets**

@@ -1,4 +1,5 @@
 ---
+
 title: "Brightown Cork Bottle Lights, 20 LED Waterproof Battery Oper"
 seo_title: "Brightown Cork Bottle Lights Review: 20 LED Waterproof"
 meta_description: "Brightown Cork Bottle Lights review: 20 LED waterproof battery-operated fairy lights. See if these cork stoppers deliver on ambiance and value."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DL5ZVP6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UT2LA8-GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterproof rating (IP67) means these survive rain, splashes, and even full submersion — not just 'water resistant' marketing speak"
   - "Warm white 20-LED strands throw surprisingly even light through colored glass bottles without hot spots"
   - "Cork stopper design fits standard wine and beer bottle necks snugly, with a built-in timer that actually remembers your setting"
-cons:
+cons: 
   - "Batteries not included — you'll need 3 AAA per cork, and at ~$3 each, that adds up if you're lighting a whole bar shelf"
   - "The cork is real, so it can swell and get stuck if you leave it in a damp bottle for weeks; rotate bottles or dry the cork periodically"
   - "Light output is modest — perfect for ambiance, but don't expect to read by these or illuminate a dark corner"
+
 ---
 
 **The 20-LED Bottle Light That Makes Your Empty Wine Bottles Earn Their Keep**

@@ -1,4 +1,5 @@
 ---
+
 title: "Apple MacBook Air M1 Late 2020 inch"
 seo_title: "Apple MacBook Air M1 Review (2020): Still Worth It in 2026?"
 meta_description: "Apple MacBook Air M1 review: Is the Late 2020 model still worth buying? Real performance, battery life, and limitations for office work in 2026."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D38CHQP3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ME8jRwbVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "M1 chip still delivers exceptional battery life — 15-18 hours of real-world mixed office use on a single charge"
   - "Fanless design means completely silent operation, even under sustained spreadsheet or document workloads"
   - "Instant wake from sleep and zero lag when switching between 20+ browser tabs, Slack, and Office apps"
-cons:
+cons: 
   - "Only 2 Thunderbolt ports — you'll need a dongle or dock for external monitors, SD cards, or USB-A peripherals"
   - "8GB RAM base config is tight for heavy multitaskers; macOS memory pressure shows with 30+ Chrome tabs plus video calls"
   - "13.3-inch screen and 720p webcam feel dated compared to 2024-2026 MacBook models with better displays and cameras"
+
 ---
 
 **The MacBook Air M1 rewrote the rulebook for office laptops in 2020. In 2026, it's still the budget king — but the crown is slipping.**

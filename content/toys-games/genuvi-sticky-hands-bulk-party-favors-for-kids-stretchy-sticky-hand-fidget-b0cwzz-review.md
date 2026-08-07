@@ -1,23 +1,25 @@
 ---
+
 title: "Genuvi Sticky Hands Bulk Party Favors for Kids Stretchy Stic"
 seo_title: "Genuvi Sticky Hands Bulk Party Favors Review (2026): Worth It?"
 meta_description: "Honest Genuvi Sticky Hands bulk party favors review: 50-pack stretchy, sticky hands for kids. Real pros, cons, and who should buy. 4.6/5 rating."
 slug: "genuvi-sticky-hands-bulk-party-favors-for-kids-stretchy-sticky-hand-fidget-b0cwzz-review"
 image_alt: "Genuvi Sticky Hands bulk party favors — 50 colorful stretchy sticky hands for kids"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWZZJ1TC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oAt89BZdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "50-count bulk pack — enough for a full classroom or party without reordering"  
   - "Stretchy, reusable material that actually sticks to walls and windows (most brands dry out fast)"  
   - "Individually wrapped — makes them easy to toss into goodie bags or prize bins"  
-cons:  
+cons: 
   - "Some hands arrive slightly sticky-out-of-package; a quick wash fixes it but surprises kids"  
   - "Not for kids under 3 — small parts and choking hazard, so read the label before buying"
+
 ---
 
 Let’s be honest: most bulk party favors are junk. You buy a 50-pack of something, and half of it breaks before the birthday cake is cut. The Genuvi Sticky Hands 50-pack is different — and the 4.6-star average across 229 ratings backs that up. But is it right for *your* event? Let’s break it down.  

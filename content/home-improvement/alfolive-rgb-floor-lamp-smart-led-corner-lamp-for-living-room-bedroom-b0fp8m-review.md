@@ -1,4 +1,5 @@
 ---
+
 title: "Alfolive RGB Floor Lamp, Smart LED Corner Lamp for Living Ro"
 seo_title: "Alfolive RGB Floor Lamp Review: Smart Corner Lighting Tested"
 meta_description: "Alfolive RGB Floor Lamp review: 4.2-star smart LED corner lamp for living rooms. We tested app control, colors, and build quality. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FP8M1MKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Tb8zt9kVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 million colors with music sync mode that responds to ambient sound"
   - "App control works reliably over 2.4GHz WiFi with no hub required"
   - "Slim profile fits tight corners without dominating the room"
-cons:
+cons: 
   - "Light output is ambient-only — don't expect to read by it"
   - "Plastic base feels lighter than the price suggests"
   - "App setup can be finicky if your router broadcasts 5GHz and 2.4GHz on the same SSID"
+
 ---
 
 Let's be blunt about what the Alfolive RGB Floor Lamp is: it's a mood piece, not a reading light. If you buy it expecting to illuminate a dark corner for actual tasks, you'll be disappointed. If you want to bathe a room in color and have it react to your music, this is one of the better corner lamps in its class.

@@ -1,4 +1,5 @@
 ---
+
 title: "Unsweetened Organic Coconut Milk Powder, 3lbs â€“ Dairy Free"
 seo_title: "Unsweetened Organic Coconut Milk Powder, 3lbs â€“  Review"
 meta_description: "Our full unsweetened organic coconut milk powder, 3lbs â€“ dairy free review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CF3HYSHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v3y4W5CiL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Skip the refrigerated carton. This 3-pound bag of unsweetened organic coconut milk powder is the workhorse solution for anyone who takes their coffee seriously but can't do dairy. It's not a perfect dairy mimic—nothing is—but for the price per cup, it punches well above its weight.

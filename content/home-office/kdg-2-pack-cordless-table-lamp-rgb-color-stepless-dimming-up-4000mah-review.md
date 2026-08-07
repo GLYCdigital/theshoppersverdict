@@ -1,16 +1,17 @@
 ---
+
 title: "KDG 2 Pack Cordless Table Lamp, RGB Color Stepless Dimming Up, 4000mAh Battery Operated Portable LED Desk Lamp, for Dinning Room, Bedroom, Bar, Outdoor Garden, Camping, Night Light (Black) Review"
 seo_title: "KDG 2 Pack Cordless Table Lamp, RGB Color Stepless Review"
 meta_description: "Our full kdg 2 pack cordless table lamp, rgb color stepless dimming up, 4000mah battery operated portable led desk lamp, for dinning room, bedroom, bar, outd"
 slug: "kdg-2-pack-cordless-table-lamp-rgb-color-stepless-dimming-up-4000mah-review"
 image_alt: "KDG 2 Pack Cordless Table Lamp, RGB Color Stepless Dimming Up, 4000mAh Battery Operated Portable LED Desk Lamp, for Dinn"
-keywords:
+keywords: 
   - "kdg 2 pack review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do users like most about the KDG 2 Pack Cordless Table Lamp, RGB Color Stepless Dimming Up, 4000mAh Battery Operated Portable LED Desk Lamp, for Dinning Room, Bedroom, Bar, Outdoor Garden, Camping, Night Light (Black)?"
     answer: "Users consistently praise the strong performance that meets expectations. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,12 +24,13 @@ review_count: 5864
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPQ9Q7QN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XAIdEB5vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong performance that meets expectations"
   - "Easy to set up and use right out of the box"
   - "Solid build quality that holds up to regular use"
-cons:
+cons: 
   - "Some users report durability concerns over time"
+
 ---
 
 If you're shopping for a kdg 2 pack cordless table lamp rgb color stepless dimming up 4000mah, the KDG 2 Pack Cordless Table Lamp, RGB Color Stepless Dimming Up, 4000mAh Battery Operated Portable LED Desk Lamp, for Dinning Room, Bedroom, Bar, Outdoor Garden, Camping, Night Light (Black) has likely crossed your radar. Based on an analysis of thousands of Amazon customer reviews, here's what you need to know before buying.

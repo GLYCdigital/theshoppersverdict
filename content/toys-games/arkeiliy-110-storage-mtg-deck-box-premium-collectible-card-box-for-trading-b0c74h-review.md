@@ -1,4 +1,5 @@
 ---
+
 title: "Arkeiliy 110+ Storage MTG Deck Box, Premium Collectible Card"
 seo_title: "Arkeiliy 110+ MTG Deck Box Review: Worth It? (2026)"
 meta_description: "Arkeiliy 110+ MTG deck box review: durable magnetic closure, fits sleeved cards, 4.8/5 rating. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C74H5BBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hmCq+LZ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Magnetic lid snaps shut securely without a latch — no accidental pops mid-game"
   - "Rigid plastic shell with soft interior lining protects double-sleeved cards from edge dings"
   - "Fits 110+ standard-size cards, including Commander decks with tokens"
-cons:
+cons: 
   - "Not waterproof — a spilled drink will soak through the seam"
   - "Single compartment only; no divider for sideboards or dice"
+
 ---
 
 If you've ever watched a $200 Commander deck slide off a table because a flimsy cardboard box gave out, you know the pain. The Arkeiliy 110+ Storage MTG Deck Box aims to end that anxiety. With 240 ratings averaging 4.8 stars, it's clearly striking a chord with players. But is it the last deck box you'll need to buy? Let's get into it.

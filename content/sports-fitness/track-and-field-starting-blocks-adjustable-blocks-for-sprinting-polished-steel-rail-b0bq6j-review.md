@@ -1,4 +1,5 @@
 ---
+
 title: "Track and Field Starting Blocks - Adjustable Blocks for Spri"
 seo_title: "Track and Field Starting Blocks - Adjustable Block Review"
 meta_description: "Our full track and field starting blocks - adjustable blocks for spri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BQ6JNRM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cqliTwHgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're serious about shaving tenths off your 100m, the starting blocks are where races are won or lost. This adjustable set from the B0BQ6J line has 220 buyers averaging 4.4 stars, so I dug into what makes it work — and where it might not fit your training.

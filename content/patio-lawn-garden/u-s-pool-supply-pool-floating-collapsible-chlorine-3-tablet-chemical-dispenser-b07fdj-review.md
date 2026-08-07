@@ -1,7 +1,8 @@
 ---
-title: "U.S. Pool Supply Pool Floating Collapsible Chlorine 3\" Table"
+
+title: "U.S. Pool Supply Pool Floating Collapsible Chlorine 3\ Table"
 seo_title: "U.S. Pool Supply Pool Floating Collapsible Chlorin Review"
-meta_description: "Our full u.s. pool supply pool floating collapsible chlorine 3\" table review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full u.s. pool supply pool floating collapsible chlorine 3\ table review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "u-s-pool-supply-pool-floating-collapsible-chlorine-3-tablet-chemical-dispenser-b07fdj-review"
 image_alt: "U.S. Pool Supply Pool Floating Collapsible Chlorine 3 Tablet Chemical Dispenser, 7 Diameter, Collapsible"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07FDJ4SQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OHD4Mp10L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a brittle, cracked chlorine floater that sinks after one season, you already know the pain this product is trying to solve. The U.S. Pool Supply floating collapsible tablet dispenser takes a straightforward concept—float a few chlorine tablets in your pool—and adds two genuinely useful twists: a collapsible body and a real flow-control dial. At 4.5 stars across 225 Amazon ratings, it's clearly working for most buyers. But is it the right feeder for your specific setup? Let's dig past the marketing.

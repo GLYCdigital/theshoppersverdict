@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee 2720-21 M18 Fuel 18-Volt Lithium-Ion Brushless Cor"
 seo_title: "Milwaukee 2720-21 M18 Fuel 18-Volt Lithium-Ion Bru Review"
 meta_description: "Our full milwaukee 2720-21 m18 fuel 18-volt lithium-ion brushless cor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00I3PQ7G0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KEoLz6zJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the Milwaukee 2720-21 is not the newest reciprocating saw in Milwaukee's lineup, and it knows it. But four years after its release, this M18 Fuel Sawzall still holds a 4.2-star rating across 210 reviews — and that staying power tells you something. This is the saw that built Milwaukee's cordless reputation, and it remains a legitimate contender if you can find it at the right price.

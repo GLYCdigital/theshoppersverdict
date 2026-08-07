@@ -1,4 +1,5 @@
 ---
+
 title: "MikroTik CRS504-4XQ-IN Cloud Router Switch 650MHz 4xQSFP28 C"
 seo_title: "MikroTik CRS504-4XQ-IN Cloud Router Switch 650MHz  Review"
 meta_description: "Our full mikrotik crs504-4xq-in cloud router switch 650mhz 4xqsfp28 c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0B34Y1D6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CGIl8F8nL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about the MikroTik CRS504-4XQ-IN: this is not a switch for everyone. It's a niche product aimed at homelab enthusiasts, small ISPs, and media professionals who need 100G connectivity without selling a kidney. At roughly $1,000 (check current pricing — it fluctuates), you're getting four QSFP28 ports that can run at 100G, 40G, or break out to 4x25G/4x10G. That's absurd value on paper. The real question is whether the compromises are worth it. I've dug through 175 Amazon ratings (3.5 stars average) and the user forums to give you the unvarnished picture.

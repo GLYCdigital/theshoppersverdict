@@ -1,4 +1,5 @@
 ---
+
 title: "BLDR Hello Kitty and Friends Minifigures 6-Pack"
 seo_title: "BLDR Hello Kitty Minifigures 6-Pack Review: Worth It?"
 meta_description: "BLDR Hello Kitty and Friends Minifigures 6-Pack review: build quality, collectibility, and value. Is this blind-box set worth buying? Find out here."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GMQFP89W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e+069Fg4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six unique characters in one box — no blind-box gamble, you know exactly what you're getting"
   - "Build quality is surprisingly sturdy for the price point; pieces snap together firmly and hold poses"
   - "Hello Kitty, My Melody, and Cinnamoroll all represented — solid character selection for longtime Sanrio fans"
-cons:
+cons: 
   - "Figures are roughly 2 inches tall — smaller than standard brick minifigures, which may disappoint collectors expecting compatibility"
   - "No accessory pieces or display stands included; figures can topple easily on uneven surfaces"
   - "Packaging is fully sealed with no window — you can't inspect print quality before opening, and a few units have reported minor paint imperfections"
+
 ---
 
 **The Short Version: A Rare Blind-Box Exception**

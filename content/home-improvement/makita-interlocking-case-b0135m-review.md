@@ -1,4 +1,5 @@
 ---
+
 title: "Makita Interlocking Case"
 seo_title: "Makita Interlocking Case Review: Verdict | TSV"
 meta_description: "Our full makita interlocking case review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0135MYDE8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61a1C4axMKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this just another plastic box, or does it actually earn its keep?

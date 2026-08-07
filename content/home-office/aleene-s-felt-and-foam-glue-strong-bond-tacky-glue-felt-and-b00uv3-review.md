@@ -1,4 +1,5 @@
 ---
+
 title: "Aleene's Felt and Foam Glue, Strong Bond Tacky Glue, Felt an"
 seo_title: "Aleene's Felt & Foam Glue Review: Strong Bond Tacky Glue"
 meta_description: "Honest Aleene's Felt and Foam Glue review: strong bond, no warping, dries clear. See pros, cons, and who should buy this 4.4-star tacky glue."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00UV3ZL9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SdCvc6mWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries crystal clear with a flexible bond that won't crack or peel, even on thin craft foam"
   - "Precision tip applicator lets you lay down thin, controlled beads — no more soggy felt edges"
   - "Grabs fast (stays tacky for about 60 seconds) so you can reposition before it sets permanently"
-cons:
+cons: 
   - "Not waterproof — hand-wash only on finished projects, so don't use for outdoor decor"
   - "The 4oz bottle runs out quicker than expected for larger projects; consider the 8oz size"
   - "Fumes are mild but noticeable; use in a ventilated room if you're sensitive to craft glue smells"
+
 ---
 
 If you've ever watched hot glue string across a felt project or watched school glue soak through craft foam and warp it, you know the pain this bottle is trying to solve. Aleene's Felt and Foam Glue is a purpose-built adhesive that does exactly what the label promises — and for the most part, it delivers.

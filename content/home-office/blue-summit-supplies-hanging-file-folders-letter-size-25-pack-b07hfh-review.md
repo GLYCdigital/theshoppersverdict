@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Summit Supplies Hanging File Folders, Letter Size, 25 P"
 seo_title: "Blue Summit Supplies Hanging File Folders Review (25 Pack)"
 meta_description: "Honest Blue Summit Supplies hanging file folder review: 25-pack letter size durability, real user feedback, and who should buy. 4.8-star rated."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07HFHFTWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714fInYH-uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid 11-point stock resists sagging even when folders are packed at 50–75% capacity"
   - "Full-height tabs with reinforced plastic inserts — no flimsy peel-and-stick labels that curl"
   - "Reinforced rod slots hold up to repeated in-and-out drawer use without tearing"
-cons:
+cons: 
   - "25-pack is a small starting point — heavy filers will need two or three boxes immediately"
   - "No built-in color-coding options; you'll need to buy separate colored tabs or folders"
   - "Boxes arrive tightly packed; some users report initial creasing that flattens out within days"
+
 ---
 
 Let me be direct: buying hanging file folders is about as exciting as buying printer paper. But get it wrong — flimsy rods, tearing slots, labels that peel — and you'll curse that decision every single time you open your drawer. I've tested dozens of these over the years, and the Blue Summit Supplies 25-pack actually earns its 4.8-star rating. Here's the real story.

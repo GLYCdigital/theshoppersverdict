@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Plush 16in"
 seo_title: "Squishmallows Plush 16in Review: Verdict | TSV"
 meta_description: "Our full squishmallows plush 16in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FY3NVGDS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tc6iRgNBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about one thing: the Squishmallows craze isn’t just hype. With a 4.9-star average across 245 ratings, this 16-inch plush has earned its spot in countless shopping carts. But before you drop your money, here’s what you actually need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "Compressed Air Duster,3 Gear Adjustable 100000RPM Electric A"
 seo_title: "Compressed Air Duster Review: 100,000 RPM Electric Blower"
 meta_description: "Honest review of the 100,000 RPM electric air duster with 3 speed settings. Is it worth replacing canned air? Find out what real users say."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3CY4NTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xds7OlQvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-speed adjustable motor reaches 100,000 RPM for heavy dust removal"
   - "Rechargeable battery eliminates recurring canned air costs"
   - "LED display shows battery level and speed setting clearly"
-cons:
+cons: 
   - "Battery life drops significantly at highest speed — roughly 15-20 minutes"
   - "Can be loud on setting three; ear protection recommended"
   - "Not a substitute for compressed air in tight crevices or delicate electronics"
+
 ---
 
 You've probably spent more on canned air over the last year than you'd like to admit. That's the pitch for every electric duster on the market, but this one actually delivers on it. With a 100,000 RPM motor and three adjustable speeds, this rechargeable blower is a serious workspace tool — not a toy. Let me break down whether it's worth your money.

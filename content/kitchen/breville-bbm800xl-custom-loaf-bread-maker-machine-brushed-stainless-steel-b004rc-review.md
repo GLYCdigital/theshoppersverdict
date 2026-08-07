@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BBM800XL Custom Loaf Bread Maker Machine, Brushed S"
 seo_title: "Breville BBM800XL Review: Custom Loaf Bread Maker"
 meta_description: "Honest Breville BBM800XL bread maker review: 41 crust settings, 13 programs, dual paddles. Is the $300+ price worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B004RCNJA0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41LTEdUCF+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "41 crust shades and 13 pre-programmed settings give real control over loaf outcome"
   - "Dual kneading blades mix more thoroughly than single-paddle rivals, cutting down on unmixed flour pockets"
   - "Collapsible paddle design means no giant hole in the bottom of your finished loaf"
-cons:
+cons: 
   - "The dual paddles still leave two small holes, just not as prominent as single-paddle machines"
   - "It's loud — the motor whirs and clunks during kneading, which startles pets and light sleepers"
   - "Large footprint; you'll need dedicated counter space that it will occupy permanently"
+
 ---
 
 # Is the Breville BBM800XL Worth the Premium Price?

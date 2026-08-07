@@ -1,4 +1,5 @@
 ---
+
 title: "CNGLASS Glass Teapot, Clear Teapot with Removable 304 stainless steel infuser"
 seo_title: "CNGLASS Glass Teapot Review: Is It Worth It? (2026)"
 meta_description: "CNGLASS glass teapot review: 4.6/5 stars. Tested for durability, brewing performance & the removable 304 stainless infuser. Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTTBYS9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hhu5ASsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Borosilicate glass body handles boiling water without thermal shock — no cracking after months of daily use"
   - "Removable 304 stainless steel infuser is generously sized (fits ~2 tbsp of loose leaf) and doesn't clog with fine teas"
   - "Extra-wide opening makes cleaning effortless — you can actually get your hand inside to wipe the bottom"
-cons:
+cons: 
   - "No built-in strainer on the spout — stray leaves can escape if you overfill the infuser"
   - "Lid isn't perfectly airtight; it sits loose enough that pouring at a steep angle can dribble"
   - "Handle is comfortable but runs warm to the touch when filled with just-boiled water — use a mitt"
+
 ---
 
 If you've ever watched loose-leaf tea swirl in a glass pot and thought, *"I want that at home,"* the CNGLASS teapot is the one that actually delivers. It's not flashy, not smart, not insulated — it's a straightforward borosilicate glass brewer that does one job exceptionally well. And at 4.6 stars across 229 ratings, owners mostly agree.

@@ -1,4 +1,5 @@
 ---
+
 title: "MightyMow 2x20V 18 inch Self-Propelled Lawn Mower Cordless, "
 seo_title: "MightyMow 2x20V 18 inch Self-Propelled Lawn Mower  Review"
 meta_description: "Our full mightymow 2x20v 18 inch self-propelled lawn mower cordless,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F8B5KD75/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VwOVgNARL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MightyMow 2x20V 18-Inch Self-Propelled: A Solid Budget Cordless, With Caveats**

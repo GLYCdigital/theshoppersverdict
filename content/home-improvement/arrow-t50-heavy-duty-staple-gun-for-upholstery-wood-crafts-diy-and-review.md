@@ -1,4 +1,5 @@
 ---
+
 title: "Arrow T50 Heavy Duty Staple Gun for Upholstery, Wood, Crafts, DIY and Professional Uses, Manual Stapler Uses 1/4”, 5/16”, 3/8 inch , 1/2 inch , or 9/16” Staples"
 seo_title: "Arrow T50 Staple Gun Review: Heavy Duty Workhorse"
 meta_description: "Arrow T50 staple gun review: 4.5-star rated manual stapler for upholstery, wood & crafts. Tested performance, real tradeoffs, and who should buy."
@@ -11,14 +12,15 @@ review_count: 5095
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ZmPITX9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel construction with a 2-inch throat depth lets you reach deep into furniture frames and tight corners other staplers can't access"
   - Accepts six staple sizes (1/4 inch " through 9/16 inch ") with a simple no-tool adjustment — one tool covers projects from fabric to 2x4s
   - "Dual-action mechanism delivers serious driving force; users consistently report sinking staples flush into hard oak and plywood without pre-drilling"
-cons:
+cons: 
   - "Manual operation means sustained use will fatigue your hands — reupholstering an entire sofa in one sitting is a workout"
   - "You'll need to pull the trigger and strike the body simultaneously; takes a few minutes to learn the rhythm if you're new to heavy-duty staplers"
   - "No jam-release lever; clearing a misfed staple requires a screwdriver or needle-nose pliers"
+
 ---
 
 Some tools earn their reputation over decades. The Arrow T50 has been the default answer to "what staple gun should I buy?" for roughly 60 years, and with 5,095 Amazon ratings holding at 4.5 stars, that's not nostalgia — it's a track record. At $25.61, it's priced like a weekend-toolbox afterthought but performs like something a professional upholsterer relies on. I've put one through furniture reupholstery, fence repairs, and a couple of craft projects. Here's the honest breakdown.

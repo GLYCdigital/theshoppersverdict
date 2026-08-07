@@ -1,4 +1,5 @@
 ---
+
 title: "GUND Grahm Teddy Bea"
 seo_title: "GUND Grahm Teddy Bea Review: Is This Plush Worth It?"
 meta_description: "GUND Grahm Teddy Bea review: 4.8-star rated plush bear. Is it soft enough for cuddling? We break down quality, sizing, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FBZSC899/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818AjYu3z1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, dense plush that holds its shape through repeated washing"
   - "Sturdy embroidered eyes and nose — no plastic parts to crack or become choking hazards"
   - "Sits upright naturally, making it display-worthy as well as cuddle-ready"
-cons:
+cons: 
   - "Surface-wash only; the filling clumps if you machine wash despite the brand's claims"
   - "Smaller than expected for the price point if you're used to XXL bears"
+
 ---
 
 Some plush toys look great in the product image and disappoint in person. The GUND Grahm Teddy Bea is not one of those. Pick it up and the first thing you notice is the density — this isn't a flimsy, hollow-stuffed bear that collapses the moment you squeeze it. At 4.8 stars across 240 ratings, buyers consistently report the same thing: this bear feels substantial, like GUND actually cared about the materials.

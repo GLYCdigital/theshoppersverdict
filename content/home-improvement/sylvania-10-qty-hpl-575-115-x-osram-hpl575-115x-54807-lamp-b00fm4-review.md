@@ -1,4 +1,5 @@
 ---
+
 title: "SYLVANIA 10 Qty. HPL 575-115-x Osram HPL575 115X 54807 Lamp "
 seo_title: "SYLVANIA 10 Qty. HPL 575-115-x Osram HPL575 115X 5 Review"
 meta_description: "Our full sylvania 10 qty. hpl 575-115-x osram hpl575 115x 54807 lamp  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00FM4D3E4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vDc0q-BqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you run a theater, church, or production company, you already know the HPL 575-115-x is the workhorse of the lighting world. This 10-pack from SYLVANIA (rebranded Osram) puts a full reload of that workhorse in one box. At 4.1 stars from 204 ratings, it's a solid performer — but let's get into what that rating actually means before you commit.

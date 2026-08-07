@@ -1,4 +1,5 @@
 ---
+
 title: "Triumpeek 4 Way Brass Hose Splitter, Heavy Duty 4-Way Garden"
 seo_title: "Triumpeek 4 Way Brass Hose Splitter, Heavy Duty 4- Review"
 meta_description: "Our full triumpeek 4 way brass hose splitter, heavy duty 4-way garden review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HC93F5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71779nrETXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most 4-way hose splitters are zinc alloy castings that corrode within two seasons. The Triumpeek 4-Way Brass Hose Splitter takes a different approach: solid brass throughout the water path, four independent ball valves, and a price that undercuts most brass 2-way splitters. After 229 ratings averaging 4.6 stars, the consensus is clear — this is the splitter to beat for serious gardeners.

@@ -1,23 +1,25 @@
 ---
+
 title: "Dphagesy African Violet Pots Self Watering Round Ceramic Vio"
 seo_title: "Dphagesy Self-Watering Ceramic Violet Pots Review (2026)"
 meta_description: "Dphagesy self-watering ceramic African violet pots: 4.6★ rated. We tested wicking, drainage, and durability. Read before you buy."
 slug: "dphagesy-african-violet-pots-self-watering-round-ceramic-violet-pot-b0f58y-review"
 image_alt: "Dphagesy round ceramic self-watering African violet pot with inner wicking tray"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F58YCKJJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zX5900M7L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine wicking action – tested 7 days without top watering, soil stayed evenly moist"  
   - "Glazed ceramic body prevents salt buildup on pot walls, unlike terracotta"  
   - "Removable inner tray makes root inspection and repotting genuinely easy"  
-cons:  
+cons: 
   - "No drainage hole – overwatering beginners can drown roots if they ignore the water level line"  
   - "Small size (3.5-inch top diameter) won't fit mature violets with 6-inch leaf spans"
+
 ---
 
 ## Does this self-watering pot actually work, or is it just another gimmick?

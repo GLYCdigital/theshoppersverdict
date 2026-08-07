@@ -1,4 +1,5 @@
 ---
+
 title: "Fiberglass Screen Replacement Grey Black and White"
 seo_title: "Fiberglass Screen Replacement Review: Grey, Black & White"
 meta_description: "Honest review of fiberglass screen replacement in grey, black, and white. Compare durability, visibility, and installation ease before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0876X16YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8198HXrPxTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three color options in one purchase let you match existing screens or choose low-visibility black for views"
   - "18x16 mesh density strikes a solid balance between airflow, insect exclusion, and durability"
   - "Standard 36-inch and 48-inch widths fit most residential door and window frames without custom cutting"
-cons:
+cons: 
   - "Thin 0.011-inch strand diameter means it will tear if stretched too aggressively during installation"
   - "No spline or installation tools included — factor in an extra $10-15 if you don't already own them"
+
 ---
 
 If you're staring at a torn screen and dreading the $150 handyman bill, this fiberglass replacement roll is the DIY answer. But before you buy, here's what 225 Amazon reviewers (4.5 stars) actually found when they put it to the test.

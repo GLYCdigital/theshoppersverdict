@@ -1,4 +1,5 @@
 ---
+
 title: "TEKAMON Modular Couch"
 seo_title: "TEKAMON Modular Couch Review: Verdict | TSV"
 meta_description: "Our full tekamon modular couch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CRV36S3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aZcGq0TgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Tekamon Modular Couch B0Crv3 a smart buy for a small space?** That's the question most shoppers will have before clicking add to cart. With a 4.0-star rating but zero verified reviews, this is a product that wants you to take a leap of faith. Let's break down what you're actually getting.

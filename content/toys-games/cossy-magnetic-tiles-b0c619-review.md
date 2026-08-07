@@ -1,4 +1,5 @@
 ---
+
 title: "cossy Magnetic Tiles Review"
 seo_title: "cossy Magnetic Tiles Review (2026): Worth It? Honest Look"
 meta_description: "cossy Magnetic Tiles review: 100-piece set tested for durability, magnet strength & value. See pros, cons & if it beats Magna-Tiles."
@@ -11,14 +12,15 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0C619ZQYX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HCe-K1WJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strong neodymium magnets that hold 3D structures together — towers don't collapse mid-build"
   - "Full 100-piece set with unique pieces (car chassis, window panels, right triangles) not found in starter kits"
   - "Compatible with Magna-Tiles and Picasso Tiles, so you can expand existing collections without rebuying"
-cons:
+cons: 
   - "Plastic scratches more easily than premium brands — visible hairline marks after a week of heavy play"
   - "No storage bag or bin included; you'll need your own container for 100 loose pieces"
   - "Some edge magnets sit flush while others sit slightly recessed, causing rare alignment quirks on tall builds"
+
 ---
 
 If you've priced Magna-Tiles lately, you know the sting. A 100-piece set runs $120–$150, and that's before your kid inevitably loses the car base. The cossy Magnetic Tiles set undercuts that significantly while promising the same magnetic play experience. With a 4.9-star average across 245 ratings, it's either a hidden gem or a case of inflated reviews. I spent two weeks building with my own kids (ages 4 and 7) to find out which.

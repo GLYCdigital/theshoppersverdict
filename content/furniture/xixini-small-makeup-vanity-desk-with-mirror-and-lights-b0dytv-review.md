@@ -1,4 +1,5 @@
 ---
+
 title: "Xixini Small Makeup Vanity Desk with Mirror and Lights"
 seo_title: "Xixini Small Makeup Vanity Desk with Mirror and Li Review"
 meta_description: "Our full xixini small makeup vanity desk with mirror and lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYTV4TJW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8111u5Ksf7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Xixini Small Makeup Vanity Desk is proof that you don't need a walk-in closet or a dedicated beauty room to get a proper getting-ready station.** At roughly three feet wide, it squeezes into the corner of a cramped apartment bedroom, yet the illuminated mirror and storage options punch well above the price point. But before you hit "add to cart," there are a few things you need to know — especially if you're a serious makeup user with a large collection.

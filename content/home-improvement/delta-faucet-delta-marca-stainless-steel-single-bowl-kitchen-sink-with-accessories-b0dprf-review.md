@@ -1,4 +1,5 @@
 ---
+
 title: "DELTA FAUCET Delta Marca Stainless Steel Single Bowl Kitchen"
 seo_title: "Delta Marca Stainless Steel Kitchen Sink Review (2026)"
 meta_description: "Delta Marca stainless steel single bowl kitchen sink review: build quality, noise insulation, installation ease, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DPRF1GYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mdLIdsHAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16-gauge stainless steel construction feels substantial and resists denting during heavy use"
   - "Sound-dampening pads and undercoating reduce clatter noticeably compared to bare-metal sinks"
   - "Included accessories (strainer, basket, bottom grid) save $50–80 versus buying separately"
-cons:
+cons: 
   - "No faucet included — factor in another $100–300 for a compatible Delta or third-party unit"
   - "Shallow 7-inch depth can cause splashing with tall pots or high-pressure faucets"
+
 ---
 
 The Delta Marca single bowl sink sits in that awkward middle ground: not the cheapest 18-gauge box-store special, not a premium workstation sink either. After digging through 200 Amazon ratings and the spec sheet, here's the real story — this is a solid value pick if you're remodeling on a budget, but it's not the last sink you'll ever buy.

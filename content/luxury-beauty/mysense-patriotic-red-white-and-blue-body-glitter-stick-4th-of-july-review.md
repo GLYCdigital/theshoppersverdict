@@ -1,16 +1,17 @@
 ---
+
 title: "Mysense Patriotic Red White and Blue Body Glitter Stick,4th of July Accessories,Sparkling Face Hair Glitter for 4th of July Outfits Women Kids,American Flag Makeup for Independence Day 250 Anniversary"
 seo_title: "Mysense Patriotic Red Review: Verdict (4.4/5) | TSV"
 meta_description: "Fun, Bright, and Easy to Use This glitter stick works great and is super easy 521+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "mysense-patriotic-red-white-and-blue-body-glitter-stick-4th-of-july-review"
 image_alt: "Mysense Patriotic Red White and Blue Body Glitter Stick,4th of July Accessories,Sparkling Face Hair Glitter for 4th of J"
-keywords:
+keywords: 
   - "mysense patriotic red review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Mysense Patriotic Red White?"
     answer: "Fun, Bright, and Easy to Use This glitter stick works great and is super easy to apply without making a m... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Mysense Patriotic Red White?"
@@ -23,12 +24,13 @@ review_count: 521
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4QCFVN5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lXQZQF83L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fun, Bright, and Easy to Use This glitter stick works great and is super easy to apply without makin."
   - "Works great It is a little hard to remove but goes one great and lasted all day."
   - "I loved the quality of the glitter."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 You're about to spend $12.88 on a glorified tube of sparkle. Here's the honest breakdown of whether this Mysense patriotic glitter stick earns its place in your 4th of July bag — or belongs back on the shelf.

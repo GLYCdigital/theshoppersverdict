@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering The Lord of The Rings: Tales of Middle-"
 seo_title: "Magic: The Gathering The Lord of The Rings: Tales  Review"
 meta_description: "Our full magic: the gathering the lord of the rings: tales of middle- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0BVTJGJF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8166DKWO+0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about *Magic: The Gathering* crossing over with *The Lord of the Rings*: it was always going to be a lightning rod. Half the MTG community wanted a faithful Tolkien adaptation, the other half wanted mechanically pushed cards for competitive play. *Tales of Middle-earth* tries to do both, and the result is a set that's genuinely fun to draft, occasionally frustrating to collect, and — depending on your priorities — either a slam dunk or a pass.

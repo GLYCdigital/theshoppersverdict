@@ -1,4 +1,5 @@
 ---
+
 title: "GearBox Sets"
 seo_title: "GearBox Sets Review: Are They Worth It? (2026)"
 meta_description: "Honest GearBox Sets review: build quality, real-world performance, pros, cons, and who should buy. See ratings, FAQs, and our verdict before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHS2XZ3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31Hn5NzfIQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modular stackable design locks together securely with a one-handed release — no tools needed to reconfigure"
   - "Impact-resistant polypropylene shell with reinforced corners handles drops onto concrete without cracking"
   - "Clear-lid organizers let you see contents at a glance, saving serious time when you're mid-project"
-cons:
+cons: 
   - "Latch mechanism takes two hands to close on the larger units — slightly annoying when your hands are full"
   - "Interior dividers aren't adjustable on the smaller kits; you're locked into the factory layout"
+
 ---
 
 Let’s cut through the chatter: the GearBox Sets have become a fixture on Amazon with a 4.7-star average across 235 ratings, and there’s a reason for that. This is a modular storage system that actually solves the problem it claims to solve — scattered hardware, lost fasteners, and drawer chaos. But it’s not flawless, and whether it’s right for you depends on how you work.

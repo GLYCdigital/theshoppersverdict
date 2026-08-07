@@ -1,4 +1,5 @@
 ---
+
 title: "Cantu Care for Kids Leave-In Conditioner"
 seo_title: "Cantu Care for Kids Leave-In Conditioner Review (2026)"
 meta_description: "Honest Cantu Care for Kids Leave-In Conditioner review: detangles, softens, and defines curls without buildup. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BGCVWWXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oQtKOdVGL._SL1500_.jpg"
-pros:
+pros: 
   - "Shea butter and coconut oil base actually penetrates thick, coily hair — not just a surface detangler"
   - "Lightweight formula that defines curls without leaving that greasy, weighed-down feel kids hate"
   - "No sulfates, parabens, or mineral oil — safe for sensitive scalps and daily use"
-cons:
+cons: 
   - "Scent is strong and sweet (fruity candy-like) — some kids and parents find it overpowering"
   - "Thicker consistency means you need to work it through in sections or it can clump"
+
 ---
 
 Let’s be honest: most kids’ hair products are either too weak to handle real curls or so heavy they turn a toddler into a greaseball by noon. The Cantu Care for Kids Leave-In Conditioner sits in a rare middle ground — it actually does what it claims without turning your child’s hair into a sticky mess. After digging through customer experiences and testing the formula’s specs, here’s the real breakdown.

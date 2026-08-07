@@ -1,4 +1,5 @@
 ---
+
 title: "Beyond Good Beyond Good Organic Chocolate Bar"
 seo_title: "Beyond Good Organic Chocolate Bar Review: Worth It?"
 meta_description: "Beyond Good Organic Chocolate Bar review: 4.3-star rated. Madagascar-sourced, 71% dark. We break down taste, texture, and value."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9MMV3KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fMopQ4Q9L._SL1500_.jpg"
-pros:
+pros: 
   - "Single-origin Madagascar cacao with a bright, fruity flavor profile that genuinely tastes different from mass-market bars"
   - "Organic certified and fairly traded — the sourcing story is real, not just marketing copy"
   - "Clean snap and smooth melt at 71% dark; no waxy mouthfeel or artificial aftertaste"
-cons:
+cons: 
   - "Bar runs thin at 2.8 oz — feels smaller than other premium bars at similar price points"
   - "Sweetness level leans bitter even for dark chocolate fans; the 71% cacao hits noticeably harder than comparable bars"
+
 ---
 
 # Beyond Good Organic Chocolate Bar Review: Is This the Dark Chocolate You've Been Missing?

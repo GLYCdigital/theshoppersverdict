@@ -1,4 +1,5 @@
 ---
+
 title: "Fanttik S1 Capsule 3.7V Cordless Screwdriver, Electric Screw"
 seo_title: "Fanttik S1 Capsule Cordless Screwdriver Review (2026): Worth It?"
 meta_description: "Honest Fanttik S1 Capsule 3.7V cordless screwdriver review: torque, battery life, build quality, and who should buy this compact electric screwdriver."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLNN64BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618fqe1hN1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pocket-sized capsule design that actually fits in a jeans coin pocket — 5.5 inches long, weighs under 4 ounces"
   - "USB-C charging means you can top it off with the same cable as your phone; no proprietary dock to lose"
   - "Built-in LED ring lights up the work area without casting shadows from your hand"
-cons:
+cons: 
   - "Max 5 Nm torque won't drive long deck screws — this is for light assembly, not construction"
   - "Proprietary bit storage inside the body holds only 6 bits, so you'll carry a separate case for variety"
   - "No clutch adjustment — you control stopping manually, which takes practice on soft materials"
+
 ---
 
 Let's cut through the hype. The Fanttik S1 Capsule is a 3.7V cordless screwdriver that weighs about as much as a Snickers bar and fits in the palm of your hand. It's not a drill, and it's not trying to be. But for the 80% of household screwdriving tasks that involve furniture assembly, electronics, and light repairs, this little capsule might be the last screwdriver you reach for.

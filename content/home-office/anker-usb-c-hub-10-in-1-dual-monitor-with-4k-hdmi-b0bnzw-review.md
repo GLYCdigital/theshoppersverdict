@@ -1,4 +1,5 @@
 ---
+
 title: "Anker USB C Hub (10-in-1), Dual Monitor with 4K HDMI, Max 10 inch"
 seo_title: "Anker USB C Hub 10-in-1 Review: Dual 4K HDMI Monitor Dock"
 meta_description: "Honest Anker USB C Hub 10-in-1 review: dual 4K HDMI, 85W PD, data ports. See real pros, cons, and who should buy this workspace dock."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BNZW5HJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614ItqC4F2L._SL1500_.jpg"
-pros:
+pros: 
   - "True dual 4K@60Hz output when connected via a single USB-C cable — rare at this price point"
   - "85W Power Delivery passthrough keeps a 16-inch MacBook Pro fully charged under load"
   - "Compact aluminum body dissipates heat well; doesn't throttle even after hours of dual-monitor use"
-cons:
+cons: 
   - "Requires DisplayLink drivers for dual extended displays; macOS users will need to install third-party software"
   - "No SD/microSD card slot — content creators will need a separate reader"
+
 ---
 
 Let's be blunt: most "10-in-1" USB-C hubs are glorified port expanders that choke the moment you plug in a second monitor. This Anker hub isn't that. It's a proper dual-monitor dock that fits in a jacket pocket — but it comes with a catch you need to know about before buying.

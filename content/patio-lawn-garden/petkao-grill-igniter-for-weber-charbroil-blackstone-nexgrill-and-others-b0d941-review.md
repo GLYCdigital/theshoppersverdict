@@ -1,4 +1,5 @@
 ---
+
 title: "PETKAO Grill Igniter for Weber, Charbroil, Blackstone, Nexgr"
 seo_title: "PETKAO Grill Igniter for Weber, Charbroil, Blackst Review"
 meta_description: "Our full petkao grill igniter for weber, charbroil, blackstone, nexgr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D941T2ZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717EBMKVJ-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to light your gas grill for the first cookout of the season, you press the igniter, and... nothing. No click, no spark, just the hiss of propane. Before you call a repair tech or drop $200 on a new grill, the PETKAO Grill Igniter is the $15-ish fix that 225 Amazon buyers have already used to resurrect their Weber, Charbroil, Blackstone, or Nexgr.

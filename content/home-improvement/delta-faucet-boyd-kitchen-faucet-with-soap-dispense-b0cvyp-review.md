@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Boyd Kitchen Faucet with Soap Dispense"
 seo_title: "Delta Faucet Boyd Kitchen Faucet Review (2026): Worth It?"
 meta_description: "Delta Faucet Boyd Kitchen Faucet with Soap Dispense review: 4.6/5 rating. Is the Touch2O tech worth $246? Real pros, cons, and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVYPRGBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618Xx6mkBcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Touch2O technology responds to a light tap anywhere on the spout or handle — no handle twisting needed when hands are messy"
   - "Integrated soap dispenser is actually useful (holds ~10 oz) and matches the faucet finish, eliminating the countertop pump eyesore"
   - "DIAMOND Seal ceramic valves and PVD finish hold up against hard water and daily scrubbing without spotting or wearing thin"
-cons:
+cons: 
   - "Touch2O requires batteries (6 AA) that mount under the sink — expect to change them every 6-12 months depending on usage"
   - "The soap dispenser pump is plastic and feels lighter-duty than the faucet itself; some buyers report it breaking after a year"
   - "No pull-down sprayer — it's a fixed gooseneck design, which limits reach for filling tall pots or rinsing the far side of a double basin"
+
 ---
 
 **The Delta Boyd isn't just another kitchen faucet — it's the one that makes you realize how often you touch a faucet with raw chicken hands.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Earth Animal Wisdom Air Dried Dog Food | Premium Natural Dog"
 seo_title: "Earth Animal Wisdom Air Dried Dog Food Review (2026)"
 meta_description: "Earth Animal Wisdom Air Dried Dog Food review: honest breakdown of ingredients, picky eater results, and value. See if this premium natural food is worth it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DDWFB4ZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZCfPwR2pL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Air-dried at low temps preserves enzymes and nutrients better than high-heat kibble processing"
   - "Single-protein options work well for dogs with chicken or beef sensitivities"
   - "Dense nutrition means small portions — a bag lasts noticeably longer than expected"
-cons:
+cons: 
   - "Premium price point runs 2-3x higher per pound than conventional kibble"
   - "Hard texture requires thorough chewing — small breeds or seniors may need it rehydrated"
+
 ---
 
 Let's be honest about what "premium natural dog food" usually means: a pretty bag, a bigger price tag, and ingredients that sound great on paper but don't always deliver. Earth Animal's Wisdom Air Dried line is different — it's actually trying to solve a real problem. Most kibble is cooked at temperatures high enough to destroy enzymes and denature proteins. Air drying at low heat preserves more of the nutritional profile while creating a shelf-stable food that doesn't require refrigeration. That's the pitch, and after digging into the formulation, it mostly holds up.

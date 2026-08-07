@@ -1,4 +1,5 @@
 ---
+
 title: "Briogeo Curl Charisma Rice Amino + Avocado Leave-In Defining"
 seo_title: "Briogeo Curl Charisma Leave-In Review: Worth It? (2026)"
 meta_description: "Honest Briogeo Curl Charisma Rice Amino + Avocado Leave-In Defining review. Does it beat frizz without crunch? Real results, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CDFF3JT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512qTt0uQ6L._SL1000_.jpg"
-pros:
+pros: 
   - "Rice amino acids strengthen curls while avocado oil seals moisture without weighing down fine textures"
   - "Pump dispenser delivers precise doses — no wasted product or messy squeeze tubes"
   - "Defines spirals and waves without crunch or flaking, even on day-two hair"
-cons:
+cons: 
   - "Fragrance is noticeable — citrus-herbal blend may irritate sensitive scalps"
   - "Not enough hold for tight coils needing serious frizz control in high humidity"
+
 ---
 
 Let's be direct: the curl market is flooded with leave-ins that promise definition and deliver crunchy, product-caked disappointment. The Briogeo Curl Charisma Rice Amino + Avocado Leave-In Defining Cream is not that product. But is it worth the premium price? Here's what 215 Amazon reviewers and my own research say.

@@ -1,4 +1,5 @@
 ---
+
 title: "WAC Lighting WP-LED430-30-aBK Endurance Single Energy Star L"
 seo_title: "WAC Lighting WP-LED430-30-aBK Endurance Single Ene Review"
 meta_description: "Our full wac lighting wp-led430-30-abk endurance single energy star l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HQWF57R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51s4LyLhXJL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The 4.4-Star LED Spot That Hides Its Best Feature

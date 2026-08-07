@@ -1,4 +1,5 @@
 ---
+
 title: "Epakh 30 Pack Shop Ticket Holders 9 x 12 Inch Work Order Pla"
 seo_title: "Epakh Shop Ticket Holders Review: 30-Pack 9x12 Work Order Pockets"
 meta_description: "Epakh 30-pack 9x12 shop ticket holders review: durable vinyl work order pockets, magnetic mounting, clear visibility. Real pros, cons & who should buy."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B9GP851F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813r5MQ3i3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty 0.2mm clear vinyl that resists tearing at corners, even with daily paper insertion"
   - "Magnetic backing holds firmly to steel surfaces but releases cleanly without leaving residue"
   - "Generous 30-pack quantity—enough to outfit an entire shop floor or service department"
   - "Open-top design makes swapping work orders fast; no fiddling with flaps or zippers"
-cons:
+cons: 
   - "Magnets are strong enough that repositioning on thin steel panels can scratch painted surfaces"
   - "9x12 size fits standard paper unfolded but leaves zero slack—tight fit for thick multi-page packets"
   - "Vinyl picks up dust and fingerprints quickly; needs occasional wiping to stay fully transparent"
+
 ---
 
 If you run an auto shop, fabrication shop, or any workspace where paper work orders get shuffled, dropped, and lost, the Epakh 30-pack of 9x12 shop ticket holders is the kind of simple fix that pays for itself in a week. These aren't fancy—they're clear vinyl pouches with magnets—but they solve a real problem: keeping job cards visible and attached to the thing they belong to.

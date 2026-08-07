@@ -1,4 +1,5 @@
 ---
+
 title: "DORESshop LED Night Light, Night Lights Plug Into Wall with"
 seo_title: "DORESshop LED Night Light Review: Dusk-to-Dawn Plug-In"
 meta_description: "Honest DORESshop LED night light review: build quality, brightness, sensor performance, and who should buy. Real pros and cons from 215 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSQZ4PDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716x84byj6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto on/off dusk-to-dawn sensor actually works — no flickering or false triggers reported by most buyers"
   - "Compact low-profile housing leaves the second outlet fully accessible, unlike bulky units that block both sockets"
   - "Warm 3000K light is genuinely dim enough for nighttime navigation without destroying your sleep cycle"
-cons:
+cons: 
   - "Sensor can be fooled by direct sunlight through windows or bright artificial light in certain placements"
   - "Not dimmable — you get one brightness level only, which some buyers find too bright for a nursery"
+
 ---
 
 ## The $15 Night Light That Actually Thinks for Itself

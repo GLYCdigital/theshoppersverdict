@@ -1,16 +1,17 @@
 ---
+
 title: "Laird Superfood Focus Coffee, Medium Roast Ground Coffee Infused with Functional Mushrooms and Botanical Adaptogens, 12 oz. Bag"
 seo_title: "Laird Superfood Focus Coffee Review: Verdict (4.2/5) | TSV"
 meta_description: "Our honest Laird Superfood Focus Coffee review: real buyer quotes on taste, energy, price. Functional mushroom coffee worth it? Verdict inside."
 slug: "laird-superfood-focus-coffee-medium-roast-ground-coffee-infused-with-functional-mushrooms-review"
 image_alt: "Laird Superfood Focus Coffee bag with functional mushrooms and adaptogens"
-keywords:
+keywords: 
   - "laird superfood focus coffee review"
   - "mushroom coffee review"
   - "focus coffee"
   - "best functional coffee"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Does Laird Superfood Focus Coffee taste like mushrooms?"
     answer: "No. Reviewers consistently say the mushroom and adaptogen blend is undetectable — one buyer described it as a smooth cup of coffee, and another noted 'no mushroom take, smooth coffee flavor.'"
   - question: "Is Laird Superfood Focus Coffee worth the price?"
@@ -23,15 +24,16 @@ review_count: 336
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08TTHJTLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sJQ0Y6pLL._SL1500_.jpg"
-pros:
+pros: 
   - "Smooth, balanced medium roast with no detectable mushroom flavor"
   - "Clean energy boost without jitters, reported across reviews"
   - "Brews like regular coffee — drip, French press, or cold brew"
   - "Peruvian beans with rhodiola, lion's mane, and coffee cherry"
-cons:
+cons: 
   - "Frequently cheaper in physical stores than on Amazon"
   - "Some buyers find the roast darker and milder than expected"
   - "Organic claim lacks visible third-party credentials, per one reviewer"
+
 ---
 
 **Opening Hook:** You've seen the mushroom coffee trend flooding your feed — but Laird Superfood Focus Coffee is one of the few that actually has the receipts. The brainchild of pro surfer Laird Hamilton and his nutritionist wife Gabby Reece, this isn't a novelty product. It's a 12-ounce bag of medium-roast grounds infused with Chaga, Lion's Mane, and botanical adaptogens like L-theanine and rhodiola. The question isn't whether mushroom coffee is a gimmick — it's whether this specific bag is worth $25 of your grocery budget.

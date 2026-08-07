@@ -1,4 +1,5 @@
 ---
+
 title: "(2026 Upgraded) Robotic Pool Vacuum for Above Ground Pool -"
 seo_title: "2026 Robotic Pool Vacuum for Above Ground Pools: Honest Review"
 meta_description: "2026 upgraded robotic pool vacuum for above ground pools: 6,600mAh battery, 130-min runtime. Real buyer feedback on suction, climbing, and value."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DYJSWSBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615ifo3j7HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "6,600mAh battery delivers genuine 130-minute runtime — covers most above-ground pools in a single pass"
   - "Lightweight (under 10 lbs) with easy-to-clean top-load filter basket that catches fine debris, not just leaves"
   - "Climbs walls effectively on vinyl and liner surfaces, reaching the waterline where algae tends to collect"
-cons:
+cons: 
   - "No remote control or app — you get one button and one cleaning pattern, so it's not a smart device"
   - "Struggles with large debris like acorns or twigs; the intake is sized for sand, silt, and small leaves only"
   - "Filter basket needs frequent emptying on heavy-debris pools — plan for mid-cycle cleaning if your pool is dirty"
+
 ---
 
 Let's be direct about this 2026 robotic pool vacuum: it's not a premium Dolphin or Polaris, and it doesn't pretend to be. What it is — a cordless, self-contained robot that scrubs your above-ground pool floor and walls for about two hours before needing a charge. At a 3.9-star average across 195 ratings, buyers are mostly satisfied, but the complaints are consistent enough that you need to know what you're signing up for before you hit "buy."

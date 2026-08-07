@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BTA830XL Die-Cast Long Slot Smart Toaster, 4 Slice,"
 seo_title: "Breville BTA830XL Smart Toaster Review: Worth It? (2026)"
 meta_description: "Breville BTA830XL 4-slice long slot toaster review: Even browning, lift & look, and bagel mode. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00AZY3TFE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oKEXnCzeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-long slots handle artisan loaves, baguettes, and Texas toast without forcing bread to fit"
   - "Lift & Look mechanism lets you check browning mid-cycle without canceling or resetting the toast"
   - "Die-cast body and weighted lever feel substantial — this toaster won't slide across the counter"
-cons:
+cons: 
   - "At roughly 12 pounds, it's heavy to move and takes up serious counter real estate"
   - "The LCD panel and electronic controls add complexity — more to fail than a simple mechanical toaster"
   - "Crumb tray is shallow and can be finicky to slide back in properly"
+
 ---
 
 **The Breville BTA830XL isn't a toaster for people who just want toast. It's a toaster for people who think about toast.**

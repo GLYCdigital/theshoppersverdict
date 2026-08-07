@@ -1,4 +1,5 @@
 ---
+
 title: "JOINICE Mid Modern Century Ladder Bookshelf"
 seo_title: "JOINICE Mid Modern Century Ladder Bookshelf Review: Verdi"
 meta_description: "Our full joinice mid modern century ladder bookshelf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FBFDJJXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71slNf5rmJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your living space is stuck in that awkward zone where you need storage but don't have room for a full-size bookcase, the JOINICE Mid Modern Century Ladder Bookshelf is the piece you've been scrolling past. At 4.2 stars across 210 ratings, it's not perfect — but it's solving a real problem for a lot of people.

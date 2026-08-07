@@ -1,4 +1,5 @@
 ---
+
 title: "Sweejar large glass jar"
 seo_title: "Sweejar large glass jar Review: Verdict | TSV"
 meta_description: "Our full sweejar large glass jar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9CN61JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oStTfVRhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some jars are just storage. This one is a workhorse. I've tested the Sweejar large glass jar for three weeks straight—flour, sugar, coffee beans, even homemade granola—and it's earned a permanent spot on my counter. Here's the full breakdown.

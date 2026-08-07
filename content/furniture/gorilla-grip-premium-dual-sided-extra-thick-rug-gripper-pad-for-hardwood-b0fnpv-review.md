@@ -1,4 +1,5 @@
 ---
+
 title: "GORILLA GRIP Premium Dual Sided Extra Thick Rug Gripper Pad"
 seo_title: "GORILLA GRIP Rug Gripper Pad Review: Does It Hold? (2026)"
 meta_description: "GORILLA GRIP Premium Dual Sided Extra Thick Rug Gripper Pad review: real hold tests, hardwood floor performance, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FNPVHYFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717JoFnJm0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Extra-thick 5mm padding that actually cushions feet and protects hardwood from furniture indentation"
   - "Dual-sided grip holds rugs firmly on both hardwood and tile without adhesive residue"
   - "Easy to cut with scissors for custom sizing — no special tools required"
-cons:
+cons: 
   - "Can trap moisture against hardwood floors if spills aren't wiped up quickly"
   - "Price per square foot runs higher than thinner felt pads — noticeable on large area rugs"
+
 ---
 
 If you've ever watched an area rug slowly migrate across a hardwood floor — or worse, caught a toe on a bunched-up corner — you know the struggle. The GORILLA GRIP Premium Dual Sided Extra Thick Rug Gripper Pad claims to end that battle. After digging through 220 ratings and testing the materials myself, here's the straight story.

@@ -1,4 +1,5 @@
 ---
+
 title: "30KMH RC Remote Control Boat with 7 LED Light Modes Waterpro"
 seo_title: "30KMH RC Boat with LED Lights Review: Fast, Fun, Waterproof"
 meta_description: "Honest 30KMH RC remote control boat review: speed, LED modes, waterproofing, battery life, and real buyer feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4PPYTY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QAXNhRrQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 30km/h top speed on 2S LiPo — genuinely fast for a sub-$100 RC boat"
   - "7 LED modes including strobe and steady burn; visible 100+ yards out at dusk"
   - "Self-righting hull design flips it back over automatically if it capsizes"
-cons:
+cons: 
   - "Battery life is short — expect 8–10 minutes of hard running per charge"
   - "No reverse function; you'll need to plan your turns or walk the shoreline"
   - "Waterproofing is good, not great — the hatch seal needs periodic re-greasing"
+
 ---
 
 Let me be blunt: most RC boats under $100 are glorified bath toys. This one isn't. The 30KMH RC boat with 7 LED light modes actually delivers on its headline speed claim, and the light show is a genuine crowd-pleaser after sunset. But it's not without compromises, and I'll walk you through exactly what to expect before you drop your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "SCIONE 24 Sets LED Flying Set, 24 Slingshot+24 Glow Helicopt"
 seo_title: "SCIONE 24 Sets LED Flying Set, 24 Slingshot+24 Glo Review"
 meta_description: "Our full scione 24 sets led flying set, 24 slingshot+24 glow helicopt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DD3P56BR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EHDoUvEJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict on SCIONE's 48-Piece LED Flying Set**

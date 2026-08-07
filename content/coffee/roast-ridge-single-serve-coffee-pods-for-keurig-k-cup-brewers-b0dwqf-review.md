@@ -1,4 +1,5 @@
 ---
+
 title: "Roast Ridge Single Serve Coffee Pods for Keurig K-Cup Brewer"
 seo_title: "Roast Ridge Single Serve Coffee Pods for Keurig K- Review"
 meta_description: "Our full roast ridge single serve coffee pods for keurig k-cup brewer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWQF6381/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71llk5g-v8L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about Roast Ridge pods: they're not trying to reinvent coffee. They're trying to make a damn good cup that works in your Keurig without fuss. After digging through 220 ratings and the specs, here's what actually matters.

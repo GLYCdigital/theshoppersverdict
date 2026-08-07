@@ -1,4 +1,5 @@
 ---
+
 title: "Lâ€œKeKe Country Farmhouse Console Table"
 seo_title: "Lâ€œKeKe Country Farmhouse Console Table Review: Verdict "
 meta_description: "Our full lâ€œkeke country farmhouse console table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFVWVY67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k8HVgGVrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lâ€œKeKe Country Farmhouse Console Table: A solid value in the crowded entryway table market — if you inspect it on arrival.**

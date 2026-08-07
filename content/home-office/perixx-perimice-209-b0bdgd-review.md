@@ -1,4 +1,5 @@
 ---
+
 title: "perixx PERIMICE-209"
 seo_title: "perixx PERIMICE-209 Review: Verdict | TSV"
 meta_description: "Our full perixx perimice-209 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BDGDM5C9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ER+jVvnNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Perixx PERIMICE-209: A Silent Workhorse or a Compromise?

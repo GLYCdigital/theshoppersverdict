@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Monitor"
 seo_title: "Amazon Basics Monitor Review: Budget 24-Inch Display Worth It?"
 meta_description: "Amazon Basics Monitor review: 24-inch IPS display at $89.99. Is the 4.6-star budget monitor worth buying? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQXVRYPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DGMcSXXbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "1080p IPS panel with 75Hz refresh — colors stay accurate at wide angles, and motion looks smoother than the typical 60Hz budget display."
   - "VESA mount compatible (100x100mm) plus tilt-adjustable stand — dead simple to wall-mount or use with a monitor arm right out of the box."
   - "IPS panel beats VA and TN at this price point — no color shifting when you lean back in your chair."
-cons:
+cons: 
   - "Stand offers tilt only — no height or swivel adjustment. You'll need a VESA arm if you want proper ergonomics."
   - "Speakers are weak at roughly 2W each — they handle system sounds but you'll want headphones or external speakers for anything else."
   - "HDMI 1.4 and VGA inputs only — no DisplayPort or USB-C, so it's not ideal for newer laptops without adapters."
+
 ---
 
 **The honest truth about the $90 monitor that 229 Amazon shoppers rated 4.6 stars.**

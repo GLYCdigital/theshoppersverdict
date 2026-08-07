@@ -1,4 +1,5 @@
 ---
+
 title: "AMPACE Portable Power Station Andes 1500, Full Charge in 55 inch"
 seo_title: "AMPACE Andes 1500 Power Station Review: 55-Min Charge"
 meta_description: "AMPACE Andes 1500 portable power station review: 1462Wh capacity, 55-minute recharge, 2400W output. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7HN5RGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rzL98kUeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 55-minute 0-100% recharge via 2400W AC input — genuinely class-leading for this capacity class"
   - "2400W continuous output (4800W surge) handles heavy tools and appliances most 1500W units can't touch"
   - "Solid 1462Wh LiFePO4 battery with 4000+ cycle rating — roughly 10 years of daily use before meaningful degradation"
-cons:
+cons: 
   - "At roughly 35 lbs, it's 'portable' in the sense that it has a handle — not something you'll haul on long hikes"
   - "Fan noise under heavy load is noticeable — measured by several buyers as audible from 10+ feet away"
   - "No built-in MPPT solar controller settings menu; solar input is capped at 500W, slower than some rivals"
+
 ---
 
 The AMPACE Andes 1500 isn't trying to be the lightest power station on the market. It's not trying to be the smallest, either. What it's trying to do is deliver serious wattage to your patio, job site, or campsite — and recharge fast enough that you're not waiting all day to use it again. After digging through 220 ratings and the spec sheet, here's the real story.

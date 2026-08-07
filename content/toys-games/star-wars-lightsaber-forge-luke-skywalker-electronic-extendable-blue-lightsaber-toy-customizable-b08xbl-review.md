@@ -1,4 +1,5 @@
 ---
+
 title: "STAR WARS Lightsaber Forge Luke Skywalker Electronic Extenda"
 seo_title: "STAR WARS Lightsaber Forge Luke Skywalker Electron Review"
 meta_description: "Our full star wars lightsaber forge luke skywalker electronic extenda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08XBL3DQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dzIJH5i+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a Star Wars-obsessed kid (or you're honest about your own inner child), the **STAR WARS Lightsaber Forge Luke Skywalker Electronic Extenda** is the rare toy that delivers on its gimmick. The "Extenda" name isn't marketing fluff — the blade physically extends from the hilt with a firm push, turning a compact 11-inch hilt into a full 23-inch lightsaber. That's a genuinely clever design for parents who don't want a 3-foot plastic tube cluttering the living room between battles.

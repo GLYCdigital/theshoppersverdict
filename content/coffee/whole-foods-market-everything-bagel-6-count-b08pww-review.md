@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market Everything Bagel 6 Count"
 seo_title: "Whole Foods Market Everything Bagel 6 Count Review: Verdi"
 meta_description: "Our full whole foods market everything bagel 6 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08PWWTKQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XQ64E8ENL._SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Whole Foods Market Everything Bagel 6 Count: The Honest Verdict

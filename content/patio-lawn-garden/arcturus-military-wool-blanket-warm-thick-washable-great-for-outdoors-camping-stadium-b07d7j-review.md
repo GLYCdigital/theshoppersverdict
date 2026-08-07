@@ -1,4 +1,5 @@
 ---
+
 title: "Arcturus Military Wool Blanket - Warm, Thick, Washable - Gre"
 seo_title: "Arcturus Military Wool Blanket Review: Warm, Thick, Washable"
 meta_description: "Read our honest Arcturus Military Wool Blanket review. Is this 4.6-star washable wool blanket worth it for camping, stadiums, or your patio? Find out."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D7JC76Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORM7BzsBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - 62 inch x 84 inch true full-size coverage that fits a bed or wraps two people on a chilly patio
   - "80% wool blend with a tight weave that blocks wind and retains heat even when damp"
   - "Machine washable on gentle cycle — rare for wool blankets, which are usually dry-clean only"
   - "Reinforced nylon binding on the edges resists fraying after repeated use and washing"
-cons:
+cons: 
   - "Initial wool smell is strong and requires airing out or a wash before first use"
   - "At roughly 4.5 pounds, it's heavier than synthetic throws — not ideal for ultralight backpacking"
   - "Color fastness is imperfect; wash separately the first time to avoid dye transfer"
+
 ---
 
 Let's be blunt: most "wool" blankets sold on Amazon are 20% wool at best, with a fleece backing doing the actual work. The Arcturus Military Wool Blanket isn't that. At 80% wool with a tight, dense weave, this is a proper blanket that performs like the surplus military issue it's modeled after — with one significant modern upgrade: you can actually wash it.

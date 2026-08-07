@@ -1,4 +1,5 @@
 ---
+
 title: "IGOYE Cutting Board, Double Sided Chopping Board for Kitchen"
 seo_title: "IGOYE Cutting Board, Double Sided Chopping Board f Review"
 meta_description: "Our full igoye cutting board, double sided chopping board for kitchen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F4QYGPFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SltaPQFiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The IGOYE double-sided cutting board is the kind of product that seems simple until you actually use it. Most budget boards are single-sided, which means you're either cross-contaminating your chicken and your carrots or buying two separate boards that take up counter space. This one gives you two surfaces in a single slab of bamboo — and for most home cooks, that's genuinely useful.

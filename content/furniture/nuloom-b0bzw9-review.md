@@ -1,4 +1,5 @@
 ---
+
 title: "nuLOOM"
 seo_title: "nuLOOM Review: Verdict | TSV"
 meta_description: "Our full nuloom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BZW9H1H9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hQqNJ3zYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some rugs look great in the listing photos and feel like sandpaper in person. The nuLOOM doesn't have that problem — but it does have its own set of tradeoffs that you need to know about before you hit "add to cart."

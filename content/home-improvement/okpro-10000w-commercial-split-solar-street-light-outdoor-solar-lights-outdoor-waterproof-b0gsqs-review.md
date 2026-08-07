@@ -1,4 +1,5 @@
 ---
+
 title: "OKPRO 10000W Commercial Split Solar Street Light Outdoor, So"
 seo_title: "OKPRO 10000W Commercial Split Solar Street Light O Review"
 meta_description: "Our full okpro 10000w commercial split solar street light outdoor, so review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GSQS6JXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the wattage hype immediately: the OKPRO 10000W is not a 10,000-watt light. No solar fixture is. What you're actually getting is a commercial-grade split solar street light with roughly 12,000 lumens of real output — which is still genuinely impressive for off-grid lighting. The question isn't whether it's powerful; it's whether it's worth your money. At 4.2 stars across 210 ratings, the answer is mostly yes, with caveats.

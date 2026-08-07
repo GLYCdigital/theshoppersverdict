@@ -1,4 +1,5 @@
 ---
+
 title: "MITIME Floating Shelves Set of 3 Rustic Solid Wood Floating "
 seo_title: "MITIME Floating Shelves Set of 3 Rustic Solid Wood Review"
 meta_description: "Our full mitime floating shelves set of 3 rustic solid wood floating  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1TMV6KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iwj3lxXiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** These shelves deliver exactly what the name promises — solid wood that floats. If you're tired of cheap laminated MDF that sags under a single candle, the MITIME set is a legitimate upgrade. But there's a catch with the finish, and it's worth knowing before you buy.

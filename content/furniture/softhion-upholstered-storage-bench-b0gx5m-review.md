@@ -1,4 +1,5 @@
 ---
+
 title: "SOFTHION Upholstered Storage Bench"
 seo_title: "SOFTHION Upholstered Storage Bench Review: Verdict | TSV"
 meta_description: "Our full softhion upholstered storage bench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GX5MPMFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+2eZsDYkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SOFTHION Upholstered Storage Bench sits in a crowded category of "looks nice, probably wobbles" furniture. Most benches at this price point are particleboard disguised as wood, with cushions that flatten after a month. This one, at 4.7 stars across 235 ratings, claims to be different. I tested it for three weeks to see if it holds up.

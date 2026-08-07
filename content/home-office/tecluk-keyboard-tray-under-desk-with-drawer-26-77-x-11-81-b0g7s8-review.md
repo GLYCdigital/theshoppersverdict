@@ -1,7 +1,8 @@
 ---
-title: "TECLUK Keyboard Tray Under Desk with Drawer,26.77\" X 11.81\" "
-seo_title: "TECLUK Keyboard Tray Under Desk with Drawer,26.77\" Review"
-meta_description: "Our full tecluk keyboard tray under desk with drawer,26.77\" x 11.81\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "TECLUK Keyboard Tray Under Desk with Drawer,26.77\ X 11.81\ "
+seo_title: "TECLUK Keyboard Tray Under Desk with Drawer,26.77\ Review"
+meta_description: "Our full tecluk keyboard tray under desk with drawer,26.77\ x 11.81\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tecluk-keyboard-tray-under-desk-with-drawer-26-77-x-11-81-b0g7s8-review"
 image_alt: "TECLUK Keyboard Tray Under Desk with Drawer,26.77 X 11.81 Keyboard Tray Large Size with C Clamp-on Mount, Easy to Instal"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G7S8SBQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RxRkhEhnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your shoulders have been screaming after an hour of typing, you already know the problem: your keyboard is sitting too high. The TECLUK under-desk keyboard tray with drawer (26.77" x 11.81", $53.99) tackles that directly by pulling your input devices down to elbow level, where they belong. But is it worth drilling into your desk for? Let's get into it.

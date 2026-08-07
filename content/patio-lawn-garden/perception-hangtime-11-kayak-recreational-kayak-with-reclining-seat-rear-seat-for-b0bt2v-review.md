@@ -1,4 +1,5 @@
 ---
+
 title: "Perception Hangtime 11 Kayak - Recreational Kayak with Recli"
 seo_title: "Perception Hangtime 11 Kayak - Recreational Kayak  Review"
 meta_description: "Our full perception hangtime 11 kayak - recreational kayak with recli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BT2VBMBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dabqt+2oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: the Perception Hangtime 11 is not the kayak you buy if you want to impress your friends with a carbon-fiber paddle and a roof rack full of expedition gear. It's the kayak you buy because you want to get on the water without a second mortgage.

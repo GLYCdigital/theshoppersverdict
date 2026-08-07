@@ -1,4 +1,5 @@
 ---
+
 title: "12V JCB Ride On Excavator with Remote Control,Electric Car f"
 seo_title: "12V JCB Ride On Excavator Review: Remote Control Digger for Kids"
 meta_description: "Honest review of the 12V JCB Ride On Excavator with remote control. Real specs, battery life, and what buyers say before you spend $200+."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6RDHY8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71569fuL+7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Working excavator arm and bucket actually lift and dig — not a static plastic shell"
   - "Parent remote control with emergency stop gives real oversight for younger kids"
   - "12V battery handles grass and mild slopes better than typical 6V ride-ons"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes and the manual's diagrams are occasionally unclear"
   - "Excavator arm is slow — kids who want instant gratification may lose interest"
   - "No suspension means bumpy rides on uneven terrain; seats are firm"
+
 ---
 
 If your kid is obsessed with construction vehicles, the 12V JCB Ride On Excavator is going to make their year. This isn't another generic jeep with a decal slapped on the side. The arm actually moves. The bucket actually scoops. And as shown in the product image, it's styled to look like a mini version of the real JCB diggers you see on job sites — bright yellow, chunky tires, and that unmistakable silhouette.

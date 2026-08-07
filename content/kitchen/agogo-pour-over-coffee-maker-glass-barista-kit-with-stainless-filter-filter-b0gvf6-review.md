@@ -1,4 +1,5 @@
 ---
+
 title: "AGOGO Pour Over Coffee Maker Glass - Barista Kit with Stainl"
 seo_title: "AGOGO Pour Over Coffee Maker Review: Barista Kit Tested"
 meta_description: "AGOGO pour over coffee maker glass barista kit review: thick borosilicate carafe, stainless filter, and real brew results. Pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVF6TV6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A93muc+LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass carafe rated for thermal shock — survives rapid temperature changes without cracking"
   - "Double-layer stainless steel mesh filter (100-150 micron) catches fines while letting natural oils through for a fuller cup"
   - "Complete kit includes dripper, carafe, filter, and scoop — no hidden accessories to buy"
-cons:
+cons: 
   - "No gooseneck kettle included; standard kettles pour too aggressively for optimal bloom and extraction"
   - "Filter requires thorough rinsing after each use — coffee oils accumulate in the mesh and turn bitter if neglected"
+
 ---
 
 Let's be direct: most pour-over kits under $40 are disposable junk that belongs in a drawer. The AGOGO Barista Kit is not that. It's a properly engineered brewing setup that will make better coffee than your $200 automatic machine — if you're willing to do ten minutes of manual work.

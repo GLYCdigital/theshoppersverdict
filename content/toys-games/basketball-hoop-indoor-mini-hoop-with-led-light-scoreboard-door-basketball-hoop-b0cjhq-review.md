@@ -1,4 +1,5 @@
 ---
+
 title: "Basketball Hoop Indoor,Mini Hoop with LED Light/Scoreboard,"
 seo_title: "Indoor Mini Basketball Hoop Review: LED & Scoreboard"
 meta_description: "Honest review of the indoor mini basketball hoop with LED light and scoreboard. See what buyers love, where it falls short, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CJHQHG21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QqDxzCEwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "LED backboard light genuinely improves visibility in dim rooms — not a gimmick"
   - "Scoreboard auto-tracks makes and misses with sound effects, adding real game feel"
   - "Mounts securely over standard doors without screws, and removal leaves no residue"
-cons:
+cons: 
   - "Backboard is smaller than standard mini hoops — shots that clank off the rim often miss the board entirely"
   - "Scoreboard sound effects are loud with no volume control; annoying in shared walls or during late-night play"
   - "Comes with only one ball; a second is needed for actual back-and-forth play"
+
 ---
 
 **Is this the indoor hoop that finally justifies the “no balls in the house” rule?** With 215 ratings averaging 4.3 stars, the Basketball Hoop Indoor Mini Hoop with LED Light and Scoreboard is clearly doing something right. But let’s get past the product photos and talk about whether it actually earns a spot on your door.

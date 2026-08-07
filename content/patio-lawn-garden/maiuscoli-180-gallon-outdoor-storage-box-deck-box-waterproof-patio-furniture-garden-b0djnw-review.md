@@ -1,4 +1,5 @@
 ---
+
 title: "MAIUSCOLI 180 Gallon Outdoor Storage Box - Deck Box Waterpro"
 seo_title: "MAIUSCOLI 180 Gallon Outdoor Storage Box - Deck Bo Review"
 meta_description: "Our full maiuscoli 180 gallon outdoor storage box - deck box waterpro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJNWSVQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uEyMvx42L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been eyeing a deck box that’s big enough to swallow your entire patio setup, the MAIUSCOLI 180-gallon storage box is likely on your radar. It’s a beast — literally. At roughly 60 inches wide, 26 inches deep, and 27 inches tall, this isn’t a subtle piece of furniture. It’s a storage shed that happens to look like a bench. But does it hold up to the “waterproof” claim in its name? Let’s dig into the details.

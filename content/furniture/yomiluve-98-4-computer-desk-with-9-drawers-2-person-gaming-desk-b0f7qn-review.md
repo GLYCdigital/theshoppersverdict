@@ -1,7 +1,8 @@
 ---
-title: "YOMILUVE 98.4\" Computer Desk with 9 Drawers, 2 Person Gaming"
-seo_title: "YOMILUVE 98.4\" Computer Desk with 9 Drawers, 2 Per Review"
-meta_description: "Our full yomiluve 98.4\" computer desk with 9 drawers, 2 person gaming review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "YOMILUVE 98.4\ Computer Desk with 9 Drawers, 2 Person Gaming"
+seo_title: "YOMILUVE 98.4\ Computer Desk with 9 Drawers, 2 Per Review"
+meta_description: "Our full yomiluve 98.4\ computer desk with 9 drawers, 2 person gaming review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yomiluve-98-4-computer-desk-with-9-drawers-2-person-gaming-desk-b0f7qn-review"
 image_alt: "YOMILUVE 98.4 Computer Desk with 9 Drawers, 2 Person Gaming Desk with LED Lights & Power Outlet, Long Double Home Office"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F7QNH26R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i3arw8I8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: a 98-inch desk with nine drawers screams “we solved your clutter problem.” The Yomiluve 98.4” Computer Desk makes a bold promise — two-person workstation, serious storage, gaming-grade stability. But with zero customer reviews on Amazon, you’re buying on spec sheet alone. Here’s what that spec sheet actually tells you.

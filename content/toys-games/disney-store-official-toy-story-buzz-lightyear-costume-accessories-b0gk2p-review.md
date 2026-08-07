@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Store Official Toy Story Buzz Lightyear Costume Acces"
 seo_title: "Disney Store Buzz Lightyear Costume Accessories Review (2026)"
 meta_description: "Honest review of Disney Store's official Buzz Lightyear costume accessories: build quality, sizing, what's included, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GK2PLX2L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sWlkOgkSL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Officially licensed Disney Store quality — screen-accurate details that cheap knockoffs miss"
   - "Wings actually open and close with a satisfying click mechanism, not just static plastic"
   - "Multiple pieces included (wings, communicator, chest button) so you can mix and match with an existing costume"
-cons:
+cons: 
   - "Wings are sized for small kids — older children or adults will find them snug"
   - "Some buyers report the communicator strap is thin and can snap with rough play"
   - "No sound effects — kids expecting the 'To infinity and beyond!' voice will be disappointed"
+
 ---
 
 Let's be honest: there are about 47 different Buzz Lightyear costume accessories on Amazon, and most of them are flimsy plastic garbage that'll break before the first round of trick-or-treating. The Disney Store official version costs more, but after digging through 229 ratings averaging 4.6 stars, the consensus is clear: you get what you pay for.

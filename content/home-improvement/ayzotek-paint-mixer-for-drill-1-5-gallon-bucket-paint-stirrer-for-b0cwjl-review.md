@@ -1,23 +1,25 @@
 ---
+
 title: "AYZOTEK Paint Mixer for Drill, 1-5 Gallon Bucket, Paint Stir"
 seo_title: "AYZOTEK Paint Mixer Review: 2026 Drill Stirrer Tested"
 meta_description: "Our AYZOTEK paint mixer for drill review covers 1-5 gallon bucket performance, build quality, and real user feedback. Is it worth $20? Read this."
 slug: "ayzotek-paint-mixer-for-drill-1-5-gallon-bucket-paint-stirrer-for-b0cwjl-review"
 image_alt: "AYZOTEK paint mixer drill attachment stirring paint in a 5-gallon bucket"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWJL134D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611ktHSL5sL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Fits standard 3/8-inch drill chucks with a hex shank that grips without slipping"  
   - "Shaft length (approximately 17 inches) reaches the bottom of 5-gallon buckets without splashing"  
   - "Stainless steel shaft and polypropylene fins resist rust and paint thinner damage"  
-cons:  
+cons: 
   - "Aggressive mixing action can whip air into thin paints, creating bubbles if run above 600 RPM"  
   - "Not designed for heavy-bodied materials like joint compound or thinset — fins flex under load"
+
 ---
 
 Some drill-powered paint mixers are flimsy wire cages that bend on the second use. The AYZOTEK takes a different approach — a solid auger-style shaft with twin paddle fins that actually move paint, not just wiggle it. For under $20, this is the kind of tool that makes a 5-gallon bucket of primer feel like a 1-quart can.

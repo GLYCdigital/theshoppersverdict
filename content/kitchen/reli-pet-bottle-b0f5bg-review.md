@@ -1,4 +1,5 @@
 ---
+
 title: "Reli. PET Bottle"
 seo_title: "Reli. PET Bottle Review: Verdict | TSV"
 meta_description: "Our full reli. pet bottle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5BG6PV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BwvwWJI2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're looking for a no-nonsense water bottle that won't dent, shatter, or leak, the Reli. PET Bottle is worth a serious look. But before you tap "add to cart," understand what you're giving up — because this isn't a thermos, and it's not trying to be.

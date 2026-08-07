@@ -1,23 +1,25 @@
 ---
+
 title: "Abu Garcia Ambassadeur S Baitcast Round Fishing Reel"
 seo_title: "Abu Garcia Ambassadeur S Review: Classic Round Baitcaster"
 meta_description: "Honest Abu Garcia Ambassadeur S baitcast reel review: build quality, casting performance, and who should buy this round reel. 4.5-star rated."
 slug: "abu-garcia-ambassadeur-s-baitcast-round-fishing-reel-b0b17n-review"
 image_alt: "Abu Garcia Ambassadeur S round baitcast fishing reel with side plate and star drag"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B17NST7Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pSn5eKCkL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Smooth, reliable drag system that handles big fish without slipping"  
   - "Classic round-baitcaster design balanced for pitching and flipping heavy lures"  
   - "Solid aluminum frame that shrugs off saltwater and hard knocks"  
-cons:  
+cons: 
   - "Heavier than modern low-profile baitcasters — wrist fatigue on long days"  
   - "Right-hand retrieve only — lefties will need to look elsewhere"
+
 ---
 
 Some reels get hyped for their flashy colors or a thousand ball bearings. The Abu Garcia Ambassadeur S isn't that reel. It’s the fishing equivalent of a cast-iron skillet — unglamorous, heavy, and utterly dependable. And after 225 Amazon ratings averaging 4.5 stars, it's clear anglers respect what this round reel does: win fights.

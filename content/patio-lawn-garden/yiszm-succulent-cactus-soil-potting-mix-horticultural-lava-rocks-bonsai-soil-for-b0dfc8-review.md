@@ -1,4 +1,5 @@
 ---
+
 title: "YISZM Succulent Cactus Soil Potting Mix Horticultural Lava R"
 seo_title: "YISZM Succulent Cactus Soil Potting Mix Horticultu Review"
 meta_description: "Our full yiszm succulent cactus soil potting mix horticultural lava r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFC88C6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z3ouxnl-L._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more succulents than you'd like to admit, the problem probably isn't your watering schedule — it's your soil. Most garden-center "cactus mixes" are still too moisture-retentive for plants that evolved in rocky, arid terrain. The YISZM Succulent Cactus Soil Potting Mix takes a different approach by leaning heavily on horticultural lava rock. Here's the honest breakdown after digging into what this blend actually does.

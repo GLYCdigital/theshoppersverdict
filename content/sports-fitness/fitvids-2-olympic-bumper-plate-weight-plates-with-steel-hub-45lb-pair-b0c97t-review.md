@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 2 inch  Olympic Bumper Plate Weight Plates with Steel Hub"
 seo_title: "Fitvids 2 inch  Olympic Bumper Plates Review: Steel Hub Value"
 meta_description: "Fitvids 2 inch  Olympic bumper plates with steel hub reviewed: durability, bounce, and accuracy tested. See if these budget plates fit your home gym."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C97T4CXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uV0iv24WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full 2-inch steel hub insert runs through the entire plate — no plastic sleeve that cracks or wobbles on the bar"
   - "Crumb rubber compound delivers minimal bounce and low odor, unlike virgin rubber plates that reek for weeks"
   - "True-to-weight accuracy within 1-2%, so you're not secretly lifting light plates during progressive overload"
-cons:
+cons: 
   - "Slight rubber smell lingers for the first week even though it's crumb rubber — air them out before use"
   - "Surface texture is a bit rougher than premium brands like Rogue; chalk residue builds up in the divots"
+
 ---
 
 # Fitvids 2" Olympic Bumper Plates: Budget Bumpers That Actually Hold Up

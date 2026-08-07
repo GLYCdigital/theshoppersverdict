@@ -1,4 +1,5 @@
 ---
+
 title: "DORESshop LED Night Light, Night Lights Plug into Wall with"
 seo_title: "DORESshop LED Night Light Review: Smart Sensor Plug-In (2026)"
 meta_description: "DORESshop LED night light review: 4.6★ rated plug-in with auto sensor. See real pros, cons & if it's worth buying for hallways, bedrooms & kids' rooms."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRGMXXYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+s+zVNlsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto light sensor turns on only in darkness — zero fiddling, no timer to program"
   - "Compact flush-mount design leaves the second outlet fully usable"
   - "Warm 3000K glow is bright enough to navigate by but won't wreck sleep cycles"
-cons:
+cons: 
   - "No on/off switch — you can't manually disable it without unplugging"
   - "Sensor can be triggered by distant lamps or TV glow in some rooms"
   - "Plastic housing feels light; not built for rough handling"
+
 ---
 
 ## A plug-in night light that actually thinks for itself

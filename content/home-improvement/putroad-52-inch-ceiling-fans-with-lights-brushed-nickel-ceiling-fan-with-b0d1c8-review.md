@@ -1,4 +1,5 @@
 ---
+
 title: "putroad 52 Inch Ceiling Fans with Lights, Brushed Nickel Cei"
 seo_title: "putroad 52 Inch Ceiling Fans with Lights, Brushed  Review"
 meta_description: "Our full putroad 52 inch ceiling fans with lights, brushed nickel cei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1C869C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EuE3weJbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### What's Actually in the Box

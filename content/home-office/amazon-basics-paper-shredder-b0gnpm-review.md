@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Paper Shredder"
 seo_title: "Amazon Basics Paper Shredder Review (2026): Worth It?"
 meta_description: "Amazon Basics Paper Shredder review: 8-sheet capacity, cross-cut security, and quiet operation. See real pros, cons, and if it's worth $31."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GNPMYYKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A+rTPp4CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cross-cut P-3 security level shreds to 4x40mm particles — suitable for confidential financial documents, not just junk mail"
   - "Quiet operation at roughly 60dB — won't drown out phone calls or irritate shared workspaces"
   - "8-sheet capacity handles typical home office workloads without constant emptying; 5.4-gallon bin means fewer trips to the trash"
-cons:
+cons: 
   - "No auto-oiling mechanism — you'll need to manually oil the blades every few weeks or risk jams"
   - "Cannot handle credit cards or staples despite the price point's implied versatility — those will damage the cutting heads"
   - "Continuous run time is limited to roughly 3 minutes before thermal protection kicks in — not built for marathon shredding sessions"
+
 ---
 
 Let's be honest about what you're getting for $31.63: a no-frills, surprisingly capable shredder that handles the 95% of home office shredding needs without drama. The Amazon Basics Paper Shredder doesn't reinvent the wheel, but it doesn't need to. It just needs to chew through your sensitive documents quietly and reliably — and that's exactly what it does.

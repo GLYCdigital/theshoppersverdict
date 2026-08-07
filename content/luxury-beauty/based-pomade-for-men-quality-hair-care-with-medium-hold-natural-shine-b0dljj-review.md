@@ -1,4 +1,5 @@
 ---
+
 title: "BASED Pomade for Men, Quality Hair Care with Medium Hold, Na"
 seo_title: "BASED Pomade for Men Review: Medium Hold, Natural Shine"
 meta_description: "Honest BASED pomade review: medium hold, natural shine, quality ingredients. See how it performs, who it's for, and whether it's worth the price."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLJJMY9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fO0f3mjCL._SL1500_.jpg"
-pros:
+pros: 
   - "Water-soluble formula washes out completely with one shampoo — no waxy buildup"
   - "Medium hold that stays flexible all day without stiffening or flaking"
   - "Clean scent profile — subtle bergamot and cedar, fades within 30 minutes"
-cons:
+cons: 
   - "Premium price point — roughly 2x drugstore pomades for similar volume"
   - "Low shine finish may disappoint guys wanting a glossy, wet-look style"
   - "Scoop out less than you think — a dime-sized amount goes further than expected"
+
 ---
 
 ## The Pomade That Actually Respects Your Hair

@@ -1,4 +1,5 @@
 ---
+
 title: "HXWEIYE Outdoor Mason Jar Solar Lanterns"
 seo_title: "HXWEIYE Outdoor Mason Jar Solar Lanterns Review: Verdict "
 meta_description: "Our full hxweiye outdoor mason jar solar lanterns review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CC1QPCJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AhAcHjiIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most solar patio lights are junk. They arrive with plastic “glass” that yellows in a season, or the panel is glued to the fixture so you’re forced to put it in direct sun whether you want to or not. The HXWEIYE Outdoor Mason Jar Solar Lanterns sidestep both of those traps — and that’s why they’ve earned a legitimate 4.4-star average across 220 ratings. But they’re not perfect. Here’s the full picture before you hit “buy.”

@@ -1,4 +1,5 @@
 ---
+
 title: "Nadex CR180 Electronic Cash Register, Steel Cash Drawer, Com"
 seo_title: "Nadex CR180 Electronic Cash Register, Steel Cash D Review"
 meta_description: "Our full nadex cr180 electronic cash register, steel cash drawer, com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DV4F58LT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YCZ14QndL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nadex CR180: A No-Nonsense Cash Register That Knows Its Lane**

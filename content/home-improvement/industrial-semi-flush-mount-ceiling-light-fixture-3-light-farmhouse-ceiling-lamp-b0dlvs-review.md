@@ -1,4 +1,5 @@
 ---
+
 title: "Industrial Semi Flush Mount Ceiling Light Fixtureï¼Œ3-Light "
 seo_title: "Industrial Semi Flush Mount Ceiling Light Fixtureï Review"
 meta_description: "Our full industrial semi flush mount ceiling light fixtureï¼œ3-light  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLVSHGLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ukXgCUL9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Walk into a room lit by this fixture and you'll notice it before you can name why. The exposed cage, the black steel arms, the way the light pools downward instead of washing the ceiling — it's got that warehouse-meets-coffee-shop personality that farmhouse and industrial décor trends have made so popular. But trends come and go. What matters is whether this thing holds up after a year of daily use, and whether the 4.6-star rating from 229 buyers actually holds water.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rotating Makeup Organizer, DIY 8 Adjustable Layers Spinning "
 seo_title: "Rotating Makeup Organizer, DIY 8 Adjustable Layers Review"
 meta_description: "Our full rotating makeup organizer, diy 8 adjustable layers spinning  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQSY91WK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618JNS2QB-L._SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

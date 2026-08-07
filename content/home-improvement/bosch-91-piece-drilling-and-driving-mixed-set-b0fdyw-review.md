@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH 91-Piece Drilling and Driving Mixed Set"
 seo_title: "BOSCH 91-Piece Drill and Driver Set Review (2026)"
 meta_description: "Honest BOSCH 91-Piece Drilling and Driving Mixed Set review: bit quality, case durability, and whether it's worth it for DIYers and pros."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDYWSSBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/917jRATacgL._SL1500_.jpg"
-pros:
+pros: 
   - "Impact-rated bits that actually survive repeated use without snapping under torque"
   - "Dual-sided bit storage keeps the case compact (roughly 10 x 7 x 2 inches) while holding 91 pieces"
   - "BOSCH's 5-star warranty backs the set — a meaningful safety net for a consumable product"
-cons:
+cons: 
   - "No 1/4-inch hex shank drill bits — you'll need a separate set for quick-change chucks"
   - "Case latch feels slightly stiff for the first week; loosens up with use"
+
 ---
 
 ## Is the BOSCH 91-Piece Set Worth Your Money?

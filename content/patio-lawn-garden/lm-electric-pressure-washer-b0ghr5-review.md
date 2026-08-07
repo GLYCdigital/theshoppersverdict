@@ -1,4 +1,5 @@
 ---
+
 title: "LM Electric Pressure Washer"
 seo_title: "LM Electric Pressure Washer Review: Verdict | TSV"
 meta_description: "Our full lm electric pressure washer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHR5473D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZFvbekC0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Is the LM Electric Pressure Washer worth your money?**  

@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie DreamHouse Dollhouse with 75+ Accessories and Wheelch"
 seo_title: "Barbie DreamHouse Dollhouse Review: 75+ Accessories & Wheelchair Lift"
 meta_description: "Honest Barbie DreamHouse Dollhouse review with wheelchair-accessible elevator, 75+ accessories, and 3-story play. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CVXQJHTQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818rEgBSmtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Working wheelchair-accessible elevator — genuinely functional, not a decorative ramp, and it fits standard Barbie wheelchairs"
   - "75+ accessories spread across three floors means kids can rotate play themes without buying add-ons"
   - "Flip-and-fold pool transforms into a second play space, effectively doubling the footprint"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes; the sticker sheet is tedious and requires patience (or adult help)"
   - "Plastic is sturdy but not indestructible — the elevator mechanism can jam if a doll's hair gets caught in the track"
   - "No furniture included for the third-floor bedroom; you'll need to buy the Dreamhouse furniture pack separately"
+
 ---
 
 # Barbie DreamHouse Dollhouse with 75+ Accessories: The Inclusive Upgrade That Actually Works

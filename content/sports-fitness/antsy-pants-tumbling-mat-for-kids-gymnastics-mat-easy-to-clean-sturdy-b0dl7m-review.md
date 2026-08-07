@@ -1,4 +1,5 @@
 ---
+
 title: "Antsy Pants Tumbling Mat for Kids – Gymnastics Mat, Easy t"
 seo_title: "Antsy Pants Tumbling Mat Review: Best Kids Gymnastics Mat?"
 meta_description: "Antsy Pants Tumbling Mat review: Is this 4.7-star gymnastics mat worth it? We test durability, grip, and cleanup for kids' flips and tumbles."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL7M2XTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LrGduS-eL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Non-slip bottom stays put on hardwood and carpet during cartwheels"
   - "Folds flat in seconds — no wrestling with straps or buckles"
   - "Closed-pore surface wipes clean with a damp cloth; juice and mud don't soak in"
-cons:
+cons: 
   - "Thin 1-inch padding — fine for tumbling but not for landing hard jumps"
   - "Shorter length (5 feet) limits older kids practicing full layouts"
+
 ---
 
 # Antsy Pants Tumbling Mat: The Honest Review After 235 Ratings

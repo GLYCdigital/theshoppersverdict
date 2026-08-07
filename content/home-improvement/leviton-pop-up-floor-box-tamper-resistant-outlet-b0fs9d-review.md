@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton Pop-Up Floor Box, Tamper-Resistant Outlet"
 seo_title: "Leviton Pop-Up Floor Box, Tamper-Resistant Outlet Review:"
 meta_description: "Our full leviton pop-up floor box, tamper-resistant outlet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FS9DKZ23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ei30ICuML._SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most homeowners don't think about floor boxes until they're staring at an extension cord running across a doorway or tripping over a power strip in the middle of the living room. The Leviton Pop-Up Floor Box solves that problem with a flush-mounted receptacle that rises from the floor when you need it and disappears when you don't. After digging through 220 ratings and analyzing the build specs, here's what you need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Iron Works Charleston Pendants"
 seo_title: "Franklin Iron Works Charleston Pendants Review (2026)"
 meta_description: "Honest Franklin Iron Works Charleston Pendants review: build quality, lighting performance, and whether these industrial pendants are worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXGTM4MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i6xJ7j13L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid all-steel construction with a textured matte black finish that resists fingerprints and smudges"
   - "Versatile 3-light configuration that works over kitchen islands, bars, or dining tables without looking sparse"
   - "Clear glass shades show off Edison bulbs beautifully, creating warm ambient light without harsh glare"
-cons:
+cons: 
   - "Open-bottom design means bulbs are fully exposed — you'll see dust and dead bugs accumulate inside"
   - "Requires a 36-inch minimum ceiling height; low-ceiling rooms will feel cramped with these installed"
   - "No dimmer included in the box, and you'll need to purchase compatible bulbs separately"
+
 ---
 
 ## The Real Story on These Industrial Pendants

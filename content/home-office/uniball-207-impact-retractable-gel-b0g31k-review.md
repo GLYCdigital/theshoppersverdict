@@ -1,4 +1,5 @@
 ---
+
 title: "uniball 207 Impact Retractable Gel"
 seo_title: "uniball 207 Impact Retractable Gel Review: Verdict | TSV"
 meta_description: "Our full uniball 207 impact retractable gel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G31KLZTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WJbMIm5LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a favorite pen die after a single drop from desk height, the uniball 207 Impact is engineered specifically to mock that experience. This isn't a gimmick—the reinforced tip and barrel are designed to survive impacts that send ordinary gel pens to an early grave. But durability alone doesn't earn a 4.6-star average across 229 ratings. The real story is how this pen balances toughness with a genuinely pleasant writing experience.

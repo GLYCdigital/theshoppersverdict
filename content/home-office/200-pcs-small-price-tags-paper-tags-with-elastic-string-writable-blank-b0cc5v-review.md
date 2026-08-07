@@ -1,4 +1,5 @@
 ---
+
 title: "200 Pcs Small Price Tags, Paper Tags with Elastic String, Wr"
 seo_title: "200 Pcs Small Price Tags Review: Writable Elastic String Tags"
 meta_description: "In-depth review of 200 Pcs Small Price Tags with elastic string. Are these writable paper tags worth it? Real pros, cons, and buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CC5VQ9S8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vuRHC0RvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy 250gsm cardstock won't tear when writing or removing from products"
   - "Elastic strings are genuinely stretchy and hold firm on oddly shaped items"
   - "200-count bulk pack works out cheaper per tag than retail store alternatives"
-cons:
+cons: 
   - "Tags are on the smaller side — roughly 1.5 x 1 inch — cramped for detailed pricing"
   - "Elastic string is attached, not removable; can snag on delicate fabrics if you're not careful"
+
 ---
 
 ## 200 Pcs Small Price Tags: The Bulk Option That Actually Delivers

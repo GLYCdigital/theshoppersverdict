@@ -1,4 +1,5 @@
 ---
+
 title: "Pfister Venturi Bathroom Sink Faucet"
 seo_title: "Pfister Venturi Bathroom Sink Faucet Review: Verdict | TS"
 meta_description: "Our full pfister venturi bathroom sink faucet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQ7KB2KJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Z6UliihoL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pfister Venturi Bathroom Sink Faucet: The Quiet Overachiever You Shouldn't Overlook

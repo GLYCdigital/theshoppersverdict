@@ -1,4 +1,5 @@
 ---
+
 title: "Alpha Grillers Meat Thermometer Digital Instant Read"
 seo_title: "Alpha Grillers Meat Thermometer Review: 2-3 Second Reads"
 meta_description: "Alpha Grillers instant read thermometer review: 2-3 second readings, backlit display, and magnetic back for $13. See if it beats ThermoPop."
@@ -11,13 +12,14 @@ review_count: 88627
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2-3 second read time matches thermometers costing 3x as much"
   - "IPX6 waterproof rating — rinse the whole unit under running water, not just the probe"
   - "Magnetic back + built-in bottle opener means it lives on your grill or fridge, not lost in a drawer"
-cons:
+cons: 
   - "No auto-off timer means the battery drains if you forget to power down (lasts ~2 years with normal use)"
   - "The probe tip is thin and can bend if you jam it into a bone or frozen meat"
+
 ---
 
 Let me be blunt: a $13 thermometer with 88,000+ ratings averaging 4.8 stars has no business being this good. But the Alpha Grillers Digital Instant Read has earned its spot as the default recommendation for home cooks who refuse to overcook another $40 ribeye.

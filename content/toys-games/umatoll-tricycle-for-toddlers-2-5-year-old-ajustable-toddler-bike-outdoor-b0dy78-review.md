@@ -1,4 +1,5 @@
 ---
+
 title: "Umatoll Tricycle for Toddlers 2-5 Year Old, Ajustable Toddle"
 seo_title: "Umatoll Tricycle for Toddlers 2-5 Year Old, Ajusta Review"
 meta_description: "Our full umatoll tricycle for toddlers 2-5 year old, ajustable toddle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DY782V5F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FBf7urqBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Umatoll Tricycle for Toddlers 2-5: The Adjustable Trike That Actually Earns Its Keep

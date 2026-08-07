@@ -1,4 +1,5 @@
 ---
+
 title: "GE Basic LED Light Bulbs"
 seo_title: "GE Basic LED Light Bulbs Review: Worth It? (2026)"
 meta_description: "GE Basic LED bulbs deliver 800 lumens, 15,000-hour life, and instant-on brightness. Read our honest review before buying this 4.7-star pack."
@@ -9,17 +10,18 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-pros:
+pros: 
   - "True 800-lumen output matches a 60W incandescent without the heat or energy draw"
   - "Instant full brightness with zero warm-up flicker, even in cold garages"
   - "Dimmable down to 10% without buzzing or color shift"
   - "15,000-hour rated lifespan means ~13 years at 3 hours/day"
-cons:
+cons: 
   - "Packaging is flimsy cardboard that can arrive crushed, risking cracked bulbs"
   - "Soft white (2700K) leans slightly warm/yellow for task lighting preferences"
   - "Non-standard dimmer compatibility — older dimmers may cause flicker at low settings"
 amazon_url: "https://www.amazon.com/dp/B0C8VGNKC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717gMnP0+iL._AC_SL1500_.jpg"
+
 ---
 
 # GE Basic LED Light Bulbs: The Workhorse Your House Actually Needs

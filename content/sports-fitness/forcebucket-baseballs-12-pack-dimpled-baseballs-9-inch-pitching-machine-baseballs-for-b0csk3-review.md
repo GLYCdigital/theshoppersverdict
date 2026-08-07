@@ -1,4 +1,5 @@
 ---
+
 title: "Forcebucket Baseballs 12 Pack Dimpled Baseballs, 9-Inch Pitc"
 seo_title: "Forcebucket 12-Pack Dimpled Baseballs Review: 9-Inch Pitch"
 meta_description: "Forcebucket dimpled baseballs 12-pack review: durability, pitching machine performance, and real buyer feedback. Worth the money? Find out here."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CSK32CYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media.mi.com/images/I/71Azcif3ZkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised seams replicate real baseball feel for grip and spin — not slick plastic junk"
   - "Dimpled surface reduces drag and keeps pitching machine jams to near zero"
   - "Holds up through hundreds of cage sessions without cracking or splitting"
-cons:
+cons: 
   - "Not officially weighted or sized to regulation specs — off-speed practice only"
   - "Paint/dimple pattern wears on hard cage surfaces after heavy use, leaving scuffs"
+
 ---
 
 If you’ve ever fed a dozen cheap plastic balls into a pitching machine only to watch them veer sideways or shatter on impact, the Forcebucket 12-pack is the correction. These dimpled baseballs sit in a crowded market, but with a 4.8-star average across 240 ratings, they’ve clearly earned their spot in batting cages from Little League to adult slow-pitch.

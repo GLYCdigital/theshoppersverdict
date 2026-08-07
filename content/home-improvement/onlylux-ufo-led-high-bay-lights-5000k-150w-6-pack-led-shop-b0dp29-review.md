@@ -1,4 +1,5 @@
 ---
+
 title: "ONLYLUX UFO LED High Bay Lights 5000K 150W 6 Pack, Led Shop "
 seo_title: "ONLYLUX UFO LED High Bay Lights 5000K 150W 6 Pack, Review"
 meta_description: "Our full onlylux ufo led high bay lights 5000k 150w 6 pack, led shop  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DP29H5QD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MnajEEq6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a warehouse, auto shop, or barn, you already know the struggle: cheap high bays flicker, throw harsh shadows, and die within a year. The ONLYLUX UFO 150W 6-pack is trying to be the exception. After digging through specifications, buyer feedback across 240 ratings, and the engineering choices here, I can tell you it mostly delivers — with a few caveats worth knowing before you click buy.

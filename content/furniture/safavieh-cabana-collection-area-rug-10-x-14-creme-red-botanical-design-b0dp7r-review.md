@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Cabana Collection Area Rug - 10' x 14', Creme & Red"
 seo_title: "SAFAVIEH Cabana Collection Area Rug - 10' x 14', C Review"
 meta_description: "Our full safavieh cabana collection area rug - 10' x 14', creme & red review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP7R12LJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZeG2oL2yS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10x14 rug is a commitment — in money, in floor space, and in the patience required to get it flat. The SAFAVIEH Cabana Collection in Creme & Red has earned its 4.4-star rating across 220 reviews, but it's not a set-and-forget purchase. Here's what you need to know before you click buy.

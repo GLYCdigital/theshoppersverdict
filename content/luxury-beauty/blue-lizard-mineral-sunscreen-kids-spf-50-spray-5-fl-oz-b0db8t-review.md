@@ -1,4 +1,5 @@
 ---
+
 title: "BLUE LIZARD Mineral Sunscreen Kids SPF 50+ Spray, 5 Fl Oz"
 seo_title: "BLUE LIZARD Mineral Sunscreen Kids SPF 50+ Spray Review"
 meta_description: "Honest BLUE LIZARD Mineral Sunscreen Kids SPF 50+ Spray review: coverage, white cast, and whether it's worth it for sensitive skin."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DB8TXSBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Color-changing cap turns blue in UV light — a genuinely useful visual cue that tells you when to reapply"
   - "Zinc oxide formula (16%) provides broad-spectrum protection without oxybenzone or octinoxate, making it reef-safe"
   - "Water-resistant for 80 minutes, which held up through pool time and heavy sweating in testing"
-cons:
+cons: 
   - "Leaves a visible white cast that takes 2-3 minutes of rubbing to blend — noticeable on deeper skin tones"
   - "Spray nozzle can clog if you don't shake it vigorously for a full 10 seconds before each use"
+
 ---
 
 ## The sunscreen that tells you when to reapply — but is it worth the fuss?

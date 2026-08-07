@@ -1,4 +1,5 @@
 ---
+
 title: "Bitter Apricot Seeds/Kernels, California USA Grown, Non GMO,"
 seo_title: "Bitter Apricot Seeds Review: California Grown, Raw & Non-GMO"
 meta_description: "Read our honest Bitter Apricot Seeds review. California-grown, non-GMO kernels with 4.6 stars. Learn about taste, potency, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07J66WVXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x+FOJ-1ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent potency batch-to-batch — buyers report the bitter almond aroma and flavor are reliably strong, indicating active amygdalin content"
   - "Whole raw kernels, not chopped or powdered, so you control dosage and freshness yourself"
   - "Sourced and packaged in California with clear origin labeling — no mystery sourcing from overseas"
-cons:
+cons: 
   - "Taste is genuinely unpleasant — intensely bitter with a marzipan-like undertone that lingers; not something you'll snack on"
   - "No dosage guidance printed on the bag — you must research safe consumption limits yourself, which is a real safety concern"
+
 ---
 
 **The Straight Talk on Bitter Apricot Seeds**

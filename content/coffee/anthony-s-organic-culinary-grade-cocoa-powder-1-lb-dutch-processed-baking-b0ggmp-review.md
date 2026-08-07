@@ -1,4 +1,5 @@
 ---
+
 title: "Anthony's Organic Culinary Grade Cocoa Powder, 1 lb, Dutch P"
 seo_title: "Anthony's Dutch Cocoa Review: Organic 1 lb Baking Essential"
 meta_description: "Honest Anthony's Organic Dutch Cocoa review: rich flavor, 1 lb value bag, organic certification. See pros, cons, and who should buy this baking staple."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGMPWCFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hvpEi9WSL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, mellow Dutch-processed flavor that dissolves cleanly in hot liquids without the sharp bite of natural cocoa"
   - "Certified organic and non-GMO at a price point that beats most grocery store brands per ounce"
   - "Resealable 1 lb foil pouch keeps cocoa fresh and clump-free for months of regular baking use"
-cons:
+cons: 
   - "Not alkalized enough for recipes strictly requiring Dutch cocoa's darkest color — some bakers report it's closer to a hybrid process"
   - "Lacks the fat content of premium brands like Valrhona, so it won't deliver the same luxurious mouthfeel in truffles"
+
 ---
 
 The 1-pound stand-up pouch arrives with a clean, no-nonsense design — nutritional panel, organic certification logo, and a resealable zipper that actually works. That last point matters more than you'd think. In the product image, the pouch looks straightforward, and that's exactly what you get. No scoop included, so keep your measuring spoons handy.

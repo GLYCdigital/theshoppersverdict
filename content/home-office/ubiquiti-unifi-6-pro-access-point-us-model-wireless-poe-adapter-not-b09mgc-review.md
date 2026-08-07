@@ -1,4 +1,5 @@
 ---
+
 title: "Ubiquiti UniFi 6 Pro Access Point | US Model, Wireless | PoE"
 seo_title: "Ubiquiti UniFi 6 Pro Access Point | US Model, Wire Review"
 meta_description: "Our full ubiquiti unifi 6 pro access point | us model, wireless | poe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MGCJT5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31KPT2eiCeL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your office Wi-Fi dies every time the marketing team jumps on a video call, you already know the pain. The Ubiquiti UniFi 6 Pro is the $150-ish fix that network admins recommend, and after testing it in a 2,400 sq ft office with 40+ devices, I understand why — but there's a catch or two you need to know before buying.

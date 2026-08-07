@@ -1,4 +1,5 @@
 ---
+
 title: "ADVANCE OUTDOOR Heavy Duty Carport Potable Car Canopy Garage"
 seo_title: "ADVANCE OUTDOOR Heavy Duty Carport Review (2026): Worth It?"
 meta_description: "Honest ADVANCE OUTDOOR Heavy Duty Carport review: real-world durability, assembly ease, and value. Is this portable garage worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGXTHVPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZSaPDoLop._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced steel frame with cross-bracing holds up in moderate wind when properly staked"
   - "Full coverage walls included — rare at this price point, adds real weather protection"
   - "Tear-resistant 210D Oxford fabric with UV coating survives sustained sun exposure"
-cons:
+cons: 
   - "Assembly requires two people and a solid 2-3 hours — not a solo afternoon project"
   - "Roof can pool water if not pitched tight; needs periodic re-tensioning after storms"
   - "Included stakes are lightweight; upgrade to auger anchors for anything beyond gentle breeze"
+
 ---
 
 If you've priced out a permanent carport installation lately, you know the sticker shock is real. The ADVANCE OUTDOOR Heavy Duty Carport sits in that sweet spot — a semi-permanent shelter that covers your vehicle, boat, or patio without requiring a concrete slab or a building permit. At 4.2 stars from 210 ratings, it's not perfect, but it's a legitimate option for buyers who need coverage without the commitment.

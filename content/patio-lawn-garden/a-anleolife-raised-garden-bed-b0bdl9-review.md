@@ -1,4 +1,5 @@
 ---
+
 title: "A ANLEOLIFE Raised Garden Bed"
 seo_title: "ANLEOLIFE Raised Garden Bed Review: Worth It? (2026)"
 meta_description: "Honest ANLEOLIFE raised garden bed review: build quality, real-world durability, pros & cons from 235 Amazon ratings. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDL9ZTLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I3hdh8FCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel construction with rounded corners that won't snag clothing or skin"
   - "Tool-free assembly — panels lock together in under 15 minutes"
   - "Open bottom design preserves natural soil drainage and worm activity"
-cons:
+cons: 
   - "No included liner — you'll want to add landscape fabric to prevent soil staining on patios"
   - "Corners can develop sharp edges if panels get bent during shipping"
+
 ---
 
 Let’s be blunt: most raised garden beds on Amazon are flimsy cedar kits that rot in two seasons or overpriced plastic boxes that crack in the sun. The ANLEOLIFE raised garden bed takes a different approach — galvanized steel, modular panels, and a design that actually respects how soil works. With a 4.7-star average across 235 ratings, it's clearly connecting with gardeners. But is it the right bed for your yard? Here's what I found after digging through the specs and real owner feedback.

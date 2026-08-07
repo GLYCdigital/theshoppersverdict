@@ -1,4 +1,5 @@
 ---
+
 title: "Fluval BioMax Biological Material Remover, 500 g - Biologica"
 seo_title: "Fluval BioMax Review: 500g Biological Filter Media for Aquariums"
 meta_description: "Honest Fluval BioMax 500g review: Does this biological filter media actually improve water quality? Real pros, cons, and buying advice for aquarium owners."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000HHSG5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KPDYoIQ4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Porous ceramic rings provide massive surface area for beneficial bacteria colonization — noticeably clearer water within days"
   - "500g size covers most canister filters (Fluval 306/406 and similar) with room to spare"
   - "Doesn't break down or compact over time; rinse and reuse for years"
-cons:
+cons: 
   - "Packaging is a simple resealable bag — no measuring cup or mesh bag included"
   - "Needs initial rinse before use; some users report minor dust that clouds water temporarily"
+
 ---
 
 Let's be direct about aquarium filtration: your mechanical media catches the junk, but your biological media is what actually keeps fish alive. Fluval BioMax is one of the most established biological filter media options on the market, and the 4.8-star rating across 240 reviews isn't accidental. But is it worth your money over cheaper alternatives? Let's break down what you're actually getting.

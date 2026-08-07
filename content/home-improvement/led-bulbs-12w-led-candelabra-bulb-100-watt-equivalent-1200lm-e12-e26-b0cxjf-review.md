@@ -1,4 +1,5 @@
 ---
+
 title: "LED Bulbs, 12W LED Candelabra Bulb 100 Watt Equivalent, 1200"
 seo_title: "LED Bulbs, 12W LED Candelabra Bulb 100 Watt Equiva Review"
 meta_description: "Our full led bulbs, 12w led candelabra bulb 100 watt equivalent, 1200 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXJFDFKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dFMGzpssL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever shopped for candelabra bulbs, you know the struggle: they're either dim little 40-watt equivalents that barely light a hallway, or they're so physically small that they rattle around in standard fixtures. This 12W LED candelabra bulb takes a different approach — it's a 100-watt equivalent that actually delivers 1200 lumens, which is genuinely rare in the E12 form factor.**

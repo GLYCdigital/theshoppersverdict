@@ -1,4 +1,5 @@
 ---
+
 title: "medicube Kojic Acid Turmeric Clarifying & Balancing Capsule "
 seo_title: "medicube Kojic Acid Turmeric Clarifying & Balancin Review"
 meta_description: "Our full medicube kojic acid turmeric clarifying & balancing capsule  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FG7VLJKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FkE0XhAjL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The K-Beauty brightening serum that actually walks the talk — if you're patient.**

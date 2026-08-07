@@ -1,4 +1,5 @@
 ---
+
 title: "Eye Pencil"
 seo_title: "Eye Pencil Review: Is This Luxury Liner Worth It?"
 meta_description: "Honest Eye Pencil review: performance, wear time, smudge factor, and whether this 4.3-star luxury liner justifies the price. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0177O900C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mo80x65pL._SL1500_.jpg"
-pros:
+pros: 
   - "Creamy, pigmented formula that glides on without tugging or pulling at the delicate eye area"
   - "Precise tip allows for both thin, defined lines and smudged, smoky looks"
   - "Long-wearing formula that survives tears, humidity, and an 8-hour workday"
-cons:
+cons: 
   - "Not completely waterproof — heavy sweat or water exposure will cause slight fading"
   - "Requires sharpening; the soft core can break if you press too hard"
   - "Higher price point than drugstore alternatives, though performance justifies it for many"
+
 ---
 
 **The Luxury Liner That Actually Earns Its Price Tag**

@@ -1,4 +1,5 @@
 ---
+
 title: "EACYART Blank Cards, 30 Pack Blank Greet Cards, Elegant Gold"
 seo_title: "EACYART Blank Cards Review: 30-Pack Elegant Gold Foil"
 meta_description: "EACYART blank cards 30-pack review: gold foil, 5x7, 240 ratings at 4.8 stars. Real buyer feedback on versatility, paper quality, and value."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK3FFY12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w6ihv4hZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavyweight 300gsm cardstock resists ink bleed and holds up to watercolor"
   - "Elegant gold foil border adds premium feel without being gaudy"
   - "A2 envelopes included — no separate purchase needed"
-cons:
+cons: 
   - "Gold foil is matte, not shiny — won't match expectations if you want metallic sparkle"
   - "Interior is completely blank — no pre-printed greeting or subtle design"
   - "Envelopes are standard white, not gold-lined or matching the card aesthetic"
+
 ---
 
 **The Full Review**

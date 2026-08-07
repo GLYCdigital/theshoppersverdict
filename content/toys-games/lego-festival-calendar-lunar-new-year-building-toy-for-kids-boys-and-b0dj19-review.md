@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Festival Calendar - Lunar New Year Building Toy for Kid"
 seo_title: "LEGO Festival Calendar - Lunar New Year Building T Review"
 meta_description: "Our full lego festival calendar - lunar new year building toy for kid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ19Z49W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Pzb5xfOqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **LEGO Festival Calendar - Lunar New Year Building Toy for Kid** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

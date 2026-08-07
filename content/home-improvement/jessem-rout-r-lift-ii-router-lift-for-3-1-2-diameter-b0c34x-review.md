@@ -1,7 +1,8 @@
 ---
-title: "JessEm Rout-R-Lift II Router Lift for 3-1/2\" Diameter Motors"
-seo_title: "JessEm Rout-R-Lift II Router Lift for 3-1/2\" Diame Review"
-meta_description: "Our full jessem rout-r-lift ii router lift for 3-1/2\" diameter motors review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "JessEm Rout-R-Lift II Router Lift for 3-1/2\ Diameter Motors"
+seo_title: "JessEm Rout-R-Lift II Router Lift for 3-1/2\ Diame Review"
+meta_description: "Our full jessem rout-r-lift ii router lift for 3-1/2\ diameter motors review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "jessem-rout-r-lift-ii-router-lift-for-3-1-2-diameter-b0c34x-review"
 image_alt: "JessEm Rout-R-Lift II Router Lift for 3-1/2 Diameter Motors, JessEm 02310"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C34X5Y3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kMjyE3UGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought with a cheap router lift — the kind where you crank for what feels like minutes and the bit still drifts 1/32" off — you already know why the JessEm Rout-R-Lift II commands a premium. This is the lift that serious woodworkers put on their short list, and after spending time with the specs and what 240 buyers report, here's the real story.

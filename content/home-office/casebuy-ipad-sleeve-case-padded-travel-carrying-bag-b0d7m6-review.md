@@ -1,4 +1,5 @@
 ---
+
 title: "CaseBuy iPad Sleeve Case Padded Travel Carrying Bag"
 seo_title: "CaseBuy iPad Sleeve Review: Padded Travel Bag Worth It?"
 meta_description: "CaseBuy iPad Sleeve review: Is this padded travel bag worth your money? Tested for fit, drop protection, and daily use. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7M6CDDL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WVAMNLeCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 10mm foam padding that actually absorbs bumps, not just decorative quilting"
   - "Precise fit — interior dimensions match the listed iPad models without slop or squeeze"
   - "Dual-zip construction with a top handle that makes one-handed grab-and-go actually work"
-cons:
+cons: 
   - "No dedicated pocket for Apple Pencil — it slides loose inside the main compartment"
   - "The outer fabric picks up lint and pet hair noticeably, especially in darker colors"
+
 ---
 
 Here's the thing about iPad sleeves: most of them are just fabric envelopes with a zipper. They look fine in the product photos, but drop one in a backpack next to a water bottle and your tablet comes out with a corner dent. The CaseBuy Padded Travel Carrying Bag is not that sleeve. It's the one that makes you stop worrying.

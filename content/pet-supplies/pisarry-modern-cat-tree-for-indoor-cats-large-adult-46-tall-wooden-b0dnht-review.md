@@ -1,7 +1,8 @@
 ---
-title: "PISARRY Modern Cat Tree for Indoor Cats Large Adult 46\" Tall"
+
+title: "PISARRY Modern Cat Tree for Indoor Cats Large Adult 46\ Tall"
 seo_title: "PISARRY Modern Cat Tree for Indoor Cats Large Adul Review"
-meta_description: "Our full pisarry modern cat tree for indoor cats large adult 46\" tall review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full pisarry modern cat tree for indoor cats large adult 46\ tall review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pisarry-modern-cat-tree-for-indoor-cats-large-adult-46-tall-wooden-b0dnht-review"
 image_alt: "PISARRY Modern Cat Tree for Indoor Cats Large Adult 46 Tall,Wooden Cat Tower for Large Cats with Scratching Post,Luxury "
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DNHT74RT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-xTg4E28L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: If you're tired of flimsy, carpet-covered towers that tip over the moment your 14-pound Maine Coon jumps on them, this PISARRY unit is worth a hard look. It's not perfect, but it nails the essentials for large adult cats.**

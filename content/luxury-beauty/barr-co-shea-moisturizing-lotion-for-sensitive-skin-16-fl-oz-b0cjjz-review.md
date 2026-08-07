@@ -1,4 +1,5 @@
 ---
+
 title: "BARR-CO. Shea Moisturizing Lotion for Sensitive Skin, 16 fl"
 seo_title: "BARR-CO Shea Lotion Review: Sensitive Skin Savior?"
 meta_description: "Read our BARR-CO Shea Moisturizing Lotion review. Is this 16 fl oz sensitive-skin formula worth $38? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJJZVBKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JXLtlbRtL._SL1500_.jpg"
-pros:
+pros: 
   - "Fragrance-free formula with 5% shea butter — no masking scent, just moisturizing depth"
   - "16 fl oz pump bottle delivers nearly two months of daily full-body use"
   - "Absorbs in under 60 seconds with zero greasy residue, even on eczema-prone skin"
-cons:
+cons: 
   - "$38 price point is steep — roughly $2.38 per ounce versus drugstore alternatives"
   - "Thinner lotion texture won't satisfy those wanting a heavy body butter feel"
   - "Pump mechanism can clog if you don't wipe the nozzle after each use"
+
 ---
 
 **The $38 Question: Is This Just Fancy Shea Butter?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Pecan Nation Pecan Halves, Natural, No preservatives, Antiox"
 seo_title: "Pecan Nation Pecan Halves, Natural, No preservativ Review"
 meta_description: "Our full pecan nation pecan halves, natural, no preservatives, antiox review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BR8H1DW5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S4141wTQL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Pecan Nation Pecan Halves Review: Are These Worth Your Money?**

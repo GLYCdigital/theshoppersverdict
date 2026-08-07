@@ -1,4 +1,5 @@
 ---
+
 title: "MSI Z790 Gaming Plus WiFi-AMZ Gaming Motherboard (Support 14"
 seo_title: "MSI Z790 Gaming Plus WiFi-AMZ Gaming Motherboard ( Review"
 meta_description: "Our full msi z790 gaming plus wifi-amz gaming motherboard (support 14 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D2JFH7NQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hNS6minuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the spec-sheet noise. The MSI Z790 Gaming Plus WiFi-AMZ is the board you buy when you want 14th-gen Intel performance without paying the "flagship tax." At 4.1 stars across 204 Amazon ratings, it's not perfect — but it might be the right kind of imperfect for your build.

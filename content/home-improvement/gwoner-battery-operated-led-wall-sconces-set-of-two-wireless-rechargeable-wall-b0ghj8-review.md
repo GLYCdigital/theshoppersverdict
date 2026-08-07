@@ -1,4 +1,5 @@
 ---
+
 title: "GWONER Battery Operated LED Wall Sconces Set of Two, Wireles"
 seo_title: "GWONER Battery Operated LED Wall Sconces Set of Tw Review"
 meta_description: "Our full gwoner battery operated led wall sconces set of two, wireles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHJ843KZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z2VOy0S2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at a dark hallway or a bedroom corner that needs light but dreads calling an electrician, the GWONER Battery Operated LED Wall Sconces are worth a serious look. This set of two solves the classic rental-apartment or no-wiring problem without compromising on looks. At 4.4 stars from 220 ratings, these sconces have clearly found their audience. Here's the real story after digging into specs and buyer experiences.

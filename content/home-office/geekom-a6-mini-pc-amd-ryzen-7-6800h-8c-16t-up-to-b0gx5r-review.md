@@ -1,4 +1,5 @@
 ---
+
 title: "GEEKOM A6 Mini PC, AMD Ryzen 7 6800H(8C/16T, up to 4.7GHz), "
 seo_title: "GEEKOM A6 Mini PC, AMD Ryzen 7 6800H(8C/16T, up to Review"
 meta_description: "Our full geekom a6 mini pc, amd ryzen 7 6800h(8c/16t, up to 4.7ghz),  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GX5RLSXQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wxtc-8ZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Open the box and the first thing you notice is the weight. The GEEKOM A6 isn't featherlight plastic like budget mini PCs — it's a solid aluminum brick that feels like it costs more than it does. That's a good sign, because what's inside matters more.

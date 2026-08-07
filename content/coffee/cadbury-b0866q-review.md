@@ -1,4 +1,5 @@
 ---
+
 title: "CADBURY"
 seo_title: "Cadbury Coffee Maker Review: Worth It? | 2026 Buyer's Guide"
 meta_description: "Cadbury coffee maker review: 4.0-star rated with 200 reviews. See real pros, cons, and if this brewer suits your daily coffee routine."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0866QJQMR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XY77CWmpL._SL1500_.jpg"
-pros:
+pros: 
   - "Fast 6-minute brew cycle for a full 12-cup carafe"
   - "Simple, tactile controls — no app, no Bluetooth, no learning curve"
   - "Pause-and-pour feature works reliably for mid-brew cups"
-cons:
+cons: 
   - "Carafe lid is prone to dripping when pouring at an angle"
   - "No auto-shutoff timer longer than 2 hours — forgetful users will find cold coffee"
   - "Water reservoir is fixed; filling requires lifting the whole unit"
+
 ---
 
 Let's be blunt: the Cadbury coffee maker isn't trying to reinvent your morning. It's a straightforward 12-cup drip machine that does one thing — brew a full pot fast — and does it without fuss. But at 4.0 stars from 200 buyers, there's a story underneath the average. Here's what you need to know before you hit "add to cart."

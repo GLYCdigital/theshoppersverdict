@@ -1,4 +1,5 @@
 ---
+
 title: "HAWK'S WORK 2 CH RC Airplane, F-22 Plane Ready to Fly, 2.4GH"
 seo_title: "HAWK'S WORK 2 CH RC F-22 Review: Is It Worth It? (2026)"
 meta_description: "Honest HAWK'S WORK 2 CH RC F-22 airplane review. Real pros, cons, and flight performance. See if this ready-to-fly jet fits your skill level before buying."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08BC8P2DR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fA-kEDJTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True ready-to-fly out of the box — battery and transmitter included, no extra purchases needed"
   - "Durable EPP foam construction handles crashes better than most toy-grade RC planes"
   - "2.4GHz transmitter with dual rates and gyro stabilization helps beginners keep it in the air"
-cons:
+cons: 
   - "2-channel control means only throttle and rudder — no elevator, so you can't control climb or descent directly"
   - "Flight time is short at roughly 8-10 minutes per battery charge"
   - "Requires calm outdoor conditions; anything above a light breeze makes it hard to control"
+
 ---
 
 Let me be straight with you: the HAWK'S WORK F-22 is not a precision hobby-grade aircraft. It's a toy — a well-designed one, but a toy nonetheless. That distinction matters because it determines whether you'll be thrilled or frustrated when you open the box.

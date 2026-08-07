@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon TCG Scarlet & Violet 9 Journey Together Three Booste"
 seo_title: "Pokemon TCG Scarlet & Violet 9 Journey Together Th Review"
 meta_description: "Our full pokemon tcg scarlet & violet 9 journey together three booste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0DVC187SP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DnX8umOqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The Math Doesn't Lie**

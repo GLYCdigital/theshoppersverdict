@@ -1,7 +1,8 @@
 ---
-title: "Mancra 72\" Solar Lamp Post Light with Planter, Glass 60 Lume"
-seo_title: "Mancra 72\" Solar Lamp Post Light with Planter, Gla Review"
-meta_description: "Our full mancra 72\" solar lamp post light with planter, glass 60 lume review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Mancra 72\ Solar Lamp Post Light with Planter, Glass 60 Lume"
+seo_title: "Mancra 72\ Solar Lamp Post Light with Planter, Gla Review"
+meta_description: "Our full mancra 72\ solar lamp post light with planter, glass 60 lume review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mancra-72-solar-lamp-post-light-with-planter-glass-60-lumens-solar-b0bxkf-review"
 image_alt: "Mancra 72 Solar Lamp Post Light with Planter, Glass 60 Lumens Solar Lights Outdoor Waterproof Patio Lights Garden Decor,"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXKFX2X6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VVWkIY7rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The two-in-one outdoor light that actually does both jobs well**

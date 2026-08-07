@@ -1,4 +1,5 @@
 ---
+
 title: "HXBOAUVS 10 Pack Black Folding Chairs, Foldable Party Chairs"
 seo_title: "HXBOAUVS 10 Pack Black Folding Chairs, Foldable Pa Review"
 meta_description: "Our full hxboauvs 10 pack black folding chairs, foldable party chairs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWMWS9FN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vcP2+lBGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict: Cheap seating that earns its keep — if your guests aren't picky**

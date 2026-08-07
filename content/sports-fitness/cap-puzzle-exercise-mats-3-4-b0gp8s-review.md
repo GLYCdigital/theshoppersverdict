@@ -1,4 +1,5 @@
 ---
+
 title: "CAP Puzzle Exercise Mats | 3/4â€"
 seo_title: "CAP Puzzle Exercise Mats Review: 3/4 inch Floor Protection"
 meta_description: "Honest CAP Puzzle Exercise Mats review: 3/4 inch thickness, interlocking tiles, real user feedback. Is this home gym flooring worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GP8SPCK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718gbP6a8JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 3/4-inch thickness provides real cushioning for heavy lifts and high-impact moves, not just a glorified mat"
   - "Interlocking puzzle edges create a seamless, gap-free surface that stays put during intense workouts"
   - "Surprisingly dense EVA foam resists tearing and compression even under heavy equipment like barbells and benches"
-cons:
+cons: 
   - "The textured surface collects dust and pet hair quickly; expect to vacuum or wipe down regularly"
   - "Tiles can be stiff when new, requiring a warm-up period or extra force to fully snap the edges together"
+
 ---
 
 Let's cut through the noise. You're setting up a home gym, and the floor is the last thing you want to mess up. The CAP Puzzle Exercise Mats are a popular 4.5-star pick with 225 ratings, but are they actually worth your money? I dug through the specs and real user feedback to give you the straight answer.

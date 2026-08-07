@@ -1,24 +1,26 @@
 ---
+
 title: "Badger Basket Double Front to Back Stroller for Dolls - Ligh"
 seo_title: "Badger Basket Double Stroller Review: Lightweight & Foldable"
 meta_description: "Honest Badger Basket Double Front to Back Doll Stroller review: lightweight, foldable, fits 18-inch dolls. Real pros, cons, and verdict inside."
 slug: "badger-basket-double-front-to-back-stroller-for-dolls-lightweight-foldable-toy-b000ng-review"
 image_alt: "Badger Basket Double Front to Back Doll Stroller in lightweight fabric with two seats and foldable frame"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000NGCUWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IGKoE15GL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Fits two 18-inch dolls side-by-side in a front-to-back layout, so both are visible to the child pushing"  
   - "Folds flat for storage or car trunk trips — rare for a double doll stroller at this price"  
   - "Steel frame with rubberized wheels handles both indoor carpet and outdoor sidewalk cracks without tipping"  
-cons:  
+cons: 
   - "Assembly requires a Phillips screwdriver and about 20 minutes — not tool-free out of the box"  
   - "Canopy is shallow; tall 18-inch dolls' heads may peek out, exposing them to sun or rain"  
   - "Basket underneath is small — fits a diaper bag or small purse, not much else"
+
 ---
 
 **Is this the double doll stroller that finally justifies the hype?** With 235 ratings averaging 4.7 stars, the Badger Basket Double Front to Back Stroller clearly has a fanbase. But before you click buy, let's dig into whether it's the right fit for your specific kid, doll size, and floor surfaces.

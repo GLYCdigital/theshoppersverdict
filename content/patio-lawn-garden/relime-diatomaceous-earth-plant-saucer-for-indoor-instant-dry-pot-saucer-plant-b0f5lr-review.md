@@ -1,4 +1,5 @@
 ---
+
 title: "Relime Diatomaceous Earth Plant Saucer for Indoor, Instant D"
 seo_title: "Relime Diatomaceous Earth Plant Saucer for Indoor, Review"
 meta_description: "Our full relime diatomaceous earth plant saucer for indoor, instant d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5LRW1HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816AenCUutL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever lifted a potted plant to find a murky puddle breeding fungus gnats, you know the struggle. The Relime Diatomaceous Earth Plant Saucer promises to eliminate that gross layer of standing water — and honestly, it mostly delivers. This isn't a gimmick. Diatomaceous earth (fossilized algae) is naturally porous at a microscopic level, which is exactly why it works.

@@ -1,4 +1,5 @@
 ---
+
 title: "GR69N Nail Polish Organizer Fits Nail Lamp and Polish Bottle"
 seo_title: "GR69N Nail Polish Organizer Fits Nail Lamp and Pol Review"
 meta_description: "Our full gr69n nail polish organizer fits nail lamp and polish bottle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8H3RXYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zm3gWEe5L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The GR69N Nail Polish Organizer: Finally, a Home for Your Lamp AND Your Polish

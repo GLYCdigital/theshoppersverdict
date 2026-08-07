@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Tropical Dry Shampoo, Waterless Shampoo, 3.81oz 3 pa"
 seo_title: "Batiste Tropical Dry Shampoo Review: 3-Pack Value (2026)"
 meta_description: "Honest Batiste Tropical Dry Shampoo review: island scent, oil absorption, and 3-pack value. Does it beat the original? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CWVNJP8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XBpYCFwpL._SL1500_.jpg"
-pros:
+pros: 
   - "Strong coconut-and-fruit scent that lingers 4-6 hours and actually masks oil odor, not just covers it"
   - "3-pack format saves roughly 15-20% versus buying singles — practical for regular users"
   - "Colorless formula means no white residue on dark hair, even with heavy application"
-cons:
+cons: 
   - "Scent is polarizing — sweet and tropical, not subtle; some users find it overpowering in enclosed spaces"
   - "3.81oz travel size runs out fast with daily use — expect 8-10 full applications per bottle"
+
 ---
 
 The 4.8-star average on this three-pack isn't hype. Batiste's Tropical formula does something most dry shampoos don't: it genuinely refreshes hair between washes while smelling like a vacation. But there's a catch, and it's a big one if you're sensitive to fragrance.

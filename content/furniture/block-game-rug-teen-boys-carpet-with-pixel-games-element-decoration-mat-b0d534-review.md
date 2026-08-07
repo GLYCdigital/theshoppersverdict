@@ -1,4 +1,5 @@
 ---
+
 title: "Block Game Rug Teen Boys Carpet with Pixel Games Element Dec"
 seo_title: "Block Game Rug Teen Boys Carpet Review: Pixel Decor Mat"
 meta_description: "Honest Block Game Rug review for teen boys: pixel game decor, durability, size, and value. See what 229 Amazon buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5345T52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jwgh0KXCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Vivid pixel-art design holds up visually even after repeated vacuuming and foot traffic"
   - "Non-slip backing keeps the rug flat on hardwood and tile without curling at the edges"
   - "Thin profile fits neatly under bedroom doors and chairs without creating trip hazards"
-cons:
+cons: 
   - "Low pile means it's more decorative than plush — not the rug for sitting on during long gaming sessions"
   - "Sheds lightly for the first week; expect to vacuum a few extra times initially"
+
 ---
 
 If your teenager’s bedroom looks like a Minecraft biome exploded onto the floor, this rug is going to feel less like decor and more like a natural habitat extension. The Block Game Rug for teen boys doesn’t try to be subtle — it’s a loud, pixelated homage to the sandbox-building genre, and at 4.6 stars across 229 ratings, it’s clearly hitting the mark for the demographic it targets.

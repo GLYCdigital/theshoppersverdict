@@ -1,4 +1,5 @@
 ---
+
 title: "East West Furniture Dining Chairs - Slat Back Wood Seat Kitc"
 seo_title: "East West Slat Back Dining Chairs Review (2026): Worth It?"
 meta_description: "Honest East West Furniture dining chair review: solid slat-back wood seats, easy assembly, but check comfort & finish. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQ57TYB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515JioDKV5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame (rubberwood) that resists wobble and creaking, even after months of daily use"
   - "Classic slat-back design fits both farmhouse and modern kitchens without looking cheap"
   - "Assembly is genuinely 10 minutes with the included Allen wrench — no drill required"
-cons:
+cons: 
   - "Seat is hard; thin cushions or pads are almost mandatory for meals over 30 minutes"
   - "Finish shows fingerprints and water rings easily — you'll want coasters and a quick wipe routine"
+
 ---
 
 Let’s be honest: most dining chairs under $100 are wobbly particleboard disasters. The **East West Furniture Slat Back Wood Seat Kitchen Chairs** aren’t that — but they’re also not heirloom pieces. After digging through 229 ratings and the specs, here’s what actually matters before you hit buy.

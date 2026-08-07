@@ -1,24 +1,26 @@
 ---
+
 title: "Cell9102 Replacement 20V Battery and Charger Starter Kit, WA"
 seo_title: "Cell9102 20V Battery & Charger Kit Review (2026)"
 meta_description: "Honest Cell9102 20V battery and charger starter kit review: real-world performance, compatibility, pros/cons, and who should buy it. 4.5-star rated."
 slug: "cell9102-replacement-20v-battery-and-charger-starter-kit-wa3525-lithium-battery-and-b08883-review"
 image_alt: "Cell9102 20V lithium-ion battery and charger starter kit for power tools"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08883XY7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dJ8CSgarL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine 20V max output with 2.0Ah cells — consistent runtime for drill/driver tasks"  
   - "Charger delivers full charge in ~60 minutes, with auto shutoff and LED indicator"  
   - "Drop-in fit for most major-brand 20V tools (check compatibility list first)"  
-cons:  
+cons: 
   - "No fuel gauge on battery — you'll guess remaining charge until tool slows"  
   - "Charger is bulkier than OEM units; tight on crowded pegboards"  
   - "Not compatible with 18V-only tools from older generations"
+
 ---
 
 **Is this the budget 20V kit you've been hunting for, or a false economy?** If you own a cordless drill, impact driver, or circular saw that runs on a generic 20V Max platform, the Cell9102 starter kit promises to slash your spare-battery costs by half. But "compatible" is doing a lot of heavy lifting in this category — and the 4.5-star average across 225 ratings suggests real buyers are mostly satisfied, with a few important caveats you need before checkout.

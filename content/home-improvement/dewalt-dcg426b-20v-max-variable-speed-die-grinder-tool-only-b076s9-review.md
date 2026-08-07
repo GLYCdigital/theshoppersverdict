@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DCG426B 20V Max Variable Speed Die Grinder, Tool Only"
 seo_title: "DEWALT DCG426B Die Grinder Review: 20V Max Variable Speed"
 meta_description: "DEWALT DCG426B 20V Max die grinder review: variable speed, brushless motor, real-world performance, pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B076S9YBMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519Qi24LJoL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers real power without the cord — no more fighting extension leads or losing airflow to a compressor hose."
   - "Variable speed dial (8,000–28,000 RPM) gives genuine control for everything from deburring aluminum to polishing stainless."
   - "Compact 11.7-inch length and 2.9-pound weight make it manageable in tight engine bays and overhead work."
-cons:
+cons: 
   - "Tool-only means you need a 20V battery and charger — if you're not already in the DEWALT ecosystem, factor in $100+ for a starter kit."
   - "No built-in work light, which is a real miss for dark under-dash or inside-frame work."
   - "At full RPM it drains a 5Ah battery in roughly 20–25 minutes of continuous use — buy a second pack if you're doing serious fab work."
+
 ---
 
 You know that moment when you're grinding a weld bead in a corner that's too tight for an angle grinder, and you're holding your breath because the cord is about to snag on something? The DEWALT DCG426B kills that problem. This is a cordless die grinder that actually behaves like a corded one — most of the time.

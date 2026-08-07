@@ -1,4 +1,5 @@
 ---
+
 title: "Maybelline New York SuperStay Matte Ink Liquid Lipstick"
 seo_title: "Maybelline New York SuperStay Matte Ink Liquid Lip Review"
 meta_description: "Our full maybelline new york superstay matte ink liquid lipstick review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B081TQWK89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612aOQNks3L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Maybelline SuperStay Matte Ink has been a drugstore legend for years, and with over 220 ratings averaging 4.4 stars, it's earned its spot in countless makeup bags. But does it actually live up to the "16-hour wear" claim? I tested it through a workday, a workout, and a greasy burger to give you the unvarnished truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "Aurolit Flagpole Light Solar Powered, Updated Ultra Bright 1 inch"
 seo_title: "Aurolit Flagpole Light Solar Powered Review (2026) | 160 LED"
 meta_description: "Honest Aurolit Flagpole Light Solar Powered review: 160 ultra-bright LEDs, 4.6★ rating, real pros/cons, and who should buy it. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FRS5P2BL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fp7qES4dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "160 bright LEDs with adjustable head angle light up most flags up to 5x8 feet evenly, not just the bottom half"
   - "Truly wireless install — the solar panel mounts separately from the light, so you can place the panel in full sun while the light aims at your flag"
   - "Dusk-to-dawn auto sensor with 3 lighting modes (dim, bright, flashing) gives you control over battery life and light output"
-cons:
+cons: 
   - "The light head attaches to the pole with a strap system that can loosen in high winds — you'll need to tighten it periodically"
   - "Battery life in winter months drops to roughly 4-5 hours on the brightest setting, so northern buyers may see shorter overnight coverage"
+
 ---
 
 # Aurolit Flagpole Light Solar Powered: Does It Actually Light Your Flag All Night?

@@ -1,4 +1,5 @@
 ---
+
 title: "CHIPS AHOY! Cookies Variety Pack, Original Chocolate Chip, C"
 seo_title: "CHIPS AHOY! Variety Pack Review: Original & Chewy Cookies"
 meta_description: "Read our honest CHIPS AHOY! Cookies Variety Pack review. Compare Original vs Chewy Chocolate Chip, portion sizes, freshness, and value. Find out if this snack pack is worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHZBLWH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IIw-ToX1L._SL1500_.jpg"
-pros:
+pros: 
   - "Two distinct textures in one order — crunchy Original and soft-baked Chewy — covers both cookie preferences without buying separate boxes"
   - "Individually portioned snack packs (typically 8-10 per variety) make lunchbox packing and portion control effortless"
   - "Consistent Nabisco quality with 229 ratings averaging 4.6 stars — buyers report fresh, intact cookies arriving without crumbling"
-cons:
+cons: 
   - "No nutritional variety — all three varieties are chocolate chip, so if you want oatmeal or peanut butter, this pack won't satisfy that"
   - "Package counts vary by seller — some buyers report receiving fewer snack packs than the listing implies, so check the exact weight before ordering"
+
 ---
 
 **The honest truth about a cookie variety pack that's more than just kid fuel**

@@ -1,4 +1,5 @@
 ---
+
 title: "Karinear Portable Electric Stove - 110V Electric Hot Plate w"
 seo_title: "Karinear Portable Electric Stove - 110V Electric H Review"
 meta_description: "Our full karinear portable electric stove - 110v electric hot plate w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF6KMLJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Xe3Ng51TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Karinear Portable Electric Stove isn't trying to replace your range. It's trying to be the burner you grab when your main cooktop is full, when you're camping, or when your apartment kitchen has exactly one usable outlet. And for that job, it's surprisingly good.

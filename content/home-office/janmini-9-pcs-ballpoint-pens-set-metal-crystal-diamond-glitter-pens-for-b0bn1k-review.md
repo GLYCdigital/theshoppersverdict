@@ -1,4 +1,5 @@
 ---
+
 title: "Janmini 9 Pcs Ballpoint Pens Set Metal Crystal Diamond Glitt"
 seo_title: "Janmini 9 Pcs Ballpoint Pens Set Metal Crystal Dia Review"
 meta_description: "Our full janmini 9 pcs ballpoint pens set metal crystal diamond glitt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BN1KHK9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cMZY5TorL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Janmini 9 Pcs Ballpoint Pens Set Metal Crystal Diamond Glitt

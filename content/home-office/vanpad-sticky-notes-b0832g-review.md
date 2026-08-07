@@ -1,4 +1,5 @@
 ---
+
 title: "Vanpad Sticky Notes"
 seo_title: "Vanpad Sticky Notes Review: Verdict | TSV"
 meta_description: "Our full vanpad sticky notes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0832GFYBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gMy464JaL._AC_SL1250_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Sticky notes are one of those purchases you don't think twice about — until you get a pack that won't stick, smears your ink, or peels off your monitor by lunch. The Vanpad Sticky Notes set out to fix those annoyances. At 4.5 stars across 225 ratings, they're clearly doing something right. Here's the unfiltered breakdown.

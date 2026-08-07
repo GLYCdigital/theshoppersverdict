@@ -1,4 +1,5 @@
 ---
+
 title: "ADORNEVE Nightstands Set of 2,Nightstand with Charging Stati"
 seo_title: "ADORNEVE Nightstands Set of 2 Review: Charging Station & Drawers"
 meta_description: "ADORNEVE Nightstands Set of 2 review: built-in charging station, 3 drawers, sturdy wood. Real pros, cons, and who should buy. 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B8ZJX7WG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-GV5NHPNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual USB + AC outlet charging station built into the top shelf — no bulky adapter bricks needed"
   - Three full-width drawers per unit glide on smooth metal runners; assembled dimensions are a true 18.9 inch " W x 15.7 inch " D — fits compact bedrooms
   - "Sturdy particleboard core with a water-resistant melamine finish that wipes clean and resists scuffs"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and patience — expect 45–60 minutes per unit; cam locks are fiddly for first-timers"
   - "Charging ports are positioned on the back edge of the top shelf, so thick charging cables can kink if the unit sits flush against the wall"
+
 ---
 
 # ADORNEVE Nightstands Set of 2 Review: Charging Station Convenience Without the Clutter

@@ -1,4 +1,5 @@
 ---
+
 title: "HILLMASTER Heavy Duty Gate T-Strap Hinges"
 seo_title: "HILLMASTER Heavy Duty Gate T-Strap Hinges Review: Verdict"
 meta_description: "Our full hillmaster heavy duty gate t-strap hinges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BCP2PQCW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Bdr-acEQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most gate hinges are flimsy stamped steel that sag within a season. The HILLMASTER heavy duty T-strap hinges are a different animal. These are forged from actual 5mm steel plate, not pressed sheet metal, and the T-strap is welded to the hinge barrel — not spot-welded or riveted like cheaper alternatives. If you've got a heavy wooden gate that's been dragging on the ground, this is the upgrade that fixes it.

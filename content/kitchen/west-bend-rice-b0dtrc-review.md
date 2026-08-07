@@ -1,4 +1,5 @@
 ---
+
 title: "West Bend Rice"
 seo_title: "West Bend Rice Review: Verdict | TSV"
 meta_description: "Our full west bend rice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTRC4M69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RbEOjfnQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever burned rice in a saucepan while juggling three other pans, you already know why dedicated rice cookers exist. The West Bend rice cooker is a straightforward answer to that problem — no bells, no whistles, just dependable rice. But "simple" cuts both ways, and there are a few things worth knowing before you add it to your cart.

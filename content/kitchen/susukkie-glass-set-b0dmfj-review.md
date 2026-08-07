@@ -1,4 +1,5 @@
 ---
+
 title: "Susukkie glass set"
 seo_title: "Susukkie glass set Review: Verdict | TSV"
 meta_description: "Our full susukkie glass set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMFJ6FLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cCkB7RrJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most glass sets under $30 are a gamble. Either they shatter in the dishwasher by week three, or they come out of the box with bubbles and seams that scream "cheap." The Susukkie glass set sits in a different lane — and after digging through 229 ratings and the build specs, here's what actually matters.

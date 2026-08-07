@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns C-Shaped End Table for Couch, Sofa Side Table, C "
 seo_title: "Tribesigns C-Shaped End Table for Couch, Sofa Side Review"
 meta_description: "Our full tribesigns c-shaped end table for couch, sofa side table, c  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DR7Y5486/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FIAvqXcuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced a laptop on your knees while eating dinner on the couch, you already know why the C-table exists. The Tribesigns C-Shaped End Table solves that specific problem with a design that's been copied by a dozen brands — but this one has 210 ratings at 4.2 stars, which tells you something about consistency. Let's dig into whether it earns a spot beside your sofa.

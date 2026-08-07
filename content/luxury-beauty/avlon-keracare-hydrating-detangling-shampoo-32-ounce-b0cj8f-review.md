@@ -1,4 +1,5 @@
 ---
+
 title: "Avlon Keracare Hydrating Detangling Shampoo, 32 Ounce"
 seo_title: "Keracare Hydrating Detangling Shampoo Review: 32 oz"
 meta_description: "Honest Keracare Hydrating Detangling Shampoo review: does the 32 oz size justify the price for dry, tangled hair? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ8FY2H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W6dypcfHL._SL1500_.jpg"
-pros:
+pros: 
   - "32-ounce salon size delivers roughly 40–50 washes for textured hair, making the per-use cost genuinely competitive"
   - "Sulfate-free formula with hydrolyzed keratin and wheat protein actually reduces mid-shower tangling on thick, coily hair"
   - "High-gloss finish that lasts 2–3 days — noticeably shinier than drugstore hydrating shampoos in the same category"
-cons:
+cons: 
   - "Thin, watery lather means you'll instinctively reach for more product than necessary on the first few washes"
   - "Fragrance is a strong salon-perm scent that lingers — sensitive noses should sample before committing to the liter size"
+
 ---
 
 If you've got thick, coily, or color-treated hair, you already know the struggle: a "hydrating" shampoo that leaves your strands feeling like straw by the time you reach for conditioner. The Avlon Keracare Hydrating Detangling Shampoo is engineered to break that cycle. After testing the 32-ounce liter on type 4 hair and fine, highlighted strands, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Coco & Eve Sweet Repair Repairing and Restoring Hair Mask. 8 inch"
 seo_title: "Coco & Eve Sweet Repair Hair Mask Review: Worth It? (2026)"
 meta_description: "Honest Coco & Eve Sweet Repair hair mask review: does this 8-min repair treatment deliver stronger hair? Real results, pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B44W2CGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mV5frO4fL._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers visible smoothness and softness after one 8-minute application, even on heat-styled hair"
   - "Creamy, thick texture that spreads easily and rinses clean without greasy residue"
   - "Pleasant, natural coconut scent that fades quickly rather than competing with your perfume"
-cons:
+cons: 
   - "Premium price point — this is a splurge, not a budget buy"
   - "Jar packaging is awkward for wet, slippery hands; a tube would be more hygienic"
   - "Results fade after 2-3 washes, so you'll need to repurchase regularly to maintain benefits"
+
 ---
 
 Let's be blunt: the hair mask aisle is crowded with $10 drugstore options that promise the moon and deliver a slippery conditioner. So why is Coco & Eve's Sweet Repair mask — priced like a prestige skincare serum — sitting at 4.4 stars across 220 Amazon ratings? Because it's one of the few treatments that actually does what it claims. Here's the full breakdown.

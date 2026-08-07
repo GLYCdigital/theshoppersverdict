@@ -1,24 +1,26 @@
 ---
+
 title: "ARRIS SURFboard DOCSIS 3.0 24x8 / 32x8 Cable Modem with Xfinity Review"
 seo_title: "ARRIS SURFboard DOCSIS 3.0 Modem Review: 24x8 & 32x8 inch  "
 meta_description: "Read our honest ARRIS SURFboard DOCSIS 3.0 24x8/32x8 modem review. Real speeds, compatibility with Xfinity, and whether it beats renting."
 slug: "arris-surfboard-docsis-3-0-24x8-32x8-cable-modem-with-xfinity-telco-b09y98-review"
 image_alt: "ARRIS SURFboard DOCSIS 3.0 24x8/32x8 cable modem with Xfinity compatibility, black upright design"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09Y986Q2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cZX1MBpSL._AC_SL1300_.jpg"
-pros:  
+pros: 
   - "Handles Xfinity gigabit plans (up to 1 Gbps) with 32x8 channel bonding"  
   - "Comes with a separate power supply — no bulky internal brick, easier to mount"  
   - "Two-year warranty and free US-based tech support, not outsourced"  
-cons:  
+cons: 
   - "No built-in Wi-Fi — you must buy a separate router (adds $50–$150 to total cost)"  
   - "DOCSIS 3.0, not 3.1 — future-proofing limited if your ISP upgrades to mid-split"  
   - "Some users report overheating if placed in an enclosed cabinet without airflow"
+
 ---
 
 # ARRIS SURFboard DOCSIS 3.0 24x8 / 32x8 Cable Modem with Xfinity Review

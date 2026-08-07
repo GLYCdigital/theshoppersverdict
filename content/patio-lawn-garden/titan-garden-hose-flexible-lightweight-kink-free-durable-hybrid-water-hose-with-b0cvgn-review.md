@@ -1,4 +1,5 @@
 ---
+
 title: "TITAN Garden Hose | Flexible, Lightweight, Kink-Free & Durab"
 seo_title: "TITAN Garden Hose | Flexible, Lightweight, Kink-Fr Review"
 meta_description: "Our full titan garden hose | flexible, lightweight, kink-free & durab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CVGNVMMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dlmvnROlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TITAN Garden Hose enters a crowded market where every brand claims to be "kink-free" and "flexible." Most of them lie. This one mostly doesn't — but it has some quirks you need to know about before you buy.

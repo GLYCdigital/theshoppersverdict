@@ -1,7 +1,8 @@
 ---
-title: "Lifetime 80568 48\" x 30\" Wide Folding Utility Table, 1"
-seo_title: "Lifetime 80568 48\" x 30\" Wide Folding Utility Tabl Review"
-meta_description: "Our full lifetime 80568 48\" x 30\" wide folding utility table, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lifetime 80568 48\ x 30\ Wide Folding Utility Table, 1"
+seo_title: "Lifetime 80568 48\ x 30\ Wide Folding Utility Tabl Review"
+meta_description: "Our full lifetime 80568 48\ x 30\ wide folding utility table, 1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lifetime-80568-48-x-30-wide-folding-utility-table-1-b07174-review"
 image_alt: "Lifetime 80568 48 x 30 Wide Folding Utility Table, 1"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0717457ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61koOS-GxAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most folding tables are flimsy wobbly things you regret buying the moment you load them with a platter of burgers. The Lifetime 80568 is not that table. With a 4.7-star average across 235 ratings, this 48" x 30" utility table has become the default choice for tailgaters, campers, and garage organizers — and for good reason. But it's not perfect. Here's the full breakdown before you click buy.

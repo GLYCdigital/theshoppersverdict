@@ -1,4 +1,5 @@
 ---
+
 title: "Weruva Classic Cat Stews! Grain-Free Natural Wet Cat Food Ca"
 seo_title: "Weruva Classic Cat Stews! Grain-Free Natural Wet C Review"
 meta_description: "Our full weruva classic cat stews! grain-free natural wet cat food ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B07WRMXND7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rr9A+DfKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Weruva Classic Cat Stews: Real Meat, Real Broth, Real Picky Eaters**

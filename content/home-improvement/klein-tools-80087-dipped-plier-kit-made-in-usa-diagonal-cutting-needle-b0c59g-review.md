@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools 80087 Dipped Plier Kit, Made in USA, Diagonal-Cu"
 seo_title: "Klein Tools 80087 Dipped Plier Kit, Made in USA, D Review"
 meta_description: "Our full klein tools 80087 dipped plier kit, made in usa, diagonal-cu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C59GWX3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616xo9QhcZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the comprehensive review:

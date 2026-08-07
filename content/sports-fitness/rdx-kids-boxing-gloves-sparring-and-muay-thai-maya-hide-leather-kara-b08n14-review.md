@@ -1,4 +1,5 @@
 ---
+
 title: "RDX Kids Boxing Gloves Sparring and Muay Thai Maya Hide Leat"
 seo_title: "RDX Kids Boxing Gloves Sparring and Muay Thai Maya Review"
 meta_description: "Our full rdx kids boxing gloves sparring and muay thai maya hide leat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08N14NWMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713bIEvTPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most kids’ boxing gloves on Amazon are either cheap vinyl toys that fall apart in a month or overbuilt adult gloves that swamp a child’s hands. The RDX Kids Boxing Gloves sit in a rare middle ground — real leather construction at a price that won’t make you wince. At $32.99, these are worth a hard look for any parent whose kid has caught the fight bug.

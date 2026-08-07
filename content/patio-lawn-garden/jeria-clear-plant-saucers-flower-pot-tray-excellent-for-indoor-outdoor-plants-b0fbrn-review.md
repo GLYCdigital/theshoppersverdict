@@ -1,4 +1,5 @@
 ---
+
 title: "JERIA Clear Plant Saucers Flower Pot Tray Excellent for Indo"
 seo_title: "JERIA Clear Plant Saucers Flower Pot Tray Excellen Review"
 meta_description: "Our full jeria clear plant saucers flower pot tray excellent for indo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBRN2HRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717A0V44baL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real: a plant saucer is the most unglamorous purchase in your garden cart. But it's also the difference between a water-damaged oak floor and a thriving monstera. The JERIA Clear Plant Saucers have quietly racked up 225 ratings at 4.5 stars, and after digging through the feedback, here's what actually matters.

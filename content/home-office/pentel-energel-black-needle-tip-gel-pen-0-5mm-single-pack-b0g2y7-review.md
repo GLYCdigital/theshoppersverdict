@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Energel Black Needle Tip Gel Pen, 0.5mm, Single Pack"
 seo_title: "Pentel Energel Black Needle Tip Gel Pen, 0.5mm, Si Review"
 meta_description: "Our full pentel energel black needle tip gel pen, 0.5mm, single pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G2Y73BRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JQTXrZGES._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought with a gel pen that skips, smears, or dies halfway through a page, the Pentel Energel 0.5mm needle tip is the quiet fix you didn't know you needed. It's the pen office supply obsessives recommend, and with a 4.8-star average across 240 ratings, it's not hard to see why.

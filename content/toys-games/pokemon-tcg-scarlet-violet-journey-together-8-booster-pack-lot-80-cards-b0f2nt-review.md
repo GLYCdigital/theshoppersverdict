@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon TCG - Scarlet & Violet: Journey Together - 8 Booster"
 seo_title: "Pokemon TCG - Scarlet & Violet: Journey Together - Review"
 meta_description: "Our full pokemon tcg - scarlet & violet: journey together - 8 booster review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2NT3674/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715nNegsX5L._AC_SL1069_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The $80 Question**

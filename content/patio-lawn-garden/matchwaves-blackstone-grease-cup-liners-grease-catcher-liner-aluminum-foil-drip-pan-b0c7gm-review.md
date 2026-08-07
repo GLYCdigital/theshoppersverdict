@@ -1,4 +1,5 @@
 ---
+
 title: "Matchwaves Blackstone Grease Cup Liners, Grease Catcher Line"
 seo_title: "Matchwaves Blackstone Grease Cup Liners, Grease Ca Review"
 meta_description: "Our full matchwaves blackstone grease cup liners, grease catcher line review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7GM66VN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zb7kyCQ7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a grease cup liner does: it sits there, catches drippings, and saves you from scraping congealed bacon fat out of a metal cup with a plastic scraper at 7 a.m. The Matchwaves Blackstone Grease Cup Liners do exactly that — and with 235 ratings averaging 4.7 stars, they're doing it well enough that people bother to review them.

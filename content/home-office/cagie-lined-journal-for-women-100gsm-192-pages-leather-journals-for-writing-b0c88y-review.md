@@ -1,4 +1,5 @@
 ---
+
 title: "CAGIE Lined Journal for Women, 100GSM 192 Pages Leather Jour"
 seo_title: "CAGIE Lined Journal Review: 100GSM 192-Page Leather Notebook"
 meta_description: "CAGIE lined journal review: 100GSM paper, 192 pages, leather cover. Tested for bleed-through, durability & daily use. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C88Y32S5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91SPaOrJ9OL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100GSM paper handles fountain pens and gel ink with minimal ghosting — rare at this price point"
   - "192 pages (96 sheets) lays flat when open, so you're not wrestling the spine while writing near the margins"
   - "Leather-look PU cover is genuinely stiff and protective, not flimsy like many sub-$15 journals"
-cons:
+cons: 
   - "Paper is bright white, not cream — fountain pen users who prefer warm-toned paper may find it stark"
   - "No page numbers or index, so tracking longer projects requires manual numbering"
   - "Elastic closure is functional but thin; heavy use over months may require care"
+
 ---
 
 **Is the CAGIE Lined Journal just another pretty notebook, or does it actually hold up to daily writing?** With a 4.8-star average across 240 ratings, this 192-page, 100GSM leather-look journal has clearly impressed a lot of shoppers. I tested it against the claims — here's what you need to know before adding it to your cart.

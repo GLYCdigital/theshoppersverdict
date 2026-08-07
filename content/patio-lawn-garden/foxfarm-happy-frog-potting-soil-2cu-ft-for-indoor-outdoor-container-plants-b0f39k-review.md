@@ -1,4 +1,5 @@
 ---
+
 title: "FoxFarm Happy Frog Potting Soil, 2cu ft - for Indoor/Outdoor"
 seo_title: "FoxFarm Happy Frog Potting Soil Review (2026): Worth It?"
 meta_description: "Honest FoxFarm Happy Frog Potting Soil review: pH-adjusted, microbe-rich mix for containers. Pros, cons, and who should buy it. 4.7-star rated."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F39KQ597/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zDRmQ-c6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-mixed with beneficial microbes and earthworm castings — no need to add fertilizer for the first month"
   - "pH adjusted to 6.3-6.8 right out of the bag, which suits most vegetables, herbs, and ornamentals"
   - "Light, fluffy texture with good aeration, reduces risk of overwatering in containers"
-cons:
+cons: 
   - "2 cubic feet bag is heavy (~40 lbs) and can be awkward to handle for smaller gardeners"
   - "Some buyers report occasional bags with fungus gnats or a strong earthy smell — not universal, but worth noting"
+
 ---
 
 If you've ever killed a houseplant with love — overwatering, compacted soil, roots drowning — the problem wasn't you. It was the dirt. FoxFarm Happy Frog Potting Soil is engineered to forgive that mistake. This is the soil upgrade that experienced container gardeners swear by, and with a 4.7-star average across 235 ratings, it's not hard to see why.

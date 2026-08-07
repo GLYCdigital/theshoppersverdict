@@ -1,4 +1,5 @@
 ---
+
 title: "LAMSU Boho Tripod Floor Lamps for Living Room, Mid Century W"
 seo_title: "LAMSU Boho Tripod Floor Lamps for Living Room, Mid Review"
 meta_description: "Our full lamsu boho tripod floor lamps for living room, mid century w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6XTZ31V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71il15B8+9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $60 question: Can a boho tripod lamp actually look expensive?

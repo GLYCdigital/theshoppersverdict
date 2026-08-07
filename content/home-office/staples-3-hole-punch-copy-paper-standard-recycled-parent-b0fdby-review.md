@@ -1,4 +1,5 @@
 ---
+
 title: "Staples 3-Hole Punch Copy Paper Standard + Recycled (Parent)"
 seo_title: "Staples 3-Hole Punch Copy Paper Standard + Recycle Review"
 meta_description: "Our full staples 3-hole punch copy paper standard + recycled (parent) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDBYV9ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kwx37olbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, you can buy any ream of paper and punch holes yourself. But the entire point of this Staples 3-Hole Punch Copy Paper is that you don't have to — and whether that convenience justifies the cost depends entirely on how much you hate standing at a hole punch.

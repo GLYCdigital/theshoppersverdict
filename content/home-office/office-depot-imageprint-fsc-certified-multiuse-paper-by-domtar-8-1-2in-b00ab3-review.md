@@ -1,4 +1,5 @@
 ---
+
 title: "Office Depot ImagePrint FSC Certified Multiuse Paper by Domt"
 seo_title: "Office Depot ImagePrint FSC Certified Multiuse Pap Review"
 meta_description: "Our full office depot imageprint fsc certified multiuse paper by domt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00AB3Y7FA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hhC0hlccL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Cheap paper usually punishes you. This one doesn't.

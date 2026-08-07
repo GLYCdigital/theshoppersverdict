@@ -1,7 +1,8 @@
 ---
-title: "CINSARY 25\" Farmhouse Jar Table Lamps Set og 2 Retro Farmhou"
-seo_title: "CINSARY 25\" Farmhouse Jar Table Lamps Set of 2 Review"
-meta_description: "Honest CINSARY 25\" farmhouse jar table lamps set review: build quality, lighting performance, and whether this rustic 2-pack is worth your money."
+
+title: "CINSARY 25\ Farmhouse Jar Table Lamps Set og 2 Retro Farmhou"
+seo_title: "CINSARY 25\ Farmhouse Jar Table Lamps Set of 2 Review"
+meta_description: "Honest CINSARY 25\ farmhouse jar table lamps set review: build quality, lighting performance, and whether this rustic 2-pack is worth your money."
 slug: "cinsary-25-farmhouse-jar-table-lamps-set-og-2-retro-farmhouse-rustic-b0grgn-review"
 image_alt: "CINSARY 25 inch farmhouse jar table lamps set of 2 with rustic wood base and glass jar shades"
 verdict_score: 4.2
@@ -11,15 +12,16 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GRGN7MPT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717WvaDu9nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid wood bases with real grain variation—no cheap plastic look-alike construction"
   - "Generous 25-inch height makes these feel substantial on nightstands or console tables"
   - "Warm, diffused glow through the glass jar shades creates genuine farmhouse ambiance"
   - "Set of two at this price point undercuts most comparable rustic lamp pairs"
-cons:
+cons: 
   - "Requires 2 E26 bulbs per lamp (not included)—that's 4 bulbs you're buying separately"
   - "No dimmer switch, so brightness control depends entirely on your bulb choice"
   - "Fabric-wrapped cords feel a bit thin for the lamp's weight; handle with care during setup"
+
 ---
 
 Let's be direct about what you're getting with the CINSARY 25" Farmhouse Jar Table Lamps: a two-pack of rustic lighting that delivers on aesthetics, but comes with a few strings attached—literally and figuratively.

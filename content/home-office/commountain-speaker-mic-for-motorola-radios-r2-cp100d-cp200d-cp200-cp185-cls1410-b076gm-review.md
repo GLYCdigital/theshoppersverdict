@@ -1,4 +1,5 @@
 ---
+
 title: "commountain Speaker Mic for Motorola Radios R2 CP100D CP200D"
 seo_title: "commountain Speaker Mic for Motorola Radios Review (2026)"
 meta_description: "commountain Speaker Mic for Motorola Radios R2 CP100D CP200D review: audio clarity, build quality, compatibility, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B076GMYB2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71phNu4LO6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rotating 360° swivel clip lets you position the mic at any angle on a lapel, collar, or shoulder strap without kinking the cord"
   - "In-line PTT button is large enough to press with gloves or while wearing a full tool belt — no fumbling"
   - "Clear, audible receive audio even in moderate noise environments thanks to the front-facing speaker grille"
-cons:
+cons: 
   - "Cord is on the stiffer side — takes a few days to relax and conform to your body shape"
   - "No volume adjustment on the mic itself; you're relying on the radio's volume knob"
+
 ---
 
 If you're working a warehouse floor, security detail, or construction site with a Motorola CP100D or CP200D clipped to your belt, you already know the struggle: pulling the radio to your face for every transmission gets old fast, and in noisy environments you end up shouting into a speaker that wasn't designed for close-range work. The commountain Speaker Mic aims to solve that with a straightforward, no-nonsense design. After digging through 204 ratings and the mechanics of how this thing actually performs, here's the honest breakdown.

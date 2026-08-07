@@ -1,7 +1,8 @@
 ---
-title: "International Plastics Co. 18\" Plastic Stretch Film/Wrap 120"
-seo_title: "International Plastics Co. 18\" Plastic Stretch Fil Review"
-meta_description: "Our full international plastics co. 18\" plastic stretch film/wrap 120 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "International Plastics Co. 18\ Plastic Stretch Film/Wrap 120"
+seo_title: "International Plastics Co. 18\ Plastic Stretch Fil Review"
+meta_description: "Our full international plastics co. 18\ plastic stretch film/wrap 120 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "international-plastics-co-18-plastic-stretch-film-wrap-1200ft-500-stretch-clear-b0d9t4-review"
 image_alt: "International Plastics Co. 18 Plastic Stretch Film/Wrap 1200ft 500% Stretch Clear Cling Durable Adhering Packing Moving "
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9T4DQTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61V+L1ylAXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're moving a house, clearing out a storage unit, or shipping pallets, you already know this: cheap stretch wrap tears at the worst moment, sticks to itself before you're ready, and runs out halfway through the job. The International Plastics Co. 18" Plastic Stretch Film/Wrap 120 is built to eliminate all three frustrations. It's not flashy, but it's the kind of dependable workhorse that earns a permanent spot in your supply closet.

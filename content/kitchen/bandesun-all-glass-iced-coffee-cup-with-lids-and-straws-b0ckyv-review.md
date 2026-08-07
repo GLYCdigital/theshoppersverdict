@@ -1,4 +1,5 @@
 ---
+
 title: "Bandesun All Glass Iced Coffee Cup With Lids and Straws"
 seo_title: "Bandesun All Glass Iced Coffee Cup Review (2026): Worth It?"
 meta_description: "Honest Bandesun all glass iced coffee cup review: borosilicate build, leak-resistant lid, straw included. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKYV2NHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sU83tbinL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass resists thermal shock and holds up to repeated dishwasher cycles without clouding"
   - "Double-wall design keeps drinks cold without condensation rings on your desk or nightstand"
   - "Leak-resistant silicone seal in the lid survives a commute in a bag — verified by multiple long-term reviewers"
-cons:
+cons: 
   - "The included glass straw is fragile — several buyers reported chips after clinking against the cup bottom"
   - "Small 14oz capacity feels restrictive for iced coffee drinkers who want a full venti-sized serving"
   - "No insulation sleeve, so the cup gets warm to the touch if you're holding it with hot hands"
+
 ---
 
 # Bandesun All Glass Iced Coffee Cup: The Honest 4.2-Star Breakdown

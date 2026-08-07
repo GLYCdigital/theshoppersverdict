@@ -1,4 +1,5 @@
 ---
+
 title: "Body Glove BG-12000C Replacement Water Filter Cartridge"
 seo_title: "Body Glove BG-12000C Filter Review: Honest 2026 Verdict"
 meta_description: "Body Glove BG-12000C replacement water filter review: performance, lifespan, fit, and cost per gallon. Is it worth it? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B004UNGGIS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tfBpZpTxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Drops into most standard under-sink and countertop housings with zero tools — the universal 10-inch size fits a wide range of systems"
   - "Reduces chlorine taste and odor noticeably for the first 3–4 months, based on consistent buyer feedback"
   - "Budget-friendly per replacement compared to brand-name cartridges for the same generic 10-inch housings"
-cons:
+cons: 
   - "No NSF/ANSI certification listed — if you need certified reduction claims for lead or cysts, this isn't the filter for you"
   - "Flow rate drops noticeably in the last month of the rated 6-month lifespan, per multiple long-term reviews"
   - "Carbon block can shed fine black dust during initial flush if you don't run it long enough before first use"
+
 ---
 
 Let me save you some scrolling: the Body Glove BG-12000C is a perfectly serviceable, generic 10-inch carbon block filter that costs less than the name-brand equivalent. If you already own a standard under-sink or countertop housing, this is a solid budget pick. If you're expecting lab-grade water purification, you're shopping the wrong product.

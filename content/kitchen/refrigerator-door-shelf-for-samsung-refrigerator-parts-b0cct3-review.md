@@ -1,4 +1,5 @@
 ---
+
 title: "Refrigerator Door Shelf for Samsung Refrigerator Parts"
 seo_title: "Refrigerator Door Shelf for Samsung Refrigerator P Review"
 meta_description: "Our full refrigerator door shelf for samsung refrigerator parts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCT3NTZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bJlczTdtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about why you're here: your Samsung refrigerator door shelf either cracked under the weight of a half-gallon of milk or you've been living with a broken shelf held together by duct tape and hope. This replacement part from the Amazon listing at B0CCT3NTZP promises to fix that for a fraction of the $60–80 you'd pay Samsung directly. Does it deliver? Here's what 229 buyers found.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ash & Ember Park-Style Grill Charcoal Grill, Outdoor Cooking"
 seo_title: "Ash & Ember Park-Style Grill Review: Worth It? (2026)"
 meta_description: "Honest Ash & Ember Park-Style Grill review: build quality, cooking performance, and real buyer feedback. Is this charcoal grill right for your backyard?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYR33S3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/411tFdc-gkL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel construction with porcelain-coated firebox resists rust and holds steady heat"
   - "Large 640-square-inch cooking surface handles 12+ burgers or a full brisket without crowding"
   - "Dual dampers provide real temperature control for low-and-slow smoking or high-heat searing"
-cons:
+cons: 
   - "Assembly takes 90+ minutes with hardware that's not clearly labeled — set aside an afternoon"
   - "No built-in thermometer on the lid; you'll need to buy a probe for accurate internal temps"
   - "Wheels are small and plastic — rolling over grass or uneven patio stones is a struggle"
+
 ---
 
 The park-style grill is having a moment, and the Ash & Ember is riding that wave hard. With 220 ratings averaging 4.4 stars, it's clearly doing something right. But here's the thing about charcoal grills in this price bracket: they all look similar in photos. The real differences show up in steel thickness, damper control, and how the thing survives its second summer outdoors. I dug through buyer feedback and the specs to give you the straight story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet T5797-RBWL Tub Filler Wall-Mount"
 seo_title: "Delta T5797-RBWL Tub Filler Review: Wall-Mount Worth It?"
 meta_description: "Delta T5797-RBWL wall-mount tub filler review: Venetian Bronze finish, dual-function spout, 4.3-star rating. Is it worth the install hassle? Read our honest take."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08HP821B7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710bxStMgDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-function spout with integrated diverter — switch from tub fill to hand shower without reaching for a separate valve"
   - "Venetian Bronze finish is applied over solid brass; resists corrosion better than chrome alternatives in humid bathrooms"
   - "Diamond Seal Technology eliminates the need for rubber washers, meaning fewer leak points over the faucet's lifespan"
-cons:
+cons: 
   - "Wall-mount design requires rough-in valve (sold separately) and precise 6-inch center spacing — not a DIY-friendly swap for existing tubs"
   - "Hand shower hose is only 60 inches; tall bathers or larger tubs will feel the reach limitations"
   - "Cross handles are decorative but stiff — several reviewers note they require deliberate force to turn, especially for kids or elderly users"
+
 ---
 
 **The Delta T5797-RBWL isn't a faucet you buy on a whim.** It's a statement piece that demands you commit to the plumbing before you even unbox it. If you're remodeling a bathroom from studs out, this wall-mount filler rewards that effort with a clean, spa-like aesthetic and genuinely smart engineering. If you're hoping to swap out an existing deck-mounted faucet, stop reading now — this isn't that product.

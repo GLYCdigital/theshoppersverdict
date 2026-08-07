@@ -1,4 +1,5 @@
 ---
+
 title: "Halo Vegan Adult Dry Dog Food, Plant-Based"
 seo_title: "Halo Vegan Adult Dry Dog Food, Plant-Based Review: Verdic"
 meta_description: "Our full halo vegan adult dry dog food, plant-based review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CNZC6W7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rn8mLM9oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you: plant-based dog food is still a niche category, and Halo's entry into it is either a thoughtful option for ethically-driven owners or an overpriced experiment depending on your dog. Here's what 204 ratings at 4.1 stars actually tell you — and what they don't.

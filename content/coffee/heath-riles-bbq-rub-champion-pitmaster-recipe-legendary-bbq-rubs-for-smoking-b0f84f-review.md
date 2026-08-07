@@ -1,4 +1,5 @@
 ---
+
 title: "Heath Riles BBQ Rub - Champion Pitmaster Recipe, Legendary B"
 seo_title: "Heath Riles BBQ Rub - Champion Pitmaster Recipe, L Review"
 meta_description: "Our full heath riles bbq rub - champion pitmaster recipe, legendary b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F84FZYHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ANKBkQmLL._SL1050_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most competition-style rubs are 80% hype and 20% salt. Heath Riles' Legendary B is one of the few that actually justifies the "Champion Pitmaster Recipe" label. With 235 Amazon ratings averaging 4.7 stars, it's clearly resonating with backyard cooks — but is it right for *your* setup? Here's what I found after putting it through brisket, pork butt, and chicken thighs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ugly Stik Bigwater Spinning Fishing Rod"
 seo_title: "Ugly Stik Bigwater Spinning Fishing Rod Review: Verdict |"
 meta_description: "Our full ugly stik bigwater spinning fishing rod review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09VPMT29W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mo1+3xROS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing noise. The Ugly Stik Bigwater is the rod your grandfather used — and that's precisely why it still sells. After 225 Amazon ratings averaging 4.5 stars, this rod has proven itself as the working-class hero of saltwater spinning. But it's not perfect. Here's the honest breakdown.

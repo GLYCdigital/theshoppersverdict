@@ -1,7 +1,8 @@
 ---
-title: "KENSONE 40\"/48\" Foldable Mini Trampoline, Indoor Trampoline "
-seo_title: "KENSONE 40\"/48\" Foldable Mini Trampoline, Indoor T Review"
-meta_description: "Our full kensone 40\"/48\" foldable mini trampoline, indoor trampoline  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "KENSONE 40\/48\ Foldable Mini Trampoline, Indoor Trampoline "
+seo_title: "KENSONE 40\/48\ Foldable Mini Trampoline, Indoor T Review"
+meta_description: "Our full kensone 40\/48\ foldable mini trampoline, indoor trampoline  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kensone-40-48-foldable-mini-trampoline-indoor-trampoline-for-kids-adults-indoor-b0c4f3-review"
 image_alt: "KENSONE 40/48 Foldable Mini Trampoline, Indoor Trampoline for Kids, Adults Indoor/Garden Workout, Fitness Rebounder with"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C4F3VLP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610ydi7IYHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # KENSONE 40"/48" Foldable Mini Trampoline: A Solid Rebounder With One Clear Catch

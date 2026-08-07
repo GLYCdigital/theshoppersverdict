@@ -1,4 +1,5 @@
 ---
+
 title: "Springcrest Laine Empire Shade 6x19x12 (Spider) - Springcres"
 seo_title: "Springcrest Laine Empire Shade 6x19x12 (Spider) -  Review"
 meta_description: "Our full springcrest laine empire shade 6x19x12 (spider) - springcres review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FCZXLPZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bt7pcTfqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been hunting for a replacement lampshade that doesn’t look like a cheap afterthought, the **Springcrest Laine Empire Shade** deserves a close look. With 235 ratings and a solid 4.7-star average, it’s clearly doing something right. But is it the right shade for *your* lamp? Let’s break down what you’re actually getting—and where it might fall short.

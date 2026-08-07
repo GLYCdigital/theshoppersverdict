@@ -1,4 +1,5 @@
 ---
+
 title: "PLANTERS Cashews, Party Snacks, Plant-Based Protein - Snacks"
 seo_title: "PLANTERS Cashews, Party Snacks, Plant-Based Protei Review"
 meta_description: "Our full planters cashews, party snacks, plant-based protein - snacks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FR9XW175/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GJ9tI7YlL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cashews: they're the snack that disappears before you've consciously decided to open the container. The PLANTERS Party Snacks version in the 26-ounce container leans into that reality — it's built for sharing, but you'll probably finish it solo during a Netflix binge.

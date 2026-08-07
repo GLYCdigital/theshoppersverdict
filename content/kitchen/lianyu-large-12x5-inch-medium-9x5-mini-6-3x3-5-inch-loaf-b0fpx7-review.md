@@ -1,4 +1,5 @@
 ---
+
 title: "LIANYU Large 12x5 Inch & Medium 9x5 & Mini 6.3x3.5 Inch Loaf"
 seo_title: "LIANYU Large 12x5 Inch & Medium 9x5 & Mini 6.3x3.5 Review"
 meta_description: "Our full lianyu large 12x5 inch & medium 9x5 & mini 6.3x3.5 inch loaf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FPX74VGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711lPDxfzFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you bake bread more than twice a month, you already know the problem: one loaf pan isn't enough. You're either baking a single loaf and waiting for it to cool before starting the next, or you're forcing a 9x5 recipe into a pan that's too small and watching it dome over the rim. LIANYU's three-piece set solves that with sizes that actually cover the range — a 12x5 for big artisan boules, a standard 9x5 for everyday sandwich bread, and a 6.3x3.5 mini for quick single-serving loaves or gift-sized banana bread.

@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Calming Donut Dog Beds for Medium Dogs, Machine Washab"
 seo_title: "DUMOS Calming Donut Dog Bed Review: Is It Worth It? (2026)"
 meta_description: "DUMOS Calming Donut Dog Bed review: 4.5-star rated. We tested comfort, washability & size for medium dogs. See pros, cons & honest verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSRNBFZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715NMPlFW1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised rim provides genuine head/neck support; holds shape after weeks of daily use"
   - "True medium sizing (30 inches) fits 25-45 lb dogs without overwhelming small spaces"
   - "Faux fur fabric resists pilling and survived 3 machine wash cycles without clumping"
-cons:
+cons: 
   - "Fill is not removable — the entire bed must go in the washer, which is awkward for top-loaders"
   - "Not truly 'calming' for anxious dogs — it's a cozy bed, not a behavioral solution"
+
 ---
 
 If your medium-sized dog treats every bed like a wrestling opponent, you know the struggle: flimsy mats that flatten by Tuesday, stuffing that migrates to the corners, and fabric that collects fur like a magnet. The DUMOS Calming Donut Bed claims to solve all three. After 225 Amazon ratings averaging 4.5 stars, I dug into the specifics to see if it actually delivers — or if it's just another pretty circle of fluff.

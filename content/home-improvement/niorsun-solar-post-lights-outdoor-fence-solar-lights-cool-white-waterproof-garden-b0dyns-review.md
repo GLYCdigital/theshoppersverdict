@@ -1,4 +1,5 @@
 ---
+
 title: "NIORSUN Solar Post Lights Outdoor, Fence Solar Lights Cool W"
 seo_title: "NIORSUN Solar Post Lights Outdoor, Fence Solar Lig Review"
 meta_description: "Our full niorsun solar post lights outdoor, fence solar lights cool w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYNSH9FP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714UmlEQ7UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about solar post lights: most of them are cheap plastic pucks that glow weakly for two hours then die. The NIORSUN Solar Post Lights are not that. After digging through 225 ratings and the build specs, this is a legitimately different category of fixture — and it mostly earns the 4.5-star average.

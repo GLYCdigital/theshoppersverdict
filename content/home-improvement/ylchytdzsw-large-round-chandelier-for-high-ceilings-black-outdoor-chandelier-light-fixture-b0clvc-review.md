@@ -1,4 +1,5 @@
 ---
+
 title: "YLCHYTDZSW Large Round Chandelier for High Ceilings - Black "
 seo_title: "YLCHYTDZSW Large Round Chandelier for High Ceiling Review"
 meta_description: "Our full ylchytdzsw large round chandelier for high ceilings - black  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLVCTJW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618K9R9NMNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 24-inch black ring fixture that actually earns its “large” label — but only if your ceiling is ready for it.**  

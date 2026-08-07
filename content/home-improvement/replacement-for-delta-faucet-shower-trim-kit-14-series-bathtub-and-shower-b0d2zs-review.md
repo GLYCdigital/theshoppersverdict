@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement for Delta Faucet Shower Trim Kit 14 Series, Bath"
 seo_title: "Replacement for Delta Faucet Shower Trim Kit 14 Se Review"
 meta_description: "Our full replacement for delta faucet shower trim kit 14 series, bath review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D2ZSW5JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o-3vcbWJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a Delta 14 Series valve buried in your shower wall, you already know the pain: the trim kit fails, and Delta wants $80–$120 for a factory replacement. This aftermarket trim kit undercuts that price significantly, but the real question is whether it delivers the same fit and finish. After digging through 210 ratings and buyer feedback, here's the straight story.

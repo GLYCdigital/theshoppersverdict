@@ -1,4 +1,5 @@
 ---
+
 title: "Aqueon QuietFlow LED PRO Aquarium Power Filter, Size 75 inch"
 seo_title: "Aqueon QuietFlow LED PRO Filter Size 75 Review (2026)"
 meta_description: "Honest Aqueon QuietFlow LED PRO Size 75 review: quiet, efficient filtration with LED indicator. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJHHHKZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Q4mZCxmNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely quiet operation — most buyers report it's barely audible even on larger tanks"
   - "LED flow indicator turns from blue to green when the filter needs cleaning — a genuinely useful feature"
   - "Self-priming design with a simple lift-to-prime mechanism that actually works without siphoning"
-cons:
+cons: 
   - "Filter cartridges are proprietary and cost more over time than DIY media options"
   - "The LED indicator sits on the motor housing — awkward to see if the filter is mounted behind tank decor"
+
 ---
 
 **Bottom Line Up Front:** If you're tired of filters that sound like a blender and need something that tells you when it's struggling, the Aqueon QuietFlow LED PRO delivers on its two biggest promises: quiet operation and a genuinely useful cleaning indicator. At 4.2 stars from 210 ratings, it's not flawless — but for mid-size tanks (30–75 gallons), this is one of the more thoughtful hang-on-back filters on the market.

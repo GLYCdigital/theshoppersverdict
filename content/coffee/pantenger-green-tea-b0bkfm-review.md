@@ -1,4 +1,5 @@
 ---
+
 title: "Pantenger Green Tea"
 seo_title: "Pantenger Green Tea Review: Verdict | TSV"
 meta_description: "Our full pantenger green tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BKFMF8CW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1dx1xPfQ+L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most green teas on Amazon are either overpriced dust masquerading as premium leaves, or they taste like grass clippings soaked in sadness. The Pantenger Green Tea sits somewhere in the middle — and for a solid portion of the 210+ shoppers who rated it, that middle ground is exactly where they wanted to be.

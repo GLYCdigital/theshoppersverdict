@@ -1,4 +1,5 @@
 ---
+
 title: "DynastyMattress 4-inch Cool Gel Memory Foam Mattress Sleeper"
 seo_title: "DynastyMattress 4-Inch Cool Gel Memory Foam Review (2026)"
 meta_description: "Honest DynastyMattress 4-inch Cool Gel Memory Foam Mattress Sleeper review: comfort, durability, odor, and who it's best for. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00HK58W8U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Rg-76r1sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat for storage or converts into a 2-seat floor sofa — genuinely versatile for small spaces"
   - "4-inch profile with 2-inch gel-infused memory foam top layer provides noticeable pressure relief at a budget price"
   - "Zippered, removable cover is machine-washable — a rare feature at this price point"
-cons:
+cons: 
   - "Significant off-gassing odor that lingers for 3-7 days, even after airing out"
   - "Too soft for stomach sleepers or heavier users — can bottom out and cause back pain"
   - "Shifting on smooth floors is a real issue; the bottom layer lacks any non-slip grip"
+
 ---
 
 If you need a bed that disappears when you don't need it, the DynastyMattress 4-inch Cool Gel Memory Foam Mattress Sleeper deserves a serious look. This is the mattress for guest rooms that double as home offices, dorm rooms, and apartments where floor space is precious. It's not a luxury sleep surface — but it's not trying to be.

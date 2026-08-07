@@ -1,4 +1,5 @@
 ---
+
 title: "maylit Smart RGB Under Cabinet Lights Kit, Compatible with A"
 seo_title: "maylit Smart RGB Under Cabinet Lights Kit, Compati Review"
 meta_description: "Our full maylit smart rgb under cabinet lights kit, compatible with a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FC66J74T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81I6JebumeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at dark countertops every time you prep dinner, the maylit Smart RGB Under Cabinet Lights Kit is the kind of upgrade you'll wonder why you didn't do sooner. But before you hit buy, let's talk about what it actually delivers—and where it gets a little annoying.

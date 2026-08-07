@@ -1,4 +1,5 @@
 ---
+
 title: "EPR Full Deck Rebuild Kit for Craftsman 42 Inch LT1000 LT200 inch"
 seo_title: "EPR Deck Rebuild Kit Review: Craftsman LT1000 LT200 inch"
 meta_description: "EPR Full Deck Rebuild Kit for Craftsman 42-inch LT1000/LT200: Our honest review covers fit, durability, and whether it beats OEM parts."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08B1VCLW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614TzXa+hRL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Includes every wear item for the 42-inch deck — spindles, mandrels, belts, and pulleys — so you rebuild once, not piecemeal"
   - "Machined steel pulleys and reinforced spindle housings hold up better than the stamped OEM parts on Craftsman decks"
   - "Direct bolt-on fit for LT1000/LT200 with zero modification; hardware and spacers are pre-sorted and labeled"
-cons:
+cons: 
   - "Spindle bearings are sealed but not greasable — when they wear out in 3–4 seasons, you replace the whole spindle, not just bearings"
   - "Deck belt included is decent but not OEM-grade; heavy users may want to swap in a Kevlar-reinforced belt for longer life"
+
 ---
 
 If your Craftsman LT1000 or LT200 has started vibrating like a paint shaker or leaving uncut strips in the middle of your lawn, the deck spindles are almost certainly shot. That's the classic failure on these 42-inch decks — the stamped steel housings wear, the bearings seize, and the whole assembly starts flopping around. The EPR Full Deck Rebuild Kit is designed to fix all of that in one afternoon, and based on 225 ratings averaging 4.5 stars, it's doing exactly that for a lot of owners.

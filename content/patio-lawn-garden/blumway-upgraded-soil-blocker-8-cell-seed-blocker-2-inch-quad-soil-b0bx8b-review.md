@@ -1,4 +1,5 @@
 ---
+
 title: "BlumWay Upgraded Soil Blocker, 8 Cell Seed Blocker 2 inch Qu"
 seo_title: "BlumWay Upgraded Soil Blocker Review: 8-Cell Quad"
 meta_description: "Honest BlumWay Upgraded Soil Blocker review: 8-cell 2-inch quad. Build quality, real results, pros/cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX8BP89T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qu3fIqqdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stainless steel plunger mechanism and aluminum body resist rust far better than cheaper plastic competitors"
   - "8-cell 2-inch quad format produces blocks that hold together through transplanting without plastic pots"
   - "Spring-loaded ejection system releases blocks cleanly with minimal sticking, even with standard seed-starting mix"
-cons:
+cons: 
   - "Requires a specific soil moisture level — too dry and blocks crumble, too wet and they turn to mud"
   - "No built-in dibble indentation for seeds, so you'll need to poke your own shallow holes"
   - "Handle feels slightly narrow for larger hands during extended block-making sessions"
+
 ---
 
 Let's be blunt: most gardening tools under $40 are either flimsy plastic that cracks by mid-season or metal so thin it bends under pressure. The BlumWay Upgraded Soil Blocker sits in a sweet spot — it's built like a tool meant to last, and at 4.4 stars across 220 ratings, it's clearly earning its keep in real gardens. But it's not without quirks, and I'll get to those.

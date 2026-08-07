@@ -1,4 +1,5 @@
 ---
+
 title: "Westice Home Office Desk Chair, Upholstered Hand Weaving Des"
 seo_title: "Westice Home Office Desk Chair, Upholstered Hand W Review"
 meta_description: "Our full westice home office desk chair, upholstered hand weaving des review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSS1Z259/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j8l3cZJDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most office chairs under $200 fall into two camps: generic black mesh that looks like it belongs in a 2005 call center, or bonded leather that peels within a year. The Westice Home Office Desk Chair tries something different — a hand-woven backrest with a gold frame that looks like it escaped from a designer catalog. The question is whether it holds up when you actually sit in it for eight hours.

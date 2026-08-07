@@ -1,4 +1,5 @@
 ---
+
 title: "24oz Glass Cup with Handle - glass cup with bamboo lids and"
 seo_title: "24oz Glass Cup with Bamboo Lid Review: Worth It? (2026)"
 meta_description: "Honest 24oz glass cup with bamboo lid review: durability, leak-test results, real buyer feedback, and who should buy it. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQLX5TNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uUk789BlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick borosilicate glass handles hot and cold drinks without cracking — no thermal shock issues reported in 220+ ratings"
   - "Bamboo lid includes a silicone gasket that actually seals; several buyers confirmed it's leak-resistant when closed properly"
   - "24oz capacity hits the sweet spot for iced coffee, smoothies, or water — big enough to be useful, not so big it's awkward"
-cons:
+cons: 
   - "Bamboo lid is hand-wash only; putting it in the dishwasher warps the wood and compromises the seal"
   - "Glass is heavy when full — roughly 2.5 lbs with liquid, which makes it less ideal for commuting than a plastic tumbler"
+
 ---
 
 Let me be direct: the market is flooded with glass cups that claim to be "premium" but shatter the first time you look at them wrong. This 24oz glass cup with a bamboo lid and straw has 220 ratings sitting at 4.4 stars — which tells me it's doing something right, but it's not perfect. Here's what you need to know before you buy.

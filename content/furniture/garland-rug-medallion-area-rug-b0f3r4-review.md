@@ -1,4 +1,5 @@
 ---
+
 title: "Garland Rug Medallion Area Rug"
 seo_title: "Garland Rug Medallion Area Rug Review: Worth It?"
 meta_description: "Garland Rug Medallion Area Rug review: 4.1-star rating, 204 reviews. Is this low-pile medallion rug durable? Real buyer feedback on shedding, feel, and value."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3R4X2PF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81InjWmYv8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-low pile height makes it ideal for high-traffic doorways and under furniture without bunching"
   - "Machine-woven polypropylene construction resists stains and fading, even in sun-exposed rooms"
   - "Reversible design doubles the lifespan — flip it when one side shows wear"
-cons:
+cons: 
   - "Thin cushioning means it won't soften hard floors — you'll want a separate rug pad underneath"
   - "Initial chemical odor out of the box that takes a few days to dissipate in enclosed spaces"
+
 ---
 
 Let's be direct about the Garland Rug Medallion: this is not a plush, sink-your-toes-in statement piece. It's a workhorse. At 4.1 stars across 204 ratings, it's earning its keep in homes that need something more practical than precious. Here's the real breakdown.

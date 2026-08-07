@@ -1,4 +1,5 @@
 ---
+
 title: "CAMO Edge Deck Screws 2-3/8 inch  ProTech"
 seo_title: "CAMO Edge Deck Screws 2-3/8 inch  ProTech Review: Worth It?"
 meta_description: "CAMO Edge Deck Screws 2-3/8 inch  ProTech review: hidden-fastener screws with star drive. Real-world performance, pros, cons, and who should buy. 4.8/5 rating."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07XHNDVHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/51AJS8D8MVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works with the CAMO Edge system for a completely fastener-free deck surface — no plugs, no sanding"
   - "ProTech coating provides genuine corrosion resistance for pressure-treated lumber, tested in real deck builds"
   - "Star drive (T20) bites hard; cam-out is rare even with a high-torque impact driver"
-cons:
+cons: 
   - "Only usable with the CAMO Edge jig — you can't drive them like ordinary deck screws, which adds upfront cost"
   - 2-3/8 inch " length limits you to 1x decking or 5/4 boards; 2x material needs the longer 2-3/4 inch " version
+
 ---
 
 If you've ever stared at a deck covered in countersunk screw heads, wood filler, and sanding dust, you already know the pain. The CAMO Edge system eliminates that entire mess — and these 2-3/8" ProTech screws are the consumable that makes it work. At 4.8 stars across 240 ratings, they're clearly doing something right. But they're not magic. Here's what you need to know before you buy.

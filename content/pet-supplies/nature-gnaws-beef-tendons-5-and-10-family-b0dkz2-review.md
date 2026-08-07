@@ -1,7 +1,8 @@
 ---
-title: "Nature Gnaws Beef Tendons 5\" and 10\" | Family"
-seo_title: "Nature Gnaws Beef Tendons 5\" and 10\" | Family Review: Ver"
-meta_description: "Our full nature gnaws beef tendons 5\" and 10\" | family review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Nature Gnaws Beef Tendons 5\ and 10\ | Family"
+seo_title: "Nature Gnaws Beef Tendons 5\ and 10\ | Family Review: Ver"
+meta_description: "Our full nature gnaws beef tendons 5\ and 10\ | family review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nature-gnaws-beef-tendons-5-and-10-family-b0dkz2-review"
 image_alt: "Nature Gnaws Beef Tendons 5 and 10 | Family"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DKZ2MMKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+vFOgJ4rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nature Gnaws Beef Tendons: The Rawhide-Free Chew That Actually Digests

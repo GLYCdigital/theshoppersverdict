@@ -1,4 +1,5 @@
 ---
+
 title: "EPSON 202 Claria Ink Standard Capacity Black Cartridge (T202 inch"
 seo_title: "EPSON 202 Black Ink Cartridge Review: Honest Verdict"
 meta_description: "EPSON 202 Claria black ink cartridge review: print quality, page yield, compatibility, and real buyer feedback. Is it worth the price?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM2MSWLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rueb5urdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Claria ink formulation delivers crisp, deep-black text that dries quickly without smudging on plain paper"
   - "Genuine EPSON chip prevents compatibility errors and maintains printer warranty coverage"
   - "Consistent output quality across the full cartridge life — no fading or streaking in the final pages"
-cons:
+cons: 
   - "Standard capacity means roughly 120 pages per cartridge — high-volume users will replace it often"
   - "Significantly more expensive per page than third-party or high-yield XL alternatives"
   - "Package arrives in plain retail packaging with no protective seal indicator, making counterfeits harder to spot"
+
 ---
 
 Opening a fresh cartridge and getting that first perfect page is satisfying — until you realize you're already 120 pages closer to the next $30 purchase. That's the tradeoff with the EPSON 202 Claria Standard Capacity Black Cartridge (T202120-S). It's the genuine-ink route for a reason, but it's also not the cheapest way to feed a hungry printer.

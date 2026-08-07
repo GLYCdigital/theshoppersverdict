@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Hexagon Light Panels, Smart LED Wall Lights, Glide Hex"
 seo_title: "Govee Hexagon Light Panels, Smart LED Wall Lights, Review"
 meta_description: "Our full govee hexagon light panels, smart led wall lights, glide hex review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B76WKVVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IxxLJQo2L._AC_SL1441_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Govee Hexagon Light Panels Review: Do They Deliver on the Hype?

@@ -1,4 +1,5 @@
 ---
+
 title: "Teapigs Tea Leaves"
 seo_title: "Teapigs Tea Leaves Review: Verdict | TSV"
 meta_description: "Our full teapigs tea leaves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D94WX5SG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tbxA9VG2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most grocery store tea is dust in a paper bag. Teapigs does the opposite. This is whole-leaf tea — actual recognizable leaves, chunks of fruit, visible herbs — packed into roomy pyramid bags that give the tea room to breathe.  

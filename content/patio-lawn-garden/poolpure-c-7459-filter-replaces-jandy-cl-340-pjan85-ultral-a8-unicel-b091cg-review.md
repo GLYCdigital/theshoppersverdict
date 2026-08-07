@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE C-7459 Filter Replaces Jandy CL 340, PJAN85, Ultral"
 seo_title: "POOLPURE C-7459 Filter Replaces Jandy CL 340, PJAN Review"
 meta_description: "Our full poolpure c-7459 filter replaces jandy cl 340, pjan85, ultral review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B091CGCXCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-2LNAIesL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Jandy CL 340 cartridge filter, you already know the sting of the OEM replacement price. The POOLPURE C-7459 steps in as a direct cross-reference for the Jandy CL 340, PJAN85, and Ultral systems, and with 229 ratings averaging 4.6 stars, it's clearly earning its keep in backyards across the country. But does "compatible" actually mean "identical"? Not quite — and here's where the nuance matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Sundale Outdoor Umbrella Stand with 2 Weight Bags, Patio 22 "
 seo_title: "Sundale Outdoor Umbrella Stand with 2 Weight Bags, Review"
 meta_description: "Our full sundale outdoor umbrella stand with 2 weight bags, patio 22  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXY8893S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L+rAjqQYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $200 patio umbrella cartwheel across your yard in a summer breeze, you know the real problem isn't the umbrella — it's the stand. The Sundale Patio 22 with its two weight bags is designed to solve exactly that, and for most setups, it does.

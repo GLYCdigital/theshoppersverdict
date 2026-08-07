@@ -1,4 +1,5 @@
 ---
+
 title: "maXpeedingrods Portable Inverter Generator,Gas Powered,Quiet"
 seo_title: "maXpeedingrods Portable Inverter Generator,Gas Pow Review"
 meta_description: "Our full maxpeedingrods portable inverter generator,gas powered,quiet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXZ5TCN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B-oFk4h-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: the maXpeedingrods Portable Inverter Generator is not a Honda EU2200i at a third of the price, and anyone promising that is lying. But if you need dependable, relatively quiet power for a weekend campsite, a tailgate, or keeping your fridge cold during an outage without dropping $1,000, this 2000-watt inverter unit deserves a hard look.

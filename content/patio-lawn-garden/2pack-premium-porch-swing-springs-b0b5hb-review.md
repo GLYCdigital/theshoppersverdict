@@ -1,4 +1,5 @@
 ---
+
 title: "2Pack Premium Porch Swing Springs"
 seo_title: "2Pack Porch Swing Springs Review: Worth It? (2026)"
 meta_description: "Honest 2Pack Premium Porch Swing Springs review: 4.8-star rating, real install tips, weight limits, and whether you need the 2-pack."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B5HBQHXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WoRz7JHYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel construction resists rust — holds up through rain and humidity seasons"
   - "Includes both mounting hooks and S-hooks, so you don't need extra hardware"
   - "Smooth glide motion reduces jerky stops that loosen chains over time"
-cons:
+cons: 
   - "Springs are stiffer than some lightweight swings need — smaller frames may barely compress"
   - "No included hardware for the ceiling mount side — you'll need to buy lag bolts separately"
+
 ---
 
 A porch swing that jerks to a stop every time someone sits down isn't relaxing — it's annoying, and it slowly wrecks your chains. That's the problem these springs solve. The 2Pack Premium Porch Swing Springs are a simple, low-cost fix that smooths out the ride, and with a 4.8-star average across 240 ratings, they're clearly doing something right. But are they right for *your* swing? Let's dig in.

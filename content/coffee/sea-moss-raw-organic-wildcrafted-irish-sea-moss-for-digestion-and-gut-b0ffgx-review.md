@@ -1,4 +1,5 @@
 ---
+
 title: "Sea Moss Raw - Organic Wildcrafted Irish Sea Moss for Digest"
 seo_title: "Sea Moss Raw - Organic Wildcrafted Irish Sea Moss  Review"
 meta_description: "Our full sea moss raw - organic wildcrafted irish sea moss for digest review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FFGX5P94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GsZNNTR8L._SL1419_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Real Deal or Just Another Overpriced Superfood?

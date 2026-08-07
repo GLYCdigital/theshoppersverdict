@@ -1,4 +1,5 @@
 ---
+
 title: "COMAX Folding Sofa Bed Queen 4-in-1 Foldable Floor Couch Con"
 seo_title: "COMAX Folding Sofa Bed Review: 4-in-1 Queen Floor Couch"
 meta_description: "Honest COMAX 4-in-1 foldable sofa bed review: comfort, durability, and value for a queen-size floor couch. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DTK62Q3R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HjSBRJVwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4-in-1 convertible design (sofa, lounger, chaise, bed) genuinely works for small spaces without tools"
   - "Foldable floor couch sits at 5-6 inches high — low profile that's kid-friendly and good for Japanese-style seating"
   - "Removable, washable cover handles the inevitable spills and pet hair better than most in this price tier"
-cons:
+cons: 
   - "Low-profile floor height (no legs) means getting up from seated position is genuinely difficult for older adults or anyone with knee issues"
   - "At queen size, the folded mattress sections create a visible seam gap in bed mode that some sleepers find uncomfortable"
   - "Firmness is polarizing — it's dense and supportive, not plush; side sleepers often report pressure points at the shoulder"
+
 ---
 
 Let's cut through the marketing on this one. The COMAX Folding Sofa Bed Queen is a low-profile, 4-in-1 floor couch that folds between sofa, lounger, chaise, and flat bed configurations. At roughly 5–6 inches off the floor with no legs, it's a Japanese-style floor seating solution marketed for small apartments, guest rooms, and movie nights. With a 3.9-star average from 195 ratings, it's decent — but "decent" comes with caveats you need to know before buying.

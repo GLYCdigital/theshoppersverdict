@@ -1,4 +1,5 @@
 ---
+
 title: "10L0L 2 Inch Golf Cart Wheel Spacers Kit with Lug Nuts Fits"
 seo_title: "10L0L 2 Inch Golf Cart Wheel Spacers Review (2026)"
 meta_description: "10L0L 2-inch golf cart wheel spacers review: 4.7★ from 235 buyers. Does this kit widen your stance safely? Real pros, cons & fitment facts."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B27ZJFNJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-ujE8+HCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "CNC-machined 6061-T6 aluminum with anodized finish resists corrosion and won't warp under torque"
   - "Kit includes 8 extended lug nuts and fits both 4-lug and 5-lug hubs — covers Club Car, EZGO, and Yamaha"
   - "Hub-centric design eliminates vibration at speed, unlike cheaper lug-centric spacers"
-cons:
+cons: 
   - "You'll need to trim factory studs on some models — not truly 'bolt-on' for every cart"
   - "Adding 2 inches per side increases scrub radius; expect slightly heavier steering at low speeds"
+
 ---
 
 If you've ever watched your golf cart lean into a turn like a boat in a swell, you already know the problem: a narrow track width makes these things feel tippy. The 10L0L 2-inch wheel spacer kit is the most straightforward fix for that, and with 235 ratings averaging 4.7 stars, it's clearly working for a lot of owners. But "straightforward" doesn't mean "zero effort" — here's what you need to know before you buy.

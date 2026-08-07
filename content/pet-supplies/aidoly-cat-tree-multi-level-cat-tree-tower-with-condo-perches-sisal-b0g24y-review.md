@@ -1,4 +1,5 @@
 ---
+
 title: "Aidoly Cat Tree, Multi-Level Cat Tree Tower with Condo, Perc"
 seo_title: "Aidoly Cat Tree Review: Multi-Level Tower With Condo (2026)"
 meta_description: "Honest Aidoly cat tree review: multi-level tower with condo, perches & sisal posts. See what 225 cat owners say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G24YT4XD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TYAob45xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy base with anti-tip straps holds up to heavier cats during aggressive play"
   - "Three sisal-wrapped posts (thick, natural fiber) that actually deter furniture scratching"
   - "Removable, machine-washable condo cushion — a lifesaver for shedding season"
-cons:
+cons: 
   - "Assembly requires a hex wrench and roughly 30-40 minutes; holes occasionally misalign"
   - "Top perch lacks a raised lip — a dozing cat can roll off if it shifts mid-sleep"
+
 ---
 
 Cats are picky. Spend $40 on a flimsy scratching post and they'll ignore it for your couch. Spend $150 on a luxury tower and they'll sleep in the box it came in. The Aidoly Cat Tree sits in the sensible middle — a multi-level tower with a condo, three perches, and sisal posts that 225 Amazon reviewers have rated 4.5 stars. After digging through the feedback and examining the specs, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Elegance Triple Action Styling Hair Gel for Men and Women, S"
 seo_title: "Elegance Triple Action Styling Hair Gel Review (2026): Worth It?"
 meta_description: "Our honest Elegance Triple Action Styling Hair Gel review: hold, shine, and washability tested. See pros, cons, and if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBXRRXQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mYnEEzIwL._SL1500_.jpg"
-pros:
+pros: 
   - "Provides a firm, all-day hold without the crunchy, flaky residue common in cheaper gels"
   - "Triple-action formula works for slick backs, spikes, and natural textures on both men and women"
   - "Washes out cleanly with just water — no harsh scrubbing or clarifying shampoo required"
-cons:
+cons: 
   - "Scent is noticeably strong (sweet, cologne-like) and lingers for hours — sensitive noses may object"
   - "A little goes a long way; over-applying can leave hair feeling heavy and greasy by midday"
+
 ---
 
 Let’s cut through the noise: most hair gels are either too weak to hold a style or so stiff they make your hair feel like a helmet. The Elegance Triple Action Styling Hair Gel tries to split that difference, and based on 229 Amazon ratings averaging 4.6 stars, it’s doing something right. But is it the “luxury” product the branding suggests, or just another tub of goop with a fancy label? I tested it for a week across multiple styles. Here’s the honest breakdown.

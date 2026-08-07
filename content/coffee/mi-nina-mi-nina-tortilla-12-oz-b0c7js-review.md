@@ -1,4 +1,5 @@
 ---
+
 title: "MI NINA Mi Nina Tortilla 12 Oz"
 seo_title: "MI NINA Mi Nina Tortilla 12 Oz Review: Verdict | TSV"
 meta_description: "Our full mi nina mi nina tortilla 12 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7JSN874/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IaCveQEmL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MI NINA Tortilla 12 Oz is a surprisingly capable travel mug that punches above its price point — if you can live with a few quirks.**

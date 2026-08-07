@@ -1,4 +1,5 @@
 ---
+
 title: "Capslpad Kids Rug Educational Play Rug Traffic Road Kids Pla"
 seo_title: "Capslpad Kids Play Rug Review: Traffic Road Car Mat"
 meta_description: "Honest Capslpad Kids Rug review: 4.6★ traffic road play mat. Soft, durable, educational. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5D7DQ85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kkyjpwNoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick non-slip backing stays put on hardwood and tile — no sliding during rambunctious play"
   - "Detailed road layout with intersections, roundabouts, and parking zones that actually teaches traffic logic"
   - "Machine-washable construction holds up after repeated cycles without pilling or fading"
-cons:
+cons: 
   - "Road markings and building graphics are printed, not tufted — expect wear in high-traffic zones after heavy use"
   - "Rug has a distinct chemical smell out of the box that takes 2-3 days to air out fully"
+
 ---
 
 # This Play Rug Does Double Duty: Floor Coverage and a Traffic School for Toddlers

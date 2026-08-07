@@ -1,4 +1,5 @@
 ---
+
 title: "FiveOaks Firewood Kiln Dried Cooking Wood ~5 inch  Tiny Splits fo"
 seo_title: "FiveOaks Kiln Dried Tiny Splits Review: Perfect for Pizza Ovens"
 meta_description: "Honest FiveOaks firewood review: Are these 5-inch kiln-dried splits worth it for pizza ovens, smokers, and fire pits? Real pros, cons, and buyer verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CHWV3RZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w9xE74MfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 5-inch splits that actually fit small pizza oven mouths without splitting or wedging"
   - "True kiln-dried moisture content — lights fast, burns clean, minimal smoke or creosote buildup"
   - "Uniform sizing means you can load a full basket without sorting or re-stacking"
-cons:
+cons: 
   - "Price per pound runs high compared to bulk cordwood — you're paying for convenience and precision"
   - "Boxes arrive heavy (40+ lbs); some buyers report crushed corners in shipping, though the wood survives"
+
 ---
 
 Let me cut to the chase: if you own a pizza oven, a small smoker, or a fire pit that demands small fuel, you already know the struggle. Standard firewood splits are too big. You end up swinging a hatchet in the yard at 6 PM, chasing kindling-sized pieces, or buying "campfire wood" that's half bark and mystery moisture. FiveOaks solves that specific problem with the ~5" Tiny Splits — but at a premium. Here's the full breakdown.

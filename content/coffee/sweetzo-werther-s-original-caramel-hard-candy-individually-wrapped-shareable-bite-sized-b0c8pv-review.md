@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetzo - Werther's Original Caramel Hard Candy, Individuall"
 seo_title: "Sweetzo - Werther's Original Caramel Hard Candy, I Review"
 meta_description: "Our full sweetzo - werther's original caramel hard candy, individuall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8PVBDQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rgQxPfOvL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: this isn't a coffee maker. But if you take your coffee with a little something sweet on the side — and you're tired of hunting for a decent caramel candy that doesn't destroy your fillings — this Sweetzo offering of individually wrapped Werther's Original hard candies deserves a look.

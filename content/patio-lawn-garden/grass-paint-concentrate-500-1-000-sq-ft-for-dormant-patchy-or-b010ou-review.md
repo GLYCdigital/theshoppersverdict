@@ -1,4 +1,5 @@
 ---
+
 title: "Grass Paint Concentrate (500-1,000 sq ft) - for Dormant, Pat"
 seo_title: "Grass Paint Concentrate (500-1,000 sq ft) - for Do Review"
 meta_description: "Our full grass paint concentrate (500-1,000 sq ft) - for dormant, pat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B010OU2DZU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611i5WEaZLL._SL1405_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If your lawn looks like a patchwork quilt of brown and green every winter, this concentrate is a legit fix — but only if you're willing to put in the mixing effort and accept that it's a cosmetic band-aid, not a cure.

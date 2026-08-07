@@ -1,4 +1,5 @@
 ---
+
 title: "EXPRESS WATER – Reverse Osmosis Membrane – RO Membrane 1 inch"
 seo_title: "EXPRESS WATER RO Membrane Review: 100 GPD Filter Worth It?"
 meta_description: "EXPRESS WATER RO membrane review: 100 GPD replacement filter performance, lifespan, and fit. See real customer results before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BCL793DQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Wr45QGqPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100 GPD capacity with 98% rejection rate, verified by independent TDS meter tests from buyers"
   - "Universal 11.75-inch size fits most standard RO housings including iSpring, APEC, and Home Master units"
   - "Comes individually wrapped in sealed packaging with sanitizing O-rings — ready for quick DIY swap"
-cons:
+cons: 
   - "No included pre-filter or post-filter — this is a bare membrane only, so budget for those separately"
   - "Performance drops noticeably if your incoming water pressure is below 40 PSI without a booster pump"
+
 ---
 
 You're staring at a 100 GPD reverse osmosis membrane, wondering if it's worth the hassle of swapping out the old one. Here's the short version: the EXPRESS WATER RO membrane is one of the most reliable drop-in replacements you can buy for standard under-sink RO systems. It's not flashy, but it does exactly what a membrane should — reject contaminants and deliver clean water for years.

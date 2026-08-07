@@ -1,4 +1,5 @@
 ---
+
 title: "Ak Interactive - Special Box 34 Real Colors Markers"
 seo_title: "Ak Interactive Real Colors Markers Review: 34-Piece Set"
 meta_description: "Ak Interactive Special Box 34 Real Colors Markers review: Are these paint markers worth it for modelers? Tested for coverage, durability, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBZXDVZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-Fxab0b7L._AC_SL1188_.jpg"
-pros:
+pros: 
   - "Pre-mixed Real Colors lacquer formula matches AK's paint line exactly, so touch-ups blend seamlessly with airbrushed work"
   - "Double-ended design gives you both a 1mm fine tip and a 3mm chisel tip in one marker, covering panel lines and large surfaces"
   - "Steel ball bearings inside the barrel keep pigment uniformly mixed even after months of storage"
-cons:
+cons: 
   - "Lacquer-based formula requires proper ventilation and smells strongly during use — not ideal for apartment dwellers"
   - "No individual replacement markers sold; when one color runs dry, you're buying the whole box again"
+
 ---
 
 If you've ever tried to touch up a scratched paint job on a model kit with a brush, you know the nightmare: visible brush strokes, color mismatch, and that sinking feeling when you ruin hours of airbrush work. AK Interactive's Special Box 34 Real Colors Markers exist to end that pain. These are not your kid's Copic markers — they're pre-thinned lacquer paint in a pen format, designed specifically for scale modelers and miniature painters.

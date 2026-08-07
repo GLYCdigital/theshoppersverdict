@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech 45.5in Ocean-Themed Cat Tree Multi-Level Cat Tower"
 seo_title: "Yaheetech 45.5in Ocean-Themed Cat Tree Multi-Level Review"
 meta_description: "Our full yaheetech 45.5in ocean-themed cat tree multi-level cat tower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDGFWRSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/912rXgF1XTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most cat trees under $70 are wobbly, ugly, or both. The Yaheetech 45.5-inch Ocean-Themed Cat Tower tries to break that mold, and for the most part, it succeeds. After digging through 220 ratings and analyzing what actual buyers report, here's the honest breakdown.

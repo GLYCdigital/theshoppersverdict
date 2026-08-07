@@ -1,4 +1,5 @@
 ---
+
 title: "YHTlaeh Bathroom Vanity Light Brushed Nickel Square LED 24 i"
 seo_title: "YHTlaeh Bathroom Vanity Light Brushed Nickel Squar Review"
 meta_description: "Our full yhtlaeh bathroom vanity light brushed nickel square led 24 i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLKGJR2M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QbUFEFb2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing photos. The YHTlaeh 24-inch vanity light is a square-edged LED bar that promises modern bathroom lighting without the bulb-replacement hassle. At 4.4 stars from 220 raters, it's clearly doing something right. Here's what you're actually getting.

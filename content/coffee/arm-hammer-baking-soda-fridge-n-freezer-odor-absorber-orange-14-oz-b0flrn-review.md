@@ -1,4 +1,5 @@
 ---
+
 title: "Arm & Hammer Baking Soda Fridge-n-Freezer Odor Absorber, Ora"
 seo_title: "Arm & Hammer Fridge-n-Freezer Odor Absorber Review (2026)"
 meta_description: "Honest Arm & Hammer Fridge-n-Freezer Odor Absorber review: Does the Ora 14oz box actually kill coffee-station smells? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FLRNRLT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81D1-U4kEPL._SL1500_.jpg"
-pros:
+pros: 
   - "Lasts a full 30 days per box — verified in testing with heavy coffee-ground disposal"
   - "Neutralizes odors at the molecular level instead of just masking them with perfume"
   - "Compact 14 oz box fits on crowded fridge shelves or inside a coffee cart drawer without tipping"
-cons:
+cons: 
   - "Doesn't change color or give a visual cue when it's exhausted — you must track the date yourself"
   - "The 'fresh scent' version has a noticeable orange fragrance for the first week, which some users find overpowering"
+
 ---
 
 If you're reading this because you found stale coffee breath every time you open your fridge, you already know the problem. Old grounds, half-empty creamer, and that mystery container from last month don't just smell bad — they contaminate everything around them. The Arm & Hammer Fridge-n-Freezer Odor Absorber in the Ora (orange) scent is the most popular fix for this on Amazon, holding a 4.8-star average across 240 ratings. But here's the question that matters: does it actually work, or is it just a scented box that pretends to help?

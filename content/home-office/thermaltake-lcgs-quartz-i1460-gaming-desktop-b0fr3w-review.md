@@ -1,4 +1,5 @@
 ---
+
 title: "Thermaltake LCGS Quartz i1460 Gaming Desktop"
 seo_title: "Thermaltake LCGS Quartz i1460 Gaming Desktop Review: Verd"
 meta_description: "Our full thermaltake lcgs quartz i1460 gaming desktop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR3W3NRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NUcjDvFWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Thermaltake LCGS Quartz i1460 is not a budget machine, and it doesn't pretend to be.** At its price point, you're paying for a 14th-gen i7, an RTX 4070 Super, and 32GB of DDR5 — specs that put it firmly in the "serious 1440p gaming" tier. But prebuilts in this class live or die on execution. Does Thermaltake nail it, or is this just another parts list in a flashy case?

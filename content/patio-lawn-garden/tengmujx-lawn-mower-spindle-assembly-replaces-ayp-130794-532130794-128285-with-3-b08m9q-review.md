@@ -1,4 +1,5 @@
 ---
+
 title: "TENGMUJX Lawn Mower Spindle Assembly Replaces AYP 130794 532"
 seo_title: "TENGMUJX Lawn Mower Spindle Assembly Replaces AYP  Review"
 meta_description: "Our full tengmujx lawn mower spindle assembly replaces ayp 130794 532 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08M9QF87C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NS7FNDlFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The honest story on this spindle:** If your Craftsman, Poulan, or Husqvarna deck is vibrating like a paint shaker or leaving a telltale strip of uncut grass on one side, the spindle bearings are shot. The TENGMUJX replacement for AYP 130794 is priced to compete with OEM parts but comes pre-assembled — that's the real selling point here.

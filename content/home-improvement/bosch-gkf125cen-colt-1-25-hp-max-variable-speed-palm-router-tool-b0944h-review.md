@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch GKF125CEN Colt 1.25 HP (Max) Variable-Speed Palm Route"
 seo_title: "Bosch GKF125CEN Colt Palm Router Review: 4.7-Star"
 meta_description: "Bosch GKF125CEN Colt 1.25 HP variable-speed palm router review: power, precision, and real tradeoffs. Is it worth it? Our honest verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0944H947C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51icudMptJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Variable-speed dial (16,000–35,000 RPM) with electronic feedback that holds speed under load—a rarity at this price point"
   - Fully adjustable aluminum sub-base with centering tool; accepts both 1/4 inch " and 1/2 inch " collets for versatility
   - "Soft-start motor and 5.4-amp power deliver clean cuts in hardwood without the grabby startup of cheaper routers"
-cons:
+cons: 
   - "On/off switch placement on the motor housing is awkward for users with larger hands—you'll hunt for it mid-cut"
   - The included 1/4 inch " collet is press-fit; swapping to the 1/2 inch " requires a wrench and patience, not tool-free
   - "No plunge base in the box—buy the GKF125CEN kit if you need plunge capability, or budget $60 extra"
+
 ---
 
 # Bosch GKF125CEN Colt 1.25 HP (Max) Variable-Speed Palm Router Review

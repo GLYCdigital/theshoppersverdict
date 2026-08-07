@@ -1,4 +1,5 @@
 ---
+
 title: "Ciniffo Flying Toys Review"
 seo_title: "Ciniffo Flying Toys Review: Honest 2026 Buyer's Guide"
 meta_description: "Ciniffo Flying Toys review: 4.2-star rated. Real performance, durability, and safety insights for kids and adults. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GVYYDC93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MZAqkoGQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rechargeable battery delivers 8-10 minutes of flight per charge with USB-C fast charging"
   - "Durable ABS shell and propeller guards survive crashes that would break cheaper drones"
   - "Three speed modes make it genuinely usable by both kids and adults learning to fly"
-cons:
+cons: 
   - "Wind sensitivity means outdoor flights are best in calm conditions under 5 mph"
   - "One-hour charge time feels long relative to the 8-10 minute flight window"
+
 ---
 
 **The Short Version: A $40 flying toy that actually works — if you set expectations correctly.**

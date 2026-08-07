@@ -1,4 +1,5 @@
 ---
+
 title: "Geyes Folding Bluetooth Keyboard, Portable Travel Foldable K"
 seo_title: "Geyes Folding Bluetooth Keyboard, Portable Travel  Review"
 meta_description: "Our full geyes folding bluetooth keyboard, portable travel foldable k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BHNPZBLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713FzdWU+GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most folding keyboards are terrible. They're either too flimsy to type on, or they pair with exactly one device and forget everything else. The Geyes Folding Bluetooth Keyboard lands somewhere in the middle — and for the price, that's actually a good place to be.

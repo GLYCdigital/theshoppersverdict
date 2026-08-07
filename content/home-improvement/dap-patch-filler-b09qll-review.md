@@ -1,4 +1,5 @@
 ---
+
 title: "DAP Patch Filler"
 seo_title: "DAP Patch Filler Review: Best Spackle for Drywall Repairs?"
 meta_description: "DAP Patch Filler review: 4.5-star rated spackle for drywall cracks and holes. See how it performs, where it falls short, and if it beats joint compound."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09QLLW75K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71veiOmo2fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries fast enough to sand and paint in under an hour on small holes"
   - "Low odor formula works indoors without gassing out a room"
   - "Self-leveling on shallow dings—minimal sanding needed on flat surfaces"
-cons:
+cons: 
   - "Shrinks noticeably on deep gouges—requires two coats for anything over 1/4 inch"
   - "Pink-to-white color-change indicator is subtle, hard to see under poor lighting"
+
 ---
 
 Let's be honest: nobody gets excited about spackle. You buy it because there's a nail hole, a ding, or a crack in your wall that's been mocking you for weeks. The real question isn't whether DAP Patch Filler works — it's whether it saves you time and frustration compared to the alternatives. After digging through 225 ratings and testing the physics of this stuff, here's what you need to know.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jelly Belly Watermelon Jelly Beans - 1 Pound (16 Ounces) Res"
 seo_title: "Jelly Belly Watermelon Jelly Beans - 1 Pound (16 O Review"
 meta_description: "Our full jelly belly watermelon jelly beans - 1 pound (16 ounces) res review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0015D43OA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WUpioXgbL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: Why these beans are different**

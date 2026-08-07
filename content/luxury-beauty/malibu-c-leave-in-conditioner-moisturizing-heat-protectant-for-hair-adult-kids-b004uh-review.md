@@ -1,4 +1,5 @@
 ---
+
 title: "Malibu C Leave In Conditioner & Moisturizing Heat Protectant"
 seo_title: "Malibu C Leave In Conditioner & Moisturizing Heat  Review"
 meta_description: "Our full malibu c leave in conditioner & moisturizing heat protectant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B004UHCKWA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519cZeE3arL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Malibu C's Leave In Conditioner & Moisturizing Heat Protectant: it's not trying to be a luxury product, and that's exactly why it works. This is a workhorse formula from a brand that built its name on hard-water remedies and color-safe treatments, not Instagram-worthy packaging. As shown in the product image, you're getting a straightforward spray bottle with a clear, watery liquid that looks unassuming. But for the 210 Amazon reviewers averaging 4.2 stars, this unassuming liquid has quietly solved two haircare problems at once.

@@ -1,4 +1,5 @@
 ---
+
 title: "Quictent 10'x10â€™ Pop up Screened Canopy Tent with Mosquito"
 seo_title: "Quictent 10'x10â€™ Pop up Screened Canopy Tent wit Review"
 meta_description: "Our full quictent 10'x10â€™ pop up screened canopy tent with mosquito review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BYJY6BVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jjUdD-AqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever sat through a sunset in the South or near any standing water, you know the drill: the second you settle into a chair, the mosquitoes call a board meeting on your ankles. The Quictent 10x10 Screened Canopy attacks that exact problem. It's a pop-up shelter with full mesh walls that turn any outdoor space into a bug-free zone — but it's not without compromises.

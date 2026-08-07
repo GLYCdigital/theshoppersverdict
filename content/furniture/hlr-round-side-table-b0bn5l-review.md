@@ -1,4 +1,5 @@
 ---
+
 title: "HLR Round Side Table"
 seo_title: "HLR Round Side Table Review: Verdict | TSV"
 meta_description: "Our full hlr round side table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BN5LGS8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815yOB0LQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The HLR Round Side Table is the kind of piece that quietly solves a problem. It's compact, surprisingly sturdy for its price point, and looks far more expensive than it is. At 4.6 stars across 229 ratings, the consensus is clear: this is a dependable accent table that earns its place next to your sofa, bed, or reading chair. But it's not without a couple of small compromises worth knowing before you click "add to cart."

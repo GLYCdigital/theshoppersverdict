@@ -1,4 +1,5 @@
 ---
+
 title: "Petra PetraMax Grass Paint for Lawn - Maintain Perfect Green"
 seo_title: "Petra PetraMax Grass Paint for Lawn - Maintain Per Review"
 meta_description: "Our full petra petramax grass paint for lawn - maintain perfect green review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GS3ZFK5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814Z8XYPiKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the quick fix your lawn needs, or just green paint in a bottle? Here's what 200+ buyers discovered.**

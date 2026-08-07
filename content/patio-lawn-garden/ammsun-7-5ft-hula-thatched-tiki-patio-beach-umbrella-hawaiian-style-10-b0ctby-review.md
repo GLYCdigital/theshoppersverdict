@@ -1,4 +1,5 @@
 ---
+
 title: "AMMSUN 7.5ft Hula Thatched Tiki Patio Beach Umbrella Hawaiia"
 seo_title: "AMMSUN 7.5ft Hula Tiki Umbrella Review: Worth It?"
 meta_description: "AMMSUN 7.5ft Hula Thatched Tiki Umbrella review: real buyer feedback on durability, shade, and setup. Is this Hawaiian-style patio umbrella worth your money?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTBY2KQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gRvJDKDQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine layered palm thatch provides real tropical cover that blocks sun far better than printed polyester alternatives"
   - "Sturdy 1.5-inch diameter bamboo pole with rust-resistant hardware holds up in moderate wind without wobbling"
   - "Sets up in under 10 minutes with included ground stakes and pre-drilled pole holes — no tools required"
-cons:
+cons: 
   - "At 7.5 feet, it's smaller than the photos suggest; the canopy is roughly 6.5 feet of actual shade coverage"
   - "Natural thatch sheds small fibers for the first week or two — budget time for cleanup under the umbrella"
   - "Not waterproof; heavy rain soaks through the thatch, so this is a sun shade, not a rain shelter"
+
 ---
 
 You've seen these umbrellas in every beach bar photo on Instagram. The question is whether the AMMSUN 7.5ft Hula Thatched Tiki Umbrella delivers that vibe in your actual backyard without falling apart by September. After digging through 229 ratings and talking to real owners, here's the honest breakdown.

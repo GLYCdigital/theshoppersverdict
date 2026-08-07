@@ -1,4 +1,5 @@
 ---
+
 title: "Goo-Ki Cabinet Pulls; Zinc Alloy Cabinet Handles for Dresser"
 seo_title: "Goo-Ki Cabinet Pulls; Zinc Alloy Cabinet Handles f Review"
 meta_description: "Our full goo-ki cabinet pulls; zinc alloy cabinet handles for dresser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G33TRB84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51atwn1tA1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Cabinet hardware is the jewelry of a room. Get it wrong, and even a $3,000 dresser looks cheap. Get it right, and a $200 IKEA hack looks custom. The Goo-Ki Zinc Alloy Cabinet Pulls sit firmly in the "get it right" category — with a few caveats worth knowing before you buy.

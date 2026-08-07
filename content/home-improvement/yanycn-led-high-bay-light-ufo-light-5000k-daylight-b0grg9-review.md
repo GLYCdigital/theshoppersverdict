@@ -1,4 +1,5 @@
 ---
+
 title: "YANYCN led high Bay Light UFO Light 5000K Daylight"
 seo_title: "YANYCN led high Bay Light UFO Light 5000K Daylight Review"
 meta_description: "Our full yanycn led high bay light ufo light 5000k daylight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GRG9Y838/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rKE8uPFvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a garage at night squinting at a single 60-watt bulb, you know the pain. The YANYCN UFO High Bay Light is the kind of fixture that makes you wonder why you waited so long. It's not flashy, but it delivers where it counts — raw, usable light for big spaces.

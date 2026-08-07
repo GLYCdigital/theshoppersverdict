@@ -1,4 +1,5 @@
 ---
+
 title: "MW Polar Naturally Alder Wood Smoked Brisling Sardines in Ol"
 seo_title: "MW Polar Naturally Alder Wood Smoked Brisling Sard Review"
 meta_description: "Our full mw polar naturally alder wood smoked brisling sardines in ol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GDT3YTYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sTxcCGqbL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this tinned fish worth your pantry space?**  

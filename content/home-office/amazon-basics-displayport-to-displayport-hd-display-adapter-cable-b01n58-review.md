@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics DisplayPort to DisplayPort HD Display Adapter"
 seo_title: "Amazon Basics DP to DP Adapter Review: Reliable & Cheap (2026)"
 meta_description: "Amazon Basics DisplayPort to DisplayPort adapter review: 4.7-star rated, $4.72. Is it worth it? We test build quality, compatibility, and value."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N58WYS7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G24thfDLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Gold-plated connectors and strain-relief boots that actually hold up to daily plugging/unplugging"
   - "Supports 4K at 60Hz with HDR, not just basic 1080p passthrough"
   - "Zero driver or software setup — truly plug-and-play across Windows, Mac, and Linux"
-cons:
+cons: 
   - "Cable is only 3 feet — too short for tower PCs sitting under a desk"
   - "No latch lock on the connector; can work loose in high-vibration setups"
   - "Not rated for 8K or DisplayPort 2.0 bandwidth, so it's not future-proof"
+
 ---
 
 Let me save you some time: if you need a DisplayPort cable and you're staring at this $4.72 Amazon Basics option, **just buy it**. But let me tell you exactly why 235 other shoppers rated it 4.7 stars, and where it might actually annoy you.

@@ -1,4 +1,5 @@
 ---
+
 title: "KatSupreme Tilted Cat Food and Water Bowls - Set of 2 Stainl"
 seo_title: "KatSupreme Tilted Cat Food and Water Bowls - Set o Review"
 meta_description: "Our full katsupreme tilted cat food and water bowls - set of 2 stainl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWFJHCQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Y5hKeZwuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most cat bowls are an afterthought. You grab whatever’s cheap, fill it, and hope your cat doesn’t vomit on the rug again. The KatSupreme Tilted set is trying to change that equation, and for the most part, it succeeds.

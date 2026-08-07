@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Store Official Beauty and the Beast Tea Cart Set –"
 seo_title: "Beauty and the Beast Tea Cart Set Review (2026): Worth It?"
 meta_description: "Disney Store Beauty and the Beast Tea Cart Set review: detailed look at Lumière, details, and play value. Is this 4.4-star toy worth buying?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09GXPNNZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MWOel5XZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Authentic Disney Store quality with screen-accurate details on the tea cart and Lumière figure"
   - "Includes exclusive Lumière candelabra figure with articulated arms — a collector-friendly bonus"
   - "Sturdy die-cast and plastic construction that survives enthusiastic play from young fans"
-cons:
+cons: 
   - "Small scale (roughly 6 inches tall) may disappoint those expecting a larger playset"
   - "Tea cart wheels roll but don't lock — can slide during vigorous play"
   - "No Mrs. Potts or Chip figures included despite the tea theme"
+
 ---
 
 ## The Beauty and the Beast Tea Cart Set: A Charming Collector's Piece with Real Play Value

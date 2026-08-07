@@ -1,4 +1,5 @@
 ---
+
 title: "JULLISON 6 Inch LED Low Profile Recessed & Surface Mount Dis"
 seo_title: "JULLISON 6 Inch LED Low Profile Recessed & Surface Review"
 meta_description: "Our full jullison 6 inch led low profile recessed & surface mount dis review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09VNTM7L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510lhBf4+FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a stack of 4-inch junction boxes in your ceiling and dreading the drywall repair that comes with typical can lights, this JULLISON 6-inch disk light is the shortcut you've been looking for. It's a flat, surface-mount wafer that covers the hole entirely — no recessed housing, no insulation contact issues, no trim ring to fuss with.

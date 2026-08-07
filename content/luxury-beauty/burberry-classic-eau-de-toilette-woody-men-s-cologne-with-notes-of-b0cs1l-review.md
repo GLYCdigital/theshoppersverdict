@@ -1,4 +1,5 @@
 ---
+
 title: "Burberry Classic Eau de Toilette – Woody Men's Cologne –"
 seo_title: "Burberry Classic EDT Review: Timeless Woody Scent (2026)"
 meta_description: "Honest Burberry Classic EDT review: woody sophistication, performance, longevity. See if this 4.7-star men's cologne is worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CS1L31XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617XBB15MPL._SL1500_.jpg"
-pros:
+pros: 
   - "Oakmoss and sandalwood base delivers a mature, barbershop-adjacent dry-down that lasts 6–8 hours on skin"
   - "Versatile enough for office wear or weekend evenings without being loud or cloying"
   - "The wooden cap and heavy glass bottle feel substantially more premium than the price point suggests"
-cons:
+cons: 
   - "Projection is moderate at best — don't expect to fill a room; this sits close to the skin after the first hour"
   - "The opening has a sharp bergamot-and-geranium punch that can read slightly dated to younger noses"
   - "No sprayer lock mechanism, so the atomizer can depress accidentally in a travel bag"
+
 ---
 
 ## The Understated British Classic That Grows on You

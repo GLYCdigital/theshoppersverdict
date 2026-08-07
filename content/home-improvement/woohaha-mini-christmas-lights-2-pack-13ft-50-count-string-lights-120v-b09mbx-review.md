@@ -1,4 +1,5 @@
 ---
+
 title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count String Li"
 seo_title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count Review"
 meta_description: "Our full woohaha mini christmas lights,2 pack 13ft 50 count string li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09MBX26DW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91J0Fj9TBGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count String Li"
 seo_title: "woohaha Mini Christmas Lights Review: 2-Pack 13ft String"

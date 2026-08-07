@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama 2328 Kitchen Cabinet Pulls"
 seo_title: "Asidrama 2328 Kitchen Cabinet Pulls Review: Worth It?"
 meta_description: "Honest Asidrama 2328 kitchen cabinet pulls review: build quality, finish durability, screw fit, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSKRVG1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CWfaUWcqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a true brushed nickel finish that resists fingerprints and smudging"
   - "Wide 3-inch mounting hole spacing fits most standard cabinets without needing to drill new holes"
   - "Includes both mounting screws and a template — most budget pulls skip the template entirely"
-cons:
+cons: 
   - "Set-screw style mounting can loosen over time on high-traffic drawers if not periodically retightened"
   - "Finish is slightly lighter in tone than some premium brushed nickel fixtures — visible if you're matching existing hardware"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen. Get it right and the whole room feels intentional. Get it wrong and you're staring at mismatched metal every time you boil pasta. The Asidrama 2328 pulls sit in that crowded middle ground — sub-$2-per-pull territory where quality usually goes to die. Here's the surprise: these don't.

@@ -1,4 +1,5 @@
 ---
+
 title: "Windows Screen and Screen Door Replacement, Durable Fibergla"
 seo_title: "Windows Screen and Screen Door Replacement, Durabl Review"
 meta_description: "Our full windows screen and screen door replacement, durable fibergla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B093YSSBB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DsuPdgj2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a torn screen or a gaping hole where a door screen should be, you've got two options: pay a pro $75+ per window, or spend 20 minutes doing it yourself. This fiberglass mesh roll makes the second option genuinely appealing — and at 4.6 stars across 229 ratings, I'm not the only one who thinks so.

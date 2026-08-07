@@ -1,4 +1,5 @@
 ---
+
 title: "Asvine C80 Fountain Pen #8 Nib Large Handcraft Pen with Conv"
 seo_title: "Asvine C80 Fountain Pen Review: #8 Nib, Large Grip"
 meta_description: "Asvine C80 review: #8 nib, handcrafted resin, converter included. Is this large fountain pen worth $40? Real-world performance, grip comfort, and ink flow tested."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F59BYXQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SHKgBAFTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "#8 nib is oversized and smooth — writes with a wet, bouncy feel that punches far above the price point"
   - "Includes converter and two ink cartridges in the box — no hidden startup costs"
   - "Handcrafted acrylic resin body has genuine depth and shimmer that photos don't fully capture"
-cons:
+cons: 
   - "Pen is heavy when posted (42g) — fatiguing for long writing sessions"
   - "No clip means it rolls off desks; you'll want a pen rest or case"
   - "Nib sizing runs broad — the 'fine' writes closer to a medium"
+
 ---
 
 Let me be direct: the Asvine C80 is a $40-ish fountain pen that wears a $150 disguise. The moment you uncap it, the #8 nib — massive, two-tone, and hand-polished — dominates the visual field. That nib is the entire story here, and it's a good one.

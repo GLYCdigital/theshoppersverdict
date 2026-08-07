@@ -1,4 +1,5 @@
 ---
+
 title: "Fisher Price Classics - Farmer Says See 'n Say - Vintage Lea"
 seo_title: "Fisher-Price Farmer Says See 'n Say Review: Classic Toy"
 meta_description: "Fisher-Price Farmer Says See 'n Say review: nostalgic vintage toy with animal sounds. Is it worth the buy for toddlers? Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B00IVJK8Y0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OyetdSWWL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine vintage 1978 mechanics — no batteries, just a pull cord and a spinning arrow that actually works"
   - "Sturdy plastic shell that survives toddler drops and throws; the classic yellow body is thicker than modern toy plastic"
   - "The animal sounds are authentic and loud enough for a noisy playroom, but not grating"
-cons:
+cons: 
   - "The pull cord is short and takes a firm, deliberate yank — younger toddlers (under 18 months) will struggle to activate it alone"
   - "Only 12 animal sounds, and the arrow can land between two pictures, causing a confusing 'half-answer' from the speaker"
   - "No volume control and no off switch — it plays until the mechanism winds down, which can be annoying during quiet time"
+
 ---
 
 ## The Toy That Taught Your Parents Animal Sounds — and Still Works

@@ -1,4 +1,5 @@
 ---
+
 title: "infray 12-Inch Solar Rechargeable LED Ball Light, Color Chan"
 seo_title: "infray 12-Inch Solar Rechargeable LED Ball Light,  Review"
 meta_description: "Our full infray 12-inch solar rechargeable led ball light, color chan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D7LYLWV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HsP0ZJB+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 12-inch solar ball light market is crowded with cheap, dim disappointments. The infray version actually delivers a punch of light, but it comes with a catch or two you need to know before buying.**

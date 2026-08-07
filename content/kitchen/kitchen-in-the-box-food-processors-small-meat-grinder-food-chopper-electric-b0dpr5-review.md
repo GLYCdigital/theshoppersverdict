@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen in the box Food Processors,Small Meat Grinder & Food"
 seo_title: "Kitchen in the box Food Processors,Small Meat Grin Review"
 meta_description: "Our full kitchen in the box food processors,small meat grinder & food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPR5H87C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oxJm-m6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Kitchen in the box Food Processor Review: Small Meat Grinder That Earns Its Counter Space

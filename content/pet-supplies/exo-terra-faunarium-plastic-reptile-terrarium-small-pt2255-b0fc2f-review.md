@@ -1,4 +1,5 @@
 ---
+
 title: "Exo Terra Faunarium, Plastic Reptile Terrarium, Small, PT225 inch"
 seo_title: "Exo Terra Faunarium PT225 Review: Small Reptile Terrarium"
 meta_description: "Honest Exo Terra Faunarium PT225 review: lightweight plastic terrarium for reptiles & amphibians. Pros, cons, and who should buy it."
@@ -11,15 +12,16 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FC2FZYC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614OTOBcc5L._AC_SL1250_.jpg"
-pros:
+pros: 
   - "Extremely lightweight and portable — ideal for temporary housing, travel, or hospital tanks"
   - "Clear plastic panels provide good visibility from all sides"
   - "Front-opening door makes feeding and spot-cleaning genuinely easy"
   - "Ventilation slots along the top and sides promote airflow without excessive humidity loss"
-cons:
+cons: 
   - "Top lid secures with a simple latch that can pop open under heat lamp pressure — needs a bungee or weight"
   - "Plastic scratches easily, so it won't stay crystal clear with frequent cleaning"
   - "Too small for adult reptiles; really only suitable for juveniles, insects, or short-term housing"
+
 ---
 
 If you're shopping for a permanent home for a growing gecko or a snake that's past the hatchling stage, stop reading. This isn't that product. But if you need a lightweight, portable, and genuinely functional enclosure for a juvenile reptile, a transport setup, or a quarantine tank, the Exo Terra Faunarium Small (PT225) deserves a serious look.

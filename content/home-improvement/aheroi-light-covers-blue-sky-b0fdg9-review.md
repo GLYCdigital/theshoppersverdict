@@ -1,4 +1,5 @@
 ---
+
 title: "Aheroi Light Covers Blue Sky"
 seo_title: "Aheroi Light Covers Blue Sky Review: Worth It? (2026)"
 meta_description: "Honest Aheroi Light Covers Blue Sky review: fit, brightness, durability tested. See pros, cons & real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDG9SGD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z1UQN6YQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-to-picture sky gradient that doesn't wash out when the light is on—clouds stay crisp, not a yellow blob"
   - "Fits standard 12-inch flush mount fixtures with a snug, rattle-free fit right out of the box"
   - "Diffuses LED glare dramatically, making bright bulbs feel softer without reducing usable light output"
-cons:
+cons: 
   - "Not a universal fit—octagonal and oversized 13-inch+ fixtures will need trimming or a return"
   - "Surface scratches easily during installation if you overtighten the fixture's retaining screws"
   - "The blue tint adds a cool cast to the room, which can clash with warm 2700K bulbs and wood trim"
+
 ---
 
 **If you've ever stared at a boring white ceiling light and thought "that could be a window," the Aheroi Light Covers Blue Sky is aimed directly at you.** With a 4.7-star average across 235 ratings, this decorative lens cover swaps your standard flush mount diffuser for a photorealistic sky scene. But before you click buy, let's get into whether it actually looks good with the lights on or just looks like a poster glued to your ceiling.

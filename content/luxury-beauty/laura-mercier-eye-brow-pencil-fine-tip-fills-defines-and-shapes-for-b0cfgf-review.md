@@ -1,4 +1,5 @@
 ---
+
 title: "Laura Mercier Eye Brow Pencil, Fine Tip, Fills, Defines and "
 seo_title: "Laura Mercier Eye Brow Pencil, Fine Tip, Fills, De Review"
 meta_description: "Our full laura mercier eye brow pencil, fine tip, fills, defines and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CFGF125X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51j+hT9+B6L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about brow pencils: most are either too waxy, too thick, or fade by lunchtime. The Laura Mercier Eye Brow Pencil sits in the luxury tier, and with a 4.6-star average across 229 ratings, it's clearly doing something right. But is it worth the premium? Here's the real breakdown.

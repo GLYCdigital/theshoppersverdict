@@ -1,4 +1,5 @@
 ---
+
 title: "Feed Garden Outdoor Shepherd Hook Bird Feeder Pole with 5 Pr"
 seo_title: "Feed Garden 5-Prong Shepherd Hook Pole Review (2026)"
 meta_description: "Honest Feed Garden 5-prong shepherd hook bird feeder pole review: build quality, stability in wind, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B684NZ78/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41I+VgsZqiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five heavy-gauge steel prongs hold multiple feeders, suet cages, or wind chimes in one footprint"
   - "Powder-coated matte black finish resists rust through a full season of rain and snow"
   - "Assembly takes under five minutes with no tools — prongs slide and lock into the center pole"
-cons:
+cons: 
   - "Ground stake lacks a foot step, making it tough to push into hard or clay soil"
   - "Rated for lightweight feeders only — a 10-pound platform feeder will bend the prongs"
+
 ---
 
 If you've got more than one feeder and a tiny patch of yard, the Feed Garden Outdoor Shepherd Hook is the space-saving answer. This five-prong pole packs a full feeding station into a 46-inch vertical footprint, letting you hang a tube feeder, a suet cage, and a finch sock without buying three separate poles. At a 4.0-star average across 200 ratings, it's a solid mid-tier option — but not without tradeoffs worth knowing before checkout.

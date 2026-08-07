@@ -1,4 +1,5 @@
 ---
+
 title: "KEEP Yoga Mat - Premium 7mm Thick Exercise Mat, Anti-Tear 32"
 seo_title: "KEEP Yoga Mat - Premium 7mm Thick Exercise Mat, An Review"
 meta_description: "Our full keep yoga mat - premium 7mm thick exercise mat, anti-tear 32 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFCGXP5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J3jF61jKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the professional product review for the KEEP Yoga Mat:

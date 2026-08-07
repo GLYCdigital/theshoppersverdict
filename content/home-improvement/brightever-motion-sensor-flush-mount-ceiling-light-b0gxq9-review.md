@@ -1,4 +1,5 @@
 ---
+
 title: "Brightever Motion Sensor Flush Mount Ceiling Light"
 seo_title: "Brightever Motion Sensor Ceiling Light Review (2026)"
 meta_description: "Brightever motion sensor flush mount ceiling light review: smart auto-on/off, 5000K bright output, easy install. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXQ9FXXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WDiOVsecL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True hands-free operation with adjustable 30-second to 3-minute auto shutoff — no wall switch required for daily use"
   - "Wide 120° detection angle with 10-16 ft range catches movement through doorways and around corners"
   - "Tool-free twist-lock installation that mounts directly to a standard 4-inch junction box in under 10 minutes"
-cons:
+cons: 
   - "Sensor stays active 24/7 with no dusk-to-dawn mode — it will trigger during the day if you walk underneath it"
   - "5000K cool white only — no color temperature adjustment for warmer ambient settings"
+
 ---
 
 If you've ever fumbled for a light switch with armfuls of groceries or stumbled down a dark hallway at 2 a.m., the Brightever Motion Sensor Flush Mount Ceiling Light is the fix you didn't know you needed. This isn't a fancy smart-home gadget with app connectivity — it's a dead-simple, motion-activated ceiling light that just works. With a 4.5-star average across 225 Amazon ratings, it's clearly earning its keep in closets, laundry rooms, and stairwells nationwide.

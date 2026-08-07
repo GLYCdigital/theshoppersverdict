@@ -1,4 +1,5 @@
 ---
+
 title: "Charlotte Tilbury Lip Lustre Hydrating Lip Gloss - High Shin"
 seo_title: "Charlotte Tilbury Lip Lustre Review: High-Shine Hydrating Gloss"
 meta_description: "Charlotte Tilbury Lip Lustre Hydrating Lip Gloss review: Is the high-shine, non-sticky formula worth the luxury price? Honest pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G2ZMX2TG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HFn3bXn-L._SL1500_.jpg"
-pros:
+pros: 
   - "Feels weightless and never sticky — unlike most glosses in this price range"
   - "High-shine finish lasts 3-4 hours before needing a touch-up"
   - "Hydrating formula with hyaluronic acid doesn't dry out lips over time"
-cons:
+cons: 
   - "High Shin shade is sheer — don't expect bold color payoff from one swipe"
   - "Tube is small at 0.12 oz for the $30+ price point"
   - "Scent is strong rose — sensitive noses may find it overwhelming"
+
 ---
 
 **Charlotte Tilbury Lip Lustre Hydrating Lip Gloss – High Shin Review: The $30 Gloss That Actually Earns Its Keep**

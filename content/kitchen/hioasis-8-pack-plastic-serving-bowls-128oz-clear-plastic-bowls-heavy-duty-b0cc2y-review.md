@@ -1,4 +1,5 @@
 ---
+
 title: "Hioasis 8 Pack Plastic Serving Bowls 128oz Clear Plastic Bow"
 seo_title: "Hioasis 8 Pack Plastic Serving Bowls 128oz Clear P Review"
 meta_description: "Our full hioasis 8 pack plastic serving bowls 128oz clear plastic bow review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC2Y14N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619kkmrdSlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4-Gallon Workhorse That Won't Crack Under Pressure

@@ -1,4 +1,5 @@
 ---
+
 title: "Whirlpool 4396037RP Genuine OEM Dryer Telescoping Vent Kit F"
 seo_title: "Whirlpool 4396037RP Genuine OEM Dryer Telescoping  Review"
 meta_description: "Our full whirlpool 4396037rp genuine oem dryer telescoping vent kit f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B001AAEG6S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41nCwXquNKL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If you need a dryer vent kit and own a Whirlpool-built machine, this is the one to get — provided you're okay with paying a small premium for the OEM badge.**

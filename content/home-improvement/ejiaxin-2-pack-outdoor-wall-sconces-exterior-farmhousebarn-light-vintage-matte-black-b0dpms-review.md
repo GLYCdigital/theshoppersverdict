@@ -1,4 +1,5 @@
 ---
+
 title: "EJIAXIN 2-Pack Outdoor Wall Sconces, Exterior FarmhouseBarn"
 seo_title: "EJIAXIN Outdoor Wall Sconces Review: Farmhouse Barn Lights"
 meta_description: "Honest EJIAXIN 2-pack outdoor wall sconces review. See how these matte black farmhouse barn lights perform in weather, brightness, and install."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPMSVCZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fUClurwqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully assembled, pre-wired fixtures with clear mounting bracket — installs in under 30 minutes with basic tools"
   - "Sealed glass panels and powder-coated matte black finish that actually hold up through rain, snow, and salt air"
   - "Wide 120° beam spread from the clear seeded glass throws light across doorways and patios without harsh hot spots"
-cons:
+cons: 
   - "Uses standard E26 bulbs but maxes out at 60W — don't expect to flood a large yard with light"
   - "Screws on the mounting plate are soft metal; use your own if you're mounting into brick or stucco"
+
 ---
 
 The front door is the handshake of your house. If it's lit by a plastic dome fixture from 2008, that's the first impression you're making. The EJIAXIN 2-pack outdoor wall sconces are designed to fix that with a vintage farmhouse look that's been dominating home improvement catalogs for a reason — it works.

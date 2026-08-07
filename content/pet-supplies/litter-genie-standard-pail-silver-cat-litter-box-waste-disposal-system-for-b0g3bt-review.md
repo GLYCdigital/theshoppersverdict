@@ -1,4 +1,5 @@
 ---
+
 title: "Litter Genie Standard Pail (Silver) | Cat Litter Box Waste D"
 seo_title: "Litter Genie Standard Pail (Silver) | Cat Litter B Review"
 meta_description: "Our full litter genie standard pail (silver) | cat litter box waste d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G3BTZYFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71im5wfSL+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever gagged while carrying a scooper full of clumped litter to the trash, the **Litter Genie Standard Pail (Silver)** is the product that promises to fix that. It's a sealed, refillable pail designed to sit next to your litter box, trapping ammonia odors behind a multi-layer barrier so you only haul waste to the outdoor bin once a week.

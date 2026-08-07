@@ -1,4 +1,5 @@
 ---
+
 title: "79'' Long Reclining Chair Set, PE Rattan Sunbathing Chairs"
 seo_title: "79'' PE Rattan Sunbathing Chairs Review: Worth It? (2026)"
 meta_description: "Honest review of the 79'' PE Rattan Sunbathing Chair Set. Build quality, comfort, and real buyer feedback. Is this 3.8-star lounger worth your money?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DC6LJNLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FGODIW5KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Full 79-inch length actually fits tall adults (6'2 inch "+) without knees hanging off
   - "PE rattan weave is UV-resistant and holds color after full seasons outdoors"
   - "Five-position adjustable backrest locks securely — no accidental collapsing mid-recline"
-cons:
+cons: 
   - "Assembly requires two people; the frame bolts align poorly and strip easily if over-tightened"
   - "Cushions are thin (2 inches) and compress noticeably within a month of daily use"
   - "No wheels or handles — dragging the 28-pound chair across patio can scratch surfaces"
+
 ---
 
 # 79'' Long Reclining Chair Set, PE Rattan Sunbathing Chairs Review

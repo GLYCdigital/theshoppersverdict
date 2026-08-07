@@ -1,13 +1,14 @@
 ---
+
 title: "Pocket Hose Ballistic 100 FT Expandable Garden Hose, No-Kink, As Seen on TV | Anti-burst sleeve reinforced with bulletproof fiber, 360° swiveling pocket pivot connector, lightweight compact design"
 seo_title: "Pocket Hose Ballistic Review: Verdict (4.5/5) | TSV"
 meta_description: "It is sturdy and well made making it strong and prevents bursting at seems as 2,232+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "pocket-hose-ballistic-100-ft-expandable-garden-hose-no-kink-as-seen-review"
 image_alt: "Pocket Hose Ballistic 100 FT Expandable Garden Hose, No-Kink, As Seen on TV | Anti-burst sleeve reinforced with bulletpr"
-keywords:
+keywords: 
   - "pocket hose ballistic review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Pocket Hose Ballistic 100?"
     answer: "It is sturdy and well made making it strong and prevents bursting at seems as others have done That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Pocket Hose Ballistic 100?"
@@ -21,12 +22,13 @@ review_count: 2232
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWFF75Z5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SV8FRKAEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It is sturdy and well made making it strong and prevents bursting at seems as others have done."
   - "Lightweight and well made."
   - "The house connection is no kink and the sprayer handle is easy to use."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 ## The 100-Foot Lie That's Actually True

@@ -1,4 +1,5 @@
 ---
+
 title: "Bathroom Faucet NS-SF01-V-Father-20241123 inch"
 seo_title: "Bathroom Faucet NS-SF01 Review: Solid Value or Skip?"
 meta_description: "Honest Bathroom Faucet NS-SF01 review: build quality, installation ease, and real buyer feedback. Is this 4.4-star fixture worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNW4SRXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UWhWtBF1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a heavy feel — noticeably better than the zinc-alloy fixtures at similar price points"
   - "Quick-connect supply lines with pre-attached nuts cut install time to roughly 30 minutes for most DIYers"
   - "Smooth single-lever ceramic cartridge provides precise temperature control without the handle slop common in cheap faucets"
-cons:
+cons: 
   - "Finish is prone to water spots and fingerprints — the chrome version shows every splash unless you wipe it down regularly"
   - "Reach is on the short side at 4.5 inches, which can be tight if you have a deep basin or already use a splash guard"
+
 ---
 
 If you've ever installed a budget bathroom faucet, you know the drill: flimsy plastic parts, wobbly handles, and an instruction manual that reads like it was translated by a vending machine. The NS-SF01-V-Father-20241123 — let's just call it the NS-SF01 — is not that faucet. It's not a luxury fixture either, but it sits comfortably in the "genuinely decent" zone that's harder to find than you'd think at this price.

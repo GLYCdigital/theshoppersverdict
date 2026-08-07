@@ -1,4 +1,5 @@
 ---
+
 title: "MBB Longboard Bicycle Surfboard Racks, by Moved By Bikes, Co"
 seo_title: "MBB Longboard Bicycle Surfboard Racks, by Moved By Review"
 meta_description: "Our full mbb longboard bicycle surfboard racks, by moved by bikes, co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00AA87DO8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SwiDXFUEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to pedal to a break with a 7-foot log tucked under one arm, you know the desperation that leads to duct tape and regret. The MBB Longboard Bicycle Surfboard Racks from Moved By Bikes, Co. solves that problem with a surprisingly simple, rigid design that's earned a 4.6-star average across 229 ratings. But is it the right rack for your bike and board? Let's break it down.

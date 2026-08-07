@@ -1,23 +1,25 @@
 ---
+
 title: "Gardener's Supply Company Sturdy Chicken Wire Cloche Plant P"
 seo_title: "Sturdy Chicken Wire Cloche Review: Garden Protection Worth It?"
 meta_description: "Our Gardener's Supply chicken wire cloche review: sturdy build, real pest protection, but size limits. See who should buy and who should skip."
 slug: "gardener-s-supply-company-sturdy-chicken-wire-cloche-plant-protector-cover-b0cwlt-review"
 image_alt: "Gardener's Supply Company sturdy chicken wire cloche plant protector in a raised garden bed"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWLTW5YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719GYB3+1EL._AC_SL1120_.jpg"
-pros:  
+pros: 
   - "Gauge of wire is noticeably thicker than typical hardware cloth — resists bending from raccoons and dogs"  
   - "Welded frame holds its shape even after a full season of wind and rain exposure"  
   - "Open bottom design lets you place it directly over seedlings without disturbing roots"  
-cons:  
+cons: 
   - "At 14 inches tall, it’s too short for mature tomatoes or peppers — you’ll need to swap out mid-season"  
   - "No stakes included; on loose sandy soil, wind can shift it unless you weigh down the base"
+
 ---
 
 If you’ve lost one too many lettuce starts to a marauding squirrel or watched a rabbit decimate your carrot row overnight, the Gardener’s Supply Company Sturdy Chicken Wire Cloche is the kind of product that makes you wonder why you didn’t buy it sooner. It’s not flashy. It’s not smart-tech. But it does one job — physically blocking pests — and does it with a level of durability that cheaper wire cones just don’t match.

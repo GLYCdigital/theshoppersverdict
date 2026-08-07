@@ -1,4 +1,5 @@
 ---
+
 title: "M-D Building Products Aluminum and Vinyl Heavy-Duty Screw-on"
 seo_title: "M-D Building Products Aluminum and Vinyl Heavy-Dut Review"
 meta_description: "Our full m-d building products aluminum and vinyl heavy-duty screw-on review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHYB1LSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dAfoAdDAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some door sweeps are junk. The plastic ones crack within a season. The felt ones soak up water and freeze solid. The M-D Building Products Aluminum and Vinyl Heavy-Duty Screw-on is not that product. It’s the one that shows up on contractor trucks and in “what should I buy” threads on home improvement forums for a reason.

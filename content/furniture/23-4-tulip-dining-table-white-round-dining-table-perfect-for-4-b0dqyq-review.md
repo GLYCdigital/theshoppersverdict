@@ -1,4 +1,5 @@
 ---
+
 title: "23.4 inch Tulip Dining Table Review: White Round for Small Spaces"
 seo_title: "23.4 inch Tulip Dining Table Review: White Round for Small Spaces"
 meta_description: "Honest review of the 23.4 inch white tulip dining table. We test build quality, real-world use, and whether this compact round table fits your space."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQYQ1PQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DKWRf4ZaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Mid-century tulip silhouette with a weighted pedestal base that doesn't wobble on hardwood"
   - "Scratch-resistant white finish that holds up to daily knife and plate contact"
   - "40-pound capacity per tabletop section — sturdy enough for a laptop and a stack of books"
-cons:
+cons: 
   - "At 23.4 inches, the round top genuinely fits only 2 chairs comfortably despite the 'perfect for 4' marketing"
   - "White surface shows coffee rings and oil smudges quickly; you'll need coasters and a regular wipe-down"
+
 ---
 
 **This isn't the dining table for a family of four. It's the table for your kitchen nook, your studio apartment, or your morning coffee ritual.** And if that's what you need, the 23.4" Tulip Dining Table delivers more than its modest footprint suggests.

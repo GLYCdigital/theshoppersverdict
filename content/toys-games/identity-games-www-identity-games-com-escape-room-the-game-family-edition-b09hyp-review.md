@@ -1,4 +1,5 @@
 ---
+
 title: "Identity Games [www.identity games.com] Escape Room The Game"
 seo_title: "Identity Games Escape Room The Game Review (2026): Worth It?"
 meta_description: "Identity Games Escape Room The Game review: Is the 4.2-star family puzzle game worth your money? We break down gameplay, replayability & who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09HYPQYSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CFTOVgPiL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Four distinct escape scenarios with a physical decoder wheel that adds tactile puzzle-solving you don't get from app-only games"
   - "True cooperative pressure — the 60-minute timer creates genuine urgency that mimics a real escape room experience"
   - "Setup is quick (under 5 minutes) and components are durable cardstock that survives repeat plays if you don't write on them"
-cons:
+cons: 
   - "Zero replayability — once you've solved the four included scenarios, the game is done unless you buy the separate expansion packs"
   - "Puzzle difficulty spikes unevenly; some clues feel arbitrary and require leaps of logic that frustrate casual players"
   - "The companion app is mandatory, not optional — if your phone dies or the app updates poorly, you're stuck mid-game"
+
 ---
 
 # Identity Games Escape Room The Game: Real Escape Room Thrills — With a Catch

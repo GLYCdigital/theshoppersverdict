@@ -1,4 +1,5 @@
 ---
+
 title: "HNEBC LED Nightstand with Charging Station"
 seo_title: "HNEBC LED Nightstand with Charging Station Review: Verdic"
 meta_description: "Our full hnebc led nightstand with charging station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G4RD7824/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MUJYcQIhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the HNEBC LED Nightstand with Charging Station actually worth your money, or is it just another gadget-laden piece of furniture that complicates your bedroom?** I've combed through 225 Amazon ratings, dug into the specs, and compared it against what similar nightstands offer at this price point. Here's the straight story.

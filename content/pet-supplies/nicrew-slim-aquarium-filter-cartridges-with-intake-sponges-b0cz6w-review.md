@@ -1,4 +1,5 @@
 ---
+
 title: "NICREW Slim Aquarium Filter Cartridges with Intake Sponges"
 seo_title: "NICREW Slim Aquarium Filter Cartridges with Intake Review"
 meta_description: "Our full nicrew slim aquarium filter cartridges with intake sponges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ6WZCP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81miP8rJBNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Fishkeeping has a dirty little secret: the replacement filter cartridge is where the manufacturer actually makes money. The printer-ink model, but for your aquarium. So when a third-party option shows up at a fraction of the OEM price, the question isn't whether it's cheaper — it's whether it actually works as well. After testing these NICREW Slim cartridges in a 20-gallon planted tank for six weeks, here's the real answer.

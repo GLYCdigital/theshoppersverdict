@@ -1,4 +1,5 @@
 ---
+
 title: "Peg Perego John Deere Adventure Trailer, Green"
 seo_title: "Peg Perego John Deere Adventure Trailer, Green Review: Ve"
 meta_description: "Our full peg perego john deere adventure trailer, green review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDFSBRM9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ntMxUeuLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has a Peg Perego John Deere ride-on tractor, this trailer is less an accessory and more a missing piece. It converts a solo joyride into a hauling machine — and kids absolutely love having a job to do. But the Adventure Trailer isn't perfect, and knowing where it cuts corners will save you from disappointment.

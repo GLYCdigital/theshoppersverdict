@@ -1,4 +1,5 @@
 ---
+
 title: "Cadet Gourmet Bull Sticks 12 Pack, 21 oz (949145)"
 seo_title: "Cadet Gourmet Bull Sticks Review: 12-Pack Worth It?"
 meta_description: "Cadet Gourmet Bull Sticks 12-pack review: Are these 21-oz beef pizzle chews worth it for aggressive chewers? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0099CNDTA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cN1Mo+9aL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Single-ingredient beef pizzle with no rawhide, artificial colors, or preservatives"
   - "12 sticks per pack at 21 oz total — works out cheaper per chew than most single-stick brands"
   - "Odor-controlled processing keeps the smell tolerable indoors, unlike many bully sticks"
-cons:
+cons: 
   - "Sticks vary in length and thickness — some dogs finish shorter ones in under 20 minutes"
   - "High-protein chew means small or sensitive-stomach dogs may need portion monitoring"
+
 ---
 
 If you've ever paid $8 for a single bully stick only to watch a determined Lab destroy it in eleven minutes, the Cadet Gourmet Bull Sticks 12-pack is the value play you've been hunting for. This is a 21-ounce bag of beef pizzle chews — the same muscle tissue that makes bully sticks so irresistible — but sold in a multi-pack that actually respects your budget.

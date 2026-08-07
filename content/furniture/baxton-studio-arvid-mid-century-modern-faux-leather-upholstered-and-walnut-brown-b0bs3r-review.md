@@ -1,4 +1,5 @@
 ---
+
 title: "Baxton Studio Arvid Mid-Century Modern Faux Leather Upholste"
 seo_title: "Baxton Studio Arvid Review: Mid-Century Faux Leather Chair"
 meta_description: "Baxton Studio Arvid mid-century chair review: real buyer feedback on comfort, build quality, and assembly. Is this faux leather chair worth it?"
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BS3RW8F3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xanBSquHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine walnut-brown wood frame with visible grain — looks far more expensive than the price point suggests"
   - "Firm, supportive cushioning that holds shape after months of daily use, unlike cheaper foam-filled chairs"
   - Compact footprint (roughly 30 inch "W x 31 inch "D) fits apartments and home offices without overwhelming the room
-cons:
+cons: 
   - "Faux leather is stiff initially and doesn't breathe — expect sweaty backs in warmer months"
   - "Assembly requires two people; the pre-drilled holes on the backrest don't always align perfectly"
+
 ---
 
 **The Baxton Studio Arvid is the chair that makes your living room look like you actually have taste — until someone sits in it for three hours and their back starts complaining.**

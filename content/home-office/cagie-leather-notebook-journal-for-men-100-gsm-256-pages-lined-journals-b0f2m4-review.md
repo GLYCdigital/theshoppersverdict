@@ -1,4 +1,5 @@
 ---
+
 title: "CAGIE Leather Notebook Journal for Men, 100 GSM 256 Pages Li"
 seo_title: "CAGIE Leather Notebook Review: 100 GSM Paper, 256 Pages"
 meta_description: "Honest CAGIE Leather Notebook review: 100 GSM paper, 256 lined pages, rugged cover. Is it worth it? See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F2M4Y16D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91CQsD3w6+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 100 GSM paper handles fountain pens and markers with minimal bleed-through"
   - "Genuine leather cover develops character with wear — not bonded or faux"
   - "256 pages (128 sheets) means roughly 6 months of daily journaling per notebook"
-cons:
+cons: 
   - "No numbered pages or table of contents — harder to reference past entries"
   - "Lies flat only after break-in period; new notebooks resist staying open"
   - "Leather smell is strong out of the box and takes a few days to dissipate"
+
 ---
 
 Most notebook reviews bury the lead. Let me save you the scroll: if you're a fountain pen user, this is one of the few sub-$40 journals that won't turn your writing into a feathered mess. The CAGIE Leather Notebook pairs a 100 GSM paper weight with 256 lined pages, and at a 4.8-star average across 240 ratings, it's clearly doing something right. But "right" depends entirely on how you intend to use it.

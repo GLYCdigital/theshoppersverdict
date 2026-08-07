@@ -1,4 +1,5 @@
 ---
+
 title: "The Old Farmer's Almanac Tree & Shrub Fertilizer Spikes (Box"
 seo_title: "The Old Farmer's Almanac Tree & Shrub Fertilizer S Review"
 meta_description: "Our full the old farmer's almanac tree & shrub fertilizer spikes (box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BBBQCG3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916m9wHYHVL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a 50-pound bag of granular fertilizer, trying to calculate the right spread rate while it blows into your face, you'll appreciate what The Old Farmer's Almanac Tree & Shrub Fertilizer Spikes offer: simplicity. This box contains 24 pre-measured spikes that deliver a season's worth of nutrients directly to the root zone. No mixing, no spreader, no guesswork. It's the lazy gardener's dream — and honestly, that's a compliment.

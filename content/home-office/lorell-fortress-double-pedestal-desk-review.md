@@ -1,16 +1,17 @@
 ---
+
 title: "Lorell Fortress Series Double Pedestal Desk, 60' x 30' x 29.5', Black Steel Frame with Walnut Top"
 seo_title: "Lorell Fortress Desk Review - 60-inch Executive Desk at $739.99 | TSV"
 meta_description: "Lorell Fortress Series double pedestal desk review: sturdy 60-inch executive desk with steel frame and walnut top. Assembly, durability, and value from 14 reviews."
 slug: "lorell-fortress-double-pedestal-desk-review"
 image_alt: "Lorell Fortress Series Double Pedestal Desk"
-keywords:
+keywords: 
   - "lorell fortress series double pedestal d review"
   - "lorell home office review"
   - "lorell fortress double pedestal desk review"
   - "best home office desk lamp"
 verdict_score: 4.0
-faq:
+faq: 
   - question: "Is this product worth buying?"
     answer: "With a 4.0/5 average from 14 Amazon reviews, this product is well-regarded. It delivers solid quality at a fair price."
   - question: "What do owners like most?"
@@ -23,13 +24,14 @@ review_count: 14
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B00P8582AC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514f8zaMnnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade steel frame provides rock-solid stability"
   - "Professional walnut top looks great in any office setting"
   - "Double pedestal design with locking drawer for security"
-cons:
+cons: 
   - "Shipping damage risk — heavy desk often arrives dented or scratched"
   - "Only 14 reviews means long-term data is very thin"
+
 ---
 
 The Lorell Fortress Series Double Pedestal Desk is the kind of office furniture that means business. At 60" x 30", it's a proper executive desk with a steel frame and walnut laminate top. With only 14 Amazon reviews, this is a niche product — but those reviews tell a clear story.

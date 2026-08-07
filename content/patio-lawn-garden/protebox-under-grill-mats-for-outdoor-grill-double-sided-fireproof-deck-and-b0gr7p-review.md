@@ -1,4 +1,5 @@
 ---
+
 title: "Protebox Under Grill Mats for Outdoor Grill, Double-Sided Fi"
 seo_title: "Protebox Under Grill Mats for Outdoor Grill, Doubl Review"
 meta_description: "Our full protebox under grill mats for outdoor grill, double-sided fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GR7P669D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814ze1-lOUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched grease drip from a grill onto a wood deck and thought, "That's going to cost me," you already know why the Protebox Under Grill Mat exists. As shown in the product image, this is a double-sided fireproof mat designed to sit beneath your grill and catch the mess before it becomes a permanent stain — or worse, a fire hazard.

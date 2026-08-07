@@ -1,4 +1,5 @@
 ---
+
 title: "Riley's Chicken Wrapped Beef Sticks"
 seo_title: "Riley's Chicken Wrapped Beef Sticks Review: Verdict | TSV"
 meta_description: "Our full riley's chicken wrapped beef sticks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CB1RWSXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UEXmiBh+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most dog treats are either flavorless cardboard or grease-soaked gimmicks. Riley's Chicken Wrapped Beef Sticks sit in a more interesting middle ground. At 4.4 stars across 220 ratings, these aren't flying under the radar — but are they worth your money? I dug through the specs, the customer feedback, and the actual chew mechanics to give you a straight answer.

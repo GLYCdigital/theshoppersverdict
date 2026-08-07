@@ -1,4 +1,5 @@
 ---
+
 title: "Tree Swing, Saucer Swing, 40 Inch for Kids, with Adjustable "
 seo_title: "Tree Swing, Saucer Swing, 40 Inch for Kids, with A Review"
 meta_description: "Our full tree swing, saucer swing, 40 inch for kids, with adjustable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3DMDDWF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MNHbVl46L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this just another flimsy saucer swing that'll sag by August?** No. After digging through 235 ratings and the actual construction specs, this 40-inch model from the B0D3DMDDWF listing stands apart from the $25 Amazon specials. Here's what you're actually buying.

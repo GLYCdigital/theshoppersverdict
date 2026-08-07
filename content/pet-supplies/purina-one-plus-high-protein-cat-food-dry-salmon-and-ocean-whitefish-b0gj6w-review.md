@@ -1,4 +1,5 @@
 ---
+
 title: "Purina ONE Plus High Protein Cat Food Dry Salmon and Ocean W"
 seo_title: "Purina ONE Plus High Protein Cat Food Dry Salmon a Review"
 meta_description: "Our full purina one plus high protein cat food dry salmon and ocean w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GJ6WZTK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+01ANS-hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct with you: there's a lot of mediocre cat food on Amazon, but this Purina ONE Plus formula has earned its 4.7-star rating across 235 reviews. It's not flashy or trendy, but it gets the fundamentals right — real protein first, no artificial colors, and a price point that won't make you wince at checkout.

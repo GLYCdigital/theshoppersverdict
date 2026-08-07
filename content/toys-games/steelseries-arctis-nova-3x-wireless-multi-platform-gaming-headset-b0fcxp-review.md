@@ -1,4 +1,5 @@
 ---
+
 title: "SteelSeries Arctis Nova 3X Wireless Multi-Platform Gaming He"
 seo_title: "SteelSeries Arctis Nova 3X Wireless Multi-Platform Review"
 meta_description: "Our full steelseries arctis nova 3x wireless multi-platform gaming he review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FCXPZH48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uyJR1wDEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The SteelSeries Arctis Nova 3X is a wireless headset that wants to be the only headset you own. It juggles PC, PlayStation, Switch, and mobile through a single USB-C dongle, and it mostly pulls that off. But “mostly” is doing a lot of work in that sentence.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yanosaku Vanity with Mirror and LED Lights,Vanity Desk with "
 seo_title: "Yanosaku Vanity with Mirror and LED Lights,Vanity  Review"
 meta_description: "Our full yanosaku vanity with mirror and led lights,vanity desk with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FDB71TF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dbnZNhIxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Yanosaku Vanity: A Dressing Table That Actually Does Double Duty**

@@ -1,4 +1,5 @@
 ---
+
 title: "Feline Natural New Zealand Canned Catfood Wet Food, High-Mea"
 seo_title: "Feline Natural Canned Cat Food Review: High-Meat, Low-Carb"
 meta_description: "Honest Feline Natural canned cat food review: 92% meat content, New Zealand sourcing, and real buyer feedback on texture and price."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DF888KCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41eqIdwixAL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "92% meat, organs, and New Zealand green-lipped mussel — no fillers, grains, or carrageenan"
   - "Human-grade ingredients sourced from free-range, grass-fed animals with full traceability"
   - "High moisture content (78%) supports urinary tract health and hydration for cats on dry food"
-cons:
+cons: 
   - "Pâté texture is dense and can be off-putting for cats accustomed to flaked or shredded wet food"
   - "Price per can runs roughly 30-40% above mainstream premium brands like Wellness or Blue Buffalo"
   - "Some cats reject the strong natural aroma — transition slowly or risk a full bowl left untouched"
+
 ---
 
 **Is this premium New Zealand import worth $3+ per can, or are you just paying for the label?**

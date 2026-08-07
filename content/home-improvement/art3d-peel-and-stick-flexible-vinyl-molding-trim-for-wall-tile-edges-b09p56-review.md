@@ -1,4 +1,5 @@
 ---
+
 title: "Art3d Peel and Stick Flexible Vinyl Molding Trim for Wall Ti"
 seo_title: "Art3d Peel and Stick Vinyl Molding Trim Review: Worth It?"
 meta_description: "Honest Art3d peel and stick vinyl molding trim review. Does flexible wall tile edging stick? Real pros, cons, and who should buy at $9.99."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09P56JV1L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612SwMEK0mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Adhesive is genuinely strong — holds on tile and painted drywall without lifting after 30+ days"
   - "Flexible enough to bend around outside corners and curved surfaces without kinking or cracking"
   - "Cut to length with household scissors — no wet saw, no grout mess, no special tools required"
-cons:
+cons: 
   - "Vinyl surface scuffs easily; dark grout or cleaning pads can leave visible marks on the white finish"
   - "Not paintable — if the stock finish doesn't match your space, you're stuck with it"
+
 ---
 
 Let me be blunt: most peel-and-stick "trim" products are junk that peels off within a week. The Art3d Flexible Vinyl Molding Trim is not that product. At $9.99, it's a legitimate fix for the ugliest problem in DIY tiling — those raw, unfinished tile edges that scream "I ran out of bullnose."

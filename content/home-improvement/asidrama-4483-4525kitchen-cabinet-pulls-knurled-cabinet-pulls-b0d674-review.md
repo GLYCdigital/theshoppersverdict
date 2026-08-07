@@ -1,4 +1,5 @@
 ---
+
 title: "Asidrama 4483 4525Kitchen Cabinet Pulls Knurled Cabinet Pull"
 seo_title: "Asidrama Knurled Cabinet Pulls Review: Worth It? (2026)"
 meta_description: "Asidrama knurled cabinet pulls reviewed: build quality, finish durability, hole spacing, and installation. See if these 4.6-star pulls fit your kitchen."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D674SNLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61twHi439TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined knurled texture provides a secure grip even with wet or greasy hands — noticeably better than smooth pulls"
   - "Substantial weight (roughly 1.5 lbs for a 12-pack) signals solid zinc alloy construction, not hollow cheap metal"
   - "Finish resists fingerprints and smudges far better than polished stainless; a quick wipe restores the matte look"
-cons:
+cons: 
   - "Screws included are standard Phillips; they work fine but feel slightly soft — use your own if you have a drill driver with high torque"
   - "Knurled texture can feel aggressive under fingertips if you grip the pull tightly for long periods; some users may prefer a smoother profile"
+
 ---
 
 If you’re staring at a kitchen full of dated, generic bar pulls and want an upgrade that doesn’t require a contractor, the Asidrama knurled cabinet pulls deserve a hard look. These aren’t just another Amazon hardware listing — the knurled texture is the differentiator, and it’s executed well. At 4.6 stars from 229 ratings, buyers are mostly thrilled. Here’s the real story.

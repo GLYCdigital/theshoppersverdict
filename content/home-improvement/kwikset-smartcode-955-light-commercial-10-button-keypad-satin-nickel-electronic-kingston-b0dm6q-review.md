@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset SmartCode 955 Light Commercial 10-Button Keypad Sati"
 seo_title: "Kwikset SmartCode 955 Light Commercial 10-Button K Review"
 meta_description: "Our full kwikset smartcode 955 light commercial 10-button keypad sati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DM6QGYTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qBGOtbfqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever managed access for an office, medical suite, or rental property, you know the drill: keys get lost, codes get shared, and the lock takes the abuse. The Kwikset SmartCode 955 is purpose-built for that grind — it's rated ANSI/BHMA Grade 2, which means it's certified for light commercial use at roughly 400,000 cycles. That's not marketing language; that's a tested durability standard most residential deadbolts won't touch.

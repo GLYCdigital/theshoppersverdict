@@ -1,4 +1,5 @@
 ---
+
 title: "L'ANGE HAIR Le Duo"
 seo_title: "L'ANGE HAIR Le Duo Review: Verdict | TSV"
 meta_description: "Our full l'ange hair le duo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CJCM6911/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h5VcOe9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **L'ANGE HAIR Le Duo Review: Two Stylers, One Tool — But Does It Hold Up?**

@@ -1,4 +1,5 @@
 ---
+
 title: "Capsule Caffeine Tierra Carton Nespresso"
 seo_title: "Capsule Caffeine Tierra Carton Nespresso Review (2026)"
 meta_description: "Honest Capsule Caffeine Tierra Carton Nespresso review: flavor, strength, compatibility, and value. See if these pods beat the originals before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CH37L659/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vbwHl0JRL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, full-bodied espresso with a noticeable cocoa finish that holds up in milk drinks"
   - "Aluminum capsules — better than plastic alternatives for heat transfer and recyclability"
   - "Consistently produces a thick, persistent crema across multiple brewing sessions"
-cons:
+cons: 
   - "Intensity may be too mild for die-hard dark roast fans (rated around 8/10, drinks lighter)"
   - "Cardboard carton packaging can arrive crushed if the shipping box is undersized"
   - "No decaf option in the Tierra line — a miss for evening espresso drinkers"
+
 ---
 
 If you've been burned by third-party Nespresso pods that taste like bitter dishwater or brew up a sad, watery crema, I get the skepticism. The Capsule Caffeine Tierra Carton is here to change your mind — mostly. This is a Spanish-roasted, aluminum-capsule espresso that punches above its price point, but it's not without a couple of honest flaws.

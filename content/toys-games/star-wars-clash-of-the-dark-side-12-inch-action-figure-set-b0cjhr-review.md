@@ -1,4 +1,5 @@
 ---
+
 title: "STAR WARS Clash of The Dark Side, 12-Inch Action Figure Set,"
 seo_title: "STAR WARS Clash of The Dark Side, 12-Inch Action F Review"
 meta_description: "Our full star wars clash of the dark side, 12-inch action figure set, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJHRRHPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6115aLQ6+NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by flimsy, undersized Star Wars figures that feel more like plastic toothpicks than collectibles, the Clash of the Dark Side 12-inch set is here to change your mind. This two-pack brings Darth Vader and a Stormtrooper to a scale that actually commands attention — these are the figures you want on a desk, shelf, or in the hands of a kid who takes their play seriously.

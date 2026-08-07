@@ -1,4 +1,5 @@
 ---
+
 title: "Bloom Booster and Yield Enhancer for Plants - Bigger, Heavie"
 seo_title: "Bloom Booster & Yield Enhancer Review: Bigger Harvests?"
 meta_description: "Honest Bloom Booster and Yield Enhancer review: does it really deliver bigger, heavier harvests? Real customer results, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01L32CDY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81evxmRskyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Visible increase in flower count and fruit size within 2–3 weeks on most plants"
   - "Works across a wide range of plants — tomatoes, peppers, roses, and houseplants"
   - "Easy liquid concentrate that mixes cleanly with no sediment or residue"
-cons:
+cons: 
   - "Strong odor when mixing — noticeable for a few hours after application"
   - "Requires consistent weekly application to see meaningful results; occasional use won't cut it"
+
 ---
 
 Most bloom boosters make big promises and deliver small results. This one, judging by 229 ratings at a 4.6 average, actually seems to do what it claims. But before you add it to your cart, let's talk about what it really does, what it doesn't, and whether your specific plants will benefit.

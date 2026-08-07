@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 06003 Options Electric Multi-Cooker, Steamer"
 seo_title: "Presto 06003 Options Electric Multi-Cooker, Steame Review"
 meta_description: "Our full presto 06003 options electric multi-cooker, steamer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00005OTXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817sfy9-eIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need a $200 multi-cooker to steam vegetables properly. The Presto 06003 Options proves that with a straightforward, no-nonsense design that's been a budget kitchen staple for years. But "simple" cuts both ways — let's talk about what you gain and what you sacrifice.

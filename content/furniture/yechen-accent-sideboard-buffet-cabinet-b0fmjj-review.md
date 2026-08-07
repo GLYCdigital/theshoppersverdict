@@ -1,4 +1,5 @@
 ---
+
 title: "Yechen Accent Sideboard Buffet Cabinet"
 seo_title: "Yechen Accent Sideboard Buffet Cabinet Review: Verdict | "
 meta_description: "Our full yechen accent sideboard buffet cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FMJJ9Q6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DAk-r4YYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a sideboard under $300, you've probably stared at the same grid of lookalike cabinets with flimsy cam locks and veneer that peels in a year. The Yechen Accent Sideboard Buffet Cabinet is trying to be the exception. After digging through 215 ratings and the spec sheet, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Large Egg Crayons (12ct), Classroom Must Haves, Teac"
 seo_title: "Crayola Large Egg Crayons Review: 12ct for Toddlers & Classrooms"
 meta_description: "Honest Crayola Large Egg Crayons review: ergonomic egg shape, vibrant colors, durability for tiny hands. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08JWCL49F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Te6jiGOAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Egg shape naturally fits a toddler's whole-hand grasp, promoting proper crayon grip without any training aids"
   - "Substantially thicker than standard crayons — resists snapping even when a 2-year-old slams them down in frustration"
   - "Colors lay down smoothly and vibrantly on regular copy paper, not just thick art paper"
-cons:
+cons: 
   - "The egg shape makes them awkward for older kids (5+) who've already mastered a standard pencil grip"
   - "No washable formula — these are traditional wax crayons, so expect some scrubbing if they meet your walls"
+
 ---
 
 Look, you've seen the photos — those little egg-shaped blobs of color. They look like something from a Dr. Seuss illustration, and honestly, that's exactly why they work. The Crayola Large Egg Crayons solve a problem that standard crayons can't: tiny hands that haven't developed a pincer grip yet.

@@ -1,4 +1,5 @@
 ---
+
 title: "PETMATE Scoop'N Hide Litter Scoop"
 seo_title: "PETMATE Scoop'N Hide Litter Scoop Review: Verdict | TSV"
 meta_description: "Our full petmate scoop'n hide litter scoop review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0026L5O3E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wa-NWIAXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: you've probably lost more litter scoops than you care to admit. I know I have. That's the entire premise behind the PETMATE Scoop'N Hide — a scoop that attaches directly to your litter box so it's always exactly where you left it. It's a deceptively simple idea, but does it actually work in practice? I dug through 220 ratings and the product specs to find out.

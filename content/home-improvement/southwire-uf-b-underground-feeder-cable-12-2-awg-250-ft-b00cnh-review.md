@@ -1,4 +1,5 @@
 ---
+
 title: "Southwire UF-B Underground Feeder Cable, 12/2 AWG, 250 ft"
 seo_title: "Southwire UF-B Underground Feeder Cable, 12/2 AWG, Review"
 meta_description: "Our full southwire uf-b underground feeder cable, 12/2 awg, 250 ft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00CNH867M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jbKcjO-0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're trenching for a shed sub-panel, outdoor lighting, or a well pump. The last thing you want is to bury cable twice because the jacket failed after two winters. Southwire's UF-B 12/2 has been the default choice for direct-burial applications for decades — and this 250-ft spool is the size most homeowners actually need for a typical run. Here's the honest breakdown after looking at the specs, the build quality, and what 235 Amazon buyers are saying.

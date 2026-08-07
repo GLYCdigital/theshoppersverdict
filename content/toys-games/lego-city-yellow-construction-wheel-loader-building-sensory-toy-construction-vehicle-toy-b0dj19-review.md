@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Yellow Construction Wheel Loader Building Sensory "
 seo_title: "LEGO City Yellow Construction Wheel Loader Buildin Review"
 meta_description: "Our full lego city yellow construction wheel loader building sensory  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ19L2ZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81trNCJ6nhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO City Yellow Construction Wheel Loader** sits in a weird spot: it's simple enough for a 4-year-old to build mostly solo, yet it has a working bucket mechanism that keeps older kids engaged past the initial build. After 240 Amazon ratings averaging 4.8 stars, the consensus is clear — this is one of the better small-scale construction sets LEGO has released recently. But "better" doesn't mean "perfect," and there are a few things worth knowing before you add it to your cart.

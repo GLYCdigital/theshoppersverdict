@@ -1,4 +1,5 @@
 ---
+
 title: "Nomad Design DTX Minnow with Patented Autotune System - Dist"
 seo_title: "Nomad Design DTX Minnow with Patented Autotune Sys Review"
 meta_description: "Our full nomad design dtx minnow with patented autotune system - dist review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BPMYZVVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NR+DwxulL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Distressed Baitfish finish on this Nomad Design DTX Minnow is the first thing you'll notice — it looks like a wounded, struggling forage fish that's already been nipped at. That's exactly the point. This is a saltwater subsurface lure engineered for one thing: triggering strikes from fish that have seen every other plug in your box.

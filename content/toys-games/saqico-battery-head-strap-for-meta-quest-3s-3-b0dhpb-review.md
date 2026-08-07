@@ -1,4 +1,5 @@
 ---
+
 title: "Saqico Battery Head Strap for Meta Quest 3S&3"
 seo_title: "Saqico Battery Head Strap for Meta Quest 3S&3 Review: Ver"
 meta_description: "Our full saqico battery head strap for meta quest 3s&3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHPB3V92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614d4DA4kaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Real Problem With Quest 3S Comfort

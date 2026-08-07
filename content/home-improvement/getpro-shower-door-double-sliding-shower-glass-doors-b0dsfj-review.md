@@ -1,4 +1,5 @@
 ---
+
 title: "GETPRO Shower Door Double Sliding Shower Glass Doors"
 seo_title: "GETPRO Shower Door Review: Double Sliding Glass (2026)"
 meta_description: "Honest GETPRO Shower Door double sliding glass review: build quality, installation, pros/cons, and who should buy. Real buyer feedback, 4.4-star rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSFJN41B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J9YHMjGFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "6mm tempered safety glass is noticeably thicker and more stable than the 4mm panels common at this price point"
   - "Fully adjustable top and bottom guides accommodate out-of-plumb walls up to 1/4 inch without shimming"
   - "Pre-drilled handle holes and pre-attached rollers cut install time to roughly 2-3 hours for a capable DIYer"
-cons:
+cons: 
   - "Bottom track collects soap scum and requires weekly cleaning — a squeegee is essentially mandatory"
   - "Water seal strip on the stationary panel can pull loose in high-humidity environments if not pressed firmly during install"
+
 ---
 
 If you're browsing double sliding shower doors, you've likely seen the price spread — from $200 flimsy units to $1,000+ custom glass. The GETPRO sits squarely in the middle, and for most shoppers, that's exactly where the value lives. Here's what 220 buyers found when they rolled the dice on this one.

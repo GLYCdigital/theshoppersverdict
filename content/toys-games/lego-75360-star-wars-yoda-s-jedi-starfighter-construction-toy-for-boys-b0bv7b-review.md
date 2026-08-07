@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO 75360 Star Wars Yoda's Jedi Starfighter Construction To"
 seo_title: "LEGO 75360 Star Wars Yoda's Jedi Starfighter Const Review"
 meta_description: "Our full lego 75360 star wars yoda's jedi starfighter construction to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BV7B69QT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mwzVacFQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been eyeing this set on the shelf, here's the honest breakdown: the LEGO 75360 Yoda's Jedi Starfighter is a solid mid-range build that nails the look of the iconic green starfighter from *Attack of the Clones* and *Revenge of the Sith*. With 253 pieces, it hits a sweet spot — substantial enough to feel like a real project, compact enough to finish in an evening.

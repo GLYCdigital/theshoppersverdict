@@ -1,4 +1,5 @@
 ---
+
 title: "ProKeeper Dry Goods Storage Container, Airtight Seal, BPA-Fr"
 seo_title: "ProKeeper Dry Goods Storage Container, Airtight Se Review"
 meta_description: "Our full prokeeper dry goods storage container, airtight seal, bpa-fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GTRR2D93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+KPy7PuSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance: Does the Airtight Claim Hold Up?

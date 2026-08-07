@@ -1,4 +1,5 @@
 ---
+
 title: "LaCie Rugged Mini External Hard Drive Portable HDD"
 seo_title: "LaCie Rugged Mini External Hard Drive Portable HDD Review"
 meta_description: "Our full lacie rugged mini external hard drive portable hdd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FLY1P72Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T6RhHsuNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LaCie Rugged Mini has been the default recommendation for photographers, filmmakers, and field workers for over a decade — and for good reason. But in 2026, with cheap SSDs everywhere, does a shockproof spinning disk still make sense? The short answer: yes, for specific people. Here's the full story.

@@ -1,4 +1,5 @@
 ---
+
 title: "SANSI A21 LED Light Bulb, E26 LED Bulb with Ceramic Technolo"
 seo_title: "SANSI A21 LED Light Bulb, E26 LED Bulb with Cerami Review"
 meta_description: "Our full sansi a21 led light bulb, e26 led bulb with ceramic technolo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWZXJ8JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cG18EoHGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most LED bulbs die quietly. They don't burn out dramatically like incandescents—they just get dimmer, flicker, then give up somewhere around year three. The SANSI A21 with ceramic technology takes a different approach to that lifespan problem, and it's worth understanding before you buy.

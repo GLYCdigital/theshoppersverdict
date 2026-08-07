@@ -1,4 +1,5 @@
 ---
+
 title: "Annie's Gluten Free Chewy Granola Bars"
 seo_title: "Annie's Gluten Free Chewy Granola Bars Review (2026)"
 meta_description: "Honest Annie's Gluten Free Chewy Granola Bars review: taste, texture, ingredients, and value. See if these bars beat the competition before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FPCR8WFP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gxc+xSKnL._SL1500_.jpg"
-pros:
+pros: 
   - "Certified gluten-free with oat fiber as first ingredient — no mysterious fillers or malt syrup shortcuts"
   - "Chewy texture holds up in lunchboxes without crumbling into a mess of fragments"
   - "7g whole grains per bar with 3g fiber — actually keeps you full until the next meal"
-cons:
+cons: 
   - "Sugar content sits at 7g per bar — fine for kids but not a low-sugar snack"
   - "Chocolate chips can smear on warm days if bars sit in a car or backpack"
   - "Box contains only 6 bars — frequent snackers will burn through this quickly"
+
 ---
 
 Let's be direct about what these bars are: Annie's Gluten Free Chewy Granola Bars are a solid, dependable lunchbox staple that won't fall apart in your bag or taste like cardboard. If you've been burned by gluten-free snacks that crumble to dust or taste like sawdust, these are worth a serious look.

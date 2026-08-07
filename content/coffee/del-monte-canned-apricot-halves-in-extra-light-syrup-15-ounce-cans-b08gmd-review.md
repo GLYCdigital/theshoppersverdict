@@ -1,4 +1,5 @@
 ---
+
 title: "Del Monte Canned Apricot Halves in Extra Light Syrup, 15-Oun"
 seo_title: "Del Monte Apricot Halves Review: Extra Light Syrup (2026)"
 meta_description: "Honest Del Monte canned apricot halves review: texture, sweetness, and value. See how these 15-oz cans perform in real kitchens before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GMDL3T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ym61YQIFL._SL1100_.jpg"
-pros:
+pros: 
   - "Consistent apricot halves that hold their shape — no mushy broken pieces in the can"
   - "Extra light syrup keeps added sugar at 50% less than regular syrup varieties"
   - "15-ounce can is the right size for two servings or one generous topping portion"
-cons:
+cons: 
   - "Flavor leans tart — if you expect candy-sweet apricots, this isn't it"
   - "Some cans arrive with bruised or unevenly ripened fruit at the bottom"
   - "No resealable lid; you'll need a container for leftovers"
+
 ---
 
 **The Honest Take on Del Monte's Canned Apricot Halves**

@@ -1,4 +1,5 @@
 ---
+
 title: "BOEN 1/2 inch  Drive Deep Impact Socket Set, Cr-V Steel Socket Se"
 seo_title: "BOEN 1/2 inch  Drive Deep Impact Socket Set Review (2026)"
 meta_description: "Honest BOEN 1/2 inch  drive deep impact socket set review: Cr-V steel build, 235 ratings at 4.7 stars. See what real buyers praise and where it falls short."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09P8FSFBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FmYabulmL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Full 10mm–24mm metric coverage in a molded case that actually stays shut"
   - "Cr-V steel construction with a matte black finish that resists oil and grime absorption"
   - "Deep well design clears studs and long bolts that standard sockets can't reach"
-cons:
+cons: 
   - "Sizing is metric-only — no SAE equivalents in this set"
   - "Case latch feels adequate but not heavy-duty; don't toss it in a truck bed loose"
   - "No 6-point option in larger sizes — 12-point can round off worn fasteners"
+
 ---
 
 Listen, if you're still wrenching on rusty suspension bolts with a shallow chrome socket, you're making your life harder than it needs to be. The BOEN 1/2" Drive Deep Impact Socket Set is the kind of kit that makes you wonder why you waited so long to upgrade. With 235 ratings holding a 4.7-star average, this isn't an obscure off-brand gamble — it's a set that's been through real workshops and come out with a reputation.

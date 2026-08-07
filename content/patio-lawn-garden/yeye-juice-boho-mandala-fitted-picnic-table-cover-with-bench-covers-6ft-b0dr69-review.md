@@ -1,4 +1,5 @@
 ---
+
 title: "YEYE JUICE Boho Mandala Fitted Picnic Table Cover with Bench"
 seo_title: "YEYE JUICE Boho Mandala Fitted Picnic Table Cover  Review"
 meta_description: "Our full yeye juice boho mandala fitted picnic table cover with bench review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DR69J7NQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dRcSom0PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most picnic table covers are ugly, ill-fitting rectangles that flap in the wind and end up wrapped around a tree by Tuesday. The YEYE JUICE Boho Mandala Fitted Picnic Table Cover is not that. But it's also not a miracle product. Here's the real breakdown.

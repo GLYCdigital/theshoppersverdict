@@ -1,4 +1,5 @@
 ---
+
 title: "Boss Industrial ES7T20 Electric Log Splitter"
 seo_title: "Boss Industrial ES7T20 Review: 20-Ton Electric Splitter"
 meta_description: "Boss Industrial ES7T20 electric log splitter review: 20-ton power, vertical/horizontal modes, 5-sec cycle. Is it worth it? Real buyer insights inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08QPCDYC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71S+NTGIa6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20-ton ram force from a 15-amp motor—matches gas-powered performance without the fumes or pull-start hassle"
   - "Dual-position operation (vertical for oversized rounds, horizontal for steady production) with a 5-second cycle time"
   - "Wedge stays sharp through heavy use; welded A-frame chassis handles knotty hardwood without flexing"
-cons:
+cons: 
   - "Weighs 196 pounds—you'll want a second person or a ramp to move it around your yard"
   - "Some units ship with slightly misaligned wedge guides; a quick bolt adjustment fixes it but requires basic mechanical comfort"
   - "Wheels are functional but narrow—fine for flat ground, less ideal for soft turf or gravel"
+
 ---
 
 If you've ever spent a Saturday morning swinging a maul at a stubborn oak round, you already know the math: your back pays the price. The Boss Industrial ES7T20 isn't going to win any beauty contests—it's a 196-pound steel box on wheels. But after 225 Amazon ratings averaging 4.5 stars, it's clear this electric splitter is solving a real problem for homeowners who need gas-powered muscle without the gas-powered maintenance.

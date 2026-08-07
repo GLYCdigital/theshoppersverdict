@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Natural Raw Sesame Seeds"
 seo_title: "Yupik Natural Raw Sesame Seeds Review: Verdict | TSV"
 meta_description: "Our full yupik natural raw sesame seeds review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYKY1CS3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nNw+WZ8UL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front:** If you buy sesame seeds in those tiny 2-ounce spice jars, you're overpaying by roughly 300%. Yupik's 2.2-pound bag is the kind of pantry workhorse that makes sense for anyone who cooks with sesame regularly — and at 4.7 stars from 235 ratings, it's clearly earning its keep.

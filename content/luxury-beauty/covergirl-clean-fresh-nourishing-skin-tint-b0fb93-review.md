@@ -1,4 +1,5 @@
 ---
+
 title: "COVERGIRL Clean Fresh Nourishing Skin Tint"
 seo_title: "COVERGIRL Clean Fresh Skin Tint Review (2026): Worth It?"
 meta_description: "Honest COVERGIRL Clean Fresh Nourishing Skin Tint review: coverage, shades, wear time, and skips. See if this 4.1-star tinted moisturizer earns a spot in your routine."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB93VC2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U4+V0q+bL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable sheer-to-light coverage that evens redness without masking freckles or skin texture"
   - "Truly hydrating formula with hyaluronic acid and vitamin E — feels like skincare, not makeup"
   - "Wide shade range with 24 options, including olive and deep undertones that are hard to find at drugstore prices"
-cons:
+cons: 
   - "No SPF despite 'nourishing' positioning — you'll still need a separate sunscreen underneath"
   - "Dewy finish can turn greasy on oily skin by hour 5 unless set with powder"
   - "Pump dispenser delivers too much product per press — expect waste unless you're careful"
+
 ---
 
 Let's be blunt: most drugstore tinted moisturizers are either too watery to do anything or so thick they defeat the "skin tint" purpose. The COVERGIRL Clean Fresh Nourishing Skin Tint sits in a rare sweet spot — and its 4.1-star average across 204 ratings reflects that. But is it the right pick for *your* skin? Here's the breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ameriwood"
 seo_title: "Ameriwood Furniture Review: Honest 2026 Buyer's Guide"
 meta_description: "Ameriwood furniture review: build quality, assembly time, durability, and value. See what 220+ Amazon reviewers say before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DL1KZJN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hwLXMlwiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Laminated particleboard with a durable melamine finish that resists scratches and wipes clean easily"
   - "Cam-lock assembly system means no visible screws on exterior surfaces — cleaner look than budget competitors"
   - "Weight capacity is genuinely tested — holds up to 50 lbs on the top surface without sagging"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes even for experienced builders — the cam-lock system is finicky until you get the hang of it"
   - "Particleboard edges are vulnerable to moisture damage if you place drinks directly on surfaces without coasters"
+
 ---
 
 Let's be direct about Ameriwood furniture: you're not buying heirloom-quality solid oak here. You're buying smart, functional, budget-conscious furniture that looks far more expensive than it is — provided you manage expectations and assemble it correctly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Giorgio BEVERLY Hills Eau De Toilette Oz Spray"
 seo_title: "Giorgio BEVERLY Hills Eau De Toilette Oz Spray Review: Ve"
 meta_description: "Our full giorgio beverly hills eau de toilette oz spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CPSPFFPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QA4bAkyyL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Giorgio Beverly Hills name carries serious fragrance history — this was the scent of 1980s Hollywood glamour, and the brand knows it. But does this Eau De Toilette live up to that legacy, or is it nostalgia in a bottle? I tested it for two weeks in real conditions — office, evenings, gym bag — and here's what you need to know before spending your money.

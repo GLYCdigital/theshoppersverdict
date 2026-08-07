@@ -1,4 +1,5 @@
 ---
+
 title: "Planters Heat Peanuts (1.75 oz Packets, Pack of 18)"
 seo_title: "Planters Heat Peanuts (1.75 oz Packets, Pack of 18 Review"
 meta_description: "Our full planters heat peanuts (1.75 oz packets, pack of 18) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08GQ3N7PZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K2wZN46JL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Planters Heat Peanuts (1.75 oz Packets, Pack of 18)** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

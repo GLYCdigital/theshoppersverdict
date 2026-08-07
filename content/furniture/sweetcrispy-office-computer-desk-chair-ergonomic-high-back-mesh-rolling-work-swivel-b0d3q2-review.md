@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Office Computer Desk Chair, Ergonomic High-Back "
 seo_title: "Sweetcrispy Office Computer Desk Chair, Ergonomic  Review"
 meta_description: "Our full sweetcrispy office computer desk chair, ergonomic high-back  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3Q21115/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KGuw2sfmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: sub-$200 office chairs are a gamble. Some collapse by month three. Others feel like sitting on a park bench. The Sweetcrispy Ergonomic High-Back lands somewhere in the middle — and for the price, that’s actually a win. After digging through 210 Amazon ratings and the specs, here’s the real story.

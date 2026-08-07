@@ -1,4 +1,5 @@
 ---
+
 title: "VOLISUN Solar Post Cap Lights Outdoor 8Pack, with Edison LED"
 seo_title: "VOLISUN Solar Post Cap Lights Outdoor 8Pack, with  Review"
 meta_description: "Our full volisun solar post cap lights outdoor 8pack, with edison led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1X4W23X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gxowLLpxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the listing photos for a second. Most solar post cap lights in this price range promise a warm glow and deliver a cold, blue-white flicker that belongs in a parking lot. The VOLISUN 8-pack with Edison LEDs is different — the bulbs look like miniature versions of the vintage filament bulbs you’d hang over a kitchen island. That aesthetic is the headline here, and for once, the product photos aren’t lying.

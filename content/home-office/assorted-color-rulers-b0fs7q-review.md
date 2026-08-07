@@ -1,4 +1,5 @@
 ---
+
 title: "Assorted Color Rulers"
 seo_title: "Assorted Color Rulers Review: 6-Pack Worth It? (2026)"
 meta_description: "Honest Assorted Color Rulers review: 6-inch clear plastic rulers in 6 colors. See what 240+ Amazon buyers say about durability, readability, and accuracy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FS7QXV81/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Od2iPG8pL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six bright, distinct colors make it easy to assign one ruler per student or keep track of your own in shared workspaces"
   - "Clear plastic design with bold black markings stays readable even on dark surfaces"
   - "Both inch and centimeter scales printed on opposite edges — no flipping required mid-task"
-cons:
+cons: 
   - "Thin plastic construction can crack if bent or dropped repeatedly on hard floors"
   - "Markings start at 0.5-inch from the edge, which makes precise edge-aligned measuring slightly awkward"
+
 ---
 
 If you've ever watched a classroom or shared office burn through rulers faster than pens disappear, you know the problem: they're either flimsy, hard to read, or identical to everyone else's. The Assorted Color Rulers set tackles two of those three issues head-on. The third one — durability — is where you'll want to temper expectations.

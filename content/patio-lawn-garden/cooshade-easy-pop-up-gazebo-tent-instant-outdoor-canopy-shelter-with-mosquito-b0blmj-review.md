@@ -1,4 +1,5 @@
 ---
+
 title: "COOSHADE Easy Pop Up Gazebo Tent Instant Outdoor Canopy Shel"
 seo_title: "COOSHADE Pop Up Gazebo Review: Instant Shelter Worth It?"
 meta_description: "COOSHADE Easy Pop Up Gazebo review: 4.0-star rated instant canopy with mosquito netting. Is it sturdy enough for real outdoor use? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BLMJTTFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QU5c7GrWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True pop-up assembly in under 60 seconds — no tools, no poles to thread"
   - "Built-in mosquito netting that actually zips closed on all four sides"
   - "Compact carry bag with wheels makes solo setup and transport genuinely feasible"
-cons:
+cons: 
   - "Fiberglass frame flexes noticeably in wind — not a storm shelter"
   - "At roughly 45 lbs, it's manageable but not light; carrying it far is a workout"
   - "Peak height around 8.5 ft sounds tall, but corner eaves dip to about 6 ft — tall folks will duck"
+
 ---
 
 If you've ever wrestled with a traditional gazebo's pole-and-canopy jigsaw puzzle on a hot afternoon, the COOSHADE Easy Pop Up Gazebo is going to feel like a revelation. This is an instant shelter that lives up to the "instant" in its name — you unfold it, it locks, you stake it down. Done.

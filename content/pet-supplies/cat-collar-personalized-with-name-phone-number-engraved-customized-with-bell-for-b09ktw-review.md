@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Collar Personalized with Name Phone Number Engraved,Cust"
 seo_title: "Personalized Cat Collar Review: Engraved Name & Phone"
 meta_description: "Honest review of the personalized cat collar with engraved name & phone number. Is it worth it? Real pros, cons, and buyer feedback revealed."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09KTW2YFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51THTAH4Q6L._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Laser-engraved contact info on a metal plate is far more durable than printed tags that fade or fall off"
   - "Bell actually works as a warning system for birds and small pets — audible but not obnoxiously loud"
   - "Breakaway buckle releases under pressure, which is critical for outdoor cats that climb or get snagged"
-cons:
+cons: 
   - "Sizing runs small — the 'adjustable' range tops out around 11 inches, which won't fit larger or fluffy-necked cats"
   - "The engraved plate is riveted directly to the collar; if it snags, the collar won't break away as designed"
   - "A few buyers report the stitching fraying within 3-4 months of daily wear on active cats"
+
 ---
 
 Every cat owner knows the sinking feeling of a collar coming home empty. No cat, just a buckle. That's exactly why this personalized collar exists — and why it's earned a 4.4-star average from 220 ratings. But before you hit buy, let's dig into what actually works and what might send you back to the drawing board.

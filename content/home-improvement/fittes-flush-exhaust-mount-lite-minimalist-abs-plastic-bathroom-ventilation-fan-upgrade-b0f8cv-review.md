@@ -1,4 +1,5 @@
 ---
+
 title: "Fittes Flush Exhaust Mount [Lite], Minimalist ABS Plastic Ba"
 seo_title: "Fittes Flush Exhaust Mount Lite Review: Clean Upgrade?"
 meta_description: "Fittes Flush Exhaust Mount [Lite] review: minimalist ABS plastic bathroom vent cover. Is it worth the swap? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8CVQWR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iRMRO47FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drop-in replacement fits standard 4-inch duct openings with zero modification"
   - "True flush profile sits nearly level with ceiling—no more bulky protruding grille"
   - "Tool-free removal for cleaning; ABS plastic resists yellowing and moisture warping"
-cons:
+cons: 
   - "Lite version is purely a cover—no integrated fan motor, only works over existing exhaust"
   - "White finish may not perfectly match oil-rubbed bronze or matte black fixtures"
+
 ---
 
 Most bathroom exhaust grilles look like an afterthought—cheap white plastic domes that yellow within a year and collect dust in their louvers. The Fittes Flush Exhaust Mount [Lite] aims to fix that with a minimalist, nearly invisible profile. After digging through 225 ratings averaging 4.5 stars, here's the real story.

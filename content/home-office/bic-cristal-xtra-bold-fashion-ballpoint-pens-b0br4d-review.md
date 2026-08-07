@@ -1,4 +1,5 @@
 ---
+
 title: "BIC Cristal Xtra Bold Fashion Ballpoint Pens"
 seo_title: "BIC Cristal Xtra Bold Fashion Pens Review (2026)"
 meta_description: "BIC Cristal Xtra Bold Fashion pens review: bold 1.6mm line, vibrant colors, comfortable grip. See pros, cons, and if they're worth buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BR4DR5KF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TjuL+HGQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bold 1.6mm line width makes writing stand out without smearing as much as gel pens"
   - "Vibrant color assortment that actually matches the cap colors — no guessing"
   - "Consistent ink flow from first stroke to last, even after months in a drawer"
-cons:
+cons: 
   - "Ink takes noticeably longer to dry on glossy papers — can smudge if you're a lefty"
   - "The Fashion series colors are limited to 4-5 per pack, not the full rainbow"
+
 ---
 
 If you've ever grabbed a "bold" pen only to find it writes like every other 0.7mm stick pen, you know the disappointment. The BIC Cristal Xtra Bold Fashion pens don't have that problem. With a 1.6mm tip, these write like a marker crossed with a ballpoint — thick, saturated lines that make your grocery list look like a headline. That's the hook, and it mostly delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Guerlain Eau De Parfum Spray"
 seo_title: "Guerlain Eau De Parfum Spray Review: Verdict | TSV"
 meta_description: "Our full guerlain eau de parfum spray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWVJM94Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VpG7HHF4L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Guerlain Eau De Parfum Spray Review: Is This French Icon Worth Your Money?**

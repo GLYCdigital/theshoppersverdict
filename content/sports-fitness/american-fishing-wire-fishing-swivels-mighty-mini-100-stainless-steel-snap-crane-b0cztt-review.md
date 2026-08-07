@@ -1,4 +1,5 @@
 ---
+
 title: "American Fishing Wire Fishing Swivels - Mighty Mini 100% Sta"
 seo_title: "American Fishing Wire Mighty Mini Swivels Review (2026)"
 meta_description: "American Fishing Wire Mighty Mini swivels review: 100% stainless steel snap swivels tested for strength and corrosion. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZTTRYRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KFuYVz6zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100% stainless steel construction resists saltwater corrosion far better than nickel-plated brass alternatives"
   - "Smooth 360-degree swivel action that holds up under heavy drag without binding or sticking"
   - "Snap closure is strong enough for serious fish but still easy to open with cold or wet fingers"
-cons:
+cons: 
   - "Small sizes (like #10 and #12) are genuinely tiny and can be difficult to handle with bulky gloves"
   - "No size chart printed on the packaging — you'll want to measure or order multiple sizes to find your match"
   - "Premium stainless price point runs higher than bargain-bin swivels at big box stores"
+
 ---
 
 **Bottom Line: These are the last swivels you'll buy — if you can handle the small sizes.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin drybagdogsmall/petit 8+ months"
 seo_title: "Royal Canin drybagdogsmall/petit 8+ months Review: Verdic"
 meta_description: "Our full royal canin drybagdogsmall/petit 8+ months review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CX26W99X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O4glRKyhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've got a small-breed puppy between 8 months and adulthood, Royal Canin's Small Dog formula is one of the most reliable options on the shelf. It's not cheap, and the packaging could be better, but the nutritional science and the results owners report make it a solid investment for your dog's development.

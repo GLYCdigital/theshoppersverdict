@@ -1,4 +1,5 @@
 ---
+
 title: "Zebra Sarasa Clip 0.5 Retractable Gel Ink Pen, Rubber Grip, "
 seo_title: "Zebra Sarasa Clip 0.5 Retractable Gel Ink Pen, Rub Review"
 meta_description: "Our full zebra sarasa clip 0.5 retractable gel ink pen, rubber grip,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07T9HCRZR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41PT6b5msFL._AC_US40_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Zebra Sarasa Clip 0.5 is the pen you didn't know you needed — until you've written a full page with it and realize your hand doesn't hurt, your notes aren't smeared, and the clip actually does its job.**

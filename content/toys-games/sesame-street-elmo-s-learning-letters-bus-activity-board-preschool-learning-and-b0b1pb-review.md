@@ -1,4 +1,5 @@
 ---
+
 title: "Sesame Street Elmoâ€™s Learning Letters Bus Activity Board, "
 seo_title: "Sesame Street Elmoâ€™s Learning Letters Bus Activi Review"
 meta_description: "Our full sesame street elmoâ€™s learning letters bus activity board,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B1PB27HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SDLbG8EiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

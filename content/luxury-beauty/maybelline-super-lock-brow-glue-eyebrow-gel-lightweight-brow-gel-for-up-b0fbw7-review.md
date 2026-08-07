@@ -1,4 +1,5 @@
 ---
+
 title: "Maybelline Super Lock Brow Glue Eyebrow Gel, Lightweight Bro"
 seo_title: "Maybelline Super Lock Brow Glue Eyebrow Gel, Light Review"
 meta_description: "Our full maybelline super lock brow glue eyebrow gel, lightweight bro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBW77M2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LQLmPiBFL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Brow gels are a dime a dozen, but finding one that actually locks your arches in place without turning them into crunchy caterpillars? That's rarer. The Maybelline Super Lock Brow Glue has racked up 225 ratings at 4.5 stars, and after digging through what buyers are saying, here's the real story.

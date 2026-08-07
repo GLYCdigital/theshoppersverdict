@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Star Projector, Star Light with 8 Replaceable Discs, 3"
 seo_title: "Govee Star Projector, Star Light with 8 Replaceabl Review"
 meta_description: "Our full govee star projector, star light with 8 replaceable discs, 3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CCRHQDR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yudFYqeaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Govee Star Projector Review: More Than Just a Nightlight

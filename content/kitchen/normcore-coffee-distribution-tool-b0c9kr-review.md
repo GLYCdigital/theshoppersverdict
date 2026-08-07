@@ -1,4 +1,5 @@
 ---
+
 title: "Normcore Coffee Distribution Tool"
 seo_title: "Normcore Coffee Distribution Tool Review: Verdict | TSV"
 meta_description: "Our full normcore coffee distribution tool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9KRXB24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fI0RKMsPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're pulling espresso shots that channel, spray, or taste sour-bitter at the same time, the problem isn't your machine — it's your puck prep. The Normcore Coffee Distribution Tool (often called a WDT tool) is the cheapest meaningful upgrade you can make to your espresso workflow. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's who it's actually for and whether it deserves your money.

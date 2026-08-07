@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus Standart Pro Kitchen Sinks"
 seo_title: "Kraus Standart Pro Kitchen Sinks Review: Verdict | TSV"
 meta_description: "Our full kraus standart pro kitchen sinks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DZP8M62N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about kitchen sinks: most of them are boring, and most of them are cheaply made. The Kraus Standart Pro line sits in a more interesting spot—it's priced like a mid-tier option but built with specs that rival sinks costing twice as much. After digging through 200 buyer ratings and the technical details, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "VIZ-PRO Magnetic Dry Erase Board"
 seo_title: "VIZ-PRO Magnetic Dry Erase Board Review: Verdict | TSV"
 meta_description: "Our full viz-pro magnetic dry erase board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLYMHFVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QHKMUV6DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The VIZ-PRO Magnetic Dry Erase Board is the kind of product that makes you wonder why you tolerated your old whiteboard for so long. With a 4.6/5 average from 229 ratings, it's clearly doing something right — but let's dig past the star rating and figure out if it's the right board for *your* wall.

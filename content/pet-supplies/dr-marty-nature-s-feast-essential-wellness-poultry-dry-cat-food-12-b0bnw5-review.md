@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Marty Nature's Feast Essential Wellness Poultry Dry Cat"
 seo_title: "Dr. Marty Nature's Feast Poultry Dry Cat Food Review"
 meta_description: "Dr. Marty Nature's Feast Poultry Dry Cat Food review: freeze-dried nutrition, picky eater results, and real buyer feedback. Is it worth the cost?"
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0BNW5V1TV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u3JlC4jVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Freeze-dried raw coating delivers real meat flavor that tempts even picky eaters"
   - "High-protein, low-carb formula (40%+ protein) supports lean muscle and stable energy"
   - "No artificial preservatives, fillers, or by-product meals — just recognizable ingredients"
-cons:
+cons: 
   - "Premium price point runs $10–15 more per bag than comparable grain-free kibbles"
   - "Some cats experience digestive upset during the transition — requires a slow 7–10 day switch"
   - "Bag size feels small for the cost; a 10-pound cat eats through it in roughly 3 weeks"
+
 ---
 
 Let's cut through the marketing. Dr. Marty Nature's Feast Essential Wellness Poultry Dry Cat food isn't just another bag of kibble. It's a freeze-dried raw-coated formula that's trying to bridge the gap between convenience and the ancestral diet your cat's biology actually expects. The question is whether it delivers enough to justify the premium price tag.

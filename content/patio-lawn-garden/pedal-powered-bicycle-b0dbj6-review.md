@@ -1,4 +1,5 @@
 ---
+
 title: "Pedal Powered Bicycle"
 seo_title: "Pedal Powered Bicycle Review: Verdict | TSV"
 meta_description: "Our full pedal powered bicycle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBJ6FC3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tqw-dTXZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: a **pedal powered bicycle** isn't a gimmick, but it's not a magic machine either. It's a mechanical cultivator that trades engine noise and fuel for your own leg strength. After digging through 229 verified ratings and the spec sheet (which lists a 12-inch working width, adjustable tine depth from 2–4 inches, and a 30-pound frame), I can tell you exactly who this is for — and who should keep scrolling.

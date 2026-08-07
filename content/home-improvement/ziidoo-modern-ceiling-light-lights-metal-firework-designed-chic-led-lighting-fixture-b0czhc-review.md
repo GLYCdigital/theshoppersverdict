@@ -1,4 +1,5 @@
 ---
+
 title: "ziidoo Modern Ceiling Light, Lights Metal Firework Designed "
 seo_title: "ziidoo Modern Ceiling Light, Lights Metal Firework Review"
 meta_description: "Our full ziidoo modern ceiling light, lights metal firework designed  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CZHC59XJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71W7gspFbML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The ziidoo Modern Ceiling Light is the kind of fixture that makes guests ask, "Where did you get that?" — and then wince when you tell them the price. As shown in the product image, the black metal arms fan out like a frozen firework burst, each terminating in a small integrated LED disc. It's a genuinely striking piece of sculptural lighting for a budget-friendly price. But is it a smart buy or just a pretty face? After digging through 195 ratings and the spec sheet, here's the real story.

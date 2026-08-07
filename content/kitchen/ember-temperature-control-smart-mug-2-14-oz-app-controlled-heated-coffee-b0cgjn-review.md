@@ -1,4 +1,5 @@
 ---
+
 title: "Ember Temperature Control Smart Mug 2, 14 oz | App Controlle"
 seo_title: "Ember Smart Mug 2 Review: 14oz App-Controlled Heating (2026)"
 meta_description: "Honest Ember Smart Mug 2 review: 14oz app-controlled heating, battery life, real-world performance, downsides, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGJND4FS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GBMcPRtxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Holds temperature within ±1°F for up to 80 minutes off the charging coaster — verified by multiple buyer tests"
   - "App remembers your preferred temperature per drink type and auto-heats when you place the mug down"
   - "Ceramic interior with no metallic aftertaste; 14oz capacity fits standard coffee shop pours"
-cons:
+cons: 
   - "Battery drains in roughly 90 minutes at 140°F — a long meeting or slow sipper will hit the dead zone"
   - "App connectivity drops intermittently for some users; mug still works, but custom presets won't sync"
   - "No auto-off feature — if you forget it on the coaster, it keeps heating indefinitely"
+
 ---
 
 # Ember Smart Mug 2 Review: Does a $150 Heated Mug Actually Earn Its Keep?

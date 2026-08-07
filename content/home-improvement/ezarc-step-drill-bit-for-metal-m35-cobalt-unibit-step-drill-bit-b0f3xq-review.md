@@ -1,4 +1,5 @@
 ---
+
 title: "EZARC Step Drill Bit for Metal, M35 Cobalt Unibit Step Drill"
 seo_title: "EZARC Step Drill Bit Review: M35 Cobalt Unibit for Metal"
 meta_description: "EZARC M35 cobalt step drill bit review: 3-flute unibit cuts steel, stainless, aluminum. See real performance, durability, and limits before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3XQWQXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QFUywm9tL._SL1500_.jpg"
-pros:
+pros: 
   - "3-flute design cuts faster and produces cleaner holes in stainless and mild steel than standard 2-flute bits"
   - "M35 cobalt composition holds an edge noticeably longer than HSS bits when drilling hardened metals"
   - Step increments from 1/8 inch " to 1/2 inch " cover most electrical, HVAC, and automotive jobs in a single tool
-cons:
+cons: 
   - "Shorter overall length (about 3 inches) limits reach in tight or recessed areas"
   - "No case included — the bare bit risks edge damage if tossed loose in a toolbox"
   - Larger steps above 7/16 inch " require significant downward force on a drill press or heavy-duty drill
+
 ---
 
 If you've burned through a handful of cheap HSS step bits trying to punch a clean hole in stainless steel, the EZARC M35 cobalt unibit deserves a hard look. This is a purpose-built metal eater, not a multi-material compromise. At 4.4 stars across 220 ratings, it's earning its keep in real workshops. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Madison Collection Area Rug"
 seo_title: "SAFAVIEH Madison Collection Area Rug Review: Verdict | TS"
 meta_description: "Our full safavieh madison collection area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DP74QX4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91MuV1bmjrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SAFAVIEH Madison Collection Area Rug is one of those rare home purchases that actually delivers what the product photos promise. As shown in the product image, this is a low-pile, power-loomed synthetic rug engineered for real life — not a delicate wool piece you'll be afraid to walk on. With 225 Amazon ratings averaging 4.5 stars, it's clearly earning its keep in living rooms, dining areas, and home offices across the country.

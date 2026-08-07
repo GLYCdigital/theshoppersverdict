@@ -1,4 +1,5 @@
 ---
+
 title: "Epic Bars 12 Count"
 seo_title: "Epic Bars 12 Count Review: Portable Coffee Boost?"
 meta_description: "Epic Bars 12 Count review: Are these coffee-infused bars worth it? Real taste tests, caffeine content, and honest verdict for busy coffee lovers."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FV15ZT64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dsn7IeS3L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine coffee flavor with real caffeine — roughly equivalent to half a cup of brewed coffee per bar"
   - "12 individually wrapped bars make it easy to toss in a bag or keep in a desk drawer"
   - "Chewy texture with visible coffee granules, not a chalky protein bar wannabe"
-cons:
+cons: 
   - "Sugar content runs around 15g per bar — this is a snack with caffeine, not a health bar"
   - "Texture is dense and chewy; some buyers find it too firm, especially when cold"
   - "Coffee flavor is roasted and slightly bitter — won't appeal to those who prefer sweet, milky coffee drinks"
+
 ---
 
 **Epic Bars 12 Count Review: When Coffee Becomes a Snack**

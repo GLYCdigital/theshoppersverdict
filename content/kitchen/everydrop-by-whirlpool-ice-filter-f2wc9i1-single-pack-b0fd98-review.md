@@ -1,4 +1,5 @@
 ---
+
 title: "Everydrop by Whirlpool Ice Filter, F2WC9I1, Single-Pack"
 seo_title: "Everydrop F2WC9I1 Ice Filter Review: Worth It?"
 meta_description: "Honest Everydrop by Whirlpool F2WC9I1 ice filter review. Real-world performance, compatibility, and cost per month. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD98H7QF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Certified to reduce 13 contaminants including lead, cysts, and 2,4-D — actual NSF/ANSI 42 and 53 certifications, not marketing claims"
   - "Tool-free push-in installation takes under 60 seconds on compatible Whirlpool, Maytag, KitchenAid, and Amana refrigerators"
   - "Consistent ice clarity and taste improvement reported across hundreds of reviews, with no sediment or black specks after install"
-cons:
+cons: 
   - "Single-pack pricing is steep — expect to pay roughly $45–55, which means $0.45–0.55 per day when replaced every 6 months"
   - "Aftermarket alternatives (like WaterDrop or EcoPure) run $10–15 less, though they lack the OEM fit guarantee"
   - "No indicator light or reminder system — you must track the 6-month replacement cycle yourself"
+
 ---
 
 **The ice maker is the most ignored water filter in your kitchen.** Your fridge's water dispenser gets attention because you drink from it daily. The ice cubes? They're frozen, so who thinks about what's in them? The Everydrop F2WC9I1 forces you to think about it — and it does the job well enough that you'll notice the difference within a week.

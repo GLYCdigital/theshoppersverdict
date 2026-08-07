@@ -1,4 +1,5 @@
 ---
+
 title: "MOJAY Modern Faux Leather Accent Chair, Mid-Century Armchair"
 seo_title: "MOJAY Modern Faux Leather Accent Chair, Mid-Centur Review"
 meta_description: "Our full mojay modern faux leather accent chair, mid-century armchair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1D61W1C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-IRyiedfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: at this price point, most accent chairs look like they escaped from a dentist's waiting room. The MOJAY Modern Faux Leather Accent Chair is not that chair. With 210 ratings averaging 4.2 stars, it's earning its place in living rooms — not offices — and there's a reason for that.

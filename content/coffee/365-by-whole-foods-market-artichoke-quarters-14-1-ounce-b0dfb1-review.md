@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Artichoke Quarters, 14.1 Ounce"
 seo_title: "365 Artichoke Quarters Review: Worth It? (2026)"
 meta_description: "Honest 365 by Whole Foods Artichoke Quarters review. Texture, taste, brine quality, and value compared to canned artichokes. Is it worth buying?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFB12V5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51gWuXpJWeL._SL1000_.jpg"
-pros:
+pros: 
   - "Firm, meaty quarters that hold their shape through cooking — no mushy disintegration"
   - "Clean, bright brine without the metallic aftertaste common in cheaper canned brands"
   - "Glass jar packaging means no BPA-lined can concerns and easy to reseal leftovers"
-cons:
+cons: 
   - "14.1-ounce jar yields roughly 1.5 cups drained — some shoppers find portions small for the price"
   - "Heavy salt presence; you'll want to rinse before using if you're watching sodium"
+
 ---
 
 Let's be honest about artichokes: the canned ones usually taste like tin, and the fresh ones take 45 minutes to prep. This 14.1-ounce jar from Whole Foods' 365 line sits in the middle — and for most home cooks, it's the sweet spot.

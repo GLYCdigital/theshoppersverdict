@@ -1,4 +1,5 @@
 ---
+
 title: "Epson RapidReceipt RR-70W Wireless Mobile Tax Receipt and Co"
 seo_title: "Epson RapidReceipt RR-70W Review: Wireless Receipt Scanner"
 meta_description: "Epson RapidReceipt RR-70W review: Wireless receipt & document scanner with OCR, tax-ready organization. See pros, cons, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08P428WPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hKpNrwDLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Duplex scanning captures both sides of receipts in one pass — no flipping thermal slips around"
   - "Built-in Wi-Fi lets you scan straight to the bundled Epson SmartWay app or cloud services like Dropbox and Google Drive"
   - "Comes with a 1-year subscription to Epson's receipt management software, which auto-categorizes expenses and exports to QuickBooks"
-cons:
+cons: 
   - "Thermal receipts often curl; the straight paper path helps, but you'll still need to flatten stubborn ones before feeding"
   - "No included AC adapter — it charges via USB-C, and battery life is roughly 300 scans, so heavy users will charge often"
   - "Software setup on Mac requires a manual driver download; the included CD is Windows-only, which frustrates some buyers"
+
 ---
 
 If your wallet looks like a receipt landfill and tax season sends you into a panic, the Epson RapidReceipt RR-70W is a targeted solution. This isn't a general-purpose document scanner — it's built for one annoying job: turning crumpled, fading thermal paper into searchable digital records. At 4.1 stars from 204 ratings, it's not universally loved, but for the right user, it earns its place on the desk.

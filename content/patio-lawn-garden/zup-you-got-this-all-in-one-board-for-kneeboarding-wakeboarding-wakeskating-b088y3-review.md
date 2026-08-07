@@ -1,4 +1,5 @@
 ---
+
 title: "ZUP You Got This All-in-One Board for Kneeboarding, Wakeboar"
 seo_title: "ZUP You Got This All-in-One Board for Kneeboarding Review"
 meta_description: "Our full zup you got this all-in-one board for kneeboarding, wakeboar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B088Y37DKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I0h+-YKmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ZUP You Got This All-in-One Board Review: Do-It-All Deck or Jack of All Trades?

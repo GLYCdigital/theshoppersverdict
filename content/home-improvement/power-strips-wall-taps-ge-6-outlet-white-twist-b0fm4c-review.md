@@ -1,4 +1,5 @@
 ---
+
 title: "Power Strips & Wall Taps - GE 6 Outlet White Twist"
 seo_title: "Power Strips & Wall Taps - GE 6 Outlet White Twist Review"
 meta_description: "Our full power strips & wall taps - ge 6 outlet white twist review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FM4CWH3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most wall taps are garbage. They block the second outlet, flip your plugs sideways, or feel like they’ll crack if you look at them wrong. The GE 6 Outlet White Twist tries to solve the biggest complaint — adapter clearance — with a rotating head design. Does it work? Mostly, yes. Here’s the full breakdown.

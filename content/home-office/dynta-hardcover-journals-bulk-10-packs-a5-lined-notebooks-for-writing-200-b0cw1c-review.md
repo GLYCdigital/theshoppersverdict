@@ -1,4 +1,5 @@
 ---
+
 title: "Dynta Hardcover Journals Bulk, 10 Packs A5 Lined Notebooks f"
 seo_title: "Dynta Hardcover Journals Bulk Review: 10-Pack A5 Value"
 meta_description: "Honest Dynta hardcover journals bulk review: 10 A5 lined notebooks for writing. Build quality, paper performance, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CW1CYC1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712MDfHJ0LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid hardcover binding that lays nearly flat; survives being tossed in a bag without cover creasing"
   - "Consistent 80gsm paper that handles gel pens and mild fountain pen use with minimal ghosting"
   - "Per-unit cost drops dramatically at 10-pack volume — genuine bulk savings without quality sacrifice"
-cons:
+cons: 
   - "Elastic closure band is stiffer than premium brands like Leuchtturm; takes a week of use to loosen"
   - "No numbered pages or table of contents section — a miss if you're building a bullet journal system"
+
 ---
 
 ## The 10-Pack That Actually Makes Sense

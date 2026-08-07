@@ -1,4 +1,5 @@
 ---
+
 title: "Afuson Boneless Couch with Deep Seat, Modular Sectional Sofa"
 seo_title: "Afuson Boneless Couch Review: Deep Seat Modular Sectional"
 meta_description: "Honest Afuson Boneless Couch review: deep 25-inch seats, modular flexibility, easy assembly. See pros, cons, and who should buy this cloud-like sectional."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GC6562V3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P2nE5eE9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely deep 25-inch seat depth — rare at this price point, actually accommodates 6-foot-plus adults"
   - "Modular pieces connect with sturdy metal brackets, not flimsy Velcro — reconfiguration is practical, not just theoretical"
   - "Removable, machine-washable covers in a performance fabric that resists pet hair and everyday stains"
-cons:
+cons: 
   - "The 'boneless' design means no back support — this is a lounge-and-recline couch, not an upright-sitting couch"
   - "Assembly requires two people for the heavy base pieces; solo setup is frustrating, especially on stairs"
   - "Seat cushions flatten noticeably after 3–4 months of daily use — budget for rotating or replacing them"
+
 ---
 
 Let's cut through the marketing noise. The Afuson Boneless Couch with Deep Seat is riding the wave of "cloud couch" imitators, but it's not just another cheap knockoff. At $600–$900 depending on configuration, it's squarely in "affordable splurge" territory. Here's the real story after digging through 204 ratings and analyzing what buyers actually experience.

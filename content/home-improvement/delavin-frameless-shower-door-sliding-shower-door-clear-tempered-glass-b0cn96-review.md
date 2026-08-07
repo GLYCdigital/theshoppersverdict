@@ -1,4 +1,5 @@
 ---
+
 title: "DELAVIN Frameless Shower Door, Sliding Shower Door, Clear Te"
 seo_title: "DELAVIN Frameless Sliding Shower Door Review: Worth It?"
 meta_description: "Honest DELAVIN frameless sliding shower door review: tempered glass quality, installation difficulty, leaks, and value. See if it fits your bathroom."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CN96R4NC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717wi6QA1gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "8mm (5/16-inch) tempered glass — noticeably thicker and sturdier than the 6mm glass most competitors use at this price"
   - "Fully frameless sliding design with soft-close rollers; the bottom track is low-profile and easier to clean than U-channel alternatives"
   - "Includes a reversible installation kit with clear instructions and all stainless steel hardware; no need to buy extra parts"
-cons:
+cons: 
   - "Installation is genuinely difficult for one person — the fixed panel alone weighs over 80 lbs and requires two people to safely position"
   - "Bottom guide rail can trap soap scum if you don't seal the end caps with silicone; a few buyers report water pooling at the track ends"
   - "No towel bar or grab bar integrated, and the handle is a simple bar that can feel flimsy if you're used to heavier fixtures"
+
 ---
 
 If you're shopping for a frameless sliding shower door, you already know the drill: big-box stores want $800–$1,200, and the cheap internet options are a gamble. The DELAVIN Frameless Sliding Shower Door sits squarely in the middle, and at 4.1 stars across 204 ratings, it's earning its keep. But "decent" and "right for your bathroom" are different questions. Here's the real breakdown.

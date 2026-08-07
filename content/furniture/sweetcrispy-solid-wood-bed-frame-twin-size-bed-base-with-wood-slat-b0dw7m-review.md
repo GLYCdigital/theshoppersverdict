@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Solid Wood Bed Frame, Twin Size Bed Base with Wo"
 seo_title: "Sweetcrispy Solid Wood Bed Frame, Twin Size Bed Ba Review"
 meta_description: "Our full sweetcrispy solid wood bed frame, twin size bed base with wo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DW7MTK3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MW3a2Ea8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A solid wood twin bed frame that skips the box spring — but is it worth your money?**

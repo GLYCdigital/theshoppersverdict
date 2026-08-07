@@ -1,4 +1,5 @@
 ---
+
 title: "Barista Creations Assortment of Coffee (30 Pods, Rich Chocol"
 seo_title: "Barista Creations 30-Pod Assortment Review: Worth It?"
 meta_description: "Honest Barista Creations coffee pod assortment review: Rich Chocolate, Sweet Vanilla & Golden Caramel flavors. Real taste tests, pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNSSCX1Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ck3KbYkbL._SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct flavors (Rich Chocolate, Sweet Vanilla, Golden Caramel) in one box means you can rotate without committing to 12 of the same pod"
   - "Strong 7-ounce brew size works for both straight espresso-style drinks and milk-based lattes without tasting watery"
   - "Compatible with all Keurig 2.0 and newer single-serve brewers — no special machine needed"
-cons:
+cons: 
   - "The 'Rich Chocolate' is more of a dark roast with cocoa notes than a true chocolate-flavored coffee — don't expect hot cocoa"
   - "Golden Caramel runs sweeter than the other two, which may not suit drinkers who prefer unsweetened coffee"
+
 ---
 
 **Opening Hook**

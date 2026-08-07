@@ -1,4 +1,5 @@
 ---
+
 title: "Soilagua 13 oz Up 2 Weeks Extra Large Plant Watering Globes,"
 seo_title: "Soilagua 13 oz Up 2 Weeks Extra Large Plant Wateri Review"
 meta_description: "Our full soilagua 13 oz up 2 weeks extra large plant watering globes, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GL7ZSHJN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XEq342zKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed a fern or two on vacation, you know the sinking feeling of coming home to crispy leaves. The Soilagua 13 oz Extra Large Watering Globes are designed to prevent exactly that. These are not the skinny 6-ounce glass bulbs you've seen for a decade — these hold more than double the water, which is the entire point of the "extra large" in the name.

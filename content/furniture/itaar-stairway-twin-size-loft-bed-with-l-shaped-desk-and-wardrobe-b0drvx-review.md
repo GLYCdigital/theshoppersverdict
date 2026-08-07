@@ -1,4 +1,5 @@
 ---
+
 title: "Itaar Stairway Twin Size Loft Bed with L Shaped Desk and War"
 seo_title: "Itaar Stairway Twin Size Loft Bed with L Shaped De Review"
 meta_description: "Our full itaar stairway twin size loft bed with l shaped desk and war review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRVXP9N3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CSpp68nWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Itaar Stairway Twin Loft Bed: Does This 3-in-1 Actually Deliver?

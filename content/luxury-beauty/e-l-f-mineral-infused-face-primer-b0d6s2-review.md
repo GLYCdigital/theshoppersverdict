@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Mineral Infused Face Primer"
 seo_title: "e.l.f. Mineral Infused Face Primer Review: Worth It?"
 meta_description: "Honest e.l.f. Mineral Infused Face Primer review: ingredients, performance, and whether this $9 primer beats high-end options. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6S2Z92M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bGUN-gEkL._SL1500_.jpg"
-pros:
+pros: 
   - "Silky, blurring texture that grips foundation without feeling tacky or heavy"
   - "Mineral-infused formula with green tea and vitamins A, C, E — skincare benefits in a makeup step"
   - "Cruelty-free and vegan, priced dramatically below department store equivalents"
-cons:
+cons: 
   - "Tube packaging makes it hard to get the last 15% of product out"
   - "Not ideal for extremely oily skin — needs a mattifying powder on top for all-day wear"
+
 ---
 
 Let me be blunt: you don't need to spend $40+ on a face primer. The e.l.f. Mineral Infused Face Primer has been quietly outperforming luxury options for years, and the current formulation keeps that streak alive. With a 4.6-star average across 229 ratings, it's not just budget-friendly—it's genuinely good.

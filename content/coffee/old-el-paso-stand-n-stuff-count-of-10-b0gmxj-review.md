@@ -1,4 +1,5 @@
 ---
+
 title: "Old El Paso Stand 'N Stuff (Count of 10)"
 seo_title: "Old El Paso Stand 'N Stuff (Count of 10) Review: Verdict "
 meta_description: "Our full old el paso stand 'n stuff (count of 10) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GMXJSWWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LOaCnUcQL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: a box of crunchy taco shells. But not all taco shells are created equal, and the Stand 'N Stuff design solves a genuinely annoying problem — the dreaded taco collapse. If you've ever wrestled with a floppy shell that spills your filling before you take a single bite, you already understand the appeal.

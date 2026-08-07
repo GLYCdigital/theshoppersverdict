@@ -1,4 +1,5 @@
 ---
+
 title: "Bird Feeder with Camera"
 seo_title: "Bird Feeder with Camera Review: Watch Birds Live in 4K"
 meta_description: "Honest Bird Feeder with Camera review: 4K video, motion alerts, and solar power. See real pros, cons, and who should buy it before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5WYV1H2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713LMmWliKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4K video with a 120° field of view captures birds clearly from 3–25 feet away, even in low light"
   - "Solar panel keeps the 10,000mAh battery topped off — most users report 2–3 weeks between charges without direct sun"
   - "AI bird identification recognizes 10,000+ species and logs sightings to a free companion app without a subscription"
-cons:
+cons: 
   - "Motion detection triggers on wind-blown branches and passing cars — expect 10–20 false alerts per day unless you dial in the sensitivity zones"
   - "Plastic housing feels less premium than the $150+ price point suggests; the seed tray is shallow and spills millet easily"
+
 ---
 
 The bird feeder market split into two camps years ago: cheap plastic hoppers that squirrels destroy, and overpriced "smart" feeders that need a monthly subscription to see your own backyard. This one sits in a rare middle ground — but it's not perfect.

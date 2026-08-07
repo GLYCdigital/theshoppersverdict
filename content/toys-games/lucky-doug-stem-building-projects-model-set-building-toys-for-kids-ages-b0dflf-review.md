@@ -1,4 +1,5 @@
 ---
+
 title: "Lucky Doug STEM Building Projects Model Set - Building Toys "
 seo_title: "Lucky Doug STEM Building Projects Model Set - Buil Review"
 meta_description: "Our full lucky doug stem building projects model set - building toys  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFLF2HXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o087znaaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most STEM building toys are just overpriced plastic bricks with a "science" sticker slapped on the box. The Lucky Doug STEM Building Projects Model Set is different—it's a real metal construction kit that teaches actual mechanical principles. But is it worth the complexity, or will it end up half-assembled in a closet? Here's the honest breakdown.

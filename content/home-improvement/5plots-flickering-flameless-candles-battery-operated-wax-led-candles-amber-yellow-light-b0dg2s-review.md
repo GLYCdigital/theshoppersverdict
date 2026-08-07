@@ -1,4 +1,5 @@
 ---
+
 title: "5plots Flickering Flameless Candles - Battery Operated Wax L"
 seo_title: "5plots Flickering Flameless Candles Review: Real Wax LED"
 meta_description: "Honest 5plots flameless candle review: real wax, realistic flicker, timer function. See what 225 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DG2SMRK5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XuO2gaOTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real wax exterior with a 3D wick that looks convincingly like a burning candle from across a room"
   - "Built-in 4-hour timer cycles on at the same time daily — no remote or app needed"
   - "Warm amber flicker is genuinely random; it doesn't loop in an obvious pattern like cheaper LEDs"
-cons:
+cons: 
   - "Requires 2 C batteries per candle (not included) — that's 8 batteries for a set of 4, which adds up"
   - "Plastic base is visible from underneath; not ideal for centerpieces where guests look up from below"
+
 ---
 
 If you've ever watched a cheap LED candle flicker in a mechanical loop — on, off, on, off, same rhythm every time — you know the illusion dies fast. The 5plots Flickering Flameless Candles are a different animal. The amber light dances with an irregularity that's genuinely hard to distinguish from a real flame, and the real wax shell sells the trick from across the room. At 4.5 stars from 225 ratings, this set has clearly won over skeptics. Let's dig into whether it deserves a spot on your mantel.

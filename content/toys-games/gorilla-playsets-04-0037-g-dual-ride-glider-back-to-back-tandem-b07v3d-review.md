@@ -1,4 +1,5 @@
 ---
+
 title: "Gorilla Playsets 04-0037-G Dual Ride Glider Back-to-Back Tan"
 seo_title: "Gorilla Playsets Dual Ride Glider Review: 2026 Buyer's Guide"
 meta_description: "Honest Gorilla Playsets 04-0037-G Dual Ride Glider review: Build quality, weight capacity, assembly tips, and who should buy this backyard swing accessory."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07V3DVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZFo1+0RwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zinc-plated hardware and powder-coated steel frame resist rust far better than cheaper gliders that corrode within one season"
   - "Back-to-back design lets two kids face opposite directions—smoother ride than face-to-face gliders that cause motion conflict"
   - "Includes all mounting hardware and clear instructions; installs on standard 4x4 or 4x6 playset beams in under 30 minutes"
-cons:
+cons: 
   - "No suspension springs included—you must supply your own chains or ropes, adding $15-25 to the total cost"
   - "Maximum 100 lbs per seat means two average adults can't use it together; strictly a kids' accessory"
   - "Tan plastic seats show scuff marks from shoes quickly; darker colors hide wear better"
+
 ---
 
 If you've got a playset with a spare beam, the Gorilla Playsets 04-0037-G Dual Ride Glider is one of those rare accessories that actually earns its spot. With 235 Amazon ratings averaging 4.7 stars, this isn't a flash-in-the-pan novelty—it's a backyard workhorse that kids gravitate toward. But before you click "add to cart," here's what you need to know.

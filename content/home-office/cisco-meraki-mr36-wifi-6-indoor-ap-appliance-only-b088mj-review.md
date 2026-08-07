@@ -1,4 +1,5 @@
 ---
+
 title: "Cisco Meraki MR36 WiFi 6 Indoor AP - Appliance Only"
 seo_title: "Cisco Meraki MR36 WiFi 6 Review: Pros, Cons & Real Verdict"
 meta_description: "Read our honest Cisco Meraki MR36 WiFi 6 AP review. We cover license costs, real-world speeds, setup complexity, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B088MJQZ49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/211so4uYZ8L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cloud-managed dashboard is genuinely excellent — firmware updates, monitoring, and VLAN config all work from one browser tab"
   - "WiFi 6 (802.11ax) delivers stable 1.2 Gbps throughput on 5 GHz; MU-MIMO and OFDMA handle dense client environments well"
   - "PoE+ powered with a compact form factor (8.4 x 8.4 x 1.6 inches) that mounts flush on walls or ceilings without ugly protrusions"
-cons:
+cons: 
   - "Requires a Meraki license (Enterprise or Advanced) — the $400+ hardware price is just the entry fee, and that catches many buyers off guard"
   - "No power adapter included — you must supply a PoE+ switch or injector separately, which adds $30–$100 to your total cost"
   - "Setup demands a Meraki account and cloud claim code; not a plug-and-play device for non-IT buyers"
+
 ---
 
 Let's be direct: the Cisco Meraki MR36 is not a consumer router. It's a cloud-managed enterprise access point sold as "appliance only," which means you're getting the hardware — and nothing else. No power brick, no mounting kit, no license. That's the first thing you need to understand before swiping your card.

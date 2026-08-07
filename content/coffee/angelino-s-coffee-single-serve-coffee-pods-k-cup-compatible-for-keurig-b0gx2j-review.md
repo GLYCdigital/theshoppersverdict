@@ -1,4 +1,5 @@
 ---
+
 title: "Angelino's Coffee Single Serve Coffee Pods, K Cup Compatible"
 seo_title: "Angelino's Coffee Pods Review: K Cup Compatible (2026)"
 meta_description: "Honest Angelino's Coffee single serve pods review: flavor, strength, value vs. Keurig compatibility. See how these K Cup compatible pods stack up."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX2JWX2S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mpgkr0v7L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent medium roast with a smooth, chocolatey finish that doesn't turn bitter at larger brew sizes"
   - "Universal cup design fits Keurig 1.0 and 2.0 machines without the need for a reusable filter adapter"
   - "Foil seal preserves freshness — pods stay aromatic even weeks after opening the box"
-cons:
+cons: 
   - "Only one roast profile (medium) — no dark roast or decaf options in this listing"
   - "Some buyers report occasional spent grounds in the bottom of their mug, especially on the 10oz setting"
   - "No strength indicator on the pod itself, so dialing in your preferred intensity takes trial and error"
+
 ---
 
 # Angelino's Coffee Single Serve Coffee Pods: A Solid Everyday Cup That Won't Break the Bank

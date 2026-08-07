@@ -1,4 +1,5 @@
 ---
+
 title: "ECHO LBP56V250A 56V High-Capacity 5.0 Ah Lithium-Ion Battery"
 seo_title: "ECHO LBP56V250A 56V 5.0 Ah Battery Review (2026)"
 meta_description: "Honest ECHO LBP56V250A 56V 5.0 Ah battery review: runtime, build quality, compatibility, and real-world tradeoffs for ECHO 56V tools."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NQC31T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fO6Q-wtyL._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers 25% more runtime than the standard 4.0 Ah pack without adding much bulk — roughly 1.6 lbs vs. 1.3 lbs"
   - "LED fuel gauge on the side gives you a true readout (4 bars) before you head out, not a guess"
   - "Compatible across the entire ECHO 56V lineup — blowers, trimmers, chainsaws, hedge trimmers"
-cons:
+cons: 
   - "No battery charge level indicator on the tool itself — you have to press the button on the pack"
   - "Charges slower than the smaller 2.5 Ah battery on the included 56V charger (about 75 min vs. 45 min)"
   - "Price per amp-hour is higher than generic aftermarket options, though you're paying for ECHO's build quality"
+
 ---
 
 If you own an ECHO 56V tool, you already know the pain: the included 2.5 Ah battery dies right when the yard is half-finished. The LBP56V250A is the fix. This is the high-capacity pack that doubles your runtime without forcing you to buy a second charger or a whole new tool. But is it worth the premium? Let's get into it.

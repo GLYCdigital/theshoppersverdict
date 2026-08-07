@@ -1,4 +1,5 @@
 ---
+
 title: "Clear and Hammered Glass Pendant Light"
 seo_title: "Clear & Hammered Glass Pendant Light Review (2026)"
 meta_description: "Honest Clear and Hammered Glass Pendant Light review: build quality, brightness, install tips, and who should buy this $40 kitchen island fixture."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CL9J7BXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vMaYP0MzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy 4mm hammered glass shade that genuinely looks like a $150 fixture, not a $40 one"
   - "Fully adjustable cord from 10 to 47 inches — fits vaulted ceilings and low-drop installs without cutting"
   - "Open-bottom design accepts standard A19 or Edison bulbs with zero light obstruction"
-cons:
+cons: 
   - "No bulb included — factor in $8–$15 for a quality vintage Edison bulb to get the look right"
   - "Mounting canopy is wider than some junction boxes; may need the included adapter plate for older homes"
   - "Hammered pattern slightly diffuses light — if you want maximum brightness, order the clear shade version instead"
+
 ---
 
 **The $40 Pendant That Fools House Guests (In a Good Way)**

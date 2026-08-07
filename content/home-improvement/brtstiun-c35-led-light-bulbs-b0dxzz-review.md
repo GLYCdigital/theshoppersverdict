@@ -1,4 +1,5 @@
 ---
+
 title: "Brtstiun C35 LED Light Bulbs"
 seo_title: "Brtstiun C35 LED Light Bulbs Review: Honest 2026 Verdict"
 meta_description: "Brtstiun C35 LED bulbs review: chandelier-friendly candelabra base, warm dimmable glow, 15,000-hr lifespan. Real pros, cons & buyer verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DXZZCH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SKfM+ktfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True candle-shaped C35 profile with E12 candelabra base — fits most chandeliers, sconces, and pendant fixtures without overhang"
   - "Dimmable down to 5% with no audible buzz or visible flicker on standard LED-compatible dimmers"
   - "Warm 2700K color temperature delivers incandescent-equivalent ambiance at 7W (60W equivalent output)"
-cons:
+cons: 
   - "Filament LEDs are visible through clear glass — if you prefer frosted diffusion, these aren't it"
   - "Some reviewers report slight color temperature variance (±100K) between bulbs in multi-pack batches"
+
 ---
 
 The Brtstiun C35 LED bulbs aren't trying to reinvent lighting. But sometimes the most valuable product is the one that simply does its job flawlessly. With 225 ratings averaging 4.5 stars, these candelabra-base bulbs have carved out a loyal following among chandelier owners and sconce enthusiasts. Here's what the real story looks like.

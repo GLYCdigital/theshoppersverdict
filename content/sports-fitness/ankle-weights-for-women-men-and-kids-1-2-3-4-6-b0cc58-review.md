@@ -1,4 +1,5 @@
 ---
+
 title: "Ankle Weights for Women, Men and Kids - 1/2/3/4/6/8/10/12/15 inch"
 seo_title: "Ankle Weights for Women, Men & Kids Review (2026): Adjustable"
 meta_description: "Honest ankle weights review: adjustable 1–15 lbs, durable build, real workout results. See what 229 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CC58NXSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qupIH4LML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable from 1 to 15 lbs per pair — one set replaces multiple fixed-weight purchases"
   - "Soft, breathable neoprene shell with secure velcro straps that hold position during walking, running, and HIIT"
   - "Weight pouches distribute evenly so the set doesn't slide or bunch around the ankle mid-workout"
-cons:
+cons: 
   - "Velcro straps can loosen slightly during high-intensity jumping exercises — you'll need to re-tighten"
   - "At 15 lbs max, not heavy enough for advanced strength training leg extensions"
+
 ---
 
 Let's cut through the noise: most ankle weights on Amazon are either too flimsy for real work or so bulky they feel like shackles. This adjustable set — available in 1, 2, 3, 4, 6, 8, 10, 12, and 15 pounds — tries to solve both problems at once. Here's whether it actually delivers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Duke's Pork Hatch Green Chile Smoked Shorty Sausages, 7g Pro"
 seo_title: "Duke's Hatch Green Chile Shorty Sausages Review (2026)"
 meta_description: "Duke's Pork Hatch Green Chile Smoked Shorty Sausages review: 4.6/5 stars. Real heat, smoky flavor, 7g protein. See who should buy and who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07K6V3CSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81flbVkpnvL._SL1500_.jpg"
-pros:
+pros: 
   - "Real Hatch green chile heat that builds, not just a flavor dusting — you taste actual roasted chile, not artificial smoke"
   - "7g protein per 1-oz shorty with a firm, snappy texture that holds up in stews or eaten straight from the bag"
   - "Resealable 7-oz pouch keeps them fresh for weeks; each shorty is individually crimped, not stuck together"
-cons:
+cons: 
   - "Heat level is medium-plus — sensitive palates will reach for water; these aren't the mild 'kiddie' sausage"
   - "Pouch is lightweight but the chile oil can pool at the bottom; you'll want to shake the bag before grabbing a handful"
+
 ---
 
 **Straight talk:** These aren't your average gas-station smoked sausages. Duke's Pork Hatch Green Chile Shorties deliver actual New Mexico-grown Hatch chile — roasted, smoky, with a slow-building warmth that separates them from the "flavor-dusted" competition. At 4.6/5 stars from 229 Amazon ratings, they've clearly found their audience. Here's who that is — and who should pass.

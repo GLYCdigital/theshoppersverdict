@@ -1,4 +1,5 @@
 ---
+
 title: "Vinaco G4 Light Bulb, G4 Halogen Bulbs, 10PCS G4 Bulb 12V AC"
 seo_title: "Vinaco G4 Light Bulb, G4 Halogen Bulbs, 10PCS G4 B Review"
 meta_description: "Our full vinaco g4 light bulb, g4 halogen bulbs, 10pcs g4 bulb 12v ac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NKLT9BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NNeDzYgSL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got under-cabinet lighting, landscape fixtures, or pendant lamps that take G4 bi-pin bulbs, you already know the frustration: one bulb dies, and suddenly the whole strip is dim. The Vinaco G4 10-pack solves that problem in one purchase, and at roughly a dollar per bulb, it's the kind of stock-up deal that makes sense even if you only need two right now.

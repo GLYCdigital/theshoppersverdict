@@ -1,4 +1,5 @@
 ---
+
 title: "Swingline Staples, Standard, 1/4 inches Length, 210/Strip, 5"
 seo_title: "Swingline Staples, Standard, 1/4 inches Length, 21 Review"
 meta_description: "Our full swingline staples, standard, 1/4 inches length, 210/strip, 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09BKNLSVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mtAjKl0fL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: staples are the most boring purchase you'll make for your office, and they're also the easiest to get wrong. Buy cheap staples and you'll deal with jammed mags, bent legs, and documents that fall apart. Buy these Swingline staples and you'll probably forget you ever bought them — which is exactly what you want. At 4.8 stars from 240 ratings, this is one of those quietly dependable products that just works.

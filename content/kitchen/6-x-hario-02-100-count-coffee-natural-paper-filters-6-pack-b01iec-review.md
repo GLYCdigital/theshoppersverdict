@@ -1,4 +1,5 @@
 ---
+
 title: "6 X Hario 02 100-Count Coffee Natural Paper Filters, 6-Pack"
 seo_title: "Hario 02 Filters 6-Pack Review: Worth the Hype?"
 meta_description: "Hario 02 100-count paper filters 6-pack review: unbleached, 600 filters total, perfect V60 fit. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B01IECMA1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iI8PlYPqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "600 total filters for $31.75 — works out to roughly 5.3 cents per brew, significantly cheaper than buying individual 40-count boxes"
   - "Consistent 100% natural abaca pulp construction delivers a clean, sediment-free cup with zero papery off-taste when properly rinsed"
   - "Pre-folded seams and correct 02 sizing mean zero wrestling with the V60 — they seat perfectly every time without collapsing"
-cons:
+cons: 
   - "Unbleached natural paper holds a slight earthy aroma pre-rinse; skip the rinse and you'll taste it in your first sip"
   - "No resealable packaging — once you crack a 100-count sleeve, you need your own airtight container or the filters absorb kitchen odors"
+
 ---
 
 **The 600-Filter Math That Actually Makes Sense**

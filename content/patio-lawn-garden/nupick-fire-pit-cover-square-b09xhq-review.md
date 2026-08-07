@@ -1,4 +1,5 @@
 ---
+
 title: "NUPICK Fire Pit Cover Square"
 seo_title: "NUPICK Fire Pit Cover Square Review: Verdict | TSV"
 meta_description: "Our full nupick fire pit cover square review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09XHQW4HT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tEhfu5yxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # NUPICK Fire Pit Cover Square Review: A No-Nonsense Shield for Your Patio Investment

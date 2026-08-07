@@ -1,4 +1,5 @@
 ---
+
 title: "ELF Big Mood regular jojoba wax Long Lasting mascara wax"
 seo_title: "ELF Big Mood Jojoba Wax Mascara Review: Worth It? (2026)"
 meta_description: "ELF Big Mood mascara with jojoba wax reviewed: volume, length, wear time, smudge resistance, and honest downsides. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D4J1RZS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G+SuLo5rL._SL1500_.jpg"
-pros:
+pros: 
   - "Jojoba wax base conditions lashes while volumizing — rare dual-purpose formula at this price"
   - "Oversized tapered brush separates and coats without clumping even on thin, straight lashes"
   - "Genuine 12-hour wear with minimal flaking; survives humidity better than most drugstore mascaras"
-cons:
+cons: 
   - "Not waterproof — tears or heavy sweat will cause smudging under the eyes"
   - "Removal requires oil-based cleanser; standard micellar water struggles against the wax film"
+
 ---
 
 Let's cut through the noise about "Big Mood." This isn't just another mascara with a catchy name. The jojoba wax in the formula is doing something real — it's a conditioning agent that also creates a flexible film around each lash. That means you're getting volume and care in one tube, which is rare even in prestige brands.

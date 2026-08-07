@@ -1,4 +1,5 @@
 ---
+
 title: "Allewie Bed Frame with 4 Storage Drawers and Wingback Headbo"
 seo_title: "Allewie Bed Frame Review: 4 Drawers & Wingback Headboard"
 meta_description: "Allewie bed frame with 4 storage drawers and wingback headboard: honest review of build quality, assembly, storage capacity & who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BGT2XNM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81W1EUW5kUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four full-size rolling drawers on metal tracks — no box spring needed, and each drawer holds a surprising amount"
   - "Wingback headboard with button tufting in linen-look upholstery gives a genuinely upscale feel for the price"
   - "Support legs are positioned to clear most baseboards, allowing the frame to sit flush against the wall"
-cons:
+cons: 
   - "Assembly is a two-person job for at least an hour — the headboard wiring and drawer alignment test patience"
   - "Drawers have no soft-close mechanism; they roll smoothly but will thunk if you let them go"
+
 ---
 
 **The short version:** If you're shopping for a bed frame that hides clutter and looks twice its price, the Allewie with four storage drawers delivers. But it's not a one-person, 20-minute build — plan for a Saturday morning and a helper.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron 3-Gang Claro Wall Plate"
 seo_title: "Lutron 3-Gang Claro Wall Plate Review: Verdict | TSV"
 meta_description: "Our full lutron 3-gang claro wall plate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06XKS9ZTC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LxckIIbtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wall plates are an afterthought — flimsy plastic rectangles that crack if you look at them wrong and yellow within a year. The Lutron Claro 3-gang is not that. It's the wall plate equivalent of upgrading from a rental apartment to a place you actually own. Here's the full breakdown after living with it.

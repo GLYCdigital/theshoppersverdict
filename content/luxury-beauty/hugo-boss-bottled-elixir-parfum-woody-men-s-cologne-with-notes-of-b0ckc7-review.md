@@ -1,4 +1,5 @@
 ---
+
 title: "Hugo Boss Bottled Elixir Parfum â€“ Woody Men's Cologne â€“ "
 seo_title: "Hugo Boss Bottled Elixir Parfum â€“ Woody Men's Co Review"
 meta_description: "Our full hugo boss bottled elixir parfum â€“ woody men's cologne â€“  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKC798JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R8oUYjc9L._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve worn Hugo Boss Bottled in the last decade, you know its signature: a friendly, apple-cinnamon warmth that reads “approachable professional.” Bottled Elixir Parfum takes that DNA and injects it with steroids — but not in the way you might expect. This isn’t louder; it’s *denser*.

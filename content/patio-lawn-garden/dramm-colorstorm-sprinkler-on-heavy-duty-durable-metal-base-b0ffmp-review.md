@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dramm ColorStorm Sprinkler on Heavy Duty,Durable Metal Base"
 seo_title: "Dramm ColorStorm Sprinkler Review: Metal Base Tested"
 meta_description: "Honest Dramm ColorStorm Sprinkler review: metal base durability, coverage area, and real buyer feedback. Is this oscillating sprinkler worth it?"
@@ -12,13 +13,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FFMPY1VX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EKiGuBISL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy metal base prevents tipping on uneven ground — most plastic-base sprinklers can't claim this"
   - "The 16-nozzle oscillating arm delivers a gentle rain-like pattern that won't erode flower beds"
   - "Twist-adjustable spray width lets you dial in a strip as narrow as 5 feet or open it up to 70 inch"
-cons:
+cons: 
   - "The color-coded nozzles are cosmetic — the red/blue/green sections don't change performance"
   - "Some units arrive with a slightly sticky adjustment lever that loosens with use but feels cheap initially"
+
 
 ---
 

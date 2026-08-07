@@ -1,4 +1,5 @@
 ---
+
 title: "Furnulem Tall Nightstand with LED Lights and Charging Statio"
 seo_title: "Furnulem Tall Nightstand Review: LED Lights & Charging Station"
 meta_description: "Furnulem Tall Nightstand review: Does the LED-lit charging station nightstand deliver? Real pros, cons, and verdict from a furniture expert."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFWRZZX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614e3Y66EUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in USB-A and USB-C ports plus AC outlet deliver real charging convenience without visible cable clutter"
   - "Tall profile (roughly 24 inches) matches bed height better than squat nightstands, reducing awkward reaching"
   - "LED lighting with multiple color modes and brightness levels adds functional ambient light, not just decoration"
-cons:
+cons: 
   - "Assembly requires patience — several buyers report misaligned screw holes and fiddly drawer glides"
   - "LED strip is not replaceable if it fails, and the touch controls can be overly sensitive"
+
 ---
 
 Let's be honest: most nightstands under $150 are particleboard boxes with a drawer that sticks. The Furnulem Tall Nightstand tries to be more — and largely succeeds. With 215 ratings averaging 4.3 stars, it's clearly earning its place in bedrooms. But "largely succeeds" isn't "fully succeeds," and you deserve to know where it cuts corners.

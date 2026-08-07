@@ -1,4 +1,5 @@
 ---
+
 title: "COIDEA Waterproof Notebook, Top-Spiral Pocket Notepad, 3 inch  x"
 seo_title: "COIDEA Waterproof Notebook Review: Top-Spiral Pocket Notepad"
 meta_description: "COIDEA 3 inch x5 inch  waterproof notebook review: 4.6-star pocket notepad. Durable top-spiral design, all-weather pages. Real buyer feedback, pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTYR8RT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bLGTovQCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof pages — ink stays intact even after a full soak"
   - "Top spiral binding allows left- or right-handed writing without fighting the coil"
   - True 3 inch "x5 inch " pocket size slips into a shirt pocket or field vest without bulk
-cons:
+cons: 
   - "Pages are slick polypropylene — ballpoint pens smear; you need a pencil or permanent marker"
   - "No page count or perforation listed on the product page; you get what you get with the spiral"
   - "Cover is flexible plastic, not rigid — it bends in a back pocket if you sit on it"
+
 ---
 
 **If you've ever lost a field note to rain, sweat, or a spilled coffee, the COIDEA Waterproof Notebook is the fix you didn't know you needed.** This 3" x 5" top-spiral notepad isn't trying to be a leather-bound journal — it's a tool, and it does the one job that matters most: it keeps your writing legible when everything else turns to mush.

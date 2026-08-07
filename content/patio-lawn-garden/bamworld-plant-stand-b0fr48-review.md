@@ -1,4 +1,5 @@
 ---
+
 title: "Bamworld plant stand"
 seo_title: "Bamworld Plant Stand Review: Sturdy, Stylish, Worth It?"
 meta_description: "Honest Bamworld plant stand review: build quality, stability, real user feedback, and who should buy this 4.5-star rated garden essential."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FR484THB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gNLwCCUwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid, wobble-free construction with thick metal frame and reinforced joints"
   - "Rust-resistant finish holds up through rain and humidity without chipping"
   - "Easy 10-minute assembly with clearly labeled parts and included hex key"
-cons:
+cons: 
   - "Top tier's weight capacity (15 lbs) is limiting for larger ceramic pots"
   - "No rubber feet — can scratch tile or wood decking if moved without lifting"
+
 ---
 
 Let's be blunt: most plant stands on Amazon are flimsy wire baskets that wobble the moment you set a pot down. The Bamworld plant stand is not that. With a 4.5-star average across 225 ratings, this one's earned its place in the conversation — but it's not perfect, and you deserve to know where it cuts corners before you click buy.

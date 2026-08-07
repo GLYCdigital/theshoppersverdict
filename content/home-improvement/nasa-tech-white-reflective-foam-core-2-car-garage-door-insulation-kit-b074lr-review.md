@@ -1,4 +1,5 @@
 ---
+
 title: "NASA TECH White Reflective Foam Core 2 Car Garage Door Insul"
 seo_title: "NASA TECH White Reflective Foam Core 2 Car Garage  Review"
 meta_description: "Our full nasa tech white reflective foam core 2 car garage door insul review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B074LR5QF5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71je2+DSXRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your garage hits 110°F by 2 p.m. in July, you already know the problem: that thin steel door is a radiant heat magnet. The NASA TECH White Reflective Foam Core kit is a straightforward fix, and at a 4.3-star average from 215 ratings, it's one of the more proven options in this category. But it's not magic — here's what actually happens when you put it on your door.

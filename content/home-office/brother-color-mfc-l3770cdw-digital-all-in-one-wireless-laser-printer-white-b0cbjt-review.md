@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Color MFC-L3770CDW Digital All-in-One Wireless Laser"
 seo_title: "Brother MFC-L3770CDW Review: Color Laser All-in-One"
 meta_description: "Brother MFC-L3770CDW review: Is this color laser all-in-one worth it? Real pros, cons, and buying advice for home offices. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CBJT249N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618sg9tqDBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fast print speeds — up to 31 pages per minute in color, which beats most competitors in this class"
   - "Automatic duplex printing standard, cutting paper costs roughly in half for two-sided jobs"
   - "Toner costs are manageable with high-yield cartridges rated around 4,500 pages (black) and 4,000 pages (color)"
-cons:
+cons: 
   - "Setup can be finicky — several buyers report the wireless connection dropping or refusing to pair on first attempt"
   - "The 3.7-inch touchscreen feels dated and sluggish compared to newer Brother models"
   - "No USB cable included in the box, which is an annoying oversight for a printer at this price point"
+
 ---
 
 ## The Honest Take on Brother's Color Workhorse

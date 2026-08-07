@@ -1,13 +1,14 @@
 ---
+
 title: "Utopia Bedding Premium Hypoallergenic Waterproof Mattress Protector - Vinyl Free - Fitted Mattress Cover (Twin) by"
 seo_title: "Utopia Bedding Premium Review: Verdict (4.5/5) | TSV"
 meta_description: "Good quality item Good 55,233+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "utopia-bedding-premium-hypoallergenic-waterproof-mattress-protector-vinyl-free-fitted-mattress-cover-review"
 image_alt: "Utopia Bedding Premium Hypoallergenic Waterproof Mattress Protector - Vinyl Free - Fitted Mattress Cover (Twin) by"
-keywords:
+keywords: 
   - "utopia bedding premium review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Utopia Bedding Premium Hypoallergenic?"
     answer: "Good quality item Good quality That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Utopia Bedding Premium Hypoallergenic?"
@@ -21,12 +22,13 @@ review_count: 55233
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00MRH9NCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qmIzp3iIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good quality item Good quality."
   - "After washing, it still fits well and keeps its quality."
   - "The material is soft, quiet, and comfortable."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The Utopia Bedding Premium Hypoallergenic Waterproof is a popular choice - with 55,233 Amazon reviews behind it. Here is what buyers actually say.

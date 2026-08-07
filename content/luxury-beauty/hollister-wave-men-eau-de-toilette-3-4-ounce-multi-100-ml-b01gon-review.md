@@ -1,4 +1,5 @@
 ---
+
 title: "Hollister Wave Men Eau De Toilette, 3.4 Ounce, Multi, 100 ml"
 seo_title: "Hollister Wave Men Eau De Toilette, 3.4 Ounce, Mul Review"
 meta_description: "Our full hollister wave men eau de toilette, 3.4 ounce, multi, 100 ml review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01GONKCVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619QgDrcnLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Hollister Wave Men Eau De Toilette, 3.4 Ounce, Multi, 100 ml**

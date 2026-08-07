@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks Pro Brushless Electric Pressure Washer"
 seo_title: "Greenworks Pro Brushless Electric Pressure Washer Review:"
 meta_description: "Our full greenworks pro brushless electric pressure washer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FV2GTTWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of yanking a pull cord and mixing fuel for a pressure washer that weighs more than your lawnmower, the Greenworks Pro Brushless deserves a close look. This isn't another flimsy electric toy — it's a serious cleaning tool that takes on patio grime, driveway oil spots, and siding mildew without the gas-engine drama. With a 4.1-star average from 204 ratings, it's clear shoppers are finding real value here, but let's dig into whether it's the right pick for your specific cleaning needs.

@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO TBD Ideas 21330"
 seo_title: "LEGO TBD Ideas 21330 Review: Verdict | TSV"
 meta_description: "Our full lego tbd ideas 21330 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09P6TCWBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cv4P+1r-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Ideas 21330 — a set that's been sitting in your cart, taunting you with its 4.8-star rating and 240 glowing reviews. Here's the honest breakdown before you hit checkout.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Flippin' FROG"
 seo_title: "Flippin' FROG Review: Lawn Art That Flips Heads"
 meta_description: "Honest Flippin' FROG review: Does this flipping lawn ornament hold up outdoors? Real buyer feedback, durability concerns, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSLQV3TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ozU1PcQFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Articulated legs actually flip when nudged — a genuine conversation piece, not a static statue"
   - "Powder-coated metal construction survives rain and sun without rusting or fading"
   - "Weighs enough to stay put in wind but light enough to reposition easily"
-cons:
+cons: 
   - "Flip motion can be finicky on uneven ground — needs a flat, level spot to work reliably"
   - "Smaller than photos suggest; roughly the size of a large coffee mug"
+
 ---
 
 Some lawn ornaments sit there looking decorative. The Flippin' FROG does the opposite — it commits to the bit. When you bump it, nudge it, or a gust catches it just right, this little amphibian launches into a full somersault that genuinely startles first-time visitors. It's the kind of yard art that makes people stop mid-conversation and ask, "Wait, did that frog just flip?"

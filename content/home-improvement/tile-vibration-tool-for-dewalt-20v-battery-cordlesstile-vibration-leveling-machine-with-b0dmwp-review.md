@@ -1,4 +1,5 @@
 ---
+
 title: "Tile vibration tool for Dewalt 20V Battery, CordlessTile Vib"
 seo_title: "Tile vibration tool for Dewalt 20V Battery, Cordle Review"
 meta_description: "Our full tile vibration tool for dewalt 20v battery, cordlesstile vib review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMWP8QFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WzpJPNJGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever set 24x24 porcelain tile, you know the drill: mix thinset, back-butter, set, and pray you don't get lippage. The CordlessTile Vib for Dewalt 20V batteries attacks that last problem directly. This is a vibration plate that mounts to your existing Dewalt drill or impact driver, turning it into a tile-shaking leveling machine. At 4.3 stars across 215 ratings, it's clearly working for some folks — but let's dig into whether it works for you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kohler"
 seo_title: "Kohler Review: Verdict | TSV"
 meta_description: "Our full kohler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F283Y283/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x95y0o9tL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: Kohler charges a premium, and you need to know if you're paying for the name or paying for the product. I've tested this fixture against cheaper alternatives, and here's the honest breakdown.

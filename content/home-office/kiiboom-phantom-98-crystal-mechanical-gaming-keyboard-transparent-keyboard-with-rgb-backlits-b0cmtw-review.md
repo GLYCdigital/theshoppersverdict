@@ -1,4 +1,5 @@
 ---
+
 title: "KiiBoom Phantom 98 Crystal Mechanical Gaming Keyboard, Trans"
 seo_title: "KiiBoom Phantom 98 Crystal Mechanical Gaming Keybo Review"
 meta_description: "Our full kiiboom phantom 98 crystal mechanical gaming keyboard, trans review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMTWQP59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718qgng0YoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The first thing you'll notice about the KiiBoom Phantom 98 Crystal is that it looks like a prop from a sci-fi movie. The entire chassis — case, plate, and keycaps — is molded from frosted transparent polycarbonate. As shown in the product image, the RGB underglow bleeds through everything, creating a lava-lamp effect that's genuinely striking on a dark desk. At roughly $70 (street price varies), this is one of the most dramatic-looking boards in its price bracket.

@@ -1,7 +1,8 @@
 ---
-title: "MizWacky Ceiling Fans with Lights, 20\" Boho Ceiling Fan with"
-seo_title: "MizWacky Ceiling Fans with Lights, 20\" Boho Ceilin Review"
-meta_description: "Our full mizwacky ceiling fans with lights, 20\" boho ceiling fan with review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "MizWacky Ceiling Fans with Lights, 20\ Boho Ceiling Fan with"
+seo_title: "MizWacky Ceiling Fans with Lights, 20\ Boho Ceilin Review"
+meta_description: "Our full mizwacky ceiling fans with lights, 20\ boho ceiling fan with review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "mizwacky-ceiling-fans-with-lights-20-boho-ceiling-fan-with-light-flush-b0dhxj-review"
 image_alt: "MizWacky Ceiling Fans with Lights, 20 Boho Ceiling Fan with Light Flush Mount, Fabric Low rofile with 6 Speeds, Remote C"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHXJGMPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KH24ivXOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this 20-inch boho ceiling fan a design win or a functional compromise? Let's get into it.**

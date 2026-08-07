@@ -1,4 +1,5 @@
 ---
+
 title: "SKIL PWR CORE 40 Brushless 40V 20-Inch Mower Kit"
 seo_title: "SKIL PWR CORE 40 Brushless 40V 20-Inch Mower Kit Review: "
 meta_description: "Our full skil pwr core 40 brushless 40v 20-inch mower kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVG4RHS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Cordless Mower That Actually Feels Like a Gas Mower

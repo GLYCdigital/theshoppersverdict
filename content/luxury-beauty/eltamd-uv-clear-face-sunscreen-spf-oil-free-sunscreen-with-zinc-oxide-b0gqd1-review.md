@@ -1,4 +1,5 @@
 ---
+
 title: "EltaMD UV Clear Face Sunscreen SPF, Oil-Free Sunscreen with"
 seo_title: "EltaMD UV Clear Sunscreen Review: SPF 46 for Acne-Prone Skin"
 meta_description: "Read our honest EltaMD UV Clear face sunscreen review. Niacinamide, oil-free SPF 46 that won't clog pores. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQD15QLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VujbmVkyL._SL1500_.jpg"
-pros:
+pros: 
   - "Weightless, cosmetically elegant formula that disappears into skin without white cast"
   - "5% niacinamide helps calm redness and manage breakouts while protecting"
   - "Fragrance-free and oil-free — safe for rosacea and acne-prone skin types"
-cons:
+cons: 
   - "Premium price point — expect to pay $40+ for the 1.7 oz bottle"
   - "Can pill if layered over thick serums or moisturizers"
   - "Not water-resistant — needs reapplication after sweating or swimming"
+
 ---
 
 # EltaMD UV Clear Face Sunscreen SPF, Oil-Free Sunscreen with

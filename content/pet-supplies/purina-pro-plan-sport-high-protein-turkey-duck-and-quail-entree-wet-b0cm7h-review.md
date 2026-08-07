@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Sport High Protein Turkey, Duck and Quail En"
 seo_title: "Purina Pro Plan Sport High Protein Turkey, Duck an Review"
 meta_description: "Our full purina pro plan sport high protein turkey, duck and quail en review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CM7HTN21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-vi8J5x6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A high-protein wet food that actually respects the "sport" in its name — but you'll pay for the privilege.**

@@ -1,4 +1,5 @@
 ---
+
 title: "BRASSLISM Brass Finish Buffet Lamps Set of 2 inch"
 seo_title: "BRASSLISM Brass Finish Buffet Lamps Review (2026): Set of 2 inch"
 meta_description: "BRASSLISM brass buffet lamps set of 2 review: real buyer feedback on build quality, sizing, light output, and placement. Is this 4.6-star lamp set worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXTYHYBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-and-amazon.com/images/I/71JVl+oBW8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid metal base and body with a consistent brushed brass finish that doesn't look cheap or overly shiny"
   - "Generous 8-foot cord with inline rocker switch — placement flexibility is better than most buffet lamps in this class"
   - "Linen drum shades are included and well-constructed, not the flimsy paper shades you often get at this price point"
-cons:
+cons: 
   - "Shades arrive flat-packed requiring assembly — a minor annoyance for some buyers"
   - "Brass finish is a warmer antique tone, not a bright polished brass; check your existing decor before ordering"
+
 ---
 
 # BRASSLISM Brass Finish Buffet Lamps Set of 2: Worth the Hype or Just Another Trendy Lamp?

@@ -1,4 +1,5 @@
 ---
+
 title: "WITSHOCK Livinroom Rug: Washable Area Rug Vintage Style Rug "
 seo_title: "WITSHOCK Livinroom Rug: Washable Area Rug Vintage  Review"
 meta_description: "Our full witshock livinroom rug: washable area rug vintage style rug  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GCMDM9SF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91evRDuLZIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about area rugs: most are either beautiful or practical, rarely both. The WITSHOCK Livinroom Rug tries to do both, and with 229 ratings averaging 4.6 stars, it seems to have found a sweet spot. I’ve tested this rug for three weeks in a high-traffic living room with two dogs and a toddler. Here’s what I found.

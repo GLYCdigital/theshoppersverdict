@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LADYBUG 300 PCS Bendable Wax Craft Sticks, Imaginatio"
 seo_title: "PURPLE LADYBUG 300 PCS Bendable Wax Craft Sticks,  Review"
 meta_description: "Our full purple ladybug 300 pcs bendable wax craft sticks, imaginatio review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SJQ6LQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fkHfTUAAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your craft drawer is a graveyard of dried-out glue sticks and half-used pipe cleaner packs, the PURPLE LADYBUG 300 PCS Bendable Wax Craft Sticks might be the reset button you need. At $14.99 for 300 pieces, these aren't just another art supply — they're a genuinely different building medium that kids (and let's be honest, adults) will pick up and start twisting immediately.

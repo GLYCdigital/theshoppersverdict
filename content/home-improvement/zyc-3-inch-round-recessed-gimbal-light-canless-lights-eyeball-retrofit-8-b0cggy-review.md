@@ -1,4 +1,5 @@
 ---
+
 title: "ZYC 3 Inch Round Recessed Gimbal Light - Canless Lights Eyeb"
 seo_title: "ZYC 3 Inch Round Recessed Gimbal Light - Canless L Review"
 meta_description: "Our full zyc 3 inch round recessed gimbal light - canless lights eyeb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGGYG2RV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wbVfBRBDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **ZYC 3 Inch Round Recessed Gimbal Light - Canless Lights Eyeb** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,7 +1,8 @@
 ---
-title: "OKD Farmhouse Wine Bar Cabinet w/Sliding Barn Door, 54\" Kitc"
+
+title: "OKD Farmhouse Wine Bar Cabinet w/Sliding Barn Door, 54\ Kitc"
 seo_title: "OKD Farmhouse Wine Bar Cabinet w/Sliding Barn Door Review"
-meta_description: "Our full okd farmhouse wine bar cabinet w/sliding barn door, 54\" kitc review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full okd farmhouse wine bar cabinet w/sliding barn door, 54\ kitc review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "okd-farmhouse-wine-bar-cabinet-w-sliding-barn-door-54-kitchen-buffet-b0f2hx-review"
 image_alt: "OKD Farmhouse Wine Bar Cabinet w/Sliding Barn Door, 54 Kitchen Buffet w/Storage, Wine & Glass Rack, Drawers, Rustic Coff"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2HXTG82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814PKnlNByL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 So you've outgrown the countertop wine rack and need something that actually looks like it belongs in your dining room. The OKD Farmhouse Wine Bar Cabinet at 54 inches wide is trying to be the piece that bridges rustic charm and practical storage. Here's what 229 buyers found when they unboxed it.

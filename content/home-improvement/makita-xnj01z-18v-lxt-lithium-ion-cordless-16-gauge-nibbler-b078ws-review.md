@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XNJ01Z 18V LXT Lithium-Ion Cordless 16 Gauge Nibbler"
 seo_title: "Makita XNJ01Z 18V LXT Lithium-Ion Cordless 16 Gaug Review"
 meta_description: "Our full makita xnj01z 18v lxt lithium-ion cordless 16 gauge nibbler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078WSPNFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FaIRDu76L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XNJ01Z isn't a tool you'll use every day. But when you need to cut corrugated metal roofing, ductwork, or 16-gauge steel without the sparks, heat, and warping of an angle grinder, this cordless nibbler earns its place in your box. It's one of those specialized tools you don't realize you need until you've spent an afternoon fighting a grinder on a sheet of galvanized steel.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wet Brush Original Detanglers - Main"
 seo_title: "Wet Brush Original Detanglers - Main Review: Verdict | TS"
 meta_description: "Our full wet brush original detanglers - main review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQF484D6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SgitFqdXL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Wet Brush Original has been a drugstore staple for over a decade, but with 235 ratings averaging 4.7 stars, it's clearly still earning its place in shower caddies. I tested this against three hair types—fine straight, thick wavy, and curly—to see if the hype holds up.

@@ -1,4 +1,5 @@
 ---
+
 title: "MXIMU Round Outdoor Side Table Adirondack Tables 18 Inch Cha"
 seo_title: "MXIMU Round Outdoor Side Table Adirondack Tables 1 Review"
 meta_description: "Our full mximu round outdoor side table adirondack tables 18 inch cha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C2V1JS5B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t04oTRvmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 18-inch patio table that disappears into your deck — until you need it**

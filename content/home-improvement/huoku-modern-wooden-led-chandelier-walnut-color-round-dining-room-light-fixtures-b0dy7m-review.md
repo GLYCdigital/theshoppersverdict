@@ -1,4 +1,5 @@
 ---
+
 title: "HUOKU Modern Wooden LED Chandelier Walnut Color Round Dining"
 seo_title: "HUOKU Modern Wooden LED Chandelier Walnut Color Ro Review"
 meta_description: "Our full huoku modern wooden led chandelier walnut color round dining review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DY7M7X96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617X6RAoSlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past the same brass-and-glass chandeliers for weeks, the Huoku Wooden LED Chandelier stops the scroll. It’s a round, walnut-toned disc that hangs like a modern halo over your table — equal parts Scandinavian minimalism and Japanese wabi-sabi warmth. At this price, it’s competing with flat-pack junk, but the material choice and light quality punch well above that class.

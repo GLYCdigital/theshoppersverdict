@@ -1,4 +1,5 @@
 ---
+
 title: "Adeco Ottomans, Rectangular Storage Bench, Footstools Foot R"
 seo_title: "Adeco Storage Ottoman Review: 4.6-Star Bench & Footstool"
 meta_description: "Honest Adeco rectangular storage bench review: upholstery, 260-lb capacity, hidden storage, and real buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWF9DWHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kVud2l4EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hidden storage compartment fits several blankets or a full set of throw pillows — genuinely useful, not a token bin"
   - "Sturdy 260-lb weight capacity holds up to adults sitting or kneeling without frame flex or wobble"
   - "Upholstery is a soft, durable linen-feel fabric that resists pilling and cleans easily with a damp cloth"
-cons:
+cons: 
   - "Assembly requires a hex wrench (included) and roughly 15 minutes — the legs screw in, but you'll want a second person to flip it upright"
   - "Fabric color can look slightly darker in person than in product photos, especially for the gray option"
+
 ---
 
 ## The multi-tasker your living room didn't know it needed

@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Lift Up Storage Bed, Full Bed Frame with Storage Un"
 seo_title: "AMERLIFE Lift Up Storage Bed Review: Full Frame With Storage"
 meta_description: "AMERLIFE lift up storage bed review: gas piston mechanism, solid wood slats, and real under-bed space. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7HF6SBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v9rOcFq5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gas piston lift mechanism lets one person raise the bed deck with minimal effort — no hydraulic pump or manual cranking"
   - "Solid wood slats spaced closely enough to support a memory foam mattress without a box spring"
   - "Generous under-bed storage volume roughly equivalent to a large dresser, accessible without removing bedding"
-cons:
+cons: 
   - "Assembly requires two people and about 90 minutes — the lift mechanism adds complexity over a standard frame"
   - "Full size frame has a 600 lb weight capacity, but the storage compartment is not divided — small items shift around when the bed is lowered"
+
 ---
 
 If you live in a space where every square foot costs rent, the AMERLIFE Lift Up Storage Bed is the furniture equivalent of finding a secret room. This full-size frame hides a massive compartment under the mattress that you can access by simply lifting the deck — no moving the bed, no crawling underneath, no wrestling with a box spring.

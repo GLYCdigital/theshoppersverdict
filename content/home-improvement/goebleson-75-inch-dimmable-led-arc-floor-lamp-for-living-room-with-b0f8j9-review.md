@@ -1,4 +1,5 @@
 ---
+
 title: "GOEBLESON 75 inch Dimmable LED Arc Floor Lamp for Living Roo"
 seo_title: "GOEBLESON 75 inch Dimmable LED Arc Floor Lamp for  Review"
 meta_description: "Our full goebleson 75 inch dimmable led arc floor lamp for living roo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8J9Z6RS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gFyEqGN5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The GOEBLESON 75" Arc Lamp: The $90 Solution to Overhead Lighting That's Too Harsh**

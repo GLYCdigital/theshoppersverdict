@@ -1,4 +1,5 @@
 ---
+
 title: "Viking Professional Journeyman 300D Trilobal Rip-Stop Fire R"
 seo_title: "Viking Professional Journeyman 300D Trilobal Rip-S Review"
 meta_description: "Our full viking professional journeyman 300d trilobal rip-stop fire r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BFYFQ6Y4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51u0rv6F9lL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what these are: fire-resistant bib overalls for people who actually work around arc flash, welding sparks, or open flame. Not a fashion statement. With 225 Amazon ratings holding a 4.5-star average, the Viking Professional Journeyman 300D has clearly earned its place in the FR workwear conversation. But is it the right pair for *your* job? Here's what I found digging through owner feedback and the spec sheet.

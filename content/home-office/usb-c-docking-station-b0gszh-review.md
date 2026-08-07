@@ -1,4 +1,5 @@
 ---
+
 title: "USB C Docking Station"
 seo_title: "USB C Docking Station Review: Verdict | TSV"
 meta_description: "Our full usb c docking station review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSZHDP8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sH69mRp0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the chase: most USB-C docks under $100 are either flimsy plastic dongles or they choke when you plug in a second monitor. This one — the B0GSZH — sits at 4.4 stars across 220 ratings for a reason. It actually does what the listing promises. Here’s the breakdown.

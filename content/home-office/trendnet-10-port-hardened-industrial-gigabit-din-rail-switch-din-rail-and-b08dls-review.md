@@ -1,4 +1,5 @@
 ---
+
 title: "TRENDnet 10-Port Hardened Industrial Gigabit DIN-Rail Switch"
 seo_title: "TRENDnet 10-Port Hardened Industrial Gigabit DIN-R Review"
 meta_description: "Our full trendnet 10-port hardened industrial gigabit din-rail switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B08DLS9S17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pEDZ8TnNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If your workspace involves dust, vibration, temperature swings, or the occasional forklift bump, this is the switch you want on your wall. The TRENDnet 10-Port Hardened Industrial Gigabit DIN-Rail Switch (model TEG-7109) isn't pretty — it's a slab of metal designed to be bolted to a rail and forgotten for a decade. But for that specific job, it's nearly perfect. At 4.9/5 stars from 245 buyers, the consensus is clear: this thing just works.

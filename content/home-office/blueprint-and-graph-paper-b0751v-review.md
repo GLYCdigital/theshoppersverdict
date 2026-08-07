@@ -1,4 +1,5 @@
 ---
+
 title: "Blueprint and Graph Paper"
 seo_title: "Blueprint and Graph Paper Review: Is It Worth It?"
 meta_description: "Honest Blueprint and Graph Paper review: quality, durability, and value. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0751VWW8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RcicFWEOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Grid lines print crisp and dark enough to see clearly, but light enough not to obscure pencil or pen work"
   - "Paper weight handles both fountain pens and heavy-handed markers without bleed-through on most pages"
   - "Perforated edges tear cleanly — no jagged rips or torn corners when you need a single sheet"
-cons:
+cons: 
   - "Some buyers report the pad's cardboard backing bends easily if you carry it loose in a bag"
   - "Grid spacing isn't labeled on the cover — you'll need to measure to confirm you got the size you ordered"
+
 ---
 
 Let's be blunt: most grid paper on Amazon is either too thin, too faint, or too expensive for what you get. This Blueprint and Graph Paper pad sits in the middle of that market, and after digging through 235 ratings and the specifics of how it's made, here's what actually matters.

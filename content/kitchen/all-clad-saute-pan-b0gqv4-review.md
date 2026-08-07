@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad Saute Pan"
 seo_title: "All-Clad Saute Pan Review: Worth the Hype? (2026)"
 meta_description: "Honest All-Clad saute pan review: performance, durability, and downsides. See if this 4.7-star workhorse belongs in your kitchen before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQV4VJWH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617cwLSiMOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply bonded construction delivers even heat with zero hot spots, even across a 12-inch cooking surface"
   - "Oven-safe up to 600°F including the lid — sears on stovetop, finishes in oven without swapping pans"
   - "Flared rim pours cleanly with no drips; riveted stainless handle stays cool on the stovetop longer than most"
-cons:
+cons: 
   - "Stainless surface requires technique — food sticks if you skip proper preheating and oil"
   - "Heavy pan (4.5 lbs empty) strains wrists during quick tosses; not ideal for one-handed cooking"
   - "Hand-wash only despite dishwasher-safe claims — expect water spots if you risk the dishwasher"
+
 ---
 
 The All-Clad saute pan is the pan you buy once and hand down to someone who actually cooks. With a 4.7-star average across 235 ratings, it's clearly doing something right — but is it right for *you*? Let's break down what you're actually paying for.

@@ -1,23 +1,25 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Roasted Unsalted Almonds,"
 seo_title: "365 Organic Roasted Unsalted Almonds Review: Honest Look"
 meta_description: "365 Whole Foods Organic Roasted Unsalted Almonds review: crunch, taste, value. See pros, cons, and who should buy these 10-oz nuts."
 slug: "365-by-whole-foods-market-organic-roasted-unsalted-almonds-10-ounce-b0ddtf-review"
 image_alt: "Bag of 365 by Whole Foods Market Organic Roasted Unsalted Almonds"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDTF48VS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RALF81LRL._SL1000_.jpg"
-pros:  
+pros: 
   - "Dry-roasted for even, consistent crunch without added oils"  
   - "Certified organic, unsalted — clean ingredient list with zero additives"  
   - "10-ounce resealable bag keeps almonds fresh for weeks"  
-cons:  
+cons: 
   - "No salt means flavor is flat for those used to seasoned nuts"  
   - "Some bags arrive with broken pieces and dust at the bottom"
+
 ---
 
 You’re staring at a 10-ounce bag of almonds that costs about the same as a fancy latte. The question isn’t whether almonds are good for you — it’s whether *these* almonds earn your pantry space. After digging through 229 ratings and the product specs, here’s the real story on 365 by Whole Foods Market Organic Roasted Unsalted Almonds.

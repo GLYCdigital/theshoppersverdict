@@ -1,4 +1,5 @@
 ---
+
 title: "Livex Lighting Meridian 24 Inch Wide 5 Light Large Pendant"
 seo_title: "Livex Lighting Meridian 24 Inch Wide 5 Light Large Review"
 meta_description: "Our full livex lighting meridian 24 inch wide 5 light large pendant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01N5HIKZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71azFdeuHCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a dining room pendant that actually commands attention, the Livex Lighting Meridian 24-inch five-light fixture is the kind of piece that makes guests ask where you got it. At 24 inches wide with five seeded glass shades arranged in a circular cluster, this isn't a subtle accent — it's the anchor of the room.

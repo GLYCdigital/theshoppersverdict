@@ -1,4 +1,5 @@
 ---
+
 title: "IAMS Proactive Health"
 seo_title: "IAMS Proactive Health Review: Verdict | TSV"
 meta_description: "Our full iams proactive health review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FH19RG98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YDEpQuQJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'll be straight with you: there's no shortage of dog food brands screaming for your attention on Amazon. But IAMS Proactive Health has quietly racked up a 4.7-star average from 235 buyers — and that kind of consistency doesn't happen by accident. This is the adult maintenance kibble that's been a vet-shelf staple for decades, and the current formula deserves a closer look if you're tired of overpriced boutique brands.

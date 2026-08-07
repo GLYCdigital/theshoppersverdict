@@ -1,4 +1,5 @@
 ---
+
 title: "WILSON GST Composite Footballs"
 seo_title: "WILSON GST Composite Footballs Review: Verdict | TSV"
 meta_description: "Our full wilson gst composite footballs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZ7R56G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FpV3qFtTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most footballs under $30 feel like inflatable pool toys — slick plastic shells that slip out of your hands the moment you break a sweat. The WILSON GST Composite is not that ball. It's the rare budget option that actually respects the fundamentals of throwing and catching, which explains the 4.6-star rating across 229 reviews.

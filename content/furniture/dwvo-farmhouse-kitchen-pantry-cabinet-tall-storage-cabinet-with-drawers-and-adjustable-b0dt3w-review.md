@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Farmhouse Kitchen Pantry Cabinet, Tall Storage Cabinet"
 seo_title: "DWVO Farmhouse Pantry Cabinet Review: Tall Storage Worth It?"
 meta_description: "DWVO Farmhouse Kitchen Pantry Cabinet review: 4.3-star tall storage with drawers & adjustable shelves. Read pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DT3W13P8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817OTCnMAGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable interior shelves let you reconfigure storage for cereal boxes, small appliances, or tall bottles without tools"
   - "Farmhouse X-panel door design adds character for roughly half the price of comparable Wayfair or Crate & Barrel units"
   - "Two smooth-glide drawers at the base handle awkward items like foil rolls, spice packets, and baking sheets"
-cons:
+cons: 
   - "Assembly takes a solid 60–90 minutes with two people; cam locks are sturdy but the instructions have a few unclear steps"
   - "Back panel is thin MDF — fine once anchored to the wall, but it will wobble if you skip the anti-tip bracket"
   - "White finish scuffs easily during setup; touch-up paint is included, but you'll want to be careful with metal utensils"
+
 ---
 
 If your kitchen looks like a food pantry exploded, the DWVO Farmhouse Tall Storage Cabinet is the 30-inch-wide intervention you've been eyeing. With 215 Amazon ratings averaging 4.3 stars, this isn't a flash-in-the-pan product — it's a legit contender for anyone drowning in dry goods. But it's not without quirks. Let's dig into whether this cabinet earns a spot in your home or just takes up floor space.

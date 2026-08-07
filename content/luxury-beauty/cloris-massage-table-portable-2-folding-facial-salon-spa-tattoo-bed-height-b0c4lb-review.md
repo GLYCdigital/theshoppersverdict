@@ -1,4 +1,5 @@
 ---
+
 title: "CLORIS Massage Table Portable 2 Folding Facial Salon Spa Tat"
 seo_title: "CLORIS Portable Massage Table Review: 2-Fold Spa Bed"
 meta_description: "CLORIS portable massage table review: 2-fold folding design, weight capacity, and real user feedback. Is this spa bed worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C4LBVP6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fEVB7s9QL._SL1300_.jpg"
-pros:
+pros: 
   - "Folds in half to roughly 32x23x10 inches — fits in most car trunks and comes with a padded carry bag"
   - "Rated for 450 lbs static weight, which is unusually high for a sub-$200 portable table"
   - "Face cradle and armrests included; no need to buy accessories separately"
-cons:
+cons: 
   - "Legs use plastic quick-release levers — several reviewers report they loosen during use and need periodic tightening"
   - "Foam density is medium-soft; heavier clients may feel the plywood base beneath the padding"
   - "Carrying bag is functional but thin — a zipper pull broke on one reviewer after about three months of weekly use"
+
 ---
 
 Let’s be direct: most portable massage tables under $200 are flimsy, wobbly, and feel like they’ll collapse mid-session. The CLORIS 2-Fold Portable Massage Table isn’t that — but it’s also not a $600 Oakworks. Here’s where it actually lands after digging through 215 ratings and real customer experiences.

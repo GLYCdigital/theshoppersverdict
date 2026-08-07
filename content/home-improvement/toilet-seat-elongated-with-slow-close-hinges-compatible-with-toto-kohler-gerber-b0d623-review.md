@@ -1,4 +1,5 @@
 ---
+
 title: "Toilet Seat Elongated with Slow Close Hinges Compatible with"
 seo_title: "Toilet Seat Elongated with Slow Close Hinges Compa Review"
 meta_description: "Our full toilet seat elongated with slow close hinges compatible with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D6231F6C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lHQaND6sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: buying a generic replacement toilet seat to fit a Toto, Kohler, or Gerber feels like a gamble. Toilet bowls aren't standardized, and "universal" often means "fits nothing perfectly." This elongated seat with slow-close hinges claims compatibility across the big three brands — and after digging through 200 ratings, the picture is more nuanced than the listing suggests.

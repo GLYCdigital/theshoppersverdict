@@ -1,4 +1,5 @@
 ---
+
 title: "PG-260 XL CL-261 XL Ink Cartridges Replacement for Canon 260"
 seo_title: "PG-260 XL CL-261 XL Ink Cartridges Replacement for Review"
 meta_description: "Our full pg-260 xl cl-261 xl ink cartridges replacement for canon 260 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK1GZ3YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B8n71RntL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: Canon's OEM ink pricing is a racket. A full set of PG-260 and CL-261 originals will set you back nearly the price of a new printer. So when a compatible set undercuts that by 40-50% while promising XL page yields, you're right to be skeptical. I've tested these replacements extensively, and here's what actually matters.

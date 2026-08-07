@@ -1,4 +1,5 @@
 ---
+
 title: "Scenekoy Natural Alabaster Table Lamps"
 seo_title: "Scenekoy Natural Alabaster Table Lamps Review: Verdict | "
 meta_description: "Our full scenekoy natural alabaster table lamps review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FRXH1XQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KNNIK+hzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Scenekoy Natural Alabaster Table Lamps: Honest Review After 229 Ratings

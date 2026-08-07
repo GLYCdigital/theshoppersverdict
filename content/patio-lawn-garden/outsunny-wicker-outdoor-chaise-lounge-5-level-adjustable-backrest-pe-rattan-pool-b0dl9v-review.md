@@ -1,4 +1,5 @@
 ---
+
 title: "Outsunny Wicker Outdoor Chaise Lounge, 5-Level Adjustable Ba"
 seo_title: "Outsunny Wicker Outdoor Chaise Lounge, 5-Level Adj Review"
 meta_description: "Our full outsunny wicker outdoor chaise lounge, 5-level adjustable ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DL9VW1LQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hvmCxAO5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a chaise lounge that won't disintegrate after one humid summer, the Outsunny Wicker Outdoor Chaise Lounge deserves a hard look. With a 4.2-star average across 210 Amazon ratings, it's not the flashiest option out there — but it's quietly earning its place on patios and pool decks.

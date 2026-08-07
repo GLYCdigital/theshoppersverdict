@@ -1,4 +1,5 @@
 ---
+
 title: "Dock Edge Twin Eye, Dolphin Boat Fenders, Ribbed, 2-Pack wit"
 seo_title: "Dock Edge Twin Eye Dolphin Fenders Review: 2-Pack Tested"
 meta_description: "Dock Edge Twin Eye Dolphin fenders review: real-world protection tests, sizing guide, and honest tradeoffs for boats up to 30 feet. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGNCL2R5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M8FHbIL3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin-eye design lets you hang vertically or horizontally without extra hardware"
   - "Ribbed vinyl surface reduces dock contact friction and minimizes hull scuffing"
   - "Reinforced molded eyes hold up under sustained wave action — no tearing reported"
-cons:
+cons: 
   - "Size runs small — the 6.5x26-inch model suits jet boats and skiffs, not cruisers"
   - "Valves are finicky; some buyers report slow inflation needing a pump adapter"
   - "2-pack only — larger boats will need to buy two sets for proper coverage"
+
 ---
 
 Let me cut to the chase: if you dock a 20-foot bowrider or a pontoon in a slip with any current, you already know the pain of watching your gel coat kiss a concrete piling. The Dock Edge Twin Eye Dolphin fenders are a solid, no-drama answer — with a couple of caveats worth your attention before you add to cart.

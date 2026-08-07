@@ -1,4 +1,5 @@
 ---
+
 title: "Cephalofair Games | Frosthaven | Board Game | Ages 14+ | 1-4 inch"
 seo_title: "Frosthaven Board Game Review (2026): Worth It? | Cephalofair"
 meta_description: "Frosthaven board game review: 4.6/5 rating. Is this 100+ hour legacy campaign worth your money? We break down gameplay, components, and who should buy it."
@@ -11,16 +12,17 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08FK7B2SC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81huEJXkxfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive 100+ hour campaign with genuinely branching storylines that respond to player choices"
   - "Tight, tactical combat with the innovative card-driven initiative system that rewards smart planning"
   - "Outstanding component quality — thick cardboard, detailed miniatures, and an enormous box that's actually well-organized"
   - "New outpost phase adds meaningful town-building decisions between scenarios, giving the campaign real strategic depth"
-cons:
+cons: 
   - "Extremely high setup and teardown time — expect 20-30 minutes before and after each session"
   - "Table space required is significant; you'll need at least a 3x5 foot area just for the main board and player mats"
   - "Rulebook is dense and occasionally poorly organized — you'll reference the FAQ and online forums regularly, especially early on"
   - "Not beginner-friendly; if you haven't played Gloomhaven, expect a steep learning curve that can frustrate casual groups"
+
 ---
 
 ## Frosthaven Review: The Colossus of Board Gaming, Weighed and Measured

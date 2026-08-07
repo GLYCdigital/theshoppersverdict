@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Imperial Blowout Transformative Styling Cream - Volumi"
 seo_title: "Oribe Imperial Blowout Transformative Styling Crea Review"
 meta_description: "Our full oribe imperial blowout transformative styling cream - volumi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08SDQ3WXD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R6IpYEjhL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Oribe Imperial Blowout Transformative Styling Cream — Volumi: A $50 Blowout in a Jar?**

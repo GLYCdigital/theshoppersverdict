@@ -1,16 +1,17 @@
 ---
+
 title: "Pour Over Ceramic - Coffee Dripper Ceramic Coffee Maker with 3 Holes Flat Bottom, Porcelain Slow Filter Cone for Travel, Camping, Office, Home, Coffee Maker Brew, Pink"
 seo_title: "Pour Over Ceramic Review: Verdict (4.5/5) | TSV"
 meta_description: "Honest pour over ceramic - coffee dri review 1,021+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "pour-over-ceramic-coffee-dripper-ceramic-coffee-maker-with-3-holes-flat-review"
 image_alt: "Pour Over Ceramic - Coffee Dripper Ceramic Coffee Maker with 3 Holes Flat Bottom, Porcelain Slow Filter Cone for Travel,"
-keywords:
+keywords: 
   - "pour over ceramic review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the Pour Over Ceramic -?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Is the Pour Over Ceramic - durable for daily use?"
@@ -21,10 +22,11 @@ review_count: 1021
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW8X97ZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612OWtZmuAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Look, you don't need a $200 espresso machine to drink better coffee. This $14 ceramic dripper proves it. The Pour Over Ceramic Coffee Dripper is a flat-bottom, three-hole cone that mimics the geometry of a $40 Kalita Wave at a fraction of the price. And for most home brewers, it'll be the last pour-over device you buy.

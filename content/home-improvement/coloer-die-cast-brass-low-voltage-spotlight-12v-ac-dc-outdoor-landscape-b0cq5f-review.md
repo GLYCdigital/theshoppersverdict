@@ -1,4 +1,5 @@
 ---
+
 title: "COLOER Die-cast Brass Low Voltage Spotlight,12V AC/DC Outdoo"
 seo_title: "COLOER Brass Low Voltage Spotlight Review: Worth It? (2026)"
 meta_description: "Honest COLOER die-cast brass 12V landscape spotlight review. Tested for durability, beam quality & value. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ5FF95F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AFFrs0mkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid die-cast brass housing with sealed gaskets — won't rust, crack, or fog up like cheap plastic fixtures"
   - "Wide 15°-60° beam angle adjustability with rotating shroud for precise accent lighting"
   - "True 12V AC/DC compatibility means it works with virtually any existing low-voltage transformer"
-cons:
+cons: 
   - "Bulbs not included — you'll need to buy MR16 or GU5.3 LED bulbs separately, adding $10-15 per fixture"
   - "Shroud rotation is stiff out of the box; loosening the set screw helps but takes a tiny hex key"
   - "No in-box mounting stake for hard-packed soil — you'll want a shovel or metal stake for clay ground"
+
 ---
 
 # COLOER Die-cast Brass Low Voltage Spotlight: The Last Landscape Light You'll Buy?

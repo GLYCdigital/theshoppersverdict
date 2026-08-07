@@ -1,4 +1,5 @@
 ---
+
 title: "Kingston NV"
 seo_title: "Kingston NV Review: Verdict | TSV"
 meta_description: "Our full kingston nv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DV7CSF6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lCFgczaBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: the Kingston NV is a piece of workspace gear that's earned its 4.8-star rating across 240 reviews for a reason. It's not flashy, it doesn't promise to transform your productivity, and that's exactly why it works.

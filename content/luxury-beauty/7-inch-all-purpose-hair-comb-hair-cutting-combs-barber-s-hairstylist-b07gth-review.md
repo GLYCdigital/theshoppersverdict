@@ -1,4 +1,5 @@
 ---
+
 title: "7 inch All Purpose Hair Comb. Hair Cutting Combs. Barberâ€™s"
 seo_title: "7-Inch All Purpose Hair Comb Review: Barber-Grade Cutting Tool"
 meta_description: "Honest 7-inch all purpose hair comb review: barber-grade cutting precision, heat-safe build, and everyday utility. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07GTH16SH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fTOBoqJNL._SS40_.jpg"
-pros:
+pros: 
   - "Precision-machined teeth with zero snagging—clean sections every time, even on wet hair"
   - "Heat-resistant build that survives blow-dryer proximity without warping or melting"
   - "Ergonomic 7-inch length balances control for detailed work with enough reach for full-head passes"
-cons:
+cons: 
   - "Teeth are finer than expected—not ideal for very thick, coarse, or heavily textured hair"
   - "No anti-static treatment; dry winter hair will cause some flyaway cling"
+
 ---
 
 Let's be honest: most combs are an afterthought. You grab whatever's in the drawer, use it until it breaks, and replace it with another $3 throwaway. The 7-inch All Purpose Hair Comb from Barber's Hairstylist is not that comb. At 4.7 stars across 235 ratings, it's clearly earning its place in professional kits and home bathrooms alike. But is it worth upgrading your drawer? Here's the real breakdown.

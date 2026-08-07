@@ -1,4 +1,5 @@
 ---
+
 title: "DICTAC 10 Drawers Dresser"
 seo_title: "DICTAC 10 Drawers Dresser Review: Sturdy or Sketchy?"
 meta_description: "DICTAC 10 Drawers Dresser review: 190 ratings at 3.8 stars. Is this fabric storage tower worth it? Real pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D8J45WCK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LMPVSIgfL._SS180_.png"
-pros:
+pros: 
   - "Ten separate drawers give serious organizational firepower for a footprint under 24 inches wide"
   - "Steel frame with crossbars adds genuine stability that most fabric dressers lack"
   - "Tool-free assembly takes under 15 minutes — no screwdriver required"
-cons:
+cons: 
   - "Drawers are non-woven fabric that stretches and sags with heavy items"
   - "No drawer stops — pull too hard and the whole bin comes out"
   - "Top surface isn't load-rated for decor; keep it light"
+
 ---
 
 Let's be honest about what the DICTAC 10 Drawers Dresser is: a lightweight, fabric-based storage tower for people who need organized space without paying solid-wood prices. At 3.8 stars across 190 ratings, it's not blowing anyone's mind — but it's also not getting returned in droves. Here's the real breakdown.

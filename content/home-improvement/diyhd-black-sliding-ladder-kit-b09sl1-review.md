@@ -1,4 +1,5 @@
 ---
+
 title: "DIYHD Black Sliding Ladder Kit Review"
 seo_title: "DIYHD Black Sliding Ladder Kit Review (2026): Worth It?"
 meta_description: "DIYHD Black Sliding Ladder Kit review: build quality, installation ease, real buyer feedback. Is this library ladder kit worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09SL1KH1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91pi9nGE74L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel construction with smooth-gliding ball-bearing wheels rated for 330 lbs"
   - "Complete kit includes rails, ladder, hardware, and stoppers — no piecemeal sourcing"
   - "Adjustable ladder width (16-22 inches) fits most standard shelf depths"
-cons:
+cons: 
   - "Instructions are sparse — expect to watch YouTube tutorials before tackling install"
   - "Black finish scratches easily if you're rough with tools during mounting"
   - "Floor brake requires a firm stomp; some users report it doesn't always catch on carpet"
+
 ---
 
 A sliding library ladder kit is one of those purchases that looks simple in the product photo and turns into a weekend project the moment the box arrives. The DIYHD Black Sliding Ladder Kit sits in that sweet spot between budget hardware and custom furniture — but is it worth the $400-ish investment? Here's what 200 buyers have to say, plus what you need to know before you commit.

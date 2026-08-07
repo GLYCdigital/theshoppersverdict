@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde Fire Extinguisher for Home & Office Use, 5-B:C, 3.2 Lb"
 seo_title: "Kidde Fire Extinguisher for Home & Office Use, 5-B Review"
 meta_description: "Our full kidde fire extinguisher for home & office use, 5-b:c, 3.2 lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CS429N3G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nDfuZKngL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the safety-equipment confusion: this Kidde 5-B:C extinguisher is not the all-purpose unit most people think they're buying. It's specifically rated for flammable liquids (Class B) and electrical fires (Class C) — think grease fires in the kitchen, a toaster shorting out, or a breaker panel sparking. It will not handle a burning bookshelf or trash can.

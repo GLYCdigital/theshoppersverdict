@@ -1,4 +1,5 @@
 ---
+
 title: "Leeshyah 5-Section Wooden Toy Shelf for Kids, Montessori She"
 seo_title: "Leeshyah 5-Section Wooden Toy Shelf for Kids, Mont Review"
 meta_description: "Our full leeshyah 5-section wooden toy shelf for kids, montessori she review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTGFJ66L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PAhxWZ7vL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your living room currently looks like a toy store exploded, you've probably already searched "Montessori shelf" and found a hundred options ranging from $40 particleboard kits to $300 solid-wood heirlooms. The Leeshyah 5-Section Wooden Toy Shelf sits firmly in the practical middle — and after digging through 215 ratings and the actual product specs, here's the honest breakdown.

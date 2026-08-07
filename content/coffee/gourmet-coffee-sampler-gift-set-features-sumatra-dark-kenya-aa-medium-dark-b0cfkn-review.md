@@ -1,4 +1,5 @@
 ---
+
 title: "Gourmet Coffee Sampler Gift Set, Features Sumatra Dark, Keny"
 seo_title: "Gourmet Coffee Sampler Gift Set, Features Sumatra  Review"
 meta_description: "Our full gourmet coffee sampler gift set, features sumatra dark, keny review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CFKNCZP5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jobeImANL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this sampler worth your money, or just another pretty box of beans?** I've tested dozens of coffee gift sets, and most prioritize packaging over product. This one flips that script — but not without a couple of caveats.

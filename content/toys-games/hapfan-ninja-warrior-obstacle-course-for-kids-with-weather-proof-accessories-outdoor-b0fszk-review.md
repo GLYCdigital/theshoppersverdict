@@ -1,4 +1,5 @@
 ---
+
 title: "Hapfan Ninja Warrior Obstacle Course for Kids with Weather-P"
 seo_title: "Hapfan Ninja Warrior Obstacle Course Review: Worth It?"
 meta_description: "Honest review of the Hapfan Ninja Warrior Obstacle Course for Kids — build quality, weather-proofing, safety, and who should buy. 4.5-star rated."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FSZK6V9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Yl+BuXDFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weather-proof accessories that actually survive rain and sun exposure without rusting or fading"
   - "Multiple obstacle configurations keep kids engaged well beyond the first week"
   - "Solid steel frame with reinforced joints handles rough play from multiple kids at once"
-cons:
+cons: 
   - "Assembly requires two adults and a solid 90 minutes — not a quick weekend setup"
   - "Base footprint is larger than the product photos suggest; measure your yard first"
+
 ---
 
 **A backyard ninja course that earns its keep — if you have the space and patience to assemble it.**

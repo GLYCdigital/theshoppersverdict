@@ -1,4 +1,5 @@
 ---
+
 title: "Tiffany & Love By Tiffany Eau De Parfum Spray 1.6 Oz (Women)"
 seo_title: "Tiffany & Love By Tiffany Eau De Parfum Spray 1.6  Review"
 meta_description: "Our full tiffany & love by tiffany eau de parfum spray 1.6 oz (women) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLZ481H7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41oi+ZxXvQL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tiffany name carries weight. But does the scent inside this iconic blue box actually deliver?**

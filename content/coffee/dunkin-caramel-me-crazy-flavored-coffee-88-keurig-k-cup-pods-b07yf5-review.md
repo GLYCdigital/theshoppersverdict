@@ -1,4 +1,5 @@
 ---
+
 title: "Dunkin' Caramel Me Crazy Flavored Coffee, 88 Keurig K-Cup Po"
 seo_title: "Dunkin' Caramel Me Crazy K-Cup Review: 88 Pods Worth It?"
 meta_description: "Dunkin' Caramel Me Crazy K-Cup review: 88 pods, 4.6 stars. Real taste test, caffeine level, and value breakdown for Keurig owners."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YF5GKSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JlaL+bW8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Caramel flavor is present but not cloying — tastes like coffee first, dessert second"
   - "88 pods works out to roughly $0.50–0.60 per cup depending on current pricing"
   - "Consistent medium roast body that holds up to milk and sweetener without washing out"
-cons:
+cons: 
   - "Flavor intensity varies noticeably between the first and last pods in the box"
   - "No caffeine content listed on packaging — estimated around 150mg but unverified"
+
 ---
 
 Let's be honest about flavored coffee: most of it tastes like a candle shop exploded in your mug. Dunkin's Caramel Me Crazy isn't that. This is a legitimate medium roast with caramel as a supporting note, not the main event. After running through a full box of these 88 K-Cups, here's what you need to know before committing to the bulk purchase.

@@ -1,4 +1,5 @@
 ---
+
 title: "Annual Vehicle Inspection Report Form - Snap-Out Format, 3-P"
 seo_title: "Annual Vehicle Inspection Report Form Review (3-Ply)"
 meta_description: "Honest review of the 3-part carbonless Annual Vehicle Inspection Report Form. See if this snap-out format actually simplifies fleet paperwork."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B084YSHKKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cDae3wwZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Carbonless 3-ply design eliminates smudged copies and the mess of carbon paper"
   - "Snap-out format with perforated edges allows quick one-handed separation in the field"
   - "Comprehensive checklist covers DOT-style inspection points without being overly cluttered"
-cons:
+cons: 
   - "No storage box included — loose pads can get bent in a glovebox or truck cab"
   - "Not a legal DOT inspection form; it's a company record-keeping tool, so don't expect it to satisfy federal audit requirements"
+
 ---
 
 If you run a fleet — even a small one of three work vans — you know the paperwork grind. The Annual Vehicle Inspection Report Form in the snap-out 3-part format isn't glamorous, but it's the kind of tool that quietly saves your back office from chaos. With a 4.8-star average across 240 ratings, this is clearly a product that does its job without fuss. Here's the real breakdown before you add it to your cart.

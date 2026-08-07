@@ -1,4 +1,5 @@
 ---
+
 title: "Ohuhu Pastel Alcohol Brush Markers - Alcohol Based Double Ti"
 seo_title: "Ohuhu Pastel Alcohol Brush Markers - Alcohol Based Review"
 meta_description: "Our full ohuhu pastel alcohol brush markers - alcohol based double ti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BK8MKMN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MGFDsu4SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a "pastel" marker set only to discover the colors look like someone diluted neon ink with regret, you know the pain. The Ohuhu Pastel Alcohol Brush Markers are not that set. With 4.8 stars across 240 ratings, these double-tipped markers have carved out a serious following among bullet journalers, manga artists, and workspace doodlers. But are they actually worth your desk space? I tested them for three weeks across multiple paper types. Here's the honest breakdown.

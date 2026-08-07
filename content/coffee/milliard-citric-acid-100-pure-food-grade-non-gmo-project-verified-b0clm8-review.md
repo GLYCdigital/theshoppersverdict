@@ -1,4 +1,5 @@
 ---
+
 title: "Milliard Citric Acid - 100% Pure Food Grade NON-GMO Project "
 seo_title: "Milliard Citric Acid - 100% Pure Food Grade NON-GM Review"
 meta_description: "Our full milliard citric acid - 100% pure food grade non-gmo project  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLM816YY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KTxrWfqdL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $10 fix for a $200 coffee maker problem**

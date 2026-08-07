@@ -1,4 +1,5 @@
 ---
+
 title: "297 Dining Chairs"
 seo_title: "297 Dining Chairs Review: Solid Build, Real Comfort (2026)"
 meta_description: "Our 297 Dining Chairs review covers build quality, comfort, and value. See what 240+ buyers say before you spend. Honest pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DBYNCSP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716nS5hsd2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood legs with reinforced cross-bracing that handle 300+ lbs without wobble"
   - "High-density foam seat cushion (2.5 inches thick) that holds shape after months of daily use"
   - "Scratch-resistant finish on the frame — survives kids, pets, and sliding chairs"
-cons:
+cons: 
   - "Assembly requires 20-30 minutes per chair; the included Allen wrench is low quality"
   - "Upholstery is light-colored in some options and shows stains easily without treatment"
+
 ---
 
 **The 297 Dining Chairs are the rare Amazon furniture find that doesn't make you compromise.** At 4.8 stars from 240 ratings, these chairs have clearly earned their place in hundreds of dining rooms. But before you click buy, let me break down what you're actually getting — and where the corners were cut.

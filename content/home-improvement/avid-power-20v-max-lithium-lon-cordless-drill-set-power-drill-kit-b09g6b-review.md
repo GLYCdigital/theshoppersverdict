@@ -1,4 +1,5 @@
 ---
+
 title: "AVID POWER 20V MAX Lithium lon Cordless Drill Set, Power Dri"
 seo_title: "AVID POWER 20V MAX Cordless Drill Set Review (2026)"
 meta_description: "Honest AVID POWER 20V MAX cordless drill set review: performance, battery life, build quality, and who should buy it. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09G6B61JB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EZfS7MHCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes two 20V batteries plus a fast charger — you're never stuck waiting for a recharge mid-project"
   - "Variable speed trigger with 18+1 clutch positions gives precise control for driving screws without stripping"
   - "Compact 8.5-inch body with built-in LED work light fits into tight spaces where bigger drills won't go"
-cons:
+cons: 
   - "Chuck is keyed rather than keyless — you'll need the included chuck key to swap bits, which slows down quick changes"
   - "No belt clip or carry case included in the base kit, so portability is on you"
   - "Battery indicator lights are basic — no per-cell charge display, just a rough low/med/full readout"
+
 ---
 
 If you're staring down a weekend of furniture assembly, curtain rod installs, or light shelving, the AVID POWER 20V MAX Cordless Drill Set is the kind of tool that makes you wonder why you'd spend three times as much on a name brand. With a 4.6-star average across 229 ratings, this kit has earned its reputation as a budget-friendly workhorse. But let's be clear about what you're getting — and what you're not.

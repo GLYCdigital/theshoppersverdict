@@ -1,4 +1,5 @@
 ---
+
 title: "Coco Real Cream of Coconut 22 OZ (Pack of 3)"
 seo_title: "Coco Real Cream of Coconut 22oz (3-Pack) Review"
 meta_description: "Detailed Coco Real Cream of Coconut 22oz pack-of-3 review. Tested for piña coladas, coffee, and cocktails. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07R1N5239/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31RWFHFHMlL._SX342_PIbundle-3,TopRight,0,0_AA342SH20_.jpg"
-pros:
+pros: 
   - "Thick, pourable consistency that blends instantly — no gritty sugar crystals or separation like other canned brands"
   - "22-ounce bottle delivers roughly 25 servings per bottle, making the 3-pack a solid value for frequent cocktail makers"
   - "Sweet coconut flavor works beyond drinks — great in coffee, oatmeal, or as a substitute in baking recipes"
-cons:
+cons: 
   - "Contains high fructose corn syrup as the second ingredient — a dealbreaker for some shoppers seeking cleaner sweeteners"
   - "Once opened, the bottle must be refrigerated and used within 3 weeks, which is tight for casual users"
+
 ---
 
 ## Coco Real Cream of Coconut (22 oz, 3-Pack) Review: The Bartender's Shortcut That Actually Works

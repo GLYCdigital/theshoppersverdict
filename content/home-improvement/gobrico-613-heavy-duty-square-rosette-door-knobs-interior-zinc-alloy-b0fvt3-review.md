@@ -1,4 +1,5 @@
 ---
+
 title: "Gobrico 613 Heavy Duty Square Rosette Door Knobs Interior Zi"
 seo_title: "Gobrico 613 Heavy Duty Square Rosette Door Knobs I Review"
 meta_description: "Our full gobrico 613 heavy duty square rosette door knobs interior zi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FVT3HLKB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qWvVJeHFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most interior door knobs under $30 are flimsy, hollow stamped metal that feels like a toy. The Gobrico 613 square rosette set is not that. It’s a genuinely heavy piece of hardware — the kind you notice the moment you pick it up. But is it worth swapping out every knob in your house for? Here’s what 215 buyers and my own teardown of the specs say.

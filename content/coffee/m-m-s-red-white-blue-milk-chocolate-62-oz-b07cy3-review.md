@@ -1,4 +1,5 @@
 ---
+
 title: "M&M's Red White & Blue Milk Chocolate (62 Oz)"
 seo_title: "M&M's Red White & Blue Milk Chocolate (62 Oz) Review: Ver"
 meta_description: "Our full m&m's red white & blue milk chocolate (62 oz) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B07CY3Y6YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ih9AiQ7tL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # M&M's Red White & Blue Milk Chocolate (62 Oz) Review

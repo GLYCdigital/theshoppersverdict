@@ -1,4 +1,5 @@
 ---
+
 title: "DELARLO Stainless Steel Stock Pot - 5QT Induction Ready Tri-"
 seo_title: "DELARLO 5QT Stock Pot Review: Induction-Ready Tri-Ply"
 meta_description: "DELARLO 5QT stainless steel stock pot review: tri-ply build, induction-ready, even heating. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09GYK9PQD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gsDisBwkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full tri-ply cladding (not just a disc base) means even heat across sidewalls, not just the bottom"
   - "Oven-safe to 500°F with stainless steel lid and riveted handles — transitions from stovetop to roasting without a hitch"
   - "Induction-ready 18/10 stainless steel interior resists warping and reacts with nothing, even acidic tomato-based soups"
-cons:
+cons: 
   - "No pour spouts on the rim — transferring stock to a container can get messy with a full 5 quarts"
   - "Stainless steel interior requires oil or liquid to prevent sticking; scrambled eggs or thin sauces will bite"
   - "Handles stay cool on gas but get warm on induction at high heat — use a mitt, don't test it bare-handed"
+
 ---
 
 If you're shopping for a 5-quart stock pot and you're tired of thin-bottomed pots that scorch soup in one corner while the other side sits lukewarm, the DELARLO 5QT is worth your attention. This is a genuine tri-ply pot — a magnetic stainless steel exterior, an aluminum core, and an 18/10 stainless interior — cladded across the entire body, not just a cheap disc welded to the base. That difference matters more than most shoppers realize.

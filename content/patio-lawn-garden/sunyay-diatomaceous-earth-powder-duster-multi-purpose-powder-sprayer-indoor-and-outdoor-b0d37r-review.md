@@ -1,4 +1,5 @@
 ---
+
 title: "SUNYAY Diatomaceous Earth Powder Duster Multi-Purpose Powder"
 seo_title: "SUNYAY Diatomaceous Earth Powder Duster Multi-Purp Review"
 meta_description: "Our full sunyay diatomaceous earth powder duster multi-purpose powder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D37RSJTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41i6YwAlMKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried spreading diatomaceous earth by hand or with a spoon, you know the mess. Powder goes everywhere except where you aimed it, and you end up breathing half of it. The SUNYAY Diatomaceous Earth Powder Duster exists to solve that specific problem — and for the most part, it does.

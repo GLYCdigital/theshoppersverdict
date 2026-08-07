@@ -1,4 +1,5 @@
 ---
+
 title: "SJCCDSGS Black Farmhouse Chandelier, Large Wagon Wheel Chand"
 seo_title: "SJCCDSGS Black Farmhouse Chandelier, Large Wagon W Review"
 meta_description: "Our full sjccdsgs black farmhouse chandelier, large wagon wheel chand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D45HY8HS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OwVfvY1ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The farmhouse wagon wheel chandelier is one of those fixtures that can either nail your dining room aesthetic or scream "cookie-cutter catalog." The SJCCDSGS Black Farmhouse Chandelier lands firmly in the first camp — if you measure your space before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "MU Daybed with Trundle Bed, Twin Bed Frame with Charging Sta"
 seo_title: "MU Daybed with Trundle Bed, Twin Bed Frame with Ch Review"
 meta_description: "Our full mu daybed with trundle bed, twin bed frame with charging sta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DDKC4ZN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Vaew9sulL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A daybed with a trundle and charging ports sounds like the ultimate space-saving solution. The reality is more complicated.**

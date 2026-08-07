@@ -1,16 +1,17 @@
 ---
+
 title: "Paper Mate Profile Retractable Ballpoint Pens, Bold Point (1.4mm), Assorted Colors, 12 Count - Back to School, Office, Teacher Supplies"
 seo_title: "Paper Mate Profile Retractable Ballpoint Pens, Bol Review"
 meta_description: "Honest paper mate profile retractable ballpoint review based on 33,097+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "paper-mate-profile-retractable-ballpoint-pens-bold-point-1-4mm-assorted-colors-review"
 image_alt: "Paper Mate Profile Retractable Ballpoint Pens, Bold Point (1.4mm), Assorted Colors, 12 Count - Back to School, Office, T"
-keywords:
+keywords: 
   - "paper mate profile review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Paper Mate Profile Retractable Ballpoint?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the Paper Mate Profile Retractable Ballpoint?"
@@ -23,10 +24,11 @@ review_count: 33097
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B005DEW3J4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sQhDOnqPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 If you’ve ever grabbed a cheap ballpoint and ended up pressing hard enough to leave indentations on the next page, you know the struggle. The Paper Mate Profile Retractable Pens solve that specific annoyance with a 1.4mm bold tip that glides with minimal pressure. It’s a simple tool, but it’s one of those rare office staples that earns its place in your drawer — and with 33,000+ ratings averaging 4.7 stars, I’m clearly not alone in that opinion.

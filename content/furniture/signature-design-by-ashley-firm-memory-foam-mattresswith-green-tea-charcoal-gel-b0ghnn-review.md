@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Firm Memory Foam Mattresswith Gre"
 seo_title: "Signature Design by Ashley Firm Memory Foam Mattre Review"
 meta_description: "Our full signature design by ashley firm memory foam mattresswith gre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHNNYW6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71atDzqhTPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the firm memory foam mattress you've been hunting for? Or just another roll-packed compromise? After digging through 210 verified buyer experiences, here's the real story on Ashley's signature firm offering.**

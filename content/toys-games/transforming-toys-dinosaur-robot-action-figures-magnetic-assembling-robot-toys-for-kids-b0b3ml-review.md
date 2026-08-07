@@ -1,4 +1,5 @@
 ---
+
 title: "Transforming Toys - Dinosaur Robot Action Figures - Magnetic"
 seo_title: "Transforming Toys - Dinosaur Robot Action Figures  Review"
 meta_description: "Our full transforming toys - dinosaur robot action figures - magnetic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3MLB3NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uNmg8K1VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Hook: A Transformer That Actually Delivers

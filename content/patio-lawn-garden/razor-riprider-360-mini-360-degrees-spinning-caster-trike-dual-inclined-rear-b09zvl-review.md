@@ -1,4 +1,5 @@
 ---
+
 title: "Razor RipRider 360 Mini, 360 Degrees Spinning Caster Trike, "
 seo_title: "Razor RipRider 360 Mini, 360 Degrees Spinning Cast Review"
 meta_description: "Our full razor riprider 360 mini, 360 degrees spinning caster trike,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09ZVLGYH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bhGIXukpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has ever watched a stunt scooter video and announced they want to drift, the **Razor RipRider 360 Mini** is the safest way to let them try it without a trip to urgent care. This isn't just a smaller version of the adult RipRider — it's a purpose-built machine for the 3-and-up crowd that actually delivers on the "360 spinning" promise.

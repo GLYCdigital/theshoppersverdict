@@ -1,4 +1,5 @@
 ---
+
 title: "Kitty City Tall Sisal Cat Scratching Post, 32â€"
 seo_title: "Kitty City Tall Sisal Cat Scratching Post, 32â€ Review: V"
 meta_description: "Our full kitty city tall sisal cat scratching post, 32â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GS9X94TB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-gQhbayvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Scratching Post Your Cat Will Actually Use?

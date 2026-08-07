@@ -1,4 +1,5 @@
 ---
+
 title: "PowerSmart Gas Weed Wacker, String Trimmer/Edger 16-Inch wit"
 seo_title: "PowerSmart Gas Weed Wacker, String Trimmer/Edger 1 Review"
 meta_description: "Our full powersmart gas weed wacker, string trimmer/edger 16-inch wit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWH84RTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51q1zAFFt3L._AC_SL1477_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The PowerSmart 16-Inch Gas Trimmer: More Torque, Less Money — But Read This First

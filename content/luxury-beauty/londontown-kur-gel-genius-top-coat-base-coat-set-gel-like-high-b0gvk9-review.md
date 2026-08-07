@@ -1,4 +1,5 @@
 ---
+
 title: "LONDONTOWN Kur Gel Genius Top Coat, Base Coat & Set â€“ Gel-"
 seo_title: "LONDONTOWN Kur Gel Genius Top Coat, Base Coat & Se Review"
 meta_description: "Our full londontown kur gel genius top coat, base coat & set â€“ gel- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GVK9L17Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: the "gel-like" promise is the most overused phrase in nail polish marketing. Every brand claims it. Most deliver a slightly shinier regular polish that chips by Thursday. The LONDONTOWN Kur Gel Genius Set is different — but not in the way you might expect.

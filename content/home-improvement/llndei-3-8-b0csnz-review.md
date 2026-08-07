@@ -1,4 +1,5 @@
 ---
+
 title: "LLNDEI 3/8â€"
 seo_title: "LLNDEI 3/8â€ Review: Verdict | TSV"
 meta_description: "Our full llndei 3/8â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSNZ6DLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HxcrjcEDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The 3/8-inch drive is the Goldilocks of the tool world—bigger than 1/4 for real torque, smaller than 1/2 for tight spaces. But a 3/8-inch tool is only as good as its build quality, and that's where the LLNDEI earns its keep. After digging through 235 Amazon ratings averaging 4.7 stars, here's the real story on this one.

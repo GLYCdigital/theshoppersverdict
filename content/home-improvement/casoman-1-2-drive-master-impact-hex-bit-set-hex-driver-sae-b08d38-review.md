@@ -1,4 +1,5 @@
 ---
+
 title: "CASOMAN 1/2 inch  Drive Master Impact Hex Bit Set, Hex Driver, SA"
 seo_title: "CASOMAN 1/2 inch  Drive Impact Hex Bit Set Review (SAE)"
 meta_description: "CASOMAN 1/2 inch  drive impact hex bit set SAE review: S2 steel durability, 6-piece coverage, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08D38YJMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tC9Yn3TiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "S2 steel construction with black oxide finish resists stripping on stubborn fasteners"
   - "Full 1/2-inch drive compatibility works with standard impact wrenches and ratchets"
   - "Laser-etched size markings that stay legible after repeated shop use"
-cons:
+cons: 
   - "No metric sizes included — SAE-only limits utility for newer vehicles"
   - "Case is basic blow-molded plastic without a locking latch"
+
 ---
 
 If you've ever watched a hex bit twist like taffy inside a rusted bolt head, you know cheap tools cost more in the long run. The CASOMAN 1/2" Drive Master Impact Hex Bit Set targets that exact frustration — and with a 4.7-star average across 235 ratings, it's clearly doing something right. But is it the set you need, or just another box of shiny disappointments? Let's dig into what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pelican Seek 100X - Recreational Sit on top Kayak - Lightwei"
 seo_title: "Pelican Seek 100X - Recreational Sit on top Kayak  Review"
 meta_description: "Our full pelican seek 100x - recreational sit on top kayak - lightwei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F5PQBTRV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617V-ueGTYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a sit-on-top kayak for speed. You buy it for the ability to slide off into the water, swim, fish, and climb back aboard without performing a J-stroke ballet. The Pelican Seek 100X nails that core promise, but it's not without compromises. Here's what 220 Amazon reviewers (4.4 stars) actually think after paddling it.

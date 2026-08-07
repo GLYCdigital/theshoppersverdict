@@ -1,4 +1,5 @@
 ---
+
 title: "Botan Musenmai Calrose Rice"
 seo_title: "Botan Musenmai Calrose Rice Review: Is It Worth It? (2026)"
 meta_description: "Our Botan Musenmai Calrose Rice review covers texture, cooking performance & value. See if this 4.7-star rice earns a spot in your kitchen."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B9GWKVXb/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91uyDCJxGBL._SL1500_.jpg"
-pros:
+pros: 
   - "No-rinse convenience saves prep time without sacrificing texture or flavor"
   - "Consistently fluffy, slightly sticky grains that hold up for sushi and rice bowls"
   - "2kg bag size is ideal for testing before committing to bulk rice storage"
-cons:
+cons: 
   - "Premium pricing per pound compared to standard Calrose varieties"
   - "Some batches arrive with the bag split or damaged during shipping"
+
 ---
 
 Let’s be direct: most Calrose rice is fine. Botan Musenmai is better. The difference isn’t in the grain itself — it’s in what’s skipped before the grain hits your pot. This is musenmai, or “no-wash” rice, meaning it’s pre-polished to the point where rinsing is optional. That single feature changes your entire cooking routine, and after testing it across multiple dishes, I’m here to tell you whether it earns the premium.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pokmon Omega Ruby"
 seo_title: "Pokmon Omega Ruby Review: Verdict | TSV"
 meta_description: "Our full pokmon omega ruby review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00KWOSQC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c91OfJvrL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Pokémon Omega Ruby Review: The Best Way to Experience Hoenn — If You Still Own a 3DS

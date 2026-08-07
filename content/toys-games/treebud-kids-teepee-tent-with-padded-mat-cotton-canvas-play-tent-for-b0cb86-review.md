@@ -1,4 +1,5 @@
 ---
+
 title: "TreeBud Kids Teepee Tent with Padded Mat, Cotton Canvas Play"
 seo_title: "TreeBud Kids Teepee Tent with Padded Mat, Cotton C Review"
 meta_description: "Our full treebud kids teepee tent with padded mat, cotton canvas play review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CB86QSHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1+6jzZzrFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: most kids' teepees on Amazon are polyester tents with wobbly fiberglass poles that collapse the first time a 4-year-old dives in. The TreeBud Kids Teepee Tent is a different animal — and for roughly the same price as those flimsy options, it's worth a serious look.

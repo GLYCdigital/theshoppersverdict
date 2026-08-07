@@ -1,4 +1,5 @@
 ---
+
 title: "KERAGEN - Brazilian Smoothing Keratin Hair Treatment, Blowou"
 seo_title: "KERAGEN - Brazilian Smoothing Keratin Hair Treatme Review"
 meta_description: "Our full keragen - brazilian smoothing keratin hair treatment, blowou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B011IVFVTO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YTfiyIe0L._SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $37 keratin treatment that actually delivers — with one important catch.**

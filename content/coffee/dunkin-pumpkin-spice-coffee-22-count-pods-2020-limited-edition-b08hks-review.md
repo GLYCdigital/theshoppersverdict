@@ -1,4 +1,5 @@
 ---
+
 title: "Dunkin' Pumpkin Spice Coffee, 22-Count Pods (2020) Limited E"
 seo_title: "Dunkin' Pumpkin Spice Coffee Pods Review (2020)"
 meta_description: "Honest Dunkin' Pumpkin Spice Coffee 22-count pod review: flavor, strength, value, and whether the 2020 limited edition is worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HKS65NJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XMhaYDW+L._SL1500_.jpg"
-pros:
+pros: 
   - "Balanced pumpkin spice flavor — sweet cinnamon and nutmeg notes without tasting artificial or syrupy"
   - "Consistent medium roast strength that works black or with cream, unlike many flavored pods that turn bitter"
   - "22-count box delivers better per-cup value than most seasonal pumpkin offerings from major brands"
-cons:
+cons: 
   - "2020 limited edition — once it's gone, it's gone; no guarantee of re-release or identical formulation next year"
   - "Pumpkin flavor is subtle — if you crave a heavy, dessert-like pumpkin punch, this leans more toward spiced coffee"
   - "Not compatible with all single-serve machines; standard K-Cup shape works in Keurig but not in some off-brand brewers"
+
 ---
 
 Here's the thing about seasonal coffee: most of it tastes like a candle company tried to brew a latte. Dunkin's 2020 Pumpkin Spice limited edition pods avoid that trap, and that's precisely why they've held a 4.6-star rating across 229 reviews. This is a pumpkin spice coffee for people who actually drink coffee, not just pumpkin spice for people who occasionally hold a mug.

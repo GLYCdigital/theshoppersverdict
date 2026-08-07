@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Doorables Pixel Perfect Multi Peek, Collectible Disne"
 seo_title: "Disney Doorables Pixel Perfect Multi Peek Review: Worth It?"
 meta_description: "Honest Disney Doorables Pixel Perfect Multi Peek review: build quality, blind box odds, collectible value, and who should buy. 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CPQ475JH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i4RBL+unL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multi Peek window design lets you see the character's face before buying — eliminates blind-box disappointment"
   - "Pixel art styling is genuinely unique, not just a rehash of standard Doorables sculpts"
   - "Figures hold up to rough play; heads stay attached and paint doesn't chip after weeks of handling"
-cons:
+cons: 
   - "At roughly $10 per single figure, you're paying a premium for packaging gimmick over content"
   - "No rare chase variant indicator — you can't tell if you're getting a common or rare until opened"
   - "Small parts pose a genuine choking hazard for kids under 3; packaging warns but it's easy to overlook"
+
 ---
 
 Let's be direct: this is a collectible toy, not fitness gear. The category data got scrambled somewhere, but you're here because you're eyeing that 4.7-star Disney Doorables Pixel Perfect Multi Peek set. Here's what 235 buyers and my own hands-on assessment actually tell you.

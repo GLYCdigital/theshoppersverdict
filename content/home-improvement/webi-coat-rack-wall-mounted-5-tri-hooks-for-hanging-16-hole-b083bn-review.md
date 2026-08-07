@@ -1,4 +1,5 @@
 ---
+
 title: "WEBI Coat Rack Wall Mounted, 5 Tri Hooks for Hanging,16 â€˜â"
 seo_title: "WEBI Coat Rack Wall Mounted, 5 Tri Hooks for Hangi Review"
 meta_description: "Our full webi coat rack wall mounted, 5 tri hooks for hanging,16 â€˜â review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083BNYCZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RngXS517L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 16-Inch Wall Rack That Punches Above Its Weight

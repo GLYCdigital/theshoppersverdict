@@ -1,4 +1,5 @@
 ---
+
 title: "Calphalon Classic Stainless Steel Sauce"
 seo_title: "Calphalon Classic Stainless Steel Sauce Review: Worth It?"
 meta_description: "Our honest Calphalon Classic Stainless Steel Sauce review: performance, durability, and who should buy. 4.8/5 rating with 240 reviews analyzed."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G6DBWRLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OfwL21wfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply construction with aluminum core delivers even heating without hot spots — sauces thicken consistently across the full base"
   - "Flared rim pours cleanly with zero drips; riveted stainless handles stay cool on the stovetop"
   - "Oven-safe up to 450°F and compatible with all cooktops including induction"
-cons:
+cons: 
   - "Stainless steel requires oil or butter for eggs and delicate foods — not nonstick, and sticking will happen if you skip fat"
   - "Hand-wash recommended despite dishwasher-safe claims; hard water leaves spots that need polishing to restore shine"
+
 ---
 
 A sauce pan is one of those purchases you make once and live with for a decade. Get it wrong and you're scraping burnt béchamel at 7 PM. Get it right — like the Calphalon Classic Stainless Steel Sauce pan — and you'll wonder why you ever tolerated thin, scorched bottoms.

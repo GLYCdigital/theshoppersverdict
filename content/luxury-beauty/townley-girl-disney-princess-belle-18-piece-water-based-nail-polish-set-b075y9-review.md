@@ -1,4 +1,5 @@
 ---
+
 title: "Townley Girl Disney Princess Belle 18 Piece Water-Based Nail"
 seo_title: "Townley Girl Disney Princess Belle 18 Piece Water- Review"
 meta_description: "Our full townley girl disney princess belle 18 piece water-based nail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B075Y9R1TK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81q7HjhXiWL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

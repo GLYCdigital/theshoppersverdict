@@ -1,4 +1,5 @@
 ---
+
 title: "RESILIA - Black Plastic Floor Runner/Protector - Embossed Wi"
 seo_title: "RESILIA - Black Plastic Floor Runner/Protector - E Review"
 meta_description: "Our full resilia - black plastic floor runner/protector - embossed wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCZZG3KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ZhHQ6cGSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The floor protector that actually stays put

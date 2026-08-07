@@ -1,23 +1,25 @@
 ---
+
 title: "Giantex Low Loft Bed, Wooden Loft Bed with Ladder & Blackboa"
 seo_title: "Giantex Low Loft Bed Review: Sturdy Wooden Loft With Blackboard"
 meta_description: "Giantex Low Loft Bed review: a sturdy wooden loft with ladder & blackboard for small rooms. See pros, cons, and who should buy it."
 slug: "giantex-low-loft-bed-wooden-loft-bed-with-ladder-blackboard-bed-frames-b0dq4y-review"
 image_alt: "Giantex low loft bed with wooden frame, built-in ladder, and blackboard panel in a child's bedroom"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DQ4Y55C3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ppGKuFm2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "True low-profile design fits under 8-foot ceilings without feeling cramped"  
   - "Built-in blackboard panel turns the headboard into a creative surface kids actually use"  
   - "Solid pine wood frame with reinforced slats holds up to 200 lbs without creaking"  
-cons:  
+cons: 
   - "Assembly takes 2+ hours with two people — the ladder alignment is finicky"  
   - "Blackboard surface scuffs easily and requires chalk markers, not regular chalk"
+
 ---
 
 If you've got a small bedroom and a kid who needs floor space, the Giantex Low Loft Bed is the rare piece of furniture that actually delivers on both fronts. At 4.3 stars from 215 ratings, it's not perfect — but for the price, it solves the "where do we put the desk and the toys" problem better than most loft beds I've tested.

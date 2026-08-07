@@ -1,4 +1,5 @@
 ---
+
 title: "EUDAX 6 Set DC Motors Kit, Mini Electric Hobby Motor 3V -12V"
 seo_title: "EUDAX 6 Set DC Motors Kit Review: 3V-12V Hobby Motors"
 meta_description: "Honest EUDAX 6 Set DC Motors Kit review: 3V-12V hobby motors for STEM projects, robots, and crafts. Build quality, performance, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08GPPJR1T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nbvX3euLL._SL1500_.jpg"
-pros:
+pros: 
   - "Six different motor sizes/types in one kit covers nearly every small robotics or craft project"
   - "3V-12V operating range means one kit works with single AA batteries or standard 9V power supplies"
   - "Includes propellers, wheels, and mounting hardware — not just bare motors"
-cons:
+cons: 
   - "Shafts are thin (2mm on most units) and can bend if you're rough with press-fit parts"
   - "No wiring or connector included — you'll need to solder or twist wires yourself"
+
 ---
 
 **If you're building a robot, a fan, or a school science project, this kit is the electrical equivalent of a Swiss Army knife — six different motors in one box for less than you'd pay for two at a hobby shop.** But there are a few things you should know before you hit "add to cart."

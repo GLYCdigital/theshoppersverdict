@@ -1,4 +1,5 @@
 ---
+
 title: "Onsen Japanese Nail Buffer & Shine Kit - Professional Nail F"
 seo_title: "Onsen Japanese Nail Buffer & Shine Kit - Professio Review"
 meta_description: "Our full onsen japanese nail buffer & shine kit - professional nail f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FRFN9V4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z4u7eJ3wL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the salon. Skip the UV lamp. Here's what 220+ Amazon reviewers discovered about this Japanese-style buffer.**

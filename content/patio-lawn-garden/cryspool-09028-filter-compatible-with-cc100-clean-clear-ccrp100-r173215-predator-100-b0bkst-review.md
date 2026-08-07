@@ -1,4 +1,5 @@
 ---
+
 title: "Cryspool® 09028 Filter Compatible with CC100, Clean & Clear"
 seo_title: "Cryspool 09028 Filter Review: CC100 Compatible Cartridge"
 meta_description: "Honest Cryspool 09028 filter review for Pentair Clean & Clear CC100. Compare fit, filtration quality, and value against OEM cartridges before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BKSTN8RP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71j-TCWYzdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 50 sq ft filtration area with 10 pleat-per-inch density — not a flimsy knockoff"
   - "Precisely machined ABS end caps that seat properly in Pentair housings without forcing"
   - "Holds up to 7 psi differential without collapsing; pleats stay rigid through heavy debris loads"
-cons:
+cons: 
   - "No brand markings on the cartridge itself — can be hard to identify later if you have multiple spares"
   - "Packaging is thin cardboard; minor corner crush possible in shipping (doesn't affect function)"
+
 ---
 
 Let me save you the research time: the Cryspool 09028 is a direct replacement for Pentair's Clean & Clear CC100 cartridge, and it costs about half of what the OEM part runs. The question is whether the savings come with a catch. After digging through 229 ratings and the technical specs, here's the real story.

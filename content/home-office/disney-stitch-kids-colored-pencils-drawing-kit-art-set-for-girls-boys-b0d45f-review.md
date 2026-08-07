@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Stitch Kids Colored Pencils Drawing Kit Art Set for G"
 seo_title: "Disney Stitch Colored Pencils Art Set Review (2026) | Worth It?"
 meta_description: "Disney Stitch Kids Colored Pencils Drawing Kit review: 4.6★ rated art set. See what's inside, real parent feedback, and whether it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D45F3MHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91U4kXes7IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stitch artwork on every piece — pencils, case, and accessories all feature the character, not just the box"
   - "24 colored pencils with decent pigment payoff for a kids' set; softer cores lay down color without pressing hard"
   - "Zippered case keeps everything organized and portable — no loose pencils rolling around the bottom of a backpack"
-cons:
+cons: 
   - "Pencil sharpener is flimsy; several buyers report it chewing up pencil tips after a few uses"
   - "Case is more rigid plastic than fabric — feels sturdy but doesn't collapse flat for storage"
   - "Some colors run lighter than expected, especially yellows and pastels, on standard copy paper"
+
 ---
 
 If your kid is obsessed with Stitch — and let's be honest, most under-12s are — this is the art set that actually gets used. Not because it's the fanciest kit on the shelf, but because it's the one they'll reach for without being told. That's worth something.

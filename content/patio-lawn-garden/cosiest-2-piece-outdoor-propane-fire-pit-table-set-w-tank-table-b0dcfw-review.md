@@ -1,4 +1,5 @@
 ---
+
 title: "COSIEST 2-Piece Outdoor Propane Fire Pit Table Set w Tank Ta"
 seo_title: "COSIEST 2-Piece Fire Pit Table Set Review (2026): Worth It?"
 meta_description: "Honest COSIEST 2-piece propane fire pit table set review: build quality, heat output, tank storage, and who should buy it. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCFWSRRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818+PPJkG3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2-piece setup gives you a fire table plus a separate side table that hides a 20-lb propane tank — no ugly hose snaking across your patio"
   - "50,000 BTU output with realistic flame height that actually throws noticeable heat, not just ambiance"
   - "Weather-resistant steel frame and tempered glass top hold up through seasonal outdoor use"
-cons:
+cons: 
   - "Assembly is a solid 1.5–2 hour job requiring two people; the glass top is heavy and awkward to lift into place"
   - "Piezo ignition can be finicky in windy conditions — several buyers report needing 3–5 clicks on breezy evenings"
   - "The included lava rocks are few and small; you'll want to buy an extra bag for fuller coverage"
+
 ---
 
 If you've priced outdoor fire pit tables lately, you know they're either cheap junk that rusts in one season or $800+ designer pieces that make you wince at checkout. The COSIEST 2-piece set sits in that awkward middle ground — and for most buyers, it lands closer to the right side of that equation.

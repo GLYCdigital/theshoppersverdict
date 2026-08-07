@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Pad"
 seo_title: "Desk Pad Review: 4.7-Star Writing Surface Worth It?"
 meta_description: "Honest desk pad review: build quality, grip, size options, and real buyer feedback. See who should buy this 4.7-star writing surface and who should skip."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083K5C3C5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fI2Yty6TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Non-slip PU leather base stays put on both wood and glass desks during heavy writing sessions"
   - "Stitched edges resist fraying and curling after months of daily use — a common failure point on cheaper pads"
   - "Generous 31.5 x 15.7-inch surface fits a full-size keyboard plus mouse with room for a notebook"
-cons:
+cons: 
   - "Synthetic leather surface shows scuffs and pen marks over time; darker colors hide this better than light ones"
   - "Initial chemical smell takes a few days to fully dissipate, which may bother sensitive noses in small offices"
+
 ---
 
 Let me be direct: most desk pads under $25 are disposable. The stitching peels by week three, the base slides around when you're trying to sign something, and the surface develops a permanent sheen where your mouse lives. This one — the 4.7-star rated desk pad at 235 reviews — isn't that. But it's also not perfect.

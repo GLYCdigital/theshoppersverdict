@@ -1,4 +1,5 @@
 ---
+
 title: "MEKK Professional Cordless Electric Nail Drill with Bits"
 seo_title: "MEKK Professional Cordless Electric Nail Drill wit Review"
 meta_description: "Our full mekk professional cordless electric nail drill with bits review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD3JWZD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DLYQA6NXL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got gel polish that won't quit and an acrylic fill that's growing out ugly. A trip to the salon costs $60 and a whole afternoon. The MEKK Professional Cordless Electric Nail Drill promises to cut that cord — literally — and put salon-level removal power in your own hands. After digging through 220 verified ratings and the spec sheet, here's what actually matters before you tap "buy."

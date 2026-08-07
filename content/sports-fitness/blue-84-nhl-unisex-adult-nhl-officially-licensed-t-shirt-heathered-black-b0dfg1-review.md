@@ -1,4 +1,5 @@
 ---
+
 title: "Blue 84 NHL Unisex-Adult NHL Officially Licensed T-Shirt Hea"
 seo_title: "Blue 84 NHL T-Shirt Review: Officially Licensed Fan Gear"
 meta_description: "Blue 84 NHL officially licensed t-shirt review: fabric quality, fit, and durability tested. Is this fan gear worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFG17Q2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KaLFANn0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavyweight 6.1 oz cotton-poly blend that survives repeated washes without shrinking or losing shape"
   - "Screen-printed team graphics hold up without cracking or peeling, even after 20+ wash cycles"
   - "True unisex sizing with athletic cut that fits both men and women without looking boxy"
-cons:
+cons: 
   - "Runs slightly large — size down if you prefer a snug, modern fit"
   - "Only available in standard team colors; no alternate or throwback jersey variations"
+
 ---
 
 Let's be honest about fan apparel: most of it is overpriced, thin, and falls apart after three washes. The Blue 84 NHL Officially Licensed T-Shirt is not that shirt. With a 4.7-star average across 235 ratings, this is one of those rare pieces of fan gear that actually earns its place in your rotation.

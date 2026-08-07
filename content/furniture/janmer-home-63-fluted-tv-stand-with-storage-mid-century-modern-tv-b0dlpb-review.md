@@ -1,7 +1,8 @@
 ---
-title: "Janmer Home 63\" Fluted TV Stand with Storage, Mid Century Mo"
-seo_title: "Janmer Home 63\" Fluted TV Stand with Storage, Mid  Review"
-meta_description: "Our full janmer home 63\" fluted tv stand with storage, mid century mo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Janmer Home 63\ Fluted TV Stand with Storage, Mid Century Mo"
+seo_title: "Janmer Home 63\ Fluted TV Stand with Storage, Mid  Review"
+meta_description: "Our full janmer home 63\ fluted tv stand with storage, mid century mo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "janmer-home-63-fluted-tv-stand-with-storage-mid-century-modern-tv-b0dlpb-review"
 image_alt: "Janmer Home 63 Fluted TV Stand with Storage, Mid Century Modern TV Console with Sliding Doors, Curved Gaming Entertainme"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DLPBHPDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KPewikQyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of black glass TV stands that show every fingerprint, the Janmer Home 63" Fluted TV Stand is a breath of fresh air — literally, given the vertical grooves that give it that mid-century texture. With 215 Amazon ratings averaging 4.3 stars, this isn't a hidden gem, but it's also not without its quirks. Here's what you need to know before you hit "add to cart."

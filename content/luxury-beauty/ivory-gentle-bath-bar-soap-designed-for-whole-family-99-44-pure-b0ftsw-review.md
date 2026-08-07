@@ -1,4 +1,5 @@
 ---
+
 title: "Ivory Gentle Bath Bar Soap, Designed for Whole Family, 99.44"
 seo_title: "Ivory Gentle Bath Bar Soap, Designed for Whole Fam Review"
 meta_description: "Our full ivory gentle bath bar soap, designed for whole family, 99.44 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTSW1R8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k1qTYJ7jL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some soaps promise luxury with exotic oils and $40 price tags. The Ivory Gentle Bath Bar takes the opposite route: 99.44% pure, no gimmicks, and a price point that won't make you wince. With 240 Amazon ratings averaging 4.8 stars, this bar has quietly built a loyal following. But does "pure" actually translate to better skin? I tested it for three weeks to find out.

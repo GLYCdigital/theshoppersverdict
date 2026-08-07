@@ -1,4 +1,5 @@
 ---
+
 title: "FlyFlag Air Dry Clay, Ultra Light and Soft, Non-Toxic Modeli"
 seo_title: "FlyFlag Air Dry Clay Review: Ultra Light & Soft for Kids"
 meta_description: "Honest FlyFlag Air Dry Clay review: ultra light, soft, non-toxic modeling clay. See how it performs, dries, and holds detail before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFHHTQZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81L3ZodiM-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely lightweight — finished pieces feel like foam, not heavy clay, so kids can make larger sculptures without them collapsing"
   - "Dries to a smooth, matte finish in 24-48 hours with minimal cracking, even on thin pieces like petals or animal ears"
   - "Non-toxic formula with no strong chemical smell; safe for kids 3+ when supervised, per the packaging"
-cons:
+cons: 
   - "Air exposure dries it fast — if you leave a block open for 20 minutes, it starts to crust over and becomes crumbly"
   - "Colors don't blend as easily as traditional oil-based clay; mixing two colors gives a marbled look, not a uniform new shade"
   - "Once fully dry, pieces are somewhat brittle — thin appendages can snap if dropped on a hard floor"
+
 ---
 
 **Is this the air-dry clay that finally won't frustrate your kids (or you)?**

@@ -1,4 +1,5 @@
 ---
+
 title: "BERCOL Flashlight LED Rechargeable Flashlights High Lumens,"
 seo_title: "BERCOL Flashlight Review: 99,000 Lumens Rechargeable LED"
 meta_description: "BERCOL rechargeable LED flashlight review: Does the 99,000-lumen claim hold up? Real-world brightness, battery life, build quality, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BG8J1T7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H5haJpRaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five adjustable brightness modes plus strobe/SOS, giving genuine versatility from reading to search-and-rescue"
   - "Rechargeable 3000mAh battery with USB-C — no proprietary charging dock to lose or replace"
   - "Rugged aluminum body with IPX4 water resistance that survives rain and accidental drops"
-cons:
+cons: 
   - "The '99,000 lumens' claim is overstated — real output peaks closer to 2,000-3,000 lumens, still bright but not mythic"
   - "Single-position focus ring means you can't smoothly zoom; it's fixed spot or fixed flood"
+
 ---
 
 # BERCOL Flashlight LED Rechargeable Flashlights High Lumens: Real-World Test

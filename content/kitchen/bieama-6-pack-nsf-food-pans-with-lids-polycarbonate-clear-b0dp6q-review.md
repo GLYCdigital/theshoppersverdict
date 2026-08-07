@@ -1,4 +1,5 @@
 ---
+
 title: "BIEAMA 6 Pack NSF Food Pans with Lids, Polycarbonate, Clear"
 seo_title: "BIEAMA 6 Pack NSF Food Pans Review (2026): Worth It?"
 meta_description: "BIEAMA 6-pack polycarbonate food pans with lids review: NSF-certified, crack-resistant, dishwasher-safe. See if these clear storage pans beat the competition."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP6Q5J17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dyGjEW9UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "NSF-certified polycarbonate won't warp, stain, or absorb odors like cheaper plastic"
   - "Full 1/6-size pans with lids — you get six complete sets, not six pans with one lid"
   - "Crystal-clear material makes inventory checks effortless without lifting lids"
-cons:
+cons: 
   - "Polycarbonate is heavier than polypropylene alternatives; empty pans still have heft"
   - "Lids snap on securely but aren't airtight — don't expect leakproof transport"
+
 ---
 
 Let's be blunt: most food storage pans you'll find on Amazon are flimsy polypropylene that stain after one tomato sauce session. The BIEAMA 6-pack sits in a different category entirely. These are full-depth 1/6-size polycarbonate pans with the NSF certification that commercial kitchens actually require. If you're meal-prepping, running a food truck, or just tired of replacing cracked plastic containers every few months, these deserve a hard look.

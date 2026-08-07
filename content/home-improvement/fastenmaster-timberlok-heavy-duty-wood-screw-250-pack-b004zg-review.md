@@ -1,4 +1,5 @@
 ---
+
 title: "FastenMaster TimberLOK Heavy-Duty Wood Screw, 250-Pack"
 seo_title: "FastenMaster TimberLOK Screws Review: 250-Pack Worth It?"
 meta_description: "FastenMaster TimberLOK 250-pack review: heavy-duty #9 screws that eliminate pre-drilling for decks, framing & more. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004ZGAW5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31YOa6FjtkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "No pre-drilling required in most pressure-treated and cedar lumber — saves hours on framing projects"
   - "#9 gauge with deep-cut #3 square drive bites hard; T-25 bit included in the box"
   - "Star Lock coating provides corrosion resistance beyond standard galvanized screws"
-cons:
+cons: 
   - "1-1/2 inch length max means this pack won't work for thick deck beams or heavy timber joinery"
   - "Not rated for ACQ-treated lumber in ground contact — coating is good, not infallible"
   - "250-count box runs out fast on large projects; buy in bulk if framing a full deck"
+
 ---
 
 **The Screw That Thinks It's a Lag Bolt**

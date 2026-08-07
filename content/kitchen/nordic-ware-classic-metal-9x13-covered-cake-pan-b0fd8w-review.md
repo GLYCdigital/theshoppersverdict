@@ -1,4 +1,5 @@
 ---
+
 title: "Nordic Ware Classic Metal 9x13 Covered Cake Pan"
 seo_title: "Nordic Ware Classic Metal 9x13 Covered Cake Pan Review: V"
 meta_description: "Our full nordic ware classic metal 9x13 covered cake pan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD8W89M2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the Nordic Ware Classic Metal 9x13 Covered Cake Pan: it's not trying to be fancy. It's a bare steel workhorse with a lid, and that's exactly why it earns its keep in my kitchen — and why some shoppers will hate it.

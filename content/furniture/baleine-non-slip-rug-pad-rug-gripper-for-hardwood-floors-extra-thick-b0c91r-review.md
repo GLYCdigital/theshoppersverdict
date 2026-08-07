@@ -1,4 +1,5 @@
 ---
+
 title: "BALEINE Non Slip Rug Pad Rug Gripper for Hardwood Floors, Ex"
 seo_title: "BALEINE Non Slip Rug Pad Review: Grips Hardwood Floors"
 meta_description: "BALEINE non slip rug pad review for hardwood floors. Extra thick grip, real customer results, and honest downsides. See if it stops curling & sliding."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C91RZBH5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KsL8PUGVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Extra thick 8mm padding actually cushions thin rugs and masks minor floor imperfections"
   - "Textured rubber surface holds rugs firmly on hardwood without adhesive residue or floor damage"
   - "Easy to trim with scissors to fit odd-shaped or non-standard rug dimensions"
-cons:
+cons: 
   - "Strong rubber odor lingers for several days after unrolling, requires airing out"
   - "Thin or lightweight rugs can still slide at the very edges despite the gripper's hold"
+
 ---
 
 A rug that slides on hardwood is more than an annoyance — it's a trip hazard. The BALEINE Non Slip Rug Pad is built to solve that specific problem, and based on 220 ratings averaging 4.4 stars, it's doing something right. Here's the honest breakdown.

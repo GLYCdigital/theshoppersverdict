@@ -1,4 +1,5 @@
 ---
+
 title: "White Coffee - 1lb-2lb Bag of White Coffee Beans Roasted By "
 seo_title: "White Coffee - 1lb-2lb Bag of White Coffee Beans R Review"
 meta_description: "Our full white coffee - 1lb-2lb bag of white coffee beans roasted by  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09TRYSNHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ds1tzyQTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about what white coffee actually is: it's not a new trendy variety. It's a coffee bean roasted at roughly 325°F instead of the usual 450-480°F, stopped almost immediately after the first crack. The result looks like pale, dense pebbles — not the oily brown beans you're used to. Poverty Roasters has been doing this longer than most, and their 1-2lb bag option is the one I keep coming back to.

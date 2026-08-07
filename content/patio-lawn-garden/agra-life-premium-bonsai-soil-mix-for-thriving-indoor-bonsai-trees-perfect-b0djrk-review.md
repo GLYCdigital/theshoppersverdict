@@ -1,4 +1,5 @@
 ---
+
 title: "Agra Life Premium Bonsai Soil Mix for Thriving Indoor Bonsai"
 seo_title: "Agra Life Bonsai Soil Mix Review: Indoor Tree Care (2026)"
 meta_description: "Honest Agra Life Premium Bonsai Soil Mix review: drainage, aeration, and moisture retention for indoor bonsai. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJRKRHN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DwEnAkL9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ready-to-use blend with akadama, pumice, and lava rock — no sifting or mixing required"
   - "Holds moisture for 3–5 days between waterings without waterlogging roots"
   - "Resealable, sturdy bag that keeps the mix dry and prevents spills during storage"
-cons:
+cons: 
   - "Particles are finer than some outdoor bonsai mixes; may compact over a year indoors"
   - "Price per quart runs higher than generic cactus soil, though the composition justifies it"
+
 ---
 
 If you've killed a bonsai before, the soil was probably the culprit. Most generic potting mixes hold too much water, slowly suffocating the fine roots that keep these trees alive. Agra Life Premium Bonsai Soil Mix tackles that exact problem with a blend designed for the confined, low-air-circulation reality of indoor growing.

@@ -1,4 +1,5 @@
 ---
+
 title: "G.I. Joe Classified Series Retro Cardback Craig â€œRock â€™N"
 seo_title: "G.I. Joe Retro Rock 'N Roll Review: Worth It? (2026)"
 meta_description: "Honest G.I. Joe Classified Retro Rock 'N Roll review: build quality, accessories, articulation, and whether this 4.7-star figure earns your shelf space."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9514TWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611i8QqnTDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Retro cardback packaging with original 1980s artwork that displays beautifully"
   - "Heavy machine gun with backpack ammo feed system fits securely"
   - "Vintage-inspired deco matches the original figure while using modern Classified articulation"
-cons:
+cons: 
   - "No alternate headsculpt or unmasked face option"
   - "Machine gun is top-heavy and can tip the figure backward without the stand"
   - "Limited paint wash on the face makes the likeness look flat up close"
+
 ---
 
 **The Retro Cardback That Actually Delivers**

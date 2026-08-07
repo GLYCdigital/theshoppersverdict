@@ -1,4 +1,5 @@
 ---
+
 title: "Presto 06009 10-Quart Kitchen Kettle XL Multi-Cooker, Steame"
 seo_title: "Presto 06009 10-Quart Kitchen Kettle XL Multi-Cook Review"
 meta_description: "Our full presto 06009 10-quart kitchen kettle xl multi-cooker, steame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07TRNP5V7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dcKUuNH5L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Presto 06009 10-Quart Kitchen Kettle XL: The One-Pot Workhorse That Actually Delivers

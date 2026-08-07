@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Sport High Protein Wet Dog Food Chicken and "
 seo_title: "Purina Pro Plan Sport High Protein Wet Dog Food Ch Review"
 meta_description: "Our full purina pro plan sport high protein wet dog food chicken and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B097NYFX36/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f6c1QZqJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the wet food your working dog actually needs — or just another overpriced can?**

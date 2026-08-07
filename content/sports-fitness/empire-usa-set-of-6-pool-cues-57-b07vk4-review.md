@@ -1,4 +1,5 @@
 ---
+
 title: "Empire USA Set of 6 Pool Cues - 57â€"
 seo_title: "Empire USA 6-Piece Pool Cue Set Review (57 Inch)"
 meta_description: "Honest Empire USA 6-piece pool cue set review: 57-inch cues, build quality, playability, and value for casual players. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07VK4R9WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611avpDohNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six complete 57-inch cues at a price that beats buying individual sticks — ideal for outfitting a home table or game room"
   - "Consistent weight and balance across all six cues, so players don't have to adjust their stroke when swapping sticks"
   - "Solid maple construction with a sealed finish that holds up to regular recreational play without warping or splintering"
-cons:
+cons: 
   - "Tips arrive factory-hard and slick — expect to scuff or shape them before serious play or you'll be miscueing on draw shots"
   - "No carrying case or wall rack included; you're buying bare cues only, so budget for storage separately"
+
 ---
 
 If you're outfitting a basement table or a game room that sees weekend action, here's the reality: individual pool cues worth owning run $30–$60 apiece. Buy six of those and you're out a few hundred dollars. The Empire USA Set of 6 Pool Cues sidesteps that math entirely — you get half a dozen 57-inch cues for roughly the price of one decent stick. The question isn't whether this set is a bargain. It's whether the cues are actually worth playing with.

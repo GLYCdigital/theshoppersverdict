@@ -1,4 +1,5 @@
 ---
+
 title: "Mlambert Motion Sensor LED Night Light Battery-Powered, Non-"
 seo_title: "Mlambert Motion Sensor LED Night Light Battery-Pow Review"
 meta_description: "Our full mlambert motion sensor led night light battery-powered, non- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP3PXTXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VYZirusaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The Mlambert Motion Sensor LED Night Light is the kind of product you don't think about until 2 a.m., when you're stumbling to the bathroom and don't want to blind yourself or wake your partner. It does that job well. But it's not the do-everything light some listings imply, and knowing its limits before you buy saves disappointment.

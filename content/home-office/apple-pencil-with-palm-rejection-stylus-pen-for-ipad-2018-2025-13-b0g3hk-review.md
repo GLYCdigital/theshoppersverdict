@@ -1,5 +1,6 @@
 ---
 
+
 title: "Apple Pencil with Palm Rejection, Stylus Pen for iPad(2018-2 inch"
 seo_title: "Apple Pencil with Palm Rejection Review: iPad Stylus (2026)"
 meta_description: "Apple Pencil with palm rejection for iPad 2018-2025: honest review of tilt, latency, build quality, and who should buy it. Verdict: 4.6/5."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3HKCVCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Kr5ecV8tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-latency tip with tilt sensitivity that tracks accurately even at sharp angles"
   - "Palm rejection works reliably — resting your hand on the screen doesn't produce ghost marks"
   - "Works across iPad generations 2018-2025 without pairing menus or Bluetooth fuss"
-cons:
+cons: 
   - "No pressure sensitivity — a hard limitation for digital artists coming from the Apple Pencil 2 inch"
   - "Lightweight plastic body feels less premium than Apple's own metal barrel"
+
 
 ---
 

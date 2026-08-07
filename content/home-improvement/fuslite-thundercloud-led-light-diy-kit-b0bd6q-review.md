@@ -1,4 +1,5 @@
 ---
+
 title: "FUSLITE Thundercloud LED Light DIY kit"
 seo_title: "FUSLITE Thundercloud LED Light Kit Review: Worth It?"
 meta_description: "Honest FUSLITE Thundercloud LED Light DIY kit review: build quality, brightness, wiring quirks, and who should buy this 3.8-star rated kit."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BD6QTZ49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SD+lmnY6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely bright output — 1200 lumens with a smooth, flicker-free dimming range down to 5%"
   - "Modular driver and connectors make it serviceable; you can replace individual LED strips without rewiring everything"
   - "Customizable length — cut points every 4 inches let you fit non-standard cabinet or shelf runs"
-cons:
+cons: 
   - "Instructions are borderline useless — a single poorly-labeled diagram that assumes prior wiring experience"
   - "The adhesive backing is weak; buyers report strips sagging within weeks on textured or warm surfaces"
+
 ---
 
 **Opening Hook**

@@ -1,4 +1,5 @@
 ---
+
 title: "AXMOTUT COB LED SRIP LGIHT CCT"
 seo_title: "AXMOTUT COB LED Strip Light Review: CCT Tested (2026)"
 meta_description: "Honest AXMOTUT COB LED strip light review: CCT tunability, brightness, cut marks, and real-world performance. Is it worth buying? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09XCQKZKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71I2riZrO-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "CCT tunability from 2700K warm white to 6500K daylight covers every room scenario without buying multiple strips"
   - "COB (chip-on-board) design delivers a continuous, shadow-free light line with zero visible LED dots — even at close range"
   - "Strong 3M adhesive backing holds firm on painted drywall and aluminum trim, per multiple verified reviews"
-cons:
+cons: 
   - "Cut marks every 2 inches limit precision fitting for corners and tight radius turns — measure twice before cutting"
   - "Included controller lacks a memory function, so the strip resets to default color temperature after power loss"
+
 ---
 
 Let's be blunt about the typo in the product title — "SRIP LGIHT" isn't exactly confidence-inspiring packaging. But once you unbox this thing, the sloppy spelling is the only thing that feels cheap. The AXMOTUT COB LED strip is a legitimate contender for under-cabinet kitchen lighting, TV backlighting, or workshop task lighting, and the 4.3-star average across 215 ratings tells you most buyers agree.

@@ -1,4 +1,5 @@
 ---
+
 title: "OMLIVLIES cat Bed"
 seo_title: "OMLIVLIES cat Bed Review: Verdict | TSV"
 meta_description: "Our full omlivlies cat bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2QZGNSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-p1IHQqCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill. You buy a cat bed, your cat ignores it, and you end up with a $30 dust collector that your feline treats like a laundry hamper. The OMLIVLIES cat bed at $23.45 is trying to break that cycle — and based on 235 ratings averaging 4.7 stars, it might actually be doing it. But let's dig past the star rating and see if this thing earns its spot in your living room.

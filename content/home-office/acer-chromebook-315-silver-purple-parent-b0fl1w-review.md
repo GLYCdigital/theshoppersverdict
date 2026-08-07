@@ -1,4 +1,5 @@
 ---
+
 title: "acer Chromebook 315 Silver & Purple Parent"
 seo_title: "Acer Chromebook 315 Review: Big Screen, Budget Price (2026)"
 meta_description: "Acer Chromebook 315 review: 15.6-inch display, solid battery, budget price. See pros, cons, and who should buy this Silver & Purple Chromebook."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FL1W76MP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wwtTxlKIL._AC_SL1465_.jpg"
-pros:
+pros: 
   - "15.6-inch full HD display with narrow bezels — genuinely useful for split-screen work and long documents"
   - "All-day battery life (10+ hours real-world) that survives a full work shift without a charger"
   - "Sub-4-pound chassis that's surprisingly portable for a 15-inch laptop"
-cons:
+cons: 
   - "Plastic build feels hollow; the lid flexes noticeably when you grip it from a corner"
   - "eMMC storage (64GB) fills up fast — plan for cloud storage from day one"
+
 ---
 
 The 15-inch Chromebook is a rare breed. Most manufacturers push 11- and 13-inch models, forcing you to squint at spreadsheets or juggle overlapping windows. Acer's Chromebook 315 takes the opposite approach — a big-screen budget laptop that costs less than a mid-range smartphone. After a week of daily use, here's my honest take.

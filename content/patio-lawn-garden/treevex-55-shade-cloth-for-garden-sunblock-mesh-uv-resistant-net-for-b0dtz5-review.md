@@ -1,4 +1,5 @@
 ---
+
 title: "TREEVEX 55% Shade Cloth for Garden, Sunblock Mesh UV Resista"
 seo_title: "TREEVEX 55% Shade Cloth for Garden, Sunblock Mesh  Review"
 meta_description: "Our full treevex 55% shade cloth for garden, sunblock mesh uv resista review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTZ5RKCG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81465vb898L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 55% Sweet Spot: Why This Shade Cloth Earned Its 4.6 Stars**

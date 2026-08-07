@@ -1,4 +1,5 @@
 ---
+
 title: "Hair Color Stain Remover"
 seo_title: "Hair Color Stain Remover Review: Verdict | TSV"
 meta_description: "Our full hair color stain remover review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BMZ2GV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xIpfw0TnL._SL1131_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase: if you color your hair at home, you've had that moment. You finish the application, wipe your forehead, and realize you look like you lost a fight with a sharpie. This stain remover is the product people turn to when they're done smearing toothpaste on their temples and hoping for a miracle.

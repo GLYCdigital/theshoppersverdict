@@ -1,4 +1,5 @@
 ---
+
 title: "Blbeed Metal Full Size Bed Frame, Noise-Free Design & Underb"
 seo_title: "Blbeed Metal Full Size Bed Frame Review: Noise-Free & Sturdy"
 meta_description: "Read our Blbeed metal full size bed frame review. Noise-free design, 12 inch underbed storage, 800lb capacity. See pros, cons & honest verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9TPYCGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eKXoP5WcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely quiet — reinforced welds and plastic inserts at connection points eliminate the squeaks cheap metal frames develop"
   - "12 inches of clearance underneath fits standard storage bins, maximizing space in small bedrooms"
   - "Solid 800-lb weight capacity with steel slats spaced closely enough that no box spring is required"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with 16 bolts; the instructions are minimal illustrations, not detailed steps"
   - "No headboard included — the frame's rail is purely decorative and won't support leaning or pillow propping"
   - "Steel slats can develop a slight creak under very heavy weight (250+ lbs per sleeper) after several months"
+
 ---
 
 # Blbeed Metal Full Size Bed Frame Review: Does the Noise-Free Promise Hold Up?

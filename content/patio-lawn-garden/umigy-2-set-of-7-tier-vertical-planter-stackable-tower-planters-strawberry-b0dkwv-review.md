@@ -1,4 +1,5 @@
 ---
+
 title: "Umigy 2 Set of 7 Tier Vertical Planter Stackable Tower Plant"
 seo_title: "Umigy 2 Set of 7 Tier Vertical Planter Stackable T Review"
 meta_description: "Our full umigy 2 set of 7 tier vertical planter stackable tower plant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DKWVXZ2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718UpoVwSeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced vertical planters lately, you know a decent single tower runs $35–$50. This Umigy set delivers two complete 7-tier towers for roughly the same money. That math alone pulls in a lot of shoppers. But price per tower only matters if the thing actually holds dirt and keeps plants alive — and on that front, the experience is more mixed.

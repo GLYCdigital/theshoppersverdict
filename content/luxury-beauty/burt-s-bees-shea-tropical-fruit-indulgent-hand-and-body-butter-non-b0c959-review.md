@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees Shea + Tropical Fruit Indulgent Hand and Body Bu"
 seo_title: "Burt's Bees Shea Tropical Fruit Body Butter Review (2026)"
 meta_description: "Honest Burt's Bees Shea + Tropical Fruit body butter review: rich hydration, real ingredients, and whether it's worth the splurge. 4.6/5 rating breakdown."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C959LTC9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kd59stwf._SL1500_.jpg"
-pros:
+pros: 
   - "Non-greasy formula absorbs fully in under 60 seconds — no sticky residue on hands or clothes"
   - "Real shea butter is the first ingredient (not water), so hydration actually lasts 8+ hours"
   - "Tropical fruit scent is noticeable but fades to a subtle hint within 10 minutes — not overpowering"
-cons:
+cons: 
   - "Thick texture requires a bit more effort to rub in compared to lotions — not ideal for rushed mornings"
   - "Tube packaging gets slippery when product is on your hands; squeeze carefully or you'll waste some"
+
 ---
 
 Let's be blunt: most "body butters" are glorified lotions with a fancy label. This one from Burt's Bees is different — but it's also not for everyone. Here's what 229 Amazon reviewers at a 4.6 average are actually saying, and what you need to know before you buy.

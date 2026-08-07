@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EHB2400W"
 seo_title: "Elite Gourmet EHB2400W Review: Worth It? (2026)"
 meta_description: "Honest Elite Gourmet EHB2400W review: performance, durability, and real buyer feedback. See if this 4.0-star kitchen gadget earns a spot in your home."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DW4DB8GV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Fast 1500W heating element boils water in under 4 minutes for a full 1.7L capacity"
   - "Stainless steel interior — no plastic taste leaching into your water, unlike cheaper kettles"
   - "Auto shut-off and boil-dry protection give genuine peace of mind for absent-minded users"
-cons:
+cons: 
   - "Lid doesn't open fully — awkward to clean inside, especially if you get mineral buildup"
   - "Cord is on the shorter side at about 28 inches, limiting counter placement options"
+
 ---
 
 Look, you don't need a $150 smart kettle to boil water. But you also don't want something that tastes like a plastic factory or dies in three months. The Elite Gourmet EHB2400W sits in that crowded middle ground where most electric kettles live — and honestly, it does the job better than most of its price-shelf neighbors.

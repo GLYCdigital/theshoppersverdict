@@ -1,4 +1,5 @@
 ---
+
 title: "Hosim Mini 1:8 RC Cars for Adults, 80+KPH High Speed Remote"
 seo_title: "Hosim Mini 1:8 RC Car Review: 80KPH Speed Worth It?"
 meta_description: "Hosim Mini 1:8 RC car review: 80+KPH brushless speed, 4WD durability, and real buyer feedback. Is this high-speed RC worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWMVV12B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81h723hcUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 80+ KPH top speed with brushless motor — verified by multiple owners with GPS units"
   - "Full metal drivetrain (gears, drive shafts, differentials) holds up to hard bashing"
   - "Oil-filled adjustable shocks with aluminum shocks caps give surprisingly plush landings"
-cons:
+cons: 
   - "Battery life is short — expect 12–15 minutes of hard running per 3S pack"
   - "Stock tires balloon badly at top speed, reducing stability above 60 KPH"
   - "Manual is minimal; beginners will need YouTube to set up the gyro and throttle curves"
+
 ---
 
 **Is 80 KPH in a 1:8 scale car actually fun, or just terrifying?** The Hosim Mini 1:8 RC Car claims numbers that used to be reserved for $500+ race kits — and at this price point, that alone grabs attention. I've spent time with this machine, and here's what you need to know before clicking buy.

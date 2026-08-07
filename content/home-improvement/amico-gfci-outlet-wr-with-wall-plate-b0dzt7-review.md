@@ -1,4 +1,5 @@
 ---
+
 title: "Amico GFCI Outlet(WR) with Wall Plate"
 seo_title: "Amico GFCI Outlet WR Review: 4.6-Star Weather Resistant Duplex"
 meta_description: "Amico GFCI Outlet(WR) with Wall Plate review: 4.6/5 stars. Tamper-resistant, weather-proof duplex receptacle. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZT7B5NC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hMeP5UyCL._SL1500_.jpg"
-pros:
+pros: 
   - "True weather-resistant (WR) rating with sealed internal gaskets — not just a sticker"
   - "Slim profile that sits flatter against the wall than most GFCI models"
   - "Includes matching wall plate and screws, so no extra trip to the hardware store"
-cons:
+cons: 
   - "Test/Reset buttons feel slightly recessed — harder to press with thick gloves"
   - "White plate only — no almond or ivory option in the box"
+
 ---
 
 Walk into any big-box hardware store and you'll see a wall of GFCI outlets that all look identical. The Amico GFCI Outlet (WR) with Wall Plate is trying to stand out. Does it? After digging through 229 ratings and the spec sheet, here's the honest story.

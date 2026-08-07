@@ -1,4 +1,5 @@
 ---
+
 title: "BAMEOS Floating Shelves Rustic Wood Wall Shelf, Small Booksh"
 seo_title: "BAMEOS Floating Shelves Review: Rustic Wood Wall Shelf Worth It?"
 meta_description: "Honest BAMEOS floating shelves review: rustic wood wall shelf for living rooms. Build quality, weight limits, installation tips & who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYZM75JF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h7VF17h9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine solid wood construction — no particleboard or MDF veneer, so the rustic grain pattern is real, not printed"
   - "Hidden mounting bracket system creates a true floating look with no visible hardware from the front"
   - "Pre-drilled and pre-stained — installs in under 20 minutes if you have a stud finder and level"
-cons:
+cons: 
   - "Only supports up to 15 lbs per shelf, so heavy hardcover book stacks will sag or pull the bracket"
   - "Rustic finish means visible knots and color variation — buyers wanting a uniform stain will be disappointed"
   - "Screws and drywall anchors included are cheap; replace them with quality ones for anything beyond a single row of paperbacks"
+
 ---
 
 Floating shelves are the easiest way to make a rental or a bare wall look intentional — but most of them are cheap laminated particleboard that sags after a season. The BAMEOS Rustic Wood Wall Shelf actually uses solid pine, which puts it ahead of most of its price bracket. The real question is whether the rustic look and the weight limit work for your space.

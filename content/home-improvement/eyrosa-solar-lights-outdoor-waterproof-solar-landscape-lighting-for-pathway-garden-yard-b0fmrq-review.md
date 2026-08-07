@@ -1,4 +1,5 @@
 ---
+
 title: "Eyrosa Solar Lights Outdoor, Waterproof Solar Landscape Ligh"
 seo_title: "Eyrosa Solar Lights Outdoor Review: Worth It? (2026)"
 meta_description: "Honest Eyrosa solar landscape lights review: brightness, waterproofing, battery life, and real buyer feedback. See if they're worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FMRQD952/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z3HdbrIiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "IP65 waterproof rating with sealed casing that survives heavy rain and snow"
   - "Warm 3000K light that casts a wide 120-degree beam — decent for pathway edges and garden borders"
   - "Auto on/off dusk sensor works reliably in testing, no manual switching needed"
-cons:
+cons: 
   - "Battery life drops to 4-5 hours in winter when sunlight is scarce"
   - "Plastic housing feels light — don't expect premium metal build"
   - "No replacement battery access; once the cell degrades (2-3 years), the unit is done"
+
 ---
 
 Let's cut through the listing photos. Solar landscape lights are a crowded category, and most of them are cheap junk that dies in a month. The Eyrosa Solar Lights Outdoor set has 225 ratings at 4.5 stars, which suggests it's doing something right. But what does that rating actually mean for your yard? Here's the real story.

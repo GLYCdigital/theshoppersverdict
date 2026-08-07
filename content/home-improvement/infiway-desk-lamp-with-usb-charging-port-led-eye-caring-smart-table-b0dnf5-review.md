@@ -1,4 +1,5 @@
 ---
+
 title: "Infiway Desk Lamp with USB Charging Port: LED Eye-Caring Sma"
 seo_title: "Infiway Desk Lamp with USB Charging Port: LED Eye- Review"
 meta_description: "Our full infiway desk lamp with usb charging port: led eye-caring sma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNF56XKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+5eSqpl2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 Desk Lamp That Actually Cares About Your Eyes

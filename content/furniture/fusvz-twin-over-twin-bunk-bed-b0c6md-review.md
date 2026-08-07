@@ -1,4 +1,5 @@
 ---
+
 title: "FUSVZ Twin Over Twin bunk Bed"
 seo_title: "FUSVZ Twin Over Twin Bunk Bed Review: Solid Buy or Skip?"
 meta_description: "Honest FUSVZ Twin Over Twin bunk bed review: build quality, assembly, weight limits, and who it's best for. See pros, cons, and final verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C6MD499S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SGkduIYKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty steel frame rated for 400+ lbs per bunk — handles adults, not just kids"
   - "No box spring needed — slats support standard twin mattresses directly, saving $100+"
   - "Ladder can be mounted on either side, giving flexibility for room layouts"
-cons:
+cons: 
   - "Assembly is a two-person job and takes 1–2 hours — the instructions are sparse"
   - "Top bunk has no guardrail padding; sharp metal edges are exposed on corners"
+
 ---
 
 Let's be straight about the FUSVZ Twin Over Twin: it's a metal bunk bed that does exactly what it says, nothing more, nothing less. At 4.1 stars from 204 ratings, it's not blowing anyone's mind, but it's not disappointing anyone either. Here's what you need to know before you click buy.

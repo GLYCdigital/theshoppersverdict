@@ -1,4 +1,5 @@
 ---
+
 title: "Nike Insulated Lunch Bag with Adjustable Shoulder Strap - On"
 seo_title: "Nike Insulated Lunch Bag with Adjustable Shoulder  Review"
 meta_description: "Our full nike insulated lunch bag with adjustable shoulder strap - on review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F8PPVWHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61THx01aAZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: a Nike logo on a lunch bag usually means you're paying $20 extra for the swoosh. But after digging through 235 ratings and testing the build specs, this one earns its keep — with a couple of caveats.

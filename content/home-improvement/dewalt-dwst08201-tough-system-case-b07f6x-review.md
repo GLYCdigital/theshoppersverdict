@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DWST08201 Tough System Case"
 seo_title: "DEWALT DWST08201 Tough System Case Review: Worth It?"
 meta_description: "DEWALT DWST08201 Tough System Case review: 4.5-star rated modular storage. See real pros, cons, and who should buy this rugged tool case."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07F6XZ844/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r0LrzoHUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty construction with a 165 lb stacking load rating — you can build a tower without worrying about the bottom case crushing"
   - "All-metal reinforced latches and a full-length metal hinge that survive job site abuse far better than plastic-only designs"
   - "Deep internal cavity with a removable tote tray — fits a circular saw or drill kit with room for accessories underneath"
-cons:
+cons: 
   - "No wheels on this model — if you're hauling heavy loads across a parking lot, you'll want the wheeled version instead"
   - "Latch design requires both hands to open smoothly; gloves make it slightly awkward until you get the hang of it"
+
 ---
 
 ## The storage upgrade your tools have been waiting for

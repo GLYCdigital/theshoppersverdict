@@ -1,4 +1,5 @@
 ---
+
 title: "Complete 50 Uncirculated State (99-08) Quarter Collection Se"
 seo_title: "Complete 50 State Quarter Collection Review (2026)"
 meta_description: "Honest review of the Complete 50 Uncirculated State Quarter Collection Set. See what's included, quality concerns, and if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07BH68GQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZUkiD+8hL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Every state quarter from 1999-2008 included, plus all 6 territory quarters (DC, Puerto Rico, Guam, American Samoa, US Virgin Islands, Northern Mariana Islands) — 56 coins total"
   - "Coins arrive in individual protective flips, not loose or rattling around a box"
   - "Genuine uncirculated government-issued quarters, not replicas or novelty tokens"
-cons:
+cons: 
   - "No display album or folder included — you'll need to buy a separate holder if you want to show them off"
   - "Some buyers report minor surface marks or handling scratches despite the 'uncirculated' claim"
   - "Coin condition varies by state — the later issues (2004-2008) tend to look better than early ones"
+
 ---
 
 Let's be clear about what this is: a complete set of 50 state quarters plus 6 territorial quarters, all uncirculated from the U.S. Mint. It's not a coin grading service product, not a collector's album, and not a fancy wooden presentation box. It's a straightforward, no-frills way to get every single state quarter minted between 1999 and 2008 in one go.

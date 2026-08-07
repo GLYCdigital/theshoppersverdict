@@ -1,4 +1,5 @@
 ---
+
 title: "MINISFORUM BD790i X3D Motherboard AMD Ryzen 9 7945HX3D(16C/3"
 seo_title: "MINISFORUM BD790i X3D Motherboard AMD Ryzen 9 7945 Review"
 meta_description: "Our full minisforum bd790i x3d motherboard amd ryzen 9 7945hx3d(16c/3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DBHNB8GM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714nMluk5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This isn't your typical motherboard. The MINISFORUM BD790i X3D packs an AMD Ryzen 9 7945HX3D — a 16-core, 32-thread laptop chip with 128MB of 3D V-Cache — directly onto a Mini-ITX board. If you're building a small-form-factor (SFF) rig for gaming or heavy productivity, this is a shortcut to serious performance without the bulk of a full ATX tower.

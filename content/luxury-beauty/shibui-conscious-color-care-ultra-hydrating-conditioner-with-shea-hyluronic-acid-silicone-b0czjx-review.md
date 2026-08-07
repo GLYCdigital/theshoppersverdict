@@ -1,4 +1,5 @@
 ---
+
 title: "SHIBUI Conscious Color Care Ultra Hydrating Conditioner with"
 seo_title: "SHIBUI Conscious Color Care Ultra Hydrating Condit Review"
 meta_description: "Our full shibui conscious color care ultra hydrating conditioner with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZJXYFCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516fFc3QK-L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what "luxury hair care" usually means: pretty packaging, a hefty price tag, and a formula that's 90% the same as the drugstore bottle next to it. The SHIBUI Conscious Color Care Ultra Hydrating Conditioner doesn't fall into that trap — but it also isn't perfect.

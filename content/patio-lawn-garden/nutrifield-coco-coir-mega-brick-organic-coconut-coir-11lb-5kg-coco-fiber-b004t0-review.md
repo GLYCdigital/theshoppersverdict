@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrifield Coco Coir Mega Brick Organic Coconut Coir 11lb 5k"
 seo_title: "Nutrifield Coco Coir Mega Brick Organic Coconut Co Review"
 meta_description: "Our full nutrifield coco coir mega brick organic coconut coir 11lb 5k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004T0G67S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bq79421-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still buying peat moss in 2026, this review might change your mind. The Nutrifield Coco Coir Mega Brick is a compressed 11lb block of organic coconut coir that expands into roughly 85 liters of growing medium. That's about three cubic feet of soil amendment from something roughly the size of a shoebox. For container gardeners, raised beds, or anyone starting seeds, that expansion ratio is the headline — and it holds up.

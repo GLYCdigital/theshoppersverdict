@@ -1,4 +1,5 @@
 ---
+
 title: "Nulea M501 Wireless Trackball Mouse, Rechargeable Ergonomic,"
 seo_title: "Nulea M501 Wireless Trackball Mouse, Rechargeable  Review"
 meta_description: "Our full nulea m501 wireless trackball mouse, rechargeable ergonomic, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09Y544F2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IDlnpaH6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Nulea M501: A Rechargeable Trackball That Respects Your Wrist (and Your Desk)**

@@ -1,4 +1,5 @@
 ---
+
 title: "TSEXES LED Corn Bulb"
 seo_title: "TSEXES LED Corn Bulb Review: Verdict | TSV"
 meta_description: "Our full tsexes led corn bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GX5R4R7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RMriJtTEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most LED corn bulbs you'll find on Amazon are cheap, hot-running, and dead within a year. The TSEXES LED Corn Bulb is not that. But it's also not perfect — and knowing the difference before you buy saves you a return trip.

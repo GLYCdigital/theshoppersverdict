@@ -1,4 +1,5 @@
 ---
+
 title: "Legrand Wiremold C310 Cordmate III 10 Foot 11 Piece Cord Cov"
 seo_title: "Legrand Wiremold C310 Cordmate III 10 Foot 11 Piec Review"
 meta_description: "Our full legrand wiremold c310 cordmate iii 10 foot 11 piece cord cov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00P4TN14E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Wap7VAG-L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: exposed cables running along your baseboard look terrible. The Legrand Wiremold C310 Cordmate III is the most popular fix for that problem, and at 4.5 stars from 225 ratings, it’s clearly working for most people. But does it work for *your* situation? Here’s the real breakdown.

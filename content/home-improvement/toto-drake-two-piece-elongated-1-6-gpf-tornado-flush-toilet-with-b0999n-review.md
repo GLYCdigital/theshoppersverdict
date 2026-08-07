@@ -1,4 +1,5 @@
 ---
+
 title: "TOTO Drake Two-Piece Elongated 1.6 GPF TORNADO FLUSH Toilet "
 seo_title: "TOTO Drake Two-Piece Elongated 1.6 GPF TORNADO FLU Review"
 meta_description: "Our full toto drake two-piece elongated 1.6 gpf tornado flush toilet  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0999NM6CH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bfhN3oraS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The toilet is the most-used fixture in your home, and buying a bad one means a decade of regret. The TOTO Drake series has been the default recommendation from plumbers for years, and this two-piece elongated version with the Tornado Flush system is the model most homeowners end up installing. Here's what you actually need to know before you hand over your credit card.

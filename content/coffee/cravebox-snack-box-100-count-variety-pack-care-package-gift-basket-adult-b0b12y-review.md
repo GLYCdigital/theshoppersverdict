@@ -1,4 +1,5 @@
 ---
+
 title: "CRAVEBOX Snack Box (100 Count) Variety Pack Care Package Gif"
 seo_title: "CRAVEBOX 100 Count Snack Box Review: Worth It? (2026)"
 meta_description: "Honest CRAVEBOX 100-count snack box review: 4.5-star rated care package. What's inside, real pros/cons, and who should buy it before you order."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B12YK41T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1u-kxFl7hL._SL1500_.jpg"
-pros:
+pros: 
   - "Massive 100-item count with real brand-name snacks (Lay's, Oreo, Welch's) — not generic off-brand filler"
   - "Individually wrapped items make it ideal for sharing, gifting, or office stash without portion control worries"
   - "Balanced mix of sweet, salty, and crunchy textures across chips, cookies, candies, and trail mixes"
-cons:
+cons: 
   - "No customization — you get what you get, and repeat orders may contain overlapping items"
   - "Some containers are small single-serve sizes; heavy snackers may blow through the box faster than expected"
   - "Box arrives compressed; chips occasionally show minor crushing from shipping, though seals hold"
+
 ---
 
 Let me be straight with you: a 100-count snack box sounds like a gimmick until you actually need a care package, an office drawer backup, or a gift for someone who's impossible to shop for. The CRAVEBOX (100 Count) has earned its 4.5-star rating across 225 Amazon reviews for a reason — but it's not perfect, and you deserve to know exactly what you're getting before you hit buy.

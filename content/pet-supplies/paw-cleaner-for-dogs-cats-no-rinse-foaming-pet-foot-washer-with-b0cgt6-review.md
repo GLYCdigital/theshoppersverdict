@@ -1,4 +1,5 @@
 ---
+
 title: "Paw Cleaner for Dogs & Cats, No-Rinse Foaming Pet Foot Washe"
 seo_title: "Paw Cleaner for Dogs & Cats, No-Rinse Foaming Pet  Review"
 meta_description: "Our full paw cleaner for dogs & cats, no-rinse foaming pet foot washe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGT6VLWC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qvHdWQq3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever chased a muddy dog through the kitchen with a roll of paper towels, you know the drill: paw prints on the floor, dirt under your nails, and a dog who hates the whole production. This no-rinse foaming paw cleaner aims to kill that ritual dead. Does it? Mostly yes — with some caveats worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bubble Bath Variation"
 seo_title: "Bubble Bath Variation Review: Is This Luxury Soak Worth It?"
 meta_description: "Honest Bubble Bath Variation review: lather quality, scent strength, skin feel, and value. See pros, cons, and who should buy this 4.5-star soak."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRZG7BYC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gddiCdCNL._AC_SL1370_.jpg"
-pros:
+pros: 
   - "Long-lasting, dense foam that holds structure for 30+ minutes without deflating"
   - "Concentrated formula — one capful produces a full tub of bubbles, so the bottle stretches further than expected"
   - "Skin feels conditioned post-soak, not stripped or squeaky, thanks to glycerin and coconut-derived surfactants"
-cons:
+cons: 
   - "Scent strength varies by variation — some batches arrive faint, others overpowering; no consistency guarantee"
   - "No pump or measuring cap — you'll guess at the right pour, and over-pouring wastes product quickly"
+
 ---
 
 **Opening: The Bubble Bath That Actually Delivers (Mostly)**

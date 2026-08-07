@@ -1,4 +1,5 @@
 ---
+
 title: "Besseto Plaster-in LED Channel 6.6FT/2 Meter Trim Edge Tile"
 seo_title: "Besseto Plaster-in LED Channel Review: 6.6FT Trim Edge"
 meta_description: "Honest Besseto Plaster-in LED Channel 6.6FT/2M Trim Edge Tile review. Build quality, installation tips, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3LRVW6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nAO3HSyoL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Thick 1.2mm aluminum extrusion feels substantial and won't flex or bend during plastering"
   - "Plaster-in design creates a seamless, flush-to-wall look that's genuinely high-end"
   - "Includes both end caps and mounting clips — no hidden extras to buy"
-cons:
+cons: 
   - "Supplied diffuser is on the thinner side; you'll want to handle it carefully during installation"
   - "2-meter fixed length means you'll need a hacksaw or miter saw for precise cuts — no pre-scored breakpoints"
   - "Not a complete kit — LED strip and driver are sold separately, which catches some buyers off guard"
+
 ---
 
 Thinking about recessed LED lighting for a plastered wall or tiled feature? The Besseto Plaster-in LED Channel is the kind of product that separates a DIY job that looks "pretty good" from one that looks professionally installed. But it's not without its quirks. Let's get into it.

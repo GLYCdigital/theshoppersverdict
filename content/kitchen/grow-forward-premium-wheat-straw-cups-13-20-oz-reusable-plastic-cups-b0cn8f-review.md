@@ -1,4 +1,5 @@
 ---
+
 title: "Grow Forward Premium Wheat Straw Cups - 13 & 20 oz Reusable "
 seo_title: "Grow Forward Premium Wheat Straw Cups - 13 & 20 oz Review"
 meta_description: "Our full grow forward premium wheat straw cups - 13 & 20 oz reusable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CN8FHXM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A0Un1jMeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Grow Forward Premium Wheat Straw Cups: The Eco-Friendly Tumbler That Actually Holds Up

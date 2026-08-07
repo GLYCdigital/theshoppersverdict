@@ -1,4 +1,5 @@
 ---
+
 title: "Harris Solder Kit SB861 & SCPF4 - Stay-Brite #8 Silver Beari"
 seo_title: "Harris Solder Kit SB861 & SCPF4 - Stay-Brite #8 Si Review"
 meta_description: "Our full harris solder kit sb861 & scpf4 - stay-brite #8 silver beari review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0799NVB4Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aqB76AIUS._AC_SL1330_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most plumbers and DIYers reach for 95/5 tin-antimony solder when joining copper pipe, and for good reason — it's cheap, it works, and it's everywhere. But if you're soldering potable water lines, refrigeration lines, or anything where the integrity of the joint truly matters, the Harris Stay-Brite #8 kit deserves a serious look. With 235 ratings averaging 4.7 stars, this isn't a niche product — it's a proven performer. Here's the real story on whether it belongs in your toolbox.

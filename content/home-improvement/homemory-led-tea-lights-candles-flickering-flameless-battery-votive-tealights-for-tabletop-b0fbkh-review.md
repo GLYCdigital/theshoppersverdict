@@ -1,4 +1,5 @@
 ---
+
 title: "Homemory LED Tea Lights Candles, Flickering Flameless Batter"
 seo_title: "Homemory LED Tea Lights Candles, Flickering Flamel Review"
 meta_description: "Our full homemory led tea lights candles, flickering flameless batter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBKHCCJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613ICha3fZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever used a flameless tea light that looks like a glowing hockey puck, you know the disappointment. The Homemory LED Tea Lights are not that. These are the ones that make guests do a double-take — the flame is a molded 3D shape, not a flat LED blob, and the flicker is genuinely random, mimicking a real candle’s dance.

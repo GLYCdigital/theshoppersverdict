@@ -1,4 +1,5 @@
 ---
+
 title: "Lakhow 122CZ Folding Table 4-Foot Portable Small Table Semi "
 seo_title: "Lakhow 122CZ Folding Table 4-Foot Portable Small T Review"
 meta_description: "Our full lakhow 122cz folding table 4-foot portable small table semi  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FR98BS9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51vPoyoVvXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4-foot folding table is the Goldilocks of portable furniture — and the Lakhow 122CZ mostly nails it.**

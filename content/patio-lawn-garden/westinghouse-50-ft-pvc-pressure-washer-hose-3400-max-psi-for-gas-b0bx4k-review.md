@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse 50 ft PVC Pressure Washer Hose - 3400 Max PSI -"
 seo_title: "Westinghouse 50 ft PVC Pressure Washer Hose - 3400 Review"
 meta_description: "Our full westinghouse 50 ft pvc pressure washer hose - 3400 max psi - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX4K3HPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KqfH+YozL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about pressure washer hoses: most are either too short, too stiff, or they burst on the third use. The Westinghouse 50 ft PVC hose sits in the middle of the market — not the cheapest, not the most premium — but it does exactly what the spec sheet promises. Given the 4.4-star average across 220 ratings, buyers largely agree. Here's the full picture before you spend.

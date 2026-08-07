@@ -1,4 +1,5 @@
 ---
+
 title: "Husqvarna 122HD60 21.7cc Gas 23.7-in Dual Action Hedge Trimm"
 seo_title: "Husqvarna 122HD60 21.7cc Gas 23.7-in Dual Action H Review"
 meta_description: "Our full husqvarna 122hd60 21.7cc gas 23.7-in dual action hedge trimm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B008N2ALXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41sGtDwk6QL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some hedge trimmers are toys. This one isn't. The Husqvarna 122HD60 is a serious piece of gas-powered equipment for anyone with substantial shrubbery, and at 4.5 stars across 225 ratings, it's earned its reputation. But here's what the product page won't tell you: it's powerful enough to be genuinely dangerous if you're not careful, and heavy enough to make you regret skipping arm day. Let's break down whether this 21.7cc beast belongs in your shed.

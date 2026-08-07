@@ -1,4 +1,5 @@
 ---
+
 title: "Eukanuba Fit Body Weight Control Small Breed Dry Dog Food"
 seo_title: "Eukanuba Fit Body Weight Control Small Breed Review (2026)"
 meta_description: "Honest Eukanuba Fit Body Weight Control Small Breed review: ingredients, portion control, real owner feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09PRVBLTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hshItTosL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "L-carnitine added at clinically studied levels to support fat metabolism — not just a marketing sprinkle"
   - "Small kibble shape designed for brachycephalic and toy breeds that struggle with larger bites"
   - "84% digestibility claim backed by Eukanuba's feeding trials, which is unusually transparent for the category"
-cons:
+cons: 
   - "First ingredient is chicken by-product meal, not whole meat — a dealbreaker for some owners despite the nutrition profile"
   - "Price per pound runs 20–30% higher than comparable weight-control lines from Purina or Hill's"
+
 ---
 
 Let's be direct about what this bag actually is: a veterinary-adjacent weight management food for small breeds that doesn't pretend to be something it isn't. The 4.6-star average across 229 ratings tells you most owners aren't fighting their dogs to eat it — which, for a diet food, is half the battle.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pizza Chicken Sticks Snack Mates by The New Primal, High Pro"
 seo_title: "Pizza Chicken Sticks Snack Mates by The New Primal Review"
 meta_description: "Our full pizza chicken sticks snack mates by the new primal, high pro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DD81G4D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zLMZ08BRL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The New Primal Pizza Chicken Sticks Snack Mates: A High-Protein Snack Worth Your Lunchbox Space?**

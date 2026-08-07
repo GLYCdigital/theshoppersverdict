@@ -1,4 +1,5 @@
 ---
+
 title: "bedee Grow Light for Indoor Plants: Inch Plant Lights for Seed Starting"
 seo_title: "bedee Grow Light Review: Inch Plant Lights for Seed Starting"
 meta_description: "Honest bedee grow light review: full-spectrum inch plant lights for seed starting. See real pros, cons, and who should buy this 4.1-star rated grow light."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DY7G6M7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-bNjpjOML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-spectrum 660nm red + 450nm blue LEDs deliver genuine photosynthetically active radiation for seedlings and cuttings"
   - "Flexible gooseneck arm holds position without drooping, letting you keep lights 2–4 inches above delicate sprouts"
   - "Built-in timer with 3/6/12-hour cycles removes the guesswork — set it and forget it for consistent photoperiods"
-cons:
+cons: 
   - "Single-head design covers a limited footprint (roughly 1–2 square feet), so large seed-starting trays will need multiple units"
   - "Included stand is stable but the clamp mechanism struggles on surfaces thicker than 1.5 inches"
   - "No dimming control — brightness is fixed, which can be too intense for low-light houseplants like ferns or philodendrons"
+
 ---
 
 If you've killed more seedlings than you've saved, the bedee Grow Light for Indoor Plants might be the intervention your seed-starting setup needs. This compact, full-spectrum LED lamp targets the exact wavelengths plants crave, and at 4.1 stars across 204 ratings, it's earning its place on windowsills and grow tents alike. But it's not without compromises — here's the real story before you hit buy.

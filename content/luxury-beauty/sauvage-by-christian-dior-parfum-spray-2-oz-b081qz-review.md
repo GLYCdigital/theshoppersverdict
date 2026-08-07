@@ -1,4 +1,5 @@
 ---
+
 title: "Sauvage by Christian Dior Parfum Spray 2 oz"
 seo_title: "Sauvage by Christian Dior Parfum Spray 2 oz Review: Verdi"
 meta_description: "Our full sauvage by christian dior parfum spray 2 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B081QZH8CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lWPKOtYUL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the hype. Sauvage is the best-selling men's fragrance of the past decade, but the *Parfum* version — the strongest concentration in the line — is a different animal from the ubiquitous EDT you smell in every elevator. This 2 oz bottle isn't for casual scent wearers. It's for someone who wants one spray to last through a 12-hour workday and into dinner.

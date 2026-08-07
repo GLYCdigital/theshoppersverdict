@@ -1,23 +1,25 @@
 ---
+
 title: "Blue Summit Accordion File Wallet with Flap and Cord Closure"
 seo_title: "Blue Summit Accordion File Wallet Review: Durable 13-Pocket Organizer"
 meta_description: "Blue Summit Accordion File Wallet review: Is this 13-pocket letter-size organizer worth $33? Read real pros, cons, and who should buy it."
 slug: "blue-summit-accordion-file-wallet-with-flap-and-cord-closure-letter-size-b0cjvn-review"
 image_alt: "Blue Summit accordion file wallet with flap and cord closure, letter size, open showing multiple labeled pockets"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 33.49  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: 33.49
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJVNN4S3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61roHwlcY8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "13 expandable pockets hold 100+ sheets each without bulging or tearing at the seams"  
   - "Rigid polypropylene cover with a secure cord-and-flap closure protects documents from dust and bending"  
   - "Labeling tabs are pre-printed but blank — you can write directly on them or use the included sticker set"  
-cons:  
+cons: 
   - "No handle or carrying strap — you'll need to tuck it under your arm or slide it into a larger bag"  
   - "At $33, it costs more than basic accordion files, though the build quality justifies the premium"
+
 ---
 
 ## The accordion file that doesn't fall apart in three months

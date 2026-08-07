@@ -1,4 +1,5 @@
 ---
+
 title: "OILSAO Electric Toothbrush with Water Flosser Combo in One,5"
 seo_title: "OILSAO Electric Toothbrush with Water Flosser Comb Review"
 meta_description: "Our full oilsao electric toothbrush with water flosser combo in one,5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DS27TGM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XnlTsCK3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The One-Device Solution That Almost Nails It

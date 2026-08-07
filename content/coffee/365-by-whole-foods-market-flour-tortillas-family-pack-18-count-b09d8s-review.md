@@ -1,4 +1,5 @@
 ---
+
 title: "365 By Whole Foods Market, Flour Tortillas, Family Pack, 18 inch"
 seo_title: "365 Whole Foods Flour Tortillas Review: Family Pack Worth It?"
 meta_description: "Honest review of 365 Whole Foods Market Flour Tortillas Family Pack (18 count). Texture, taste, and value compared. Is this 4.6-star tortilla worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09D8S7K36/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xopYLuRIL._SL1000_.jpg"
-pros:
+pros: 
   - "Soft, pliable texture that doesn't crack when rolled or folded"
   - "Clean ingredient list with no artificial preservatives or hydrogenated oils"
   - "Family pack of 18 offers solid per-tortilla value for big households"
-cons:
+cons: 
   - "Slightly thinner than restaurant-style tortillas — not ideal for heavy fillings"
   - "Can dry out quickly if not stored properly after opening"
+
 ---
 
 Let's be blunt: most grocery store flour tortillas taste like cardboard wrapped in plastic. So when the 365 By Whole Foods Market Family Pack showed up with a 4.6-star average across 229 ratings, I was skeptical. But after working through all 18 of these, I get it.

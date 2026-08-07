@@ -1,4 +1,5 @@
 ---
+
 title: "HULALA HOME Wood Nightstand with Charging Station, 3 Drawer "
 seo_title: "HULALA HOME Wood Nightstand with Charging Station, Review"
 meta_description: "Our full hulala home wood nightstand with charging station, 3 drawer  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F543T692/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hbyLKm-7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bedside table that actually earns its plug space**

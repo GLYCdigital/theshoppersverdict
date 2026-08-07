@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Icons Retro Radio Building Set for Adults - Home Decor "
 seo_title: "LEGO Icons Retro Radio Building Set for Adults - H Review"
 meta_description: "Our full lego icons retro radio building set for adults - home decor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D738JLYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715nuhRyGFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: a 906-piece LEGO set that looks like your grandfather's radio, but with a working FM tuner hidden inside. If that sentence sounds intriguing, you're the target audience. If it sounds pointless, you can probably stop reading — but you'd be missing one of the more clever adult LEGO sets to drop recently.

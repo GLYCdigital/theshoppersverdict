@@ -1,4 +1,5 @@
 ---
+
 title: "Aigostar 2 Slice Retro Toaster Stainless Steel, 1.6 Inch Ext"
 seo_title: "Aigostar 2 Slice Retro Toaster Review: Extra-Wide & Reliable (2026)"
 meta_description: "Aigostar 2 Slice Retro Toaster review: extra-wide 1.6-inch slots, stainless steel build, 6 browning levels. Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D95NSMX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618yKeLExSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1.6-inch extra-wide slots fit thick bagels, Texas toast, and artisan slices without forcing"
   - "Retro stainless steel design with chrome accents looks far more expensive than the price point"
   - "Six browning levels with a wide range — level 3-4 hits the sweet spot for even golden toast"
-cons:
+cons: 
   - "Single-sided heating element means you must press the 'bagel' button manually for even bagel toasting"
   - "Crumb tray is shallow and slides out from the front, requiring careful handling to avoid spills"
+
 ---
 
 Let’s be honest about toasters: most are boring, plastic rectangles that burn one side and undercook the other. The Aigostar 2 Slice Retro Toaster tries to break that mold with vintage styling, stainless steel construction, and an extra-wide 1.6-inch slot that actually accommodates real bakery bread. After combing through 215 ratings and the detailed feedback those buyers left, here’s what you need to know before adding it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Black Hardware Cloth 19 Gauge 1/2 inch 48 inch x 100 Foot Ch"
 seo_title: "Black Hardware Cloth 19 Gauge 1/2″ 48″x100′ Review (2026)"
 meta_description: "Honest review of black hardware cloth 19 gauge 1/2 inch 48x100 ft. Is this welded wire mesh worth it for gardening, chicken coops, or pest control? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSL9P6SS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rjCMbA6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "PVC coating actually stays put — doesn't flake off during cutting or bending, unlike cheaper coated meshes"
   - "1/2-inch openings block mice, snakes, and even young squirrels, not just chickens and rabbits"
   - "100-foot roll covers large runs without splices; 48-inch width fits standard coop framing with minimal waste"
-cons:
+cons: 
   - "19 gauge is lighter than 14 or 16 gauge — raccoons or large dogs can bend it if they really commit"
   - "Roll arrives tightly wound; the edges have a spring-back that makes solo handling awkward until you weigh it down"
+
 ---
 
 If you're building a chicken run, reinforcing a garden bed, or trying to keep rodents out of a shed, you already know the difference between hardware cloth and chicken wire. Chicken wire keeps chickens in. Hardware cloth keeps predators out. This 19-gauge, 1/2-inch mesh in the 48-inch by 100-foot format is one of the more practical bulk options on Amazon right now, and with a 4.6-star average across 229 ratings, it's earned its reputation. Here's the real story.

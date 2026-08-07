@@ -1,4 +1,5 @@
 ---
+
 title: "Nazhura 350 Weight Limit Heavy Duty Plastic Folding Chair wi"
 seo_title: "Nazhura 350 Weight Limit Heavy Duty Plastic Foldin Review"
 meta_description: "Our full nazhura 350 weight limit heavy duty plastic folding chair wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXCDK183/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WNq9ltY+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 350-lb Capacity Claim Is Real — Here's What That Actually Means**

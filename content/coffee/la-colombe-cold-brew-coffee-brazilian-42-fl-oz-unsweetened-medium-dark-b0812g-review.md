@@ -1,4 +1,5 @@
 ---
+
 title: "La Colombe Cold Brew Coffee - Brazilian - 42 Fl Oz - Unsweet"
 seo_title: "La Colombe Cold Brew Coffee - Brazilian - 42 Fl Oz Review"
 meta_description: "Our full la colombe cold brew coffee - brazilian - 42 fl oz - unsweet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0812GFWM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yRS+b+gsL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You can spend $6 on a single 12-ounce cold brew at a café, or you can pour yourself a glass of this 42-ounce bottle for roughly half that per serving. That math alone makes La Colombe's Brazilian cold brew worth a hard look. But the real story is what's inside: a slow-steeped, unsweetened concentrate-style brew that's become a fridge staple for people who actually care about flavor, not just caffeine delivery.

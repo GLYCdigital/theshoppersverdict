@@ -1,4 +1,5 @@
 ---
+
 title: "Sunnyside Corporation 872G5 5-Gallon Boiled Linseed Oil"
 seo_title: "Sunnyside Corporation 872G5 5-Gallon Boiled Linsee Review"
 meta_description: "Our full sunnyside corporation 872g5 5-gallon boiled linseed oil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000C02ACY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VOxS-LB2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sunnyside Corporation 872G5 5-Gallon Boiled Linseed Oil Review

@@ -1,4 +1,5 @@
 ---
+
 title: "Upgraded W10900538 W11239961 Refrigerator Door Shelf Bin (RI"
 seo_title: "Upgraded W10900538 W11239961 Refrigerator Door She Review"
 meta_description: "Our full upgraded w10900538 w11239961 refrigerator door shelf bin (ri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D62JZR4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61U2krAqsQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: when a refrigerator door bin cracks, your options used to be paying $60+ for an OEM part or living with a janky shelf held together by duct tape. This upgraded W10900538/W11239961 bin splits the difference — and at this price, it's worth a hard look.

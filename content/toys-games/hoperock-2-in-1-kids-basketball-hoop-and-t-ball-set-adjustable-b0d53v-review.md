@@ -1,4 +1,5 @@
 ---
+
 title: "HopeRock 2 in 1 Kids Basketball Hoop and T Ball Set, Adjusta"
 seo_title: "HopeRock 2-in-1 Basketball & T-Ball Set Review (2026)"
 meta_description: "HopeRock 2-in-1 kids basketball hoop and T-ball set review: adjustable height, build quality, real parent feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D53VWQGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71plVdUq2iL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three adjustable height positions (2.5–4 ft) mean it grows with kids from toddler to early elementary"
   - "Tool-free conversion between basketball and T-ball takes under a minute — no screwdriver required"
   - "Base fills with sand or water; at 4.4/5 stars, parents consistently report it stays put during aggressive play"
-cons:
+cons: 
   - "Plastic rim and backboard flex noticeably on hard shots; not built for serious dunking"
   - "T-ball tee height adjuster can slip if over-tightened, causing the ball to sit crooked"
+
 ---
 
 If you've got a 2-to-6-year-old with endless energy and a short attention span, the HopeRock 2-in-1 is the backyard multitool you didn't know you needed. This isn't a gimmick—it's a legitimate two-sport starter setup that actually holds up to real kid abuse. With 220 ratings averaging 4.4 stars, the consensus is clear: this thing earns its keep.

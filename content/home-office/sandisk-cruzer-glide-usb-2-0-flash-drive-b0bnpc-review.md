@@ -1,4 +1,5 @@
 ---
+
 title: "SanDisk Cruzer Glide USB 2.0 Flash Drive"
 seo_title: "SanDisk Cruzer Glide USB 2.0 Flash Drive Review: Verdict "
 meta_description: "Our full sandisk cruzer glide usb 2.0 flash drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNPCDBNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711aQ7oxvhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SanDisk Cruzer Glide is the office equivalent of a dependable paperclip — unglamorous, nearly disposable, and exactly what you need when you need it.**

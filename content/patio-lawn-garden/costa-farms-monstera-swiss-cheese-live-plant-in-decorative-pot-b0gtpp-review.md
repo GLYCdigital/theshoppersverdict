@@ -1,4 +1,5 @@
 ---
+
 title: "Costa Farms Monstera, Swiss Cheese Live Plant in Decorative"
 seo_title: "Costa Farms Monstera Review: Worth It? | 2026"
 meta_description: "Honest Costa Farms Monstera review: gorgeous Swiss cheese plant, but shipping damage and inconsistent sizing are real concerns. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GTPPDRNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p4B05BwfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Established, healthy root systems — most arrive with multiple mature leaves already fenestrated"
   - "Decorative pot included is substantial and modern, not the flimsy nursery-grade plastic you usually get"
   - "Pre-moistened soil and protective packaging minimize transplant shock for most buyers"
-cons:
+cons: 
   - "Shipping can be rough — several reviewers report broken stems or crushed leaves despite the box design"
   - "Plant size varies noticeably — some receive compact 12-inch plants, others get sprawling 2-foot specimens"
   - "No care card included despite the price point; you'll need to research Monstera care yourself"
+
 ---
 
 ## Is the Costa Farms Monstera Worth Your Money?

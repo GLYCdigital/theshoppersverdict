@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO 7-Drawer File Cabinet, Wooden Office Cabinet with Dra"
 seo_title: "HOOBRO 7-Drawer File Cabinet, Wooden Office Cabine Review"
 meta_description: "Our full hoobro 7-drawer file cabinet, wooden office cabinet with dra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C58GFQ72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kIABfIKvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HOOBRO 7-Drawer File Cabinet: A Serious Storage Solution That Punches Above Its Price**

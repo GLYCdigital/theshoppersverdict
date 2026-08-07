@@ -1,5 +1,6 @@
 ---
 
+
 title: "acer Nitro 60 N60 inch"
 seo_title: "Acer Nitro 60 N60 Review: Solid 1440p Monitor With Caveats"
 meta_description: "Acer Nitro 60 N60 review: A 27-inch 1440p IPS gaming monitor with 180Hz. We break down pros, cons, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DTSK57TP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819-bpePONL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sharp 1440p resolution on a 27-inch IPS panel with 180Hz refresh rate — a strong balance of clarity and smoothness for the price"
   - "Zero dead-pixel guarantee and 1ms (VRB) response time give competitive gamers peace of mind out of the box"
   - "Includes DisplayPort 1.4 and two HDMI 2.0 ports; the DP cable is actually in the box, which saves you $15 inch"
-cons:
+cons: 
   - "Only 250 nits peak brightness — underwhelming for bright rooms or HDR content; HDR support is technically present but practically useless"
   - "Single swivel/pivot adjustment; the stand lacks height adjustment, so you'll likely need a VESA arm (100x100mm) for ergonomic setup"
   - "Built-in 2W speakers are tinny and quiet — plan on headphones or external speakers from day one"
+
 
 ---
 

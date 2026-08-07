@@ -1,4 +1,5 @@
 ---
+
 title: "Techtronics RYOBI 40V 1800-Watt Portable Battery Power Stati"
 seo_title: "Techtronics RYOBI 40V 1800-Watt Portable Battery P Review"
 meta_description: "Our full techtronics ryobi 40v 1800-watt portable battery power stati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BDW26YNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818pStFhbzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own RYOBI 40V lawn equipment, this power station is a tempting add-on. But the 3.8-star average (190 ratings) tells you it's not plug-and-play perfection. Here's what you actually need to know before buying.

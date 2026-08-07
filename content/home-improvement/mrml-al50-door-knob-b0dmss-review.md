@@ -1,4 +1,5 @@
 ---
+
 title: "MRML AL50 Door Knob"
 seo_title: "MRML AL50 Door Knob Review: Verdict | TSV"
 meta_description: "Our full mrml al50 door knob review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMSS2LXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BD6Wp9R4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

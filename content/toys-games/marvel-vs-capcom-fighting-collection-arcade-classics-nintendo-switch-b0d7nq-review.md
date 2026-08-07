@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel vs. Capcom Fighting Collection: Arcade Classics - Nin"
 seo_title: "Marvel vs. Capcom Fighting Collection: Arcade Clas Review"
 meta_description: "Our full marvel vs. capcom fighting collection: arcade classics - nin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D7NQN715/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91L2L7AK5sL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Seven arcade classics. One cartridge. Zero filler.**

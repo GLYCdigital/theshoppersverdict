@@ -1,4 +1,5 @@
 ---
+
 title: "Armaf Odyssey Mandarin Sky Review"
 seo_title: "Armaf Odyssey Mandarin Sky Review: Worth It? (2026)"
 meta_description: "Armaf Odyssey Mandarin Sky review: 4.7-star rated. We break down performance, longevity, and value. Honest verdict on this luxury fragrance."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G4H6FX7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-SnbKyUpL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional 8-10 hour longevity on skin, projecting well past the 6-hour mark"
   - "Complex gourmand-amber blend that transitions from juicy mandarin to warm vanilla-amber dry down"
   - "Strong sillage that earns compliments without veering into nose-blind territory"
-cons:
+cons: 
   - "Opening 15 minutes can feel sharp — the mandarin note reads synthetic to some noses"
   - "Not a safe office scent; projection is bold enough that 3+ sprays feel like a statement"
+
 ---
 
 Let's be direct: the luxury fragrance market is full of $200+ bottles that smell like regret by lunchtime. The Armaf Odyssey Mandarin Sky isn't that. At a fraction of the price of designer competitors, it's become a 4.7-star staple with 235 ratings — and after testing it across a full work week, I understand why. But it's not without quirks. Here's the honest breakdown.

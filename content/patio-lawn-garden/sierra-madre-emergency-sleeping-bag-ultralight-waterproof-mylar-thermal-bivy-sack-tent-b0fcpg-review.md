@@ -1,4 +1,5 @@
 ---
+
 title: "Sierra Madre Emergency Sleeping Bag â€“ Ultralight, Waterpro"
 seo_title: "Sierra Madre Emergency Sleeping Bag â€“ Ultralight Review"
 meta_description: "Our full sierra madre emergency sleeping bag â€“ ultralight, waterpro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FCPGR22B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GyQB1raHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most emergency sleeping bags are cheap foil garbage that rips the moment you look at them wrong. The Sierra Madre Emergency Sleeping Bag is not that. But it's also not a replacement for your down camping bag. Here's what this 4.2-ounce Mylar bivy actually does well, where it falls apart, and whether it deserves a spot in your kit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Erasers Bulk for School and Kids - Pink, Pencil, and Large E"
 seo_title: "Erasers Bulk for School Review: Pink, Pencil & Large E (2026)"
 meta_description: "Honest Erasers Bulk for School and Kids review: pink, pencil, and large E sizes tested for smudging, durability, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMYZXHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lDMC3gmoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct formats (block, cap, large) cover every erasing scenario from quick fixes to full-page corrections"
   - "Pink block erasers cleanly lift graphite without tearing standard notebook paper, even with heavy pressure"
   - "Pencil cap erasers fit snugly on standard #2 pencils and don't slide off mid-use"
-cons:
+cons: 
   - "Large E erasers leave rubbery smudges on glossy or coated paper stock"
   - "Bulk packaging is plain poly bags — no resealable container, so loose erasers scatter in backpacks"
+
 ---
 
 Let's be blunt: most bulk eraser packs are a gamble. You get 50 identical pink rectangles that smudge more than they erase, or those cap erasers that snap off after three swipes. This set from the "Erasers Bulk for School and Kids" listing takes a different approach — it throws three distinct formats at you and lets you figure out what works. After testing all three across notebook paper, printer stock, and even a glossy planner, here's what I found.

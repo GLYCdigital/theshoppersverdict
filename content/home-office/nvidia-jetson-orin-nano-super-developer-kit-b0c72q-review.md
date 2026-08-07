@@ -1,4 +1,5 @@
 ---
+
 title: "NVIDIA Jetson Orin Nano Super Developer Kit"
 seo_title: "NVIDIA Jetson Orin Nano Super Developer Kit Review: Verdi"
 meta_description: "Our full nvidia jetson orin nano super developer kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C72Q1CH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tZcfXMFQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this isn't a Raspberry Pi competitor, despite the form factor. The NVIDIA Jetson Orin Nano Super Developer Kit is a serious edge-AI workhorse that happens to fit in your palm. At 4.2 stars across 210 Amazon ratings, it's earned its reputation — but it's also not the right tool for everyone walking into this category.

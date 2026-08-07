@@ -1,4 +1,5 @@
 ---
+
 title: "Channie's One Page A Day Double Digit Math Problem Workbook"
 seo_title: "Channie's Double Digit Math Workbook Review: Does It Work?"
 meta_description: "Channie's One Page A Day double digit math workbook review: Does the visual grid system actually help kids master borrowing & carrying? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N09KQB0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PeMyBHpyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Color-coded blocks and shaded columns train proper number alignment, eliminating the 'where does the 1 go?' confusion"
   - "One page per day format (25 problems) builds consistency without overwhelming — roughly 10-15 minutes of focused work"
   - "Heavy 80lb paper stands up to erasing; no bleed-through or torn pages from frustrated kids"
-cons:
+cons: 
   - "Only 80 pages means the book lasts about 3 months at one page daily — you'll need to reorder"
   - "No answer key included, which is annoying when you're checking work quickly at the kitchen table"
   - "The blocks are fixed at a set size; kids with larger handwriting may find the squares cramped"
+
 ---
 
 Let me be blunt: most math workbooks are just stacks of problems printed on paper. Channie's One Page A Day Double Digit workbook is different — and that difference is why it's sitting at 4.7 stars from 235 Amazon ratings. The question is whether the visual scaffolding actually justifies the price. After digging through what real buyers say, here's the honest breakdown.

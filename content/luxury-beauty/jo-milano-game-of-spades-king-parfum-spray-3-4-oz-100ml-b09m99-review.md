@@ -1,4 +1,5 @@
 ---
+
 title: "Jo Milano Game of Spades King Parfum Spray | 3.4 oz (100ml) "
 seo_title: "Jo Milano Game of Spades King Parfum Spray | 3.4 o Review"
 meta_description: "Our full jo milano game of spades king parfum spray | 3.4 oz (100ml)  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09M998VNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rJTEwkh5L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $40 Fragrance That Thinks It's $300**

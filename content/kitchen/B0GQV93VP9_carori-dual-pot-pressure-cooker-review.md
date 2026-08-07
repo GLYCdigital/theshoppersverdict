@@ -1,4 +1,5 @@
 ---
+
 title: "Carori Dual Pot Electric Pressure Cooker 9-in-1 inch"
 seo_title: "Carori Dual Pot Pressure Cooker Review: 9-in-1 Value"
 meta_description: "Carori Dual Pot Electric Pressure Cooker 9-in-1 review: Two 6-quart pots, 9 functions, 4.6-star rating. Is this $90 dual cooker worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 223
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQV93VP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dPD1JGfOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two independently controlled 6-quart pots let you cook a full protein and side simultaneously, cutting weeknight dinner time nearly in half"
   - "9-in-1 functionality includes pressure cook, slow cook, rice, steam, sauté, yogurt, and warm modes — replacing multiple countertop appliances"
   - "Both pots share one lid, but the design keeps it sealed and latched during pressure cooking with no reported steam leaks"
-cons:
+cons: 
   - "You can only pressure cook in one pot at a time; the second pot must use non-pressure functions like sauté or slow cook simultaneously"
   - "At roughly 18 pounds fully loaded, this is a heavy unit that will permanently occupy counter space — not ideal for small kitchens"
+
 ---
 
 Two pots, one lid, and a whole lot of dinner potential. The Carori Dual Pot Electric Pressure Cooker 9-in-1 is trying to solve the oldest weeknight problem: the protein and the sides never finish at the same time. At $89.99, it's priced like a single-pot pressure cooker but gives you twice the cooking surface. Here's what 223 Amazon reviewers and my own research say about whether it actually delivers.

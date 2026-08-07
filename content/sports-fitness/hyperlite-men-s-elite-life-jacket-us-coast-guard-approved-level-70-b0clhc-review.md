@@ -1,4 +1,5 @@
 ---
+
 title: "HyperLite Men's Elite Life Jacket - US Coast Guard Approved "
 seo_title: "HyperLite Men's Elite Life Jacket - US Coast Guard Review"
 meta_description: "Our full hyperlite men's elite life jacket - us coast guard approved  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLHCL8QY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iEiZONHIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most life jackets feel like wearing a foam mattress. The HyperLite Men's Elite is not most life jackets. This USCG-approved Type III PFD has carved out a 4.8-star rating across 240 reviews because it solves the two biggest complaints boaters have — bulk and heat. But is it right for your specific water activities? Here's what you need to know before you click buy.

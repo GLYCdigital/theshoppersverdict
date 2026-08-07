@@ -1,4 +1,5 @@
 ---
+
 title: "HTH 52035 Swimming Pool Care"
 seo_title: "HTH 52035 Swimming Pool Care Review: Verdict | TSV"
 meta_description: "Our full hth 52035 swimming pool care review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY3PWPF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m6jfN1BhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the chlorine-scented marketing fog. The HTH 52035 is a 3-inch stabilized chlorine tablet designed for weekly pool maintenance. At 4.7 stars across 235 ratings, it's clearly doing something right — but the real question is whether it fits *your* pool routine.

@@ -1,4 +1,5 @@
 ---
+
 title: "Intex Dura-Beam Deluxe Comfort Plush Elevated Airbed Series"
 seo_title: "Intex Dura-Beam Deluxe Comfort Plush Elevated Airb Review"
 meta_description: "Our full intex dura-beam deluxe comfort plush elevated airbed series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08B2K36H2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PH2O5NJ-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for an airbed, you already know the drill: most of them are glorified pool floats with a plug. The Intex Dura-Beam Deluxe Comfort Plush Elevated Airbed Series is trying to be something more — a legitimate temporary bed rather than a camping afterthought. At 4.4 stars from 220+ ratings, it's clearly doing something right. But is it the right call for your guest room, or should you keep looking?

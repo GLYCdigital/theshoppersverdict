@@ -1,4 +1,5 @@
 ---
+
 title: "Hydro Mousse Bermuda Grass Seed - Large Refill Bag - Covers "
 seo_title: "Hydro Mousse Bermuda Grass Seed - Large Refill Bag Review"
 meta_description: "Our full hydro mousse bermuda grass seed - large refill bag - covers  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B075G6PFDB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7138JoScIpL._AC_SL1134_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Hydro Mousse refill bag is a study in frustration and potential. At 3.4 stars across 170 ratings, it sits firmly in "it works if you do everything right" territory. The question is whether you're willing to do everything right.

@@ -1,4 +1,5 @@
 ---
+
 title: "Lufeiya 32 inch Small Desk with 4 Drawers for Home Office Be"
 seo_title: "Lufeiya 32 inch Small Desk with 4 Drawers for Home Review"
 meta_description: "Our full lufeiya 32 inch small desk with 4 drawers for home office be review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DH22BGJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YRFnjWIGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about small desks: most of them force you to choose between workspace and storage. The Lufeiya 32-inch desk with four drawers tries to give you both, and at 4.4 stars from 220 ratings, it’s clearly doing something right. But is it the right compact desk for *your* setup? Here’s what you need to know before you click buy.

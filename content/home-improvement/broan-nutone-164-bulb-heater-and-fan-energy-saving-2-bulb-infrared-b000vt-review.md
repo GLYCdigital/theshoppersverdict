@@ -1,4 +1,5 @@
 ---
+
 title: "Broan-Nutone 164 Bulb Heater and Fan, Energy-Saving 2-Bulb I"
 seo_title: "Broan-Nutone 164 Review: 2-Bulb Heater & Fan Worth It?"
 meta_description: "Honest Broan-Nutone 164 review: heat output, noise level, install difficulty, and real buyer feedback. Is this 2-bulb heater-fan right for your bathroom?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B000VTSN0E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618Qor1aINL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Instant radiant heat from two 250-watt infrared bulbs — no warm-up wait"
   - "Separate switches for fan, one bulb, or both bulbs gives flexible control"
   - "Compact 13-inch housing fits standard 2x6 ceiling joist spacing without framing modifications"
-cons:
+cons: 
   - "Bulbs sold separately and can be hard to find locally — budget for ordering online"
   - "Fan is loud — roughly 55-60 dB — not for light sleepers or nursery-adjacent bathrooms"
   - "No built-in timer; you must remember to switch off manually, which wastes energy"
+
 ---
 
 If you've ever stepped out of a shower into a cold bathroom in January, you already know why the Broan-Nutone 164 exists. This is a no-nonsense, two-bulb infrared heater with a ventilation fan built into one ceiling unit. It's not fancy. It doesn't have Bluetooth or a digital display. But after 210 Amazon ratings averaging 4.2 stars, it's clearly doing something right for a lot of homeowners.

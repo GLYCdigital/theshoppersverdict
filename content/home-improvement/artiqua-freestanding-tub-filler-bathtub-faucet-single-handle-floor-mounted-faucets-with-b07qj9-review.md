@@ -1,4 +1,5 @@
 ---
+
 title: "Artiqua Freestanding Tub Filler Bathtub Faucet Single Handle"
 seo_title: "Artiqua Freestanding Tub Filler Review: Floor-Mounted Luxury"
 meta_description: "Honest Artiqua freestanding tub filler review: build quality, installation challenges, real buyer feedback, and who should buy this floor-mounted faucet."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QJ9YMLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mu07VMnDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a premium brushed nickel finish that resists water spots and fingerprints"
   - "Floor-mounted design eliminates wall-mounting headaches and works with virtually any freestanding tub"
   - "Smooth single-handle operation with a 360-degree swivel spout for flexible positioning"
-cons:
+cons: 
   - "Installation requires access below the floor — not a DIY project for most homeowners"
   - "No diverter for handheld shower attachment; you'll need a separate solution if that's on your list"
+
 ---
 
 If you're shopping for a freestanding tub filler, you already know the drill: most options look great in renders but feel hollow and cheap in person. The Artiqua Freestanding Tub Filler breaks that pattern. With 229 ratings averaging 4.6 stars, this floor-mounted faucet has earned its place in bathrooms across the country. Here's the real story after digging through the specs, the feedback, and the fine print.

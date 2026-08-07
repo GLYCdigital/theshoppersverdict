@@ -1,4 +1,5 @@
 ---
+
 title: "Lily England Hair Brush for Women For All Hair Types - Profe"
 seo_title: "Lily England Hair Brush for Women For All Hair Typ Review"
 meta_description: "Our full lily england hair brush for women for all hair types - profe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6L5BFPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RlwYZK+vL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $30 paddle brush that thinks it's a $100 salon tool — here's the honest truth**

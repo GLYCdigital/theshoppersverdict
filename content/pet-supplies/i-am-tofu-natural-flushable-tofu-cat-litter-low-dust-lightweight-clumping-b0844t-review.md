@@ -1,4 +1,5 @@
 ---
+
 title: "I AM TOFU - Natural Flushable Tofu Cat Litter, Low Dust Ligh"
 seo_title: "I AM TOFU - Natural Flushable Tofu Cat Litter, Low Review"
 meta_description: "Our full i am tofu - natural flushable tofu cat litter, low dust ligh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0844T4QWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51o3itMEX7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "natural" cat litters are a compromise. You trade dust for tracking, or clumping for odor control. The I AM TOFU litter tries to break that cycle with a soybean-based pellet that's flushable, low-dust, and lightweight. After digging through 210 ratings averaging 4.2 stars, here's what you actually need to know before switching.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rico Industries NFL Laser Engraved Trifold Laser Engraved Tr"
 seo_title: "Rico Industries NFL Laser Engraved Trifold Laser E Review"
 meta_description: "Our full rico industries nfl laser engraved trifold laser engraved tr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B6KVCDWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x2LRCl+sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most NFL-branded wallets are junk. Printed logos crack within a month, the "leather" is bonded cardboard, and they fall apart before the season ends. The Rico Industries NFL Laser Engraved Trifold is not that wallet — and that's why it's earned a 4.6 out of 5 from 229 buyers.

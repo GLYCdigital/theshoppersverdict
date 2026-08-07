@@ -1,4 +1,5 @@
 ---
+
 title: "Fansdrick Rechargeable Floor Lamp for Indoor/Outdoor, Cordle"
 seo_title: "Fansdrick Rechargeable Floor Lamp Review: Cordless & Portable"
 meta_description: "Fansdrick rechargeable floor lamp review: tall, cordless, indoor/outdoor. Battery life, brightness, build quality tested. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GDXB5MRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IRFd9odfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation with a built-in battery rated for 8–36 hours depending on brightness level"
   - "Three color temperatures (3000K/4500K/6000K) with stepless dimming from 10% to 100%"
   - "IP54 water resistance makes it genuinely usable outdoors on patios, decks, or campsites"
-cons:
+cons: 
   - "Battery is non-replaceable — when it degrades after 2–3 years, the whole lamp is e-waste"
   - "Base is narrower than expected; on thick carpet it can tip if bumped at full extension"
   - "Charging takes 6–8 hours, which feels long if you drain it completely nightly"
+
 ---
 
 Some products promise versatility but deliver compromise. The Fansdrick Rechargeable Floor Lamp actually delivers on its core premise: a tall, cordless light source that works as well on a back deck as it does in a windowless corner of your living room. At 3.9 stars from 195 ratings, it's not perfect — but for a specific set of buyers, it's exactly the right tool.

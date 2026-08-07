@@ -1,4 +1,5 @@
 ---
+
 title: "Mount Plus MED02 Medical Wall Mount Workstation with Folding"
 seo_title: "Mount Plus MED02 Medical Wall Mount Workstation wi Review"
 meta_description: "Our full mount plus med02 medical wall mount workstation with folding review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CW1KMNBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XCR4pmOOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a nurse balance a chart on a rolling cart while typing one-handed, you already know why wall-mounted workstations exist. The Mount Plus MED02 solves that exact problem — but it's not just for hospitals.

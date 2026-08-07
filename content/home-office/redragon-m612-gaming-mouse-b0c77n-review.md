@@ -1,4 +1,5 @@
 ---
+
 title: "Redragon M612 Gaming Mouse"
 seo_title: "Redragon M612 Gaming Mouse Review: Verdict | TSV"
 meta_description: "Our full redragon m612 gaming mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C77NKDR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YcOoxMrEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Redragon M612 isn't trying to reinvent the mouse wheel — it's trying to give you 90% of a $100 gaming mouse's performance for less than half the price. And based on 229 Amazon ratings averaging 4.6 stars, it's succeeding for most buyers. But is it the right pick for *your* desk setup? Here's what you need to know.

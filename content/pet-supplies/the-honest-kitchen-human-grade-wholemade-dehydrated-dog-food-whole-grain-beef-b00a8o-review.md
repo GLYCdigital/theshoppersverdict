@@ -1,4 +1,5 @@
 ---
+
 title: "The Honest Kitchen Human Grade Wholemadeâ„¢ Dehydrated Dog F"
 seo_title: "The Honest Kitchen Human Grade Wholemadeâ„¢ Dehydr Review"
 meta_description: "Our full the honest kitchen human grade wholemadeâ„¢ dehydrated dog f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00A8O8JLU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71axMfTdMCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The Honest Kitchen has built a reputation on one bold claim: human-grade dog food. Their Wholemade™ dehydrated line — specifically the Whole Grain Beef recipe — puts that claim to the test. At 4.2 stars across 210 Amazon ratings, it clearly works for many dogs. But is it worth the premium and the prep time? Here’s what you need to know before adding it to your cart.

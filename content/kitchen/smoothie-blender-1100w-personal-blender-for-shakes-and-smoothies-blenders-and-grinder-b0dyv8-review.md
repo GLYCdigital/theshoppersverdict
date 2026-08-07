@@ -1,4 +1,5 @@
 ---
+
 title: "Smoothie Blender, 1100W Personal Blender for Shakes and Smoo"
 seo_title: "Smoothie Blender, 1100W Personal Blender for Shake Review"
 meta_description: "Our full smoothie blender, 1100w personal blender for shakes and smoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DYV873LY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WYCuxVtgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut the chase: an 1100W personal blender at this price point is either a steal or a trap. After digging through 185 ratings and the spec sheet, here’s what you’re actually getting.

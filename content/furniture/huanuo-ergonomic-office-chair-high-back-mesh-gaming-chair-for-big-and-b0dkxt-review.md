@@ -1,4 +1,5 @@
 ---
+
 title: "HUANUO Ergonomic Office Chair, High Back Mesh Gaming Chair f"
 seo_title: "HUANUO Ergonomic Office Chair, High Back Mesh Gami Review"
 meta_description: "Our full huanuo ergonomic office chair, high back mesh gaming chair f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DKXTRGR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZV6ROJWYL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Big-and-Tall Mesh Chair That Actually Delivers

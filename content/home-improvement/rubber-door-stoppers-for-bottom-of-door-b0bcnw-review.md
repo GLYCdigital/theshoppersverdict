@@ -1,4 +1,5 @@
 ---
+
 title: "Rubber Door Stoppers for Bottom of Doorâ€¦"
 seo_title: "Rubber Door Stoppers for Bottom of Doorâ€¦ Review: Verdic"
 meta_description: "Our full rubber door stoppers for bottom of doorâ€¦ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BCNWY1WQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611YMak-j7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about door stoppers: most are either flimsy plastic wedges that slide across your floor or heavy rubber blocks that trip you at 2 a.m. The rubber door stoppers for bottom of door gaps sit somewhere in the middle — and for most homes, that's exactly the sweet spot.

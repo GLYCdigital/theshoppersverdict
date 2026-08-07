@@ -1,4 +1,5 @@
 ---
+
 title: "JOYIN 28 Mochi Squishy Toys Filled Hearts and Valentine Card"
 seo_title: "JOYIN 28 Mochi Squishy Toys Filled Hearts and Vale Review"
 meta_description: "Our full joyin 28 mochi squishy toys filled hearts and valentine card review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRP2L8WR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zrEMCzidL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 28-Pack Valentine Solution That Actually Makes Sense**

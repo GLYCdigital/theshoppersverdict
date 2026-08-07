@@ -1,4 +1,5 @@
 ---
+
 title: "Glostars 100W LED UV Black Light, Powerful Spotlight, IP66, "
 seo_title: "Glostars 100W LED UV Black Light, Powerful Spotlig Review"
 meta_description: "Our full glostars 100w led uv black light, powerful spotlight, ip66,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CFBTW6CY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oEBzqo9kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Glostars 100W LED UV Black Light: The Heavy-Duty Black Light That Actually Works

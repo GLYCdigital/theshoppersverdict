@@ -1,4 +1,5 @@
 ---
+
 title: "Butter Dish with Lid Parent Review"
 seo_title: "Butter Dish with Lid Parent Review: Is It Worth It?"
 meta_description: "Butter Dish with Lid Parent review: 4.4-star rated. We break down build quality, lid fit, and whether this ceramic butter keeper is worth your money."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D347549D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rMJjCG1lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy ceramic construction keeps butter cold and stable on the counter"
   - "Lid seals tightly enough to keep odors out without sticking shut"
   - "Fits standard 4-ounce sticks of butter with room for a half-stick"
-cons:
+cons: 
   - "Not dishwasher safe — hand-wash only, which some buyers miss"
   - "Glossy interior shows water spots easily if not dried properly"
+
 ---
 
 **The Short Version**

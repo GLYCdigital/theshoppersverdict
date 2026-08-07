@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K-Duo Essentials Hot & Iced Single Serve K-Cup Pod & "
 seo_title: "Keurig K-Duo Essentials Hot & Iced Single Serve K- Review"
 meta_description: "Our full keurig k-duo essentials hot & iced single serve k-cup pod &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP1KC4DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xmrP-9X8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Keurig K-Duo Essentials is the answer to a very specific household argument: one person wants a quick single cup, the other wants a full pot. Instead of buying two machines, this dual brewer tries to do both in one footprint. The question is whether it does either job well enough.

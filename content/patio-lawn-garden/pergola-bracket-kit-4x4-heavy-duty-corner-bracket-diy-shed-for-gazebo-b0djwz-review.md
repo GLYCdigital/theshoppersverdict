@@ -1,4 +1,5 @@
 ---
+
 title: "Pergola Bracket Kit 4x4, Heavy Duty Corner Bracket DIY Shed,"
 seo_title: "Pergola Bracket Kit 4x4, Heavy Duty Corner Bracket Review"
 meta_description: "Our full pergola bracket kit 4x4, heavy duty corner bracket diy shed, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DJWZC63G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611et651vmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to join two 4x4 posts at a perfect 90-degree angle without help, you know the frustration — the shifting, the clamping, the swearing. This bracket kit eliminates that entire struggle. It's a straightforward solution for anyone building a pergola, gazebo frame, shed corner, or even a heavy-duty garden trellis, and at 4.6 stars across 229 ratings, it's clearly earning its keep in backyards.

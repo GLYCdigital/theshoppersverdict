@@ -1,4 +1,5 @@
 ---
+
 title: "St.Mandyu LED TV Stand for 60/65/70 inch TV, Modern Televisi"
 seo_title: "St.Mandyu LED TV Stand for 60/65/70 inch TV, Moder Review"
 meta_description: "Our full st.mandyu led tv stand for 60/65/70 inch tv, modern televisi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BW724P3N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717j2bgD05L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a TV stand that can actually hold a 65-inch television without wobbling like a card table, the St.Mandyu LED TV Stand deserves a hard look. At 4.4 stars from 220 ratings, it's not perfect — but it's priced and built for people who want function over flash. Here's the real story.

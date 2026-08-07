@@ -1,4 +1,5 @@
 ---
+
 title: "Compressed Air Duster, New Upgrade 300000RPM Electric Air Du"
 seo_title: "Compressed Air Duster Review: 300000RPM Electric Blower Worth It?"
 meta_description: "Honest review of the 300000RPM electric air duster. Is it a real compressed air can replacement? Read pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHQN92VK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pe1-gwRhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rechargeable battery eliminates recurring costs of canned air — pays for itself in months"
   - "300,000 RPM brushless motor delivers genuinely strong airflow for keyboards, PC internals, and camera gear"
   - "Multiple nozzle attachments and variable speed control add versatility for delicate electronics"
-cons:
+cons: 
   - "Battery life is modest at max speed — expect around 10-15 minutes of continuous high-power use"
   - "Noise level is significant; it's noticeably louder than canned air, closer to a small leaf blower"
   - "Emptying the dust collection filter requires disassembly that isn't clearly explained in the manual"
+
 ---
 
 **The Canned Air Killer? Maybe. But Read This Before You Toss Your Cans.**

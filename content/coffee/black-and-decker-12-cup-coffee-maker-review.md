@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER 12-Cup Coffee Maker"
 seo_title: "BLACK+DECKER 12-Cup Coffee Maker Review (2026): Worth It?"
 meta_description: "Honest BLACK+DECKER 12-Cup Coffee Maker review: performance, durability, and real buyer feedback. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 49033
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01GJOMWVA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rdl5C2AHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sneak-a-Cup feature lets you pour mid-brew without dripping on the hot plate"
   - "Programmable 24-hour auto-brew with 2-hour auto shutoff for safety"
   - "Simple, tool-free assembly — filter basket and carafe are dishwasher-safe"
-cons:
+cons: 
   - "Carafe is thin glass — several buyers report cracks from normal handling"
   - "No strength selector or brew-strength customization at this price point"
   - "Water window can be hard to read in low light — small, unlit markings"
+
 ---
 
 If you’ve ever bought a budget coffee maker and felt like you were gambling with weak coffee or a machine that dies at month three, the BLACK+DECKER 12-Cup is the exception that proves the rule. With over 49,000 ratings and a 4.4-star average, this isn’t a niche pick — it’s the default drip machine for a lot of households. But is it *your* default? Let’s break it down.

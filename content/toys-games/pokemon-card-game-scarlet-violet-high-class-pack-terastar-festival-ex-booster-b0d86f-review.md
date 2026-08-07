@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon Card Game Scarlet & Violet High Class Pack TeraStar "
 seo_title: "Pokemon Card Game Scarlet & Violet High Class Pack Review"
 meta_description: "Our full pokemon card game scarlet & violet high class pack terastar  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D86FVG5R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M4znJl71L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### Build Quality and Real-World Use

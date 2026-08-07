@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Beard Conditioning Oil for a Full Beard Maracuj"
 seo_title: "SheaMoisture Beard Conditioning Oil for a Full Bea Review"
 meta_description: "Our full sheamoisture beard conditioning oil for a full beard maracuj review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GHGWZZD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610RaQMlUgL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The beard oil that actually treats your skin, not just your whiskers**

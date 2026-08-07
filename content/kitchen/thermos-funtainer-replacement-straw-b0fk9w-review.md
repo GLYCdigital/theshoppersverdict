@@ -1,4 +1,5 @@
 ---
+
 title: "THERMOS FUNtainer Replacement Straw"
 seo_title: "THERMOS FUNtainer Replacement Straw Review: Verdict | TSV"
 meta_description: "Our full thermos funtainer replacement straw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FK9WJ6Y9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vTEb7sp9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you own a THERMOS FUNtainer, you already know the straw is the weak link. Kids bite it, bend it, lose it — and suddenly that $30 bottle is useless. This replacement set is the fix, and it's the one I'd buy again.

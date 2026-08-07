@@ -1,4 +1,5 @@
 ---
+
 title: "Hinabichan Flameless Candles with Remote Timer, 6pcs Battery"
 seo_title: "Hinabichan Flameless Candles with Remote Timer, 6p Review"
 meta_description: "Our full hinabichan flameless candles with remote timer, 6pcs battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D4TBLMWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cqRWmp7hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hinabichan Flameless Candles: The 6-Pack That Actually Looks Like Wax

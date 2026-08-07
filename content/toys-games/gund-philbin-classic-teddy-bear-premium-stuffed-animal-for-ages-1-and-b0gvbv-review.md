@@ -1,5 +1,6 @@
 ---
 
+
 title: "GUND Philbin Classic Teddy Bear, Premium Stuffed Animal for"
 seo_title: "GUND Philbin Teddy Bear Review: Premium Plush for Ages 1+"
 meta_description: "Our GUND Philbin teddy bear review covers quality, softness, and safety. Is this premium plush worth $30+? Read before you buy for your child."
@@ -12,13 +13,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GVBVQZW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+PskYjZaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, dense plush that holds up to machine washing without clumping or losing shape"
   - "Embroidered facial features mean zero choking hazard for infants and toddlers under 3 inch"
   - "Structured sitting design makes it display-worthy on a nursery shelf when not being cuddled"
-cons:
+cons: 
   - "At roughly 15 inches, it's smaller than many parents expect for the premium price point"
   - "Light cream fur shows dirt quickly — you'll be washing this more often than you'd like"
+
 
 ---
 

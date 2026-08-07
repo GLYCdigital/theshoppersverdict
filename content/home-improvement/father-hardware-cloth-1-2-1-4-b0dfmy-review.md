@@ -1,4 +1,5 @@
 ---
+
 title: "Father Hardware Cloth 1/2 1/4 inch"
 seo_title: "Father Hardware Cloth 1/2 1/4 Review: Sturdy Galvanized Mesh"
 meta_description: "Honest Father Hardware Cloth 1/2 1/4 review: gauge strength, rust resistance, real-world uses, and who should buy this galvanized wire mesh."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DFMYQ41X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91deoYzDD8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-to-size 1/2-inch square openings — small enough to keep out mice, snakes, and most pests"
   - "Welded intersections hold up to bending and cutting without popping loose"
   - "Galvanized coating provides solid rust resistance for outdoor use in wet climates"
-cons:
+cons: 
   - "Roll arrives tightly coiled; flattening it fully requires time or heavy objects"
   - "Cut edges are sharp — heavy-duty gloves are mandatory, not optional"
   - "Wire gauge is on the lighter side; not suitable for containing large animals like goats"
+
 ---
 
 Let’s cut through the listing photos and talk about what this wire mesh actually does when you unroll it in your garage. The Father Hardware Cloth in 1/2-inch and 1/4-inch mesh is one of those products that looks unremarkable in the box but proves its worth the first time you use it. With 229 ratings averaging 4.6 stars, it’s clear this mesh has found its audience. Here’s the real story.

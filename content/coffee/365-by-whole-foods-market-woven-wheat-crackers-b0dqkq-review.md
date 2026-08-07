@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Woven Wheat Crackers"
 seo_title: "365 Woven Wheat Crackers Review: Honest Look (2026)"
 meta_description: "365 Whole Foods Woven Wheat Crackers review: crisp texture, simple ingredients, but pricey. Real buyer feedback on taste, crunch, and value."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DQKQBB17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images.com/images/I/81uWgZ9XEPL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably crisp, sturdy weave that holds up to dense dips without breaking"
   - "Clean ingredient list — whole wheat flour, canola oil, sea salt, no artificial preservatives"
   - "Subtle nutty flavor that doesn't overpower toppings"
-cons:
+cons: 
   - "Price per ounce runs 20-30% higher than comparable store-brand woven wheat crackers"
   - "Some batches arrive crushed due to minimal packaging inside the box"
   - "Slightly dry on their own — these really need a dip or cheese to shine"
+
 ---
 
 Let's be direct: you're looking at a woven wheat cracker. The category isn't exactly crowded with innovation. But the 365 by Whole Foods Market version has quietly built a following — and a 3.9-star average across 195 ratings — so there's something worth unpacking here.

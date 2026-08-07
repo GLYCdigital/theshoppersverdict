@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST TV Stand for Bedroom with Power Outlets and LED Light"
 seo_title: "BTHFST TV Stand with Power Outlets Review (2026)"
 meta_description: "BTHFST TV stand with power outlets and LED lighting: Is it worth the space? Our 2026 review covers build quality, real-world use, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DMDW5TMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81G5M4WGijL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in power outlets and USB ports are positioned at a usable height, not awkwardly recessed"
   - "LED lighting has multiple color modes and brightness levels, controlled via remote or app"
   - "Cable management channels in the back keep cords organized without needing zip ties"
-cons:
+cons: 
   - "Assembly requires two people for the top panel; the included hex key strips easily under torque"
   - "LED strips are adhered with a light adhesive — they can sag on the back edge if routed around corners"
   - "The 'wood grain' finish is a printed laminate, not real veneer — visible seams on the top corners"
+
 ---
 
 Let me be upfront: most TV stands under $150 are flimsy particleboard disasters that wobble if you look at them wrong. The BTHFST TV stand isn't that. But it's also not a solid-wood heirloom piece. Here's what you're actually getting.

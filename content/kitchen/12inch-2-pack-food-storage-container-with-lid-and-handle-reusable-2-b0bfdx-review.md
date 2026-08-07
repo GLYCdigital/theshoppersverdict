@@ -1,4 +1,5 @@
 ---
+
 title: "12inch 2 Pack Food Storage Container with Lid and Handle, Re"
 seo_title: "12-Inch Food Storage Containers Review: Reusable 2-Pack"
 meta_description: "Honest review of the 12-inch 2-pack food storage container with lid and handle. See how it holds up, what buyers love, and who should skip it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BFDXSFGD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hT+kyzsCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 12-inch interior depth fits full sheet pans and large roasts without bending or cramming"
   - "Lids snap on with four locking tabs that create an airtight seal — tested leak-proof for liquids"
   - "Ergonomic handles are molded into the container, not flimsy add-ons, so they don't snap off"
-cons:
+cons: 
   - "At 12 inches, they won't fit standard kitchen cabinets — measure your shelf height first"
   - "Lids require firm pressure to close; some users with arthritis or weaker grip may struggle"
+
 ---
 
 Let's be honest: most food storage containers are either too small for real cooking or too flimsy to survive a month of use. This 12-inch 2-pack from the "Re" line aims to fix both problems at once. After digging through 225 ratings and the spec sheet, here's what you actually need to know before spending your money.

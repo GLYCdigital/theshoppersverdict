@@ -1,4 +1,5 @@
 ---
+
 title: "BUILDMART - 48 inch  Linear Slot Diffuser - (2 Slot) Double Slot"
 seo_title: "BUILDMART 48 inch  Linear Slot Diffuser Review: 2-Slot White"
 meta_description: "Honest BUILDMART 48 inch  2-slot linear diffuser review. Real-world install tips, build quality, and whether this $40 HVAC vent beats the big-box options."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07NF8LBBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-wDggImsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-machined 6063 aluminum with a true powder coat — no sharp edges, no flaking finish after a year in service"
   - "48-inch length pairs with standardized 12-inch duct collars, so retrofit installs don't require custom fabrication"
   - "Internal blade angles direct airflow at a consistent 15-degree spread, cutting ceiling smudging compared to cheaper stamped registers"
-cons:
+cons: 
   - "No built-in damper — if you need balancing, budget an extra $15 for an inline duct damper or order the BUILDMART dampened version"
   - "Mounting screws are exposed on the face — they're countersunk and painted, but if you're a perfectionist, pick up trim-head fasteners"
   - "White finish is a warm white, not a dead match for every ceiling paint — test a corner before committing if your trim is cool-toned"
+
 ---
 
 If you've ever stared at a builder-grade stamped steel register and wondered why something that covers a hole in your ceiling looks like it belongs in a 1970s office park, this is the product that answers that question. The BUILDMART 48" linear slot diffuser is the kind of HVAC hardware that makes people ask "did you upgrade your ceiling?" — and that's not a bad thing for a $40 piece of aluminum.

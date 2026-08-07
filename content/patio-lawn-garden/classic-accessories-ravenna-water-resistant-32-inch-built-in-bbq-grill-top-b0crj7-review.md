@@ -1,4 +1,5 @@
 ---
+
 title: "Classic Accessories Ravenna Water-Resistant 32 Inch Built-in"
 seo_title: "Classic Accessories Ravenna 32 Inch Grill Cover Review"
 meta_description: "Classic Accessories Ravenna 32-inch built-in grill cover review: water-resistant, durable, custom fit. See pros, cons, and if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRJ7DFW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K9CmygDSS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 600D polyester with water-resistant backing handles rain and snow without soaking through"
   - "Padded handles and reinforced corners prevent tearing at stress points—a common failure on cheaper covers"
   - "Adjustable hook-and-loop straps keep the cover snug in high winds instead of flapping loose"
-cons:
+cons: 
   - "Water-resistant, not waterproof—prolonged heavy rain can seep through seams over time"
   - "No built-in vents, so trapped moisture can cause mildew in humid climates"
   - "Fits 32-inch models specifically—measure your grill before ordering, as it won't stretch to fit larger units"
+
 ---
 
 If you dropped serious money on a built-in grill, the last thing you want is a $20 cover that disintegrates after one winter. The Classic Accessories Ravenna 32-inch cover sits in that sweet spot—priced reasonably but built like it costs more. As shown in the product image, this isn't a flimsy tarp; it's a tailored cover with reinforced stitching and a padded interior that actually protects your investment.

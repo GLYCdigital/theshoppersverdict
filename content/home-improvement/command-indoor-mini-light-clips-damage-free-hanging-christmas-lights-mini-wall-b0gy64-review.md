@@ -1,4 +1,5 @@
 ---
+
 title: "Command Indoor Mini Light Clips, Damage Free Hanging Christm"
 seo_title: "Command Indoor Mini Light Clips Review: Damage-Free Hanging"
 meta_description: "Honest Command Indoor Mini Light Clips review: Do they really hold Christmas lights without damage? Tested for adhesion, removal, and real-world use."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY646429/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81K249QFvEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Each clip holds a standard mini light string securely without sagging, even on textured walls"
   - "Removal leaves zero residue or paint damage when you follow the 60-second stretch-and-pull method"
   - "Works on trim, door frames, and baseboards — not just flat wall surfaces"
-cons:
+cons: 
   - "Adhesive strips are single-use; repositioning a clip means wasting a strip"
   - "Struggles on heavily textured or popcorn surfaces — clips will fall off within hours"
+
 ---
 
 Let’s cut the holiday cheer for a second. Every year, the same dilemma: you want lights on the wall, but you don’t want to patch nail holes in January. Command’s Indoor Mini Light Clips are the standard answer — but at 4.4 stars from 220 ratings, they’re not perfect. Here’s the breakdown.

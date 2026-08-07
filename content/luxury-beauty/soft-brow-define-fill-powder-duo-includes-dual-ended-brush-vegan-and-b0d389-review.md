@@ -1,4 +1,5 @@
 ---
+
 title: "Soft Brow Define & Fill Powder Duo, Includes Dual Ended Brus"
 seo_title: "Soft Brow Define & Fill Powder Duo, Includes Dual  Review"
 meta_description: "Our full soft brow define & fill powder duo, includes dual ended brus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3898SQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715K3Gxc0GL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Soft Brow Define & Fill Powder Duo Review: The $16 Brow Game-Changer That Actually Delivers

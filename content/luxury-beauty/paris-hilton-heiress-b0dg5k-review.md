@@ -1,4 +1,5 @@
 ---
+
 title: "Paris Hilton Heiress"
 seo_title: "Paris Hilton Heiress Review: Verdict | TSV"
 meta_description: "Our full paris hilton heiress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DG5KSKZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uhstchvvL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I approached Paris Hilton Heiress with skepticism. Celebrity fragrances usually mean overpriced, underperforming juice in a flashy bottle that ends up collecting dust. After testing this one for three weeks, I'm revising that assumption — but not completely.

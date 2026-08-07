@@ -1,24 +1,26 @@
 ---
+
 title: "Breville The Joule Oven Air Fryer Pro-Bov950Bss Stainless St"
 seo_title: "Breville Joule Oven Air Fryer Pro Review (2026): Worth It?"
 meta_description: "Breville Joule Oven Air Fryer Pro review: 9-in-1 countertop oven with air frying, dehydrating, and smart temp probes. See real pros, cons, and who should buy."
 slug: "breville-the-joule-oven-air-fryer-pro-bov950bss-stainless-steel-countertop-oven-b0cxy9-review"
 image_alt: "Breville Joule Oven Air Fryer Pro stainless steel countertop oven with open door showing interior racks and crumb tray"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXY9D9ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+D-lt9jUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Element IQ system with 4 independent quartz elements delivers even, fast heat without hot spots"  
   - "Built-in temperature probe with wired connection monitors internal meat temps in real time"  
   - "Dehydrate mode runs at 105°F–170°F with 15-hour timer — jerky and fruit leather come out right"  
-cons:  
+cons: 
   - "Heavy at 27 lbs — plan permanent counter space, not a stow-away appliance"  
   - "Beeps are loud and persistent; no mute option until you dig into settings menu"  
   - "Interior crumb tray is shallow — greasy air-fry splatter can pool under the tray and bake on"
+
 ---
 
 **The short version:** If you’ve been eyeing the 2025 Breville Joule Oven Air Fryer Pro (model BOV950BSS), you’re looking at a serious countertop workhorse. It’s not a gadget — it’s a second oven that air-fries, roasts, dehydrates, and slow-cooks with a level of precision most home cooks won’t use but will appreciate. At 4.4 stars across 220 ratings, the consensus is clear: this thing earns its keep, but it has quirks you should know before you clear the counter space.

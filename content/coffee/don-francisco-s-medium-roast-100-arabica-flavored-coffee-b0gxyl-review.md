@@ -1,4 +1,5 @@
 ---
+
 title: "Don Francisco's Medium Roast â€“ 100% Arabica, Flavored Coff"
 seo_title: "Don Francisco's Medium Roast Review: Flavored Coffee Worth It?"
 meta_description: "Honest Don Francisco's Medium Roast review: flavor depth, brew strength, and value vs. other flavored coffees. See if this 100% Arabica is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXYLLNKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813ddwVp1GL._SL1500_.jpg"
-pros:
+pros: 
   - "Flavor oils are evenly distributed across beans, so the taste doesn't fade by mid-bag"
   - "Medium roast body holds up well in milk-based drinks without tasting thin or watered down"
   - "Consistent grind size across batches — works equally well in drip machines and French presses"
-cons:
+cons: 
   - "Flavored coffee oils can leave residue in your grinder if you grind whole bean — plan to clean it regularly"
   - "Not ideal for cold brew — the flavor extraction turns slightly bitter after 18+ hours of steeping"
+
 ---
 
 # Don Francisco's Medium Roast: The Flavored Coffee That Doesn't Fake It

@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Cashton Casual Sofa for Living Ro"
 seo_title: "Signature Design by Ashley Cashton Casual Sofa for Review"
 meta_description: "Our full signature design by ashley cashton casual sofa for living ro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F8RHSY66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MfYNK5lAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Ashley Cashton isn't trying to be the flashiest sofa in the room. And honestly, that's part of its appeal. This is a straightforward, no-nonsense casual couch that does exactly what most people need: it sits well, looks decent, and doesn't cost a fortune.

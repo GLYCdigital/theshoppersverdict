@@ -1,4 +1,5 @@
 ---
+
 title: "Zodiac Jandy Tank Bottom CI/DEV Filters Replacement Kit"
 seo_title: "Zodiac Jandy Tank Bottom CI/DEV Filters Replacemen Review"
 meta_description: "Our full zodiac jandy tank bottom ci/dev filters replacement kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00F6MUKI4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41KTrvSp2oL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Jandy CL/CLR or DEV cartridge filter, you already know the pain: the tank bottom seals wear, the drain plug strips, and suddenly you're looking at a $40 part that decides whether your pool stays crystal or turns swamp. The Zodiac Jandy Tank Bottom CI/DEV Filters Replacement Kit targets exactly that failure point — and it solves it cleanly.

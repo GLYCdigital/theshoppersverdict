@@ -1,4 +1,5 @@
 ---
+
 title: "RYOBI P135 18V One+ 6 Port Lithium Ion Battery Supercharger "
 seo_title: "RYOBI P135 18V One+ 6 Port Lithium Ion Battery Sup Review"
 meta_description: "Our full ryobi p135 18v one+ 6 port lithium ion battery supercharger  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01DSB1KBK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ODsAxt+ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **RYOBI P135 18V One+ 6 Port Lithium Ion Battery Supercharger ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "All-Clad Stainless Sauce Pan"
 seo_title: "All-Clad Stainless Sauce Pan Review: Worth It in 2026?"
 meta_description: "All-Clad Stainless Sauce Pan review: 4.7★ rated. Tested for heating, sticking, and cleanup. Who should buy it — and who should skip it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYGYZ1NW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Pm4f8cnEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tri-ply bonded construction heats evenly with no hot spots, even on induction burners"
   - "Oven-safe up to 600°F including the lid — goes from stovetop to broiler without a second pan"
   - "Flared rim pours cleanly with no drips down the side"
-cons:
+cons: 
   - "Stainless steel sticks — eggs and delicate fish require proper preheating and fat"
   - "Hand-wash only; dishwasher leaves water spots and dulls the finish"
+
 ---
 
 # All-Clad Stainless Sauce Pan: The Last Sauce Pan You'll Buy?

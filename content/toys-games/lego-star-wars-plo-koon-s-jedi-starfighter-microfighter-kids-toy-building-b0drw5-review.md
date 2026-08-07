@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars Plo Koonâ€™s Jedi Starfighter Microfighter Ki"
 seo_title: "LEGO Star Wars Plo Koonâ€™s Jedi Starfighter Micro Review"
 meta_description: "Our full lego star wars plo koonâ€™s jedi starfighter microfighter ki review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRW5YPVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812QjVqzreL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a Star Wars collector who's been waiting for a Plo Koon minifigure without paying aftermarket prices, this Microfighter is your cheapest ticket. At 89 pieces, this isn't a build that will challenge anyone — but that's not really the point. The point is getting one of the most underrated Jedi into your collection, and LEGO knows exactly what they're doing here.

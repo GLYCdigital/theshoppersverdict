@@ -1,4 +1,5 @@
 ---
+
 title: "Set of 2 Touch Lamps with USB-C Port"
 seo_title: "Set of 2 Touch Lamps with USB-C Port Review: Verdict | TS"
 meta_description: "Our full set of 2 touch lamps with usb-c port review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BB5HBZK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fGK1da-VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about cheap touch lamps: most are gimmicks that die in three months. This set of two from the Amazon hardware aisle actually holds up. At 4.6 stars across 229 ratings, it’s not just another nightstand ornament — it’s a functional piece of bedside hardware that solves a real problem most lamps ignore: where do you plug in your phone?

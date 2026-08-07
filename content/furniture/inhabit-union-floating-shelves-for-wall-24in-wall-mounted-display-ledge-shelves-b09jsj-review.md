@@ -1,4 +1,5 @@
 ---
+
 title: "INHABIT UNION Floating Shelves for Wall-24in Wall Mounted Di"
 seo_title: "INHABIT UNION Floating Shelves for Wall-24in Wall  Review"
 meta_description: "Our full inhabit union floating shelves for wall-24in wall mounted di review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09JSJG68J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Rb+IqDXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this 24-inch floating shelf worth your wall space?

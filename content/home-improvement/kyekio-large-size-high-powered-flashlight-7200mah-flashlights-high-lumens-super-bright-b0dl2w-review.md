@@ -1,4 +1,5 @@
 ---
+
 title: "KYEKIO Large Size & High Powered Flashlight, 7200mAh Flashli"
 seo_title: "KYEKIO Large Size & High Powered Flashlight, 7200m Review"
 meta_description: "Our full kyekio large size & high powered flashlight, 7200mah flashli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL2W78FP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fqlcE6yqL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KYEKIO 7200mAh flashlight isn't trying to be your EDC pocket light.** It's a serious tool for people who need sustained brightness for hours — not a 30-second blast before the battery gives up. With 229 ratings averaging 4.6 stars, it's earned a solid reputation. Here's what that rating actually means.

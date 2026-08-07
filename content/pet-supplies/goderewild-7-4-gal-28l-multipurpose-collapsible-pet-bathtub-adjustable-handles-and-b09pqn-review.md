@@ -1,4 +1,5 @@
 ---
+
 title: "Goderewild 7.4 Gal/28L Multipurpose Collapsible Pet Bathtub"
 seo_title: "Goderewild Collapsible Pet Bathtub Review: 4.3 Stars"
 meta_description: "Goderewild 7.4 Gal collapsible pet bathtub review: durable, portable, and easy to store. See pros, cons, and if it fits your dog's bathing needs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09PQNDK2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DhS7ZTM8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat to roughly 3 inches for storage under beds or in closets; comes with a carry bag for transport"
   - "Dual-layer construction (thick PVC outer + non-slip inner texture) holds up to 7.4 gallons without leaking or bowing"
   - "Built-in drain plug at the bottom makes emptying fast — no awkward tipping and splashing indoors"
-cons:
+cons: 
   - "At 28L capacity, it's genuinely too small for dogs over 20-25 lbs; larger breeds will feel cramped and splash water everywhere"
   - "PVC material retains a mild chemical odor out of the box; needs airing out for a day or two before first use"
   - "No anti-slip feet on the base — it can slide on tile or hardwood when the dog shifts weight mid-bath"
+
 ---
 
 Bathing a dog indoors is a messy logistical nightmare — unless you've got a dedicated tub. The Goderewild 7.4 Gal/28L Collapsible Pet Bathtub tries to solve that problem by giving you a portable, storable washing station that doesn't require a permanent fixture in your bathroom. At 4.3 stars from 215 ratings, it's clearly working for a lot of owners. But is it working for *your* dog? Let's dig in.

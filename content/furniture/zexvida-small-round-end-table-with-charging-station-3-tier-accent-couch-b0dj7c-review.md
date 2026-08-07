@@ -1,4 +1,5 @@
 ---
+
 title: "ZEXVIDA Small Round End Table with Charging Station, 3-Tier "
 seo_title: "ZEXVIDA Small Round End Table with Charging Statio Review"
 meta_description: "Our full zexvida small round end table with charging station, 3-tier  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJ7CDMNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512xq88H5hL._AC_SL1032_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most end tables with charging ports are gimmicks. The ports are placed where you can't reach them, the cord is three inches long, and the whole thing wobbles after a month. The ZEXVIDA Small Round End Table with Charging Station isn't that — but it's not perfect either. Here's the real story after digging through 220 ratings and buyer feedback.

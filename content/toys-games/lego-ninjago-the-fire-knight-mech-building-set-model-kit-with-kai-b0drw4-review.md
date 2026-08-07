@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO The Fire Knight Mech Building Set - Model Kit w"
 seo_title: "LEGO NINJAGO The Fire Knight Mech Building Set - M Review"
 meta_description: "Our full lego ninjago the fire knight mech building set - model kit w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRW4ZZJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vBVKi+V4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you're shopping for a NINJAGO mech that looks imposing on a shelf but actually survives being knocked off one, The Fire Knight Mech is a serious contender. With 240 ratings averaging 4.8 stars, this set has clearly won over the LEGO crowd — but I'm here to tell you where it earns those stars and where it stumbles.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Bryant/Carrier EZ-FLEX Filter Media (expxxfil0016)"
 seo_title: "Bryant Carrier EZ-FLEX Filter Media Review: Worth It?"
 meta_description: "Honest Bryant/Carrier EZ-FLEX Filter Media review: MERV 8 performance, 3-month lifespan, real user feedback. Is it worth the premium? Find out."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B006BGJ4CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T9JxSzfrL._AC_SL1366_.jpg"
-pros:
+pros: 
   - "Cuts cleanly with scissors to custom lengths — one roll fits multiple filter sizes"
   - "MERV 8 rating catches pet dander and pollen without choking airflow like MERV 13 inch"
   - "Reinforced edge strips prevent media from curling or pulling out of the filter frame"
-cons:
+cons: 
   - "No pre-cut lengths — you'll need to measure and cut each one yourself"
   - "3-month replacement interval means you'll buy more frequently than cheaper fiberglass"
+
 
 ---
 

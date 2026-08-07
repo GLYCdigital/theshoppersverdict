@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Dawn Patrol Glove"
 seo_title: "Callaway Dawn Patrol Glove Review: Is It Worth It? (2026)"
 meta_description: "Callaway Dawn Patrol Glove review: 4.6/5 rating. We analyze fit, durability, breathability, and value. Find out who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09L7HQ743/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U8HpJnX4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium Cabretta leather palm provides exceptional feel and grip, even in humid conditions"
   - "Perforated microfibre back and breathable mesh panels keep hands cool on hot rounds"
   - "Secure, low-profile closure system avoids bulk at the wrist without sacrificing fit"
-cons:
+cons: 
   - "Runs slightly small — size up if you're between sizes"
   - "Leather palm wears faster than synthetic competitors if you play 2+ rounds weekly"
+
 ---
 
 You know that moment on the first tee when you pull on a fresh glove and it feels like a second skin? The Callaway Dawn Patrol delivers that feeling — but with a catch. At 4.6 stars across 229 Amazon ratings, it's clearly doing something right. Here's the honest breakdown of whether it earns a spot in your bag.

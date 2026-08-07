@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Electric Tiller Garden Cultivator"
 seo_title: "Cordless Electric Tiller Review: Real Dirt on This Cultivator"
 meta_description: "Our honest cordless electric tiller review covers battery life, tilling depth, and soil performance. See if this 4.2-star garden cultivator fits your yard."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXFVF66N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fywL4e-8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely quiet operation — you can till early morning without waking the neighbors"
   - "Lithium battery holds charge through 30+ minutes of continuous tilling on established beds"
   - "Folding handles collapse to roughly the size of a suitcase for garage or trunk storage"
-cons:
+cons: 
   - "Struggles with virgin or heavily compacted clay soil — needs multiple passes and patience"
   - "Battery non-swappable on the base model, so a full charge is your only session limit"
+
 ---
 
 If your back has survived one too many weekends of hand-turning garden soil, the Cordless Electric Tiller Garden Cultivator is the kind of tool that makes you wonder why you waited. With 210 Amazon ratings averaging 4.2 stars, this isn't a flagship unit — but for a mid-range cordless option, it's earning its keep in suburban and small-farm gardens alike.

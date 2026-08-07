@@ -1,4 +1,5 @@
 ---
+
 title: "Antimo Caputo Lievito Active Dry Yeast 1.1 LB Pack Large - 1"
 seo_title: "Caputo Lievito Dry Yeast Review: 1.1 LB for Pizza & Bread"
 meta_description: "Honest Antimo Caputo Lievito Active Dry Yeast review: 1.1 lb resealable pack, 4.5★ from 225 ratings. Is it worth it for sourdough starters & Neapolitan pizza?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07QF4T64V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LuwqCWytL._SL1017_.jpg"
-pros:
+pros: 
   - "Specifically formulated for long, cold fermentation — ideal for Neapolitan pizza doughs needing 24-48 hour proofing"
   - "Vacuum-sealed 1.1 lb (500g) pack keeps yeast viable for months in the freezer without noticeable loss of activity"
   - "Finer grind than standard active dry yeast — dissolves cleanly without needing to bloom in warm water first"
-cons:
+cons: 
   - "No zip-top resealable closure — the foil bag must be folded and clipped after opening, which is awkward for frequent use"
   - "Overkill for casual bakers who make bread once a week — you'll likely throw out half the pack before it loses potency"
+
 ---
 
 # The Serious Baker's Yeast: Caputo Lievito Dry Yeast Review

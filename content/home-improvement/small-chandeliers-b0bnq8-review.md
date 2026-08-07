@@ -1,4 +1,5 @@
 ---
+
 title: "Small Chandeliers"
 seo_title: "Small Chandeliers Review: Verdict | TSV"
 meta_description: "Our full small chandeliers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNQ8KW1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lO2gvx6eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Small Chandeliers Review: Big Style Without the Bulk

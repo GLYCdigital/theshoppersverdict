@@ -1,4 +1,5 @@
 ---
+
 title: "Nicpro 58PCS Art Drawing Supplies Kit in Leather Case, MP100"
 seo_title: "Nicpro 58PCS Art Drawing Supplies Kit in Leather C Review"
 meta_description: "Our full nicpro 58pcs art drawing supplies kit in leather case, mp100 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DDC6B3J8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uGhT77y1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nicpro 58PCS Art Drawing Supplies Kit in Leather Case, MP100: A Serious Kit for Serious Sketching

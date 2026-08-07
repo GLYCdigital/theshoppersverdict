@@ -1,4 +1,5 @@
 ---
+
 title: "(2- Pack) - Safety Innovations Bi-fold Door Lock - Closet Pr"
 seo_title: "Safety Innovations Bi-fold Door Lock Review (2-Pack) 2026 inch"
 meta_description: "Safety Innovations bi-fold door lock (2-pack) review: installs in minutes, keeps kids out of closets. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001QKGLZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KcwlelORL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Installs in under 5 minutes with just a screwdriver — no drilling or alignment guesswork"
   - "The spring-loaded latch mechanism is genuinely toddler-proof but still easy for adults to operate one-handed"
   - "Works reliably on both 2-panel and 4-panel bi-fold doors without interfering with folding action"
-cons:
+cons: 
   - "The plastic housing feels a bit light for the $15+ price point — metal would inspire more confidence"
   - "If your door has a hollow core, the screws can strip easily; pre-drilling small pilot holes is recommended"
+
 ---
 
 **The $15 Fix That Keeps Toddlers Out of the Linen Closet**

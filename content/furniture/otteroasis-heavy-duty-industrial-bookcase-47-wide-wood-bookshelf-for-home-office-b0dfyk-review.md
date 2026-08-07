@@ -1,7 +1,8 @@
 ---
-title: "OtterOasis Heavy Duty Industrial Bookcase, 47\" Wide Wood Boo"
-seo_title: "OtterOasis Heavy Duty Industrial Bookcase, 47\" Wid Review"
-meta_description: "Our full otteroasis heavy duty industrial bookcase, 47\" wide wood boo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "OtterOasis Heavy Duty Industrial Bookcase, 47\ Wide Wood Boo"
+seo_title: "OtterOasis Heavy Duty Industrial Bookcase, 47\ Wid Review"
+meta_description: "Our full otteroasis heavy duty industrial bookcase, 47\ wide wood boo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "otteroasis-heavy-duty-industrial-bookcase-47-wide-wood-bookshelf-for-home-office-b0dfyk-review"
 image_alt: "OtterOasis Heavy Duty Industrial Bookcase, 47 Wide Wood Bookshelf for Home Office, 120lbs Shelf Capacity, Rustic Open Sh"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DFYK7J43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v7SY3bDwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cheap bookshelf bow under the weight of a full encyclopedia set, you know the sinking feeling. The OtterOasis Heavy Duty Industrial Bookcase is designed to prevent exactly that. With a 47-inch wide footprint, powder-coated steel frame, and five adjustable shelves, this unit targets the "buy once, cry once" crowd. At 4.7 stars across 235 ratings, it's clearly earning its keep in most homes. But is it the right shelf for yours? Let's dig in.

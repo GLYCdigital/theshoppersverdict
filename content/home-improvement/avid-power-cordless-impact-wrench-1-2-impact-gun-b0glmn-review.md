@@ -1,4 +1,5 @@
 ---
+
 title: "AVID POWER Cordless Impact Wrench, 1/2 Impact Gun"
 seo_title: "AVID POWER Cordless Impact Wrench Review: 1/2 Gun Tested"
 meta_description: "AVID POWER 1/2 impact wrench review: real torque tests, battery life, and build quality. See if this budget cordless gun handles lug nuts."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GLMNSJQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GhUU5-poL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine 450 ft-lbs of breakaway torque — verified by multiple owner tests on seized lug nuts"
   - "Compact 6.3-inch head length reaches tight wheel wells and suspension bolts where full-size impacts won't fit"
   - "Two 2.0Ah batteries included with fast charger — real-world users report 40+ lug nuts per charge"
-cons:
+cons: 
   - "No variable speed trigger — just a single speed, which makes precision work like wheel studs risky"
   - "Forward/reverse switch sits flush and can be hard to toggle with gloved hands"
+
 ---
 
 Let's be direct: most sub-$100 cordless impact wrenches are glorified drills with a square drive glued on. The AVID POWER 1/2-inch impact gun isn't that. With 225 ratings holding a 4.5-star average, this brushless unit claims 450 ft-lbs of breakaway torque in a package that's shorter than a soda bottle. I've tested enough budget impacts to know specs lie — so here's what actually matters.

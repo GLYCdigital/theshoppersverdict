@@ -1,4 +1,5 @@
 ---
+
 title: "Jiva USDA Organic Moong Dal Yellow - 4 Pound (Split Mung Bea"
 seo_title: "Jiva USDA Organic Moong Dal Yellow - 4 Pound (Spli Review"
 meta_description: "Our full jiva usda organic moong dal yellow - 4 pound (split mung bea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B093T7NS3D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91G1QY+Yb+L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Jiva USDA Organic Moong Dal: The 4-Pound Pantry Staple That Actually Delivers

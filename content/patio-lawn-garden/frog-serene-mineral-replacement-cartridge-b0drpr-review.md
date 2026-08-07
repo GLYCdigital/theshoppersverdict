@@ -1,4 +1,5 @@
 ---
+
 title: "FROG Serene Mineral Replacement Cartridge"
 seo_title: "FROG Serene Mineral Cartridge Review: 2026 Buyer's Guide"
 meta_description: "Honest FROG Serene Mineral Replacement Cartridge review: performance, lifespan, costs, and whether it beats chlorine for your hot tub."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRPRRDT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VdnYRcBCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cuts chlorine demand by up to 75%, meaning fewer chemical purchases and less skin irritation"
   - "Four-month lifespan per cartridge — roughly 120 days of consistent mineral dosing"
   - "Drop-in installation takes under two minutes with no tools or priming required"
-cons:
+cons: 
   - "Only compatible with FROG Serene systems — useless if you own a different brand's mineral setup"
   - "You'll still need to shock weekly and test water regularly; this isn't a set-and-forget solution"
+
 ---
 
 If you own a FROG Serene hot tub system, you already know the drill — every four months, that little mineral cartridge runs dry and your water quality starts sliding. The FROG Serene Mineral Replacement Cartridge is the refill that keeps your system honest. At 4.7 stars from 235 Amazon ratings, most owners are satisfied. But is it worth the recurring cost, or are you better off switching to traditional chlorine? Let's break down what you're actually paying for.

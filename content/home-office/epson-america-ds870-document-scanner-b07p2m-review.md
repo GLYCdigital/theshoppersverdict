@@ -1,4 +1,5 @@
 ---
+
 title: "Epson America DS870 Document Scanner"
 seo_title: "Epson DS870 Scanner Review: Fast Duplex Workhorse"
 meta_description: "Epson DS870 document scanner review: 65ppm duplex speed, robust build, but finicky software. Is it worth it for your office? Read our honest take."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B07P2MVNJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MTByqDkNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 65ppm duplex scanning — both sides in one pass with no slowdown on mixed batches"
   - "Ultrasonic double-feed detection actually catches stapled or sticky pages before they jam"
   - Built-in flatbed (not just a feeder) handles passports, receipts, and bound documents up to 8.5 inch " x 14 inch "
-cons:
+cons: 
   - "Epson Scan software is dated and crashes intermittently on macOS Ventura and Sonoma"
   - "Plastic feed rollers wear out around 60,000 scans; replacement kit runs $60+"
   - "No Wi-Fi — USB 3.0 or Ethernet only, which surprises buyers expecting modern wireless"
+
 ---
 
 **The Epson DS870 is a serious piece of scanning hardware wrapped in frustrating software.** If you're processing 500+ pages a day, this machine will keep pace. If you're a home-office user who wants to scan a few receipts weekly, you're overpaying for speed you won't use and fighting drivers that feel a decade old. Here's the breakdown after digging through 185 Amazon ratings and real-world usage patterns.

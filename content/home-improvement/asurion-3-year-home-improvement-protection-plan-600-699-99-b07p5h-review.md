@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Home Improvement Protection Plan ($600 - $699 inch"
 seo_title: "ASURION 3-Year Home Improvement Plan Review (2026)"
 meta_description: "Honest ASURION 3-year protection plan review for $600-$699 tools. Coverage details, claim process, pros/cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07P5H3RNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures from day one, including the manufacturer's warranty period"
   - "Claim process is fully digital — file online or via app, no phone tag or shipping your tool anywhere"
   - "Prorated refund available if you cancel within the first 30 days"
-cons:
+cons: 
   - "Does NOT cover accidental damage, drops, or water exposure — only mechanical/electrical failure"
   - "Reimbursement is based on 'fair market value' at time of claim, not what you paid"
   - "You must have the original receipt and register the plan within 30 days of purchase"
+
 ---
 
 You just dropped $650 on a table saw, compound miter saw, or maybe a high-end pressure washer. The last thing you want is the motor burning out 14 months in — right after the manufacturer's warranty expires. That's exactly the gap ASURION's 3-Year Home Improvement Protection Plan is designed to fill.

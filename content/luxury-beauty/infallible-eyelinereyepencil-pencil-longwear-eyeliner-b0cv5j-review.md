@@ -1,4 +1,5 @@
 ---
+
 title: "Infallible EyelinerEyepencil Pencil Longwear Eyeliner"
 seo_title: "Infallible EyelinerEyepencil Pencil Longwear Eyeli Review"
 meta_description: "Our full infallible eyelinereyepencil pencil longwear eyeliner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CV5JYM6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KB4h5kSdL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The search for a pencil liner that actually stays put feels endless. Most either drag across your lash line like a dull crayon or melt into raccoon eyes by noon. The Infallible EyelinerEyepencil Pencil Longwear Eyeliner claims to solve both problems. After 215 Amazon ratings averaging 4.3 stars, shoppers are mostly nodding along. Here's the real breakdown.

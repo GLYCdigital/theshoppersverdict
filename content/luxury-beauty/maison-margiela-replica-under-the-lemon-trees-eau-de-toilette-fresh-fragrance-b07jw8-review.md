@@ -1,4 +1,5 @@
 ---
+
 title: "Maison Margiela - Replica - Under the Lemon Trees Eau de Toi"
 seo_title: "Maison Margiela - Replica - Under the Lemon Trees  Review"
 meta_description: "Our full maison margiela - replica - under the lemon trees eau de toi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JW811MF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rLNmhrGJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most citrus fragrances lie to you. They promise a sun-drenched orchard and deliver sticky soda pop sweetness. **Maison Margiela's Replica Under the Lemon Trees** doesn't lie. It opens with the smell of a lemon tree you've actually brushed against — leaves, zest, a hint of bitter pith, and that dusty warmth of sun-heated bark. As someone who has tested dozens of "fresh" scents, this one is the rare bottle that genuinely transports you.

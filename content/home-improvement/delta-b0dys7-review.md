@@ -1,4 +1,5 @@
 ---
+
 title: "Delta"
 seo_title: "Delta Review: Is This Tool Worth Your Money in 2026?"
 meta_description: "Delta 4.4-star tool review: honest breakdown of build quality, real-world performance, and value. See who should buy it — and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYS72GDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dp2BRKIsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid cast-aluminum base keeps the unit planted during heavy cuts — no wobble at full depth"
   - "Fence locks square with a satisfying click; zero slop even after 40+ hours of use"
   - "Tool-free blade changes take under a minute, a genuine time-saver on job sites"
-cons:
+cons: 
   - "Dust collection port is undersized; fine particles escape even with a shop vac attached"
   - "Table surface has a slight machining texture that can scratch softer woods on long rips"
+
 ---
 
 # Delta: The Workhorse That Almost Gets It Right

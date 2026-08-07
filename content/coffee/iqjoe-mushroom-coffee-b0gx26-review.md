@@ -1,4 +1,5 @@
 ---
+
 title: "IQJOE Mushroom Coffee"
 seo_title: "IQJOE Mushroom Coffee Review: Verdict | TSV"
 meta_description: "Our full iqjoe mushroom coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GX26S8R8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RoOJoLO9L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be straight: mushroom coffee sounds like a wellness fad designed to separate you from $30. But the IQJOE blend has quietly amassed 220 ratings at 4.4 stars, which suggests it’s doing something right. I tested it for two weeks, and here’s what actually matters.

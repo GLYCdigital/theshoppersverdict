@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Buffalo Nudges Jerky Cuts Natural Dog Treats"
 seo_title: "Blue Buffalo Nudges Jerky Cuts Review: Real Meat Dog Treats"
 meta_description: "Honest Blue Buffalo Nudges Jerky Cuts review: real chicken jerky treats with 4.7/5 rating. Ingredients, texture, picky-eater results, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5SNGV34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w-0cS3H6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real chicken is the first ingredient — no chicken meal, by-product meal, or unnamed meat sources"
   - "Soft, chewy texture works well for senior dogs and small breeds with dental sensitivities"
   - "No poultry by-product meals, corn, wheat, soy, or artificial preservatives — clean label for a jerky treat"
-cons:
+cons: 
   - "Pieces are inconsistent in size — some come out small enough to be a choking hazard for larger dogs if not supervised"
   - "Strong meaty aroma that lingers in the bag and on your hands after handling"
   - "Price per ounce runs higher than generic jerky treats from grocery store brands"
+
 ---
 
 **The Short Version: A clean-label jerky treat that dogs actually go crazy for — but it costs more and has some size consistency quirks.**

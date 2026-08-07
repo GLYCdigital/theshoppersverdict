@@ -1,4 +1,5 @@
 ---
+
 title: "Soyee Magnetic Blocks"
 seo_title: "Soyee Magnetic Blocks Review: Verdict | TSV"
 meta_description: "Our full soyee magnetic blocks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FVFN2B4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81M3z7-SrIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're tired of cheap magnetic tiles that collapse under their own weight, the Soyee set fixes the two biggest problems — magnet strength and seam durability — without the premium price tag. But there's a catch if you already own other brands.

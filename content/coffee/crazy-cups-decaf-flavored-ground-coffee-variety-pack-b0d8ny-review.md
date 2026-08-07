@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Cups Decaf Flavored Ground Coffee Variety Pack"
 seo_title: "Crazy Cups Decaf Coffee Review: 4.2/5 Verdict"
 meta_description: "Crazy Cups decaf flavored ground coffee variety pack review: taste test, caffeine-free options, pros & cons. See if this 4.3-star coffee is worth it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8NYSPRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BxBsSDldL._SL1500_.jpg"
-pros:
+pros: 
   - "Still delivers bold Crazy Cups flavor without the caffeine jitters — flavor intensity holds up well in decaf"
   - "Variety pack format lets you test five different flavors before committing to a full-size bag"
   - "Works in standard drip machines, pour-over, and cold brew — no special equipment needed"
-cons:
+cons: 
   - "Flavor saturation varies noticeably between batches; some bags taste stronger than others"
   - "No roast date printed on packaging, so freshness is a guessing game with older stock"
+
 ---
 
 Let’s be honest about decaf coffee: most of it tastes like hot brown water that happens to be warm. That’s exactly why Crazy Cups’ decaf variety pack caught my attention. The brand built its name on aggressively flavored, dessert-style coffees. Could that same punchy approach survive the decaffeination process? It turns out, mostly yes.

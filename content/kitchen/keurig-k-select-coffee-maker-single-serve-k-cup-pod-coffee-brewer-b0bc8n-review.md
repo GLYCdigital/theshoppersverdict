@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig K-Select Coffee Maker, Single Serve K-Cup Pod Coffee "
 seo_title: "Keurig K-Select Coffee Maker, Single Serve K-Cup P Review"
 meta_description: "Our full keurig k-select coffee maker, single serve k-cup pod coffee  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BC8N8NHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610mMfxiuXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Keurig K-Select is the Goldilocks of single-serve brewers — not too basic, not overly fancy — and for most households, that's exactly right.**

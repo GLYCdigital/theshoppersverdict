@@ -1,4 +1,5 @@
 ---
+
 title: "Farmina N&D, Quinoa Digestion Lamb Quinoa Fennel and Mint Re"
 seo_title: "Farmina N&D Quinoa Digestion Lamb Review: Worth It? (2026)"
 meta_description: "Farmina N&D Quinoa Digestion Lamb & Fennel dry dog food review: ingredients, real owner feedback, pros/cons, and who should buy. Honest 4.2/5 verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B079VK4WH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QmB5E0waL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "First five ingredients are all animal-based — deboned lamb, herring, dried egg, herring meal, and chicken meal — no cheap fillers upfront"
   - "Quinoa and fennel target actual digestive issues, not just marketing claims — the fiber profile is genuinely different from standard grain-free formulas"
   - "High omega-3 content from herring and fish oil supports skin/coat health, which owners with itchy dogs repeatedly confirm"
-cons:
+cons: 
   - "Price point is steep — expect to pay premium for the quinoa base, roughly 30-40% more than comparable lamb-based kibbles from brands like Purina Pro Plan or Hill's"
   - "Switching requires a slow transition — several reviewers report loose stools for the first week if they switched cold turkey"
   - "Kibble size is small and uniform, which may not satisfy aggressive chewers or large breeds that prefer a larger crunch"
+
 ---
 
 **Is this the digestive solution your dog needs, or just another overpriced "grain-free" label? I dug through the ingredient panel, the chemistry, and 220 Amazon reviews to give you the real answer.**

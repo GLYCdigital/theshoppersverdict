@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOHOME Pop Up Canopy Tent Outdoor Portable Shelter Tent He"
 seo_title: "VIVOHOME Pop Up Canopy Tent Outdoor Portable Shelt Review"
 meta_description: "Our full vivohome pop up canopy tent outdoor portable shelter tent he review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXFPFDPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aX3Vx4rgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most pop-up canopies under $150 are disposable. The frame bends, the fabric rips at the grommets, and you're shopping again by August. The VIVOHOME Pop Up Canopy Tent sits in that same price bracket, but the 4.3-star average across 215 ratings suggests it's doing something different. So is this the one that finally lasts, or just another weekend warrior?

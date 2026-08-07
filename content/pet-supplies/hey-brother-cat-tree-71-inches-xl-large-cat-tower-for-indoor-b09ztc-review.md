@@ -1,4 +1,5 @@
 ---
+
 title: "Hey-brother Cat Tree, 71 inches XL Large Cat Tower for Indoo"
 seo_title: "Hey-brother Cat Tree, 71 inches XL Large Cat Tower Review"
 meta_description: "Our full hey-brother cat tree, 71 inches xl large cat tower for indoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZTCNHKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ccKq8JABL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa like a scratching post and your bookshelf like a private penthouse, a tall cat tree isn't optional — it's furniture. The Hey-brother 71-inch XL tower is aimed squarely at owners who need serious vertical territory without paying boutique prices. After digging through 229 ratings and the spec sheet, here's the honest picture.

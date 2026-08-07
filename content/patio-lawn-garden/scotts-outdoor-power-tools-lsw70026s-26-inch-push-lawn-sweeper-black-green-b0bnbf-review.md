@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Outdoor Power Tools LSW70026S 26-Inch Push Lawn Sweep"
 seo_title: "Scotts Outdoor Power Tools LSW70026S 26-Inch Push  Review"
 meta_description: "Our full scotts outdoor power tools lsw70026s 26-inch push lawn sweep review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0BNBFL2R2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91oNSgM4PFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Scotts 26-inch push lawn sweep occupies an awkward middle ground: it's too expensive to be an impulse buy, yet too affordable to be a commercial-grade tool. At 3.5 stars across 175 ratings, the verdict is split — and after digging through the feedback, the pattern is clear. This sweeper nails the basics but frustrates on the details.

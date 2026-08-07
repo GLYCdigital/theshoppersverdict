@@ -1,4 +1,5 @@
 ---
+
 title: "Luxardo Gourmet Maraschino Cherries, 2.2 lbs can"
 seo_title: "Luxardo Gourmet Maraschino Cherries, 2.2 lbs can Review: "
 meta_description: "Our full luxardo gourmet maraschino cherries, 2.2 lbs can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNBNKQ9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kevdJnDmL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what's happening here. You're looking at a 2.2-pound can of cherries that costs about the same as a mid-tier bottle of bourbon. And for most people, that seems absurd. But if you've ever ordered a proper Manhattan at a decent bar and wondered why the cherry tasted like actual fruit instead of red-dyed corn syrup — this is the answer. The Luxardo Gourmet Maraschino Cherries are the gold standard in the cocktail world, and they've earned that reputation through sheer, uncompromising quality.

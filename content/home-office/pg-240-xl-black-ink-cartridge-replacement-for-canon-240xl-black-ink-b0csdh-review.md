@@ -1,4 +1,5 @@
 ---
+
 title: "PG-240 XL Black Ink Cartridge Replacement for Canon 240XL Bl"
 seo_title: "PG-240 XL Black Ink Cartridge Replacement for Cano Review"
 meta_description: "Our full pg-240 xl black ink cartridge replacement for canon 240xl bl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSDHT6DC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G8WXBuDVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The boring truth about ink:** OEM cartridges cost more, but they work. This PG-240 XL from Canon is the textbook example of that trade-off — and for most home office users, it's the right call.

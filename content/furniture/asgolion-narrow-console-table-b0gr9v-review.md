@@ -1,4 +1,5 @@
 ---
+
 title: "Asgolion Narrow Console Table"
 seo_title: "Asgolion Narrow Console Table Review: Slim Entryway Solution"
 meta_description: "Asgolion Narrow Console Table review: Is this 4.3-star slim entryway table worth it? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GR9VKTZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Slim 11.8-inch depth fits tight hallways and entryways where standard consoles won't"
   - "Sturdy steel frame with adjustable feet — no wobble on uneven floors, unlike cheaper flat-footed tables"
   - "Easy 10-minute assembly with labeled parts and included hex wrench"
-cons:
+cons: 
   - "Shelf spacing is fixed — tall baskets or decor over 12 inches won't fit underneath"
   - "Surface scratches easily; use a protective pad under lamps or planters"
   - "Only available in two finishes — no walnut or light oak option for varied decor"
+
 ---
 
 **The space between your door and your living room is prime real estate. Most console tables waste it.** The Asgolion Narrow Console Table targets that awkward 12-inch gap next to your door, under a window, or behind a sofa — and it mostly succeeds.

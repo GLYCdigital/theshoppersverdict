@@ -1,4 +1,5 @@
 ---
+
 title: "AQQA Aquarium Light"
 seo_title: "AQQA Aquarium Light Review: Is It Worth It? (2026)"
 meta_description: "Honest AQQA Aquarium Light review: brightness, plant growth, build quality, and value. See what 229 Amazon buyers really say before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D3CBPX22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NcZIBb8LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-spectrum LEDs with adjustable brightness and color temperature that actually grow low-to-medium light plants without algae explosions"
   - "Slim aluminum profile with adjustable mounting brackets fits both rimmed and rimless tanks up to 24 inches wide"
   - "Built-in timer with sunrise/sunset simulation — one of the few budget lights that gets this right without a separate controller"
-cons:
+cons: 
   - "The mounting arms are plastic and feel slightly flimsy on tanks wider than 18 inches — they work, but don't overtighten"
   - "No app or smart home integration — you're limited to the on-board buttons and timer, which is fine for most but annoying for techies"
   - "Par values drop off noticeably at the edges on deeper tanks; the sweet spot is really in the center 60% of the footprint"
+
 ---
 
 AQQA has been quietly building a reputation in the budget aquarium lighting space, and the current generation of their LED bar light explains why. With a 4.6-star average across 229 ratings, this isn't a fly-by-night product — it's a legitimate contender for planted tank enthusiasts who don't want to drop $200+ on a name brand fixture.

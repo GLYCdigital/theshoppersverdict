@@ -1,4 +1,5 @@
 ---
+
 title: "Darkaway Outside Exterior Lights Fixture for House Patio 6D1 inch"
 seo_title: "Darkaway Exterior Light Fixture Review: Patio 6D1 inch"
 meta_description: "Darkaway 6D1 exterior light fixture review: build quality, brightness, and wet-rated performance for patios and entryways. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DM96XV9N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7110kHH16mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant finish holds up in rain and coastal salt air"
   - "Integrated LED runs cool and eliminates bulb replacement for roughly a decade of evening use"
   - "Tool-free wiring via included wire nuts and a slide-on mounting plate—most installs finish under 30 minutes"
-cons:
+cons: 
   - "Glass panels smudge easily; need a microfiber cloth to keep the light output crisp"
   - "No dusk-to-dawn sensor on the base model—you'll need a smart switch or timer for automation"
+
 ---
 
 Most outdoor fixtures are either cheap plastic that yellows in a season or overpriced designer units that cost more than the patio furniture. The Darkaway 6D1 sits in a rare middle ground. At 4.6 stars from 229 ratings, this die-cast aluminum wall light promises the durability of a commercial fixture with the price tag of something you'd actually buy for a house you care about. Here's what I found after researching the specs, tearing through buyer feedback, and comparing it against the usual suspects in this category.

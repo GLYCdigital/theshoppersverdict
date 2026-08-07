@@ -1,4 +1,5 @@
 ---
+
 title: "YIATHOME Muti Tier Cat House"
 seo_title: "YIATHOME Muti Tier Cat House Review: Verdict | TSV"
 meta_description: "Our full yiathome muti tier cat house review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7L4ZN54/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ewKyCE3lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **YIATHOME Muti Tier Cat House** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

@@ -1,4 +1,5 @@
 ---
+
 title: "Bestway Flowclear 52 Inch Versatile Metal A Frame Above Grou"
 seo_title: "Bestway Flowclear 52 inch  A-Frame Pool Review: Worth It?"
 meta_description: "Honest Bestway Flowclear 52-inch A-frame above ground pool review. Build quality, real-world use, buyer complaints, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CT96V897/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kauUbl49L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sturdy A-frame design — the metal legs lock into place with no wobble or sagging at the seams"
   - "Full 52-inch wall height with a 12-foot diameter, giving swimmers real depth (about 3.5 feet of water) without a full in-ground dig"
   - "Includes a 1,000 GPH filter pump and Type-B ground cloth — two items most pools this price make you buy separately"
-cons:
+cons: 
   - "The ladder is functional but not great — narrow steps that get slippery, and it doesn't attach to the frame, just hooks over the wall"
   - "Setup requires two people and a solid hour of patience; the instructions are mostly pictograms and the liner is finicky to seat perfectly"
+
 ---
 
 This pool is the budget-friendly middle child of the above-ground market. It's not the cheapest splash pool you'll find, and it's not a permanent steel-wall installation. But at 4.6 stars across 229 ratings, it's clearly doing something right. The question is whether that something is enough for your backyard.

@@ -1,4 +1,5 @@
 ---
+
 title: "BEARUT Router Shelf Projector Shelf Projector Stand Router S"
 seo_title: "BEARUT Router Shelf Review: Projector Stand & Cable Storage"
 meta_description: "BEARUT Router Shelf review: sturdy projector stand with cable management. See real pros, cons, and who should buy this 4.5-star shelf."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFV9R8BV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fl1O8z2oL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twin-slot design holds both a router and projector without taking up floor or desk space"
   - "Integrated cable management channels keep wires organized and out of sight"
   - "Sturdy metal construction with a 15 lb weight capacity per shelf"
-cons:
+cons: 
   - "Mounting hardware only fits studs up to 16 inches apart — no drywall anchors included"
   - "Shelf depth is tight for oversized routers with external antennas"
+
 ---
 
 **The BEARUT Router Shelf solves a problem you didn't know you had — until you've tripped over a router one too many times.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Glory Furniture Daniel 3 Drawer Nightstand in Pink"
 seo_title: "Glory Furniture Daniel 3 Drawer Nightstand Review (2026)"
 meta_description: "Honest Glory Furniture Daniel 3 Drawer Nightstand in Pink review: build quality, drawer space, color accuracy, and who should buy it. 4.5-star rated."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTWVCLMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PHNcYjvYL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Full-extension drawer glides make every inch of the 22-inch-deep drawers accessible"
   - "Pink finish is a true pastel — matches photos, not a neon surprise"
   - "Solid wood legs and frame joints hold up to daily use without wobble"
-cons:
+cons: 
   - "Pink color will not match every decor; this is a commitment, not a neutral"
   - "Assembly requires two people — the drawer fronts are heavy and finicky to align"
+
 ---
 
 You don't buy a pink nightstand by accident. You buy it because you want your bedroom to feel like *yours* — and you're tired of the same espresso and whitewashed oak options everywhere. The Glory Furniture Daniel 3 Drawer Nightstand in Pink is a statement piece with actual storage credentials. After digging through 225 ratings averaging 4.5 stars, here's the real story.

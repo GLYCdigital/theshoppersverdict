@@ -1,4 +1,5 @@
 ---
+
 title: "NeatiEase Thickened Metal Roofing Panels, Heavy Duty Corruga"
 seo_title: "NeatiEase Thickened Metal Roofing Panels, Heavy Du Review"
 meta_description: "Our full neatiease thickened metal roofing panels, heavy duty corruga review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DDKYYJVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CFuElTLTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You're Actually Getting**

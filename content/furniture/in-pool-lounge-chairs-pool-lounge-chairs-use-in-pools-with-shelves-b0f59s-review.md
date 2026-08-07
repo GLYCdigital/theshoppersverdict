@@ -1,4 +1,5 @@
 ---
+
 title: "in Pool Lounge Chairs, Pool Lounge Chairs, Use in Pools with"
 seo_title: "in Pool Lounge Chairs, Pool Lounge Chairs, Use in  Review"
 meta_description: "Our full in pool lounge chairs, pool lounge chairs, use in pools with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F59SBDJY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tlqB8VNRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weather-resistant construction for outdoor use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most in-pool lounge chairs are either cheap inflatables that pop by August or overpriced plastic that feels like sitting on a park bench. This set sits somewhere in the middle, and for most pool owners, that's exactly the sweet spot.

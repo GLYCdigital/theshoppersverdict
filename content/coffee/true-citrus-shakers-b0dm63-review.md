@@ -1,4 +1,5 @@
 ---
+
 title: "True Citrus Shakers"
 seo_title: "True Citrus Shakers Review: Verdict | TSV"
 meta_description: "Our full true citrus shakers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM63BQ2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VJupE3xpL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "flavor enhancers" for coffee and cooking are either loaded with salt, packed with sugar, or taste like the chemical aisle of a lab. The True Citrus Shakers are none of those things — and that's exactly why the 4.7-star average across 235 ratings makes sense.

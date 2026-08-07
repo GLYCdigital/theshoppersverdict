@@ -1,4 +1,5 @@
 ---
+
 title: "Arteck Split Ergonomic Keyboard with Cushioned Wrist and Pal"
 seo_title: "Arteck Split Ergonomic Keyboard Review: Worth It? (2026)"
 meta_description: "Honest Arteck Split Ergonomic Keyboard review: cushioned wrist rest, 2.4G wireless, typing comfort tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BKKYRQ31/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O0sxRfLVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine split layout forces a natural shoulder-width typing posture without the steep learning curve of a fully tented board"
   - "Cushioned palm rest is thick memory foam, not the hard plastic strip most budget boards fake you out with"
   - "2.4G wireless connection is rock-solid with zero perceptible input lag during 8-hour typing sessions"
-cons:
+cons: 
   - "No Bluetooth — the 2.4G dongle occupies a USB-A port permanently, which is a dealbreaker on modern ultra-thin laptops"
   - "Keycaps feel slightly wobbly on the stabilizers, especially the spacebar; tactile feedback is mushy compared to mechanical options"
   - "Palm rest is permanently attached — you can't remove it for cleaning or swap in a lower-profile alternative"
+
 ---
 
 ## The split keyboard that actually makes you type better — if your setup allows it

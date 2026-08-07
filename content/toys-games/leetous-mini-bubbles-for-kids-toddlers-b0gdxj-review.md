@@ -1,4 +1,5 @@
 ---
+
 title: "Leetous Mini Bubbles for Kids Toddlers"
 seo_title: "Leetous Mini Bubbles for Kids Toddlers Review: Verdict | "
 meta_description: "Our full leetous mini bubbles for kids toddlers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GDXJJPPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YuKFK9W+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most bubble toys for toddlers are either too complicated for little hands or leak all over your car. The Leetous Mini Bubbles actually solves both problems — and that's why 225 Amazon reviewers have pushed it to a 4.5-star average.

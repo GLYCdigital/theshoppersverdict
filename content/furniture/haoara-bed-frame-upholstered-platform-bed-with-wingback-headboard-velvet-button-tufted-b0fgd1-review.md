@@ -1,4 +1,5 @@
 ---
+
 title: "HAOARA Bed Frame, Upholstered Platform Bed with Wingback Hea"
 seo_title: "HAOARA Bed Frame Review: Wingback Platform Bed (2026)"
 meta_description: "HAOARA upholstered platform bed with wingback headboard — honest review of build quality, assembly, and comfort. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGD1PMHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hIkOP320L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully upholstered wingback headboard with button tufting provides a luxury hotel look at a mid-range price point"
   - "Platform design eliminates the need for a box spring — slats support memory foam and hybrid mattresses directly"
   - "Built-in USB and Type-C charging ports on the headboard add practical bedside convenience"
-cons:
+cons: 
   - "Velvet fabric shows pet hair and dust easily; requires regular lint-rolling to stay presentable"
   - "Headboard height (approx. 52 inches) may feel low for taller sleepers who sit up to read in bed"
+
 ---
 
 # HAOARA Bed Frame Review: Does This Wingback Platform Actually Deliver?

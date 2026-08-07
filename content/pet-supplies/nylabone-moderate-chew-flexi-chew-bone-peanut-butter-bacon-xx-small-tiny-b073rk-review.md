@@ -1,4 +1,5 @@
 ---
+
 title: "Nylabone Moderate Chew Flexi Chew Bone Peanut Butter & Bacon"
 seo_title: "Nylabone Moderate Chew Flexi Chew Bone Peanut Butt Review"
 meta_description: "Our full nylabone moderate chew flexi chew bone peanut butter & bacon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B073RK9ZYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xocW-QTAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got a small dog with a chewing habit that’s wrecking your baseboards, the Nylabone Moderate Chew Flexi Chew Bone is worth a hard look. This isn’t the rock-hard nylon chew your vet warned you about — it’s a flexible, bone-shaped chew that bends under pressure, which is exactly what you want for a pup who chews hard enough to hurt themselves. The peanut butter and bacon flavor is the bait, but the real value is in the design.

@@ -1,16 +1,17 @@
 ---
+
 title: "KISS Strip Eyelash Adhesive, Clear 0.176 Oz KPLGL01"
 seo_title: "KISS Strip Eyelash Adhesive Review: Verdict (4.5/5) | TSV"
 meta_description: "Honest KISS Strip Eyelash Adhesive review 131,821+ reviews analyzed. Real pros, cons, aloe formula, brush applicator, and our verdict."
 slug: "kiss-strip-eyelash-adhesive-clear-0-176-oz-review"
 image_alt: "KISS Strip Eyelash Adhesive Clear 0.176 Oz tube with brush applicator for false eyelashes"
-keywords:
+keywords: 
   - "KISS eyelash glue review"
   - "strip eyelash adhesive review"
   - "best eyelash glue"
   - "KISS lash adhesive clear"
 verdict_score: 4.5
-faq:
+faq: 
   - question: "Is KISS Strip Eyelash Adhesive latex-free?"
     answer: "Yes, KISS Strip Eyelash Adhesive is formaldehyde-free and latex-free, making it suitable for sensitive eyes. The formula also contains aloe to soothe the lash line and reduce irritation."
   - question: "How long does KISS eyelash glue take to dry clear?"
@@ -23,16 +24,17 @@ review_count: 131821
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BMMOAFU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718R0mTdjlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries clear — invisible application"
   - "Latex-free and aloe-infused for sensitive eyes"
   - "All-day hold without touch-ups (10-12 hours)"
   - "Easy removal without damaging natural lashes"
   - "Brush applicator for precise, thin glue line"
-cons:
+cons: 
   - "Tube can leak if stored improperly"
   - "Strong initial smell upon opening"
   - "Small tube size (0.176 oz) for the price"
+
 ---
 
 Let me be direct: most lash glues are either too weak to survive a lunch date or so aggressive they take your natural lashes with them when you peel the strip off. The KISS Strip Eyelash Adhesive in Clear sits in that rare middle ground — and with 131,821 ratings averaging 4.5 stars, it's clearly doing something right.

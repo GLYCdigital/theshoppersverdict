@@ -1,7 +1,8 @@
 ---
-title: "John Deere AUC16767 42\" Mower Deck D100 D105 E130 L107 S120 "
-seo_title: "John Deere AUC16767 42\" Mower Deck D100 D105 E130  Review"
-meta_description: "Our full john deere auc16767 42\" mower deck d100 d105 e130 l107 s120  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "John Deere AUC16767 42\ Mower Deck D100 D105 E130 L107 S120 "
+seo_title: "John Deere AUC16767 42\ Mower Deck D100 D105 E130  Review"
+meta_description: "Our full john deere auc16767 42\ mower deck d100 d105 e130 l107 s120  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "john-deere-auc16767-42-mower-deck-d100-d105-e130-l107-s120-s240-b09bw4-review"
 image_alt: "John Deere AUC16767 42 Mower Deck D100 D105 E130 L107 S120 S240 X106 X127 X145"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09BW4DV2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZAbynZHyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Replacement Deck That Actually Fits — No Grinding, No Swearing

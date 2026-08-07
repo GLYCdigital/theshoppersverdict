@@ -1,4 +1,5 @@
 ---
+
 title: "Dioomod Espresso Puck Screen"
 seo_title: "Dioomod Espresso Puck Screen Review: Worth It? (2026)"
 meta_description: "Dioomod espresso puck screen review: 4.6★ rated. Does it improve extraction & cleanup? Tested for fit, flow, and durability. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2GKBSBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n5M5QQwRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Even water distribution across the puck, reducing channeling in both stock and bottomless portafilters"
   - "Keeps the group head and shower screen visibly cleaner — fewer backflushes needed between shots"
   - "Precision-machined 316 stainless steel with smooth edges; doesn't snag or scratch the portafilter basket"
-cons:
+cons: 
   - "Requires a slightly finer grind to maintain the same shot time — expect to dial in again after installing"
   - "Adds about 2mm of headspace, so very deep baskets or high-dose shots (18g+) may need a smaller basket or reduced dose"
   - "Thin material can warp if knocked against the sink edge while knocking out the puck — handle with care"
+
 ---
 
 If you've ever pulled a shot that sprayed like a sprinkler or finished with a soupy, cratered puck, you already know the problem: water finds the path of least resistance. The Dioomod Espresso Puck Screen is a 1.7mm disc of precision-machined 316 stainless steel mesh that sits on top of your tamped coffee, forcing water to spread evenly before it hits the puck. It's a simple concept, but the execution matters — and at a 4.6-star average across 229 ratings, this one has earned its place in the basket.

@@ -1,4 +1,5 @@
 ---
+
 title: "Canon imagePROGRAF TC-21 24 inch  - Large Format Printer, Poster"
 seo_title: "Canon imagePROGRAF TC-21 24 inch  Review: Worth It? (2026)"
 meta_description: "Canon imagePROGRAF TC-21 24 inch  review: real performance, print quality, ink costs & who should buy. Honest verdict on this poster printer."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F2PK7F9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OHBlcZPDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 24-inch wide printing with 2400x1200 dpi resolution that delivers crisp text and vibrant poster graphics right out of the box"
   - "Front-loading roll and sheet feed design means you can swap media without crawling behind the machine — a genuine space-saver for tight offices"
   - "Automatic media detection and borderless printing simplify workflow; no manual alignment headaches on standard poster stock"
-cons:
+cons: 
   - "Ink cartridges are pricey — expect roughly $70-90 per color set, and the pigment-based LUCIA inks hit hard when you print full-bleed posters regularly"
   - "No built-in hard drive or advanced job queue; network printing with multiple users can bottleneck on big files"
+
 ---
 
 Let's cut through the spec sheet noise. The Canon imagePROGRAF TC-21 is a 24-inch wide-format printer that costs about what you'd expect for entry-level large format, and it delivers exactly where it needs to — but you need to know its quirks before you hand over your credit card.

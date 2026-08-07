@@ -1,4 +1,5 @@
 ---
+
 title: "Youtanic Lazy Chair with Wide Seat, Accent Chair Upholstered"
 seo_title: "Youtanic Lazy Chair with Wide Seat, Accent Chair U Review"
 meta_description: "Our full youtanic lazy chair with wide seat, accent chair upholstered review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFH8LKNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Sbhdz2P+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the "lazy chair" marketing noise. This Youtanic accent chair has 225 Amazon ratings sitting at 4.5 stars, and after digging through the feedback plus the spec sheet, here's what actually matters.

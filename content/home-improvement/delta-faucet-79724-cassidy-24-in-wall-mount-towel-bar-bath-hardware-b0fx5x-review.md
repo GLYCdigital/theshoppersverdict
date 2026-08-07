@@ -1,23 +1,25 @@
 ---
+
 title: "DELTA FAUCET 79724 Cassidy 24-in Wall Mount Towel Bar Bath H"
 seo_title: "Delta Faucet 79724 Cassidy Towel Bar Review: Solid Buy?"
 meta_description: "Delta Faucet 79724 Cassidy 24-in wall mount towel bar review: build quality, installation tips, real buyer feedback, and who should buy it."
 slug: "delta-faucet-79724-cassidy-24-in-wall-mount-towel-bar-bath-hardware-b0fx5x-review"
 image_alt: "Delta Faucet 79724 Cassidy 24-inch wall mount towel bar in chrome finish mounted on bathroom wall"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FX5X6MQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UpDX2gtPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Solid zinc die-cast construction with a brushed nickel finish that resists fingerprints and water spots"  
   - "Generous 24-inch length fits two standard bath towels without overlap"  
   - "Wall-mount design with concealed mounting screws for a clean, finished look"  
-cons:  
+cons: 
   - "Mounting hardware and anchors not included — you'll need to buy your own"  
   - "No major complaints, but the bar is fixed; no swivel or pivot for angled towel placement"
+
 ---
 
 If you’ve ever yanked a towel off a flimsy bar and watched the whole bracket pull out of drywall, you know the value of a properly built piece of bathroom hardware. The Delta Faucet 79724 Cassidy 24-inch Wall Mount Towel Bar is the antidote to that frustration — a straightforward, well-machined bar that does exactly what it should, with minimal fuss.

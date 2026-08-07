@@ -1,4 +1,5 @@
 ---
+
 title: "BALIBOO Plasma Ball Light, Touch Activated Lightning Globe,"
 seo_title: "BALIBOO Plasma Ball Light Review: Touch-Activated Lightning Globe"
 meta_description: "Honest BALIBOO Plasma Ball Light review: build quality, touch response, brightness, and whether this lightning globe is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQNH4WWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b8XoSAYyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bright, vivid lightning bolts that respond instantly to touch with satisfying crackling sounds"
   - "Solid glass sphere and sturdy plastic base that feel more premium than the price suggests"
   - "Multiple operating modes including music-reactive and auto-off timer for flexible use"
-cons:
+cons: 
   - "Lightning arcs can interfere with nearby electronic devices like Wi-Fi routers and monitors"
   - "Base can get noticeably warm after 2+ hours of continuous use"
   - "No brightness adjustment — it's always at full intensity"
+
 ---
 
 ## Opening Hook

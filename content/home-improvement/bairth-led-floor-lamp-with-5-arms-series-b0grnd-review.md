@@ -1,4 +1,5 @@
 ---
+
 title: "Bairth LED Floor Lamp with 5 Arms Series"
 seo_title: "Bairth LED Floor Lamp Review: 5 Arms, Worth It?"
 meta_description: "Bairth LED Floor Lamp with 5 Arms Series review: bright, adjustable lighting for workshops, garages, and reading nooks. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRND4BZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613U76tah-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five independently adjustable arms let you direct light exactly where it's needed, eliminating shadows on workbenches"
   - "Built-in USB charging ports on the base add practical utility for powering tools or devices without extra wall warts"
   - "Sturdy weighted base prevents tipping even when arms are fully extended"
-cons:
+cons: 
   - "Bulbs are not included—you'll need to budget for five separate LED bulbs on top of the lamp cost"
   - "Some users report the color temperature is fixed, so you can't switch between warm and cool light"
+
 ---
 
 You know that frustrating moment when you're trying to do detail work—soldering a circuit board, sorting tiny screws, or reading a blueprint—and your overhead light just isn't cutting it? The Bairth LED Floor Lamp with 5 Arms Series is engineered specifically to kill those shadows. This isn't your grandmother's torchiere lamp. It's a task-oriented lighting tool that's earned a 4.6-star average across 229 Amazon ratings, and after digging into the specs and user feedback, here's my honest take.

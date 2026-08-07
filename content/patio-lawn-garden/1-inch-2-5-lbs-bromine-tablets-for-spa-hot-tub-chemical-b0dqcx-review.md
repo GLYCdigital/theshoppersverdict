@@ -1,4 +1,5 @@
 ---
+
 title: "1 Inch 2.5 Lbs Bromine Tablets for Spa Hot Tub Chemical Tabs"
 seo_title: "1 Inch 2.5 Lbs Bromine Tablets Review: Spa Tabs That Work"
 meta_description: "Honest review of 1-inch 2.5 lbs bromine tablets for spa hot tubs. See how these tabs perform, dissolve rates, and if they're worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQCX6P2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-hRLY4QYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Slow-dissolving 1-inch tablets last 5–7 days in a floater, cutting maintenance frequency"
   - "2.5 lb container holds roughly 40 tablets — about 2 months of coverage for a standard 300-gallon spa"
   - "Low odor compared to chlorine, making it comfortable for indoor or covered spas"
-cons:
+cons: 
   - "Requires a floater or feeder — can't be tossed directly into the water like granules"
   - "Initial bromine demand needs a shock or booster; tablets alone won't establish a residual fast enough"
+
 ---
 
 Let's be honest about spa chemicals: most of them are fiddly, messy, or just plain confusing. These 1-inch bromine tablets aim to simplify the whole routine. Do they deliver? Mostly, yes — with a couple of caveats worth knowing before you buy.

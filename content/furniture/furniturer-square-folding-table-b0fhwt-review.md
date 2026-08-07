@@ -1,4 +1,5 @@
 ---
+
 title: "FurnitureR Square Folding Table"
 seo_title: "FurnitureR Square Folding Table Review: Honest 2026 Verdict"
 meta_description: "Read our honest FurnitureR square folding table review. See real pros, cons, and who should buy it before you spend. Expert analysis inside."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHWTWH1D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WOOi+ES6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely one-person setup — the folding mechanism locks open without tools or wrestling matches"
   - "Square 30-inch top fits four place settings comfortably, unlike narrow rectangular foldables"
   - "Steel cross-bracing underneath prevents the wobble that plagues most budget folding tables"
-cons:
+cons: 
   - "Surface scratches easily — use placemats or expect cosmetic wear within months"
   - "No height adjustment; fixed at 29 inches which is awkward for taller users"
+
 ---
 
 Let me cut through the noise: most folding tables under $100 are wobbly, ugly, and feel like they'll collapse if you look at them wrong. The FurnitureR Square Folding Table isn't that. It's not a showpiece either, but it solves the core problem — a stable, space-saving surface that doesn't fight you.

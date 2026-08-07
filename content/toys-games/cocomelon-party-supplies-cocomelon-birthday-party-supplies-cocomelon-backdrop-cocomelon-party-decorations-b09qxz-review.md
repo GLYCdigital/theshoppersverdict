@@ -1,4 +1,5 @@
 ---
+
 title: "CoComelon Party Supplies | CoComelon Birthday Party Supplies"
 seo_title: "CoComelon Party Supplies Review: Worth It? (2026)"
 meta_description: "Honest CoComelon party supplies review: what's in the kit, quality check, real buyer feedback, and whether this backdrop set is worth your money."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09QXZDFT1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/91QSqJNt0VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Backdrop is thick, wrinkle-resistant fabric (not cheap paper) that hangs straight and photographs cleanly"
   - "Color-matched pieces across 8+ items — no clashing shades of JJ's signature yellow and blue"
   - "Kit covers 90% of decorating needs in one box, saving parents multiple store runs"
-cons:
+cons: 
   - "No tableware included — plates, cups, and napkins sold separately"
   - "Some pieces arrive folded with creases that need steaming or ironing before use"
+
 ---
 
 Let's be real: CoComelon party supplies are a dime a dozen on Amazon. What makes this particular kit worth your attention is the backdrop. As shown in the product image, it's a woven fabric banner — not the crinkly paper you'll get with cheaper sets. That matters when you're setting up a photo area in your living room and want it to look like you actually hired a decorator.

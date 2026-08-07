@@ -1,4 +1,5 @@
 ---
+
 title: "MINISFORUM Mini PC AI X1 Pro AMD Ryzen AI 9 HX370(12Cores/24"
 seo_title: "MINISFORUM Mini PC AI X1 Pro AMD Ryzen AI 9 HX370( Review"
 meta_description: "Our full minisforum mini pc ai x1 pro amd ryzen ai 9 hx370(12cores/24 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F47FD6DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51agaKjry2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 12-core mini PC that actually earns the "AI" in its name — but check your upgrade path before buying.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Barrina Plant Stand and Greenhouse with Grow Light"
 seo_title: "Barrina Plant Stand & Greenhouse Review (2026) | 4.5 Stars"
 meta_description: "Honest Barrina Plant Stand and Greenhouse with Grow Light review: 4-tier indoor garden, real customer feedback, pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1D7YNCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mLFE-hvjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four adjustable shelves with dual grow light bars per tier — even light distribution to lower leaves"
   - "Zippered clear PVC cover converts it into a true mini greenhouse, trapping humidity for tropicals"
   - "Frame is surprisingly sturdy — reinforced steel corners hold up to 20 lbs per shelf"
-cons:
+cons: 
   - "PVC cover is thin and can tear if you're rough with the zippers; handle with care"
   - "Assembly takes 30–40 minutes with 40+ screws — no pre-drilled pilot holes on some brackets"
   - "Grow light timer is manual only; no smart app or auto on/off scheduling"
+
 ---
 
 If you've ever tried to overwinter plants indoors, you know the struggle: not enough window light, dry heat from radiators, and shelves that wobble the moment you load them up. The Barrina Plant Stand and Greenhouse with Grow Light attempts to solve all three at once. After digging through 225 ratings and the spec sheet, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20* Random Orbit Sander, Tool Only (CMCW220B)"
 seo_title: "CRAFTSMAN V20 Random Orbit Sander Review (2026): Worth It?"
 meta_description: "CRAFTSMAN V20 Random Orbit Sander review: 5-inch hook-and-loop pad, 12,000 OPM, dust-sealed switch. See pros, cons & real buyer feedback before buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07XRYLB9P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U8G0kbNKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dust-sealed switch and bearing housing keep grit out — a common failure point on cheaper sanders"
   - "12,000 OPM delivers a genuinely smooth finish with minimal swirl marks on hardwood"
   - "Fits all standard 5-inch hook-and-loop discs, so you're not locked into proprietary consumables"
-cons:
+cons: 
   - "Tool only — no battery or charger included, which adds $100+ if you're not already in the V20 ecosystem"
   - "No variable speed dial — you get one speed, which limits control on delicate veneers or paint stripping"
   - "Dust collection bag is mediocre; most users report better results hooking up a shop vac"
+
 ---
 
 If you're already invested in the CRAFTSMAN V20 battery platform, the CMCW220B is the sander to grab. If you're not, the math gets trickier — and I'll walk you through exactly why.

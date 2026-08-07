@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Keyboard Mouse Combo"
 seo_title: "Wireless Keyboard Mouse Combo Review: Verdict | TSV"
 meta_description: "Our full wireless keyboard mouse combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHQ3NSQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fH1bumcBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a tangled mess of cables or your laptop's trackpad is wearing out your wrist, the wireless keyboard mouse combo is the kind of purchase that feels obvious — until you realize how many mediocre options are out there. After digging through 210 Amazon ratings and the product specs, here's the real story on this $25-ish pair (price fluctuates, so check current listing).

@@ -1,4 +1,5 @@
 ---
+
 title: "Plastic Dustproof IP65 Junction Box DIY Case Enclosure"
 seo_title: "Plastic Dustproof IP65 Junction Box DIY Case Enclo Review"
 meta_description: "Our full plastic dustproof ip65 junction box diy case enclosure review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B081RQYSJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zFboOcW9L._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a custom enclosure for a Raspberry Pi, LED driver, or outdoor sensor, you've probably stared at a wall of flimsy plastic boxes and wondered which one won't crack in six months. This IP65 junction box from the B081RQYSJD listing is the one that keeps showing up in maker forums and electrician reviews — and after digging through 235 ratings at 4.7 stars, I get why.

@@ -1,4 +1,5 @@
 ---
+
 title: "Spectra Precision LL100 Series"
 seo_title: "Spectra Precision LL100 Series Review: Verdict | TSV"
 meta_description: "Our full spectra precision ll100 series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GW9L6Q5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tusMds6wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought with a bubble vial on a windy day, trying to get a grade stake set before the light fades, you already know why self-leveling rotary lasers exist. The Spectra Precision LL100 Series sits firmly in the "pro-sumer" sweet spot — priced below the construction-grade Leica units but built with enough ruggedness to survive a contractor's truck bed. With 220 Amazon ratings averaging 4.4 stars, it's clearly earning its keep for a lot of buyers. Here's the real story after digging through specs, user feedback, and the inevitable tradeoffs.

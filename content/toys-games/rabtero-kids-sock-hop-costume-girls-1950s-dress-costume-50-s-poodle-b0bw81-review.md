@@ -1,4 +1,5 @@
 ---
+
 title: "Rabtero Kids Sock Hop Costume, Girls 1950s Dress Costume, 50"
 seo_title: "Rabtero Kids Sock Hop Costume, Girls 1950s Dress C Review"
 meta_description: "Our full rabtero kids sock hop costume, girls 1950s dress costume, 50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW81LPM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pcxGC7m-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your daughter has a 1950s-themed school event, a sock hop, or a Halloween costume that needs to actually read as "1950s" from across the gym, the Rabtero Kids Sock Hop Costume delivers exactly what the product photo promises. This isn't one of those costumes where you open the package and wonder if you ordered a different item.

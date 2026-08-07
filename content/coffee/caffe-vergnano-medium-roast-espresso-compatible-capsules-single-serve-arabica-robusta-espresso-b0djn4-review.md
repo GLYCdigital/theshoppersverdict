@@ -1,4 +1,5 @@
 ---
+
 title: "Caffe Vergnano Medium Roast Espresso Compatible Capsules - S"
 seo_title: "Caffe Vergnano Medium Roast Capsules Review (2026)"
 meta_description: "Honest Caffe Vergnano Medium Roast espresso capsule review: rich Italian crema, 1882 heritage, but pricey. See if these S-size pods fit your machine."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DJN4MG4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91uWONQgDBL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic Italian medium roast with a 60/40 Arabica-Robusta blend that produces a genuinely thick, hazelnut-toned crema"
   - "Aluminum capsules are fully sealed and recyclable — noticeably fresher than plastic pods from major brands"
   - "Compatible with most S-system machines (Lavazza, Nescafé, Bosch), giving you flexibility beyond one proprietary system"
-cons:
+cons: 
   - "Price per capsule runs 20-30% higher than comparable Lavazza or Illy S-pods — the heritage label costs extra"
   - "Crema is impressive but the body thins noticeably if you pull anything longer than a 40ml ristretto"
   - "No strength indication on the box — medium roast runs lighter than many American espresso drinkers expect"
+
 ---
 
 If you've been stuck in the Lavazza or Illy S-capsule rut, Caffe Vergnano's Medium Roast is the Italian heritage play that actually delivers on its 1882 pedigree. This is a Torino-based roaster that's been at it for nearly 150 years, and it shows in the cup — but you'll pay a premium for that history.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Clair Obscur: Expedition 33 (PS5)"
 seo_title: "Clair Obscur: Expedition 33 PS5 Review — Worth It?"
 meta_description: "Our honest Clair Obscur: Expedition 33 PS5 review covers gameplay, story, and performance. See if this 4.8-star RPG deserves your money."
@@ -12,14 +13,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DNQV6FZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ovuk0vEaL._SL1156_.jpg"
-pros:
+pros: 
   - "Turn-based combat with real-time dodge/parry timing — keeps every encounter tense and engaged"
   - "Breathtaking painterly art direction that looks like a living oil painting on PS5 inch"
   - "Twisted, emotional story about a doomed expedition against a god that erases people by age"
-cons:
+cons: 
   - "Load times between death and checkpoint restart can feel punishing on standard PS5 inch"
   - "Difficulty spikes late-game require grinding or near-perfect parry timing"
   - "Some side quests feel fetch-quest thin compared to the stellar main storyline"
+
 
 ---
 

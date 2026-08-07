@@ -1,4 +1,5 @@
 ---
+
 title: "Oatey Sure-Vent 1-1/2 in.â€“2 in. 160 Branch, 24 Stack DFU A"
 seo_title: "Oatey Sure-Vent 1-1/2 in.â€“2 in. 160 Branch, 24 S Review"
 meta_description: "Our full oatey sure-vent 1-1/2 in.â€“2 in. 160 branch, 24 stack dfu a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW5WLCM5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617sFBg7f2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Oatey Sure-Vent 160 Branch is the air admittance valve (AAV) you grab when you're done messing around with undersized vents.** This isn't the little 1/2-inch studor vent you jam under a kitchen sink. At 1-1/2 to 2 inches with a 160 DFU branch rating, this is a workhorse for re-pipes, island sinks, and adding bathrooms where running a vent stack through the roof just isn't practical.

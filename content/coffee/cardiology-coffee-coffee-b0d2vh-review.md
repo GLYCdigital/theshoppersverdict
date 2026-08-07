@@ -1,4 +1,5 @@
 ---
+
 title: "Cardiology Coffee COFFEE"
 seo_title: "Cardiology Coffee COFFEE Review: Honest 2026 Verdict"
 meta_description: "Cardiology Coffee COFFEE review: 4.0-star rated coffee gear. Real pros, cons, and buyer insights to help you decide before purchasing."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D2VH1Y5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Consistently smooth, low-acid brew that doesn't upset sensitive stomachs — backed by multiple buyer accounts"
   - "Generous 12-ounce bag with whole-bean options that grind well in both burr and blade grinders"
   - "Clean, roasty flavor profile without the burnt or bitter aftertaste common in mass-market dark roasts"
-cons:
+cons: 
   - "Price per ounce runs higher than grocery-store staples; occasional stockouts on Amazon mean you can't always rely on Subscribe & Save"
   - "Light and medium roast options sell out fast — if you prefer those, order early or set restock alerts"
+
 ---
 
 **Is this cardiologist-branded coffee actually good — or just a gimmick?**

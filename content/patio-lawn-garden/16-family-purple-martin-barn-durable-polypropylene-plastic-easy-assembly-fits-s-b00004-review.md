@@ -1,4 +1,5 @@
 ---
+
 title: "16 Family Purple Martin Barn, Durable Polypropylene Plastic,"
 seo_title: "16 Family Purple Martin Barn Review: Durable & Easy Setup"
 meta_description: "Honest 16 Family Purple Martin Barn review: durable polypropylene, 16 compartments, easy assembly. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00004ZBQO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aAUnM-tmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-drilled holes and snap-together design means assembly in under 20 minutes with no tools"
   - "Durable polypropylene resists cracking, fading, and moisture damage far better than cedar or plywood"
   - "16 individual compartments with porches give purple martins the colony-style housing they naturally seek"
-cons:
+cons: 
   - "Solid plastic walls trap heat in direct summer sun; ventilation is adequate but not exceptional"
   - "No predator guard included — you'll need to add a pole baffle separately"
   - "Mounting hardware isn't included; you must supply your own pole and pulley system"
+
 ---
 
 If you're serious about attracting purple martins, you already know the hard truth: they're colony nesters that won't touch a single-box birdhouse. The 16 Family Purple Martin Barn solves that with a purpose-built, multi-compartment design that's been a steady seller on Amazon with 215 ratings and a 4.3-star average. Here's the real story on whether it earns a spot in your yard.

@@ -1,4 +1,5 @@
 ---
+
 title: "8BitDo Ultimate 3-Mode Controller, Hall Effect Joysticks, Pr"
 seo_title: "8BitDo Ultimate 3-Mode Controller Review: Hall Effect Sticks"
 meta_description: "8BitDo Ultimate 3-Mode Controller review: Hall effect joysticks, back buttons, multi-platform. Is it worth $70? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F32S1KZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d+fKcAaZL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall effect joysticks eliminate stick drift permanently — a genuine upgrade over every potentiometer-based controller in this price range"
   - "Tri-mode connectivity (2.4GHz dongle, Bluetooth, wired) covers Switch, PC, Android, and iOS without adapter hunting"
   - "Two programmable back buttons with real mechanical click feel, not mushy paddles"
-cons:
+cons: 
   - "No analog triggers — the digital bumpers make this a poor fit for racing games or any title needing throttle control"
   - "The bundled charging dock works only with the 2.4GHz receiver; Bluetooth mode requires a separate USB-C cable"
   - "Software configuration requires the Ultimate Software app, which is Windows/mobile-only — no macOS support"
+
 ---
 
 Let's cut through the noise: the 8BitDo Ultimate 3-Mode Controller is the budget king of anti-drift gaming. Hall effect joysticks — the magnetic sensors that replace the physical potentiometers that wear out and cause stick drift — are now trickling down from $200 pro controllers into the $70 range. This is that controller. But it's not perfect, and the flaws are specific enough that you need to know them before buying.

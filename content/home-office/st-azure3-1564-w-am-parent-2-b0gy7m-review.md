@@ -1,4 +1,5 @@
 ---
+
 title: "ST-AZURE3-1564-W-AM Parent 2"
 seo_title: "ST-AZURE3-1564-W-AM Parent 2 Review: Verdict | TSV"
 meta_description: "Our full st-azure3-1564-w-am parent 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY7MCPQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6115daiy3kL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The ST-AZURE3-1564-W-AM Parent 2 is a workhorse workspace product that gets the fundamentals right without chasing gimmicks. It's not flashy, but it's the kind of gear you stop thinking about after a week — and that's the compliment. With 220 ratings averaging 4.4 stars, it's clearly earning its keep in home offices and cubicles alike.

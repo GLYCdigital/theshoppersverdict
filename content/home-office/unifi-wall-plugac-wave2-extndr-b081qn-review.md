@@ -1,4 +1,5 @@
 ---
+
 title: "UniFi Wall PlugAC Wave2 Extndr"
 seo_title: "UniFi Wall PlugAC Wave2 Extndr Review: Verdict | TSV"
 meta_description: "Our full unifi wall plugac wave2 extndr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081QNNDVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41X401yBS+L._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're already in the UniFi ecosystem, the Wall PlugAC Wave2 Extndr is the cleanest way to kill a dead zone. If you're not, stop reading now — this isn't for you.

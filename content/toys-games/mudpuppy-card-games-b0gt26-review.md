@@ -1,4 +1,5 @@
 ---
+
 title: "Mudpuppy Card Games"
 seo_title: "Mudpuppy Card Games Review: Verdict | TSV"
 meta_description: "Our full mudpuppy card games review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GT26SHK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VOgjBFxOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Mudpuppy has carved out a niche in the family game space by doing one thing consistently well: making card games that kids actually *want* to play more than once. With a 4.8-star average across 240 ratings, these aren't just stocking stuffers — they're repeat purchases. But which sets earn their place in your game drawer, and which fall flat? Here's the breakdown after putting several through real family testing.

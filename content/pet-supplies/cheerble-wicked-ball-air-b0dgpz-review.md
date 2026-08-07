@@ -1,4 +1,5 @@
 ---
+
 title: "Cheerble Wicked Ball AIR"
 seo_title: "Cheerble Wicked Ball AIR Review: Smart Toy for Dogs 2026 inch"
 meta_description: "Cheerble Wicked Ball AIR review: Does this self-rolling smart ball tire out your dog? Real pros, cons, and who should buy it. 4.0-star rating analyzed."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DGPZBW7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7102yH7FuuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Smart motion sensor triggers rolling only when your dog bats it — saves battery and keeps dogs engaged longer than random-motion balls"
   - "Removable, washable outer cover is a lifesaver for drooly chewers; the inner ball stays clean"
   - "Auto-off after 8 minutes of inactivity preserves battery, so you're not charging it daily"
-cons:
+cons: 
   - "Not for heavy chewers — the silicone cover can tear if your dog is determined to destroy it"
   - "Only works on hard floors and low-pile carpet; thick carpet or grass stops the rolling mechanism cold"
+
 ---
 
 ## The Smart Toy That Actually Thinks Before It Moves

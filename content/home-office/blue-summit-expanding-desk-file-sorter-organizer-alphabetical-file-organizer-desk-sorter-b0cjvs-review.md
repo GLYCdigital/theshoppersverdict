@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Summit Expanding Desk File Sorter Organizer, Alphabetic"
 seo_title: "Blue Summit Expanding Desk File Sorter Review (2026) | Worth It?"
 meta_description: "Blue Summit Expanding Desk File Sorter review: 13-pocket alphabetic organizer tested for build, capacity & desk fit. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJVS1CQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712BApjIdPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy polypropylene construction holds up to daily filing without warping or cracking, even when fully loaded"
   - "13 pre-printed A–M alphabetical tabs with a large rear pocket for overflow give you organized access without custom labeling"
   - "Compact 9.6 x 8.4-inch footprint fits on shallow desks without eating into your mouse or keyboard space"
-cons:
+cons: 
   - "Only covers A–M alphabetically; N–Z files need the unlabeled back pocket, which defeats true alphabetical sorting"
   - "Pockets are snug for thick multi-page documents — you'll need to trim bulky folders or file stacks over ~15 sheets"
+
 ---
 
 If your desk has become a "flat file" — stacks of paper you swear you'll sort next week — the Blue Summit Expanding Desk File Sorter is the affordable intervention you've been putting off. This isn't a fancy lateral cabinet or a paper-management app. It's a simple, 13-pocket accordion-style sorter that sits on your desk and makes filing almost effortless. With a 4.7-star rating across 235 reviews, it's clearly working for a lot of people. But is it right for your workflow? Let's dig into the details.

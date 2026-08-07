@@ -1,7 +1,8 @@
 ---
-title: "Schluter Kerdi Line Shower Drain with 32\" Stainless Steel Ch"
-seo_title: "Schluter Kerdi Line Shower Drain with 32\" Stainles Review"
-meta_description: "Our full schluter kerdi line shower drain with 32\" stainless steel ch review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Schluter Kerdi Line Shower Drain with 32\ Stainless Steel Ch"
+seo_title: "Schluter Kerdi Line Shower Drain with 32\ Stainles Review"
+meta_description: "Our full schluter kerdi line shower drain with 32\ stainless steel ch review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "schluter-kerdi-line-shower-drain-with-32-stainless-steel-channel-body-and-b07pkr-review"
 image_alt: "Schluter Kerdi Line Shower Drain with 32 Stainless Steel Channel Body and Waterproof Kerdi Collar - Ideal for Showers an"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PKRWMMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51DilA+bjsL._AC_SX300_SY300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: a shower drain is the last thing most people want to spend $150+ on. But if you’re building a curbless or tiled walk-in shower, the Schluter Kerdi-Line 32-inch stainless steel channel drain is the component that makes the whole system work — or fail silently behind your tile.

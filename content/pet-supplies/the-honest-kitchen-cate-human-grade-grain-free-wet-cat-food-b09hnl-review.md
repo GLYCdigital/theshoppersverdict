@@ -1,4 +1,5 @@
 ---
+
 title: "The Honest Kitchen Cate - Human Grade Grain Free Wet Cat Foo"
 seo_title: "The Honest Kitchen Cate - Human Grade Grain Free W Review"
 meta_description: "Our full the honest kitchen cate - human grade grain free wet cat foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09HNLJ3G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+VufVPRzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Honest Kitchen Cate: Human-Grade Cat Food That Actually Walks the Walk**

@@ -1,4 +1,5 @@
 ---
+
 title: "Coucrek Torchiere Floor Lamp"
 seo_title: "Coucrek Torchiere Floor Lamp Review: Worth It? (2026)"
 meta_description: "Honest Coucrek Torchiere Floor Lamp review: build quality, brightness, assembly, and who should buy. Real buyer feedback on this 4.4-star lamp."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJDTHDKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HbD4KIquL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperatures (3000K/4000K/6000K) with stepless dimming from 5% to 100% via remote or foot pedal"
   - "Sturdy weighted base prevents tipping even on carpet, with a 71-inch pole that clears most standard ceilings"
   - "Memory function restores your last brightness and color setting when you power back on"
-cons:
+cons: 
   - "Remote requires line-of-sight to the receiver — it won't work if the lamp is behind a sofa or partition"
   - "Assembly instructions are minimal; the pole sections can be confusing to orient if you don't pay attention to the alignment marks"
   - "No smart home integration (no Alexa or Google Home) despite the modern feature set"
+
 ---
 
 Let me be blunt: most torchiere lamps under $60 are flimsy, dim, or both. The Coucrek Torchiere Floor Lamp sits at a 4.4-star average across 220 ratings, which tells me it's doing something right — or at least not doing the usual annoying things wrong. I've dug through the buyer feedback, examined the specs, and here's what you actually need to know before you click buy.

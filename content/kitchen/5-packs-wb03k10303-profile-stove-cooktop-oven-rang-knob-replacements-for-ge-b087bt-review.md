@@ -1,4 +1,5 @@
 ---
+
 title: "5 Packs WB03K10303 Profile Stove Cooktop Oven Rang Knob Repl"
 seo_title: "WB03K10303 Knob Review: 5-Pack GE Stove Replacement Knobs"
 meta_description: "Honest 5-pack WB03K10303 GE stove knob review: fit, durability, and whether these $12 replacement knobs beat OEM parts. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B087BT4C71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61evbcm1g5S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM-style fit for GE Profile and Cafe series ranges — no wobble or play once seated"
   - "Metal shaft insert instead of cheap plastic, so the knob grips the D-shaped stem firmly"
   - "5-pack pricing works out to roughly $2.40 per knob — less than half what a single OEM replacement costs"
-cons:
+cons: 
   - "White indicator line is painted on and can wear off after 6–12 months of daily use"
   - "Some buyers report needing to file down the inner sleeve slightly for older GE models with tapered stems"
+
 ---
 
 If your GE Profile range has a knob that's stripped, cracked, or just plain lost its grip, you already know the OEM replacement game is a racket. A single factory knob runs $8–$12 plus shipping. This 5-pack from a third-party seller lands at roughly the same price as one OEM part — and it's the kind of practical math that makes replacing all five at once a no-brainer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness Complete Health Natural Dry Dog Food"
 seo_title: "Wellness Complete Health Natural Dry Dog Food Review: Ver"
 meta_description: "Our full wellness complete health natural dry dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D17Z4HR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mGN+8-7jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Wellness Complete Health worth the premium? I ran the numbers on ingredients, owner feedback, and the 225 Amazon ratings averaging 4.5 stars. Here's the straight answer.**

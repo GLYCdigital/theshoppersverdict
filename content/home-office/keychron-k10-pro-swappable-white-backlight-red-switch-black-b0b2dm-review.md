@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron K10 Pro Swappable White Backlight Red Switch - Blac"
 seo_title: "Keychron K10 Pro Swappable White Backlight Red Swi Review"
 meta_description: "Our full keychron k10 pro swappable white backlight red switch - blac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B2DMV2LC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+E4eLlSWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Keychron K10 Pro sits in an interesting spot: it's a full-size mechanical keyboard for people who want the classic 104-key layout but refuse to give up modern niceties like hot-swap switches and QMK firmware. At 4.4 stars across 220 ratings, it's clearly doing something right. The question is whether it's the right board for your desk.

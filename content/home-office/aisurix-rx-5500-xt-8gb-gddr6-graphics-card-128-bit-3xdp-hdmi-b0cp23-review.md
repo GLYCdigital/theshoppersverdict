@@ -1,4 +1,5 @@
 ---
+
 title: "AISURIX RX 5500 XT 8gb GDDR6 Graphics Card,128 Bit, 3XDP, HD"
 seo_title: "AISURIX RX 5500 XT 8GB Review: Budget GPU Reality Check"
 meta_description: "Honest AISURIX RX 5500 XT 8GB review: performance benchmarks, cooling, and build quality. Is this budget GPU worth it? Real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CP23168R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ELa8arimL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuine 8GB GDDR6 VRAM at a price point where most cards compromise with 4GB"
   - "Triple DisplayPort outputs plus HDMI — rare flexibility for multi-monitor office setups"
   - "Dual-fan cooling keeps temps under 70°C under sustained load in open-air test benches"
-cons:
+cons: 
   - "128-bit memory bus limits performance in 1440p gaming — this is strictly a 1080p card"
   - "No backplate included; PCB flex is noticeable if you're rough with installation"
   - "Fan curve is aggressive at idle — audible whirr in silent office environments"
+
 ---
 
 **The Budget GPU That Actually Respects Your Money**

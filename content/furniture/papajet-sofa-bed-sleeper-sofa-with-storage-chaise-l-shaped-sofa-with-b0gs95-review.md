@@ -1,4 +1,5 @@
 ---
+
 title: "PaPaJet Sofa Bed, Sleeper Sofa with Storage Chaise, L Shaped"
 seo_title: "PaPaJet Sofa Bed, Sleeper Sofa with Storage Chaise Review"
 meta_description: "Our full papajet sofa bed, sleeper sofa with storage chaise, l shaped review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS95GQGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9199Sr-wZRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PaPaJet L-Shaped Sofa Bed: One Piece of Furniture, Three Jobs**

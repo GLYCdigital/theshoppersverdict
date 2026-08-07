@@ -1,4 +1,5 @@
 ---
+
 title: "Fingerprint Padlock - Locker Lock Smart Padlock Biometric Me"
 seo_title: "Fingerprint Padlock Review: Keyless Smart Lock for Lockers & Gyms"
 meta_description: "Honest Fingerprint Padlock review: 4.2★ rated biometric lock for lockers, gyms & gates. Tested for speed, battery life & durability. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CQQXGBY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VNlRt7UJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Unlocks in under 0.5 seconds with a registered fingerprint — no fumbling for keys or remembering combos"
   - "Zinc alloy body with a hardened steel shackle feels genuinely solid; survived a drop test onto concrete without damage"
   - "USB-C charging means you can top it up with the same cable as your phone, no proprietary charger needed"
-cons:
+cons: 
   - "Only stores 10-20 fingerprints depending on batch; larger families or shared-use scenarios will hit the cap fast"
   - "IP65 water resistance is splash-proof, not submersible — rain is fine, but pool deck or boat use will eventually kill it"
   - "No mechanical key backup; if the battery dies completely and you ignore the low-battery warning, you're cutting the shackle"
+
 ---
 
 **The Fingerprint Padlock: Keyless convenience or a battery-dependent headache?**

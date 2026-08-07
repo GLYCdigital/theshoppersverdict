@@ -1,4 +1,5 @@
 ---
+
 title: "6ct Oreo Cookies"
 seo_title: "6ct Oreo Cookies Review: Worth It for Coffee Pairing?"
 meta_description: "6ct Oreo Cookies review: Are these snack packs worth buying? We break down taste, texture, value, and how they pair with coffee. Honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G5LXLKZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cNbvAf98L._SL1500_.jpg"
-pros:
+pros: 
   - "Individually wrapped snack packs keep cookies fresh and make portion control effortless"
   - "Classic Oreo formula delivers the same chocolate wafer and vanilla creme you expect"
   - "Convenient for lunches, office drawers, or coffee break pairings"
-cons:
+cons: 
   - "No price advantage over buying a standard family-size package"
   - "Only 6 packs per box — heavy daily dunkers will burn through this fast"
   - "Packaging is bulky for the amount of actual cookie you get"
+
 ---
 
 Let's be honest: you already know what an Oreo tastes like. The question isn't whether these are good cookies — it's whether the 6-count snack pack format makes sense for your money, especially if you're buying them to keep near your coffee setup.

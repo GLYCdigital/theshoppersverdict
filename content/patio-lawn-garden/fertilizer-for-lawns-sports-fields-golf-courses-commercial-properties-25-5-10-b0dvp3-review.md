@@ -1,4 +1,5 @@
 ---
+
 title: "Fertilizer for Lawns, Sports Fields, Golf Courses, & Commerc"
 seo_title: "25-5-10 Lawn Fertilizer Review: Sports Fields & Golf Courses"
 meta_description: "Honest 25-5-10 fertilizer review for lawns, sports fields & golf courses. 4.3-star rated. See performance, coverage, pros/cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DVP3MBDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yt+pKYHXL._SL1024_.jpg"
-pros:
+pros: 
   - "High 25-5-10 nitrogen ratio delivers fast, visible greening within 7–10 days on most turf types"
   - "Covers up to 15,000 sq ft per bag, making it cost-effective for large properties and athletic fields"
   - "Works on multiple turf types — Bermuda, fescue, Kentucky bluegrass, and zoysia — without burning when applied correctly"
-cons:
+cons: 
   - "Strong ammonia smell for 24–48 hours after application; noticeable near homes and playing surfaces"
   - "No slow-release coating — requires reapplication every 4–6 weeks during peak growing season"
   - "Dry granular form can clump in humid conditions if the bag isn't sealed tightly after opening"
+
 ---
 
 **The 25-5-10 Fertilizer That Claims It Can Handle Everything from a Backyard to a Golf Course — Does It Deliver?**

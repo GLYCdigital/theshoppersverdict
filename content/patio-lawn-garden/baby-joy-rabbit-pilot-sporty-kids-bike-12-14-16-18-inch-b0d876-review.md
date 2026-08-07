@@ -1,4 +1,5 @@
 ---
+
 title: "BABY JOY Rabbit Pilot Sporty Kids Bike, 12 14 16 18 Inch Chi"
 seo_title: "BABY JOY Rabbit Pilot Kids Bike Review: 12-18 Inch Sizes"
 meta_description: "Honest BABY JOY Rabbit Pilot Sporty Kids Bike review. Covers 12, 14, 16, 18-inch sizes, build quality, assembly, and real buyer feedback. Find out if it's right for your child."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8766562/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CJIUOTcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free quick-release seat post and handlebar clamp make size adjustments a 30-second job as your kid grows"
   - "Coaster brake on 12-inch model removes hand-brake confusion for first-time riders; hand brakes on larger sizes are properly tuned out of the box"
   - "Sturdy steel frame with a low standover height — smaller kids can plant both feet flat, which builds confidence fast"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes even with the included tools; the front fender alignment is fiddly and often needs re-tightening after the first few rides"
   - "Training wheels on the 12 and 14-inch models are thin and bend slightly on hard pavement — plan to upgrade or remove them once your child finds their balance"
   - "Some buyers report the grips have a strong chemical smell that lingers for the first week"
+
 ---
 
 **Bottom line: This is a solid, budget-conscious first bike that grows with your child — if you're patient with assembly.**

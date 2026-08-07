@@ -1,4 +1,5 @@
 ---
+
 title: "Eglyenlky Markers for Adult Coloring"
 seo_title: "Eglyenlky Markers Review: 72 Colors for Adult Coloring"
 meta_description: "Eglyenlky markers review: 72 alcohol-based dual-tip colors for adult coloring. Are they worth it? Real performance, bleed-through, and value analysis."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DTF96MRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r1OVpA+tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72-color range with true alcohol-based ink that blends smoothly without streaking"
   - "Dual tips (1mm bullet + 5mm chisel) cover both detail work and broad washes"
   - "Color chart included and actual cap colors match the ink — rare at this price point"
-cons:
+cons: 
   - "Ink bleeds through standard printer paper; requires heavy cardstock or marker paper"
   - "No individual replacement pens — if one dries out, you're buying a whole new set"
+
 ---
 
 Let me be upfront: I've tested more than forty marker sets in the last three years, from $3 craft-store junk to $150 professional sets. The Eglyenlky 72-color set sits in a weird, interesting spot — it's not the best I've used, but it's dramatically better than its price suggests. Here's what you need to know before you buy.

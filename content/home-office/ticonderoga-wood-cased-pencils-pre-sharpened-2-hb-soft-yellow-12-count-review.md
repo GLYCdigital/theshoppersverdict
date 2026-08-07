@@ -1,16 +1,17 @@
 ---
+
 title: "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB Soft, Yellow, 12 Count"
 seo_title: "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 H Review"
 meta_description: "Honest ticonderoga wood-cased pencils, pre-shar review based on 68,338+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "ticonderoga-wood-cased-pencils-pre-sharpened-2-hb-soft-yellow-12-count-review"
 image_alt: "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB Soft, Yellow, 12 Count"
-keywords:
+keywords: 
   - "ticonderoga woodcased pencils review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Ticonderoga Wood-Cased Pencils, well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "Is the Ticonderoga Wood-Cased Pencils, well-made?"
@@ -23,12 +24,13 @@ review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GqVVIzKKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Great value for the price"
-cons:
+cons: 
   - "Some durability concerns over time"
   - "Shipping"
+
 ---
 
 If you're shopping for a home office accessory, you've probably noticed the Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB.... After combing through 68,338 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

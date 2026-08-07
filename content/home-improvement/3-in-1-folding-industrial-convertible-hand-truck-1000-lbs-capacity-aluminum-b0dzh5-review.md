@@ -1,4 +1,5 @@
 ---
+
 title: "3 in 1 Folding Industrial Convertible Hand Truck,1000 LBS Ca"
 seo_title: "3 in 1 Folding Hand Truck Review: 1000 LBS Convertible Cart"
 meta_description: "Honest 3 in 1 folding hand truck review: 1000 LB capacity, convertible cart, aluminum build. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DZH59HYW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UkTa5mQfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-position conversion (upright dolly, 2-wheel cart, 4-wheel platform) without tools — takes under 10 seconds"
   - "Pneumatic 10-inch wheels absorb shocks on curbs and uneven pavement, unlike solid rubber tires"
   - "Aluminum frame keeps weight manageable at roughly 25 lbs while supporting the rated 1000 lb capacity"
-cons:
+cons: 
   - "Latching mechanism for the conversion can be finicky — several buyers report needing to align it perfectly or it slips"
   - No handlebar height adjustment; tall users (6'0 inch+) will find themselves stooping when in upright mode
   - "Nose plate is narrower than standard dollies at 8 inches, making it unstable for wide loads like washing machines"
+
 ---
 
 **A 3-in-1 hand truck that does a lot — but has a few catches you need to know before you buy.**

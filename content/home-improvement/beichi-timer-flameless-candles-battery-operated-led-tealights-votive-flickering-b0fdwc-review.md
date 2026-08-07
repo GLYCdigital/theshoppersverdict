@@ -1,4 +1,5 @@
 ---
+
 title: "BEICHI Timer Flameless Candles, Battery Operated LED Tealigh"
 seo_title: "BEICHI Timer Flameless Candles Review: Real Buyers Tell All"
 meta_description: "BEICHI timer flameless candles review: 229 ratings, 4.6 stars. Real buyer feedback on flicker, timer reliability, battery life, and safety. Worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDWCJTDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RtmEigQEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True-to-name flicker effect — multiple buyers say guests mistake them for real candles at conversational distance"
   - "Timer function holds consistently across units; sets to 6 hours on, 18 hours off without drift"
   - "Realistic wax shell with visible texture; not the glossy plastic look cheaper tealights have"
-cons:
+cons: 
   - "Batteries not included — factor in CR2032 costs when calculating value"
   - "No remote control; each candle must be switched on individually (timer helps, but initial setup is manual)"
+
 ---
 
 Let’s be blunt: most LED tealights on Amazon are garbage. They flicker like a broken fluorescent tube, arrive with cracked plastic shells, and die within a month. The BEICHI Timer Flameless Candles are not that. With 229 ratings averaging 4.6 stars, these have earned their place in my rotation — but they’re not perfect. Here’s the honest breakdown.

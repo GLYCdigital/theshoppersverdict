@@ -1,4 +1,5 @@
 ---
+
 title: "Modelones Poly Nail Gel Kit 6 Colors with 48W Nail Lamp Home"
 seo_title: "Modelones Poly Nail Gel Kit 6 Colors with 48W Nail Review"
 meta_description: "Our full modelones poly nail gel kit 6 colors with 48w nail lamp home review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFXRKTWR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R5ZWw7ghL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: polygel is not a beginner-friendly medium, and this kit doesn't pretend otherwise. But if you're ready to invest an afternoon in learning, the Modelones Poly Nail Gel Kit delivers salon-adjacent results for a fraction of the cost of one acrylic fill.

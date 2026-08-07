@@ -1,4 +1,5 @@
 ---
+
 title: "MY MINI Baby Sweet Hearts 2 Pack by ZURU â€“ Collectible Mys"
 seo_title: "MY MINI Baby Sweet Hearts 2 Pack by ZURU â€“ Colle Review"
 meta_description: "Our full my mini baby sweet hearts 2 pack by zuru â€“ collectible mys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FJJBRY5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dmFBXrN4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the pastel packaging: the MY MINI Baby Sweet Hearts 2 Pack by ZURU is a blind-box collectible aimed at kids (and let’s be honest, some adults) who love the thrill of the unknown. At 4.8 stars from 240 ratings, it’s clearly doing something right. But is it worth your money? Here’s the real breakdown.

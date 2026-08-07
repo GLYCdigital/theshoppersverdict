@@ -1,4 +1,5 @@
 ---
+
 title: "SUNVIE RGBW Low Voltage Pathway Lights 3W Color Changing Lan"
 seo_title: "SUNVIE RGBW Low Voltage Pathway Lights 3W Color Ch Review"
 meta_description: "Our full sunvie rgbw low voltage pathway lights 3w color changing lan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GKZHZ7LD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lmHgSDA8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**  

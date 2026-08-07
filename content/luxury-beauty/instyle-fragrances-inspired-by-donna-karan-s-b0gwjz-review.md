@@ -1,4 +1,5 @@
 ---
+
 title: "Instyle Fragrances | Inspired by Donna Karan's"
 seo_title: "Instyle Fragrances | Inspired by Donna Karan's Review: Ve"
 meta_description: "Our full instyle fragrances | inspired by donna karan's review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GWJZTPCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41R6NN07kBL._SL1100_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Instyle Fragrances | Inspired by Donna Karan's** has carved out a specific niche in the crowded world of designer-inspired scents. With 200 Amazon ratings averaging 4.0 stars, this isn't a product that's flying under the radar — it's one shoppers are actively debating. Here's the real breakdown.

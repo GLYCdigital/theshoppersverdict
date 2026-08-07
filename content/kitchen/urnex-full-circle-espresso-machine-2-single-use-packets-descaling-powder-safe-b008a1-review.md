@@ -1,4 +1,5 @@
 ---
+
 title: "Urnex Full Circle Espresso Machine - 2 Single Use Packets - "
 seo_title: "Urnex Full Circle Espresso Machine - 2 Single Use  Review"
 meta_description: "Our full urnex full circle espresso machine - 2 single use packets -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008A1B76C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810Tz90DReL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've owned your espresso machine for six months. The shots are pulling slow. The pressure gauge looks lazy. That's scale — and if you're using citric acid to fight it, you might be quietly destroying your machine's aluminum boiler.

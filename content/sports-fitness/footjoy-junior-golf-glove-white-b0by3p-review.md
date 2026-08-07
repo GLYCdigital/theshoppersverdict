@@ -1,4 +1,5 @@
 ---
+
 title: "Footjoy Junior Golf Glove (White)"
 seo_title: "Footjoy Junior Golf Glove Review: Best Fit for Young Players"
 meta_description: "Honest Footjoy Junior Golf Glove review: fit, durability, and performance for young golfers. See if this 4.4-star glove is worth the buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY3PRTGX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mc8ueXY5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine cabretta leather palm offers pro-level grip that holds up through a full season of junior swings"
   - "Sized specifically for kids' hands — junior sizing runs true, avoiding the 'too big' problem common with adult smalls"
   - "Breathable mesh paneling between fingers keeps young hands from getting clammy in summer heat"
-cons:
+cons: 
   - "White leather shows dirt and grass stains quickly — expect to wash it regularly or accept the grime"
   - "No left-hand/right-hand option at this price point; you're getting the standard left-hand glove, so lefties need to look elsewhere"
+
 ---
 
 If you've ever bought an "adult small" glove for a kid and watched it bunch up like a deflated balloon, you know the struggle. The Footjoy Junior Golf Glove exists specifically to fix that problem — and for the most part, it does exactly what it promises.

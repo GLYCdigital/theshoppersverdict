@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK Best of the Best Baked Palette â€“ 7-i"
 seo_title: "LAURA GELLER NEW YORK Best of the Best Baked Palet Review"
 meta_description: "Our full laura geller new york best of the best baked palette â€“ 7-i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBH8FRYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-Z29wbLmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Laura Geller has built a decades-long reputation on baked makeup that melts into the skin rather than sitting on top of it. The Best of the Best Baked Palette lives up to that legacy — mostly. After testing all seven shades and digging through buyer feedback, here's the honest breakdown.

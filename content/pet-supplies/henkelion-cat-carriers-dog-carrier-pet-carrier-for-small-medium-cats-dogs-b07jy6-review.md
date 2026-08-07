@@ -1,4 +1,5 @@
 ---
+
 title: "Henkelion Cat Carriers Dog Carrier Pet Carrier for Small Med"
 seo_title: "Henkelion Cat Carriers Dog Carrier Pet Carrier for Review"
 meta_description: "Our full henkelion cat carriers dog carrier pet carrier for small med review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JY6Z7YT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81znwGw97vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Henkelion Soft-Sided Carrier Worth It for Your Small Pet?

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics A19 LED Light Bulbs, 100W Equivalent, 15W Ener"
 seo_title: "Amazon Basics A19 LED Bulbs Review: 100W Equivalent, 15W"
 meta_description: "Amazon Basics A19 LED 100W equivalent bulbs: 15W energy use, 1500 lumens, 5000K daylight. Read our honest review on brightness, lifespan & value."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JMPB4KS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T+VsdfssL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pushes 1500 lumens at just 15W — genuinely 100W-equivalent brightness without the heat or power draw"
   - "True 5000K daylight color that makes spaces feel crisp and clean, not that sickly yellow cast cheap LEDs give"
   - "Rated for 15,000 hours — roughly 10+ years of normal use for a third the cost of name-brand options"
-cons:
+cons: 
   - "5000K is aggressively cool — if you want warm, cozy living-room light, this isn't it"
   - "Slightly bulkier A19 shape can crowd tight fixtures or lampshades with narrow necks"
   - "No dimming support — if you have dimmer switches, skip these entirely"
+
 ---
 
 Let's be blunt about light bulbs: most people overpay for branding. The Amazon Basics A19 LED (100W equivalent, 15W actual) is the kind of product that makes you question why you ever spent $8 per bulb at a big-box store. At roughly a third of the price of Philips or GE equivalents, these deliver the same core functionality — and in some ways, better.

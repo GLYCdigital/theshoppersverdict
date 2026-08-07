@@ -1,4 +1,5 @@
 ---
+
 title: "Champro Champro Fastpitch Softball Catcher's Set - Headgear"
 seo_title: "Champro Fastpitch Catcher's Set Review: Solid Headgear for Players"
 meta_description: "Our Champro Fastpitch Catcher's Set review covers fit, protection, durability, and value. See if this 4.5-star headgear is right for your player."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNJKRWK4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81czlmgWQUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "ASTM F910-19 certified protection at a price point well under premium brands"
   - "Adjustable fit system accommodates both youth and smaller adult head sizes"
   - "Lightweight construction that doesn't sacrifice durability — players forget they're wearing it"
-cons:
+cons: 
   - "Liner foam runs warm in summer heat; ventilation is adequate but not exceptional"
   - "Some buyers report the chin strap anchor points feel less robust than the rest of the build"
+
 ---
 
 **The Short Version**

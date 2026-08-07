@@ -1,4 +1,5 @@
 ---
+
 title: "CLOUDY BAY White Track Light Heads"
 seo_title: "CLOUDY BAY Track Light Heads Review: Worth It? (2026)"
 meta_description: "Honest CLOUDY BAY White Track Light Heads review: build quality, brightness, compatibility, and drawbacks. See if these heads fit your track setup."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9WYMR5N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i7Q+b4GuL._AC_SL1440_.jpg"
-pros:
+pros: 
   - "Tool-free 90° vertical and 350° horizontal rotation with a firm ball joint that holds position without sagging"
   - "Compatible with both H track and J track systems — rare dual compatibility at this price point"
   - "Clean white powder-coated finish that resists yellowing and matches most modern ceiling fixtures"
-cons:
+cons: 
   - "Bulbs sold separately — you'll spend an extra $15–$30 per head on quality GU10 LEDs"
   - "Spring-loaded clips inside the track mount feel tight on some J-track brands; removal requires a firm pull"
+
 ---
 
 If you're staring at a bare ceiling track with dead sockets, the CLOUDY BAY White Track Light Heads are the upgrade you've been circling. With 225 ratings holding a 4.5-star average, these heads have earned real traction. But before you hit buy, let's talk about what they actually are — and aren't.

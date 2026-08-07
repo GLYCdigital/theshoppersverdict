@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig Starter Kit Replacement for Keurig 2.0"
 seo_title: "Keurig Starter Kit Replacement for Keurig 2.0 Review: Ver"
 meta_description: "Our full keurig starter kit replacement for keurig 2.0 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07QCN1W56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g0khqTApL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you bought a Keurig 2.0 used, or you've had yours for a couple of years and the water filter handle went missing during a move, this $18 starter kit is the fix you've been looking for. It's also the exact kit Keurig expects you to buy when your original filters run out — same OEM parts, same packaging, at roughly half the price of buying the pieces separately.

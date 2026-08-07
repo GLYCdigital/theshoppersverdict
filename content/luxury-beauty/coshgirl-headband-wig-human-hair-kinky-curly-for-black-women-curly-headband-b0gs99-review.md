@@ -1,4 +1,5 @@
 ---
+
 title: "Coshgirl Headband Wig Human Hair Kinky Curly for Black Women"
 seo_title: "Coshgirl Kinky Curly Headband Wig Review: Real Human Hair, 4.2/5 inch"
 meta_description: "Coshgirl kinky curly headband wig review: real human hair, no glue, no lace. Is this protective style worth it? Inside: pros, cons, and honest verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GS99PNBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IAjMXbNTL._SL1500_.jpg"
-pros:
+pros: 
   - "100% real human hair that blends seamlessly with natural kinky textures — no synthetic shine or rubbery feel"
   - "Headband design means zero glue, zero lace, zero frontals — install in under 3 minutes with no skill required"
   - "The kinky curl pattern matches 4A-4B textures authentically, not the looser curls most 'kinky' wigs actually have"
-cons:
+cons: 
   - "The elastic headband can slip on slicker hair textures or after hours of wear — you'll need bobby pins for security"
   - "Curl pattern requires refreshing with water and leave-in every 2-3 days; it will frizz and lose definition if neglected"
+
 ---
 
 **The 3-Minute Protective Style That Actually Looks Like Your Hair**

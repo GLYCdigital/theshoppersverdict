@@ -1,4 +1,5 @@
 ---
+
 title: "GVGBUK Portable Outdoor Grill Table"
 seo_title: "GVGBUK Portable Grill Table Review: Worth It in 2026?"
 meta_description: "GVGBUK portable outdoor grill table review: sturdy build, foldable design, real-world performance, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G1JTGXCT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617zaNXXl6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Folding steel frame with adjustable legs holds steady on uneven ground"
   - "Heat-resistant tabletop surface rated to handle direct grill contact"
   - "Side shelves fold flat for storage, no tools required"
-cons:
+cons: 
   - "No built-in wind guards, so gusts can affect flame control"
   - "Carrying handle is functional but not padded for long hauls"
+
 ---
 
 If you've ever balanced a grill on a wobbly folding chair while juggling a plate of raw burgers, you already know why the GVGBUK Portable Outdoor Grill Table exists. At 4.5 stars across 225 Amazon ratings, it's clearly solving a problem for a lot of campers, tailgaters, and backyard cooks. But is it the right prep station for your setup? Let's dig into what you're actually getting.

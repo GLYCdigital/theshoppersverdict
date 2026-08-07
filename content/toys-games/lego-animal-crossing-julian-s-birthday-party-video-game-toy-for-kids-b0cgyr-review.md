@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Animal Crossing Julianâ€™s Birthday Party Video Game To"
 seo_title: "LEGO Animal Crossing Julianâ€™s Birthday Party Vid Review"
 meta_description: "Our full lego animal crossing julianâ€™s birthday party video game to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGYR9ZRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NRCSaXUoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Birthday Bash Worth Your Bells?

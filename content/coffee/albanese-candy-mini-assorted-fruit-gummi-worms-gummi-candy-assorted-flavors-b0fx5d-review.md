@@ -1,23 +1,25 @@
 ---
+
 title: "Albanese Candy Mini Assorted Fruit Gummi Worms Gummi Candy,"
 seo_title: "Albanese Mini Gummi Worms Review: Worth It? (2026)"
 meta_description: "Albanese Mini Assorted Fruit Gummi Worms review: flavor, texture, value. See pros, cons, and who should buy these 4.5-star gummies."
 slug: "albanese-candy-mini-assorted-fruit-gummi-worms-gummi-candy-assorted-flavors-b0fx5d-review"
 image_alt: "Albanese Mini Assorted Fruit Gummi Worms in a clear bag showing colorful mini gummy worms"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX5D2CD1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71MaoHv6UEL._SL1500_.jpg"
-pros:  
+pros: 
   - "Softer, more tender texture than standard gummy worms — no chewy jaw workout"  
   - "12 distinct fruit flavors, including blue raspberry and green apple, not just generic 'red' and 'orange'"  
   - "Mini size means more pieces per bag — great for snacking, baking, or mixing into trail mix"  
-cons:  
+cons: 
   - "Some buyers report inconsistent flavor distribution — you may get more of one flavor than others"  
   - "Sugar coating can leave a slight powdery residue on fingers, which some find messy"
+
 ---
 
 You're eyeing a bag of Albanese Mini Assorted Fruit Gummi Worms, and you're wondering if they're just another gummy or something worth your snack budget. With 225 ratings and a 4.5-star average, they've clearly got a following. Here's what you actually need to know before you buy.

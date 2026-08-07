@@ -1,4 +1,5 @@
 ---
+
 title: "Mongoose Title Full Face Helmet"
 seo_title: "Mongoose Title Full Face Helmet Review: Verdict | TSV"
 meta_description: "Our full mongoose title full face helmet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BNCNRPVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GbNlggMZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most helmets under $40 are either unsafe or uncomfortable. The Mongoose Title Full Face Helmet tries to be both affordable and legit. After digging through 220 ratings and buyer feedback, here's the real picture.

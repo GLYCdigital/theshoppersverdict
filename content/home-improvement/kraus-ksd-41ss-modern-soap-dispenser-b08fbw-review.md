@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus KSD-41SS Modern Soap Dispenser"
 seo_title: "Kraus KSD-41SS Modern Soap Dispenser Review: Verdict | TS"
 meta_description: "Our full kraus ksd-41ss modern soap dispenser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08FBWYW8Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PzAfVKKGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a plastic pump dispenser crack at the threads or watched the spring rust into a sad orange mess, you know the drill. The Kraus KSD-41SS is the grown-up version of that — an all-metal, countertop soap dispenser that's built like a small piece of kitchen equipment rather than a disposable accessory. At 4.4 stars across 220 ratings, it's clearly doing something right. Here's the real story.

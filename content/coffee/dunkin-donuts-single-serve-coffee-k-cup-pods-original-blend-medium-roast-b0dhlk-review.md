@@ -1,4 +1,5 @@
 ---
+
 title: "Dunkin' Donuts Single-Serve Coffee K-Cup® Pods, Original Bl"
 seo_title: "Dunkin' Original Blend K-Cup Review: Worth It? | 2026 inch"
 meta_description: "Dunkin' Original Blend K-Cup pods review: bold flavor, 4.8-star rating, and real buyer feedback. Is this the best medium roast for your Keurig? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHLKTM2X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lRIvJEzGL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent medium roast with that signature Dunkin' smoothness — no bitter aftertaste even in a full 12oz brew"
   - "Strong 10-12g coffee fill per pod, noticeably more than generic store brands"
   - "Brews clean in under a minute; minimal grounds in the bottom of your mug across multiple Keurig models"
-cons:
+cons: 
   - "Not a dark roast — if you're expecting bold/intense, this will taste weak to you"
   - "No compostable pods; standard plastic K-Cups only, which may matter for eco-conscious buyers"
   - "Price per pod runs higher than house brands, roughly $0.65–$0.75 each without subscribe-and-save"
+
 ---
 
 Let's cut the chase: Dunkin' Original Blend is the coffee equivalent of a reliable friend — it doesn't surprise you, but it never lets you down. With a 4.8-star average across 240 ratings, this is one of the most consistently praised medium roasts on Amazon, and after digging into the specs and buyer feedback, I get why.

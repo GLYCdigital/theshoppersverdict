@@ -1,4 +1,5 @@
 ---
+
 title: "Stakt Adjustable Hand Weights, Compact Dumbbell Set with 2 4"
 seo_title: "Stakt Adjustable Hand Weights, Compact Dumbbell Se Review"
 meta_description: "Our full stakt adjustable hand weights, compact dumbbell set with 2 4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3KXSV6N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LTZEFXdFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Stakt Adjustable Hand Weights Review: The Space-Saving Dumbbell That Actually Works**

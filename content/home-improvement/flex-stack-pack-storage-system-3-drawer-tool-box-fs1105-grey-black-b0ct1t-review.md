@@ -1,4 +1,5 @@
 ---
+
 title: "FLEX STACK PACK Storage System 3-Drawer Tool Box - FS1105, G"
 seo_title: "FLEX Stack Pack 3-Drawer Tool Box Review (FS1105)"
 meta_description: "Honest FLEX Stack Pack FS1105 3-drawer tool box review: build quality, capacity, stackability, and real-world tradeoffs. Is it worth it? Read before buying."
@@ -9,16 +10,17 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-pros:
+pros: 
   - Extra-deep drawers (roughly 21 inch " x 14 inch " x 2.5 inch ") swallow power tools whole — no more cramming a drill sideways
   - "Latch system locks drawers when stacked, so nothing slides open mid-transport"
   - "IP54-rated dust and water resistance actually holds up on job sites"
-cons:
+cons: 
   - "Drawers are unlined — hard tools rattle around unless you add your own foam or liner"
   - "Base is flat with no rubber feet, so it can slide on smooth truck beds"
   - "Heavier than expected at 26 lbs empty; the fully-loaded stack gets genuinely unwieldy"
 amazon_url: "https://www.amazon.com/dp/B0CT1TC3BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WyApU6iTL._AC_SL1000_.jpg"
+
 ---
 
 Let’s cut through the marketing. The FLEX Stack Pack FS1105 isn’t trying to be clever — it’s a three-drawer box that wants to hold your heavy stuff and not fall apart. The question is whether it does that better than the Packout and ToughSystem options already in your garage. After digging through the specs, user feedback, and the 4.7-star consensus, here’s the real picture.

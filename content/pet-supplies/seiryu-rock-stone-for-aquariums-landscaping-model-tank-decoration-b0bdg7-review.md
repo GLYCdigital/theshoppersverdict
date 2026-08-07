@@ -1,4 +1,5 @@
 ---
+
 title: "Seiryu Rock Stone for Aquariums, Landscaping Model,Tank Deco"
 seo_title: "Seiryu Rock Stone for Aquariums, Landscaping Model Review"
 meta_description: "Our full seiryu rock stone for aquariums, landscaping model,tank deco review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDG7MX79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P7-qAj1ML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is the rock you see in every award-winning aquascape photo. The jagged grey peaks, the white mineral veins, the way light catches the ridges — Seiryu stone has a look that artificial decor simply cannot fake. But as gorgeous as it is, this rock comes with a chemical catch that too many buyers discover after their fish start gasping.

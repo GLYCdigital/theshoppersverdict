@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Harlow Headboard"
 seo_title: "Nathan James Harlow Headboard Review: Verdict | TSV"
 meta_description: "Our full nathan james harlow headboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9RYJ9LQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SM+BLG86L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The headboard that doesn't fight your bed frame

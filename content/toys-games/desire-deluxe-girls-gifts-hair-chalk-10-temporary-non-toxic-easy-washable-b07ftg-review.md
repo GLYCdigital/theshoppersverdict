@@ -1,4 +1,5 @@
 ---
+
 title: "Desire Deluxe - Girls Gifts Hair Chalk 10 Temporary Non-Toxi"
 seo_title: "Desire Deluxe Hair Chalk Review: 10 Non-Toxic Colors for Kids"
 meta_description: "Honest Desire Deluxe hair chalk review: 10 temporary, non-toxic colors. Does it wash out easily? Real pros, cons, and buyer verdict for kids' hair fun."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07FTGLWDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MBsEqQwjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10 vibrant colors in one kit — enough variety for multiple play sessions without repurchasing"
   - "Washes out with a single shampoo, even on lighter hair shades"
   - "Non-toxic, paraben-free formula that doesn't stain skin or clothes permanently"
-cons:
+cons: 
   - "Color payoff fades noticeably on very dark or thick hair — needs multiple passes"
   - "Chalk sticks can feel chalky and dry in hair; some kids find it itchy after a few hours"
   - "Requires adult help for application — kids under 8 struggle to apply evenly"
+
 ---
 
 If you've got a kid who's been begging for rainbow hair but you're not ready for the commitment (or the damage) of actual dye, temporary hair chalk is the classic compromise. The Desire Deluxe 10-piece set is one of the most popular options on Amazon with a 4.4-star average across 220 ratings. But is it actually worth your money, or just another toy that ends up in a drawer after one use? Here's the real breakdown.

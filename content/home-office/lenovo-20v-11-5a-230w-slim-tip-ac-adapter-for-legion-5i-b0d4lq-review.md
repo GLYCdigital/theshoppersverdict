@@ -1,4 +1,5 @@
 ---
+
 title: "Lenovo 20V 11.5A 230W Slim Tip AC Adapter for Legion 5i Gen "
 seo_title: "Lenovo 20V 11.5A 230W Slim Tip AC Adapter for Legi Review"
 meta_description: "Our full lenovo 20v 11.5a 230w slim tip ac adapter for legion 5i gen  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4LQWN22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Kb6Q3JaFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise: when your Legion 5i's original charger dies, you have two options. Buy a $30 third-party brick that might fry your motherboard, or shell out for the genuine Lenovo part. At $49.64, this 230W adapter sits in the middle — and for most people, it's the right call.

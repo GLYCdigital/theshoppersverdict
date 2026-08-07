@@ -1,4 +1,5 @@
 ---
+
 title: "LED Flush Mount Ceiling Light, 32W, 3480LM, Selectable 3000K"
 seo_title: "LED Flush Mount Ceiling Light, 32W, 3480LM, Select Review"
 meta_description: "Our full led flush mount ceiling light, 32w, 3480lm, selectable 3000k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNLVKLHC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x2zKRkLtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most ceiling lights under $40 are either dim disappointments or blindingly harsh with no middle ground. This 32W flush mount from the LED utility category actually gets the balance right — and with 225 ratings averaging 4.5 stars, I'm not the only one who thinks so.

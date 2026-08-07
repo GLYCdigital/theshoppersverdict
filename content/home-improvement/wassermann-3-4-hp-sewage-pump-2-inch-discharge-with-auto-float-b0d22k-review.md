@@ -1,4 +1,5 @@
 ---
+
 title: "WASSERMANN 3/4 HP Sewage Pump 2 inch Discharge with Auto Flo"
 seo_title: "WASSERMANN 3/4 HP Sewage Pump 2 inch Discharge wit Review"
 meta_description: "Our full wassermann 3/4 hp sewage pump 2 inch discharge with auto flo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D22KTDRS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rp3OzYAKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The WASSERMANN 3/4 HP Sewage Pump: A Solid Workhorse With One Critical Caveat

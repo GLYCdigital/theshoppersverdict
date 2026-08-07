@@ -1,4 +1,5 @@
 ---
+
 title: "Rubikâ€™s Cube, Pulse Cube, Light-Up Brain Teaser Puzzle for"
 seo_title: "Rubikâ€™s Cube, Pulse Cube, Light-Up Brain Teaser  Review"
 meta_description: "Our full rubikâ€™s cube, pulse cube, light-up brain teaser puzzle for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0GTRHLF9H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pulse Cube isn't trying to be a Rubik's Cube.** That's the first thing you need to understand. Yes, it's cube-shaped, and yes, it's from the Rubik's brand family. But this is a memory-and-reaction game, not a twist-and-turn puzzle. If you're expecting to solve colored faces, you'll be disappointed. If you want a fast-paced light-chasing brain teaser, this might be your new desk toy.

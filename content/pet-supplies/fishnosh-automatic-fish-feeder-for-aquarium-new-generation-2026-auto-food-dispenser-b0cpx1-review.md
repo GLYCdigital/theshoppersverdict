@@ -1,4 +1,5 @@
 ---
+
 title: "FISHNOSH Automatic Fish Feeder for Aquarium - New Generation"
 seo_title: "FISHNOSH Automatic Fish Feeder Review: Reliable New-Gen Dispenser"
 meta_description: "Honest FISHNOSH automatic fish feeder review: test results, portion accuracy, and battery life. See if this new-generation dispenser suits your tank."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CPX13Q1F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mWpW0ONvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual independent rotors allow mixing two food types (pellets + flakes) in a single feeding cycle"
   - "Battery backup preserves schedule for 7+ days during power outages, verified by multiple buyers"
   - "Rotating drum design delivers consistent portion sizes without the jamming common in auger-style feeders"
-cons:
+cons: 
   - "Mounting bracket fits rim thickness up to 1.2cm — thicker acrylic or glass rims will need creative solutions"
   - "No Wi-Fi or app control; programming happens entirely on the device's small LCD interface"
+
 ---
 
 If you've ever come home from a long weekend to find your fish circling the glass like they haven't eaten in a month — because they haven't — you already know why automatic feeders exist. The FISHNOSH New Generation feeder has been on my test tank for three weeks now, and it's earned a permanent spot on the rim. Here's the full breakdown.

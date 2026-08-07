@@ -1,4 +1,5 @@
 ---
+
 title: "IN WHICH BAY 30FT Telescopic Flag Pole Kit, Flagpole with Fr"
 seo_title: "IN WHICH BAY 30FT Telescopic Flag Pole Kit, Flagpo Review"
 meta_description: "Our full in which bay 30ft telescopic flag pole kit, flagpole with fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08VH7V193/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Wk6aVfRBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: a 30-foot flagpole for under $150 sounds like a gimmick. Most residential flagpoles in this height class run two to three times that. But the IN WHICH BAY 30FT Telescopic Flag Pole Kit has earned a 4.1-star average across 204 ratings, and after digging through the feedback and spec sheet, I understand why it works — and where it doesn't.

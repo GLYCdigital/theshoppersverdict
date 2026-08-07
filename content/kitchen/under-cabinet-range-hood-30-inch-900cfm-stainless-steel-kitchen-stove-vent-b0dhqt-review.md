@@ -1,4 +1,5 @@
 ---
+
 title: "Under Cabinet Range Hood 30 Inch,900CFM Stainless Steel Kitc"
 seo_title: "Under Cabinet Range Hood 30 Inch,900CFM Stainless  Review"
 meta_description: "Our full under cabinet range hood 30 inch,900cfm stainless steel kitc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHQTSPV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51+J4gvqmgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it. Most range hoods under $200 are decorative — they move air like a desk fan and leave your kitchen smelling like last night's salmon. This 30-inch stainless steel unit from the B0DHQT line claims 900 CFM, which is a massive number for an under-cabinet model. Does it deliver? I dug through 225 ratings and the technical specs to find out.

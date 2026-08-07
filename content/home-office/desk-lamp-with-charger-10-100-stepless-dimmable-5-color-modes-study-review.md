@@ -1,16 +1,17 @@
 ---
+
 title: "Desk Lamp with Charger, 10%-100% Stepless Dimmable & 5 Color Modes Study Lamp, Touch Control, 30-/60-minute Timer, USB Charging Output Port, CRI≥90, Eye-Caring Foldable LED Desk Lamps for Home Office"
 seo_title: "Desk Lamp with Review: Verdict (4.2/5) | TSV"
 meta_description: "Honest desk lamp with charger, 10% review 166+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "desk-lamp-with-charger-10-100-stepless-dimmable-5-color-modes-study-review"
 image_alt: "Desk Lamp with Charger, 10%-100% Stepless Dimmable & 5 Color Modes Study Lamp, Touch Control, 30-/60-minute Timer, USB C"
-keywords:
+keywords: 
   - "desk lamp with review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What are the downsides of the Desk Lamp with Charger?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Is the Desk Lamp with Charger portable enough for travel?"
@@ -21,10 +22,11 @@ review_count: 166
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FNMXPRJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Td8ykq4VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 # Desk Lamp with Charger Review: Does This $16 Foldable Light Earn Its Spot on Your Desk?

@@ -1,4 +1,5 @@
 ---
+
 title: "New England Coffee Ground Coffee"
 seo_title: "New England Coffee Ground Coffee Review: Verdict | TSV"
 meta_description: "Our full new england coffee ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GT6CM4LR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KAffbl2yL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** New England Coffee isn't trying to be your $28 bag of single-origin Ethiopian micro-lot. It's a solid, dependable, everyday ground coffee that delivers a comfortable medium-dark roast without the pretension. At 4.4 stars from 220 ratings, it's clearly winning over a lot of regular drinkers. The question is whether it belongs in *your* cabinet.

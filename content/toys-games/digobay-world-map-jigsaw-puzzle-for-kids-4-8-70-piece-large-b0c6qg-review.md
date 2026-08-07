@@ -1,4 +1,5 @@
 ---
+
 title: "DIGOBAY World Map Jigsaw Puzzle for Kids 4-8, 70 Piece Large"
 seo_title: "DIGOBAY World Map Puzzle Review: 70-Piece for Kids 4-8 inch"
 meta_description: "Honest DIGOBAY World Map Jigsaw Puzzle review: 70 large pieces for kids 4-8. Build quality, learning value, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6QGS786/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ix0UJAchL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large, sturdy pieces (about 3.5 inches) that small hands can grip easily without bending or tearing"
   - "Double-sided design — geography on one side, animals and landmarks on the other — doubles the play value"
   - "Includes 10 bonus fact cards that turn the puzzle into a geography lesson kids actually enjoy"
-cons:
+cons: 
   - "Some pieces arrive slightly warped from packaging, though they flatten out after a day under a book"
   - "Puzzle board is thin cardboard — fine for tabletop play but won't survive being stepped on or rough handling"
   - "At 70 pieces, it's a one-sitting activity for most 7-8 year olds; older kids may finish it in 15 minutes"
+
 ---
 
 Let me be upfront: most kids' puzzles are either too easy (boring) or too hard (frustrating). The DIGOBAY World Map Jigsaw Puzzle sits in that sweet spot — but it's got some quirks worth knowing about before you click "add to cart."

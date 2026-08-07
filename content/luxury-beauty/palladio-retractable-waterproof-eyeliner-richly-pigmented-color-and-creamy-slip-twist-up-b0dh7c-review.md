@@ -1,4 +1,5 @@
 ---
+
 title: "Palladio Retractable Waterproof Eyeliner, Richly Pigmented C"
 seo_title: "Palladio Retractable Waterproof Eyeliner, Richly P Review"
 meta_description: "Our full palladio retractable waterproof eyeliner, richly pigmented c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DH7CX22F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51p3043opqL._SL1100_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $9 eyeliner that refuses to quit — but has one catch**

@@ -1,4 +1,5 @@
 ---
+
 title: "Dobyns Rods Kaden Travel Series Review"
 seo_title: "Dobyns Rods Kaden Travel Series Review (2026): Worth It?"
 meta_description: "Dobyns Rods Kaden Travel Series review: 4.6/5 rating, 229 reviews. Is this 4-piece travel rod worth the price? We break down performance, portability, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6MMW9P6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gcd5ZDVBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True Dobyns sensitivity and backbone in a 4-piece travel format — doesn't fish like a compromise rod"
   - "Premium Kaden-series components (Fuji guides, quality cork) carried over to the travel version"
   - "Fits in standard airline carry-on luggage at roughly 22 inches collapsed"
-cons:
+cons: 
   - "Price premium over comparable travel rods from lesser-known brands — you pay for the Dobyns name"
   - "No rod tube included; the cloth bag alone won't protect against checked-baggage abuse"
+
 ---
 
 # Dobyns Rods Kaden Travel Series: The Travel Rod That Doesn't Fish Like One

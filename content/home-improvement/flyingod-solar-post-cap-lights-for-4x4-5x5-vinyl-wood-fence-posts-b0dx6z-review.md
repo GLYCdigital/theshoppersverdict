@@ -1,4 +1,5 @@
 ---
+
 title: "Flyingod Solar Post Cap Lights for 4x4 & 5x5 Vinyl/Wood Fenc"
 seo_title: "Flyingod Solar Post Cap Lights Review: 4x4 & 5x5 Fence"
 meta_description: "Honest Flyingod solar post cap lights review for 4x4 & 5x5 fences. Build quality, brightness, battery life, and real buyer feedback. Worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX6ZBZCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vwZsm+wVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-piece design with separate solar panel and light head lets you angle the panel for maximum sun exposure even on shaded fence lines"
   - "Genuine 1800mAh battery capacity delivers 8-12 hours of runtime on a full charge, verified by multiple long-term buyers"
   - "Warm white 3000K color temperature provides actual ambient lighting, not just decorative bling — you can see your walkway"
-cons:
+cons: 
   - "Installation requires the included screws to be driven at a slight angle into the post walls; vinyl posts need pre-drilling or you risk cracking"
   - "Motion sensor picks up cars from the street regularly, which can trigger the light more often than intended if your fence faces traffic"
   - "The light head swivels independently from the base, which is great for aiming but means you must hand-tighten the adjustment ring firmly or it drifts over time"
+
 ---
 
 Let's cut through the noise on solar post cap lights. There are hundreds of listings claiming "super bright" and "all-night runtime" — most are lying. The Flyingod Solar Post Cap Lights for 4x4 and 5x5 posts are a refreshing exception, and the 4.5-star average across 225 ratings backs that up. But they're not perfect, and you need to know exactly what you're buying before you commit.

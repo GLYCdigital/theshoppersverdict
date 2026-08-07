@@ -1,4 +1,5 @@
 ---
+
 title: "Caraway 14-Piece Kitchen Prep Set - Kitchen Knife Set & Wood"
 seo_title: "Caraway 14-Piece Kitchen Prep Set Review (2026): Worth It?"
 meta_description: "Honest Caraway 14-Piece Kitchen Prep Set review: knife quality, wooden utensil durability, and real buyer feedback. Is this $200+ set worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMJJZG9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QZ4TSudRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ceramic-coated stainless blades resist staining and odors far better than bare steel"
   - "Full-tang construction on all knives with ergonomic, weighted handles that feel substantial"
   - "The 10-piece acacia wood utensil set covers nearly every cooking task without plastic"
-cons:
+cons: 
   - "No knife block or magnetic strip included — you'll need storage for 4 knives"
   - "Ceramic coating can chip if you cut on glass or stone boards; stick to wood or plastic"
   - "Hand-wash only for both knives and utensils — a non-negotiable for this price"
+
 ---
 
 If you've browsed kitchen gear on Instagram, you've seen Caraway's pastel cookware everywhere. But this 14-piece prep set is a different beast — it's not another nonstick pan. It's a complete knife and utensil overhaul disguised as a pretty box. After digging through 235 ratings and the spec sheet, here's what actually matters before you drop your money.

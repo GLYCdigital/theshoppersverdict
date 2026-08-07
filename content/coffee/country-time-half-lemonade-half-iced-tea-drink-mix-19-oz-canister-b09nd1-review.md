@@ -1,4 +1,5 @@
 ---
+
 title: "Country Time Half Lemonade & Half Iced Tea Drink Mix (19 oz"
 seo_title: "Country Time Half Lemonade Half Iced Tea Review (2026)"
 meta_description: "Country Time Half Lemonade & Half Iced Tea mix review: taste, value, and mixability. See if this 19 oz canister beats buying bottled. Honest verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09ND1Q2JM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81z4ZccuAnL._SL1500_.jpg"
-pros:
+pros: 
   - "One 19 oz canister makes roughly 10 quarts—about 40 eight-ounce glasses—for a fraction of bottled cost"
   - "Powder dissolves instantly in cold water with no gritty residue or clumping, even with vigorous stirring"
   - "Balanced flavor that avoids the syrup-sweetness of bottled half-and-half sodas while keeping real tea and lemon character"
-cons:
+cons: 
   - "Sucralose aftertaste is noticeable to some drinkers, especially in the first sip before ice melts"
   - "No real tea leaves—uses instant tea powder, so it lacks the depth of freshly brewed tea"
+
 ---
 
 You can get about 40 glasses of Arnold Palmer–style refreshment from this single 19-ounce canister. That's the headline. The question is whether the powdered shortcut delivers flavor worth the trade-off versus grabbing bottles at the convenience store.

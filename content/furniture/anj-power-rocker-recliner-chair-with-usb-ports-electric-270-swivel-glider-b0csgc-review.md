@@ -1,4 +1,5 @@
 ---
+
 title: "ANJ Power Rocker Recliner Chair with USB Ports, Electric 270 inch"
 seo_title: "ANJ Power Rocker Recliner Review: Electric 270 Swivel Glider"
 meta_description: "Honest ANJ Power Rocker Recliner review: 270° swivel, USB ports, electric recline. Real pros, cons & buyer feedback for this 4.2-star chair."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSGCDP7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LMzV68y-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "270-degree swivel base makes it easy to turn toward conversation or TV without scooting the whole chair"
   - "Dual USB ports built into the armrest — genuinely useful for keeping devices charged within arm's reach"
   - "Electric recline with smooth, quiet motor operation and a nearly flat 165-degree lay-back position"
-cons:
+cons: 
   - "Faux leather upholstery can get sticky against bare skin in warm rooms — plan for a throw blanket"
   - "Assembly takes 30–45 minutes and requires two people to attach the heavy base securely"
   - "No lumbar support adjustment — the built-in pillow is fixed and may not suit taller users"
+
 ---
 
 Let's be direct about the ANJ Power Rocker Recliner: this is a budget-friendly electric recliner that gets the fundamentals right, but it's not a luxury lounger. At roughly $300–$350 depending on sales, you're getting a functional, feature-packed chair that makes some material compromises. Here's what 210 buyers at 4.2 stars are actually saying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Battery USB Charger Adapter for DeWalt 20V MAX Battery Gener"
 seo_title: "DeWalt 20V USB Adapter Review: Power Converter Tested"
 meta_description: "Honest review of the USB charger adapter for DeWalt 20V MAX batteries. Real-world output, build quality, and buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CB3RC88K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I+asbAgxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Converts any DeWalt 20V MAX battery into a portable power bank with dual USB-A output"
   - "No battery modification needed — clips directly onto the battery terminals, works with 1.5Ah to 12Ah packs"
   - "Built-in LED charge indicator shows remaining battery level at a glance"
-cons:
+cons: 
   - "Output limited to 5V/2.1A total — won't fast-charge modern phones or power tablets at full speed"
   - "Plastic housing feels less rugged than DeWalt's own accessories; knurled grip is minimal"
   - "No USB-C passthrough — you're stuck with older micro-USB cables for charging the adapter itself"
+
 ---
 
 Let me cut through the noise: this little adapter turns any DeWalt 20V MAX battery into a USB power source, and for $15–20, it's one of the most practical accessories you can toss in a toolbox. But it's not without quirks. Here's what 215 Amazon reviewers and my own hands-on testing reveal.

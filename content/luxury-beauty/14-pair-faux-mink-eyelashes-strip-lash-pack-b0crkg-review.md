@@ -1,23 +1,25 @@
 ---
+
 title: "14 Pair Faux Mink Eyelashes Strip Lash Pack"
 seo_title: "14 Pair Faux Mink Lashes Review: Worth It? | 2026 inch  "
 meta_description: "Our honest 14 Pair Faux Mink Eyelashes Strip Lash Pack review: real wear tests, band quality, and who should buy. See pros, cons, and verdict."
 slug: "14-pair-faux-mink-eyelashes-strip-lash-pack-b0crkg-review"
 image_alt: "14 Pair Faux Mink Eyelashes Strip Lash Pack with assorted styles and reusable trays"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CRKGJ5RK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816-uL5pCnL._SL1500_.jpg"
-pros:  
+pros: 
   - "14 pairs at a price that undercuts most single-pair luxury lashes — real value per wear"  
   - "Featherlight faux mink fibers with a flexible, invisible band that hugs the lash line without poking"  
   - "Variety pack includes 7 distinct styles — from wispy daily wear to dramatic volume — so you're covered for any occasion"  
-cons:  
+cons: 
   - "Band transparency varies between styles — the more dramatic pairs have a slightly thicker, shinier band that needs careful blending"  
   - "Glue not included — a minor annoyance that pushes your total cost up if you're a first-time buyer"
+
 ---
 
 Let me be blunt: most lash packs under $20 are a gamble. You get five identical pairs of spiky plastic that look like spider legs by hour three. The **14 Pair Faux Mink Eyelashes Strip Lash Pack** is not that. It's not perfect — nothing at this price point is — but it's one of the few bulk lash sets I'd actually recommend to someone who wears lashes more than twice a month.

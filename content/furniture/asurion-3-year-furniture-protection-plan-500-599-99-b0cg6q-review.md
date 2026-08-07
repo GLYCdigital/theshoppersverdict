@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Furniture Protection Plan ($500 - $599.99)"
 seo_title: "ASURION Furniture Protection Plan Review: 3-Year Coverage"
 meta_description: "Honest ASURION 3 Year Furniture Protection Plan review for $500-$599.99 purchases. Claims process, coverage limits, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0CG6QGSHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Covers accidental damage like stains, rips, and broken mechanisms — not just manufacturer defects"
   - "Simple online claims process with photo documentation; no need to ship furniture anywhere"
   - "Prorated refund for the unused portion if you cancel within the first 30 days"
-cons:
+cons: 
   - "3.3/5 rating reflects inconsistent claims approvals — some customers report denied claims on legitimate damage"
   - "Coverage excludes normal wear and tear, which is frustratingly vague for furniture that gets daily use"
   - "Must purchase within 30 days of the furniture delivery date or the window closes permanently"
+
 ---
 
 You've just spent over $500 on a sofa, and Amazon is offering a protection plan for roughly 8-10% of that cost. The question isn't whether furniture gets damaged — it's whether this plan actually pays out when it does. With a mediocre 3.3-star average across 165 ratings, the answer is more complicated than a simple yes.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Kitchen Protection Plan ($900 - $999.99)"
 seo_title: "ASURION 3-Year Kitchen Protection Plan Review (2026)"
 meta_description: "ASURION 3-year kitchen protection plan for $900-$999 appliances: coverage details, claim process, and real buyer feedback in this honest review."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07P5GDNRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DKa7ArsgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures after the manufacturer's warranty expires — the gap where most expensive repairs happen"
   - "Claims are handled directly through Amazon; no shipping your appliance anywhere or dealing with third-party repair shops"
   - "24/7 tech support and a straightforward claim process with repair, replacement, or Amazon gift card reimbursement options"
-cons:
+cons: 
   - "Doesn't cover accidental damage, power surges, or cosmetic issues — read the exclusions before buying"
   - "If ASURION can't repair the unit, you get an Amazon gift card, not cash — a limitation if you'd rather shop elsewhere"
   - "Requires you to keep your receipt and register the plan within 30 days of purchase"
+
 ---
 
 Let's be honest about extended warranties: most are overpriced insurance policies designed to profit from your anxiety. The ASURION 3 Year Kitchen Protection Plan for appliances in the $900-$999.99 range is different — and that's why it holds a 4.5-star rating across 225 reviews.

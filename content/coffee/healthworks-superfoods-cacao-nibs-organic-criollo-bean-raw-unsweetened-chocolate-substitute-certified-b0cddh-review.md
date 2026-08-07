@@ -1,4 +1,5 @@
 ---
+
 title: "Healthworks Superfoods Cacao Nibs Organic - Criollo Bean - R"
 seo_title: "Healthworks Superfoods Cacao Nibs Organic - Crioll Review"
 meta_description: "Our full healthworks superfoods cacao nibs organic - criollo bean - r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDDHNC92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ki6YE3jqL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear right up front: these are not chocolate chips. Healthworks Superfoods Organic Cacao Nibs are crushed raw cacao beans — specifically the Criollo variety — and they taste like it. If you're expecting sweetness, you'll be disappointed. If you're looking for a clean, intensely chocolatey crunch to fold into your morning oatmeal or blend into a smoothie without added sugar, this is a genuinely good product worth your attention.

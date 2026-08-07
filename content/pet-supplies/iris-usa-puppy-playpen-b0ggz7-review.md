@@ -1,4 +1,5 @@
 ---
+
 title: "IRIS USA Puppy Playpen"
 seo_title: "IRIS USA Puppy Playpen Review: Verdict | TSV"
 meta_description: "Our full iris usa puppy playpen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GGZ75DPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iv6Tl09RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got a new puppy, and your baseboards are already looking like chew toys. Before you drop money on a playpen, here's what you need to know about the IRIS USA Puppy Playpen — because not all exercise pens are created equal, and this one has some real strengths and a couple of genuine weaknesses.

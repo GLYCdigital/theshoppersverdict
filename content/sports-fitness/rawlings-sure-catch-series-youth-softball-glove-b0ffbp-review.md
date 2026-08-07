@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings | Sure Catch Series Youth Softball Glove"
 seo_title: "Rawlings | Sure Catch Series Youth Softball Glove Review:"
 meta_description: "Our full rawlings | sure catch series youth softball glove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFBPZXC4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8118Osr6KzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** If your daughter is between 5 and 9 years old and just stepping onto the diamond, the Rawlings Sure Catch Series is the rare youth glove that actually fits, closes, and catches — right out of the box. It's not built for travel ball, but for rec league and practice, it's the easiest glove on the market for little hands to learn with.

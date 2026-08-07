@@ -1,4 +1,5 @@
 ---
+
 title: "Gabrylly Shower System, Shower Faucet Set, Shower head with"
 seo_title: "Gabrylly Shower System Review: Is This Faucet Set Worth It?"
 meta_description: "Gabrylly shower system review: 4.6★ rated faucet set with handheld. Real pros, cons, and fitment details. Find out if it's right for your bathroom."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GW8WWQGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QCARks9FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Complete kit includes rough-in valve, trim, rainfall head, handheld, and hose — no separate parts to source"
   - "Solid brass construction with a polished chrome finish that resists water spots and fingerprints"
   - "Diverter lets you run rainfall and handheld simultaneously or independently"
-cons:
+cons: 
   - "Thermostatic cartridge is non-standard — replacement requires ordering from Gabrylly, not off-the-shelf"
   - "Installation is involved; if you're not comfortable with pex or copper work, budget for a plumber"
+
 ---
 
 # Gabrylly Shower System Review: One Kit, No Guesswork

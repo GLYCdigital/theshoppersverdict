@@ -1,4 +1,5 @@
 ---
+
 title: "Applied Biochemists Pool 408622A Yellowtrine Swimming Pool A"
 seo_title: "Applied Biochemists Yellowtrine Review: Does It Kill Yellow Algae?"
 meta_description: "Our Applied Biochemists Yellowtrine review covers whether this 3-lb algaecide kills mustard algae, how to apply it, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00PM8Q96O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VHRdh6pXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Specifically formulated to target yellow/mustard algae that standard chlorine shock won't touch"
   - "Three-pound granular format treats up to 30,000 gallons — enough for two applications on most residential pools"
   - "Works fast; many users report visible clearing within 24–48 hours"
-cons:
+cons: 
   - "Requires precise pH control (7.2–7.4) before application or it won't work effectively"
   - "Not a preventive — you must brush affected surfaces thoroughly first or results will disappoint"
+
 ---
 
 **Yellow algae is the stubbornest problem in pool ownership.** Regular chlorine shock treats green algae fine, but that yellow-brown dust that clings to walls and laughs at your chlorine levels? That's mustard algae, and it needs a different weapon entirely. Applied Biochemists Yellowtrine is that weapon — a granular algaecide designed specifically for this one frustrating problem. With 215 ratings averaging 4.3 stars, it's clearly working for many pool owners. But it's not magic, and understanding its limitations will save you a wasted weekend.

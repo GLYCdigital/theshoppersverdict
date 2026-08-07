@@ -1,4 +1,5 @@
 ---
+
 title: "Soeos Bay Leaf"
 seo_title: "Soeos Bay Leaf Review: Verdict | TSV"
 meta_description: "Our full soeos bay leaf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GFMFBF6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X1UDvwV2L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You wouldn't think a bay leaf belongs in your coffee maker. But here's the thing: one leaf dropped into a French press or cold brew carafe adds a smoky, almost tea-like complexity that cuts through bitterness without tasting like soup. That's the niche Soeos Bay Leaf fills — and it does it better than most spice jars at this price point.

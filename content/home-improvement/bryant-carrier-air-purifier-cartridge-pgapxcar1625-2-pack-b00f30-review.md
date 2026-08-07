@@ -1,4 +1,5 @@
 ---
+
 title: "Bryant / Carrier Air Purifier Cartridge - PGAPXCAR1625, 2 Pa"
 seo_title: "Bryant Carrier Air Purifier Cartridge PGAPXCAR1625 Review"
 meta_description: "Honest Bryant Carrier air purifier cartridge PGAPXCAR1625 2-pack review: fit, performance, lifespan, and whether it's worth the premium over generic filters."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00F30BEZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NH52X0l9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM part that fits Bryant/Carrier electronic air cleaners perfectly — no trimming, no gap issues"
   - "Two-pack saves roughly 15-20% versus buying singles, and both filters are individually sealed"
   - "Consistent MERV-rated performance with measurable improvement in allergy symptoms reported by long-term buyers"
-cons:
+cons: 
   - "Pricey compared to third-party alternatives — you're paying for the Bryant/Carrier name and guaranteed fit"
   - "No included cleaning instructions — you'll need to look up the manual for proper electronic cell maintenance"
   - "Not compatible with all Bryant/Carrier models — verify your system's model number before ordering"
+
 ---
 
 If you own a Bryant or Carrier electronic air cleaner, you already know the drill: the filter cartridge isn't something you can fudge with a generic cut-to-size pad. The PGAPXCAR1625 is the OEM replacement for a reason, and this two-pack is the smarter way to buy it.

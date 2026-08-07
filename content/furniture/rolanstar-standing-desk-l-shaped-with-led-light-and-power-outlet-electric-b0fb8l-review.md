@@ -1,4 +1,5 @@
 ---
+
 title: "Rolanstar Standing Desk L Shaped with LED Light and Power Ou"
 seo_title: "Rolanstar Standing Desk L Shaped with LED Light an Review"
 meta_description: "Our full rolanstar standing desk l shaped with led light and power ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FB8LSHH6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dDRB7KHLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The L-shaped desk that actually earns its corner space**  

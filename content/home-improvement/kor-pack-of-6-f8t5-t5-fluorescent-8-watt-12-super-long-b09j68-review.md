@@ -1,7 +1,8 @@
 ---
-title: "KOR (Pack of 6) F8T5- T5 Fluorescent - 8 Watt - 12\" Super Lo"
+
+title: "KOR (Pack of 6) F8T5- T5 Fluorescent - 8 Watt - 12\ Super Lo"
 seo_title: "KOR (Pack of 6) F8T5- T5 Fluorescent - 8 Watt - 12 Review"
-meta_description: "Our full kor (pack of 6) f8t5- t5 fluorescent - 8 watt - 12\" super lo review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full kor (pack of 6) f8t5- t5 fluorescent - 8 watt - 12\ super lo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "kor-pack-of-6-f8t5-t5-fluorescent-8-watt-12-super-long-b09j68-review"
 image_alt: "KOR (Pack of 6) F8T5- T5 Fluorescent - 8 Watt - 12 Super Long Life Light Bulbs"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J68YYX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NixcdVzeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever replaced a T5 bulb, you know the pain: one burns out, and you’ve got to buy a two-pack, pay shipping, and wait. The KOR 6-pack of F8T5 8-watt, 12-inch tubes solves that annoyance before it starts. But is it a smart buy for your specific fixture, or just cheap inventory? Let’s break it down.

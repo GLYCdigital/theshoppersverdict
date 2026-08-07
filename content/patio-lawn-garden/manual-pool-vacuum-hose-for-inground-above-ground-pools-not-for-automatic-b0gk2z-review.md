@@ -1,4 +1,5 @@
 ---
+
 title: "Manual Pool Vacuum Hose for Inground & Above Ground Pools, N"
 seo_title: "Manual Pool Vacuum Hose for Inground & Above Groun Review"
 meta_description: "Our full manual pool vacuum hose for inground & above ground pools, n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GK2ZLXL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VtVbgUL8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A pool vacuum hose is the least glamorous piece of pool equipment you'll ever buy — and the easiest to get wrong. Too flimsy and it kinks every time you pull it around a corner. Too stiff and you're fighting the thing instead of cleaning. This manual hose from the "N" line (sold under several generic brand names on Amazon) sits right in the middle, and for most pool owners, that's exactly where you want to be.

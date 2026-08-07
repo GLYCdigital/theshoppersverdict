@@ -1,4 +1,5 @@
 ---
+
 title: "2-Pack TPU 700C×18-32C Bike Inner Tube, Ultralight (ALLRoad"
 seo_title: "ALLRoad TPU Bike Inner Tube Review: 2-Pack 700C, 18-32C"
 meta_description: "Honest ALLRoad 2-pack TPU bike inner tube review: ultralight 700C×18-32C, real weight, durability concerns, and who should buy. 4.0-star verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DD72QD2C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7115cmNIU2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely ultralight — roughly 35g per tube, saving 150-200g per wheel vs standard butyl"
   - "Packs down to about the size of a golf ball, ideal for saddle bags or jersey pockets"
   - "TPU holds air noticeably better than latex — holds pressure for days, not hours"
-cons:
+cons: 
   - "Installation is finicky — TPU is slippery and pinches easily; first-timers will waste one"
   - "Valve core is non-serviceable on this model; if it fails, the whole tube is done"
   - "Material is unforgiving with sharp debris — glass and flint cuts through faster than butyl"
+
 ---
 
 **The 30-gram question: Is TPU worth the hassle?**

@@ -1,4 +1,5 @@
 ---
+
 title: "ROIL Box Spring, Heavy Duty Metal Bed Base Mattress Foundati"
 seo_title: "ROIL Box Spring, Heavy Duty Metal Bed Base Mattres Review"
 meta_description: "Our full roil box spring, heavy duty metal bed base mattress foundati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCYYHJT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hkoehB+2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # ROIL Box Spring Review: Does This $99 Metal Foundation Actually Hold Up?

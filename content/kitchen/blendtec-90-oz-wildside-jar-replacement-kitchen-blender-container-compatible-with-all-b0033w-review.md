@@ -1,4 +1,5 @@
 ---
+
 title: "Blendtec 90 oz WildSide+ Jar - Replacement Kitchen Blender C"
 seo_title: "Blendtec WildSide+ 90 oz Jar Review: Worth It? (2026)"
 meta_description: "Blendtec WildSide+ 90 oz jar review: 4.7-star rated replacement container. See real performance, durability issues, and which blenders it fits."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0033WTB3O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dGnGvtMHL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Blendtec part — fits all full-size models with the same blade assembly, no adapter needed"
   - "90-ounce capacity actually handles large batches; the WildSide+ shape pulls ingredients down without a tamper"
   - "BPA-free copolyester is impact-resistant and clear — you can see your blend texture without opening the lid"
-cons:
+cons: 
   - "Wide base won't fit under standard upper kitchen cabinets when mounted on the motor base — measure your clearance first"
   - "Fingerprint and smudge magnet; shows water spots immediately after hand-washing"
   - "No measurement markings on the side — you're estimating volumes for recipes"
+
 ---
 
 When your Blendtec jar cracks or the blade assembly finally gives out after years of frozen smoothie abuse, you face a decision: buy a $40 knockoff from a brand you've never heard of, or drop real money on the genuine replacement. The Blendtec 90 oz WildSide+ Jar sits firmly in the second category — and for most people, it's the right call. But let's be clear about what you're actually paying for.

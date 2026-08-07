@@ -1,4 +1,5 @@
 ---
+
 title: "Cheese Grater,Rotary Cheese Grater Multi-Purpose Stainless S"
 seo_title: "Rotary Cheese Grater Review: Stainless Steel Multi-Purpose"
 meta_description: "Honest rotary cheese grater review: stainless steel build, multi-purpose shredding, real pros/cons from 220 ratings. Find out if this hand-crank grater is worth it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CFT8CCSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XvfK0TokL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Interchangeable stainless steel drums handle fine to coarse shreds — no separate box grater needed"
   - "Hand-crank design eliminates the knuckle-shredding risk of box graters, especially for hard cheeses"
   - "Suction base holds firmly to countertops, so one-handed operation actually works"
-cons:
+cons: 
   - "Soft cheeses (mozzarella, fresh cheddar) will jam the drum — stick to hard cheeses only"
   - "Plastic crank mechanism feels less durable than the stainless body; expect wear after heavy use"
   - "Cleaning requires disassembly and a brush — the drum's fine holes trap cheese residue stubbornly"
+
 ---
 
 If you've ever shredded your knuckles on a box grater while trying to coax a stubborn block of Parmesan into submission, you already know why a rotary grater exists. The question is whether this stainless steel multi-purpose version earns its spot in your drawer. After digging through 220 ratings and the specs, here's the real story.

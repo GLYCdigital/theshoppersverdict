@@ -1,4 +1,5 @@
 ---
+
 title: "EastPoint Easy Setup Badminton Set - 15 ft Net, 4 Rackets, 2 inch"
 seo_title: "EastPoint Easy Setup Badminton Set Review: Worth It? (2026)"
 meta_description: "EastPoint Easy Setup Badminton Set review: 15-ft net, 4 rackets, 2 shuttlecocks. Portable, backyard-ready. Read pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FB328BH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AmCIVt67L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 5-minute tool-free assembly with color-coded poles that click together intuitively"
   - "Four included rackets and two shuttlecocks mean four players can start immediately — no extra purchases needed"
   - "Carrying bag fits everything including poles; total weight around 8 lbs, easy to haul to a park or beach"
-cons:
+cons: 
   - "Rackets are basic steel-frame models; serious players will want to upgrade within a season"
   - "Ground stakes are plastic and bend on hard-packed dirt — consider replacing with metal tent stakes for firm ground"
+
 ---
 
 Let’s be blunt: most backyard badminton sets are junk. Wobbly poles, flimsy nets that sag after one match, and rackets that feel like fly swatters. So when the EastPoint Easy Setup Badminton Set showed up with a 4.0-star average across 200 ratings, I was skeptical. But after testing it in a real backyard with actual adults playing (not just kids swatting at birds), here’s the honest breakdown.

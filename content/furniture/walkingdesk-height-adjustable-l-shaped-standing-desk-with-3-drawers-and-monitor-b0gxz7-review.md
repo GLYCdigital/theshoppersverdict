@@ -1,4 +1,5 @@
 ---
+
 title: "WALKINGDESK Height Adjustable L Shaped Standing Desk with 3 "
 seo_title: "WALKINGDESK Height Adjustable L Shaped Standing De Review"
 meta_description: "Our full walkingdesk height adjustable l shaped standing desk with 3  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXZ7VY1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819ht2+b7XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The corner-desk dilemma used to be simple: pick storage or pick a standing desk. The WALKINGDESK L-Shaped model tries to end that compromise by stuffing three drawers into a height-adjustable frame. After digging through 225 ratings and buyer photos, here's the honest breakdown.

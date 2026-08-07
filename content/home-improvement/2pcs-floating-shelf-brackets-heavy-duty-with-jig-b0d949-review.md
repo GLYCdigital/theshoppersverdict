@@ -1,4 +1,5 @@
 ---
+
 title: "2pcs Floating Shelf Brackets Heavy Duty with Jig"
 seo_title: "Floating Shelf Brackets Heavy Duty with Jig Review (2026)"
 meta_description: "Honest review of 2pcs Heavy Duty Floating Shelf Brackets with Jig. 4.5-star rated. Tested for weight capacity, ease of install, and real-world use."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9497P44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uPjA07KPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-drilled pilot holes and included jig eliminate the guesswork; shelves sit perfectly flush without a laser level"
   - "Rated for 100+ lbs per pair when anchored into studs — these aren't decorative brackets, they're load-bearing hardware"
   - "Zinc-plated steel construction resists rust in humid environments like bathrooms or kitchens"
-cons:
+cons: 
   - "Jig works only for 1.5-inch thick shelves; thicker butcher block or live-edge slabs need manual alignment"
   - "Screws included are decent but undersized for drywall-only mounting — buy toggle bolts separately if you can't hit studs"
+
 ---
 
 Let me be blunt: most floating shelf brackets are overpriced metal sticks that sag under a stack of hardcovers. This 2-pack from a no-name brand caught my attention because it ships with a drill jig — and that little plastic guide changes everything.

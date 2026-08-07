@@ -1,4 +1,5 @@
 ---
+
 title: "Campbell's Condensed Beef Consomme Soup"
 seo_title: "Campbell's Beef Consomme Review: Rich Flavor, Real Value"
 meta_description: "Campbell's Condensed Beef Consomme delivers deep umami in a 10.5-oz can. Our honest review covers taste, versatility, and value for home cooks."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL9F6RM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DZgfB9FDL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, savory beef flavor that outperforms many homemade stocks in half the time"
   - "Versatile pantry staple — works as a soup base, braising liquid, or au jus in a pinch"
   - "Condensed format means you control the intensity; one can stretches to four servings"
-cons:
+cons: 
   - "Sodium content runs high (870mg per serving) — not ideal for low-salt diets without dilution"
   - "Texture is thin and clear; don't expect the body of a heartier beef broth or stock"
+
 ---
 
 # Campbell's Condensed Beef Consomme: The Pantry Shortcut That Actually Delivers

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Eau de Toilette Oscar by Oscar de la Renta, Oscar Signature"
 seo_title: "Oscar de la Renta Oscar EDT Review: Timeless Classic (2026)"
 meta_description: "Our honest Oscar de la Renta Oscar Signature EDT review: performance, sillage, longevity, and who should buy this 4.6-star classic floral aldehyde."
@@ -12,13 +13,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C54D13JK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X50UOlGdL._SL1500_.jpg"
-pros:
+pros: 
   - "Powerful, long-lasting floral aldehyde that survives 8+ hours on skin"
   - "Elegant, mature composition with real depth — tuberose, jasmine, and oakmoss"
   - "Exceptional value for a designer legacy fragrance; often priced under $50 inch"
-cons:
+cons: 
   - "Heavy 1980s-style sillage can overwhelm in warm weather or small spaces"
   - "Not for fans of modern, sweet gourmands or fresh aquatic scents"
+
 
 ---
 

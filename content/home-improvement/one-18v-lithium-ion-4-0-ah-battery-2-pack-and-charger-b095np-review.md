@@ -1,4 +1,5 @@
 ---
+
 title: "ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack) and Charger Kit"
 seo_title: "ONE+ 18V Lithium-Ion 4.0 Ah Battery (2-Pack) and C Review"
 meta_description: "Our full one+ 18v lithium-ion 4.0 ah battery (2-pack) and charger kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B095NP9LWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hmycrz5eS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own even one Ryobi ONE+ tool, you already know the ecosystem's dirty secret: the 2.0 Ah battery that comes in most kits dies faster than you'd like. A circular saw chews through one in about 15 minutes of actual cutting. This 4.0 Ah two-pack solves that problem directly — and the included rapid charger makes it a genuinely complete kit rather than just a battery restock.

@@ -1,4 +1,5 @@
 ---
+
 title: "XYCN LED Flood Light, Super Bright P66 Waterproof Security O"
 seo_title: "XYCN LED Flood Light, Super Bright P66 Waterproof  Review"
 meta_description: "Our full xycn led flood light, super bright p66 waterproof security o review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DPSS9MWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CCRxQplwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the listing fluff. The XYCN LED Flood Light markets itself as "super bright" with a P66 waterproof rating — and for the most part, it delivers. But before you wire this thing up, here's what 204 buyers (averaging 4.1 stars) actually discovered after mounting it outside.

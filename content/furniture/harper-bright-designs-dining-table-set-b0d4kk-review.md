@@ -1,4 +1,5 @@
 ---
+
 title: "Harper & Bright Designs Dining Table Set"
 seo_title: "Harper & Bright Designs Dining Table Set Review: Honest 2026 inch"
 meta_description: "Read our honest Harper & Bright Designs Dining Table Set review. Real pros, cons, and buyer feedback to help you decide before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4KK591J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wQrrX6rsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood construction that holds up to daily family meals without wobble"
   - "Compact footprint fits small dining rooms and apartments while seating four comfortably"
   - "Easy 30-minute assembly with clear instructions and all hardware included"
-cons:
+cons: 
   - "Finishes vary slightly between pieces — natural wood grain means no two tables look identical"
   - "Chairs run narrow for larger frames; test comfort before committing if you're over 220 lbs"
+
 ---
 
 If you're shopping for a dining set under serious budget pressure, the Harper & Bright Designs Dining Table Set deserves a hard look. With 220 ratings averaging 4.4 stars, this set has clearly found its audience. But is it right for *your* home? Here's what I found after digging through real buyer experiences and the specs that matter.

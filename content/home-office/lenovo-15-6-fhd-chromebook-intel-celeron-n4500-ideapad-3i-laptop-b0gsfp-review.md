@@ -1,7 +1,8 @@
 ---
-title: "Lenovo 15.6\" FHD Chromebook, Intel Celeron N4500, IdeaPad 3i"
-seo_title: "Lenovo 15.6\" FHD Chromebook, Intel Celeron N4500,  Review"
-meta_description: "Our full lenovo 15.6\" fhd chromebook, intel celeron n4500, ideapad 3i review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Lenovo 15.6\ FHD Chromebook, Intel Celeron N4500, IdeaPad 3i"
+seo_title: "Lenovo 15.6\ FHD Chromebook, Intel Celeron N4500,  Review"
+meta_description: "Our full lenovo 15.6\ fhd chromebook, intel celeron n4500, ideapad 3i review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "lenovo-15-6-fhd-chromebook-intel-celeron-n4500-ideapad-3i-laptop-b0gsfp-review"
 image_alt: "Lenovo 15.6 FHD Chromebook, Intel Celeron N4500, IdeaPad 3i Laptop"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSFPG1W7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TEtHtpx2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 15.6-inch Chromebook that finally does the basics right — but knows its limits.**

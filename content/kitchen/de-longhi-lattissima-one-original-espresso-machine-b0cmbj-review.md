@@ -1,4 +1,5 @@
 ---
+
 title: "De'Longhi Lattissima One Original Espresso Machine"
 seo_title: "De'Longhi Lattissima One Review: One-Touch Espresso & Milk"
 meta_description: "De'Longhi Lattissima One review: Is this $300 one-touch espresso machine worth it? Tested for shot quality, milk froth, and daily use. Find out here."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CMBJGQSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614R1Ubo3EL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "One-touch operation delivers a solid espresso or latte in under 60 seconds with zero learning curve"
   - Compact footprint (7.2 inch "W x 11 inch "D) fits under standard cabinets and takes up less counter than most drip machines
   - "Uses widely available OriginalLine capsules — cheaper and more variety than Vertuo pods"
-cons:
+cons: 
   - "No steam wand — you cannot make microfoam for latte art or customize milk texture"
   - "Milk carafe must be refrigerated between uses and requires immediate rinsing to avoid clogs"
   - "15-bar pump is marketing hype; the actual extraction pressure is closer to 9 bars, same as cheaper machines"
+
 ---
 
 ## The $300 Question: Is One-Button Convenience Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "AT-A-GLANCE Appointment Book Planner, Weekly, 8-1/4 inch  x 11 inch ,"
 seo_title: "AT-A-GLANCE Weekly Appointment Book Review (2026)"
 meta_description: "AT-A-GLANCE weekly appointment book review: 8.25x11 layout, durability, and real user feedback. See if this planner fits your scheduling needs."
@@ -11,15 +12,16 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FF4Z9ZSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61n0g6jzNYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hourly time slots from 8 AM to 5 PM with half-hour increments — no more squinting to fit appointments in cramped lines"
   - "Sturdy spiral binding lies completely flat, so you can write near the spine without wrestling the book open"
   - "Heavyweight 32-pound paper resists bleed-through from gel pens and most markers, based on multiple buyer reports"
   - Crisp 8-1/4 inch " x 11 inch " pages give you roughly 40% more writing space per day than standard 5.5 inch " x 8 inch " planners
-cons:
+cons: 
   - "Only covers Monday through Friday — if you book weekend appointments, you'll need a second system or sticky notes"
   - "No monthly overview pages at the front; this is a pure weekly planner, so long-range planning requires flipping through weeks"
   - "Binding can loosen over months of heavy daily use, especially if you shove it into a packed bag"
+
 ---
 
 If you run a business, manage a team, or juggle client appointments, you've probably cycled through three digital calendars and still missed a meeting. The AT-A-GLANCE Appointment Book Planner isn't trying to be clever — it's a 8-1/4\" x 11\" paper grid designed to do one thing well: hold your schedule without fighting you.

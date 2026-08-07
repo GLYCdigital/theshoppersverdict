@@ -1,4 +1,5 @@
 ---
+
 title: "Dremel 8250 12V Lithium-Ion Variable Speed Cordless Rotary T"
 seo_title: "Dremel 8250 Review: Cordless Rotary Tool Worth It?"
 meta_description: "Dremel 8250 12V brushless rotary tool review: 4.7-star rated. Real-world performance, battery life, and who should buy it. Honest pros and cons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C3Y48477/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91+oBsMcWnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers consistent power even at low RPMs — no bogging down under load"
   - "Battery fuel gauge and USB charging make cordless use practical, not frustrating"
   - "Variable speed dial from 5,000 to 30,000 RPM gives real control for precision work"
-cons:
+cons: 
   - "Battery life suffers at high RPMs — expect 15-20 minutes of continuous heavy use"
   - "No quick-change collet system; swapping bits requires the included wrench"
+
 ---
 
 # Dremel 8250 Cordless Rotary Tool Review: Is the Brushless Upgrade Worth It?

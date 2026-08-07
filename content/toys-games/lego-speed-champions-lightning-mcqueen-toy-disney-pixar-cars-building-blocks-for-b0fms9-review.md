@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Speed Champions Lightning McQueen Toy - Disney Pixar Ca"
 seo_title: "LEGO Speed Champions Lightning McQueen Toy - Disne Review"
 meta_description: "Our full lego speed champions lightning mcqueen toy - disney pixar ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FMS95QCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818d7yw6E7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Ka-chow. Or, more accurately, *ka-chow in brick form*. The LEGO Speed Champions line has been the gold standard for licensed vehicle builds since it switched to the wider 8-stud chassis back in 2020, and this Lightning McQueen set continues that streak. But is it a must-have for Pixar fans, or just another shelf ornament? Let's break it down.

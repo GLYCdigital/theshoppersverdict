@@ -1,4 +1,5 @@
 ---
+
 title: "EGO"
 seo_title: "EGO Review: 2026 Buyer's Guide, Pros & Cons"
 meta_description: "Honest EGO review: real performance data, buyer feedback, and buying advice. See what owners praise, what falls short, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D45LTKBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z+DuRo3nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "56V ARC lithium battery delivers gas-like power without the pull-start hassle"
   - "Tool-free assembly and blade changes take under two minutes"
   - "Battery swaps between all EGO 56V tools — one ecosystem, multiple yard jobs"
-cons:
+cons: 
   - "Battery runtime drops noticeably in thick, damp grass — keep a spare charged"
   - "Heavier than comparable 40V models, especially at the rear handle"
   - "Charger is loud and slow; a full top-up takes nearly an hour"
+
 ---
 
 # EGO Review: Is the 56V Ecosystem Worth Your Backyard?

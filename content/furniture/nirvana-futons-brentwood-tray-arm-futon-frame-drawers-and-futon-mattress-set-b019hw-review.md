@@ -1,4 +1,5 @@
 ---
+
 title: "Nirvana Futons Brentwood Tray Arm Futon Frame, Drawers, and "
 seo_title: "Nirvana Futons Brentwood Tray Arm Futon Frame, Dra Review"
 meta_description: "Our full nirvana futons brentwood tray arm futon frame, drawers, and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B019HWR9BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6124YWyg2NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be straight about the Nirvana Futons Brentwood: this is a solid, budget-conscious twin futon that does exactly what it promises — no more, no less. With 204 ratings averaging 4.1 stars, it’s not a showpiece, but it’s a workhorse. Here’s the real story.

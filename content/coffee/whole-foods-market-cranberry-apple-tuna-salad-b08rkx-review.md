@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market Cranberry Apple Tuna Salad"
 seo_title: "Whole Foods Market Cranberry Apple Tuna Salad Review: Ver"
 meta_description: "Our full whole foods market cranberry apple tuna salad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08RKX359R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZbtjZ8igL._SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a pre-made tuna salad in a pouch, not a coffee maker. But if you're here because you want a genuinely good, grab-and-lunch option that doesn't taste like airline food, this Whole Foods Market Cranberry Apple Tuna Salad deserves a close look. It's earned a 4.4-star average across 220 ratings — and for once, the hype mostly holds up.

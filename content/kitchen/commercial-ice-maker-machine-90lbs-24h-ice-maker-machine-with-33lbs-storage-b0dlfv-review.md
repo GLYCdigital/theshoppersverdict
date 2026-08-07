@@ -1,4 +1,5 @@
 ---
+
 title: "Commercial Ice Maker Machine, 90lbs/24H Ice Maker Machine wi"
 seo_title: "Commercial Ice Maker Review: 90lbs/24H Capacity Tested"
 meta_description: "Honest review of the 90lbs/24H commercial ice maker with 33lb storage. Real-world performance, noise levels, and reliability assessed. See if it's worth it."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DLFVM3YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P-lDO03RL._SL1500_.jpg"
-pros:
+pros: 
   - Compact footprint (roughly 17 inch "W x 17 inch "D) fits under standard counters while still producing 90lbs/day — rare combo in this price bracket
   - "Self-cleaning cycle with built-in water line hookup option means you're not tethered to manual filling"
   - "Bullet ice shape drops quickly and doesn't clump — better for beverage service than nugget styles"
-cons:
+cons: 
   - "First batch takes 45–60 minutes; several buyers report the 90lb rating assumes ideal ambient temps and water pressure, so real-world output often lands closer to 60–70lbs"
   - "Condenser fan noise is noticeable — measured by multiple reviewers as 55–60dB, which is fine for a garage or bar but loud for an open kitchen"
   - "No internal pump for the drain line; you'll need gravity drainage or a separate condensate pump, which some buyers didn't expect"
+
 ---
 
 # Commercial Ice Maker Machine, 90lbs/24H: Does It Deliver?

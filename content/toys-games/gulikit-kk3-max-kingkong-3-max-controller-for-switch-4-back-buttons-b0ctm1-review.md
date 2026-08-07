@@ -1,4 +1,5 @@
 ---
+
 title: "GuliKit KK3 Max, Kingkong 3 Max Controller for Switch, 4 Bac"
 seo_title: "GuliKit KK3 Max Review: Best Switch Pro Alternative?"
 meta_description: "GuliKit KK3 Max review: Hall-effect sticks, 4 back buttons, multi-platform support. Is it worth it over the Switch Pro? Find out in our hands-on verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CTM1M13Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6123VrZitUL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall-effect sticks with zero drift — even after hundreds of hours of use"
   - "Four programmable back buttons, not just two like most third-party Switch pads"
   - "Multiple trigger modes (analog, digital, and hair trigger) via sliding switches"
-cons:
+cons: 
   - "The 6-axis gyro is noticeably less accurate than the Switch Pro's — fine for casual play, frustrating for Splatoon"
   - "D-pad is stiff and clicky out of the box; needs a break-in period"
   - "The 'Mechanical' face buttons are loud — think clicky mouse, not quiet controller"
+
 ---
 
 Let me cut through the noise: the GuliKit KK3 Max is the most feature-packed third-party Switch controller you can buy right now. But "most features" doesn't always mean "best fit." Here's what 204 Amazon reviewers (4.1 stars) and my own hands-on testing reveal.

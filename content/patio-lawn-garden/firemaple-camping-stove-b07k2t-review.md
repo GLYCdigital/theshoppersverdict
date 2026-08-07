@@ -1,4 +1,5 @@
 ---
+
 title: "FireMaple Camping Stove Review"
 seo_title: "FireMaple Camping Stove Review: Is It Worth It? (2026)"
 meta_description: "Honest FireMaple camping stove review: performance, build quality, real buyer feedback. See pros, cons, and whether this 4.5-star stove fits your outdoor cooking style."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07K2T5R7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51D4jGU98IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Compact folding design fits inside most cook pots — saves serious pack space"
   - "Wind-resistant burner holds a steady flame in breezy conditions where cheaper stoves sputter"
   - "Brass valve delivers precise simmer control, not just full-blast or off"
-cons:
+cons: 
   - "Piezo igniter is finicky in cold weather — carry a lighter as backup"
   - "No built-in pressure regulator, so output drops noticeably with a half-full canister"
+
 ---
 
 Most camp stoves make you choose between packability and performance. The FireMaple camping stove tries to give you both, and after digging through 225 ratings and the specs, here's the honest picture: it's a genuinely well-built little burner that earns its 4.5-star average — with a couple of caveats worth knowing before you buy.

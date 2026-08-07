@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Oxford Canvas Portable Velcro Dog Pet Playpen"
 seo_title: "Amazon Basics Velcro Dog Playpen Review (2026): Worth It?"
 meta_description: "Amazon Basics Oxford Canvas Velcro Dog Playpen review: durable, portable, easy setup. See pros, cons, and who should buy this 4.4-star pen."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D6VP7Q5Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YpsAGvOjL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Velcro panels make setup and breakdown under 60 seconds with zero tools"
   - "Oxford canvas fabric is thicker than typical mesh pens — blocks drafts and reduces visual stress for anxious dogs"
   - "Folds flat to roughly the size of a laptop bag, making it genuinely travel-friendly"
-cons:
+cons: 
   - "Velcro can pop loose under persistent scratching or determined chewers — not an escape-proof solution"
   - "No floor or bottom panel included, so it won't contain accidents or work on slippery surfaces without a mat"
   - "Canvas is not fully waterproof; outdoor use in rain will soak through quickly"
+
 ---
 
 If you've ever wrestled with a collapsible metal pen at 7 AM while your dog does zoomies around your legs, you already know why the Amazon Basics Oxford Canvas Portable Velcro Dog Pet Playpen deserves a look. This isn't a heavy-duty kennel replacement — it's a lightweight, instant- setup enclosure designed for a specific set of needs. At 4.4 stars across 220 ratings, it's clearly hitting the mark for most buyers. Here's the honest breakdown.

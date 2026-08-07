@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Marker Airbrush Spray Art Kit, Battery-Powered Spray"
 seo_title: "Crayola Marker Airbrush Spray Art Kit Review (2026): Worth It?"
 meta_description: "Crayola Marker Airbrush Spray Art Kit review: battery-powered sprayer, 8 washable markers. Tested for mess, durability & fun. Find out if it's worth buying."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTB2N2D9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81161P5MeNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Uses standard Crayola markers — no proprietary ink refills to buy, so refills cost pennies compared to dedicated airbrush systems"
   - "Battery-powered operation means no compressor noise or cords; kids can use it independently on a picnic table or floor"
   - "Washable formula actually comes out of fabric and skin with soap and water, based on multiple parent reports"
-cons:
+cons: 
   - "Spray pattern is diffuse and difficult to control for fine detail work — this is a broad-mist effect, not a precision tool"
   - "Batteries drain quickly with continuous use; expect to swap in fresh AAs mid-session if you have a heavy-handed artist"
   - "The sprayer mechanism can clog if markers are inserted at an angle or pressed too hard against the paper"
+
 ---
 
 **The Verdict at a Glance: This is the airbrush kit you buy when you want the *effect* of airbrushing without the $200 compressor setup.** It's messy, it's imprecise, and it eats batteries — but for a 7-to-12-year-old who wants to make galaxy art and tie-dye-style posters, it delivers exactly the right wow factor at a fraction of the cost of a real airbrush system.

@@ -1,4 +1,5 @@
 ---
+
 title: "Appliance Casters Furniture Sliders 8pcs"
 seo_title: "Appliance Casters Furniture Sliders Review (8pcs) – Worth It?"
 meta_description: "Appliance Casters Furniture Sliders 8pcs review: Do these $9 sliders actually move heavy coffee makers? Tested. Real pros, cons, buyer verdict."
@@ -11,13 +12,14 @@ review_count: 1116
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rnTcrDKpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slides heavy espresso machines and brewers across granite, quartz, and wood counters without scratching — no lifting required"
   - "Adjustable straps fit oddly-shaped appliance feet, including round and rectangular bases"
   - "8-piece set covers multiple appliances at once, or doubles up for heavier gear over 50 lbs"
-cons:
+cons: 
   - "Sliders work best on smooth, hard surfaces; they drag and catch on textured tile or rough stone"
   - "Straps can slip off very narrow or angled feet if you don't tighten them fully before moving"
+
 ---
 
 **Opening: The $9 Counter-Saver You Didn't Know You Needed**

@@ -1,4 +1,5 @@
 ---
+
 title: "GORILLA GRIP Feeding Mat Bowl Set, 100% Waterproof BPA Free"
 seo_title: "GORILLA GRIP Feeding Mat Bowl Set Review: Waterproof Duo"
 meta_description: "GORILLA GRIP Feeding Mat Bowl Set review: 100% waterproof, BPA-free silicone mat with stainless bowls. Is it worth it? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GN3QWLZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TSX5VVLuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised 1-inch lip catches splashes, kibble bounce, and drool — floors stay dry"
   - "Non-slip silicone base grips tile, hardwood, and laminate without sliding during enthusiastic eating"
   - "Stainless steel bowls are dishwasher-safe and resist scratches from metal scoops"
-cons:
+cons: 
   - "Mat is hand-wash only despite the waterproof claim — a minor inconvenience for daily users"
   - "Bowls are on the smaller side; large-breed dogs may need a refill mid-meal"
   - "Silicone attracts hair and dust between washes, requiring frequent wiping"
+
 ---
 
 I've tested more feeding stations than I care to count, and most fall into one of two camps: they look good but slide across the floor when your dog gets excited, or they're functional but ugly enough to hide in the laundry room. The GORILLA GRIP Feeding Mat Bowl Set tries to bridge that gap. Here's the honest breakdown after living with it.

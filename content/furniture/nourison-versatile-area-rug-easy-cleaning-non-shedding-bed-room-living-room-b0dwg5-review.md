@@ -1,4 +1,5 @@
 ---
+
 title: "Nourison Versatile Area Rug - Easy Cleaning, Non Shedding, B"
 seo_title: "Nourison Versatile Area Rug - Easy Cleaning, Non S Review"
 meta_description: "Our full nourison versatile area rug - easy cleaning, non shedding, b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWG5CD9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1qzaoCuPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about area rugs: most under $200 either shed like a shedding husky or flatten into a sad, matted shadow of themselves within six months. The Nourison Versatile Area Rug tries to sidestep both failures with a low-pile synthetic construction marketed specifically for high-traffic homes. After digging through 220 Amazon ratings averaging 4.4 stars, here's the real picture.

@@ -1,4 +1,5 @@
 ---
+
 title: "Manicure Set"
 seo_title: "Manicure Set Review: Verdict | TSV"
 meta_description: "Our full manicure set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9ZVDMGZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rH7dutmSL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The problem with most manicure sets is that they're basically jewelry for your junk drawer. Pretty to look at, useless by the third use. This set — the one with the leather case and the magnetic clasp — is different. Here's what 225 buyers and three weeks of hands-on use actually reveal.

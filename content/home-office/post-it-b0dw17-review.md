@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it"
 seo_title: "Post-it Review: Verdict | TSV"
 meta_description: "Our full post-it review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DW17NZ7B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uk7KIxRzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the frustration: you slap a note on your monitor, and by lunchtime it's curled up on your keyboard. The Post-it Super Sticky line exists specifically to kill that problem — and with a 4.8-star average across 240 ratings, it's clearly working for most people.

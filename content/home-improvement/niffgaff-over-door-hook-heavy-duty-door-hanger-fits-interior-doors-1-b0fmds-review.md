@@ -1,4 +1,5 @@
 ---
+
 title: "niffgaff Over Door Hook, Heavy Duty Door Hanger, Fits Interi"
 seo_title: "niffgaff Over Door Hook, Heavy Duty Door Hanger, F Review"
 meta_description: "Our full niffgaff over door hook, heavy duty door hanger, fits interi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMDSNZ92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bCwGYnPTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

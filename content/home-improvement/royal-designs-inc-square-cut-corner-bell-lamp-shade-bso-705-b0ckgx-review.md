@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Designs, Inc. Square Cut Corner Bell Lamp Shade, BSO-7"
 seo_title: "Royal Designs, Inc. Square Cut Corner Bell Lamp Sh Review"
 meta_description: "Our full royal designs, inc. square cut corner bell lamp shade, bso-7 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKGXVB7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HlwkfBhDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a cheap lamp shade that looked fine on screen but arrived looking like a deflated paper bag, you already know the struggle. The Royal Designs BSO-7 Square Cut Corner Bell is the answer to that specific frustration — a shade that actually looks like it belongs on a $200 lamp, not the bargain bin.

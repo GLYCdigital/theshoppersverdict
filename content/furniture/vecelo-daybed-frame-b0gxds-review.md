@@ -1,4 +1,5 @@
 ---
+
 title: "VECELO Daybed Frame"
 seo_title: "VECELO Daybed Frame Review: Verdict | TSV"
 meta_description: "Our full vecelo daybed frame review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXDSJL46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The VECELO Daybed Frame is the furniture equivalent of a Swiss Army knife: it's a sofa when you need to sit, a bed when you need to sleep, and with the pull-out trundle, a second bed when guests show up. At 4.4 stars across 220 ratings, it's clearly doing something right — but is it right for *you*? Let's dig past the listing photos and get to what actually matters.

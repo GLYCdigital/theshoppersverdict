@@ -1,4 +1,5 @@
 ---
+
 title: "AKMAKM 31 Inches Over The Toilet Storage Cabinet with Wave P"
 seo_title: "AKMAKM 31 Inch Over Toilet Cabinet Review (2026)"
 meta_description: "Honest AKMAKM 31-inch over-the-toilet storage cabinet review: build quality, assembly, space-saving design, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSZRXRD8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MoGuek-FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-tier shelving with two concealed cabinets and an open shelf — catches dust-prone clutter while keeping daily-use items accessible"
   - "Wave-pattern door fronts add visual texture that reads more expensive than the price point suggests"
   - "31-inch height fits standard toilets without hovering over the tank — most competitors are either too tall or too short"
-cons:
+cons: 
   - "Particle board construction with laminate finish — water-resistant but not waterproof; splashes left to sit will eventually warp the bottom panel"
   - "Assembly requires patience — roughly 45-60 minutes with 20+ screws, and the included hex wrench is flimsy; use your own driver"
+
 ---
 
 Let me be blunt about the over-the-toilet cabinet category: most of them look like cheap dorm-room afterthoughts. The AKMAKM 31-inch version is different. Not dramatically different — it's still a flat-pack particle board piece — but the wave-pattern door fronts and the proportions make it one of the better-looking options under $100 (assuming pricing stays in that range).

@@ -1,4 +1,5 @@
 ---
+
 title: "HOMCOM Narrow End Table with Drawer and Bottom Shelf, Slim S"
 seo_title: "HOMCOM Narrow End Table with Drawer and Bottom She Review"
 meta_description: "Our full homcom narrow end table with drawer and bottom shelf, slim s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW936W21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YNI2rlXVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this HOMCOM narrow end table actually is: a smart solution for a specific problem. That problem is space. If you're cramming a side table into a 12-inch gap between your sofa and wall, or you need something slim enough to tuck beside a bed in a tight bedroom, this piece earns its keep.

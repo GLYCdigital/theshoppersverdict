@@ -1,4 +1,5 @@
 ---
+
 title: "SWEDISH FISH Mini Soft & Chewy Gummy Candy, Bulk Candy, 140 "
 seo_title: "SWEDISH FISH Mini Soft & Chewy Gummy Candy, Bulk C Review"
 meta_description: "Our full swedish fish mini soft & chewy gummy candy, bulk candy, 140  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTWRKSR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817e8ICtohL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The little fish that solves a real snacking problem

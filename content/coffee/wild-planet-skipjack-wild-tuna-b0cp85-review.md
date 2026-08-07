@@ -1,4 +1,5 @@
 ---
+
 title: "Wild Planet Skipjack Wild Tuna"
 seo_title: "Wild Planet Skipjack Wild Tuna Review: Verdict | TSV"
 meta_description: "Our full wild planet skipjack wild tuna review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP85TK81/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VQlaY+sjL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most canned tuna is a mushy, bland afterthought. Wild Planet Skipjack is not that. This is the tuna you buy when you actually care what’s in the can — and it shows in both price and flavor.

@@ -1,4 +1,5 @@
 ---
+
 title: "Farming Simulator 25 inch"
 seo_title: "Farming Simulator 25 Review: Realistic Farming, Big Maps"
 meta_description: "Our Farming Simulator 25 review covers realistic machinery, new crops, and multiplayer. See if this 4.5-star farming sim is worth your money."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D825Q1R6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81szAOGqnFL._SL1500_.jpg"
-pros:
+pros: 
   - "Massive North American map with 12+ real licensed brands including John Deere, Case IH, and Fendt"
   - "New rice, spinach, and pea crops add meaningful variety to crop rotation strategy"
   - "Ground deformation and weather effects actually impact gameplay, not just visuals"
-cons:
+cons: 
   - "Base game still lacks GPS-guided autosteer — you'll want mods for large-field efficiency"
   - "AI worker pathfinding can be frustratingly dumb on irregularly shaped fields"
   - "Performance dips on last-gen consoles during heavy rain with full crop rendering"
+
 ---
 
 # Farming Simulator 25: The Most Complete Farming Sim Yet

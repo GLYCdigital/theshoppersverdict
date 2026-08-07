@@ -1,15 +1,16 @@
 ---
+
 title: "PackIt Freezable Classic Lunch Box, Black"
 seo_title: "PackIt Freezable Classic Review: Verdict (4.7/5) | TSV"
 meta_description: "Great product Love the quality of these bags, great for hot 13,099+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "packit-freezable-classic-lunch-box-black-review"
 image_alt: "PackIt Freezable Classic Lunch Box, Black"
-keywords:
+keywords: 
   - "packit freezable classic review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the PackIt Freezable Classic Lunch?"
     answer: "Great product Love the quality of these bags, great for hot climates That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the PackIt Freezable Classic Lunch?"
@@ -23,12 +24,13 @@ review_count: 13099
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078H9VRTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rf32uxSjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great product Love the quality of these bags."
   - "Good quality A solid quality product."
   - "The handle on these lunch boxes is sewn to the top and is pretty sturdy."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The PackIt Freezable Classic Lunch Box is a popular choice - with 13,099 Amazon reviews behind it. Here is what buyers actually say.

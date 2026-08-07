@@ -1,4 +1,5 @@
 ---
+
 title: "SOLRIG 5-Lite Frosted Glass Closet Door, Sliding Door for Cl"
 seo_title: "SOLRIG 5-Lite Frosted Glass Closet Door, Sliding D Review"
 meta_description: "Our full solrig 5-lite frosted glass closet door, sliding door for cl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQQ5B7H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SOvbi7+gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re staring at a builder-grade bifold closet door that’s seen better days, the SOLRIG 5-Lite Frosted Glass Sliding Door is the upgrade that makes your bedroom feel like a boutique hotel without the renovation headache. At 4.3 stars from 215 ratings, it’s clearly working for most people — but let’s talk about what that star rating doesn’t tell you before you spend the money.

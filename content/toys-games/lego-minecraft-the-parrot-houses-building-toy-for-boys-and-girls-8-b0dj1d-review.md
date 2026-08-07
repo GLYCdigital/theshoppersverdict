@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Minecraft The Parrot Houses Building Toy for Boys and G"
 seo_title: "LEGO Minecraft The Parrot Houses Building Toy for  Review"
 meta_description: "Our full lego minecraft the parrot houses building toy for boys and g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ1D4SHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Vc8i+6mNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO Minecraft The Parrot Houses: A Colorful Jungle Build That's Over Too Soon**

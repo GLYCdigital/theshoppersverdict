@@ -1,4 +1,5 @@
 ---
+
 title: "LINVIA Ceramic Coffee Mug, 11 oz Small Novelty Unique Teacup"
 seo_title: "LINVIA Ceramic Coffee Mug, 11 oz Small Novelty Uni Review"
 meta_description: "Our full linvia ceramic coffee mug, 11 oz small novelty unique teacup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D9Y2KNRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XZMCRU+VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 11 oz mug that actually earns its "novelty" label**

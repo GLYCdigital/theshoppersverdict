@@ -1,4 +1,5 @@
 ---
+
 title: "100% Lemon Juice Freshly Squeezed NO Added Water 33.8oz Each"
 seo_title: "100% Lemon Juice Freshly Squeezed Review: Pure & Unfiltered"
 meta_description: "Honest review of 100% lemon juice with no added water. Is this 33.8oz bottle worth it? Real taste tests, buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLDZ9CLL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yH2SvlTNL._SL1500_.jpg"
-pros:
+pros: 
   - "Truly no added water — the label isn't lying, and you taste the difference immediately in the tartness and concentration"
   - "One 33.8oz bottle equals roughly 20+ lemons, making it cheaper than buying fresh citrus for daily use"
   - "No preservatives, no added sugar, no citric acid boosters — just pressed lemon juice"
-cons:
+cons: 
   - "Strong, puckering tartness that's too intense for some palates straight — you'll want to dilute it yourself"
   - "Once opened, the clock is ticking — you'll need to use it within 7-10 days or freeze portions"
   - "The plastic bottle feels utilitarian, not premium, and the cap can be stubborn to reseal tightly"
+
 ---
 
 Let's cut through the citrus haze. You've seen a dozen "lemon juice" products that are mostly water with a lemon flavoring afterthought. This one from the 100% Lemon Juice brand actually delivers what the label promises — freshly squeezed lemon juice with zero added water. And at 33.8 fluid ounces per bottle, you're getting a serious volume of pure citrus.

@@ -1,4 +1,5 @@
 ---
+
 title: "8663RP B Unit for NuTone,8664RP B Unit for NuTone 8663RP,Mot"
 seo_title: "8663RP B Unit for NuTone Review: Quiet Motor, Easy Fix"
 meta_description: "Honest 8663RP B Unit for NuTone review. Is this replacement motor worth it? Real specs, installation tips, and buyer feedback for 8663RP/8664RP."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZRQ82VH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rElx7aZJL._SL1500_.jpg"
-pros:
+pros: 
   - "Direct drop-in replacement for NuTone 8663RP/8664RP — no rewiring or housing modification needed"
   - "Noticeably quieter operation than the original NuTone motor, per multiple verified buyers"
   - "Includes the full B-unit assembly (motor, blower wheel, and mounting bracket) at a fraction of OEM cost"
-cons:
+cons: 
   - "Some units arrive with slightly misaligned mounting holes requiring minor filing to fit older housings"
   - "Plastic housing feels less robust than the original NuTone metal construction — handle with care during install"
+
 ---
 
 Your bathroom fan has been wheezing for months. You finally pull the cover, and there it is: a seized motor caked in dust. Now you're staring at replacement options — and the OEM part number from NuTone costs almost as much as a new fan. That's exactly where this 8663RP B unit enters the conversation.

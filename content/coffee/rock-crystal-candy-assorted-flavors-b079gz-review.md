@@ -1,4 +1,5 @@
 ---
+
 title: "Rock Crystal Candy - Assorted Flavors"
 seo_title: "Rock Crystal Candy - Assorted Flavors Review: Verdict | T"
 meta_description: "Our full rock crystal candy - assorted flavors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079GZ25WR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JQJeadW7L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched someone drop a jewel-toned crystal stick into their coffee and thought, "That's just sugar with good marketing," you're half right. But the other half is where this product earns its 4.7-star rating across 235 reviews. Rock crystal candy has been a coffeehouse staple for decades, and this assorted flavors pack delivers exactly what the category promises: a slow-dissolving sweetener that doubles as a stirrer and looks like a tiny chandelier in your mug.

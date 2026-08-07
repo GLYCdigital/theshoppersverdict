@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic Amelie Mango, 8 Ounce"
 seo_title: "365 Organic Amelie Mango Review: Real Taste Test"
 meta_description: "Honest 365 by Whole Foods Organic Amelie Mango review: flavor, texture, and value. See if this 8-oz pack beats fresh mango before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DF9WB7G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/519ns-BzdyL._SL1000_.jpg"
-pros:
+pros: 
   - "Certified organic Amelie mango variety — sweeter, less fibrous than common Tommy Atkins"
   - "Consistent ripeness across batches; no mealy or underripe chunks reported"
   - "8-ounce size is ideal for single smoothies or snacking without waste"
-cons:
+cons: 
   - "Premium price per ounce compared to frozen mango from other brands"
   - "Some buyers report variable sweetness depending on harvest batch"
+
 ---
 
 **The Short Version: This is the mango you put in smoothies when you actually want to taste mango.**

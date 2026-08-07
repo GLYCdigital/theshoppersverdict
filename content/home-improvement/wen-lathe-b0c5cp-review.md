@@ -1,4 +1,5 @@
 ---
+
 title: "WEN Lathe"
 seo_title: "WEN Lathe Review: Verdict | TSV"
 meta_description: "Our full wen lathe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C5CPR3G3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The WEN Lathe: A Serious Machine Hiding a Budget-Friendly Price

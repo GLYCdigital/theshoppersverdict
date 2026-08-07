@@ -1,4 +1,5 @@
 ---
+
 title: "Senbowe Upgraded Makeup Brush Cleaner and Dryer Machine, Ele"
 seo_title: "Senbowe Upgraded Makeup Brush Cleaner and Dryer Ma Review"
 meta_description: "Our full senbowe upgraded makeup brush cleaner and dryer machine, ele review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DM1MN31F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71crIXYoL2L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The 60-second fix your brush bag has been waiting for**

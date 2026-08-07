@@ -1,4 +1,5 @@
 ---
+
 title: "HP Pro Mini Desktop Computer, 13th Gen Intel Core i5-1335U(U"
 seo_title: "HP Pro Mini Desktop Computer, 13th Gen Intel Core  Review"
 meta_description: "Our full hp pro mini desktop computer, 13th gen intel core i5-1335u(u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0FBR6H42T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eMU3byj5L._AC_SL1058_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The HP Pro Mini with the i5-1335U is a competent, space-saving office workhorse that gets the fundamentals right — but a 3.5-star average on Amazon tells you there's friction here. Let's dig into what's actually causing that rating.

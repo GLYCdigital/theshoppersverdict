@@ -1,4 +1,5 @@
 ---
+
 title: "Grass Fed A2 Ghee | Gir Cow Ghee | Clarified Butter | Cultur"
 seo_title: "Grass Fed A2 Ghee | Gir Cow Ghee | Clarified Butte Review"
 meta_description: "Our full grass fed a2 ghee | gir cow ghee | clarified butter | cultur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B083XCG4NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vjeC5UvFL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: I've tested a lot of ghee. Most of it tastes like melted butter that's been left on the counter too long. Cultur's Gir Cow A2 ghee is different — noticeably, immediately, and in ways that justify part of its premium price.

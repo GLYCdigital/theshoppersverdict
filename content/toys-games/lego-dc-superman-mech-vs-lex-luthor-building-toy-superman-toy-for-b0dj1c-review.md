@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DC Superman Mech vs. Lex Luthor Building Toy - Superman"
 seo_title: "LEGO DC Superman Mech vs. Lex Luthor Building Toy  Review"
 meta_description: "Our full lego dc superman mech vs. lex luthor building toy - superman review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ1C5PMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UAtvkXlKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Two-Sided Battle Set That Actually Delivers on Play Value**

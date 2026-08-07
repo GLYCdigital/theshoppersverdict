@@ -1,4 +1,5 @@
 ---
+
 title: "Cafe Tastlé Cappuccino"
 seo_title: "Cafe Tastlé Cappuccino Review: Real Espresso or Gimmick?"
 meta_description: "Cafe Tastlé Cappuccino review: 4.3-star rated. We test froth quality, strength, and ease. Find out if it beats your Keurig before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07CHBR2WJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X2P2tZsdL._SL1200_.jpg"
-pros:
+pros: 
   - "Produces genuinely thick, barista-grade microfoam from a single-button automated cycle"
   - "Compact footprint (roughly 11 x 9 x 12 inches) fits under most standard upper cabinets"
   - "Dual heating system pulls espresso and steams milk simultaneously — no waiting between shots"
-cons:
+cons: 
   - "Capsule-only design locks you into Tastlé pods; no ground coffee option for purists"
   - "The 1.2-liter water tank feels small if you're making more than 3-4 drinks in a row"
   - "Some buyers report the drip tray collects water quickly if you don't seat cups dead-center"
+
 ---
 
 ## Is This the $400 Café Experience You've Been Skipping?

@@ -1,4 +1,5 @@
 ---
+
 title: "Crazy Creek Casual Line Chairs for Camping, Backpacking & Mo"
 seo_title: "Crazy Creek Casual Line Chair Review: 4.6-Star Camping Seat"
 meta_description: "Crazy Creek Casual Line Chairs review: 4.6/5 stars. Are these packable foam seats worth it for camping and backpacking? Tested for comfort, durability, and value."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DR6SCLBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wh6OQgdmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat to roughly the size of a rolled sleeping bag — straps to a pack without hogging space"
   - "High-density foam holds up on rocky ground and wet grass without bottoming out"
   - "No assembly, no legs to sink into soft soil — just unfold and sit"
-cons:
+cons: 
   - "No back support — you're sitting upright with your spine largely unsupported"
   - "Sitting directly on damp ground will soak through the foam over time"
   - "At roughly 1.5 lbs, it's not the ultralight option serious thru-hikers want"
+
 ---
 
 **Crazy Creek Casual Line Chairs: The 2-Pound Camping Seat That Earns Its Spot**

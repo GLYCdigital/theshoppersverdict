@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Obsessed Set , 3 Count (Pack of 1) (Packaging may vary"
 seo_title: "Oribe Obsessed Set , 3 Count (Pack of 1) (Packagin Review"
 meta_description: "Our full oribe obsessed set , 3 count (pack of 1) (packaging may vary review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08QTJJRFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vghZ3X-yL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Oribe Obsessed Set is the beauty industry's equivalent of a tasting menu — three of the brand's most famous formulas in travel-friendly sizes, designed to hook you on the luxury hair care crack. The question is whether it's a smart trial or a pricey tease.**

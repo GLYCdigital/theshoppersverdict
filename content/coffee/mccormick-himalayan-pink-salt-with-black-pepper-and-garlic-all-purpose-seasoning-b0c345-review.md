@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Himalayan Pink Salt with Black Pepper and Garlic A"
 seo_title: "McCormick Himalayan Pink Salt with Black Pepper an Review"
 meta_description: "Our full mccormick himalayan pink salt with black pepper and garlic a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C345DGD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RVX-2zs3L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: This Is the Seasoning Grinder You'll Actually Reach For**

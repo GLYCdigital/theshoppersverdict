@@ -1,4 +1,5 @@
 ---
+
 title: "PACEARTH Weighted Vest,6lb/8lb/10lb/12lb/16lb/20lb/25lb/30lb"
 seo_title: "PACEARTH Weighted Vest,6lb/8lb/10lb/12lb/16lb/20lb Review"
 meta_description: "Our full pacearth weighted vest,6lb/8lb/10lb/12lb/16lb/20lb/25lb/30lb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLWG5TPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XhqAFVMhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The weighted vest that doesn't punish your shoulders — but has one fit caveat**

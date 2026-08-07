@@ -1,4 +1,5 @@
 ---
+
 title: "Frontier Co-op Black Tea Review"
 seo_title: "Frontier Co-op Black Tea Review: Bold, Organic, Worth It?"
 meta_description: "Honest Frontier Co-op Black Tea review: organic loose-leaf, bold flavor, real buyer feedback. Is this pantry staple worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQ53BTQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WW5MKDfFL._SL1500_.jpg"
-pros:
+pros: 
   - "Organic certified with consistent, bold Assam-style flavor that holds up to milk and sweetener"
   - "Fair trade and co-op sourced — quality you can trace, not anonymous commodity leaf"
   - "Versatile for hot tea, cold brew, or as a base for chai and kombucha"
-cons:
+cons: 
   - "Loose-leaf format means you need an infuser or tea ball — not a tea-bag convenience product"
   - "Some batches arrive as fine particles rather than whole leaves, which can make for a cloudier cup"
+
 ---
 
 Let's be honest: most black tea on Amazon is dusty, stale, or tastes like the cardboard box it shipped in. Frontier Co-op's offering breaks that pattern — mostly. With 215 ratings averaging 4.3 stars, this organic loose-leaf black tea has a loyal following. Here's the real story after digging through buyer feedback and what the product actually delivers.

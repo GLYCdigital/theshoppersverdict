@@ -1,4 +1,5 @@
 ---
+
 title: "Spirich Over The Toilet Storage Cabinet, Bathroom Shelf Over"
 seo_title: "Spirich Over The Toilet Storage Cabinet, Bathroom  Review"
 meta_description: "Our full spirich over the toilet storage cabinet, bathroom shelf over review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CF91YN5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ft6NpoMCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about bathroom storage: most of it is either cheap wire shelving that rusts or overpriced wooden pieces that can't handle humidity. The Spirich Over The Toilet Storage Cabinet tries to split the difference, and for the most part, it pulls it off.

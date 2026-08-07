@@ -1,24 +1,26 @@
 ---
+
 title: "ASUS Pro WS TRX50-SAGE WIFI CEB Workstation motherboard, AMD"
 seo_title: "ASUS Pro WS TRX50-SAGE WIFI Review: Threadripper Workhorse"
 meta_description: "ASUS Pro WS TRX50-SAGE WIFI CEB motherboard review: 8-channel DDR5, PCIe 5.0, dual 10G LAN. Is it worth the hassle? Real buyer feedback inside."
 slug: "asus-pro-ws-trx50-sage-wifi-ceb-workstation-motherboard-amd-ryzen-threadripper-b0cmzh-review"
 image_alt: "ASUS Pro WS TRX50-SAGE WIFI CEB motherboard with TRX50 chipset, PCIe 5.0 slots, and dual 10G LAN ports"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 180  
-amazon_rating: 3.6  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 180
+amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CMZHDQPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81L7l3pbrtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Eight DDR5 memory slots with full 8000MT/s+ support for up to 1TB RAM — rare at this price tier"  
   - "Dual 10G Marvell AQtion LAN plus 2.5G Intel I226-V, giving serious networking headroom out of the box"  
   - "PCIe 5.0 x16 slots with heavy-duty metal reinforcement, proper for dual-GPU or high-end accelerators"  
-cons:  
+cons: 
   - "CEB form factor (305×267mm) won't fit standard ATX cases — you'll need a full tower or rackmount chassis"  
   - "BIOS flashback and Q-LED troubleshooting are finicky; several buyers report boot loops with early BIOS versions"  
   - "No onboard Thunderbolt 4 header, which is odd for a workstation board at this price point"
+
 ---
 
 If you're building a Threadripper 7000-series workstation, the ASUS Pro WS TRX50-SAGE WIFI is the board that checks most of the right boxes — on paper. It's a CEB (extended ATX) monster with eight DDR5 slots, dual 10G Ethernet, and more PCIe 5.0 lanes than you'll realistically use. But with a 3.6-star average across 180 ratings, the real-world experience is more complicated than the spec sheet suggests.

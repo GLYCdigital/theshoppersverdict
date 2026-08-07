@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX* BRUSHLESS 6 Tool Kit (DCK675D2)"
 seo_title: "DEWALT 20V MAX Brushless 6 Tool Kit Review (2026)"
 meta_description: "Honest DEWALT DCK675D2 review: brushless power, 6 tools, 2 batteries. See what 225 buyers say, real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B14B8847/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lEqP50B-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full brushless lineup — every tool in the kit uses the efficient 20V MAX brushless motor, which means longer runtime and more power than the older brushed versions"
   - "Two 5.0Ah batteries included — enough capacity to run the circular saw and reciprocating saw without constant recharging"
   - "Compact hammer drill and impact driver pair are the same size as DEWALT's 12V tools, but with 20V power — great for tight spaces"
-cons:
+cons: 
   - "No battery gauge on the included 5.0Ah packs — you'll need to swap batteries blind or use the tool's own indicator if it has one"
   - "The work light is a basic spotlight, not a task light — it's bright but throws a narrow beam that's awkward for close-up work"
   - "Bag quality is average for the price point — zippers work fine but the material is thin; don't expect a tough jobsite bag"
+
 ---
 
 If you're shopping for your first serious cordless tool kit—or replacing a mismatched collection of hand-me-downs—the DEWALT 20V MAX Brushless 6-Tool Kit (DCK675D2) is the benchmark. It's not the cheapest combo kit on the shelf, and it's not the most complete. But it hits a sweet spot of power, runtime, and tool variety that most homeowners and serious DIYers will appreciate for years.

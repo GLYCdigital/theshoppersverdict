@@ -1,4 +1,5 @@
 ---
+
 title: "ECO amenities Eco Amenities Hotel Conditioner"
 seo_title: "ECO Amenities Hotel Conditioner Review: Is It Worth It?"
 meta_description: "Read our honest ECO amenities hotel conditioner review. We tested the formula, scent, and value against premium salon brands. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DZH47ZR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-APMLpxSL._SL1500_.jpg"
-pros:
+pros: 
   - "Sulfate-free formula with botanical argan oil and vitamin E that detangles without weighing down fine hair"
   - "High-quality pump dispenser delivers the right amount every time—no watery splashes or clogged nozzles"
   - "Unisex citrus-herbal scent is subtle enough for sensitive noses but lingers pleasantly for hours"
-cons:
+cons: 
   - "No refill option on Amazon; you're buying single bottles, which adds up if you use it daily"
   - "Thicker consistency requires a bit more effort to rinse out completely compared to drugstore conditioners"
+
 ---
 
 I'll be honest: when I saw "hotel conditioner" in the product name, I expected something thin, watery, and barely functional—the kind of thing you squeeze out of those tiny plastic tubes and pray will do something. The ECO amenities Hotel Conditioner is not that. This is a full-size, salon-grade conditioner that happens to be the same brand used by upscale hotels like Marriott and Westin, and it's genuinely good enough to earn a permanent spot in your shower.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Rounded Door Hinges"
 seo_title: "Amazon Basics Rounded Door Hinges Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics rounded door hinge review: 4.7-star rated. See build quality, sizing, screw length, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CC6V3SCR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cRc6otPZL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Pre-drilled holes align cleanly with standard 3.5-inch residential hinge mortises — no re-drilling needed on most interior doors"
   - "Satin nickel finish resists fingerprints and smudges far better than polished chrome or brass options at similar price points"
   - "3-pack pricing lands well below big-box store singles, making whole-house swaps affordable"
-cons:
+cons: 
   - "Included screws run short (about 1 inch) — you'll likely need longer ones for solid-core doors or frames with thick shims"
   - "Non-removable pin design means you can't lift the door off the hinge for painting or carpet installation without unscrewing the leaf"
   - "Slight casting seam visible on the knuckle edge if you look closely — cosmetic only, but perfectionists will notice"
+
 ---
 
 # Amazon Basics Rounded Door Hinges: Budget Hardware That Actually Feels Solid

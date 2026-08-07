@@ -1,4 +1,5 @@
 ---
+
 title: "182 pcs Felt Furniture Pads"
 seo_title: "182 pcs Felt Furniture Pads Review: Do They Stick?"
 meta_description: "Our hands-on review of 182 pcs felt furniture pads. Do they protect floors? We test adhesion, thickness, and value. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4J2YXNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81SdG2N9HxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3mm felt that actually absorbs impact, not the flimsy 1mm stuff that tears in a week"
   - "182 pieces across 4 shapes and 3 sizes covers an entire house in one purchase"
   - "Self-adhesive backing holds firm on wood and tile — most buyers report zero peel-up after months"
-cons:
+cons: 
   - "Adhesive leaves a slight residue if you reposition within the first hour — decide placement before pressing down hard"
   - "Smaller round pads run thin at the edges; they work fine but won't survive heavy dragging on rough concrete"
+
 ---
 
 If you've ever winced at the sound of a chair leg scraping across hardwood, you already know why felt pads matter. The question is whether this 182-piece set from Amazon is worth your money or just another pack of stickers that peel off in a week. I've tested dozens of these things, and here's the honest breakdown.

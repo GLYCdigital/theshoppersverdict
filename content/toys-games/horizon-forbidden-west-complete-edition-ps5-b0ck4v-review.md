@@ -1,4 +1,5 @@
 ---
+
 title: "Horizon Forbidden West Complete Edition - PS5™"
 seo_title: "Horizon Forbidden West Complete Edition PS5 Review (2026)"
 meta_description: "Horizon Forbidden West Complete Edition PS5 review: full base game + Burning Shores DLC, 60fps performance, and DualSense magic. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CK4VWNYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R6G6lBp6L._SL1500_.jpg"
-pros:
+pros: 
   - "Includes the full Burning Shores DLC — a 10-15 hour expansion that's otherwise $20 standalone"
   - "Near-instant loading via PS5 SSD — fast travel is genuinely seamless, not a loading screen"
   - "DualSense haptics and adaptive triggers are used brilliantly for bow draw weight and machine footsteps"
-cons:
+cons: 
   - "Physical disc requires download for the DLC — it's a code in the box, not on the disc"
   - "Burning Shores is PS5-exclusive content — if you ever downgrade platforms, it won't carry over"
   - "Combat difficulty spikes in the late game require serious gear grinding if you skip side content"
+
 ---
 
 Let's be direct about what the Complete Edition actually buys you: the full Horizon Forbidden West base game, plus the Burning Shores expansion, all on one PS5 package. If you haven't played Guerrilla's 2022 sequel to Zero Dawn, this is the definitive way to experience it — and it fixes most of the complaints from the original launch.

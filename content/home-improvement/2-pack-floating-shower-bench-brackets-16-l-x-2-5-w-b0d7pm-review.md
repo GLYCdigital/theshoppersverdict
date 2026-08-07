@@ -1,4 +1,5 @@
 ---
+
 title: "2-Pack Floating Shower Bench Brackets - 16 inch  L x 2.5 inch  W Heavy"
 seo_title: "Floating Shower Bench Brackets Review: 16 inch  Heavy-Duty 2-Pack"
 meta_description: "Honest review of 16 inch  heavy-duty floating shower bench brackets. Real strength tests, installation tips, and who should buy this 4.8-star 2-pack."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D7PM647Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QY2OOaVgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rated for real weight — handles 400+ lbs when anchored into studs, not just drywall anchors"
   - Full 16 inch " depth gives solid support under a standard 24 inch " bench top without sagging
   - 2.5 inch " wide contact surface spreads load evenly, preventing wood tops from cracking at screw points
-cons:
+cons: 
   - "No included fasteners — need to buy structural screws or lag bolts separately"
   - "Powder coat finish scuffs easily if you slide rough-cut lumber across it during install"
+
 ---
 
 ## Two brackets. One serious question: will they hold you?

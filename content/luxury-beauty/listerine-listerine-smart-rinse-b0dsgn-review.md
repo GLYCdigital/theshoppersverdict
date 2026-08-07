@@ -1,4 +1,5 @@
 ---
+
 title: "Listerine Listerine Smart Rinse"
 seo_title: "Listerine Listerine Smart Rinse Review: Verdict | TSV"
 meta_description: "Our full listerine listerine smart rinse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DSGNHHVV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71afxzLKzeL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: when you hear "Listerine," you probably wince remembering that 30-second burn from the amber stuff your dentist made you try at 14. The Smart Rinse line is a different animal entirely — and at 4.8 stars from 240 Amazon ratings, it's clearly earning its own reputation.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hill Science Diet Wet can cat adult weight Management"
 seo_title: "Hill Science Diet Wet can cat adult weight Managem Review"
 meta_description: "Our full hill science diet wet can cat adult weight management review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZF8Q8ZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QFlAkfMtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

@@ -1,4 +1,5 @@
 ---
+
 title: "Dishwasher Air Gap Cover, Dishwasher Air Gap Cap for Kitchen"
 seo_title: "Dishwasher Air Gap Cover Review: Best Cap for Kitchen Sinks"
 meta_description: "Read this honest dishwasher air gap cover review before buying. We break down fit, finish, and whether this cap solves your countertop problems."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQTPRR8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mN-CFSVtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid stainless steel construction that matches most standard kitchen faucet finishes without looking cheap or plasticky"
   - "Universal fit works with the common 1-inch air gap body size found in most modern homes"
   - "Tool-free snap-on installation takes under 60 seconds — no plumber needed"
-cons:
+cons: 
   - "Only fits round air gap bodies; homes with square or unusually sized units will need to measure carefully"
   - "The finish, while good, isn't an exact match for brushed nickel — slight color variation may be noticeable in bright light"
   - "No rubber gasket included for sealing the base, so older counters with irregular holes may show a small gap"
+
 ---
 
 Most people don't think about their dishwasher air gap until the day they look at it and think, *"that ugly plastic thing is ruining my whole kitchen."* This cover exists to solve exactly that problem. But does it actually fit, stay put, and look good? Here's the real story.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dell P3223QE 31.5 inch  4K UHD LED LCD Monitor - 16:9 - TAA Compl"
 seo_title: "Dell P3223QE 31.5 inch  4K Monitor Review: Worth It? (2026)"
 meta_description: "Dell P3223QE 31.5 inch  4K monitor review: USB-C hub, 90W charging, IPS panel. Real pros, cons & who should buy. 4.6/5 rating breakdown."
@@ -12,14 +13,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B76VC145/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qk9PYle7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "90W USB-C power delivery charges a 16-inch MacBook Pro at full speed while carrying display signal and data over a single cable"
   - "KVM functionality built into a 4K panel at this price point — rare, and it works flawlessly"
   - "IPS panel with 99% sRGB coverage out of the box, factory-calibrated to Delta E < 2 inch"
-cons:
+cons: 
   - "60Hz refresh rate — not for gaming, and some users report minor motion blur on fast scrolling"
   - "Stand is tall and deep; requires 8+ inches of desk depth or it overhangs"
   - "No HDMI 2.1 — limited to HDMI 2.0, so 4K caps at 60Hz (fine for productivity, not for consoles)"
+
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER Countertop Microwave Oven 0.9 Cu Ft, 6 Auto Men"
 seo_title: "BLACK+DECKER 0.9 Cu Ft Microwave Review: Compact Power, 6 Menus"
 meta_description: "Our honest BLACK+DECKER 0.9 cu ft countertop microwave review covers 6 auto menus, build quality, and real-world performance. See who should buy it."
@@ -11,16 +12,17 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHWWQ77M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ecl1F34Lb._AC_SL1500_.jpg"
-pros:
+pros: 
   - "900 watts of cooking power in a footprint under 18 inches wide — fits tight counters without sacrificing heating speed"
   - "Six one-touch auto menus (popcorn, potato, pizza, beverage, frozen dinner, reheat) that actually use sensible default times"
   - "Quick-touch 30-second add button and one-minute express cook make repeated heating tasks genuinely faster"
   - "Interior LED light and glass turntable are easy to clean; crumb tray catches spills before they bake on"
-cons:
+cons: 
   - "Stainless steel exterior shows fingerprints and smudges quickly — you'll be wiping it down weekly"
   - "Door release button requires a firm press; some users report needing two hands when hands are wet or slippery"
   - "No child lock feature, which matters if you have curious toddlers who can reach the counter"
   - "Turntable is fixed-speed only; no option to pause rotation for rectangular dishes that don't fit the 10-inch plate"
+
 ---
 
 **Bottom line: If you need a no-frills microwave that heats evenly, fits a tight space, and doesn't cost a fortune, this BLACK+DECKER 0.9 cu ft model is a solid pick — provided you're not expecting smart features or a fingerprint-proof finish.**

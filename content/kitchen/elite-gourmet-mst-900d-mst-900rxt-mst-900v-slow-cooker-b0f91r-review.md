@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet MST-900D | MST-900RXT | MST-900V Slow Cooker"
 seo_title: "Elite Gourmet MST-900 Slow Cooker Review: Worth It? (2026)"
 meta_description: "Honest Elite Gourmet MST-900D/RXT/V slow cooker review: 4.4-star rated. See real pros, cons, capacity, and who should buy this budget crock."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F91RN1JJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WDlQSGEnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three model variants (D/RXT/V) let you pick the exact feature set you need — from basic manual dials to fully programmable digital with auto warm"
   - "Stoneware insert is heavy-duty and dishwasher-safe; lid seals tightly enough that you won't lose moisture over 8-hour cooks"
   - "Consistent low-temp cooking across the entire stoneware surface — no hot spots or scorched edges near the heating element"
-cons:
+cons: 
   - "Programmable models beep loudly when cooking ends — there's no way to mute it, which is annoying if you set it before bed"
   - "The cool-touch handles stay cool, but the exterior metal body itself still gets warm enough to burn bare skin — keep it away from kids"
   - "No built-in timer on the base MST-900D manual model; you'll need to be home to switch it off or rely on the auto-shift to warm"
+
 ---
 
 Let's cut through the spec sheet noise. The Elite Gourmet MST-900 series isn't trying to reinvent slow cooking — it's trying to nail the fundamentals at a price that won't make you wince. After digging through 220 ratings at a 4.4-star average, here's the real story.

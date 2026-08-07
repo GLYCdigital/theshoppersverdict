@@ -1,4 +1,5 @@
 ---
+
 title: "FNIRSI Stud Finder Wall Scanner - 6 in 1 Electronic Wall Woo"
 seo_title: "FNIRSI Stud Finder Review: 6-in-1 Wall Scanner Tested (2026)"
 meta_description: "FNIRSI 6-in-1 stud finder review: deep-scan accuracy, metal/AC wire detection, and LCD display. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9JCWBRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NrNpFKh0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual depth modes (up to 30mm deep scan) catch studs behind thick drywall or tile"
   - "AC wire detection with audible beep — genuinely prevents drilling into live lines"
   - "Auto-calibration is fast and forgiving; recovers quickly if you start on a bad spot"
-cons:
+cons: 
   - "Metal mode flags rebar and nails constantly — expect false positives on older homes"
   - "No marking channel in the housing; you'll need a pencil to trace the center after scanning"
   - "Center-finding requires a slow glide; rushing it gives you edge-of-stud results"
+
 ---
 
 Let me cut through the noise: the FNIRSI 6-in-1 is one of the most capable sub-$50 stud finders I've tested, but it's not magic. It won't read through 2 inches of plaster and lathe, and it will beep at you for things that aren't studs. Here's what 215 Amazon buyers and my own bench testing say you should know before adding it to your cart.

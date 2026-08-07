@@ -1,4 +1,5 @@
 ---
+
 title: "XiaZ Dog Tie Out Cable for Camping, 50ft/75ft/100ft Portable"
 seo_title: "XiaZ Dog Tie Out Cable for Camping, 50ft/75ft/100f Review"
 meta_description: "Our full xiaz dog tie out cable for camping, 50ft/75ft/100ft portable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B4NR3484/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gTAONxMxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

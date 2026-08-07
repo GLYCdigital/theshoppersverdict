@@ -1,4 +1,5 @@
 ---
+
 title: "Smart Recessed Lighting 6 Inch RGBCW Color Changing 16W"
 seo_title: "Smart Recessed Lighting 6 Inch RGBCW Color Changin Review"
 meta_description: "Our full smart recessed lighting 6 inch rgbcw color changing 16w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GRTCRXHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z-H96k-UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The problem with most "smart" recessed lighting is that you're paying for app connectivity but getting mediocre light. These 6-inch RGBCW fixtures from the B0GRTCRXHV line take the opposite approach. The light quality comes first, the smart features actually work, and the price point undercuts most comparable options. Here's the breakdown after digging through specs and 215 verified buyer experiences.

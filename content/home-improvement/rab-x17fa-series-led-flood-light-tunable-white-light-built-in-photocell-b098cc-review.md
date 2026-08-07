@@ -1,4 +1,5 @@
 ---
+
 title: "RAB X17FA Series LED Flood Light - Tunable White Light - Bui"
 seo_title: "RAB X17FA Series LED Flood Light - Tunable White L Review"
 meta_description: "Our full rab x17fa series led flood light - tunable white light - bui review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B098CCBK4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FZOuUz6sS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance and Build Quality

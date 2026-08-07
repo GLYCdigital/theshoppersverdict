@@ -1,4 +1,5 @@
 ---
+
 title: "Zernmiarder Pumpkin Cabinet Knobs"
 seo_title: "Zernmiarder Pumpkin Cabinet Knobs Review: Verdict | TSV"
 meta_description: "Our full zernmiarder pumpkin cabinet knobs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKXD2983/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71o89urMwbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're reading this, you're probably one of two people: someone who changes cabinet hardware with the seasons, or someone who's been staring at builder-grade knobs for a decade and finally wants something with personality. Either way, the Zernmiarder Pumpkin Cabinet Knobs sit in an interesting spot — they're decorative hardware that actually has to function as hardware.

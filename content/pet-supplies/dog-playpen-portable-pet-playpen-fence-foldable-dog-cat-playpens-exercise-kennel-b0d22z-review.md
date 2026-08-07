@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Playpen,Portable Pet Playpen Fence, Foldable Dog Cat Pla"
 seo_title: "Dog Playpen Portable Pet Playpen Fence Review (2026)"
 meta_description: "Honest review of the foldable Dog Playpen Portable Pet Playpen Fence. Build quality, real-world use, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D22ZCXBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81j68MzHIJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sets up in under 60 seconds with no tools — fold-out design locks into place"
   - "Lightweight enough (under 10 lbs) to move room-to-room or take to the park"
   - "Steel frame holds up to jumpy small/medium dogs without bowing"
-cons:
+cons: 
   - "No top cover — determined escape artists can climb out"
   - "Floor isn't included; you'll need a mat or blanket for hard floors"
+
 ---
 
 **Opening: The folding pen that actually folds**

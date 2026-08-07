@@ -1,4 +1,5 @@
 ---
+
 title: "Catkin Phoenix Cushion Foundation Buildable Coverage Anti-Ag"
 seo_title: "Catkin Phoenix Cushion Foundation Review: Buildable Coverage"
 meta_description: "Catkin Phoenix Cushion Foundation review: buildable coverage, anti-aging serum, satin finish. See real pros, cons, and who should buy this 4.1-star foundation."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CGMK91ZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ds0Sh8L3L._SL1000_.jpg"
-pros:
+pros: 
   - "Cushion formula delivers sheer-to-medium coverage in one compact — buildable without looking cakey"
   - "Infused with anti-aging serum components (peptides and collagen) so skin feels hydrated, not tight"
   - "Satin finish works for dry and combination skin types without needing heavy powder"
-cons:
+cons: 
   - "Shade range is limited to 5 options — fair-to-medium tones only, no deep or olive undertones"
   - "Cushion pad runs dry faster than expected — heavy daily use may need replacement within 6 weeks"
   - "No SPF included, so you'll still need a separate sunscreen step in the morning"
+
 ---
 
 The Catkin Phoenix Cushion Foundation is one of those products that makes you question why you ever bothered with liquid foundation in a bottle. The cushion compact format — a sponge soaked in foundation, pressed with a puff — delivers a finish that genuinely looks like skin, not makeup. But before you throw your current foundation in the trash, let's talk about whether this actually earns its place in your routine.

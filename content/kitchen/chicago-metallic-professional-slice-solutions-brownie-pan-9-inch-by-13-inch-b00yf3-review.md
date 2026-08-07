@@ -1,4 +1,5 @@
 ---
+
 title: "Chicago Metallic Professional Slice Solutions Brownie Pan, 9 inch"
 seo_title: "Chicago Metallic Brownie Pan Review: Even Cuts, Easy Release"
 meta_description: "Chicago Metallic Professional Slice Solutions Brownie Pan review: 13x9 nonstick pan with cutting guides. See if it's worth buying for clean brownie slices."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00YF3AE1S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51KrohIJ8dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in cutting guides in the pan bottom create perfectly even slices every time — no more eyeballing or crooked brownies"
   - "Heavy-gauge steel construction with professional-grade nonstick coating that holds up to repeated use"
   - "Reinforced rolled edges prevent warping, even at higher baking temperatures"
-cons:
+cons: 
   - "Hand-wash only — the nonstick coating will degrade in the dishwasher despite the manufacturer's claims"
   - "Cutting guides are subtle; you need to look closely or use the pan's interior lines as a visual reference while cutting"
+
 ---
 
 If you've ever served brownies that look like they were cut by a toddler with a butter knife, this pan is calling your name. The Chicago Metallic Professional Slice Solutions Brownie Pan is a 13x9-inch baking sheet with an obvious gimmick that actually works: cutting guides molded into the bottom. But is it worth the upgrade from your $12 standard pan? Let's dig in.

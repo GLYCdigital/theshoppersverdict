@@ -1,4 +1,5 @@
 ---
+
 title: "Kate Naturals Lavender Extract for Baking, Drinks, Coffee, L"
 seo_title: "Kate Naturals Lavender Extract for Baking, Drinks, Review"
 meta_description: "Our full kate naturals lavender extract for baking, drinks, coffee, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHNY566T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hm-F14v5L._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by lavender syrups that taste like soap or dried buds that turn into chewy bits in your coffee, this extract is the fix. Kate Naturals Lavender Extract is one of those niche pantry items that quietly earns its place — and with 225 ratings averaging 4.5 stars, it's clearly working for a lot of people.

@@ -1,4 +1,5 @@
 ---
+
 title: "GarveeHome Queen Size Velvet Bed Frame, 50.2 in Tall Headboa"
 seo_title: "GarveeHome Queen Velvet Bed Frame Review: Tall Headboard"
 meta_description: "GarveeHome queen velvet bed frame review: 50.2 inch  tall headboard, button-tufted upholstery, sturdy steel slats. Is it worth it? Pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FXM7HHWB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bzi9jYsXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "50.2-inch headboard provides genuine back support for sitting up in bed — not just decorative"
   - "Steel slat system eliminates box spring requirement, saving $100+ on setup costs"
   - "Velvet upholstery with button tufting looks far more expensive than the price point suggests"
-cons:
+cons: 
   - "Assembly requires two people and roughly 45-60 minutes; instructions are picture-only"
   - "Low-profile footboard means the frame sits close to the floor — under-bed storage is limited"
+
 ---
 
 The GarveeHome Queen Velvet Bed Frame walks a fine line. At first glance, it's a budget-friendly way to get that hotel-lobby look — tall tufted headboard, plush velvet, no box spring needed. But shoppers with 215 ratings averaging 4.3 stars are telling a slightly more nuanced story. Here's what you actually need to know before you click buy.

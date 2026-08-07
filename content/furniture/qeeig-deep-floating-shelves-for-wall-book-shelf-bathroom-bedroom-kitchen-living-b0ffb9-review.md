@@ -1,4 +1,5 @@
 ---
+
 title: "QEEIG Deep Floating Shelves for Wall - Book Shelf Bathroom B"
 seo_title: "QEEIG Deep Floating Shelves for Wall - Book Shelf  Review"
 meta_description: "Our full qeeig deep floating shelves for wall - book shelf bathroom b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFB9P19Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U-JIrjUyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is This the Deep Wall Shelf You've Been Hunting For?**

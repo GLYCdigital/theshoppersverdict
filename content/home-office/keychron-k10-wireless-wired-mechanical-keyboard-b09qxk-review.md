@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron K10 Wireless/Wired Mechanical Keyboard"
 seo_title: "Keychron K10 Wireless/Wired Mechanical Keyboard Review: V"
 meta_description: "Our full keychron k10 wireless/wired mechanical keyboard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09QXKRJMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ELvk4LtTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Keychron K10 sits in a strange spot: it's not the cheapest full-size mechanical keyboard, nor the most feature-packed. But it's carved out a loyal following among office workers who need one board that works flawlessly across Mac, Windows, and multiple devices. Here's the real story after digging through 210 Amazon ratings and the spec sheet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Intel Solid-State Drive D3-S4510 960GB"
 seo_title: "Intel Solid-State Drive D3-S4510 960GB Review: Verdict | "
 meta_description: "Our full intel solid-state drive d3-s4510 960gb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0919MPF6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51i46QDB9nL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Intel Solid-State Drive D3-S4510 960GB Review: A Data-Center Workhorse Hiding in an Office PC

@@ -1,4 +1,5 @@
 ---
+
 title: "SunPeak Rectangular Propane Fire Pit Table, Modern Outdoor G"
 seo_title: "SunPeak Rectangular Propane Fire Pit Table, Modern Review"
 meta_description: "Our full sunpeak rectangular propane fire pit table, modern outdoor g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYMNTD4G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RYUChoPtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The SunPeak rectangular propane fire pit table doesn't try to be the cheapest option on Amazon. It tries to be the one you don't replace in three years. At 4.6 stars across 229 ratings, it's mostly succeeding. Here's the honest breakdown.

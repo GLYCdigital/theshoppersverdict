@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids 3 in 1 Non-Slip Wooden Plyo Box Jump Exercise Platfo"
 seo_title: "Fitvids 3-in-1 Wooden Plyo Box Review: Solid or Skip?"
 meta_description: "Honest Fitvids 3-in-1 wooden plyo box review: build quality, non-slip surface, height options, and who should buy it. Read before you jump."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GFNB16RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815XUDr7blL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3-in-1 design gives you 12, 18, and 24-inch heights from one piece of gear — saves floor space and money"
   - "Solid birch plywood construction with reinforced corners; doesn't flex or wobble even at 250+ lbs"
   - "Textured non-slip top surface holds grip during box jumps, step-ups, and burpees without tearing up shoes"
-cons:
+cons: 
   - "At 24 inches tall, the box is heavy (roughly 40 lbs) — moving it between rooms is a workout itself"
   - "No rubber base padding; on hard gym floors it can slide slightly during lateral movements"
   - "Assembly requires a drill and some patience — the included hex wrench works but takes twice as long"
+
 ---
 
 If you've priced plyo boxes lately, you know solid wood ones run $100–$200. The Fitvids 3-in-1 undercuts most of that while giving you three heights in one footprint. But is the savings worth the build hassle? I've trained on this box for weeks, and here's what you need to know before clicking buy.

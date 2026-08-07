@@ -1,4 +1,5 @@
 ---
+
 title: "ROYHOME Bow Floral Area Rug, Non-Slip Washable Rug"
 seo_title: "ROYHOME Bow Floral Area Rug, Non-Slip Washable Rug Review"
 meta_description: "Our full royhome bow floral area rug, non-slip washable rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT961NHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81U8Aw2gHhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about the ROYHOME Bow Floral Area Rug: this is not a plush, sink-your-toes-in luxury piece. It's a utilitarian workhorse designed to solve a specific problem — spills, kids, pets, and the constant dance of dragging a rug to the washing machine. And based on 229 ratings averaging 4.6 stars, it's solving that problem well for most buyers.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "BALDR Portable Power Station"
 seo_title: "BALDR Portable Power Station Review: Is It Worth It?"
 meta_description: "Honest BALDR Portable Power Station review: real specs, performance, pros & cons from 210+ Amazon ratings. See if this generator suits your needs."
@@ -12,13 +13,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GY2VMXHK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t8qnqYorL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multiple AC outlets plus USB-C PD and USB-A ports give real flexibility for mixed device loads"
   - "Compact form factor with carrying handle makes it genuinely portable for tailgating or campsite use"
   - "Pure sine wave output protects sensitive electronics like laptops and CPAP machines"
-cons:
+cons: 
   - "Recharge time via wall outlet runs longer than advertised — expect 6-7 hours, not the claimed 4.5 inch"
   - "No wireless charging pad or app connectivity, features standard on comparably priced rivals"
+
 
 ---
 

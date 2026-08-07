@@ -1,4 +1,5 @@
 ---
+
 title: "Fvkind Folding Sofa Bed, Foldable Bed Sleeper Chair with Pil"
 seo_title: "Fvkind Folding Sofa Bed Review: Worth It in 2026?"
 meta_description: "Honest Fvkind Folding Sofa Bed review: comfort, build quality, and real user feedback. Is this convertible sleeper chair worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FXMGB6QG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616rnKlMnSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-position adjustable backrest locks solidly at 90°, 135°, and 180° flat — no wobbly middle ground"
   - "Tool-free 10-second conversion between chair and bed; foldable steel frame weighs roughly 25 lbs"
   - "Removable, machine-washable cover with high-density foam padding that holds shape after extended sitting"
-cons:
+cons: 
   - "At 6–7 inches thick when flat, the mattress layer is firm — side sleepers may want a topper"
   - "No internal storage or cup holders; the included pillow is slim and purely decorative"
+
 ---
 
 **Fvkind Folding Sofa Bed Review: A Space-Saving Transformer That Actually Works**

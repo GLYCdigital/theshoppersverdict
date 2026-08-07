@@ -1,4 +1,5 @@
 ---
+
 title: "Guerlain Shalimar Eau de Parfum Spray for Women"
 seo_title: "Guerlain Shalimar Eau de Parfum Spray for Women Review: V"
 meta_description: "Our full guerlain shalimar eau de parfum spray for women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CK4J655D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51n51lbVTAL._SL1024_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 100-Year-Old Perfume That Still Turns Heads**

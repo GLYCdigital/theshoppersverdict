@@ -1,4 +1,5 @@
 ---
+
 title: "LAURA GELLER NEW YORK Baked Highlighter"
 seo_title: "LAURA GELLER NEW YORK Baked Highlighter Review: Verdict |"
 meta_description: "Our full laura geller new york baked highlighter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRSB4BWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iQV25uYWL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when you apply a highlighter and it looks like you dipped your cheekbone in craft glitter? That's not what the LAURA GELLER NEW YORK Baked Highlighter does. This is a marbleized, heat-baked powder that melts into skin with a wet-look sheen — the kind of glow that reads as "expensive skincare," not "party makeup."

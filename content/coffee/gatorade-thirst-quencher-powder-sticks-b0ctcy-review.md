@@ -1,4 +1,5 @@
 ---
+
 title: "Gatorade Thirst Quencher Powder Sticks"
 seo_title: "Gatorade Thirst Quencher Powder Sticks Review: Verdict | "
 meta_description: "Our full gatorade thirst quencher powder sticks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTCYTP87/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81io6TxpbpL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Gatorade Thirst Quencher Powder Sticks"
 seo_title: "Gatorade Powder Sticks Review: Convenient Hydration or Gimmick?"

@@ -1,4 +1,5 @@
 ---
+
 title: "Melissa & Doug Poke-a-Dot! Whoâ€™s in the Ocean? Interactive"
 seo_title: "Melissa & Doug Poke-a-Dot! Whoâ€™s in the Ocean? I Review"
 meta_description: "Our full melissa & doug poke-a-dot! whoâ€™s in the ocean? interactive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/1601692706/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Zifw-8ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a toddler who's obsessed with buttons, switches, and anything that makes noise, you already know the struggle: every board book in the house gets chewed, bent, or ignored within minutes. The **Melissa & Doug Poke-a-Dot! Who's in the Ocean?** takes a different approach — it gives little fingers something to actually *do* on every page. And after 235 Amazon ratings averaging 4.7 stars, it's clearly working for most families. But is it worth adding to your rotation? Let's break it down honestly.

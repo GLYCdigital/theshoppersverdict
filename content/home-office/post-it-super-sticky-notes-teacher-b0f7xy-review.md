@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Super Sticky Notes Teacher"
 seo_title: "Post-it Super Sticky Notes Teacher Review: Verdict | TSV"
 meta_description: "Our full post-it super sticky notes teacher review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F7XY752H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FAKFkMl6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most sticky notes are glorified scrap paper. The Post-it Super Sticky Notes Teacher edition is different — and for anyone who's ever watched a standard note slide off a whiteboard mid-lesson, that difference matters.

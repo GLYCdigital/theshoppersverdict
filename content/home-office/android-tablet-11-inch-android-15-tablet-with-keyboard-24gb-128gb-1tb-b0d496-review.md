@@ -1,4 +1,5 @@
 ---
+
 title: "Android Tablet, 11 inch Android 15 Tablet with Keyboard, 24G"
 seo_title: "Android 15 Tablet Review: 11 inch  with Keyboard & 24GB RAM"
 meta_description: "Honest Android 15 tablet review: 11-inch display, 24GB RAM, included keyboard case. Is it a laptop killer or budget trap? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D496VGVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HsPDTqv3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24GB of combined RAM (12GB physical + 12GB virtual expansion) genuinely keeps 15+ Chrome tabs alive without reloading"
   - "Included keyboard case has real key travel (about 1.5mm) and a working trackpad — not a flimsy Bluetooth afterthought"
   - "Android 15's split-screen and floating window modes are buttery smooth on this hardware, making it a legitimate multitasking tool"
-cons:
+cons: 
   - "The 11-inch IPS display tops out at 60Hz; heavy scrolling feels less fluid than the 90Hz or 120Hz panels on similarly priced rivals"
   - "Battery life lands around 6-7 hours of mixed use — fine for a workday, but you'll pack the charger for travel"
   - "The included USI stylus (if bundled) has noticeable palm rejection lag; better to buy third-party or skip it entirely"
+
 ---
 
 Let's cut through the spec-sheet noise: a 24GB "Android 15 tablet with keyboard" for under $300 sounds like a scam or a miracle. After digging through 210 ratings and the actual hardware specs, it's neither. It's a surprisingly capable budget productivity slate with one or two compromises you need to know about before tapping "Buy."

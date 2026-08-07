@@ -1,4 +1,5 @@
 ---
+
 title: "MAHANCRIS 20-50 Gallon Fish Tank Stand, Aquarium Stand with "
 seo_title: "MAHANCRIS 20-50 Gallon Fish Tank Stand, Aquarium S Review"
 meta_description: "Our full mahancris 20-50 gallon fish tank stand, aquarium stand with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FB3CQJYF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZDrs5wLtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

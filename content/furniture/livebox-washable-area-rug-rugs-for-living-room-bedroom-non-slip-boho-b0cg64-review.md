@@ -1,4 +1,5 @@
 ---
+
 title: "LIVEBOX Washable Area Rug Rugs for Living Room Bedroom, Non-"
 seo_title: "LIVEBOX Washable Area Rug Rugs for Living Room Bed Review"
 meta_description: "Our full livebox washable area rug rugs for living room bedroom, non- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CG644B9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uDGaj+1KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about rugs: most are a pain. They shed, they slide, they stain, and cleaning them means a trip to the dry cleaner. The LIVEBOX Washable Area Rug aims to solve all three of those headaches at once. After digging through 229 ratings and the 4.6-star average, here’s what you actually need to know before clicking buy.

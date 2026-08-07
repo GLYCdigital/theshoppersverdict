@@ -1,4 +1,5 @@
 ---
+
 title: "SAKURA Gelly Roll Gel Pens - Gift Set - Ink Pen Set for Jour"
 seo_title: "SAKURA Gelly Roll Gel Pens - Gift Set - Ink Pen Se Review"
 meta_description: "Our full sakura gelly roll gel pens - gift set - ink pen set for jour review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJ9VKFL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718oXEkoNbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dug through a drawer of dead pens looking for one that actually writes, you already understand the appeal of the SAKURA Gelly Roll. This is the pen that bullet journalers, scrapbookers, and stationery obsessives have been hoarding for decades — and this gift set bundles the classics into one tidy case. The question isn't whether these are good pens. It's whether this specific set is worth your money.

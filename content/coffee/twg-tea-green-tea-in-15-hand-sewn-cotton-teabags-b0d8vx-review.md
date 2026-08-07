@@ -1,4 +1,5 @@
 ---
+
 title: "TWG Tea | Green Tea in 15 Hand Sewn Cotton Teabags"
 seo_title: "TWG Tea | Green Tea in 15 Hand Sewn Cotton Teabags Review"
 meta_description: "Our full twg tea | green tea in 15 hand sewn cotton teabags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8VXZ1V6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sBJ1gAPDL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this isn't a coffee maker. It's a tea product. But if you're reading this, you're likely someone who appreciates the ritual of a well-made hot beverage — and TWG's Green Tea delivers on that front in a way most supermarket tea bags simply can't touch.

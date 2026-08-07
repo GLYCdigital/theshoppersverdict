@@ -1,4 +1,5 @@
 ---
+
 title: "John Deere Original Equipment Mower Blade Kit #GY20850"
 seo_title: "John Deere Original Equipment Mower Blade Kit #GY2 Review"
 meta_description: "Our full john deere original equipment mower blade kit #gy20850 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B003R2FH0G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tk67sfz2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When a replacement part costs more than the generic option, you deserve proof it's worth the premium. For the John Deere GY20850 blade kit, that proof shows up in your lawn's finish — and in how often you don't have to sharpen.

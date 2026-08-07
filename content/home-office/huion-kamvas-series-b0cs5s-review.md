@@ -1,4 +1,5 @@
 ---
+
 title: "HUION Kamvas Series"
 seo_title: "HUION Kamvas Series Review: Verdict | TSV"
 meta_description: "Our full huion kamvas series review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CS5SHJRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T4QkT1sxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a digital artist shopping on a budget, you've seen the HUION Kamvas name everywhere. The series has become the default answer to "What's a good pen display that won't bankrupt me?" With a 4.2-star average across 210 Amazon ratings, the consensus is clear: this is a serious tool for working illustrators, not a toy. But it's not without its quirks.

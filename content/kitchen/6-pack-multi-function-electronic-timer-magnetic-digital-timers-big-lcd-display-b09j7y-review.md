@@ -1,4 +1,5 @@
 ---
+
 title: "6 Pack Multi-Function Electronic Timer - Magnetic Digital Ti"
 seo_title: "6 Pack Multi-Function Electronic Timer Review (2026) | Magnetic Digital"
 meta_description: "Honest 6 Pack Multi-Function Electronic Timer review: magnetic back, big LCD, 220 ratings at 4.4 stars. Tested for kitchen, workouts, study. Buy or skip?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J7YKK43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714iz5yzYuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six timers for roughly the price of two single units — genuine value if you need multiple simultaneous timers"
   - "Strong magnetic back holds securely on stainless steel fridges and oven doors without slipping"
   - "Large 1.5-inch LCD digits readable from across the kitchen, even in low light"
-cons:
+cons: 
   - "Buttons require firm pressure — not ideal if you have arthritis or mobility issues in your hands"
   - "No backlight; the LCD relies on ambient light, so you'll struggle in dim pantries"
   - "Volume on the alarm is modest; may not cut through loud cooking noises like a vent hood or music"
+
 ---
 
 If you've ever juggled a roast, a batch of hard-boiled eggs, and a bread dough proofing simultaneously, you already know the pain of a single timer. This 6-pack from the "Magnetic Digital" line attacks that problem head-on. The math is simple: six timers for roughly the price of two name-brand singles. But does the quality hold up? After testing these for three weeks in a working kitchen, here's the honest breakdown.

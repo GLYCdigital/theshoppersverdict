@@ -1,4 +1,5 @@
 ---
+
 title: "CP1300 Ink Cassette Compatible with Canon KP-108IN Color Ink"
 seo_title: "CP1300 Ink Cassette (KP-108IN Compatible) Review — 2026 inch"
 meta_description: "Honest review of the CP1300 ink cassette compatible with Canon KP-108IN. Real-world print quality, cost per print, and compatibility tested."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CYC55FTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jRIW8BgzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine dye-sublimation chemistry — prints match Canon OEM color accuracy within ~5% delta-E"
   - "Full 108-sheet capacity with embedded ribbon, so no mid-roll swap failures"
   - "Works flawlessly in both CP1300 and CP1500 without firmware errors or 'incompatible ink' warnings"
-cons:
+cons: 
   - "No protective clear coat layer — glossy prints scuff more easily than Canon's original KP-108IN"
   - "Color gamut skews slightly warm in skin tones; noticeable if you print portraits side-by-side with OEM"
+
 ---
 
 **Opening Hook**

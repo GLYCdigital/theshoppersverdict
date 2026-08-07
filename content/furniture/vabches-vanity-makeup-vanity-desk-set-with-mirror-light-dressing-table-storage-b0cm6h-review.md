@@ -1,4 +1,5 @@
 ---
+
 title: "Vabches Vanity, Makeup Vanity Desk Set with Mirror & Light, "
 seo_title: "Vabches Vanity, Makeup Vanity Desk Set with Mirror Review"
 meta_description: "Our full vabches vanity, makeup vanity desk set with mirror & light,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CM6HJ3BF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w1KE8mexL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Vabches Vanity is the kind of furniture that makes you wonder why you ever did your makeup hunched over a bathroom sink. It's a complete dressing table package — desk, mirror, lighting, and storage — that's clearly designed for people who take their beauty routine seriously but don't want to drop $800 on a Pottery Barn equivalent.

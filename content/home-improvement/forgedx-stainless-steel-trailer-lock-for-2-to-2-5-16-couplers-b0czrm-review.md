@@ -1,4 +1,5 @@
 ---
+
 title: "FORGEDX Stainless Steel Trailer Lock for 2 inch  to 2-5/16 inch  Coupl"
 seo_title: "FORGEDX Trailer Lock Review: Solid 2 inch –2-5/16 inch  Coupler Security"
 meta_description: "FORGEDX stainless steel trailer lock review: fits 2 inch –2-5/16 inch  couplers, resists weather & prying. Real buyer feedback, pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CZRMSXWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710-CxkE45L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined 304 stainless steel body resists rust and corrosion far better than zinc or painted locks"
   - Universal fit covers both 2 inch " and 2-5/16 inch " coupler sizes without needing adapters
   - Shrouded keyway and 5/16 inch " hardened steel locking pin deter prying and bolt cutters
-cons:
+cons: 
   - "Key can stick when dirt or grit gets into the cylinder; needs periodic lubrication"
   - Tight fit on some 2-5/16 inch " couplers — if your coupler has thick paint or powder coating, you might need to file it down
+
 ---
 
 **If you tow anything more valuable than a rusted yard cart, you need a coupler lock that actually slows down a thief.** Most cheap locks are made of pot metal that shatters with one hammer hit. The FORGEDX stainless steel trailer lock is a different animal — but it's not without quirks.

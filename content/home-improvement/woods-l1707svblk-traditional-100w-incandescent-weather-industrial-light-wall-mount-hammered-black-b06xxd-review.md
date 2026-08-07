@@ -1,4 +1,5 @@
 ---
+
 title: "Woods L1707SVBLK Traditional 100W Incandescent Weather Indus"
 seo_title: "Woods L1707SVBLK Traditional 100W Incandescent Wea Review"
 meta_description: "Our full woods l1707svblk traditional 100w incandescent weather indus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B06XXDQR3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y-6eS7lTL._AC_SL1194_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Woods L1707SVBLK doesn't try to be a design centerpiece. It's a workhorse outdoor light built for decades of service, and that's exactly why it holds a 4.5-star average across 225 ratings. If you need dependable illumination over a garage door, back porch, or workshop entrance without paying boutique lighting prices, this is the fixture to beat.

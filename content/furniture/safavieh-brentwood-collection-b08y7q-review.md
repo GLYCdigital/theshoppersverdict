@@ -1,4 +1,5 @@
 ---
+
 title: "Safavieh Brentwood Collection"
 seo_title: "Safavieh Brentwood Collection Review: Verdict | TSV"
 meta_description: "Our full safavieh brentwood collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08Y7Q1G79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1YkDoBBg8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Safavieh Brentwood Collection has carved out a solid reputation on Amazon — 4.2 stars across 210 ratings is nothing to sneeze at in the furniture category.** But what does that rating actually mean for you, the person about to drop real money on this piece? I dug through the buyer feedback, analyzed the construction details, and pulled the honest truth from hundreds of verified purchases.

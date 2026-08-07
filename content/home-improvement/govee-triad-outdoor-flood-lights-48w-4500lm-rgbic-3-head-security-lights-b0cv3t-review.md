@@ -1,4 +1,5 @@
 ---
+
 title: "Govee Triad Outdoor Flood Lights, 48W 4500LM RGBIC 3 Head Se"
 seo_title: "Govee Triad Outdoor Flood Lights, 48W 4500LM RGBIC Review"
 meta_description: "Our full govee triad outdoor flood lights, 48w 4500lm rgbic 3 head se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CV3TW1KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710F2VvsT9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of floodlights that either blind you with stark white light or put out less illumination than a decent flashlight, the Govee Triad deserves a serious look. This 48W, 4500-lumen RGBIC three-head unit is trying to do something most outdoor lights don't: combine serious security lighting with customizable color effects. Here's whether it actually pulls it off.

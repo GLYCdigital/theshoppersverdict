@@ -1,4 +1,5 @@
 ---
+
 title: "DRATO Dog House Indoor Outdoor for Small to Large Sized Dogs"
 seo_title: "DRATO Dog House Review: Indoor & Outdoor Use (2026)"
 meta_description: "Honest DRATO Dog House review: Is this indoor/outdoor shelter right for your pup? Read pros, cons, real user feedback, and sizing advice before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F8Q7LNPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8140wR-n1TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-free assembly with interlocking panels that snap together in under 10 minutes"
   - "Removable roof and elevated floor make cleaning and hosing out genuinely easy"
   - "Weather-resistant HDPE plastic holds up in rain and sun without warping or fading"
-cons:
+cons: 
   - "Size chart runs small — measure your dog's length nose-to-tail and add 4-6 inches"
   - "Lightweight build can shift on hard surfaces during strong winds unless anchored"
+
 ---
 
 **The DRATO Dog House: The First Thing to Know Before You Buy**

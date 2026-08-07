@@ -1,4 +1,5 @@
 ---
+
 title: "Yafylly Outdoor Dog Kennel - Outside Dog Kennel with Roof,La"
 seo_title: "Yafylly Outdoor Dog Kennel - Outside Dog Kennel wi Review"
 meta_description: "Our full yafylly outdoor dog kennel - outside dog kennel with roof,la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FS1JLGZW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nLhaYQqML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced outdoor dog kennels lately, you know the drill: anything with a roof starts around $300, and the cheap ones bend in the first windstorm. The Yafylly Outdoor Dog Kennel sits in that crowded middle ground — a roofed, galvanized steel enclosure that's trying to be the sensible choice. After digging through 204 ratings and the pattern of customer experiences, here's the real picture.

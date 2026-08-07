@@ -1,4 +1,5 @@
 ---
+
 title: "SKIL 2.8 Amp 9 In. 2-Speed Benchtop Band Saw for Woodworking"
 seo_title: "SKIL 2.8 Amp 9 In. 2-Speed Benchtop Band Saw for W Review"
 meta_description: "Our full skil 2.8 amp 9 in. 2-speed benchtop band saw for woodworking review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BFR2BJQP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51TqGet9l3L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for a benchtop band saw, the SKIL 2.8 Amp 9-Inch is probably on your radar. It sits in that awkward middle ground — not a toy, not a pro-grade machine. But after digging through 220 ratings and the spec sheet, here’s the honest breakdown of where this saw earns its keep and where it will frustrate you.

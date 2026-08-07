@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Pendant Light Fixtures, Handcrafted Art Glass Hangi"
 seo_title: "EDISHINE Pendant Light Review: Art Glass Hanging Fixture"
 meta_description: "EDISHINE pendant light review: handcrafted art glass hanging fixture. See pros, cons, buyer feedback, and if this 4.7-star light fits your space."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDDBLNQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71osFPUm6PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Hand-blown art glass shade with visible color depth that shifts in natural vs. artificial light"
   - "Full 3-year replacement warranty — rare at this price point"
   - "Dimmable with standard LED bulbs; works with most wall dimmers"
-cons:
+cons: 
   - "No bulb included — factor in an extra $8–15 for a quality dimmable LED"
   - "Glass shade is heavy (approx. 4.2 lbs); you'll want a solid ceiling box, not a flimsy plastic one"
+
 ---
 
 The EDISHINE pendant isn’t the cheapest glass fixture on Amazon. It’s not the most famous brand either. But after digging through 235 ratings and studying the construction, here’s the honest take: this is one of the few sub-$100 pendants that actually looks like it cost three times more.

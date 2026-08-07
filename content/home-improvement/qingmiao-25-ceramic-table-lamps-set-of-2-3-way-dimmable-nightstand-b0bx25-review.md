@@ -1,4 +1,5 @@
 ---
+
 title: "Qingmiao 25'' Ceramic Table Lamps Set of 2, 3-Way Dimmable N"
 seo_title: "Qingmiao 25'' Ceramic Table Lamps Set of 2, 3-Way  Review"
 meta_description: "Our full qingmiao 25'' ceramic table lamps set of 2, 3-way dimmable n review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX25T8D9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CHFxWstiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the $150-per-lamp boutique markup. These deliver 85% of the look at half the cost — if you understand what you're buying.**

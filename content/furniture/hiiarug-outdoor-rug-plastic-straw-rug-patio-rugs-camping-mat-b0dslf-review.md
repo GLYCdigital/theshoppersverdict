@@ -1,4 +1,5 @@
 ---
+
 title: "HiiARug Outdoor Rug Plastic Straw Rug Patio Rugs Camping Mat"
 seo_title: "HiiARug Outdoor Rug Plastic Straw Rug Patio Rugs C Review"
 meta_description: "Our full hiiarug outdoor rug plastic straw rug patio rugs camping mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSLF7DHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91LoDo0TNmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what the HiiARug Outdoor Rug is not: it's not a soft, cozy indoor rug. It's not something you'll want to nap on. But if you need a rugged, weatherproof surface for a deck, campsite, or beach setup, this plastic straw mat earns its keep. With a 4.4-star average across 220 ratings, the feedback is consistently positive—and the few complaints that pop up are worth knowing before you buy.

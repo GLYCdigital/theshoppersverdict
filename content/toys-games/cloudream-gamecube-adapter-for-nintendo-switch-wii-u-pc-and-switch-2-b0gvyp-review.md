@@ -1,4 +1,5 @@
 ---
+
 title: "CLOUDREAM Gamecube Adapter for Nintendo Switch/Wii U/PC and"
 seo_title: "CLOUDREAM Gamecube Adapter Review: Switch & PC (2026)"
 meta_description: "CLOUDREAM Gamecube Adapter review: Does this 4-port USB adapter deliver lag-free Smash on Switch, Wii U, and PC? We tested build quality, compatibility, and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVYPBP17/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/51FBFGx8tlL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Plug-and-play on Switch with zero setup — no button-mapping or firmware tweaks needed"
   - "Two USB cables (data + power) eliminate the input lag issues that plague single-cable knockoffs"
   - "Solid plastic housing with rubberized bottom that stays put during intense Smash sessions"
-cons:
+cons: 
   - "PC compatibility requires a separate driver download — not truly plug-and-play on Windows"
   - "Cable is a fixed 5.9 feet; if your TV stand is far from the couch, you'll need an extension"
   - "No rumble support on Switch despite the controller having a motor — disappointing for Mario Kart"
+
 ---
 
 **The GameCube controller is still the gold standard for Smash Bros. — and this adapter is the bridge.**

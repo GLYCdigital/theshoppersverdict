@@ -1,4 +1,5 @@
 ---
+
 title: "Hasbro Gaming Clue: Wizarding World Harry Potter Edition Mystery Board Game for B09MLX Review"
 seo_title: "Clue Harry Potter Edition Review: A Magical Mystery Worth Playing"
 meta_description: "Our Clue Harry Potter Edition review covers gameplay, build quality, and who should buy it. See if this 4.7-star mystery game is worth your Galleons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09MLXMSJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ejhT50X0L._AC_US40_.jpg"
-pros:
+pros: 
   - "Reskins classic Clue mechanics onto a fully realized Hogwarts map — the locations (Great Hall, Forbidden Forest, Divination Tower) genuinely alter strategy"
   - "Includes 9 familiar characters and 6 murder weapons reimagined as magical items — the Elder Wand, Time-Turner, and Venomous Tentacula add thematic cohesion"
   - "Accommodates 3-5 players with solid replay value; the variable 'secret passages' and room cards keep repeat plays fresh"
-cons:
+cons: 
   - "The card quality is noticeably thinner than standard Clue decks — expect bending after a handful of enthusiastic game nights"
   - "No expansion content or alternate scenarios; once you've solved the core mystery a dozen times, the puzzle loses its bite"
+
 ---
 
 ## Is This Clue Actually Different, or Just a Reskin?

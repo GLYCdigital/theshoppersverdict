@@ -1,4 +1,5 @@
 ---
+
 title: "16 Pack Led Fairy Lights Battery Operated String Lights 10 F"
 seo_title: "16 Pack LED Fairy Lights Review: Battery-Operated Value"
 meta_description: "Honest review of the 16-pack LED fairy lights. Are battery-operated string lights worth it? See real pros, cons, and buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B14K8WXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rBwuefWjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 individual 10-foot strands means 160 total feet of lighting for the price of a single premium set"
   - "Battery-operated design allows placement anywhere without hunting for outlets or extension cords"
   - "Warm white LEDs provide consistent, flicker-free illumination that reads as classic fairy light glow"
-cons:
+cons: 
   - "Batteries not included — you'll need 32 AA batteries for all 16 strands, which adds hidden cost"
   - "Individual on/off switches per strand means setup and takedown involves 16 separate controls"
   - "Wire is thin and delicate; rough handling or tight bends can snap connections permanently"
+
 ---
 
 ## Sixteen strands. One smart play.

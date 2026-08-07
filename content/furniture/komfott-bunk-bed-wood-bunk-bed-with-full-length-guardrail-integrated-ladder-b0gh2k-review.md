@@ -1,4 +1,5 @@
 ---
+
 title: "KOMFOTT Bunk Bed, Wood Bunk Bed with Full-Length Guardrail &"
 seo_title: "KOMFOTT Bunk Bed, Wood Bunk Bed with Full-Length G Review"
 meta_description: "Our full komfott bunk bed, wood bunk bed with full-length guardrail & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GH2KBY8M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Axwe0xb4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Komfott Bunk Bed: A Promising Frame With One Big Unknown**

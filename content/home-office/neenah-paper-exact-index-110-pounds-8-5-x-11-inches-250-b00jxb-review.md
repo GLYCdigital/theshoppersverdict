@@ -1,4 +1,5 @@
 ---
+
 title: "Neenah Paper Exact Index, 110-Pounds, 8.5 x 11 Inches, 250 S"
 seo_title: "Neenah Paper Exact Index, 110-Pounds, 8.5 x 11 Inc Review"
 meta_description: "Our full neenah paper exact index, 110-pounds, 8.5 x 11 inches, 250 s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00JXBB3D0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QhdRyj+BL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever grabbed a "premium" card stock only to watch it flop like wet cardboard in your printer tray, you know the frustration. The Neenah Paper Exact Index, 110-Pounds, 8.5 x 11 Inches, 250 S is a different animal. This is the paper you reach for when you need something that actually *feels* like a finished product — not a half-hearted flyer.

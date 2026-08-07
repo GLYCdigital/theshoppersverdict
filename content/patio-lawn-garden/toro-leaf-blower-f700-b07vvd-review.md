@@ -1,4 +1,5 @@
 ---
+
 title: "Toro Leaf Blower F700"
 seo_title: "Toro Leaf Blower F700 Review: Verdict | TSV"
 meta_description: "Our full toro leaf blower f700 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VVDYYBF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YnrYeSs+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about the cordless leaf blower market: most of them are toys. They push dry grass around a driveway and call it a day. The Toro F700 is not that. This is the first cordless blower I've used that genuinely makes me question why anyone buys a gas backpack unit for a suburban lot.

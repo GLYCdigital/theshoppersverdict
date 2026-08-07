@@ -1,4 +1,5 @@
 ---
+
 title: "156Pcs Glow In The Dark Party Supplies for Kids/Adults, 4th"
 seo_title: "Glow in the Dark Party Supplies Review: 156-Piece Set (2026)"
 meta_description: "Honest review of the 156Pcs glow in the dark party supplies set. See what's inside, how long it glows, and who should buy it before your 4th of July bash."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSHHTWDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qQfRZ8XAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "156 pieces breaks down to roughly 34 glow sticks plus 120+ accessories — enough for 15-20 guests without rationing"
   - "Accessories include themed glasses, star wands, and necklaces that actually fit adults, not just kids"
   - "Glow duration holds strong for 6-8 hours in testing, per multiple verified reviews"
-cons:
+cons: 
   - "No batteries required, but the glow sticks are single-use — you can't recharge them for a second event"
   - "Connectors for bracelets are thin plastic and will snap if you yank them tight; need gentle handling"
+
 ---
 
 Let me be straight with you: most glow-in-the-dark party packs are glorified trash bags full of flimsy plastic that dies before the fireworks start. This 156-piece set from the 4th of July line is different — but it's not perfect. Here's what you need to know before you click buy.

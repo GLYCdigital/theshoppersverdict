@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE Wooden LED Corner Floor Lamp, Minimalist Dimmable A"
 seo_title: "EDISHINE Wooden LED Corner Floor Lamp Review: Worth It?"
 meta_description: "Honest EDISHINE wooden LED corner floor lamp review: build quality, dimming performance, color modes, and who should buy this minimalist light."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX2496T1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HpwPjdHnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid acacia wood veneer over a sturdy steel frame — feels heavier and more premium than the price suggests"
   - "Full 7-color RGB spectrum plus tunable white (2700K–6500K), all dimmable from 5% to 100% via the included remote"
   - "Triangle footprint fits snugly into corners without wasting floor space — base is only 11.8 inches wide"
-cons:
+cons: 
   - "Remote requires line-of-sight to the IR receiver on the lamp head; if you hide the lamp behind a sofa, you'll be reaching around to aim it"
   - "The touch control on the pole is finicky — one tap turns on, but holding it to dim often skips levels instead of ramping smoothly"
+
 ---
 
 ## The Corner Lamp That Actually Earns Its Corner

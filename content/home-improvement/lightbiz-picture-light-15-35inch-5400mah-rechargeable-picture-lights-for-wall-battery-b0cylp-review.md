@@ -1,4 +1,5 @@
 ---
+
 title: "Lightbiz Picture Light, 15.35inch 5400mAh Rechargeable Pictu"
 seo_title: "Lightbiz Picture Light, 15.35inch 5400mAh Recharge Review"
 meta_description: "Our full lightbiz picture light, 15.35inch 5400mah rechargeable pictu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0CYLPTQ21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ge8hRPXRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most picture lights are either cheap battery-powered toys that die in a week, or hardwired fixtures that require an electrician and a hole in your wall. The Lightbiz 15.35-inch rechargeable sits in the middle, and after digging through 250 ratings (a perfect 5.0 average, by the way), it looks like they've actually cracked the code. Here's the breakdown.

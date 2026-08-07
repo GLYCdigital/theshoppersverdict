@@ -1,4 +1,5 @@
 ---
+
 title: "furrybaby Dog Bed Mat Soft Crate Mat with Anti-Slip Bottom M"
 seo_title: "furrybaby Dog Bed Mat Review: Soft Crate Mat With Anti-Slip Base"
 meta_description: "Read our honest furrybaby Dog Bed Mat review. Is the anti-slip crate mat worth $13.29? We break down durability, cleaning, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07MV4YF2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61leXW0LTqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Grippy rubberized bottom that actually stays put on slick crate trays and hardwood floors"
   - "Plush 2-inch loft provides genuine cushioning for senior dogs and thin-coated breeds"
   - "Folds flat for transport and survives machine washing without losing its shape"
-cons:
+cons: 
   - "The 'M' size runs small — measure your crate tray before ordering, as it tops out around 29 inches"
   - "Top fabric is a fur magnet; lighter colors show hair and dirt quickly"
   - "Not chew-proof; determined teething puppies will shred the corners within days"
+
 ---
 
 If you've ever watched your dog do the "crate shuffle" — that sad dance where the bed slides sideways every time they turn around — you already know why the furrybaby Dog Bed Mat exists. This $13.29 medium-size mat promises to stay put with an anti-slip bottom, and for the most part, it delivers.

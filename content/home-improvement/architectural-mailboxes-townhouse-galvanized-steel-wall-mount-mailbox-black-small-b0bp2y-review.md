@@ -1,4 +1,5 @@
 ---
+
 title: "ARCHITECTURAL MAILBOXES Townhouse Galvanized Steel, Wall-Mou"
 seo_title: "Architectural Mailboxes Townhouse Wall Mount Review (2026)"
 meta_description: "Honest review of the Architectural Mailboxes Townhouse galvanized steel wall-mount mailbox. Build quality, capacity, installation tips & who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BP2YPBMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51xPgVIGPlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gauge-thick galvanized steel body with a powder-coated finish that survives years of sun, rain, and snow without rusting or chalking"
   - "Spring-loaded front door snaps shut securely — no more mail blowing out or rain getting in because someone left the door ajar"
   - "Generous interior capacity fits legal-size envelopes and small packages flat, unlike skinny tube-style boxes that crush your mail"
-cons:
+cons: 
   - "Mounting hardware included is adequate but not premium — the screws feel a bit soft; buy better stainless fasteners for coastal or high-wind areas"
   - "The black finish shows water spotting and dust quickly; if you're obsessive about curb appeal, you'll be wiping it down monthly"
+
 ---
 
 # The Mailbox That Actually Looks Like You Care

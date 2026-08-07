@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Trinsic 17 Series Dual-Function Shower Trim Kit"
 seo_title: "Delta Trinsic 17 Series Shower Trim Kit Review (2026)"
 meta_description: "Honest Delta Faucet Trinsic 17 Series shower trim kit review: dual-function valve, build quality, installation quirks, and who should buy it."
@@ -11,15 +12,16 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBWNXXCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Diamond Seal technology eliminates the need for rubber washers or greases that wear out over time"
   - "Dual-function valve lets you switch between pressure-balanced and volume-control modes without buying a second rough-in"
   - "In2ition hand shower compatibility with the included diverter adds real flexibility for rinsing or washing pets"
   - "Solid all-metal construction with a clean, rectangular Trinsic aesthetic that matches the rest of the line"
-cons:
+cons: 
   - "You must purchase the rough-in valve (R10000 series) separately — the trim kit is just the faceplate, handle, and diverter"
   - "The dual-function mode requires a specific cartridge orientation; installers who skip the manual often wire it backward"
   - "Chrome finish shows water spots quickly; expect to wipe it down if you have hard water"
+
 ---
 
 # Delta Faucet Trinsic 17 Series Dual-Function Shower Trim Kit Review

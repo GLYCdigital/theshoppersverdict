@@ -1,4 +1,5 @@
 ---
+
 title: "MOYOMAJO 5-5/16 Inch Pendant Light Canopy Kit"
 seo_title: "MOYOMAJO 5-5/16 Inch Pendant Light Canopy Kit Review: Ver"
 meta_description: "Our full moyomajo 5-5/16 inch pendant light canopy kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DK8WZG8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mVd9ZSJfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever replaced a boob light or hung a pendant only to find the canopy won't cover the mess of drywall patches and paint lines left behind, you know the struggle. The MOYOMAJO 5-5/16 Inch Pendant Light Canopy Kit is aimed squarely at that problem. It's a simple piece of hardware — but it does its one job well enough to earn a 4.6-star average from 229 buyers.

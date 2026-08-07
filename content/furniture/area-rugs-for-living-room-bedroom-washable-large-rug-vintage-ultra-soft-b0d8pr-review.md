@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rugs for Living Room Bedroom: Washable Large Rug Vintag"
 seo_title: "Washable Vintage Area Rug Review: Large Living Room Rug"
 meta_description: "Honest review of the washable vintage large area rug for living room & bedroom. Real pros, cons, and buying advice before you spend."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8PRL7CX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A191ok6-EZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without fraying or losing pile density"
   - "Vintage-inspired pattern hides everyday dirt and pet hair far better than solid-color rugs"
   - "Non-slip backing holds firm on hardwood and tile, even in high-traffic doorways"
-cons:
+cons: 
   - "Thinner pile than traditional plush rugs — not ideal if you want deep cushioning underfoot"
   - "Pattern options are limited to vintage/bohemian aesthetics; no minimalist or modern geometric designs"
+
 ---
 
 Let’s cut through the listing fluff. A washable rug sounds great until you actually try to cram a 9x12 into a home washer. This vintage-style area rug genuinely delivers on that promise, but there are a few things worth knowing before you hit "add to cart."

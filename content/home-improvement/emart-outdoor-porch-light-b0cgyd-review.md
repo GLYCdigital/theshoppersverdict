@@ -1,4 +1,5 @@
 ---
+
 title: "EMART Outdoor Porch Light"
 seo_title: "EMART Outdoor Porch Light Review: Honest 2026 Verdict"
 meta_description: "Is the EMART Outdoor Porch Light worth $26? Our hands-on review covers brightness, durability, and installation. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CGYDLQ9N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I1uMVKalL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with weather-resistant finish rated for wet locations"
   - "Warm 3000K LED output that's bright enough for entryways but not harsh"
   - "Tool-free installation with sliding mounting plate and pre-wired connections"
-cons:
+cons: 
   - "Included bulbs are non-replaceable — when the LED dies, you replace the whole fixture"
   - "Glass shade is thin and prone to chipping if overtightened during installation"
   - "Motion sensor models have a fixed 3-minute timer with no adjustment option"
+
 ---
 
 The EMART Outdoor Porch Light sits in a crowded category where most fixtures under $30 are either flimsy plastic knockoffs or dim builder-grade boxes. At $25.99, this one actually tries harder. The die-cast aluminum housing is the first clue — it's got real heft, not that hollow cheapness you feel immediately when lifting a bargain-bin fixture. For the price, it's a legitimate contender, but there are a few things you should know before you buy.

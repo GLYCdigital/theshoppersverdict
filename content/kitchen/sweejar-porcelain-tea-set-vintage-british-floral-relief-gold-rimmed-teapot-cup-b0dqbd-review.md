@@ -1,4 +1,5 @@
 ---
+
 title: "Sweejar Porcelain Tea Set, Vintage British Floral Relief Gol"
 seo_title: "Sweejar Porcelain Tea Set, Vintage British Floral  Review"
 meta_description: "Our full sweejar porcelain tea set, vintage british floral relief gol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQBD7Y6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fWjzsTiqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the vintage tea set you've been scrolling for, or another Amazon letdown?

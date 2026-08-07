@@ -1,4 +1,5 @@
 ---
+
 title: "Coin Envelopes, Catalog Open End Cash Envelopes with Gummed"
 seo_title: "Coin Envelopes Review: Open End Cash Envelopes w/ Gummed Seal"
 meta_description: "Honest review of catalog open end coin envelopes with gummed seal. Tested for durability, sizing, and real-world use. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GN9YXGTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p1ynPH0IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Gummed seal activates reliably with just a damp sponge — no licking, no tearing, no tape needed"
   - "Open-end design lets you slide coins or cash in without folding or fumbling"
   - "Kraft paper is thick enough to hold rolled coins without bulging or splitting at the seams"
-cons:
+cons: 
   - "Gum can be finicky if you over-wet it — too much moisture causes the flap to curl and stick unevenly"
   - "No window or labeling area printed on the envelope — you'll need a pen or label maker for organization"
+
 ---
 
 Let me be blunt: I've tested dozens of coin envelopes over the years, and most are either too flimsy to hold a roll of quarters or sealed with adhesive that fails when you actually need it. These catalog open-end envelopes from the B0GN9YXGTM listing sit in a different category entirely. They're the kind of product you don't think about until you're standing at a bank counter with a handful of loose change, and suddenly they're the most important thing in your life.

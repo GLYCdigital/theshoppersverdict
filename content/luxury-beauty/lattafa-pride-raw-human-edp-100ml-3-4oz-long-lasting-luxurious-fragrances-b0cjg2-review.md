@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Pride Raw Human EDP 100Ml (3.4Oz), Long Lasting & Lu"
 seo_title: "Lattafa Pride Raw Human EDP 100Ml (3.4Oz), Long La Review"
 meta_description: "Our full lattafa pride raw human edp 100ml (3.4oz), long lasting & lu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CJG24J67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41E8pmNS7lL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Bold Middle Finger to Safe Fragrance Choices

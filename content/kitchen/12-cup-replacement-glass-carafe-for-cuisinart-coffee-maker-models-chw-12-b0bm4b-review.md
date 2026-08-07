@@ -1,23 +1,25 @@
 ---
+
 title: "12-Cup Replacement Glass Carafe for Cuisinart Coffee Maker M"
 seo_title: "12-Cup Cuisinart Carafe Review: Durable Glass Replacement (2026)"
 meta_description: "Honest review of the 12-cup replacement glass carafe for Cuisinart models CHW-12 and B0BM4B. Read about fit, durability, and pour quality before buying."
 slug: "12-cup-replacement-glass-carafe-for-cuisinart-coffee-maker-models-chw-12-b0bm4b-review"
 image_alt: "12-cup replacement glass carafe for Cuisinart coffee makers sitting on a warming plate"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 21.99  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: 21.99
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BM4B3VCQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61QarWt4xML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "True OEM-style fit for Cuisinart CHW-12 and B0BM4B models — no wobble on the warming plate"  
   - "Thick borosilicate glass handles thermal shock better than the original carafe"  
   - "Ergonomic handle and drip-free spout design pour cleanly even when full"  
-cons:  
+cons: 
   - "No measurement markings on the glass — you're guessing volume below the 12-cup line"  
   - "Lid is not fully airtight; coffee can oxidize faster if left sitting for hours"
+
 ---
 
 If you’ve shattered the glass carafe that came with your Cuisinart 12-cup brewer, you already know the drill: OEM replacements run $35–$50, and cheap knockoffs often wobble on the warming plate or leak from the spout. This $21.99 replacement from B0BM4B sits squarely in the middle — and based on 229 ratings averaging 4.6 stars, it’s earning its keep. But is it a true drop-in replacement, or are you trading one headache for another? I tested it against a CHW-12 model to find out.

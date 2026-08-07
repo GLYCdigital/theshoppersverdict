@@ -1,4 +1,5 @@
 ---
+
 title: "Freestanding Utility Sink with Two Handle Chrome Faucet - 32 inch"
 seo_title: "Freestanding Utility Sink Review: 32-Inch Deep Basin (2026)"
 meta_description: "Honest review of the 32-inch freestanding utility sink with chrome faucet. Real user feedback on build quality, installation, and drainage. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPT9XHXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61weym4HBIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "32-inch deep basin swallows buckets, muddy boots, and large pans without splashing back"
   - "Freestanding legs with adjustable feet level on uneven garage or laundry room floors"
   - "Two-handle chrome faucet gives precise hot/cold control with standard 3/8-inch supply connections"
-cons:
+cons: 
   - "Plastic basin can flex slightly under heavy weight — avoid standing inside it or dropping cast-iron tools"
   - "Faucet handles feel light-duty; don't expect commercial-grade durability from the included chrome unit"
+
 ---
 
 Let's cut through the listing photos and get to what matters: Is this 32-inch freestanding utility sink actually going to hold up in your garage, laundry room, or workshop? With 220 ratings averaging 4.4 stars, it's clearly popular. But here's the honest breakdown.

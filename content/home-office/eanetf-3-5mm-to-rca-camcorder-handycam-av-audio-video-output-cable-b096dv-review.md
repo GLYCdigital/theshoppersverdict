@@ -1,4 +1,5 @@
 ---
+
 title: "Eanetf 3.5mm to RCA Camcorder Handycam AV Audio Video Output"
 seo_title: "Eanetf 3.5mm to RCA AV Cable Review: Is It Worth It?"
 meta_description: "Eanetf 3.5mm to RCA camcorder cable review: build quality, compatibility, and real buyer feedback. See if this AV output cable is right for you."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B096DVP5Z6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YFStdLWxS._SL1500_.jpg"
-pros:
+pros: 
   - "Three shielded RCA connectors (video + stereo audio) deliver clean signal transfer without cross-talk for legacy camcorder playback"
   - "Flexible 4-foot cable with strain-relief molded ends holds up to frequent plugging/unplugging in studio or desk setups"
   - "Universal 3.5mm TRRS tip fits most Sony, Canon, Panasonic, and JVC Handycam AV jacks without adapter hunting"
-cons:
+cons: 
   - "No gold-plated connectors — standard nickel plating can oxidize faster in humid environments over multi-year use"
   - "Cable is on the shorter side (4 ft); you'll need an extension for anything beyond a desktop capture station"
+
 ---
 
 **Review Body**

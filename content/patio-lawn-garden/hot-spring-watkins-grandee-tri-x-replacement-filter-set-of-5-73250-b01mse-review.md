@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Spring Watkins Grandee Tri-X Replacement Filter Set of 5"
 seo_title: "Hot Spring Watkins Grandee Tri-X Replacement Filte Review"
 meta_description: "Our full hot spring watkins grandee tri-x replacement filter set of 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01MSECMJ0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JTL77p6fL._AC_SL1288_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Hot Spring Grandee, you already know the filter situation is non-negotiable. These aren't universal-fit cartridges you can swap from a generic brand without consequences. The Watkins Tri-X filter is the engineered component your spa's circulation system was designed around — and this five-pack is the most cost-effective way to keep a fresh one in rotation all year.

@@ -1,4 +1,5 @@
 ---
+
 title: "CANNI Milky Light Pink Gel Nail Polish, 1Pcs Jelly Nude Pink"
 seo_title: "CANNI Milky Light Pink Gel Polish Review: Jelly Nude Worth It?"
 meta_description: "CANNI Milky Light Pink gel polish review: 4.4★ rated jelly nude. Does it self-level, last, and cure evenly? Real wear test, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DW3ZHJXH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GE3ycYMxL._SL1500_.jpg"
-pros:
+pros: 
   - "Self-levels beautifully — formula smooths out brush strokes within seconds, leaving a glass-like finish even for beginners"
   - "True jelly nude — sheer enough to show a natural nail line but builds to an opaque milky pink in 2–3 coats without looking chalky"
   - "Cures reliably under a 48W lamp in 60 seconds per coat, no tacky spots or under-cured edges in testing"
-cons:
+cons: 
   - "Thin consistency means you'll need 3 coats for full opacity — a single coat looks patchy and streaky on longer nails"
   - "Bottle is small at 8ml, and the brush is narrow; if you have wide nail beds, expect to do three passes per nail"
+
 ---
 
 **Opening Hook: The "My Nails But Better" Polish That Almost Gets It Perfect**

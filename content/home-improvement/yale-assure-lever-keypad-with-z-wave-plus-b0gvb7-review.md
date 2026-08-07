@@ -1,4 +1,5 @@
 ---
+
 title: "Yale Assure Lever Keypad with Z-Wave Plus"
 seo_title: "Yale Assure Lever Keypad with Z-Wave Plus Review: Verdict"
 meta_description: "Our full yale assure lever keypad with z-wave plus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GVB72PXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61J3Kko99RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're building a serious smart home, you already know the dirty secret about most "smart" locks: they're Wi-Fi dependent, cloud-reliant, and become expensive bricks when your internet blips. The Yale Assure Lever Keypad with Z-Wave Plus takes the opposite approach. It's built for hub owners who want local, reliable control without the subscription nonsense. But it's not for everyone — and I'll tell you exactly who should skip it.

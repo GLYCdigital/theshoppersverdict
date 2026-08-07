@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Gel Nail MiniKit-06"
 seo_title: "GAOY Gel Nail MiniKit-06 Review: Verdict | TSV"
 meta_description: "Our full gaoy gel nail minikit-06 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08LZ5TNN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RTaebWEuL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past $50+ gel nail kits wondering if there's a cheaper entry point, the **GAOY Gel Nail MiniKit-06** at $17.99 is the budget-friendly answer — with a few asterisks. This kit has earned a solid 4.2 out of 5 stars from 210 Amazon ratings, and after putting it through real-world testing, I understand both the praise and the grumbles.

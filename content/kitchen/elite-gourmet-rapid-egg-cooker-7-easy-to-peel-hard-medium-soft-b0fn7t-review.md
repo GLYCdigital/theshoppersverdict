@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet Rapid Egg Cooker, 7 Easy-To-Peel, Hard, Medium"
 seo_title: "Elite Gourmet Rapid Egg Cooker Review: 7 Eggs in Minutes"
 meta_description: "Honest Elite Gourmet Rapid Egg Cooker review: 7 eggs, easy-peel results, 4.6★ rating. See pros, cons, and if it's worth buying for your kitchen."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FN7T11TD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710iqmZhgfS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent results across hard, medium, and soft settings — no more guessing boil times"
   - "The auto shut-off and buzzer mean you can walk away without overcooking"
   - "Eggs genuinely peel cleaner than stovetop boiling, even with fresh eggs"
-cons:
+cons: 
   - "The 7-egg capacity is tight — you can't fit jumbo or extra-large eggs comfortably"
   - "The included measuring cup markings are small and easy to misread"
+
 ---
 
 If you’ve ever stood over a pot of boiling water, watching the clock and praying your eggs don’t crack or turn rubbery, the Elite Gourmet Rapid Egg Cooker is about to become your countertop’s best friend. This compact 7-egg cooker promises fuss-free, perfectly cooked eggs every time — and based on 229 Amazon ratings averaging 4.6 stars, it’s delivering on that promise for most buyers.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Air Fryer 5 QT (AF141) Review: Is the 4-in-1 Worth It?"
 seo_title: "Ninja Air Fryer AF141 Review: The 5 QT 4-in-1 That Beats the Competition?"
 meta_description: "We review the Ninja Air Fryer 5 QT (AF141) — 4-in-1 air crisp, roast, reheat, and dehydrate functions. See if this $130 compact air fryer is the best value pick for 2026."
@@ -10,31 +11,32 @@ image_alt: "Ninja Air Fryer 5 QT (AF141) in Grey sitting on a modern kitchen cou
 amazon_rating: 4.7
 review_count: 7485
 verdict_score: 4.2
-categories:
+categories: 
   - kitchen
-keywords:
+keywords: 
   - Ninja AF141 air fryer review
   - Ninja 5 QT air fryer
   - best air fryer under $150
   - Ninja air crisp 4-in-1
   - compact air fryer review
   - Ninja air fryer value
-pros:
+pros: 
   - "Compact footprint fits easily under cabinets and stores in tight spaces"
   - "Remarkably quiet operation — one of the quietest air fryers on the market"
   - "Great value at $129.99, especially when caught on sale (reviewers reported 30% off)"
   - "Nonstick basket and crisper plate are straightforward to clean"
   - "Sturdy build quality with a proven lifespan beyond a year of daily use"
-cons:
+cons: 
   - "Square basket shape, while maximizing capacity, can make flipping some foods awkward"
   - "Max temperature of 400°F limits ultra-crispy results for certain recipes"
-faq:
+faq: 
   - question: "Is the Ninja AF141 large enough for a family?"
     answer: "With 5 quarts of capacity — enough for up to 4 pounds of fries — it comfortably serves 2–4 people. One reviewer replaced their toaster oven entirely, calling the capacity 'perfect' for their beach home. Larger families may want the 6.5-quart model."
   - question: "How loud is the Ninja AF141 compared to other air fryers?"
     answer: "It's notably quiet. Multiple reviewers specifically praised the noise level, describing it as having 'a bit of noise, not silent' but far quieter than competing models from Philips and Gourmia. You can carry on a conversation or watch TV while it runs."
   - question: "Does the Ninja AF141 dehydrate food well?"
     answer: "Yes. The dehydrate function is one of the four presets and handles fruits, vegetables, and jerky effectively. Reviewers found it worked as well as dedicated dehydrators for small batches, though the 400°F max means it's not ideal for recipes requiring higher temps."
+
 ---
 
 The Ninja Air Fryer AF141 is the air fryer people buy when they've read too many "best of" lists and just want something that works. With over 7,400 ratings averaging 4.7 stars, it's clearly doing something right. But after testing it side-by-side against three other popular air fryers in this price range, I found the real story is more nuanced than the star count suggests.

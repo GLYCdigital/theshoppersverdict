@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Halle Bathroom Sink Faucet with Optional Deckplate"
 seo_title: "Moen Halle Bathroom Sink Faucet with Optional Deck Review"
 meta_description: "Our full moen halle bathroom sink faucet with optional deckplate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7LN5RRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HhP-9P9kL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Moen Halle is the faucet equivalent of a tailored suit that comes with an adjustable waistband. It looks classic and expensive, but the real genius is the optional deckplate — a chrome plate that bridges the gap between the two handles, letting you install this on either a 4-inch or 8-inch sink configuration. That's a genuinely smart piece of engineering for anyone who's ever bought a "widespread" faucet only to discover their sink is a centerset.

@@ -1,4 +1,5 @@
 ---
+
 title: "COSFLY Patio Furniture Covers Waterproof, Outdoor 3-Seater S"
 seo_title: "COSFLY Patio Furniture Cover Review: Waterproof 3-Seater"
 meta_description: "Honest COSFLY patio furniture cover review: waterproof 3-seater sofa cover tested for fit, durability & value. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CN2WGFQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51fxTZ+eYES._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced double-stitched seams with taped interior — water stays out even during heavy downpours"
   - "Adjustable hem cords with buckles on all four sides, not just two — snug fit in wind"
   - "Fits 3-seater sofas up to 71 inches wide without looking like a parachute"
-cons:
+cons: 
   - "No air vents — condensation can build up underneath in humid climates"
   - "Material is more medium-weight than 'heavy-duty' as advertised; thin spots near the drawstring"
+
 ---
 
 Let’s cut through the listing photos. You’re shopping for a patio cover because you’re tired of scraping tree sap off cushions every spring. The COSFLY 3-Seater Cover has 210 ratings averaging 4.2 stars, which tells me real buyers are mostly satisfied — but there are patterns in the complaints worth knowing before you click checkout.

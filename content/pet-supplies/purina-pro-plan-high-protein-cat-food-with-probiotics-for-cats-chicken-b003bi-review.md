@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan High Protein Cat Food With Probiotics for Ca"
 seo_title: "Purina Pro Plan High Protein Cat Food With Probiot Review"
 meta_description: "Our full purina pro plan high protein cat food with probiotics for ca review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003BIUJ5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sC-v3HnrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If your cat needs more protein and fewer digestive issues, this is one of the most reliable options at a mainstream price point. But it's not perfect — and for some cats, the kibble size alone will be a dealbreaker.

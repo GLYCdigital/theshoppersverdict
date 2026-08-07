@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Tankless Water Heater, 6000W 220V Instant Hot Water"
 seo_title: "Electric Tankless Water Heater 6000W Review: Worth It?"
 meta_description: "Honest 6000W 220V tankless water heater review: performance, flow rates, installation needs, and who should buy. Real buyer feedback included."
@@ -11,15 +12,16 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DB5JBKBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51B7oX0c7IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Instant hot water with no tank standby heat loss — true on-demand heating"
   - "Compact footprint at roughly 12x8x3 inches, mounts vertically or horizontally"
   - "Digital temperature display with 86-140°F adjustment range"
   - "Includes handheld shower head and hose for multi-purpose use"
-cons:
+cons: 
   - "6000W output limits flow to roughly 1.5 GPM at warm temps — not a whole-house solution"
   - "Requires dedicated 30A 220V circuit; existing wiring will likely need upgrades"
   - "Temperature fluctuates if you run multiple fixtures simultaneously"
+
 ---
 
 **Bottom Line Up Front:** The 6000W 220V tankless water heater is a specialized tool, not a whole-home replacement. If you need point-of-use hot water for a cabin, workshop sink, greenhouse, or RV hookup, it delivers. If you're imagining endless hot showers for a family of four, recalibrate expectations.

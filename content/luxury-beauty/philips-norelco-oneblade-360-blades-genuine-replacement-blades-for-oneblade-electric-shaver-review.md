@@ -1,16 +1,17 @@
 ---
+
 title: "Philips Norelco OneBlade 360 Blades, Genuine Replacement Blades for OneBlade Electric Shaver and Trimmer, Durable Stainless Steel, Trim, Edge and Shave, 3 Pack, QP430/80"
 seo_title: "Philips Norelco OneBlade 360 Blades, Genuine Repla Review"
 meta_description: "Honest philips norelco oneblade 360 blades, gen review based on 10,002+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "philips-norelco-oneblade-360-blades-genuine-replacement-blades-for-oneblade-electric-shaver-review"
 image_alt: "Philips Norelco OneBlade 360 Blades, Genuine Replacement Blades for OneBlade Electric Shaver and Trimmer, Durable Stainl"
-keywords:
+keywords: 
   - "philips norelco oneblade review"
   - "luxury beauty review"
   - "best skincare review"
   - "premium beauty"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Philips Norelco OneBlade 360 Blades well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the Philips Norelco OneBlade 360 Blades?"
@@ -23,13 +24,14 @@ review_count: 10002
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CDQFVY1J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xdQ0Siv8L._SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Easy to set up and use"
   - "Good performance for the price range"
-cons:
+cons: 
   - "Customer Service"
   - "Some durability concerns over time"
+
 ---
 
 If you're shopping for a beauty or skincare product, you've probably noticed the Philips Norelco OneBlade 360 Blades, Genuine.... After combing through 10,002 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

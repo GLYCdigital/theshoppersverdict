@@ -1,4 +1,5 @@
 ---
+
 title: "DeeCoo 3 Piece Ceramic Plant pots Indoor Pots Set with Drain"
 seo_title: "DeeCoo Ceramic Plant Pots Set Review: 3-Piece With Drainage"
 meta_description: "Honest DeeCoo 3-piece ceramic plant pot set review. Real specs, drainage performance, and buyer feedback. See who should buy and who should skip."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09TFM88KG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ghPa0A-aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine ceramic construction with a smooth matte glaze that resists chipping better than terracotta"
   - "Each pot ships with a matching saucer and pre-drilled drainage hole — no drilling or DIY required"
   - "Three graduated sizes stack neatly, giving you a cohesive planter grouping for shelves or windowsills"
-cons:
+cons: 
   - "No rubber stoppers on the saucers, so pots can slide slightly on smooth tables if bumped"
   - "Smaller pot (around 4 inches) is too shallow for plants with deep root systems like most herbs"
+
 ---
 
 Let's be blunt: most ceramic pot sets under $40 are either glazed to look like plastic or so heavy they could double as doorstops. The DeeCoo 3-piece set lands in a sweet spot — it looks like something from a boutique plant shop but costs a fraction of what a single comparable pot would run you at a garden center.

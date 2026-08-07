@@ -1,4 +1,5 @@
 ---
+
 title: "Cube Otamatone Series Otamatone Kirby Version"
 seo_title: "Otamatone Kirby Version Review: Cute or Gimmick?"
 meta_description: "Honest Otamatone Kirby Version review: quirky electronic instrument, 4.6/5 rating. Is it worth $40? Sound quality, build, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B095RJV7H2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ytHWBRQyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Kirby's face is the actual sound-producing membrane — squeeze the cheeks to bend pitch, just like the original Otamatone"
   - "Built-in speaker is surprisingly decent for the size; also has a headphone jack for silent practice"
   - "Runs on 3 AAA batteries (included) and weighs barely 8 ounces — genuinely portable"
-cons:
+cons: 
   - "No volume control — it's either full blast or silent, which gets annoying fast"
   - "The touch strip is narrow; adult fingers will accidentally hit adjacent notes during fast passages"
   - "Nintendo/ HAL Laboratory licensing means you pay a premium over the standard Otamatone for the Kirby skin"
+
 ---
 
 **Is this a real instrument or just a novelty? Both — and that's exactly why it works.**

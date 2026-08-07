@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Night Stand, Accent Side Table and End Table"
 seo_title: "Nathan James Night Stand, Accent Side Table and En Review"
 meta_description: "Our full nathan james night stand, accent side table and end table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BVRSD5TY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KYc1H0XLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about the Nathan James Night Stand: at 4.4 stars from 220 buyers, this isn't a runaway hit, but it's solidly above average. After digging through the feedback and looking at what this table actually offers, here's the real story.

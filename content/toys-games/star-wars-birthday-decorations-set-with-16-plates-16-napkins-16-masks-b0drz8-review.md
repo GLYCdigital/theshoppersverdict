@@ -1,4 +1,5 @@
 ---
+
 title: "Star Wars Birthday Decorations Set | With 16 Plates, 16 Napk"
 seo_title: "Star Wars Birthday Decorations Set | With 16 Plate Review"
 meta_description: "Our full star wars birthday decorations set | with 16 plates, 16 napk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRZ86NHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KevMEW0iL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most licensed party supplies are overpriced cardboard with a character slapped on it. This Star Wars set is slightly better than that — and for a kids' birthday party, that's probably all you need.

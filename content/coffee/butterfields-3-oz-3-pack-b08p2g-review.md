@@ -1,4 +1,5 @@
 ---
+
 title: "Butterfields 3 oz. (3-Pack)"
 seo_title: "Butterfields 3 oz. 3-Pack Review: Ceramic Coffee Mugs"
 meta_description: "Butterfields 3 oz. 3-Pack review: Are these mini ceramic mugs worth it? See real pros, cons, and who should buy them."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08P2GQVJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yV3OE0YNL._SL1500_.jpg"
-pros:
+pros: 
   - "True 3-ounce capacity—espresso shots fit without overflow, unlike many 'small' mugs that run large"
   - "Sturdy ceramic construction with a smooth glaze that handles dishwasher and microwave use"
   - "Three-piece pack offers good value for espresso drinkers or those who need tasting portions"
-cons:
+cons: 
   - "Small size is a dealbreaker for anyone expecting a standard coffee cup—these are strictly for espresso or samples"
   - "No handles on some units reported by buyers, making them awkward for hot drinks"
   - "Color and finish vary slightly between batches, so replacement matching is hit-or-miss"
+
 ---
 
 If you've ever poured a double espresso into a "small" mug only to watch it swim in a sea of ceramic, you know the struggle. The Butterfields 3 oz. 3-Pack solves that specific problem with ruthless precision. These are genuinely tiny cups, not marketing-speak tiny. At 3 fluid ounces each, they're built for espresso shots, Turkish coffee, or the kind of concentrated tasting pours that baristas obsess over.

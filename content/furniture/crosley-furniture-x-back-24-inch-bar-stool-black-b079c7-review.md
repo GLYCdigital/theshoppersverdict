@@ -1,4 +1,5 @@
 ---
+
 title: "Crosley Furniture X-Back 24-inch Bar Stool - Black"
 seo_title: "Crosley X-Back 24 inch Bar Stool Review: Solid Value or Skip?"
 meta_description: "Read our honest Crosley Furniture X-Back 24-inch Bar Stool review. Solid wood, counter-height comfort, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B079C7QKZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hTBE1HUJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame with reinforced X-back design — noticeably sturdier than particleboard stools at similar price points"
   - "24-inch seat height fits standard 36-inch kitchen counters perfectly, with a comfortable 17.5-inch deep seat"
   - "Assembles in under 15 minutes with only four bolts; hardware and Allen wrench included"
-cons:
+cons: 
   - "Black finish shows dust and fingerprints easily; requires regular wiping to look clean"
   - "No footrest padding — the metal bar can feel hard on bare feet after extended sitting"
   - "Seat cushion is thin (1 inch) and firm; not ideal for marathon sitting sessions"
+
 ---
 
 Let me be blunt: most bar stools under $100 are wobbly, hollow, and fall apart within a year. The Crosley X-Back 24-inch stool isn't that — but it's not a premium piece either. Here's what 220 Amazon reviewers (4.4 stars) and my own research tell you about where this stool lands.

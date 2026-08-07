@@ -1,4 +1,5 @@
 ---
+
 title: "Natural Balance L.I.D. Limited Ingredient Diets Chicken & Br"
 seo_title: "Natural Balance L.I.D. Limited Ingredient Diets Ch Review"
 meta_description: "Our full natural balance l.i.d. limited ingredient diets chicken & br review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08W6765DV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WjMuufyXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Natural Balance L.I.D. the answer for your itchy, gassy, or picky dog? The short answer is: maybe, but you need to read the label carefully before committing.**

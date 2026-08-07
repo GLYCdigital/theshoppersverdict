@@ -1,4 +1,5 @@
 ---
+
 title: "IWNTWY Bird Feeder, Heavy Duty Metal Bird Feeders for Outdoo"
 seo_title: "IWNTWY Bird Feeder, Heavy Duty Metal Bird Feeders  Review"
 meta_description: "Our full iwntwy bird feeder, heavy duty metal bird feeders for outdoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GX5SJSTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HaV2iFVxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the IWNTWY Heavy Duty Metal Bird Feeder worth your backyard space? After digging through 215 ratings and the spec sheet, here's the honest breakdown.**

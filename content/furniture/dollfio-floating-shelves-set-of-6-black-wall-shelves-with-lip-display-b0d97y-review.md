@@ -1,4 +1,5 @@
 ---
+
 title: "DOLLFIO Floating Shelves Set of 6, Black Wall Shelves with L"
 seo_title: "DOLLFIO Floating Shelves Set of 6, Black Wall Shel Review"
 meta_description: "Our full dollfio floating shelves set of 6, black wall shelves with l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D97YWD3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cHOkTsVLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **DOLLFIO Floating Shelves Set of 6, Black Wall Shelves with L** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

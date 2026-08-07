@@ -1,4 +1,5 @@
 ---
+
 title: "Gobena Coffee 5lb Fair Trade Organic Certified Peruvian Grou"
 seo_title: "Gobena Coffee 5lb Fair Trade Organic Certified Per Review"
 meta_description: "Our full gobena coffee 5lb fair trade organic certified peruvian grou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01LY6DGF0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41uhJh8ukLL._SX342_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The bulk coffee gamble that actually pays off

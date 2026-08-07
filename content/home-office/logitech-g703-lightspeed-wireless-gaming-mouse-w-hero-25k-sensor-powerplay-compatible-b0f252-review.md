@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech G703 Lightspeed Wireless Gaming Mouse W/Hero 25K Se"
 seo_title: "Logitech G703 Lightspeed Wireless Gaming Mouse W/H Review"
 meta_description: "Our full logitech g703 lightspeed wireless gaming mouse w/hero 25k se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2521CC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31uHbKJYFEL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech G703 Lightspeed sits in an awkward spot: it's marketed as a gaming mouse, but plenty of office workers and creators buy it for the wireless reliability and comfortable shape. After digging through 215 Amazon ratings and the spec sheet, here's the real story.

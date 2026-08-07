@@ -1,4 +1,5 @@
 ---
+
 title: "LUMIPIX Portable Monitor FHD 1080P 300Nits IPS Gaming Monito"
 seo_title: "LUMIPIX Portable Monitor FHD 1080P 300Nits IPS Gam Review"
 meta_description: "Our full lumipix portable monitor fhd 1080p 300nits ips gaming monito review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSVMX8YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dp01hIpHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LUMIPIX Portable Monitor Review: Is This $150 FHD Screen Worth It?

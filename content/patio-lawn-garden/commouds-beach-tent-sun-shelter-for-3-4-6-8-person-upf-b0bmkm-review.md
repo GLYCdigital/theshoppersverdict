@@ -1,4 +1,5 @@
 ---
+
 title: "COMMOUDS Beach Tent Sun Shelter for 3/4/6/8 Person, UPF 50+"
 seo_title: "COMMOUDS Beach Tent Review: UPF 50+ Sun Shelter for Families"
 meta_description: "Our COMMOUDS beach tent review covers UPF 50+ protection, setup ease, and size options for 3-8 people. See if this sun shelter fits your beach days."
@@ -11,15 +12,16 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BMKM5PK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wXfu302EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True UPF 50+ certified fabric blocks 98% of UV rays, tested independently"
   - "Color-coded poles and pop-up design mean 3-minute setup with no tools"
   - "Oversized 8-person version has 10-foot wide footprint with 6.5-foot peak height"
   - "Sand pockets and stakes hold firm in wind up to 20 mph based on field testing"
-cons:
+cons: 
   - "Carry bag is tight and the zipper binds when repacking the 8-person model"
   - "Fiberglass poles feel flexible in high gusts — stake all four corners or risk collapse"
   - "No floor included; sand gets inside through the open bottom edge quickly"
+
 ---
 
 If you've ever wrestled a flimsy beach umbrella for 20 minutes only to have it launch itself into the next family's cooler, the COMMOUDS Beach Tent is the upgrade you've been waiting for. With a 4.4-star average across 220 ratings, this pop-up sun shelter has earned its spot on the beach — but it's not without caveats.

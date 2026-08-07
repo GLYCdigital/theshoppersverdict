@@ -1,7 +1,8 @@
 ---
-title: "IBUYKE 16.54\" Small Footstool PU Leather Ottoman Footrest Mo"
-seo_title: "IBUYKE 16.54\" Small Footstool PU Leather Ottoman F Review"
-meta_description: "Our full ibuyke 16.54\" small footstool pu leather ottoman footrest mo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "IBUYKE 16.54\ Small Footstool PU Leather Ottoman Footrest Mo"
+seo_title: "IBUYKE 16.54\ Small Footstool PU Leather Ottoman F Review"
+meta_description: "Our full ibuyke 16.54\ small footstool pu leather ottoman footrest mo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ibuyke-16-54-small-footstool-pu-leather-ottoman-footrest-modern-home-living-b09cgz-review"
 image_alt: "IBUYKE 16.54 Small Footstool PU Leather Ottoman Footrest Modern Home Living Room Bedroom Rectangular Stool, with Padded "
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09CGZGFWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rf24+ZHqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The compact footrest that punches above its weight — if you keep expectations realistic**

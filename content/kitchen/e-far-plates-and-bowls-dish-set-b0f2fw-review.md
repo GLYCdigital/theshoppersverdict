@@ -1,4 +1,5 @@
 ---
+
 title: "E-far Plates and Bowls Dish Set"
 seo_title: "E-far Plates and Bowls Dish Set Review (2026): Worth It?"
 meta_description: "E-far Plates and Bowls Dish Set review: 4.6★ from 229 ratings. Durability, chip-resistance, and real-world use tested. See who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2FW54GR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FRMGRLD7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chip-resistant rolled edges and dense stoneware body that survives dishwasher and microwave use"
   - "Neutral reactive glaze finish hides utensil marks and doesn't show water spots"
   - "Substantial weight (approx. 2.2 lbs per dinner plate) feels premium without being clumsy"
-cons:
+cons: 
   - "Bowls run slightly shallow for soup-heavy households — a 20 oz cereal bowl holds less than expected"
   - "Glaze color variation between pieces in the same set (common with reactive glazes) may bother symmetry lovers"
+
 ---
 
 If you're tired of replacing chipped, faded dinnerware every 18 months, the E-far Plates and Bowls Dish Set deserves a hard look. This 16-piece stoneware set has earned a 4.6-star average across 229 ratings, and after digging through the feedback and spec sheets, the praise is mostly warranted — but there are a couple of tradeoffs you should know before checkout.

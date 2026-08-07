@@ -1,4 +1,5 @@
 ---
+
 title: "MEDAS Portable Sump Pump for Swimming Pool, Garden Pond, Bas"
 seo_title: "MEDAS Portable Sump Pump for Swimming Pool, Garden Review"
 meta_description: "Our full medas portable sump pump for swimming pool, garden pond, bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F32BM3DM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713iiH-vmIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in ankle-deep water in a basement with a shop vac that's giving up the ghost, you know the exact moment a real sump pump earns its keep. The MEDAS Portable Sump Pump is aimed at that scenario and about a dozen more — pool draining, pond maintenance, even emptying a water heater tank. With a 4.6-star average across 229 ratings, it's clearly earning its place in garages. But is it the right pump for *your* water problem? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Calendar, 18 Months or 21 Months Calendar - Large 17 inch  x"
 seo_title: "Desk Calendar Review: Large 17 Inch, 18/21 Months (2026)"
 meta_description: "Honest review of the large 17-inch desk calendar with 18/21-month options. See how it holds up, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FRSL61WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QPi8MfRBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely massive 17-inch footprint gives you roughly 40% more writing space per day than standard 12-inch desk calendars"
   - "18-month and 21-month format options mean you're not stuck buying a new calendar every December — it carries you well into next year"
   - "Thick, bleed-resistant paper holds up to gel pens, markers, and heavy daily use without ghosting"
-cons:
+cons: 
   - "At 17 inches wide, it will NOT fit on a standard bookshelf or compact desk — measure your space before ordering"
   - "No built-in page holder or clip; pages can curl at the top edge unless you weight them down"
   - "The wire binding, while sturdy, makes it awkward to fold back completely if you want to hang it on a wall"
+
 ---
 
 ## The Big Calendar That Actually Gives You Room to Think

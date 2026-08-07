@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Kitty Train Case Cosmetic Makeup Set Includes Lip Glos"
 seo_title: "Hello Kitty Train Case Cosmetic Makeup Set Include Review"
 meta_description: "Our full hello kitty train case cosmetic makeup set includes lip glos review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CH118T97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kgH-DOM5L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Hello Kitty Train Case Cosmetic Makeup Set: Cute Packaging, Real Cosmetics Inside

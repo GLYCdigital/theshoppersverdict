@@ -1,4 +1,5 @@
 ---
+
 title: "CXVX Bed Frame with Velvet Headboard and Footboard, Wooden S"
 seo_title: "CXVX Bed Frame Review: Velvet Headboard & Wooden Slats (2026)"
 meta_description: "Honest CXVX bed frame review: velvet headboard, wooden slats, assembly ease, durability. See who should buy this 4.2-star bed and who should skip it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPST2WGP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-4ME+2jcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Velvet upholstery on both headboard and footboard gives a boutique-hotel look at a mid-range price point"
   - "Wooden slats are closely spaced (approx. 2.5 inches apart), eliminating the need for a box spring and supporting memory foam directly"
   - "Tool-free assembly with labeled parts; most buyers report 30–45 minutes solo setup"
-cons:
+cons: 
   - "Velvet fabric shows dust and pet hair quickly; requires a lint roller or handheld vacuum for upkeep"
   - "No center support leg on queen/full sizes — heavier couples may notice slight flex in the middle over time"
   - "Low-profile design (12-inch clearance) won't fit under-bed storage bins taller than 10 inches"
+
 ---
 
 **The CXVX Bed Frame with Velvet Headboard and Footboard** is trying to do something genuinely difficult: deliver the plush, upholstered look of a designer bed without the $1,500+ price tag. At 4.2 stars across 210 ratings, it's mostly succeeding — but with caveats you need to know before checkout.

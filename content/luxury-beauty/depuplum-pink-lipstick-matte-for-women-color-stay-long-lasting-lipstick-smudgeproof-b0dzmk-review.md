@@ -1,4 +1,5 @@
 ---
+
 title: "Depuplum Pink Lipstick Matte for Women Color Stay Long Lasti"
 seo_title: "Depuplum Pink Lipstick Matte Review: Is It Worth It?"
 meta_description: "Depuplum pink matte lipstick review: long-lasting color, smudge-proof wear, and hydration. See pros, cons, and if it's right for you."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DZMK4181/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712U5AHjt3L._SL1500_.jpg"
-pros:
+pros: 
   - "True one-swipe opacity — the pink shade delivers full coverage without layering or streaking"
   - "Transfer-resistant formula that survives coffee, meals, and mask-wearing without migrating"
   - "Comfortable matte finish — doesn't settle into lip lines or flake, even after 6+ hours of wear"
-cons:
+cons: 
   - "Shade range is limited — if the specific pink tone isn't your match, there aren't many alternatives"
   - "Requires oil-based remover; standard micellar water won't budge it"
   - "Slight vanilla scent that some sensitive noses may find off-putting"
+
 ---
 
 # Depuplum Pink Lipstick Matte: The Honest Long-Wear Test

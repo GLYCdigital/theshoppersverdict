@@ -1,4 +1,5 @@
 ---
+
 title: "Canvas Tool Bag Zipper Pouch - Heavy Duty 16 oz. Canvas Tool"
 seo_title: "Canvas Tool Bag Zipper Pouch Review: Heavy Duty 16 oz"
 meta_description: "Honest review of the 16 oz. canvas tool bag zipper pouch. 4.7/5 rating. Is this heavy-duty organizer worth your money? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZ4R8BG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KclambJ0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 oz. canvas is noticeably thicker than cheaper 12 oz. bags — fabric holds its shape even when empty"
   - "Reinforced double-stitched seams and metal zipper slide handle heavy daily abuse without separating"
   - "Interior gusset provides genuine expansion for bulky tools like hammers and drill batteries"
-cons:
+cons: 
   - "No interior pockets or dividers — small fasteners and bits will swim around loose"
   - "Zipper pull is bare metal; can scratch tools or truck beds if you're not careful"
   - "Canvas is water-resistant, not waterproof — a soaked job site will wet your gear eventually"
+
 ---
 
 Let me be upfront: most canvas tool bags are flimsy afterthoughts you buy when you forget your real toolbox. This 16 oz. canvas zipper pouch from the B0BZ4R8BG1 listing is not that. With a 4.7/5 rating across 235 reviews, it's earned its reputation as the bag that keeps going when cheaper options give up.

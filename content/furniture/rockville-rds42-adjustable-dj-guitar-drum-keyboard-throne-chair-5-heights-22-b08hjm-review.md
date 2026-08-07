@@ -1,4 +1,5 @@
 ---
+
 title: "Rockville RDS42 Adjustable DJ/Guitar/Drum/Keyboard Throne Ch"
 seo_title: "Rockville RDS42 Adjustable DJ/Guitar/Drum/Keyboard Review"
 meta_description: "Our full rockville rds42 adjustable dj/guitar/drum/keyboard throne ch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08HJM37D3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-VVCm0oZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most budget thrones wobble, strip their threads, or collapse under a heavy-handed drummer within six months. The Rockville RDS42 isn't trying to reinvent the wheel — it's trying to build a better one for less than what name brands charge. After digging through 220 ratings and the spec sheet, here's what actually matters.

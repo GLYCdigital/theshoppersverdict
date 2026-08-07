@@ -1,4 +1,5 @@
 ---
+
 title: "Durable Vinyl Rugs for Living Room, Vintage Floral Pattern f"
 seo_title: "Durable Vinyl Rugs for Living Room Review (2026): Worth It?"
 meta_description: "Honest review of durable vinyl rugs with vintage floral pattern: 4.2/5 stars from 210 ratings. Real pros, cons, and buying advice before you spend."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F98V2T7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714Tdpe9qJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof surface — spills bead up and wipe clean without soaking into fibers"
   - "Thin profile (approx. 5mm) lies flat with no curling edges, even in high-traffic doorways"
   - "Vintage floral pattern is printed under a clear wear layer, so it won't fade or scratch off"
-cons:
+cons: 
   - "Harder underfoot than traditional rugs — not ideal for long periods of standing or kids playing on the floor"
   - "Vinyl surface slides slightly on hard floors unless you use the included non-slip pads; backing alone isn't enough"
   - "Pattern options are limited — if you don't like vintage florals, this isn't the rug for you"
+
 ---
 
 Let's cut through the noise: most rugs in this price range are either pretty but fragile, or durable but ugly. This vinyl floral rug actually tries to be both — and mostly succeeds. With a 4.2-star average across 210 ratings, it's clearly finding its audience. Here's who that audience is, and who should keep scrolling.

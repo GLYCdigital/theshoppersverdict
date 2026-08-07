@@ -1,4 +1,5 @@
 ---
+
 title: "Bedwina Bulk Mardi Gras Masks 50 or 300Pcs- Carnival Masquer"
 seo_title: "Bedwina Bulk Mardi Gras Masks Review: 50 or 300 Pcs"
 meta_description: "Honest Bedwina Bulk Mardi Gras Masks review: quality, sizing, and value for 50 or 300 packs. See if these carnival masks fit your party needs."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G993PPGZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qVVGWYxjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Feathers are actually attached to the mask, not just glued on the surface — they survive shipping and a full night of wear"
   - "Elastic band is pre-attached and sized to fit most adults without constant readjustment"
   - "Assorted colors arrive evenly distributed across the pack, so you're not stuck with 40 of the same color"
-cons:
+cons: 
   - "Feathers can shed slightly over extended wear — have a lint roller handy for your outfit"
   - "Not one-size-fits-all for kids under 8 — the elastic will be too loose without a knot"
+
 ---
 
 Let me be blunt: most bulk masks sold on Amazon are disposable junk that looks fine in the listing photo and falls apart before the first parade float passes. The Bedwina bulk Mardi Gras masks are not that. With 240 ratings averaging 4.8 stars, this is one of the few bulk options that consistently delivers what it promises.

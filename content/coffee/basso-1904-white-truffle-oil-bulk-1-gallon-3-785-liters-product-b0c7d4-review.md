@@ -1,4 +1,5 @@
 ---
+
 title: "BASSO 1904 - White Truffle Oil, Bulk, 1 Gallon (3.785 liters"
 seo_title: "BASSO 1904 White Truffle Oil Review: 1 Gallon Bulk Value"
 meta_description: "Is the BASSO 1904 white truffle oil 1-gallon jug worth it? Read our honest review covering flavor, shelf life, and cost per ounce before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7D4VN8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TUrr9+hLL._SL1254_.jpg"
-pros:
+pros: 
   - "True white truffle aroma that holds up in cooked dishes, not just finishing drizzles"
   - "Cost per ounce drops dramatically at this bulk size compared to 8oz retail bottles"
   - "Sturdy, resealable gallon jug with a handle that pours cleanly without dripping"
-cons:
+cons: 
   - "1-gallon size is impractical for casual home cooks — flavor degrades before you finish it"
   - "Contains synthetic truffle compound (2,4-dithiapentane) — purists will notice the difference from real truffle-infused oil"
+
 ---
 
 # BASSO 1904 White Truffle Oil: The Bulk Buy Math Only Works If You Cook a Lot

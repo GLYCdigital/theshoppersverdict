@@ -1,4 +1,5 @@
 ---
+
 title: "Lufeiya 40 inch Computer Desk with LED Lights and Power Outl"
 seo_title: "Lufeiya 40 inch Computer Desk with LED Lights and  Review"
 meta_description: "Our full lufeiya 40 inch computer desk with led lights and power outl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCVCJQLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T9z1BkNyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Lufeiya 40-Inch Desk Worth Your Money?

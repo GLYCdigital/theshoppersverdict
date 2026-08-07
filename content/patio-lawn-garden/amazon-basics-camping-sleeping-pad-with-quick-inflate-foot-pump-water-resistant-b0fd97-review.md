@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Camping Sleeping Pad with Quick-Inflate Foot P"
 seo_title: "Amazon Basics Camping Sleeping Pad Review: Quick-Inflate Tested"
 meta_description: "Honest Amazon Basics sleeping pad review: quick-inflate foot pump, comfort, durability, and real campers' feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FD97YGX6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619n2mm80CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in foot pump inflates in under 3 minutes — no separate pump or batteries to pack"
   - "Ripstop nylon shell with water-resistant coating handles damp tent floors without soaking through"
   - "Packs down to roughly the size of a one-liter bottle, making it a workable budget backpacking option"
-cons:
+cons: 
   - "At ~2.2 pounds, it's noticeably heavier than ultralight pads — not ideal for serious thru-hikers"
   - "The 20-inch width is snug for side sleepers; expect your arms to spill off the edges"
   - "Foot pump requires consistent, rhythmic stomping — a bit of a workout on uneven ground"
+
 ---
 
 Let's be honest — a $40–50 sleeping pad is a gamble. You're either getting a surprisingly solid piece of kit or a night of restless, cold thrashing. The Amazon Basics Camping Sleeping Pad with Quick-Inflate Foot Pump sits squarely in that budget zone, and with a 4.0-star average from 200+ ratings, campers are split. Here's the real story after digging through the specs and owner feedback.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Alpine Corporation 35 inch  Tall 3-Tier Outdoor Pedestal Water Fo"
 seo_title: "Alpine 35 inch  3-Tier Fountain Review: Worth It? (2026)"
 meta_description: "Alpine Corporation 35 inch  3-tier pedestal fountain review: build quality, pump noise, durability issues. See real pros, cons & verdict before you buy."
@@ -12,14 +13,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B000W5NGMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719Qctj59RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine three-tier cascade design at 35 inches tall creates real visual presence for under $100 inch"
   - "Pre-assembled pump and basin — set up takes under 15 minutes, no plumbing required"
   - "Faux stone resin finish looks convincingly like aged stone from 5+ feet away"
-cons:
+cons: 
   - "Pump is underpowered (rated ~60 GPH) — top tier often dribbles rather than cascades"
   - "Resin shell is thin; several owners report cracks after first winter freeze despite 'weather-resistant' claims"
   - "No auto-shutoff — pump runs dry in about 30 minutes if water level drops too low"
+
 
 ---
 

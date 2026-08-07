@@ -1,4 +1,5 @@
 ---
+
 title: "BLACK+DECKER 1.7L Cordless Electric Kettle,"
 seo_title: "BLACK+DECKER 1.7L Cordless Kettle Review (2026)"
 meta_description: "Honest BLACK+DECKER 1.7L cordless electric kettle review: performance, build quality, real buyer feedback, and who should buy it. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL7B1R5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WVqyLV3iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Boils 1.7L in roughly 4–5 minutes thanks to the concealed 1500W heating element"
   - "Cordless 360° swivel base makes pouring and countertop placement genuinely convenient"
   - "Auto shut-off and boil-dry protection give real peace of mind for absent-minded users"
-cons:
+cons: 
   - "No variable temperature controls — it's a straight boil, not a pour-over or green tea machine"
   - "Exterior gets noticeably hot during use; the handle stays cool, but the body requires caution"
   - "Lid doesn't lock shut, so you need to hold it when pouring at steep angles"
+
 ---
 
 Let me be direct about the BLACK+DECKER 1.7L Cordless Electric Kettle: it's not trying to be a $150 temperature-precise gooseneck. It's a workhorse that boils water fast and gets out of your way. And for the vast majority of households, that's exactly what you need.

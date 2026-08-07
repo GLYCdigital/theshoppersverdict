@@ -1,15 +1,16 @@
 ---
+
 title: "Makita XSH06PT 18V X2 LXT® Lithium-Ion (36V) Brushless Cordless 7-1/4” Circular Saw Kit (5.0Ah)"
 seo_title: "Makita XSH06PT 18V X2 LXT® Lithium-Ion (36V) Brush Review"
 meta_description: "Honest makita xsh06pt 18v x2 lxt® lithium-ion ( review based on 829+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "makita-xsh06pt-18v-x2-lxt-lithium-ion-36v-brushless-cordless-7-1-review"
 image_alt: "Makita XSH06PT 18V X2 LXT® Lithium-Ion (36V) Brushless Cordless 7-1/4” Circular Saw Kit (5.0Ah)"
-keywords:
+keywords: 
   - "makita xsh06pt 18v review"
   - "home improvement review"
   - "best tool review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Makita XSH06PT 18V X2 LXT® well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the Makita XSH06PT 18V X2 LXT®?"
@@ -22,13 +23,14 @@ review_count: 829
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GZJG3K2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61is0g3rAiL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Good performance for the price range"
   - "Easy to set up and use"
-cons:
+cons: 
   - "Design could be improved"
   - "Performance may not satisfy power users"
+
 ---
 
 If you're shopping for a tool or home improvement product, you've probably noticed the Makita XSH06PT 18V X2 LXT® Lithium-Ion.... After combing through 829 Amazon customer reviews, one thing is clear: reviewers consistently highlight its strong, well-built construction as a key strength.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gardien 15.5â€ Review: Outdoor Protection That Delivers"
 seo_title: "Gardien 15.5â€ Review: Honest 2026 Buyer's Guide"
 meta_description: "Read our Gardien 15.5â€ review before buying. Real pros, cons, and verdict from 200+ Amazon ratings. Find out if this patio gear is worth it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08996P865/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uddrO-osL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "15.5-inch working width covers standard patio gaps without overshooting tight corners"
   - "Weather-resistant construction holds up through multiple seasons of direct sun and rain"
   - "Lightweight enough to reposition one-handed, yet stable once locked into place"
-cons:
+cons: 
   - "No included storage bag — buyers must source their own for off-season protection"
   - "Surface grip can mar softwood decking if left in place during heavy wind events"
+
 ---
 
 **The Short Version:** The Gardien 15.5â€ is one of those patio products that doesn't scream for attention but quietly earns its keep. With a 4.0-star average across 200 ratings, it's not perfect — but for the right buyer, it solves a specific problem better than anything else at this size.

@@ -1,24 +1,26 @@
 ---
+
 title: "Canfield 60/40 Solder for Stained Glass Review"
 seo_title: "Canfield 60/40 Solder Review: Best for Stained Glass (2026)"
 meta_description: "Honest Canfield 60/40 solder review for stained glass: melt flow, spool size, oxidation, and who should buy. See pros, cons, and verdict."
 slug: "canfield-60-40-solder-for-stained-glass-b0cp4g-review"
 image_alt: "Canfield 60/40 solder spool for stained glass projects"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CP4GFY9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kEF-t-pQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Melts and flows smoothly at low iron temps (650–700°F), reducing risk of cracking glass"  
   - "Consistent 60/40 tin-lead ratio with no rosin core — clean seams for copper foil work"  
   - "Comes on a 1-lb spool; enough for 2–3 small panels or one medium window"  
-cons:  
+cons: 
   - "No flux included — you must buy liquid flux separately (Canfield's own works best)"  
   - "Soft alloy dents easily if you press too hard while smoothing; light touch required"  
   - "Spool end can kink if you don't rewind carefully — minor annoyance, not a dealbreaker"
+
 ---
 
 If you've ever fought a solder that beads up, refuses to flow, or leaves gritty gray lumps on your copper foil, you know the difference between frustration and flow. Canfield's 60/40 solder is the kind of product that makes stained glass work feel almost meditative — provided you pair it with the right flux and iron technique.

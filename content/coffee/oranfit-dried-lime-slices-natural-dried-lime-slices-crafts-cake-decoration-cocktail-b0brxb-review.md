@@ -1,4 +1,5 @@
 ---
+
 title: "Oranfit Dried Lime Slices, Natural Dried Lime Slices, Crafts"
 seo_title: "Oranfit Dried Lime Slices, Natural Dried Lime Slic Review"
 meta_description: "Our full oranfit dried lime slices, natural dried lime slices, crafts review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BRXB7B1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YNl2u7huL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most dried citrus sold on Amazon is either too leathery to use or so brittle it shatters before you get it in your drink. The Oranfit Dried Lime Slices sit in a sweet spot — they're actually usable, and at 4.6 stars across 229 ratings, buyers largely agree.

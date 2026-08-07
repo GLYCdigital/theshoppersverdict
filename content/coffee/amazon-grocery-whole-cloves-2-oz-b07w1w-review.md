@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Grocery, Whole Cloves, 2 Oz"
 seo_title: "Amazon Grocery Whole Cloves Review: Worth It? (2026)"
 meta_description: "Our honest Amazon Grocery Whole Cloves review: potency, freshness, and value for 2 oz. See how it compares and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07W1WWT4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7117dfygV+L._SL1500_.jpg"
-pros:
+pros: 
   - "Whole cloves arrive consistently plump and oily — a sign of high volatile oil content (eugenol), which is what actually delivers flavor and aroma"
   - "The 2-ounce jar holds roughly 190-210 individual cloves, enough for 15-20 batches of mulled cider or a full holiday ham glaze"
   - "Jar seals tightly and blocks light; cloves stayed aromatic after six months of pantry storage"
-cons:
+cons: 
   - "Some jars arrive with a fair amount of broken stems and dust at the bottom — you'll need to pick through if appearance matters for garnish"
   - "No grind date or harvest info on the label, so you're trusting Amazon's turnover for freshness"
+
 ---
 
 **If you think all whole cloves are the same, you haven't cooked with a batch that's been sitting in a warehouse for 18 months.** The difference between lively, aromatic cloves and dusty ones is night and day — and that's exactly why this 2-ounce jar from Amazon Grocery is worth a closer look before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Canine Chews 10 inch  Large Dog Retriever Rolls - Natural Beef Ra"
 seo_title: "Canine Chews 10 inch  Retriever Rolls Review: Worth It? (2026)"
 meta_description: "Honest Canine Chews 10 inch  Large Dog Retriever Rolls review: beef rawhide quality, durability, safety concerns, and which dogs should skip them."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLF44GCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eZ3xOtS7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, dense 10-inch rolls that hold up for multiple sessions with aggressive chewers"
   - "Single-ingredient natural beef hide — no artificial colors, flavors, or chemical bleaches"
   - "Roasted smell attracts even picky dogs; softer texture than compressed bones"
-cons:
+cons: 
   - "Strong meaty odor that some owners find overpowering indoors"
   - "Not suitable for gulpers — chunks can be swallowed whole if not supervised"
   - "Sizing runs large; smaller breeds or puppies will struggle to grip them"
+
 ---
 
 **Canine Chews 10" Large Dog Retriever Rolls Review: Big Chews for Big Mouths**

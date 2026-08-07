@@ -1,4 +1,5 @@
 ---
+
 title: "Logui Projects 1200 LB Magnet Fishing Kit with Case - 2 Fish"
 seo_title: "Logui Projects 1200 LB Magnet Fishing Kit with Cas Review"
 meta_description: "Our full logui projects 1200 lb magnet fishing kit with case - 2 fish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B085F38115/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e0GHYNjFL._SL1464_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most magnet fishing kits on Amazon are overpriced toys with inflated pull ratings and rope that snaps on the second throw. The Logui Projects 1200 LB kit is not that. It's a legitimate two-magnet setup that's earned its 4.5-star average across 225 ratings — but it has quirks you need to know about before you drop your cash.

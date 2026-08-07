@@ -1,4 +1,5 @@
 ---
+
 title: "USB C Hub Long Cable 4FT 10Gbps, Multiport Adapter with 4K 6"
 seo_title: "USB C Hub Long Cable 4FT 10Gbps, Multiport Adapter Review"
 meta_description: "Our full usb c hub long cable 4ft 10gbps, multiport adapter with 4k 6 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F29BTS19/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UHygnMMoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most USB-C hubs fail at the simplest thing: they're too short. You're hunched over your laptop, plugging a dongle into a port that's practically glued to your keyboard, and the cable strains every time you move your mouse. This hub fixes that with a 4-foot cable — and it's not just about length. Let me break down what you're actually getting.

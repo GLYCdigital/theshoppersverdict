@@ -1,4 +1,5 @@
 ---
+
 title: "64oz (8 Cup) Food Processor Bowl Locking Lid Blade Kit ONLY"
 seo_title: "64oz Food Processor Bowl Locking Lid Blade Kit Review (2026)"
 meta_description: "Honest review of the 64oz (8-cup) food processor bowl, locking lid & blade kit. Real buyer feedback, fitment warnings, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B081YY3ZBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B-4u1p5GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exact OEM-style replacement for 64oz (8-cup) food processor bowls with the B081YY base — fits snugly, no wobble"
   - "Blade assembly is genuinely sharp and balanced; handles dough, nuts, and frozen fruit without bogging down"
   - "Locking lid mechanism clicks positively and seals well — no splatter or leaking when processing liquids"
-cons:
+cons: 
   - "Replacement-only kit — no motor base included. You need the original machine or a compatible base to use it"
   - "Some buyers report the lid gasket can warp after repeated dishwasher cycles; hand-wash to extend life"
+
 ---
 
 Let's cut to it. If you're shopping for this, you likely already own a 64oz food processor and the original bowl cracked, the blade dulled, or the lid vanished. This is the fix — but only if it fits your exact base. The listing is clear: it's the bowl, lid, and blade kit *only*, designed for the B081YY model line. That's a critical detail, and a few buyers missed it. One reviewer wrote, "I didn't realize this didn't include the base. My fault, but I thought I was getting a whole new processor." Read the title twice before you click.

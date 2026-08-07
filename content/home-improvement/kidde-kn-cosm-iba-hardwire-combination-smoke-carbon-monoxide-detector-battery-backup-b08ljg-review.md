@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde KN-COSM-IBA Hardwire Combination Smoke Carbon Monoxide"
 seo_title: "Kidde KN-COSM-IBA Hardwire Combination Smoke Carbo Review"
 meta_description: "Our full kidde kn-cosm-iba hardwire combination smoke carbon monoxide review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08LJGV4PX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51g9x-kUUmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 When you're shopping for a combination smoke and carbon monoxide detector, you're not looking for a gadget. You're looking for a piece of safety equipment that could literally save your life. The Kidde KN-COSM-IBA is a hardwired unit with a 10-year sealed battery backup, voice alerts, and a 4.2-star rating from over 200 Amazon buyers. Here's the honest breakdown of what you're actually getting.

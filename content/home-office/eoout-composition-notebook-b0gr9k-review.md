@@ -1,4 +1,5 @@
 ---
+
 title: "EOOUT Composition Notebook"
 seo_title: "EOOUT Composition Notebook Review: Durable & Reliable"
 meta_description: "Read our EOOUT Composition Notebook review: durable covers, smooth paper, 4.7-star rating. See if it's worth your money for school or work."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GR9K1ZY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FQUMypy2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lay-flat spiral binding that holds up to heavy daily use without snagging"
   - "Thick, bleed-resistant paper that handles gel pens and highlighters well"
   - "Flexible, water-resistant cover that survives being tossed in a backpack"
-cons:
+cons: 
   - "Spiral wire can catch on loose bag linings if you carry it unprotected"
   - "No perforated pages — you'll tear sheets out with rough edges if needed"
+
 ---
 
 Let me cut straight to it: the EOOUT Composition Notebook is the kind of product that makes you wonder why more companies don't get the basics this right. With a 4.7-star average across 235 ratings, it's clearly earning its keep in classrooms and offices. But is it the right notebook for you? Here's the real story.

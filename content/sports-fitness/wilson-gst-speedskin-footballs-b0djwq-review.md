@@ -1,4 +1,5 @@
 ---
+
 title: "WILSON GST SpeedSkin Footballs"
 seo_title: "WILSON GST SpeedSkin Footballs Review: Verdict | TSV"
 meta_description: "Our full wilson gst speedskin footballs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJWQBV9J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719RbA3CeoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The WILSON GST SpeedSkin is the best $40-50 football you can buy for recreational play and practice — but it's not a game ball, and it knows it. Here's who should grab one and who should look elsewhere.

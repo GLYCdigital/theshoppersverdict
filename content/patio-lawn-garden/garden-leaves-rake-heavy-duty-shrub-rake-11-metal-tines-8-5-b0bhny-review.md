@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Leaves Rake, Heavy Duty Shrub Rake 11 Metal Tines 8.5 inch"
 seo_title: "Garden Leaves Rake Review: 11 Metal Tines, Heavy Duty (2026)"
 meta_description: "Our honest Garden Leaves Rake review: 11 metal tines, 8.5-inch head, $19.99. Tested for shrub beds and tight corners. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHNY9172/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ay96CZM-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "11 metal tines spaced tightly enough to catch pine needles and small debris that standard leaf rakes miss"
   - "8.5-inch head fits between shrubs, under decks, and along fence lines where full-size rakes can't reach"
   - "Solid steel construction with a firmly attached handle — no wobble at the ferrule even under pressure"
-cons:
+cons: 
   - "No cushioning or grip on the handle; gloveless work will leave your hands sore after extended use"
   - "Head width is too narrow for open lawns — you'll be raking twice as long on big, clear areas"
+
 ---
 
 ## The tight-spot specialist that earns its keep

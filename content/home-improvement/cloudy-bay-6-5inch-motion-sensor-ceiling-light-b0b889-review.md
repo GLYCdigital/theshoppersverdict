@@ -1,4 +1,5 @@
 ---
+
 title: "CLOUDY BAY 6.5inch Motion Sensor Ceiling Light"
 seo_title: "CLOUDY BAY 6.5in Motion Sensor Ceiling Light Review"
 meta_description: "Honest CLOUDY BAY 6.5in motion sensor ceiling light review: brightness, range, and real-world performance for closets, laundry rooms, and hallways."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B889SXRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rjrElBlJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True hands-free operation with a 10-foot detection range and adjustable 15-second to 3-minute shutoff delay"
   - "Warm 3000K color temperature that doesn't feel like a harsh interrogation light"
   - "Simple 3-wire hookup that drops into a standard 4-inch junction box with no special tools"
-cons:
+cons: 
   - "Detection is motion-based only — no ambient light sensor means it fires during the day if you walk by"
   - "Rated for enclosed fixtures but some buyers report heat sensitivity with LED drivers in uninsulated attics"
   - "No color temperature switch — you're locked into 3000K, which may feel too yellow for utility spaces"
+
 ---
 
 Most "motion sensor" ceiling lights are really just glorified nightlights with a passive infrared sensor bolted on. The CLOUDY BAY 6.5inch is different — it's a full 900-lumen fixture that actually replaces your existing ceiling light, not just supplements it. After digging through 215 ratings and the technical specs, here's what you need to know before buying.

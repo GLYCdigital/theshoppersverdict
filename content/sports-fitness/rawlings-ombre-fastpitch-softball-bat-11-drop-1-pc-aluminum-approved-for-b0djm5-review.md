@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings Ombre Fastpitch Softball Bat | -11 Drop | 1 Pc. Alu"
 seo_title: "Rawlings Ombre Fastpitch Softball Bat | -11 Drop | Review"
 meta_description: "Our full rawlings ombre fastpitch softball bat | -11 drop | 1 pc. alu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJM5HKGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61loEB6VF6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

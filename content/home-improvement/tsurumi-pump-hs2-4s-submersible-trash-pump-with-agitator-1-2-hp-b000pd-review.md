@@ -1,4 +1,5 @@
 ---
+
 title: "Tsurumi Pump HS2.4S Submersible Trash Pump with Agitator 1/2"
 seo_title: "Tsurumi Pump HS2.4S Submersible Trash Pump with Ag Review"
 meta_description: "Our full tsurumi pump hs2.4s submersible trash pump with agitator 1/2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000PDU9EY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NE3oQ3MvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most submersible pumps die a slow, clogged death. The Tsurumi HS2.4S doesn’t just move water — it churns up whatever’s settled at the bottom and sends it through the discharge. That’s the whole point of the integrated agitator, and it’s what separates this pump from the $80 hardware-store specials. If you’ve ever watched a standard pump suck up a few inches of silt before the impeller fouls, you understand why this design matters.

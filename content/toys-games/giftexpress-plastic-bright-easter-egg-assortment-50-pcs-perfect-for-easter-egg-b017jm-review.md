@@ -1,4 +1,5 @@
 ---
+
 title: "GIFTEXPRESS Plastic Bright Easter Egg Assortment 50 Pcs Perf"
 seo_title: "GIFTEXPRESS 50-Pack Easter Eggs Review: Bright & Durable"
 meta_description: "GIFTEXPRESS Plastic Bright Easter Egg Assortment 50 Pcs review: snap-tight halves, vivid colors, refillable. See pros, cons, and who should buy."
@@ -11,15 +12,16 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B017JMD8YG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71q7KD+9EvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Snap-tight halves stay closed during hunts — no lost candy or prizes mid-search"
   - "50 eggs per pack means enough for multiple kids, multiple hunts, or classroom events"
   - "Six bright colors (pink, blue, green, yellow, orange, purple) make eggs easy to spot in grass or bushes"
   - "Plastic is thick enough to survive drops on pavement without cracking"
-cons:
+cons: 
   - "Eggs arrive in two separate halves — you'll spend 10-15 minutes snapping 50 pieces together before use"
   - "No pre-drilled holes for stringing or hanging, limiting decoration options"
   - "Colors are solid, not patterned or glittered — less visually exciting for older kids' hunts"
+
 ---
 
 **GIFTEXPRESS Plastic Bright Easter Egg Assortment 50 Pcs Perf** is the kind of product you don't think about until the week before Easter, when you realize you need 50 eggs and the grocery store is sold out. This pack solves that problem — but it's worth knowing exactly what you're getting before you click buy.

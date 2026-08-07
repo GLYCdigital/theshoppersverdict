@@ -1,4 +1,5 @@
 ---
+
 title: "RIDGE WASHER Pressure Washer Wand Extension, 60 Inch Replace"
 seo_title: "RIDGE WASHER Pressure Washer Wand Extension, 60 In Review"
 meta_description: "Our full ridge washer pressure washer wand extension, 60 inch replace review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZS52TS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DBjfbhd1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced on a step ladder with a pressure washer wand in one hand, praying the hose doesn't yank you off — this 60-inch extension from RIDGE WASHER is the tool that gets you back on solid ground. It's not flashy, but it solves a genuinely annoying problem: how to clean high surfaces without risking your neck.

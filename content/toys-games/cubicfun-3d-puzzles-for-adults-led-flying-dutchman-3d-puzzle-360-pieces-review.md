@@ -1,13 +1,14 @@
 ---
+
 title: "CubicFun 3D Puzzles for Adults - LED Flying Dutchman 3D Puzzle, 360-pieces | Desk Decor for Home Office - Teacher Appreciation Gifts High School Graduation Gifts"
 seo_title: "CubicFun 3D Puzzles Review: Verdict (4.5/5) | TSV"
 meta_description: "It's lightweight but sturdy enough to pick up and turn 429+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "cubicfun-3d-puzzles-for-adults-led-flying-dutchman-3d-puzzle-360-pieces-review"
 image_alt: "CubicFun 3D Puzzles for Adults - LED Flying Dutchman 3D Puzzle, 360-pieces | Desk Decor for Home Office - Teacher Apprec"
-keywords:
+keywords: 
   - "cubicfun 3d puzzles review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the CubicFun 3D Puzzles for?"
     answer: "It's lightweight but sturdy enough to pick up and turn around That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the CubicFun 3D Puzzles for?"
@@ -21,12 +22,13 @@ review_count: 429
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09X9NLXBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81znL5YH7cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "It's lightweight but sturdy enough to pick up and turn around."
   - "The quality of the packaging is absolutely beautiful."
   - "very well made, blew my mind."
-cons:
+cons: 
   - "It is cheap and the price is a damn scam."
+
 ---
 
 If you've ever stared at a $150 wooden ship model kit and thought "I don't have the patience or the skill for that," the CubicFun Flying Dutchman is your gateway drug. This is a 360-piece foam puzzle that assembles into a genuinely impressive 13.4-inch pirate ship with working LED lights — and it costs less than a pizza delivery for two.

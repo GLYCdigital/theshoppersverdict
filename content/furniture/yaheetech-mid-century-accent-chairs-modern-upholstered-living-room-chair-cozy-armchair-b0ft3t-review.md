@@ -1,4 +1,5 @@
 ---
+
 title: "Yaheetech Mid-Century Accent Chairs, Modern Upholstered Livi"
 seo_title: "Yaheetech Mid-Century Accent Chairs, Modern Uphols Review"
 meta_description: "Our full yaheetech mid-century accent chairs, modern upholstered livi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FT3T84XZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CLmd3aYFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: at this price point, most accent chairs look good in the listing photos and feel like a park bench in person. The Yaheetech Mid-Century Accent Chair doesn't do that. It's not a $900 designer piece — but it doesn't pretend to be. Here's what 229 buyers (averaging 4.6 stars) actually got for their money.

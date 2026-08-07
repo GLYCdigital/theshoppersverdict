@@ -1,4 +1,5 @@
 ---
+
 title: "Beijue 16 Bit Handheld Games for Kids Adults 3.0'' Large Scr"
 seo_title: "Beijue 16 Bit Handheld Games Review: 3.0'' Screen, 204 Ratings"
 meta_description: "Beijue 16 Bit handheld console review: 3.0-inch screen, 160+ games, battery life, and build quality. See if this retro gaming gift is worth it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09W42G7R2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lK-mS9AgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "3.0-inch screen is genuinely larger than most budget retro handhelds, making it easier on eyes during longer sessions"
   - "Pre-loaded library of 160+ classic 16-bit games, covering platformers, puzzles, racing, and shooters — no cartridge hunting needed"
   - "Rechargeable 700mAh battery holds roughly 6–8 hours of play, which beats many competitors in the same $20–30 bracket"
-cons:
+cons: 
   - "Non-removable battery means when it eventually dies, the device is e-waste rather than repairable"
   - "Screen is reflective — direct sunlight or bright overhead lights create glare that washes out the display"
   - "No save state feature, so games like RPGs or longer levels require finishing in one sitting or losing progress"
+
 ---
 
 ## The Beijue 16-Bit Handheld: A Budget Retro Machine That Actually Delivers

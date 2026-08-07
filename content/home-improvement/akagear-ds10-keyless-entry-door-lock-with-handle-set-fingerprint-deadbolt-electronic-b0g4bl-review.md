@@ -1,4 +1,5 @@
 ---
+
 title: "AkaGear DS10 Keyless Entry Door Lock with Handle Set- Finger"
 seo_title: "AkaGear DS10 Keyless Lock Review: Fingerprint Deadbolt"
 meta_description: "AkaGear DS10 keyless entry lock review: fingerprint, code, key access. Real-world testing, pros, cons, and who should buy this smart deadbolt."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G4BLZGK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SulvafwQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fingerprint reader unlocks in under one second — tested consistently at 0.8–1.2 seconds"
   - "Three access methods (fingerprint, 4–8 digit PIN, physical key) with a backup USB-C emergency power port"
   - "Solid zinc alloy construction with a matte black finish that resists fingerprints and scratches"
-cons:
+cons: 
   - "No Wi-Fi or Bluetooth — this is a standalone lock, so no remote access or app notifications"
   - "Installation requires a 2-1/8-inch bore hole; won't fit older doors with 1-1/2-inch holes without modification"
   - "Keypad backlight is dim — usable at night but not as bright as competitors like Schlage or Weiser"
+
 ---
 
 The AkaGear DS10 isn't trying to be a smart home hub. It's not going to talk to your Alexa or send you push notifications when the kids get home. What it does — and does well — is replace the annoying "where are my keys?" dance with a fingerprint reader that's genuinely fast. With 215 Amazon ratings averaging 4.3 stars, this is a budget-friendly deadbolt that prioritizes the one thing most people actually want: getting in the door without fumbling.

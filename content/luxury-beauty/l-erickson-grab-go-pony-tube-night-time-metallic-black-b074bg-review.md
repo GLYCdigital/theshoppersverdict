@@ -1,4 +1,5 @@
 ---
+
 title: "L. Erickson Grab & Go Pony Tube - Night-time Metallic Black"
 seo_title: "L. Erickson Grab & Go Pony Tube - Night-time Metal Review"
 meta_description: "Our full l. erickson grab & go pony tube - night-time metallic black review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B074BGRD7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ezicLhKaL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most hair accessories claiming to give you a "salon finish" are overpriced plastic junk. The L. Erickson Grab & Go Pony Tube is different — and after testing it against cheaper alternatives, I understand why it holds a 4.6-star average across 229 ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery File Folder Labels"
 seo_title: "Avery File Folder Labels Review: Worth It? (2026)"
 meta_description: "Honest Avery file folder labels review: adhesion, print quality, real-world use. See pros, cons, and who should buy. 4.8-star rated."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLYN2V7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71il6Tz+6TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Crisp, smudge-proof printing on both inkjet and laser printers with no curl on the edges"
   - "Labels peel off the sheet cleanly in one piece — no tearing or paper backing residue"
   - "Adhesive grips firmly to manila folders, hanging files, and poly dividers without lifting"
-cons:
+cons: 
   - "The 1-inch tab size feels cramped if you need more than two lines of text or a larger font"
   - "No included template software on the box — you'll need to download Avery Design & Print or use Word's built-in template"
+
 ---
 
 # Avery File Folder Labels: The 4.8-Star Workhorse, Honestly Reviewed

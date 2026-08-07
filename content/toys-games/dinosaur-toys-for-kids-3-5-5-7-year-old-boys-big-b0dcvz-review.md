@@ -1,4 +1,5 @@
 ---
+
 title: "Dinosaur Toys for Kids 3-5, 5-7 Year Old Boys, Big Dinosaur"
 seo_title: "Dinosaur Toys for Kids 3-5 & 5-7: Big Dino Review (2026)"
 meta_description: "Honest review of the Big Dinosaur toy for kids 3-5 and 5-7. See how it holds up to rough play, what's in the box, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCVZMHZK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JN9hxrykL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Articulated legs and tail allow for realistic standing poses and active play without parts snapping off"
   - "Dense, durable plastic construction that holds up to being dropped, thrown, and chewed on by younger kids"
   - "Large enough size (roughly 10-12 inches) that it's a statement piece for dinosaur-obsessed kids, not a choking hazard"
-cons:
+cons: 
   - "Paint detailing on the claws and teeth is inconsistent — some units arrive with chipped or smudged paint"
   - "No sound effects or lights — if your kid expects a roaring toy, this is purely a static figure"
+
 ---
 
 **Opening Hook**

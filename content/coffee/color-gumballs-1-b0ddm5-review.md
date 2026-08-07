@@ -1,4 +1,5 @@
 ---
+
 title: "Color Gumballs 1 inch "
 seo_title: "Color Gumballs 1 inch  Review: Worth It? | Honest 2026 inch"
 meta_description: "Color Gumballs 1 inch  review — fun candy, but are they coffee gear? We break down quality, value, and real buyer feedback. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDM5JH8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JjaQtJJcL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 1-inch diameter — bigger than typical vending machine gumballs, so you get more chew per piece"
   - "Bright, consistent coloring across the batch with minimal chipping or fading"
   - "Shell stays crunchy for weeks when stored in an airtight container — doesn't go stale fast"
-cons:
+cons: 
   - "Artificial flavor profile leans heavily on the 'cherry/berry' side — don't expect nuanced fruit flavors"
   - "Some bags arrive with a handful of cracked or misshapen pieces from shipping (roughly 5-7%)"
+
 ---
 
 Let me be straight with you: these are gumballs. Not coffee beans, not a pour-over setup, not a grinder. But if you're reading this, you probably already know that — and you're wondering if the 1-inch Color Gumballs are worth your money.

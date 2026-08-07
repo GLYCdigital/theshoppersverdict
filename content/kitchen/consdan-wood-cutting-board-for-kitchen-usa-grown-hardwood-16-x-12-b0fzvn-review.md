@@ -1,4 +1,5 @@
 ---
+
 title: "CONSDAN Wood Cutting Board for Kitchen, USA Grown Hardwood,"
 seo_title: "CONSDAN Wood Cutting Board Review: USA Hardwood Tested"
 meta_description: "Honest CONSDAN wood cutting board review: USA-grown hardwood build, real-world durability, and knife-friendliness tested. See who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZVNKRHN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61M7dTt3yIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "End-grain construction absorbs knife impact, keeping blades sharper far longer than plastic or bamboo boards"
   - "Deep juice groove actually contains runoff from a large roast or watermelon — not just decorative"
   - "Built-in handles and rubber feet make it easy to lift, flip, and keep stable on wet countertops"
-cons:
+cons: 
   - "Requires regular mineral oil treatment — skip it and the wood will dry out and crack within months"
   - "Heavy at roughly 8-10 pounds; not ideal for casual cooks who want to toss it in a dishwasher (which you shouldn't do anyway)"
   - "Slight wood smell on arrival that lingers for a few days even after washing"
+
 ---
 
 If you've been chopping on plastic or bamboo and wondering why your knives dull every few weeks, the CONSDAN Wood Cutting Board is the upgrade that makes sense. This isn't a decorative board you hang on the wall — it's a working surface built from USA-grown hardwood, and at 4.4 stars from over 220 Amazon shoppers, it's earning its place on real kitchen counters.

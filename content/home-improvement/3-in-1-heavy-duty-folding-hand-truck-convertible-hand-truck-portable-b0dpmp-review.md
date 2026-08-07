@@ -1,4 +1,5 @@
 ---
+
 title: "3 in 1 Heavy Duty Folding Hand Truck, Convertible Hand Truck"
 seo_title: "3 in 1 Heavy Duty Folding Hand Truck Review (2026)"
 meta_description: "Honest 3-in-1 folding hand truck review: build quality, real load limits, and whether this convertible dolly beats a standard cart. Read before buying."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPMP5W93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mnUbGBPtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct configurations — upright dolly, platform cart, and stair-climber — cover more jobs than a standard hand truck without needing a second tool"
   - "Folds flat to roughly the size of a large briefcase, making it trunk-friendly for apartment dwellers and mobile workers"
   - "Pneumatic-style wheels with reinforced rims absorb curb shocks better than solid rubber at this price point"
-cons:
+cons: 
   - "At roughly 26 pounds empty, it's heavier than advertised — you'll feel it when loading in and out of a vehicle repeatedly"
   - "The stair-climb wheels are narrow and require deliberate technique on steep or uneven stairs; they're not magic"
   - "The 330-pound rated capacity assumes a balanced load centered over the axle — exceed that off-center and you'll risk bending the frame"
+
 ---
 
 The market is flooded with folding hand trucks that promise the world and tip over under a loaded washing machine. This 3-in-1 convertible unit from the B0DPMP5W93 line actually earns its versatility claim — but with caveats that matter depending on how you'll use it.

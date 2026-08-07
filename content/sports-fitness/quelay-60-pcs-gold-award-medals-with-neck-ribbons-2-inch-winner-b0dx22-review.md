@@ -1,4 +1,5 @@
 ---
+
 title: "Quelay 60 Pcs Gold Award Medals with Neck Ribbons 2 Inch Win"
 seo_title: "Quelay 60 Pcs Gold Award Medals with Neck Ribbons  Review"
 meta_description: "Our full quelay 60 pcs gold award medals with neck ribbons 2 inch win review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DX22RDSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RkVzLOazL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running a youth soccer tournament, a school field day, or a birthday party where every kid needs to feel like a champion, the Quelay 60-pack is the kind of bulk purchase that makes or breaks your budget. At 2 inches across, these medals hit a sweet spot — big enough to feel substantial around a kid's neck, small enough that 60 of them doesn't break your storage bin or your wallet.

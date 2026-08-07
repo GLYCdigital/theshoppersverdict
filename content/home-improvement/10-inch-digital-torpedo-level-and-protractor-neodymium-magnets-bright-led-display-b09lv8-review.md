@@ -1,4 +1,5 @@
 ---
+
 title: "10-Inch Digital Torpedo Level and Protractor | Neodymium Mag"
 seo_title: "10-Inch Digital Torpedo Level Review: Smart, Accurate, Worth It"
 meta_description: "Hands-on 10-inch digital torpedo level review: bright LED display, strong neodymium magnets, and precise angles. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09LV8JRJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m+kEGmPDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bright LED display is readable in direct sunlight and dark crawlspaces — no squinting or flashlight needed"
   - "Neodymium magnets hold firmly to steel studs and conduit, freeing both hands for marking"
   - "Digital protractor mode reads to 0.1° with a hold button for locking awkward angles"
-cons:
+cons: 
   - "Auto-shutoff kicks in after 5 minutes with no way to disable it — annoying mid-project"
   - "Battery door feels flimsy and can pop open if dropped on concrete"
   - "No backlight on the bubble vials, so the analog level is hard to see in low light"
+
 ---
 
 If you've ever balanced a standard torpedo level on a steel beam while trying to mark a stud with one hand and hold a pencil with the other, you know the struggle. This 10-inch digital torpedo level from the neodymium magnet series attacks that exact problem — and mostly wins.

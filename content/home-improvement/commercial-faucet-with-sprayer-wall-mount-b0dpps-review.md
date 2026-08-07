@@ -1,4 +1,5 @@
 ---
+
 title: "Commercial Faucet with Sprayer Wall Mount"
 seo_title: "Commercial Faucet with Sprayer Wall Mount Review (2026)"
 meta_description: "Honest Commercial Faucet with Sprayer Wall Mount review: build quality, sprayer performance, installation tips, and who should buy it. 4.4/5 rating."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPPS271K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tCglsfExL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Full metal body and braided stainless supply lines hold up to daily commercial abuse"
   - "Sprayer has real pressure — 1.8 GPM flow rate actually blasts caked-on debris from mop buckets and utility sinks"
   - "Wall-mount design frees up counter space and keeps the deck clear for oversized pots or equipment"
-cons:
+cons: 
   - "No integrated shut-off valve on the sprayer handle — you'll need to add an inline valve or run the main supply"
   - "Sprayer hose is 24 inches, which is short if your sink is deep or you need to reach across a double-basin"
+
 ---
 
 Let's be blunt: most faucets labeled "commercial" are just residential fixtures with a brushed nickel finish and a higher price tag. This wall-mount unit from the B0DPPS line is different — it's actually built for the abuse a utility room, workshop, or light commercial kitchen will throw at it.

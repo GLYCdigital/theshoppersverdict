@@ -1,4 +1,5 @@
 ---
+
 title: "HEXGAMING RIVAL Controller with 2 Back Buttons - Color - Hal"
 seo_title: "HEXGAMING RIVAL Controller Review: Hall Effect Sticks Tested"
 meta_description: "HEXGAMING RIVAL controller review: Hall effect sticks, 2 back buttons, and wireless play. Is this $60-ish gamepad worth it? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F7XMSMSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yFRDI3gRL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall effect sticks eliminate drift — a genuine long-term durability win at this price point"
   - "Two rear paddle buttons are remappable via a dedicated button, no software required"
   - "Works wired, 2.4GHz dongle, or Bluetooth — triple connectivity covers PC, Switch, and mobile"
-cons:
+cons: 
   - "No official PlayStation or Xbox console support — this is strictly PC, Switch, and Android/iOS"
   - "Rear paddles sit flush and require deliberate pressure; users with smaller hands may find them awkward"
   - "Build feels slightly hollow in the grips compared to $70+ first-party options"
+
 ---
 
 # HEXGAMING RIVAL Controller Review: Hall Effect Sticks Without the Premium Tax

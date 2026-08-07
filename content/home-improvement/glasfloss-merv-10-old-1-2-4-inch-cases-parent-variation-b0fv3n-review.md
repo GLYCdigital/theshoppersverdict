@@ -1,4 +1,5 @@
 ---
+
 title: "Glasfloss MERV 10 Old 1, 2 & 4 Inch Cases - Parent Variation"
 seo_title: "Glasfloss MERV 10 Old 1, 2 & 4 Inch Cases - Parent Review"
 meta_description: "Our full glasfloss merv 10 old 1, 2 & 4 inch cases - parent variation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FV3NJWXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71idrdaLwfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about air filters: most homeowners grab whatever's cheapest at the big-box store, and that's exactly why their HVAC system is wheezing by year three. The Glasfloss MERV 10 line, available in 1, 2, and 4-inch depths, is a step up from the bargain-bin fiberglass specials — but it comes with tradeoffs you need to know before committing.

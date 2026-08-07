@@ -1,4 +1,5 @@
 ---
+
 title: "New Cat Condos Cat Tree"
 seo_title: "New Cat Condos Cat Tree Review: Verdict | TSV"
 meta_description: "Our full new cat condos cat tree review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07FMV1HKD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SjUztNRRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever bought a cheap cat tree from a big-box store, you know the drill: it wobbles when your cat jumps on it, the carpet shreds within a month, and it ends up in the trash by year two. The New Cat Condos Cat Tree positions itself as the antidote to that cycle. After digging through 210 ratings and the spec sheet, here's the real story.

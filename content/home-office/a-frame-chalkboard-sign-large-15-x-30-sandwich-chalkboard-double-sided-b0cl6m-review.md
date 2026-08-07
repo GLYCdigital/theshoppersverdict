@@ -1,5 +1,6 @@
 ---
-title: "A-Frame Chalkboard Sign Large 15\" x 30\" Sandwich Chalkboard"
+
+title: "A-Frame Chalkboard Sign Large 15\ x 30\ Sandwich Chalkboard"
 seo_title: "A-Frame Chalkboard Sign Review: 15x30 Double-Sided"
 meta_description: "Read our honest A-Frame Chalkboard Sign review. Is the 15x30 double-sided sandwich board worth it? We cover durability, chalk quality, and real buyer feedback."
 slug: "a-frame-chalkboard-sign-large-15-x-30-sandwich-chalkboard-double-sided-b0cl6m-review"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL6MLYP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pmR2okX9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid 12mm thick frame that holds its position in wind; doesn't wobble or fold inward like cheaper plastic models"
   - "True 30-inch height works well for sidewalk placement—tall enough to be seen over car hoods and low hedges"
   - "Both sides are usable and the included chalk/marker set is actually functional, not just a throwaway"
-cons:
+cons: 
   - "The included chalk markers smear if you touch them before they fully dry—wait at least 5 minutes before handling"
   - "No built-in latch to lock the two panels together flat; you'll need a bungee cord if you want to carry it closed"
   - "Screw caps on the hinges can loosen after a week of daily folding; a quick tighten with a screwdriver solves it"
+
 ---
 
 If you run a coffee shop, food truck, or any storefront that relies on foot traffic, you already know the struggle: a flimsy sign that folds in the wind, a surface that ghosts after a month of chalk, or a frame that scratches your door frame on day one. The **A-Frame Chalkboard Sign Large 15" x 30"** is built to avoid those specific headaches—and for the most part, it succeeds.

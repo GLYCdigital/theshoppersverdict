@@ -1,4 +1,5 @@
 ---
+
 title: "Fitvids Folding Exercise Gymnastics Mat 4'x8'x2 inch  Gym Work"
 seo_title: "Fitvids Folding Gymnastics Mat Review: 4x8x2 for Home Gyms"
 meta_description: "Honest Fitvids folding mat review: 4'x8'x2 inch  gymnastics mat for yoga, stretching, and home workouts. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQ71HD4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EmcJ8XwGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2-inch thick cross-linked foam holds up to bodyweight impact without bottoming out during sit-ups or gymnastics drills"
   - "Folds into four compact sections with carrying handles, making it storable in a closet or trunk at roughly 2'x4' folded"
   - "Non-slip pebbled surface stays grippy even during sweaty yoga sessions — no sliding on hardwood or tile underneath"
-cons:
+cons: 
   - "At 42 pounds, it's heavy to haul around solo; the handles help, but moving it between rooms is a two-person job"
   - "The vinyl outer layer can feel slick when you're wearing socks or doing barefoot pivots — bare feet grip best"
   - "Not a crash mat; the 2-inch density is firm for tumbling practice, so beginners should start with low-impact drills"
+
 ---
 
 Let me cut to the chase: if you're shopping for a folding gymnastics mat, you've probably seen this Fitvids model dominating search results. The 4'x8'x2" dimensions hit a sweet spot — long enough for full-body stretches and tumbling lines, wide enough to feel secure, and thick enough to protect your spine during ab work. But is it actually worth the space and money? Here's what I found after digging through the specs and customer experiences.

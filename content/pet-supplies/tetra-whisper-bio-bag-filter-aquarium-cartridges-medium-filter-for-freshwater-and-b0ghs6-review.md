@@ -1,4 +1,5 @@
 ---
+
 title: "Tetra Whisper Bio-Bag Filter Aquarium Cartridges, Medium Fil"
 seo_title: "Tetra Whisper Bio-Bag Filter Aquarium Cartridges,  Review"
 meta_description: "Our full tetra whisper bio-bag filter aquarium cartridges, medium fil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHS6568T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Quiet Workhorse of Aquarium Filtration

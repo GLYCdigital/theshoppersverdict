@@ -1,23 +1,25 @@
 ---
+
 title: "Burley Bark Rangerâ„¢ Pet Bike Trailer"
 seo_title: "Burley Bark Ranger Pet Bike Trailer Review (2026): Worth It?"
 meta_description: "Our Burley Bark Ranger pet bike trailer review covers real-world towing, safety, and comfort. See if this 4.6-star trailer fits your dog."
 slug: "burley-bark-ranger-pet-bike-trailer-b09vf3-review"
 image_alt: "Burley Bark Ranger pet bike trailer hitched to a bicycle with a dog inside"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09VF3XRV9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n7vFb73GL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Tow hitch and arm fold flat in seconds without tools"  
   - "Interior has padded floor and two leash tethers that actually clip to a harness"  
   - "Roll-up rear and front windows give cross-breeze ventilation on warm rides"  
-cons:  
+cons: 
   - "No parking brake — the trailer rolls on any slope when unhitched"  
   - "Assembly takes a solid 45 minutes; the wheel axles need a second person to align"
+
 ---
 
 **Does your dog deserve a first-class seat on your next ride?** The Burley Bark Ranger is the trailer you’ll see at every trailhead — and for good reason. With a 4.6-star average across 229 ratings, it’s not just popular; it’s proven. But before you drop serious cash, let’s talk about what it’s actually like to tow 75 pounds of happy dog behind your bike.

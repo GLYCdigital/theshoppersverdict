@@ -1,4 +1,5 @@
 ---
+
 title: "Kenra Professional Platinum Working Spray 14 | Flexible Hold"
 seo_title: "Kenra Professional Platinum Working Spray 14 | Fle Review"
 meta_description: "Our full kenra professional platinum working spray 14 | flexible hold review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDNBVB98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NfAf4VcwL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most flexible hold hairsprays are either too weak to do anything or so stiff they defeat the word "flexible." Kenra's Platinum Working Spray 14 claims to split that difference. After digging through 229 ratings and testing the formula's claims, here's the honest breakdown.

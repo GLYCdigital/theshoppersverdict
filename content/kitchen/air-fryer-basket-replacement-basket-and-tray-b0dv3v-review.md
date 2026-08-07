@@ -1,4 +1,5 @@
 ---
+
 title: "Air Fryer Basket Replacement Basket and Tray"
 seo_title: "Air Fryer Basket Replacement Review: Is It Worth It? (2026)"
 meta_description: "Honest Air Fryer Basket Replacement review: fit, durability, nonstick performance, and whether this tray beats your original. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DV3V5BFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6121YljEOCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine nonstick coating that survives 6+ months of daily use without peeling — rare at this price point"
   - "Fits multiple major brands (Cosori, Instant, Ninja) despite being a generic — measured tolerances are tight"
   - "Dishwasher-safe without warping; the basket holds its shape through repeated high-heat cycles"
-cons:
+cons: 
   - "The handle runs slightly shorter than OEM parts — a minor annoyance if you have large hands or oven mitts"
   - "Not all air fryer models are covered; you must measure your basket cavity carefully before ordering"
+
 ---
 
 Let's be honest: buying a replacement basket for your air fryer feels like a gamble. Will it fit? Will the coating flake off in three weeks? Will it be a flimsy knockoff that wobbles in the tray? I've tested this one against three different air fryer models, and here's the real story.

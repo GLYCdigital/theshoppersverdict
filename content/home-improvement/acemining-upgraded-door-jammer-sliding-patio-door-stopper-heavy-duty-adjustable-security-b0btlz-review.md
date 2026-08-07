@@ -1,4 +1,5 @@
 ---
+
 title: "AceMining Upgraded Door Jammer & Sliding Patio Door Stopper,"
 seo_title: "AceMining Door Jammer Review: Heavy-Duty Security Tested"
 meta_description: "AceMining upgraded door jammer & patio door stopper review: Does this adjustable steel security bar actually work? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BTLZ46D2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bY669swJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adjustable length from 28 to 48 inches covers both standard entry doors and wide sliding patio doors without tools"
   - "Dual rubber pads protect floors and door frames while providing serious grip — no slipping even on tile and hardwood"
   - "Foldable design stores flat when not in use, unlike bulky traditional door stops"
-cons:
+cons: 
   - "Not effective on carpeted floors — the rubber grip needs a hard, smooth surface to bite into"
   - "At 2.4 pounds, it's heavier than a basic wedge; travelers may find it bulky for carry-on luggage"
+
 ---
 
 # AceMining Upgraded Door Jammer & Sliding Patio Door Stopper Review: Does This Adjustable Security Bar Actually Work?

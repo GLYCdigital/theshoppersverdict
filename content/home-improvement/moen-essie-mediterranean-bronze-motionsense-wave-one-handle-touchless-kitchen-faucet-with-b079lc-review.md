@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Essie Mediterranean Bronze MotionSense Wave One-Handle "
 seo_title: "Moen Essie Mediterranean Bronze MotionSense Wave O Review"
 meta_description: "Our full moen essie mediterranean bronze motionsense wave one-handle  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B079LC6RHK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610VO-mJ3xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood at the sink with raw chicken on your hands and thought, "I really don't want to touch that handle," the Moen Essie MotionSense Wave answers that prayer. This is a touchless kitchen faucet that doesn't require you to wave frantically like you're hailing a cab — a quick pass of your hand or forearm near the sensor gets the water flowing.

@@ -1,4 +1,5 @@
 ---
+
 title: "Wellnes CORE Digestive Health Grain Free Wet Dog Food for Do"
 seo_title: "Wellnes CORE Digestive Health Grain Free Wet Dog F Review"
 meta_description: "Our full wellnes core digestive health grain free wet dog food for do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09K39QHB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51577Tw56JL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front:** If your dog has chronic loose stools, gas, or a sensitive stomach, this is one of the better grain-free wet foods you can buy — but it costs more and isn't a standalone meal for bigger pups.

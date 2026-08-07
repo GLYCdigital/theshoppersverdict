@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports - NHL Kids Folding Hockey Goals Set - (2) St"
 seo_title: "Franklin Sports NHL Kids Folding Hockey Goals Set Review"
 meta_description: "Franklin Sports NHL Kids Folding Hockey Goals Set review: 2 goals, portable design, real durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BQLQN2X9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vBZai+TRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Two full-size 54 inch " x 36 inch " goals included — ready for real 1-on-1 or shootout play right out of the box
   - "Folds flat in seconds without tools; each goal collapses to roughly 2 inches thick for easy garage or trunk storage"
   - "Steel frame and reinforced netting hold up to slap shots from kids 5–12 without bending or tearing"
-cons:
+cons: 
   - "Frame is lightweight enough that hard hits can slide the goal on smooth driveways — you'll want sandbags or stakes for serious games"
   - "Net attachment is friction-fit only; it pops loose occasionally on direct post shots, requiring a quick re-seat"
+
 ---
 
 **The Quick Hook: Two Goals, Zero Assembly Headaches**

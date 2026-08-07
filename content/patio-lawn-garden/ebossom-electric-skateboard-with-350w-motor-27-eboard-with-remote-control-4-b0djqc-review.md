@@ -1,4 +1,5 @@
 ---
+
 title: "EBOSSOM Electric Skateboard with 350W Motor, 27 inch  Eboard with"
 seo_title: "EBOSSOM Electric Skateboard Review: 350W Motor & Remote"
 meta_description: "EBOSSOM electric skateboard review: 350W motor, 27 inch  deck, remote control. Real buyer feedback on speed, range, and build quality. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJQCKNQZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z-Wki9qlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "350W brushless motor delivers 15 mph top speed with enough torque for mild hills"
   - "Compact 27-inch deck (15.4 lbs) is genuinely portable — fits in a large backpack"
   - "Wireless remote with 3 speed modes makes it beginner-friendly without feeling toy-like"
-cons:
+cons: 
   - "6-8 mile range is realistic only on flat ground; expect closer to 5 miles if you're heavier or ride aggressively"
   - "Smaller 90mm wheels transmit road vibration — rough asphalt and cracks are noticeable"
   - "No official water resistance rating; avoid puddles and wet pavement entirely"
+
 ---
 
 The EBOSSOM Electric Skateboard sits in a curious spot: it's not a toy, but it's not a serious commuter board either. At 27 inches with a 350W motor, this is aimed at riders who want the fun of electric skating without dropping $800 on a premium longboard. The 4.5-star average across 225 ratings tells you it mostly delivers. Here's what you need to know before clicking buy.

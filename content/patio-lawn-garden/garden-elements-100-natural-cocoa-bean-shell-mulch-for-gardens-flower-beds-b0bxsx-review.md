@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Elements 100% Natural Cocoa Bean Shell Mulch for Gard"
 seo_title: "Garden Elements Cocoa Bean Shell Mulch Review (2026)"
 meta_description: "Honest Garden Elements cocoa bean shell mulch review: smell, weed suppression, longevity, pet safety risks, and whether it's worth your money."
@@ -11,15 +12,16 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BXSXWVCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819LePXlI5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Deep chocolate aroma lasts 2-3 weeks after application, far more pleasant than bark or rubber mulch"
   - "Naturally suppresses weeds by forming a dense mat that blocks sunlight, reducing hand-weeding by roughly half in the first season"
   - "Adds organic matter and nitrogen to soil as it decomposes, improving earthworm activity in flower beds"
   - "Covers roughly 1 square foot per 2-inch layer per pound — a 2-cubic-foot bag handles about 12 square feet"
-cons:
+cons: 
   - "Toxic to dogs if ingested — theobromine in cocoa shells can cause vomiting, seizures, or worse; not suitable for pet-owners"
   - "Can develop a white, fuzzy mold within 3-5 weeks in humid climates, which looks alarming but is harmless"
   - "Breaks down noticeably faster than bark mulch — expect to reapply every 6-9 months, not annually"
+
 ---
 
 You know that moment when you step into a garden and something just *smells* right? That's the Garden Elements cocoa bean shell mulch experience. Unlike the faint petroleum tang of rubber mulch or the nothing-smell of dyed bark, this stuff hits you with a rich, dark chocolate aroma that lingers for weeks. It's the kind of detail that makes neighbors stop and ask what you've done differently.

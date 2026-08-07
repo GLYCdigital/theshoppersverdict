@@ -1,4 +1,5 @@
 ---
+
 title: "Sundae Ice Cream Flavored Coffee Pods, Compatible with 2.0 K"
 seo_title: "Sundae Ice Cream Flavored Coffee Pods, Compatible  Review"
 meta_description: "Our full sundae ice cream flavored coffee pods, compatible with 2.0 k review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C11GP5B1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tLbSKdBaL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever wished your morning coffee tasted like a melted sundae, Sundae’s ice cream–flavored pods are the closest thing to that without a blender. As shown in the product image, the lineup runs from Birthday Cake to Strawberry Shortcake, and each pod claims to recreate a dessert in liquid form. At 4.2 stars across 210 ratings, these pods have a solid following — but they’re not for everyone.

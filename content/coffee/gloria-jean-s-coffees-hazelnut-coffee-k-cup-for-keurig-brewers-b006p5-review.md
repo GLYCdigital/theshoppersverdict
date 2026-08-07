@@ -1,4 +1,5 @@
 ---
+
 title: "Gloria Jean's Coffees, Hazelnut Coffee, K-Cup for Keurig Bre"
 seo_title: "Gloria Jean's Coffees, Hazelnut Coffee, K-Cup for  Review"
 meta_description: "Our full gloria jean's coffees, hazelnut coffee, k-cup for keurig bre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B006P5Q3EQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OZJM8113L._SL1230_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in a Gloria Jean's coffeehouse and smelled that signature hazelnut, you know the bar. This K-Cup version aims to bottle that experience for your Keurig. The good news? It mostly gets there. The honest truth? The aroma outshines the cup by a noticeable margin.

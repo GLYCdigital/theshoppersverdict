@@ -1,4 +1,5 @@
 ---
+
 title: "Spektrum SMART 1400mAh 2S 7.4V G2 30C LiPo Battery with IC2 "
 seo_title: "Spektrum SMART 1400mAh 2S 7.4V G2 30C LiPo Battery Review"
 meta_description: "Our full spektrum smart 1400mah 2s 7.4v g2 30c lipo battery with ic2  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKZF5RN3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t2jhanFcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you a headache right now: if you're running a Spektrum-branded 1/16 or 1/18 scale rig like the Losi Mini-B, Mini-T, or the Spektrum-powered Arrma Grom line, this battery is the closest thing to a factory-engineered drop-in replacement you'll find. But if you're on a budget charger or a non-Spektrum vehicle, read the cons before you click buy.

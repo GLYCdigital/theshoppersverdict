@@ -1,4 +1,5 @@
 ---
+
 title: "TONULAX Solar Garden Lights - Swaying Butterfly Light, Swayi"
 seo_title: "TONULAX Solar Garden Lights - Swaying Butterfly Li Review"
 meta_description: "Our full tonulax solar garden lights - swaying butterfly light, swayi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSKWHX6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b-rkLkT6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've seen those rigid solar butterflies that sit there like museum specimens, you already know the problem this product solves. The TONULAX Swaying Butterfly Light actually moves — a small spring mechanism lets the butterfly bob and flutter with even light wind, which makes it read as convincingly alive from across the yard. That single design choice is why this little stake light has earned 4.5 stars across 225 ratings.

@@ -1,4 +1,5 @@
 ---
+
 title: "91 Inch Lawson Sofa Couch"
 seo_title: "91 Inch Lawson Sofa Couch Review: Worth It in 2026?"
 meta_description: "Honest 91 Inch Lawson Sofa Couch review: build quality, comfort, real buyer feedback, and who should buy. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT97KY7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/917PmsoWxML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 91-inch width seats three adults comfortably without the oversized footprint of a sectional"
   - "Firm, supportive cushions that hold their shape — several buyers report no sagging after 6+ months"
   - "Easy 30-minute assembly with no special tools required beyond the included Allen wrench"
-cons:
+cons: 
   - "Back cushions are loose and need regular fluffing to keep the Lawson profile looking sharp"
   - "Low ground clearance makes it tough for robot vacuums to get underneath"
+
 ---
 
 ## The 91-Inch Sweet Spot

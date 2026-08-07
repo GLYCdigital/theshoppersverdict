@@ -1,4 +1,5 @@
 ---
+
 title: "DA63-08645A Door Shelf Bin (OEM) Compatible with samsung RT1 inch"
 seo_title: "DA63-08645A Door Shelf Bin Review: OEM Samsung Fit"
 meta_description: "Honest DA63-08645A door shelf bin review. OEM Samsung replacement for RT18M models. Real fit, durability, and value tested. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL1P8W5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tUecKMI8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True OEM part with Samsung branding — not a gamble-prone knockoff"
   - "Precise fit for RT18M6215SG/SR and compatible models; snaps in with zero modification"
   - "Sturdy clear plastic that matches original finish and holds up to daily use"
-cons:
+cons: 
   - "Price runs higher than generic alternatives — you pay for the OEM guarantee"
   - "Only fits specific RT1 series models; check your model number before ordering"
+
 ---
 
 A cracked refrigerator door bin is one of those annoyances that turns a working appliance into an eyesore. Every time you grab the milk, you see that jagged break. And the aftermarket replacements? They're a gamble — some fit, some wobble, some yellow after a month. That's where this OEM Samsung DA63-08645A bin steps in. It's the actual factory part, not a clone. Here's the real story on whether it's worth your money.

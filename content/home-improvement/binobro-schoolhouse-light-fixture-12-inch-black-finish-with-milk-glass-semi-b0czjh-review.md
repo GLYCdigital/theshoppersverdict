@@ -1,4 +1,5 @@
 ---
+
 title: "BinoBro Schoolhouse Light Fixture, 12 Inch Black Finish with"
 seo_title: "BinoBro Schoolhouse Light Fixture Review: 12-Inch Black"
 meta_description: "BinoBro 12-inch schoolhouse light fixture review: build quality, milk glass glow, installation ease, and who should buy it. Honest verdict at 4.2/5."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CZJH6Y85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610gqf-FbAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine milk glass shade diffuses light evenly — no harsh hotspots or glare, even with bare bulbs"
   - "12-inch diameter fits standard 4-inch junction boxes with no adapter needed; mounting plate is pre-drilled for both"
   - "Black finish is a true matte powder coat, not shiny spray paint — resists fingerprints and minor scuffs"
-cons:
+cons: 
   - "Requires a candelabra-base (E12) bulb, not the standard medium (E26) base most households stock"
   - "Glass shade sits snug with no gasket — can rattle slightly if installed on a ceiling with vibration (e.g., above a garage door)"
+
 ---
 
 Let me be upfront about why this fixture matters: most "schoolhouse" lights under $60 are cheap stamped metal with a plastic shade that yellows within a year. The BinoBro 12-inch black version is not that. It’s a legit semi-flush mount that does exactly what a farmhouse or craftsman hallway needs — and it does it without pretending to be a $200 Restoration Hardware piece.

@@ -1,4 +1,5 @@
 ---
+
 title: "Rszfnjxry Mini 4 Pro/Mini 3 Pro/Mini 3 Intelligent Flight Ba"
 seo_title: "Rszfnjxry Mini 4 Pro/Mini 3 Pro/Mini 3 Intelligent Review"
 meta_description: "Our full rszfnjxry mini 4 pro/mini 3 pro/mini 3 intelligent flight ba review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSC8L8LW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5122EohktkL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: if you own a DJI Mini 3, Mini 3 Pro, or Mini 4 Pro, you already know the sting of that $65+ OEM battery price. The Rszfnjxry Intelligent Flight Battery steps in as a third-party alternative that promises OEM-level performance at a fraction of the cost. After digging through 220 ratings and the technical specs, here's what you actually need to know.

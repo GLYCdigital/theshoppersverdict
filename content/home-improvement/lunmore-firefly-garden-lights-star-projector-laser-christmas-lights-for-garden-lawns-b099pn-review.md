@@ -1,4 +1,5 @@
 ---
+
 title: "Lunmore Firefly Garden Lights Star Projector Laser Christmas"
 seo_title: "Lunmore Firefly Garden Lights Star Projector Laser Review"
 meta_description: "Our full lunmore firefly garden lights star projector laser christmas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B099PNJY8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71szD+4JL0L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here is the review:

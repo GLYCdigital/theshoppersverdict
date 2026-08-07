@@ -1,4 +1,5 @@
 ---
+
 title: "Shopsource Baseball Batting Mat, 10x3.8/12x6ft Softball Hitt"
 seo_title: "Shopsource Baseball Batting Mat, 10x3.8/12x6ft Sof Review"
 meta_description: "Our full shopsource baseball batting mat, 10x3.8/12x6ft softball hitt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F9Y2MRH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ET3Zn09NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most batting mats are glorified doormats with paint on them. The Shopsource Baseball Batting Mat is not that. At 4.4 stars across 220 ratings, it's clear this thing earns its keep in garages, backyards, and cages across the country. But is it right for *your* setup? Here's what I found digging through the specs, the feedback, and the real-world use cases.

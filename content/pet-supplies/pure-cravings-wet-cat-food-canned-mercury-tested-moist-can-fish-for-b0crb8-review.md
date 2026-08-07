@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Cravings Wet Cat Food Canned, Mercury-Tested Moist Can "
 seo_title: "Pure Cravings Wet Cat Food Canned, Mercury-Tested  Review"
 meta_description: "Our full pure cravings wet cat food canned, mercury-tested moist can  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CRB8YTF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qpUiYmT2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Mercury-tested fish cat food sounds like a gimmick until you've had a cat with thyroid issues from contaminated seafood. Pure Cravings positions itself as the safety-first option in a category where "fish" often means "whatever swam through industrial runoff." The 4.0-star rating from 200 buyers suggests it mostly delivers — but with caveats worth knowing before you stock the pantry.

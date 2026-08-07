@@ -1,4 +1,5 @@
 ---
+
 title: "Classic Brands 4.5-Inch Cool Gel Memory Foam Replacement Mat"
 seo_title: "Classic Brands 4.5 inch Cool Gel Memory Foam Mat Review (2026)"
 meta_description: "Honest Classic Brands 4.5-inch Cool Gel Memory Foam Replacement Mat review: comfort, durability, sinkage issues, and who should buy it. Real buyer insights."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00FNFAFY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91F0vqBDp1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 4.5-inch thickness delivers real pressure relief without needing a full mattress replacement"
   - "Cool gel infusion measurably reduces heat retention compared to standard memory foam"
   - "Fits most existing box springs or platform beds with zero assembly required"
-cons:
+cons: 
   - "No built-in cover — foam is exposed and requires a separate fitted sheet or mattress protector"
   - "Significant off-gassing smell that lingers for 24-48 hours after unboxing"
   - "Sinkage is pronounced for heavier sleepers; may bottom out on older box springs"
+
 ---
 
 Let's be direct: if you're looking at the Classic Brands 4.5-Inch Cool Gel Memory Foam Replacement Mat, you're probably trying to revive a worn-out mattress without spending $800 on a new one. That's exactly what this product is designed for — and for the most part, it delivers.

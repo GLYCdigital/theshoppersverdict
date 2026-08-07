@@ -1,4 +1,5 @@
 ---
+
 title: "TOPS 8.5 x 11 3/4"
 seo_title: "TOPS 8.5 x 11 3/4 Review: Verdict | TSV"
 meta_description: "Our full tops 8.5 x 11 3/4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F7XZS1V4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GQ0MLz-qL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TOPS 8.5 x 11 3/4 is the kind of product that doesn't get a lot of glory, but it quietly does its job better than most. With a 4.7-star average across 235 ratings, this legal pad has earned its place in offices, courtrooms, and home desks. But is it the right pad for *your* workflow? Let's break down what you're actually getting.

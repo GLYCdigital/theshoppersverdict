@@ -1,23 +1,25 @@
 ---
+
 title: "CRAFTSMAN Keychain Tape Measure, 6 FT (CMHT37106G)"
 seo_title: "CRAFTSMAN Keychain Tape Measure 6FT Review (2026): Worth It?"
 meta_description: "Honest CRAFTSMAN Keychain Tape Measure 6FT review: build quality, accuracy, real-world use, and who should buy it. See pros, cons, and verdict."
 slug: "craftsman-keychain-tape-measure-6-ft-cmht37106g-b0bm5x-review"
 image_alt: "CRAFTSMAN 6-foot keychain tape measure with belt clip and metric markings"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BM5XZFWM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pa4fWliRL._SL1500_.jpg"
-pros:  
+pros: 
   - "Compact 2.5-inch body fits on any keyring yet extends a full 6 feet with a rigid, non-sagging blade"  
   - "Dual-sided markings (imperial on one edge, metric on the other) eliminate mental math on mixed projects"  
   - "Integrated belt clip and lanyard hole make it genuinely drop-proof in daily carry"  
-cons:  
+cons: 
   - "No locking mechanism — blade retracts the moment you release pressure, making one-handed measuring awkward"  
   - "Small blade hook struggles with rough surfaces like drywall or brick; it's built for trim and fabric, not heavy framing"
+
 ---
 
 If you’ve ever fumbled for a full-size tape measure just to check a shelf gap or a picture frame width, the CRAFTSMAN Keychain Tape Measure (CMHT37106G) is the fix you didn’t know you needed. This isn’t a gimmick keychain novelty — it’s a legitimate 6-foot measuring tool that rides on your keys and handles 90% of the quick-measure tasks that pop up daily.

@@ -1,4 +1,5 @@
 ---
+
 title: "PREXISO Multi Surface Laser Level LED Light Vial, 30Ft Horiz"
 seo_title: "PREXISO Multi Surface Laser Level LED Light Vial,  Review"
 meta_description: "Our full prexiso multi surface laser level led light vial, 30ft horiz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09N3JTK8Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BHAaHVhyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Slug:** prexiso-multi-surface-laser-level-led-light-vial-30ft-horizontal-vertical-line-b09n3j-review

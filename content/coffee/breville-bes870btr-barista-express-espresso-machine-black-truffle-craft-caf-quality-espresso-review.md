@@ -1,16 +1,17 @@
 ---
+
 title: "Breville BES870BTR Barista Express Espresso Machine, Black Truffle | Craft café-quality espresso shots, lattes and cappuccinos at home with this manual coffee maker with built-in grinder"
 seo_title: "Breville BES870BTR Barista Review: Verdict (4.5/5) | TSV"
 meta_description: "There's a lot of customization available to you and it is a very good quality 27,735+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "breville-bes870btr-barista-express-espresso-machine-black-truffle-craft-caf-quality-espresso-review"
 image_alt: "Breville BES870BTR Barista Express Espresso Machine, Black Truffle | Craft café-quality espresso shots, lattes and cappu"
-keywords:
+keywords: 
   - "breville bes870btr barista review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Breville BES870BTR Barista Express?"
     answer: "There's a lot of customization available to you and it is a very good quality machine That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Breville BES870BTR Barista Express?"
@@ -23,12 +24,13 @@ review_count: 27735
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKQFHV6X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UHGmdP6IL._SL1500_.jpg"
-pros:
+pros: 
   - "There's a lot of customization available to you and it is a very good quality machine."
   - "Eventually you may want to upgrade to a more robust multi-thousand dollar machine."
   - "If you are especially handy and brave enough to fix it yourself."
-cons:
+cons: 
   - "Maybe have both options available to users."
+
 ---
 
 Let me save you some time: if you're looking at the Breville Barista Express, you've already decided you're tired of $6 lattes but aren't ready to drop $2,000 on a Rocket or Profitec. The BES870BTR sits in that sweet spot — and with 27,735 ratings holding a 4.5-star average, it's the most-reviewed semi-automatic espresso machine on Amazon for a reason.

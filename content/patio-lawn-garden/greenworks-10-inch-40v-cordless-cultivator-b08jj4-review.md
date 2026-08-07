@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks 10-Inch 40V Cordless Cultivator"
 seo_title: "Greenworks 10-Inch 40V Cordless Cultivator Review: Verdic"
 meta_description: "Our full greenworks 10-inch 40v cordless cultivator review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08JJ456WY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CTZ3wbbPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a gas tiller through a soggy spring bed — the pull cord, the fumes, the vibration — the Greenworks 10-Inch 40V Cordless Cultivator is the antidote. This is a light-duty soil mixer for gardeners who want to break up existing beds, work in compost, or prep a small vegetable plot without the shoulders of a lumberjack. In the product image, you can see the classic cultivator silhouette: three steel tine pairs spinning under a compact housing, a rear handle for control, and a forward assist handle for steering. But what matters is how it actually handles in the dirt — and after combing through 215 ratings, here's the real picture.

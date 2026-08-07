@@ -1,4 +1,5 @@
 ---
+
 title: "Colgate Toothbrush Sensitive,"
 seo_title: "Colgate Sensitive Toothbrush Review: Soft Bristles That Work"
 meta_description: "Colgate Sensitive toothbrush review: ultra-soft bristles, ergonomic handle, and gentle cleaning for sensitive gums. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F24R49C9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511Sb22-xqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Ultra-soft bristles with polished ends that genuinely reduce gum irritation during brushing"
   - "Ergonomic non-slip grip handle gives precise control, even with wet hands"
   - "Compact head reaches molars and back teeth without awkward angling"
-cons:
+cons: 
   - "Bristles wear down faster than medium or firm brushes — expect replacement every 6-8 weeks"
   - "No built-in tongue scraper on the back of the head, which some competitors include"
   - "Not ideal for heavy plaque buildup; soft bristles require more brushing time to feel effective"
+
 ---
 
 Let's be honest: most toothbrushes are an afterthought. You grab whatever's on sale, use it for three months past its prime, and wonder why your gums bleed. The Colgate Sensitive brush, sitting at 4.6 stars across 229 Amazon ratings, is trying to change that calculus. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Black+Decker 20V MAX Lithium Battery 2.0 Amp Hour (LBXR2020-"
 seo_title: "Black+Decker 20V MAX 2.0Ah Battery Review: Worth It?"
 meta_description: "Black+Decker 20V MAX 2.0Ah battery review: real-world run time, compatibility, and durability. Is this replacement worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B085JDPKKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Un72M9qXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine OEM compatibility — works with every Black+Decker 20V MAX tool and charger without adapter hassle"
   - "Lightweight 0.6 lb design that balances well on drills and impacts without dragging your wrist down"
   - "Consistent power delivery — holds voltage under load better than generic third-party replacements"
-cons:
+cons: 
   - "2.0Ah capacity is entry-level — expect 30–40 minutes of heavy drilling, not all-day runtime"
   - "No fuel gauge or charge indicator LED, so you can't check remaining juice without testing the tool"
   - "Premium price vs. aftermarket options — you're paying for reliability and warranty, not raw capacity"
+
 ---
 
 Let's cut through the noise: if you own any Black+Decker 20V MAX tool, this battery is the safe, boring, correct choice. But is it the *smart* choice? That depends on how you use your tools and what you're willing to pay for peace of mind.

@@ -1,4 +1,5 @@
 ---
+
 title: "Apple 16-inch MacBook Pro (Renewed)"
 seo_title: "Apple 16-inch MacBook Pro (Renewed) Review: Worth It?"
 meta_description: "Honest review of the renewed Apple 16-inch MacBook Pro. Performance, battery life, and risks of buying refurbished. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C31W27HX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61La8PAa42L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "M1 Pro chip delivers desktop-class performance that handles 4K video editing and heavy code compilation without thermal throttling"
   - "Battery life genuinely hits 14-16 hours on mixed productivity work, which is exceptional for a 16-inch workstation"
   - "The mini-LED XDR display with 1600 nits peak brightness and ProMotion 120Hz makes color-critical work a genuine pleasure"
-cons:
+cons: 
   - "Renewed units vary wildly in cosmetic condition — some arrive with visible scuffs that standard Amazon Renewed photos don't reveal"
   - "At nearly 5 pounds with the charger, it's a heavy daily carry — this is not a lap-friendly machine for couch work"
   - "Upgrading storage or RAM after purchase is impossible, so you're locked into whatever config you buy"
+
 ---
 
 Here's the thing about the 16-inch MacBook Pro: it's the laptop that made me stop carrying my desktop-replacement dreams in my head and start carrying them in a backpack. The renewed market for these machines is where the real value lives, but that value comes with caveats you need to understand before you click buy.

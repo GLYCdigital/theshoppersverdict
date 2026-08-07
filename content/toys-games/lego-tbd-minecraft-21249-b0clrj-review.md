@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO TBD Minecraft 21249"
 seo_title: "LEGO TBD Minecraft 21249 Review: Verdict | TSV"
 meta_description: "Our full lego tbd minecraft 21249 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CLRJXSDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JvjoiyM8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a Minecraft kid in your house, you already know the drill: every LEGO Minecraft set promises "endless adventures," and most deliver a glorified diorama you build once and shelve. The LEGO Minecraft 21249 set is different — but not for the reasons LEGO's marketing would have you believe.

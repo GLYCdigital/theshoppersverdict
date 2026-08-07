@@ -1,4 +1,5 @@
 ---
+
 title: "HyperTiles Hyperbolic Building Toy - 3 inch  x 3 inch  STEM Educationa"
 seo_title: "HyperTiles Review: 3 inch  STEM Building Toy Worth It? (2026)"
 meta_description: "Honest HyperTiles hyperbolic building toy review: 3 inch  x 3 inch  STEM tiles, real customer feedback, pros, cons, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3MB44L3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OPQY5IO-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely unique geometry — tiles snap together to form saddle shapes that no standard magnetic tile set can replicate"
   - "Surprisingly sturdy connection system that holds up to repeated building and rebuilding without loosening"
   - "Doubles as a legit conversation piece for adults — this isn't just a kids-only toy"
-cons:
+cons: 
   - "No instructions or idea booklet included — you're figuring out the math yourself, which frustrates some buyers"
   - "At 3 inches per tile, you need multiple sets to build anything substantial; one pack feels thin"
+
 ---
 
 Here's the thing about HyperTiles that you won't get from the product photos: these little squares don't behave like any building toy you've used before. Most construction sets — magnetic tiles, LEGO, K'NEX — build straight up and out. HyperTiles build *curved*. Not because you bend them, but because their edges are engineered to create hyperbolic surfaces when connected. That's the math term for a saddle shape, and it's the entire point of this toy.

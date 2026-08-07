@@ -1,4 +1,5 @@
 ---
+
 title: "Apicizon Round Side End Table for Living Room Bedroom"
 seo_title: "Apicizon Round Side Table Review: Worth It? (2026)"
 meta_description: "Honest Apicizon round side end table review: build quality, real-world use, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG9GBL4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zX8HUHAXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy steel frame with a weighted base that doesn't wobble on carpet or hardwood"
   - "Scratch-resistant tabletop surface that handles hot mugs and daily wear without marking"
   - "Tool-free assembly in under 5 minutes — twist the legs in and you're done"
-cons:
+cons: 
   - "Small 15.7-inch diameter top limits placement to lamps and drinks, not a full workspace"
   - "Open lower shelf catches dust and needs regular wiping to stay presentable"
+
 ---
 
 Let's be blunt: most side tables under $50 are wobbly, cheap, and look like they'll collapse if you look at them wrong. The Apicizon Round Side End Table isn't that — but it's also not a heirloom piece. Here's what 220 Amazon reviewers (4.4 stars) actually say about living with it.

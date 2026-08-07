@@ -1,4 +1,5 @@
 ---
+
 title: "LIKIMIO Bunk Bed Twin XL Over Twin XL, Metal Bunk Bed Frame "
 seo_title: "LIKIMIO Bunk Bed Twin XL Over Twin XL, Metal Bunk  Review"
 meta_description: "Our full likimio bunk bed twin xl over twin xl, metal bunk bed frame  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FYMG7HL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91476RRwIuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a twin XL bunk bed, you already know the struggle: most metal frames stop at standard twin length, which means college students and taller teens are stuck with feet hanging off the edge. That's the niche the LIKIMIO Twin XL Over Twin XL fills. It's a no-nonsense metal frame built for the extra-long 80-inch mattress that dominates dorm rooms and taller kids' bedrooms.

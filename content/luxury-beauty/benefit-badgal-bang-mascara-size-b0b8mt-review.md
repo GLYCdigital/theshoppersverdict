@@ -1,4 +1,5 @@
 ---
+
 title: "Benefit Badgal BANG Mascara Size"
 seo_title: "Benefit Badgal BANG Mascara Review: Volume That Lasts"
 meta_description: "Honest Benefit Badgal BANG mascara review: 36-hour wear, dramatic volume, but smudging concerns. Real buyer feedback on the viral formula."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B8MT8MP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yhPCfywPL._SL1500_.jpg"
-pros:
+pros: 
   - "Gel-based formula delivers dramatic volume without clumping, even on thin lashes"
   - "36-hour wear claim holds up for most users — no flaking by end of workday"
   - "Oversized hourglass brush grabs every lash from root to tip in one pass"
-cons:
+cons: 
   - "Not fully waterproof — tears or heavy humidity cause noticeable smudging"
   - "Can feel stiff and crunchy by hour 12, especially if you layer more than two coats"
+
 ---
 
 **The mascara that promises "BANG" — and mostly delivers.**

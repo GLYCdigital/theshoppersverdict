@@ -1,4 +1,5 @@
 ---
+
 title: "YETI Rambler 12 oz. Colster Slim Can Insulator for the Slim "
 seo_title: "YETI Rambler 12 oz. Colster Slim Can Insulator for Review"
 meta_description: "Our full yeti rambler 12 oz. colster slim can insulator for the slim  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BVC7XDMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51T3MHsu+OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # YETI Rambler 12 oz. Colster Slim: The Narrow-Cold Solution

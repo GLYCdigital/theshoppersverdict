@@ -1,4 +1,5 @@
 ---
+
 title: "AirWire 9.4x9.4 FT Outdoor Storage Shed, Garden Shed with Up"
 seo_title: "AirWire 9.4x9.4 Shed Review: Worth It? Honest Buyer's Guide"
 meta_description: "AirWire 9.4x9.4 FT outdoor storage shed reviewed: build quality, assembly difficulty, weather resistance, and real owner feedback. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D6G8CS8K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ik1PhmlhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "88 square feet of storage space — large enough for a riding mower plus shelving, at roughly 9.4x9.4 feet footprint"
   - "Galvanized steel frame with rust-resistant coating handles moderate rain and snow loads when properly anchored"
   - "Double sliding doors are wide enough to back a lawn tractor through without scraping mirrors"
-cons:
+cons: 
   - "Assembly is a genuine two-person, 6-8 hour project — not a weekend solo build despite what the manual implies"
   - "Anchoring kit sold separately; in exposed areas, wind can lift the roof panels if not secured to a concrete pad"
   - "Sheet metal panels dent easily from hail or stray footballs; replacement parts require contacting seller directly"
+
 ---
 
 The AirWire 9.4x9.4 FT Outdoor Storage Shed sits in an awkward middle ground. It's not a flimsy $200 pop-up tent, but it's also not a permanent wood structure. At roughly 88 square feet, it promises real storage capacity at a mid-range price point. The 190 Amazon ratings averaging 3.8 stars tell a story of satisfied owners who did their homework — and frustrated ones who didn't.

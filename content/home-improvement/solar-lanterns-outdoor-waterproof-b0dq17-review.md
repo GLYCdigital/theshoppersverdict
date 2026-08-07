@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns Outdoor Waterproof"
 seo_title: "Solar Lanterns Outdoor Waterproof Review: Verdict | TSV"
 meta_description: "Our full solar lanterns outdoor waterproof review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQ17PKSD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OKweibg3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of string lights that die after one season or motion-sensor floods that blast your neighbors, solar lanterns are the quiet middle ground. These IP65-rated units have 220 Amazon ratings averaging 4.4 stars, and after digging through the feedback, the story is consistent: they work, they're cheap to run, and they have one clear limitation — battery life.

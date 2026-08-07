@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Beneful Incredibites with Farm-Raised Beef Natural Sm"
 seo_title: "Purina Beneful Incredibites with Farm-Raised Beef  Review"
 meta_description: "Our full purina beneful incredibites with farm-raised beef natural sm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLXV6D5K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DaBcpNyWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog tilts their head at standard kibble and lets it roll around before giving up, the problem might not be pickiness — it's the size of the food. Purina Beneful Incredibites with Farm-Raised Beef exists specifically to solve that problem, and based on 229 Amazon ratings averaging 4.6 stars, it's solving it for a lot of pet owners.

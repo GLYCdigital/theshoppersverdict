@@ -1,4 +1,5 @@
 ---
+
 title: "REVLON ColorStay Micro Easy Precision Liquid Liner"
 seo_title: "REVLON ColorStay Micro Easy Precision Liquid Liner Review"
 meta_description: "Our full revlon colorstay micro easy precision liquid liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL2LV36K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SNBu5WojL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The drugstore liner that thinks it's luxury — and mostly proves it. I've tested liners from $8 to $40, and the REVLON ColorStay Micro Easy Precision Liquid Liner punches above its price point in ways that matter. But it's not perfect, and here's the honest breakdown.

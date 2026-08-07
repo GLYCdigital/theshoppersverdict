@@ -1,4 +1,5 @@
 ---
+
 title: "Barrina 8 Foot LED Bulbs 6500K"
 seo_title: "Barrina 8ft LED Bulbs 6500K Review: Bright Shop Lights"
 meta_description: "Barrina 8ft LED bulbs 6500K review: super-bright 100W T8 tubes for garages and workshops. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B8ZJQ8W1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jCz0SCJML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 100W output (10,000+ lumens) that replaces old 75W fluorescent tubes with noticeably brighter coverage"
   - "Quick-connect wiring harness makes installation a true plug-and-play job — no rewiring or ballast bypass needed for most fixtures"
   - "6500K daylight color temperature renders colors accurately, ideal for detail work and paint matching"
-cons:
+cons: 
   - "Length is a true 8 feet — won't fit standard 4-foot fixtures, and some buyers report needing to trim or adapt mounting clips"
   - "No dimming capability and the included connectors feel slightly flimsy if you're rough with them during install"
+
 ---
 
 Let's be blunt: most LED tube retrofits are overpriced, underpowered, and a headache to install. The Barrina 8-Foot LED Bulbs in 6500K daylight are not that. These are the rare upgrade that actually delivers on the brightness promise while making installation painless. If you're lighting a garage, workshop, or commercial space, this is the tube to beat.

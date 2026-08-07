@@ -1,4 +1,5 @@
 ---
+
 title: "Welding Machine Jewelry - 100a Permanent Jewelry Welder,Jewe"
 seo_title: "Welding Machine Jewelry - 100a Permanent Jewelry W Review"
 meta_description: "Our full welding machine jewelry - 100a permanent jewelry welder,jewe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D4TQK4N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pwhCpR6lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're selling permanent jewelry at markets or running a small studio, you already know the bottleneck isn't your design skills — it's how fast you can weld a clasp without sending a customer home with a broken link. The Welding Machine Jewelry 100A claims to solve that for under what most pro units cost. After digging through 200 Amazon ratings and the spec sheet, here's the real story.

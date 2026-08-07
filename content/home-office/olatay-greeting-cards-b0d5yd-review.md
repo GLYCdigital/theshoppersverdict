@@ -1,4 +1,5 @@
 ---
+
 title: "Olatay greeting cards"
 seo_title: "Olatay greeting cards Review: Verdict | TSV"
 meta_description: "Our full olatay greeting cards review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5YDPJ3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UbLFU2NEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about greeting cards: most are overpriced paper with a Hallmark tax attached. The Olatay set, sitting at a 4.7-star average across 235 ratings, is trying to be the exception. Is it worth your money, or just another pretty box collecting dust on your desk? I dug into the specs and what actual buyers are saying.

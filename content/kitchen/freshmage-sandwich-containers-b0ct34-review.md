@@ -1,4 +1,5 @@
 ---
+
 title: "Freshmage Sandwich containers"
 seo_title: "Freshmage Sandwich containers Review: Verdict | TSV"
 meta_description: "Our full freshmage sandwich containers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT34X2D6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oUwt9OBjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most sandwich containers treat your lunch like cargo — they protect it, sure, but they flatten your bread into a sad, squished disc by noon. The Freshmage set actually solves that specific problem, and it does it for under $20. After digging through the 235 reviews and the specs, here's the real breakdown.

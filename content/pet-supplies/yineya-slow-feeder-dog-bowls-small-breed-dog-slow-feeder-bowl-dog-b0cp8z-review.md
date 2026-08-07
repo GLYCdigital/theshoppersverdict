@@ -1,4 +1,5 @@
 ---
+
 title: "YINEYA Slow Feeder Dog Bowls Small Breed, Dog Slow Feeder Bo"
 seo_title: "YINEYA Slow Feeder Dog Bowls Small Breed, Dog Slow Review"
 meta_description: "Our full yineya slow feeder dog bowls small breed, dog slow feeder bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP8ZLSGT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+L6lluHaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your small dog inhales dinner like it's a competitive sport, the YINEYA Slow Feeder Dog Bowl is one of the more effective fixes I've tested under $20. With a 4.6-star average across 229 ratings, it's earning genuine praise from owners of dachshunds, chihuahuas, and mini poodles who were tired of watching their pups vomit after meals.

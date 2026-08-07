@@ -1,4 +1,5 @@
 ---
+
 title: "Beautyard Solar Table Lamps Outdoor Indoor - Mothers Gifts 3 inch"
 seo_title: "Beautyard Solar Table Lamp Review: 3 Lighting Modes"
 meta_description: "Honest Beautyard solar table lamp review: 4000mAh battery, 3 lighting modes, indoor/outdoor use. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BR5B5JSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yhks0CwtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4000mAh battery holds charge for 8-12 hours on warm mode, so they actually last through a full evening"
   - "Three distinct lighting modes (warm, cool, warm+cool) give real flexibility for patio dining vs. ambient lounging"
   - "IP65 waterproof rating means they survive rain, sprinklers, and coastal humidity without failing"
-cons:
+cons: 
   - "Solar panel is small — full recharge takes 8-10 hours of direct sun, and cloudy days cut runtime noticeably"
   - "The glass shade is fragile; several buyers reported cracks during shipping or when knocked over"
   - "Light output is decorative, not functional — don't expect to read or cook by these"
+
 ---
 
 Let's be clear about what these lamps are: they're mood-setters, not work lights. The Beautyard Solar Table Lamps sit in that sweet spot between cheap string lights and a full hardwired landscape lighting system. At 4.3 stars across 215 ratings, they're earning their keep — but let's break down exactly who should buy them and who should scroll past.

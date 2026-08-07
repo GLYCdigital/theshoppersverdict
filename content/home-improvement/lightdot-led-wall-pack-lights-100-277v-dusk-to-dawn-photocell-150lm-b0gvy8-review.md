@@ -1,4 +1,5 @@
 ---
+
 title: "Lightdot LED Wall Pack Lights, 100-277v Dusk to Dawn Photoce"
 seo_title: "Lightdot LED Wall Pack Lights, 100-277v Dusk to Da Review"
 meta_description: "Our full lightdot led wall pack lights, 100-277v dusk to dawn photoce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVY894KP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cvgwGRqAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me guess: you're tired of fumbling for a light switch every night, or you're paying an electrician to swap out old, power-hungry wall packs that burn out every 18 months. Either way, the Lightdot LED Wall Pack with its integrated dusk-to-dawn photocell is the kind of upgrade that pays for itself in less than a year. But is it the right fixture for your building? Let's dig into the specs that actually matter.

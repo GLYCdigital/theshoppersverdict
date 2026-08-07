@@ -1,7 +1,8 @@
 ---
-title: "LUXOAK 97\" Farmhouse TV Stand with 33\" Fireplace for TVs up "
-seo_title: "LUXOAK 97\" Farmhouse TV Stand with 33\" Fireplace f Review"
-meta_description: "Our full luxoak 97\" farmhouse tv stand with 33\" fireplace for tvs up  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "LUXOAK 97\ Farmhouse TV Stand with 33\ Fireplace for TVs up "
+seo_title: "LUXOAK 97\ Farmhouse TV Stand with 33\ Fireplace f Review"
+meta_description: "Our full luxoak 97\ farmhouse tv stand with 33\ fireplace for tvs up  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "luxoak-97-farmhouse-tv-stand-with-33-fireplace-for-tvs-up-to-b0f8vw-review"
 image_alt: "LUXOAK 97 Farmhouse TV Stand with 33 Fireplace for TVs up to 100, Media Entertainment Center with Large Storage Cabinet "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8VWK9S2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91XNt6K4AML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the Pinterest aesthetic for a second. A 97-inch farmhouse TV stand with a fireplace isn’t a purchase — it’s a commitment. It’s the piece that anchors your entire living room. The LUXOAK version has earned a 4.5-star average from 225 buyers, and after digging through the feedback, I can tell you exactly where that rating comes from — and where it doesn’t.

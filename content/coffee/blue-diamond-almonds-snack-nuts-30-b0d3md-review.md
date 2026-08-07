@@ -1,4 +1,5 @@
 ---
+
 title: "Blue Diamond Almonds Snack Nuts 30 inch"
 seo_title: "Blue Diamond Almonds Snack Nuts Review: Worth It?"
 meta_description: "Blue Diamond Almonds Snack Nuts 30 reviewed: flavor, crunch, value. See if these seasoned almonds beat the competition before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D3MD6H41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dmHFaUvgL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 30-ounce canister delivers roughly 30 single servings — one of the best per-ounce values in the seasoned nut category"
   - "Consistent bold seasoning that clings to every almond, not just surface dust"
   - "Resealable lid actually seals — almonds stay crunchy for weeks, not soggy"
-cons:
+cons: 
   - "Seasoning intensity varies by flavor batch; some canisters arrive lightly coated"
   - "No sodium-reduced option in this 30-ounce format — the salt content runs high for everyday snacking"
+
 ---
 
 Here's the thing about Blue Diamond Almonds Snack Nuts: this isn't a flashy product. It's a big canister of seasoned almonds that sits on your counter and quietly outperforms almost everything else in the snack aisle. After working through the 30-ounce size, I get why it holds a 4.7-star average across 235 ratings — and I also see the cracks that keep it from perfection.

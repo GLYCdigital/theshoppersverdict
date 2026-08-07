@@ -1,4 +1,5 @@
 ---
+
 title: "10 inch Tablet 2 in 1 Android 15 Tablets with Keyboard, 10 inch "
 seo_title: "10 Inch Tablet 2 in 1 Android 15 Review: Keyboard Included"
 meta_description: "Honest 10 inch Tablet 2 in 1 Android 15 review. Is the keyboard worth it? We break down performance, battery, and who should buy. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D93RBLML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k-aO8VBKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full Android 15 with Google Play — not a stripped-down fork, so all your apps install and run normally"
   - "Detachable keyboard with trackpad converts it into a mini laptop for under $100-class pricing"
   - "10.1-inch IPS display at 1280x800 offers solid viewing angles for documents and streaming"
-cons:
+cons: 
   - "2GB RAM (depending on variant) causes noticeable lag when multitasking between 4+ apps"
   - "Built-in storage fills quickly — you'll need a microSD card for anything beyond basic apps"
   - "Keyboard keys are shallow with a cramped layout; fine for emails, painful for long typing sessions"
+
 ---
 
 **Is this the budget 2-in-1 that actually works, or another Android tablet that promises more than it delivers?** I've spent time with dozens of tablets in this price bracket, and the 10 inch Tablet 2 in 1 with Android 15 and a keyboard is a genuinely interesting middle ground. At 4.1 stars from 204 ratings, buyers are mostly satisfied — but the complaints that exist are worth your attention before checkout.

@@ -1,4 +1,5 @@
 ---
+
 title: "Flower Knows Strawberry Rococo Embossed Blush,Pink Matte Fin"
 seo_title: "Flower Knows Strawberry Rococo Embossed Blush,Pink Review"
 meta_description: "Our full flower knows strawberry rococo embossed blush,pink matte fin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5HPNKFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BeT4p57yL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "luxury" drugstore-adjacent blushes are just repackaged talc with a pretty lid. The Flower Knows Strawberry Rococo Embossed Blush isn't that. At $22.50, it's priced like an impulse buy but engineered like something from a French pharmacy counter. Here's the real breakdown after digging through the formula, the packaging, and 235 verified buyer experiences.

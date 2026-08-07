@@ -1,7 +1,8 @@
 ---
-title: "UPHYB 72\" H Ã— 47\" W Metal Privacy Screen, Free Standing Pri"
-seo_title: "UPHYB 72\" H Ã— 47\" W Metal Privacy Screen, Free St Review"
-meta_description: "Our full uphyb 72\" h ã— 47\" w metal privacy screen, free standing pri review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "UPHYB 72\ H Ã— 47\ W Metal Privacy Screen, Free Standing Pri"
+seo_title: "UPHYB 72\ H Ã— 47\ W Metal Privacy Screen, Free St Review"
+meta_description: "Our full uphyb 72\ h ã— 47\ w metal privacy screen, free standing pri review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "uphyb-72-h-47-w-metal-privacy-screen-free-standing-privacy-screen-b0gxzt-review"
 image_alt: "UPHYB 72 H Ã— 47 W Metal Privacy Screen, Free Standing Privacy Screen with Stable Heavy Base for Deck, Porch, Patio, Out"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXZTM4H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xk9R0HsHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about what a privacy screen actually does: it blocks sight lines without requiring a permit, a post-hole digger, or a conversation with your HOA. The UPHYB 72" × 47" metal panel does exactly that, with a decorative laser-cut pattern that makes it feel more like garden art than a barricade.

@@ -1,13 +1,14 @@
 ---
+
 title: "Queen Size Sheet Set – 4 Piece Bed Sheets, Soft and Breathable Microfiber, Includes 1 Fitted Sheet, 1 Flat Sheet and 2 Pillowcases – Oeko Tex (Grey)"
 seo_title: "Queen Size Sheet Set – 4 Piece Bed Sheets, Soft an Review"
 meta_description: "Honest queen size sheet set – 4 piece bed sheet review based on 239,885+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "queen-size-sheet-set-4-piece-bed-sheets-soft-and-breathable-microfiber-review"
 image_alt: "Queen Size Sheet Set – 4 Piece Bed Sheets, Soft and Breathable Microfiber, Includes 1 Fitted Sheet, 1 Flat Sheet and 2 P"
-keywords:
+keywords: 
   - "queen size sheet review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Queen Size Sheet Set –?"
     answer: "Buyers consistently praise good overall value. It's the most commonly mentioned positive across verified reviews."
   - question: "What are the common complaints about the Queen Size Sheet Set –?"
@@ -20,10 +21,11 @@ review_count: 239885
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00NX0WXQI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tGN2LBhrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
-cons:
+cons: 
   - "Minor drawbacks to be aware of"
+
 ---
 
 With 239,885 Amazon ratings and a 4.6 average, this queen sheet set from what's likely a generic Chinese manufacturer has become a quiet juggernaut in home bedding. It's not fancy. It's not Egyptian cotton. But it might be the smartest $25–$35 you spend on your bed this year — if you know what you're getting into.

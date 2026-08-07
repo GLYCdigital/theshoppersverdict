@@ -1,4 +1,5 @@
 ---
+
 title: "Smead End Tab File Folder, Shelf-Master Reinforced Straight-"
 seo_title: "Smead End Tab File Folder, Shelf-Master Reinforced Review"
 meta_description: "Our full smead end tab file folder, shelf-master reinforced straight- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079976YMX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zbIrrMyjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your filing system lives on a shelf rather than in a drawer, you already know the pain of standard folders: tabs buried under the folder above, labels that smudge, and paper that gives up after a year of heavy use. The Smead Shelf-Master Reinforced End Tab Folder is engineered specifically for that problem. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's what you're actually getting.

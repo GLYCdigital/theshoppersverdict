@@ -1,4 +1,5 @@
 ---
+
 title: "Falsken FTHT-20RF Heater Treater 20 Replacement Cartridge"
 seo_title: "Falsken FTHT-20RF Heater Treater Cartridge Review (2026)"
 meta_description: "Honest Falsken FTHT-20RF Heater Treater 20 replacement cartridge review: fit, performance, lifespan, and whether it beats OEM. Buy it or skip it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B018JCU6XQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YbUH6gb1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drop-in fit for OEM Falsken FTHT-20 units — no modification or adapter needed"
   - "Consistent 140°F output verified by multiple long-term owners, even in cold garages"
   - "Solid aluminum housing with corrosion-resistant coating outlasts cheaper plastic alternatives"
-cons:
+cons: 
   - "No mounting bracket included — you'll reuse the old one or buy separately"
   - "Some units arrive with slightly loose thermostat dial; check before installing"
   - "Not compatible with older FTHT-15 models despite similar appearance"
+
 ---
 
 If you own a Falsken Heater Treater 20, you already know the pain of the original cartridge failing right when winter hits. The Falsken FTHT-20RF is the replacement part that keeps showing up in garage forums and Amazon reviews as the fix that actually works. With 235 ratings averaging 4.7 stars, it's clearly doing something right. Here's the full story.

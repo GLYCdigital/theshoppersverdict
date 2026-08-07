@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Monochrome Laser Printer, MFCL2710DW, Wireless Netwo"
 seo_title: "Brother MFCL2710DW Review: Wireless Laser Printer Worth It?"
 meta_description: "Brother MFCL2710DW review: 4.5-star wireless monochrome laser printer with duplex printing. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0763ZCH7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nX8KilAAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 2-sided printing standard — no manual flipping, saves paper and time"
   - "35-page automatic document feeder handles multi-page scans/faxes hands-free"
   - Compact footprint (16.1 inch " x 15.7 inch " x 12.2 inch ") fits tight home office desks
-cons:
+cons: 
   - "Top-loaded paper tray holds only 250 sheets — heavy users will refill often"
   - "No color printing or scanning to cloud services without extra setup"
   - "Toner cartridge (TN730) yields just 1,200 pages — high-volume users should buy the high-yield TN760"
+
 ---
 
 The Brother MFCL2710DW isn't flashy. It's a boxy, gray workhorse that sits on your desk and does exactly one thing well: printing crisp, sharp black-and-white documents without drama. If that's all you need, this is one of the most solid buys in the sub-$200 laser printer category. But let's be clear about what you're getting — and what you're not.

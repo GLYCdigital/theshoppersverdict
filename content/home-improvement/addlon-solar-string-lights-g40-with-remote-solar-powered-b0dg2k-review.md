@@ -1,4 +1,5 @@
 ---
+
 title: "addlon Solar String Lights G40 with Remote,Solar Powered"
 seo_title: "addlon Solar String Lights G40 Review: Worth It? (2026)"
 meta_description: "addlon Solar String Lights G40 with Remote review: brightness, battery life, durability & value. Real buyer feedback, pros/cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DG2KWBG5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71494nI3BUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - True G40 bulb size (1.5 inch " diameter) with warm 2700K glow that actually looks like vintage Edison bulbs, not cheap LED pinpricks
   - "Remote control actually works up to 15-20 feet and includes 8 lighting modes plus a timer — not a gimmick"
   - "Monocrystalline solar panel with 1500mAh battery holds charge for 8-10 hours even on overcast days, per buyer reports"
-cons:
+cons: 
   - "Battery is non-replaceable — when it dies in 2-3 years, you're replacing the whole string"
   - "Plastic bulb shells feel thin; several buyers reported cracking if overtightened during installation"
   - "Remote requires line-of-sight to the control box; doesn't work through walls or thick foliage"
+
 ---
 
 **Bottom line up front:** The addlon G40 solar string lights deliver the warm, ambient glow you want for a patio or pergola without running extension cords. At 4.5 stars from 225 ratings, they're solidly above average for this crowded category. But "solar string lights" is a category full of junk — so let's talk about whether this specific set is the one worth your money.

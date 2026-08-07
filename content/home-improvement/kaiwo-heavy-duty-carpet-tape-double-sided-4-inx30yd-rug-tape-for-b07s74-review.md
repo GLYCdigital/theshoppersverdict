@@ -1,4 +1,5 @@
 ---
+
 title: "KAIWO Heavy Duty Carpet Tape Double Sided 4 INx30YD Rug Tape"
 seo_title: "KAIWO Heavy Duty Carpet Tape Double Sided 4 INx30Y Review"
 meta_description: "Our full kaiwo heavy duty carpet tape double sided 4 inx30yd rug tape review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S746LYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wnurwiiBL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The 4-inch width is the real story here**

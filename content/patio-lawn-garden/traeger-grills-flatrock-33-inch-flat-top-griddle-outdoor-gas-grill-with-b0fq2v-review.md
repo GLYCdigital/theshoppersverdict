@@ -1,4 +1,5 @@
 ---
+
 title: "Traeger Grills Flatrock, 33 Inch Flat Top Griddle, Outdoor G"
 seo_title: "Traeger Grills Flatrock, 33 Inch Flat Top Griddle, Review"
 meta_description: "Our full traeger grills flatrock, 33 inch flat top griddle, outdoor g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FQ2VSPPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71onw5b8IBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Traeger Flatrock 33" is the gas griddle that Traeger fans didn't know they needed — and it might be the best thing the pellet grill company has made that doesn't involve wood pellets.**

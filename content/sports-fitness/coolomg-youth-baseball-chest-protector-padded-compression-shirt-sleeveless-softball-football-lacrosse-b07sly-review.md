@@ -1,4 +1,5 @@
 ---
+
 title: "COOLOMG Youth Baseball Chest Protector Padded Compression Sh"
 seo_title: "COOLOMG Youth Chest Protector Review: Padded Compression Shirt"
 meta_description: "COOLOMG youth baseball chest protector review: padded compression shirt for baseball, softball, lacrosse. 4.8-star rating, 240 reviews. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07SLYB6M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dt3I1Y7JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Strategic padding covers chest, ribs, and upper back without restricting arm movement — critical for pitchers and catchers"
   - "Compression fit stays put during slides, dives, and swings; no riding up or shifting mid-play"
   - "Moisture-wicking fabric keeps kids dry through doubleheaders; machine washable without losing shape"
-cons:
+cons: 
   - "Sizing runs small — most parents report needing to size up one full size for a comfortable fit"
   - "Padding is moderate, not impact-proof; adequate for rec ball but not for high-velocity travel league pitching"
+
 ---
 
 Let’s cut through the noise: if your kid plays baseball, softball, or lacrosse, you’ve probably watched them take a ground ball to the chest or a wild pitch off the ribs and winced. The COOLOMG Youth Baseball Chest Protector is designed to absorb those hits. After digging through 240 ratings and the spec sheet, here’s what you actually need to know.

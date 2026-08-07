@@ -1,4 +1,5 @@
 ---
+
 title: "Metal Raised Garden Bed Planter Box Galvanized"
 seo_title: "Metal Raised Garden Bed Planter Box Galvanized Review: Ve"
 meta_description: "Our full metal raised garden bed planter box galvanized review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZQ24NB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ysOkhDLqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced cedar raised beds lately, you know the pain: a decent 4x4 kit runs $150-plus, and it'll rot out in five years anyway. This galvanized metal raised garden bed undercuts that price while promising decades of service. But is the metal worth the tradeoff? I dug through 225 Amazon ratings and the specs to give you the straight story.

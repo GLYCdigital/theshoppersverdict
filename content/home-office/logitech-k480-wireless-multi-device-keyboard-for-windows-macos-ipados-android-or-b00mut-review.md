@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech K480 Wireless Multi-Device Keyboard for Windows, ma"
 seo_title: "Logitech K480 Wireless Multi-Device Keyboard for W Review"
 meta_description: "Our full logitech k480 wireless multi-device keyboard for windows, ma review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00MUTWLW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WdT+si7LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: the Logitech K480 is not a mechanical keyboard, and it’s not trying to be. It’s a $40-ish Bluetooth board that solves a very specific, very real problem — juggling a laptop, tablet, and phone without swapping peripherals. After 220 Amazon ratings holding a 4.4 average, the consensus is clear: this thing works. But it’s not without quirks. Here’s the full breakdown.

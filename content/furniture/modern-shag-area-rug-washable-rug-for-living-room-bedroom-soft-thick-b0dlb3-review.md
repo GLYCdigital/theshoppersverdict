@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Shag Area Rug, Washable Rug for Living Room Bedroom, "
 seo_title: "Modern Shag Area Rug, Washable Rug for Living Room Review"
 meta_description: "Our full modern shag area rug, washable rug for living room bedroom,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLB3N2ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fteX8BaoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most “washable” shag rugs are either flat as a pancake or shed like a husky in July. The Modern Shag Area Rug claims to thread that needle — plush enough to sink your toes into, yet durable enough for a machine cycle. After digging through 210 ratings and the spec sheet, here’s the real story.

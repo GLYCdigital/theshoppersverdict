@@ -1,4 +1,5 @@
 ---
+
 title: "K.T. Fancy American 18 Inch Doll Accessories Suitcase Luggag"
 seo_title: "K.T. Fancy American 18 Inch Doll Accessories Suitc Review"
 meta_description: "Our full k.t. fancy american 18 inch doll accessories suitcase luggag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP9832MM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814ZmUSen+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Travel Set That Makes Dolls Feel Like Real Passengers**

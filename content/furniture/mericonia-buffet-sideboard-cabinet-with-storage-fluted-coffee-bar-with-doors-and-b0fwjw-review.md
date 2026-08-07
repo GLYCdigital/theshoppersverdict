@@ -1,4 +1,5 @@
 ---
+
 title: "Mericonia Buffet Sideboard Cabinet with Storage, Fluted Coff"
 seo_title: "Mericonia Buffet Sideboard Cabinet with Storage, F Review"
 meta_description: "Our full mericonia buffet sideboard cabinet with storage, fluted coff review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FWJW9VJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81y3fjvR0nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Mericonia Buffet Sideboard Cabinet: The Fluted Statement Piece That Actually Stores Stuff

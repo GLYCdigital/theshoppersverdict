@@ -1,4 +1,5 @@
 ---
+
 title: "PURE LIVING INTERIOR DESIGN Stoneware Coffee Mugs Set, Styli"
 seo_title: "PURE LIVING INTERIOR DESIGN Stoneware Coffee Mugs  Review"
 meta_description: "Our full pure living interior design stoneware coffee mugs set, styli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D577QLMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P3tzMUeDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 14.5 oz stoneware mug that actually keeps your coffee hot — and looks good doing it**

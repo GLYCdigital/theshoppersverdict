@@ -1,4 +1,5 @@
 ---
+
 title: "GAMDIAS Gaming CASE 003"
 seo_title: "GAMDIAS Gaming CASE 003 Review: Verdict | TSV"
 meta_description: "Our full gamdias gaming case 003 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGF4T66Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81602MAMxWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GAMDIAS Gaming CASE 003 is a mid-tower that tries to do it all: aggressive looks, pre-installed RGB, and enough room for a beefy build — all without demanding flagship money. With 220 ratings holding a 4.4-star average, it's clearly doing something right. But is it the right case for *your* build? Let's get into it.

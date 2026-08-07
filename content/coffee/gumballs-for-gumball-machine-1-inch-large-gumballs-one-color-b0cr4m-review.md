@@ -1,4 +1,5 @@
 ---
+
 title: "Gumballs for Gumball Machine - 1 Inch Large Gumballs - One C"
 seo_title: "Gumballs for Gumball Machine - 1 Inch Large Gumbal Review"
 meta_description: "Our full gumballs for gumball machine - 1 inch large gumballs - one c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CR4MH7G8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Tfvz+bDkL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body**

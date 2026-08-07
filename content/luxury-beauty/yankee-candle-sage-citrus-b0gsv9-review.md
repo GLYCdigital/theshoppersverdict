@@ -1,4 +1,5 @@
 ---
+
 title: "Yankee Candle Sage & Citrus"
 seo_title: "Yankee Candle Sage & Citrus Review: Verdict | TSV"
 meta_description: "Our full yankee candle sage & citrus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GSV9WJ8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some candles promise a fresh home but deliver a headache in a jar. The Yankee Candle Sage & Citrus walks that line carefully — and mostly lands on the right side. After burning through two of these over the past month, here's what you're actually getting for your money.

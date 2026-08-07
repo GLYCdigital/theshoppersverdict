@@ -1,4 +1,5 @@
 ---
+
 title: "Lifeboost Medium Roast Ground Coffee"
 seo_title: "Lifeboost Medium Roast Ground Coffee Review: Verdict | TS"
 meta_description: "Our full lifeboost medium roast ground coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GFXMZPLN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ahzgtJn-L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time in the coffee rabbit hole, you've seen the "clean coffee" claims. Mycotoxin-free. Mold-free. Low acid. Lifeboost has built its entire brand on this promise, and the 215 Amazon ratings at 4.3 stars suggest it's not just marketing noise. But does the cup actually deliver? I've broken down what you're really paying for.

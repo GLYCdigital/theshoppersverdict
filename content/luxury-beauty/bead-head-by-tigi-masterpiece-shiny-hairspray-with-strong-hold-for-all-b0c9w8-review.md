@@ -1,23 +1,25 @@
 ---
+
 title: "Bead Head by TIGI Masterpiece Shiny Hairspray with Strong Ho"
 seo_title: "Bead Head TIGI Masterpiece Hairspray Review: Strong Hold, Shine"
 meta_description: "Our honest Bead Head by TIGI Masterpiece Shiny Hairspray review: strong hold, glossy finish, and real-world tradeoffs. Is it worth the price?"
 slug: "bead-head-by-tigi-masterpiece-shiny-hairspray-with-strong-hold-for-all-b0c9w8-review"
 image_alt: "Bead Head by TIGI Masterpiece Shiny Hairspray bottle with strong hold formula"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9W87XN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uqsKxFzxL._SL1500_.jpg"
-pros:  
+pros: 
   - "Delivers a mirror-like shine without sticky residue or flaking, even after 8+ hours"  
   - "Strong hold that survives humidity and light wind without making hair feel crunchy"  
   - "Fine mist nozzle distributes evenly — no wet spots or oversaturation on thick sections"  
-cons:  
+cons: 
   - "Scent is strong and lingers; if you're sensitive to fragrance, this will bother you"  
   - "Price sits at the premium end — drugstore sprays cost half as much for similar hold"
+
 ---
 
 **The hairspray that actually keeps its promises — mostly**

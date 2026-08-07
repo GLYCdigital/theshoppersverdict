@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Development Grain Free Chicken Liver and Oce"
 seo_title: "Purina Pro Plan Development Grain Free Chicken Liv Review"
 meta_description: "Our full purina pro plan development grain free chicken liver and oce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHPW5JDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714Nwui1V7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're raising a puppy and want a food that actually delivers on its brain-development promises without corn, wheat, or soy fillers, this Purina Pro Plan formula earns its 4.7-star rating. But it's not the right choice for every dog owner — and here's why.

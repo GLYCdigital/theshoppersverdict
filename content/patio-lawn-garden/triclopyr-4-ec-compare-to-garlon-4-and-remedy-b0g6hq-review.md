@@ -1,4 +1,5 @@
 ---
+
 title: "Triclopyr 4 EC Compare to Garlon 4 and Remedy"
 seo_title: "Triclopyr 4 EC Compare to Garlon 4 and Remedy Review: Ver"
 meta_description: "Our full triclopyr 4 ec compare to garlon 4 and remedy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6HQQPMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nw9TaeTVL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you've been paying name-brand prices for Garlon 4 or Remedy, you're burning money. This Triclopyr 4 EC is the same active ingredient — 4 pounds per gallon of triclopyr butoxyethyl ester — at a fraction of the cost. The 229 buyers who left a 4.6-star average figured this out. Here's what you need to know before you click buy.

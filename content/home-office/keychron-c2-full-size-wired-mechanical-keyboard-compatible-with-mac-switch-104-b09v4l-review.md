@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron C2 Full Size Wired Mechanical Keyboard Compatible w"
 seo_title: "Keychron C2 Full Size Wired Mechanical Keyboard Co Review"
 meta_description: "Our full keychron c2 full size wired mechanical keyboard compatible w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09V4LJVFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BD671xg7L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been hunting for a full-size mechanical keyboard that plays nice with both Mac and Windows without requiring a degree in firmware flashing, the Keychron C2 is the unassuming workhorse you've probably seen in every "best budget keyboard" roundup. But does it actually deliver, or is it just riding the Keychron name? I've spent weeks with this board, and here's the honest breakdown.

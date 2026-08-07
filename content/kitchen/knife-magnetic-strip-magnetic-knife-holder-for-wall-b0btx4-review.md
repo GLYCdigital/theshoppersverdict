@@ -1,4 +1,5 @@
 ---
+
 title: "Knife Magnetic Strip Magnetic Knife Holder for Wall"
 seo_title: "Knife Magnetic Strip Magnetic Knife Holder for Wal Review"
 meta_description: "Our full knife magnetic strip magnetic knife holder for wall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTX4V2DK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618WNlN+UwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this magnetic strip actually worth your wall space?

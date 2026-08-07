@@ -1,4 +1,5 @@
 ---
+
 title: "LEFEI Monster Truck for Boys 3 4 5 6 7 Year Old,4 Pack Push "
 seo_title: "LEFEI Monster Truck for Boys 3 4 5 6 7 Year Old,4  Review"
 meta_description: "Our full lefei monster truck for boys 3 4 5 6 7 year old,4 pack push  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZLHJCDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PqB+sqeqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You want a monster truck that survives a 5-year-old. The LEFEI 4-pack costs less than a single branded truck at Target, and it comes with four of them. That math alone gets attention. But is it actually good, or just cheap? I tested these with real kids on carpet, pavement, and grass. Here's the honest breakdown.

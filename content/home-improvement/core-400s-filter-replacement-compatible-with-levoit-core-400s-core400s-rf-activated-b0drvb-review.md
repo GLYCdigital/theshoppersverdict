@@ -1,4 +1,5 @@
 ---
+
 title: "Core 400s Filter Replacement Compatible With Levoit Core 400 inch"
 seo_title: "Core 400s Filter Replacement Review: Is It Worth It?"
 meta_description: "Honest Core 400s filter replacement review for Levoit Core 400 users. Compare price, performance, and lifespan before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRVB13SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wx0nVd9SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True H13-grade HEPA media tested to capture 99.97% of 0.3-micron particles — not the cheaper H10/H11 stuff some knockoffs use"
   - "Precision-cut dimensions match OEM tolerances within 1-2mm, so it seats firmly in the Core 400s base without air bypass gaps"
   - "Activated carbon layer is noticeably thicker than OEM — roughly 20% more media by weight, extending odor absorption life"
-cons:
+cons: 
   - "RF chip does NOT reset the filter timer — you still need to hold the reset button on the unit manually after installation"
   - "No packaging date or lot code printed on the filter itself, making it hard to verify freshness before purchasing"
   - "Some buyers report a slight glue smell for the first 6-12 hours of operation at high fan speed"
+
 ---
 
 Let me be straight with you: your Levoit Core 400s will run without an OEM filter. But whether a third-party replacement is worth it comes down to three things — fit, filtration media quality, and whether you're willing to do a little manual resetting. Here's the real breakdown.

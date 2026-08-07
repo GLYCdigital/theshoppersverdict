@@ -1,4 +1,5 @@
 ---
+
 title: "Olive & June Gel Mani System Set | Includes Nail Tools, Peel"
 seo_title: "Olive & June Gel Mani System Set | Includes Nail T Review"
 meta_description: "Our full olive & june gel mani system set | includes nail tools, peel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FBBP4FTZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51PiNyivO5L._SL1200_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Olive & June Gel Mani System Set: The Peel-Off Promise, Tested

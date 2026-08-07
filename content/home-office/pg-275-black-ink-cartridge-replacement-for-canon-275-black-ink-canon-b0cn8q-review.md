@@ -1,4 +1,5 @@
 ---
+
 title: "PG-275 Black Ink Cartridge Replacement for Canon 275 Black I"
 seo_title: "PG-275 Black Ink Cartridge Replacement for Canon 2 Review"
 meta_description: "Our full pg-275 black ink cartridge replacement for canon 275 black i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN8QDKQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u2y15gWNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The PG-275 Replacement Everyone's Comparing to OEM — Here's the Truth

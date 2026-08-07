@@ -1,4 +1,5 @@
 ---
+
 title: "Fikoksol Cutting Board Organizer and Baking Sheet Rack, [2-P"
 seo_title: "Fikoksol Cutting Board Organizer Review (2-Pack) – 2026 inch"
 meta_description: "Fikoksol 2-pack cutting board & baking sheet rack: sturdy steel, fits standard cabinets, easy install. Read our honest review before buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C5X25CGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615W3m0+dcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel with non-slip coating holds heavy cast iron pans without bending or scratching"
   - "Two-pack at a price that beats most single-unit competitors — genuine value"
   - "Universal mounting plate fits both standard and frameless cabinet doors with included hardware"
-cons:
+cons: 
   - "Mounting screws are soft — replace with better hardware if installing into solid wood"
   - "Not ideal for extra-deep 18-inch sheet pans; standard half-sheets fit perfectly"
   - "No rubber gasket between metal and cabinet door — can rattle if door slams"
+
 ---
 
 If your kitchen cabinets look like a game of 52-pickup every time you reach for a cookie sheet, the Fikoksol Cutting Board Organizer and Baking Sheet Rack is the $20-ish fix you've been putting off. This isn't a flashy gadget — it's a boring, functional piece of steel that does exactly what it promises. And honestly, that's exactly what most of us need.

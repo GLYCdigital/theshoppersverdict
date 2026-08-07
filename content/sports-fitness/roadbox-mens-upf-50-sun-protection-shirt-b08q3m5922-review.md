@@ -1,4 +1,5 @@
 ---
+
 title: "Roadbox Mens UPF 50+ UV Sun Protection Shirts Outdoor Long Sleeve SPF Rash Guard"
 seo_title: "Roadbox UPF 50+ Sun Shirt Review — 4.6★ Budget UV Protection"
 meta_description: "Roadbox men's UPF 50+ sun protection shirt review: 22,534 ratings. Long sleeve rash guard for hiking, fishing, and outdoor work. Is it as good as Columbia?"
@@ -10,22 +11,23 @@ review_count: 22534
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08Q3M5922/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Y6rWGkgL._AC_SL1500_.jpg"
-faq:
+faq: 
   - question: "Does the Roadbox sun shirt actually block UV?"
     answer: "Yes. The fabric is rated UPF 50+, which blocks 98% of UV radiation. The tight weave and high-quality polyester construction prevent sunlight from penetrating the fabric."
   - question: "Is this shirt suitable for hot weather?"
     answer: "Yes — the fabric is lightweight, moisture-wicking, and designed to keep you cool while blocking the sun. Many reviewers wear it for fishing, hiking, and landscaping in high-heat conditions."
   - question: "How does the sizing run?"
     answer: "The shirt runs slightly large. If you want a relaxed, airy fit, order your normal size. For a more athletic or fitted cut, consider sizing down. Check the size chart before ordering."
-pros:
+pros: 
   - "UPF 50+ rating blocks 98% of UV rays — legitimate sun protection"
   - "Lightweight, moisture-wicking fabric keeps you cool in heat"
   - "Excellent value at roughly half the price of Columbia or Magellan equivalents"
   - "Long sleeve design protects arms without feeling restrictive"
-cons:
+cons: 
   - "Sizing can be inconsistent between colors — read recent reviews for each variant"
   - "Not as breathable as higher-end fishing shirts in extreme humidity"
   - "Limited color options compared to premium outdoor brands"
+
 ---
 
 You can spend $80 on a name-brand sun shirt, or you can buy three Roadbox shirts for the same money. The question is whether the budget option actually protects you. After digging through 22,000+ ratings and testing the fabric claims, here's the real story.

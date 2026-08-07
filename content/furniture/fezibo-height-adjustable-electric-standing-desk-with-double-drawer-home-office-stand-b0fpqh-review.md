@@ -1,4 +1,5 @@
 ---
+
 title: "FEZIBO Height Adjustable Electric Standing Desk with Double"
 seo_title: "FEZIBO Electric Standing Desk Review: Dual Drawers, Solid Value"
 meta_description: "Honest FEZIBO height adjustable electric standing desk review with double drawers. Real performance data, buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPQHKTLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JQTnI2RVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual motor lift handles up to 176 lbs with surprisingly quiet operation at normal speeds"
   - "Built-in double drawers add genuine storage without sacrificing legroom — rare at this price point"
   - "Three programmable height presets make switching between sit and stand positions genuinely effortless"
-cons:
+cons: 
   - "Drawer assembly is fiddly — alignment issues reported by multiple buyers require patience"
   - "Cable management tray is too shallow for bulky power strips; plan for zip ties or a separate solution"
   - "Controller buttons feel plasticky and may wear over time with heavy daily use"
+
 ---
 
 ## The Standing Desk That Actually Comes With Storage

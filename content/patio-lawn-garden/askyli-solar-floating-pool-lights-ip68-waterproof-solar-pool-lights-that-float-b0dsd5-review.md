@@ -1,4 +1,5 @@
 ---
+
 title: "Askyli Solar Floating Pool Lights, IP68 Waterproof Solar Poo"
 seo_title: "Askyli Solar Floating Pool Lights Review: IP68 Tested"
 meta_description: "Honest Askyli solar floating pool lights review: IP68 waterproofing, brightness, and battery life tested. See if these $30 lights beat the competition."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSD5WY9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OQjsznVAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "IP68-rated fully submersible housing — actually survives pool chemicals and winter storage"
   - "Auto on/off dusk sensor works reliably; lights stay lit 8–10 hours on a full charge"
   - "Color options include steady blue, green, and a slow color-shift mode that doesn't strobe"
-cons:
+cons: 
   - "Battery degrades noticeably after 4–5 months of daily use; replacement isn't user-serviceable"
   - "Plastic seam on the bottom can leak if dropped on concrete hard enough — handle with care"
+
 ---
 
 **The short version:** The Askyli Solar Floating Pool Lights are the rare pool accessory that does exactly what the listing says — they float, they charge, they turn on at dusk, and they're genuinely waterproof. At 4.1 stars from 204 ratings, they're not perfect, but for under $30 you're getting solid performance that beats most of the competition in this price band.

@@ -1,4 +1,5 @@
 ---
+
 title: "Harper Trucks Lightweight 400 lb Capacity Glass Filled Nylon"
 seo_title: "Harper Trucks Lightweight 400 lb Capacity Glass Fi Review"
 meta_description: "Our full harper trucks lightweight 400 lb capacity glass filled nylon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FMMHP93/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ORYUklpKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 8-Pound Hauler That Punches Above Its Weight**

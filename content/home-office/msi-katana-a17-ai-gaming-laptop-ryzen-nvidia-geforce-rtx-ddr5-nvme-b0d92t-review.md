@@ -1,4 +1,5 @@
 ---
+
 title: "msi Katana A17 AI Gaming Laptop: Ryzen, NVIDIA Geforce RTX, "
 seo_title: "msi Katana A17 AI Gaming Laptop: Ryzen, NVIDIA Gef Review"
 meta_description: "Our full msi katana a17 ai gaming laptop: ryzen, nvidia geforce rtx,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D92TT6ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vnNsRDo6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MSI Katana A17 AI sits in a weird spot: it's a 17-inch gaming laptop that undercuts most rivals on price, yet packs a Ryzen 9 and RTX 40-series GPU. I've spent time with this machine, and here's the honest picture.

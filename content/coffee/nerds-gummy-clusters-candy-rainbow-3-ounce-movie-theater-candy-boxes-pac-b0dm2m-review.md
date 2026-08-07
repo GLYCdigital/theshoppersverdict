@@ -1,4 +1,5 @@
 ---
+
 title: "Nerds Gummy Clusters Candy, Rainbow, 3 Ounce Movie Theater C"
 seo_title: "Nerds Gummy Clusters Candy, Rainbow, 3 Ounce Movie Review"
 meta_description: "Our full nerds gummy clusters candy, rainbow, 3 ounce movie theater c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DM2MNZBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bnYisuCJL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most gummy candy is just sugar with a chew. Nerds Gummy Clusters are different, and that difference is why this 3-ounce Rainbow box has racked up 240 ratings at a 4.8 average. If you've seen the hype on social media and wondered whether it's justified, here's the straightforward breakdown.

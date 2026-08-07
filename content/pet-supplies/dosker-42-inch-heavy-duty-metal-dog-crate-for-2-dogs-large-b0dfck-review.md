@@ -1,4 +1,5 @@
 ---
+
 title: "Dosker 42 inch Heavy Duty Metal Dog Crate for 2 Dogs/Large D"
 seo_title: "Dosker 42-Inch Dog Crate Review: 2-Dog Metal Cage, Worth It?"
 meta_description: "Dosker 42-inch heavy duty metal dog crate for 2 dogs: Honest review of build quality, divider panel, size fit, and buyer complaints. Is it right for your large dogs?"
@@ -11,14 +12,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0DFCKVP4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MpNHcogyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely heavy 14-gauge wire frame and reinforced door latches hold up to determined chewers and jumpers"
   - "Divider panel is full-height with secure pins, letting you crate two dogs separately or house one dog while house-training"
   - "Four locking casters make it surprisingly mobile — you can roll a 40+ pound crate across hardwood without lifting"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and patience; the holes on the base tray don't always align perfectly with the frame"
   - "The plastic base tray is slick when wet — dogs with hip issues or anxiety can slide around and struggle to stand"
   - "At 42 inches, it's tight for two medium dogs over 50 pounds each; the '2 dogs' claim works only if both are small-to-mid size"
+
 ---
 
 **The Dosker 42-Inch Heavy Duty Metal Dog Crate: A Solid Cage With a Catch**

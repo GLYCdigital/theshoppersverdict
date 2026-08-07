@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Bluey: Blueyâ€™s Beach & Family Car Trip - Toddler Lear"
 seo_title: "LEGO Bluey: Blueyâ€™s Beach & Family Car Trip - To Review"
 meta_description: "Our full lego bluey: blueyâ€™s beach & family car trip - toddler lear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DRW7Y7SV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nfkuHjJDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO Bluey: Bluey’s Beach & Family Car Trip – Toddler Lear**  

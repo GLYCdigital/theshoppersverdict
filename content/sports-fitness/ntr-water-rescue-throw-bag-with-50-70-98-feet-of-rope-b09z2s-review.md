@@ -1,4 +1,5 @@
 ---
+
 title: "NTR Water Rescue Throw Bag with 50/70/98 Feet of Rope in 3/1"
 seo_title: "NTR Water Rescue Throw Bag with 50/70/98 Feet of R Review"
 meta_description: "Our full ntr water rescue throw bag with 50/70/98 feet of rope in 3/1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Z2SNTS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IcOYxkDRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you spend time near moving water — kayaking, rafting, or fishing tailwaters — a throw bag is the one piece of gear you hope you never need but absolutely shouldn't leave ashore. The NTR Water Rescue Throw Bag is a simple, no-frills tool that does its one job well: getting a floating rope to a swimmer fast. At $21.57, it's priced like a backup, but it performs like a primary.

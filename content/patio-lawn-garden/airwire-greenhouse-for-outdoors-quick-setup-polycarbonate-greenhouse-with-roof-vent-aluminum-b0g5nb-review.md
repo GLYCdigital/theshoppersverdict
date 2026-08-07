@@ -1,4 +1,5 @@
 ---
+
 title: "AirWire Greenhouse for Outdoors, Quick Setup Polycarbonate G"
 seo_title: "AirWire Greenhouse Review: Quick Setup Polycarbonate Grow House"
 meta_description: "Honest AirWire Greenhouse review: polycarbonate panels, aluminum frame, roof vent. See what 185 Amazon buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0G5NBDNML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DfKiG9-eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely quick assembly — most buyers report 1-2 hours solo, no special tools needed"
   - "Aluminum frame resists rust far better than the cheap steel tubes most sub-$500 greenhouses use"
   - "Roof vent is functional and actually moves air; many budget greenhouses skip this entirely"
-cons:
+cons: 
   - "Polycarbonate panels are thinner than advertised on some units — expect 3-4mm, not the 6mm shown in marketing photos"
   - "Anchor kit is minimal; high-wind areas will need aftermarket stakes or ground screws"
   - "Door latch feels flimsy and has been the most common failure point in buyer reviews"
+
 ---
 
 **The 3.7-star greenhouse that's either a steal or a frustration — depends entirely on your expectations.**

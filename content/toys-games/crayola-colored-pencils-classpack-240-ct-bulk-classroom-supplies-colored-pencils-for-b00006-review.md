@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Colored Pencils Classpack (240 Ct), Bulk Classroom S"
 seo_title: "Crayola Colored Pencils Classpack 240 Ct Review (2026)"
 meta_description: "Honest Crayola Colored Pencils Classpack review: 240 pre-sharpened pencils, 12 colors. Is bulk worth it? Real teacher feedback, pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B00006IBOU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pQuerBseL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "240 pencils pre-sharpened and ready to use straight out of the box"
   - "Consistent 4.9/5 rating from 245 reviews — teachers and parents agree"
   - "Sturdy 3.3mm cores resist breaking, even with heavy-handed kids"
-cons:
+cons: 
   - "Only 12 colors repeated — limited variety compared to smaller sets"
   - "No built-in storage tray; pencils arrive loose in a cardboard box"
+
 ---
 
 Let’s be blunt: if you’re buying colored pencils for a classroom, you’re not shopping for yourself. You’re shopping for 25 kids who will lose, break, and “borrow” every pencil you own. That’s exactly who the Crayola Colored Pencils Classpack is designed for — and with a 4.9/5 rating across 245 reviews, it’s clearly doing something right.

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fingerprint Door Lock with Handle Sets, BEBASIA Keyless Entr"
 seo_title: "BEBASIA Fingerprint Door Lock Review: Keyless Entry Worth It?"
 meta_description: "Hands-on BEBASIA fingerprint door lock review: accuracy, battery life, Bluetooth app, installation ease, and who should buy this keyless handle set."
@@ -12,13 +13,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHCM1GWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xrHzVHsvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fingerprint reader responds in under 0.5 seconds; works with dry or slightly sweaty fingers"
   - "Full handle set replaces both deadbolt and knob — no separate hardware to buy"
   - "Bluetooth app allows remote temporary codes for guests or service workers"
-cons:
+cons: 
   - "Battery life realistically lands at 3–4 months with heavy use, not the advertised 8 inch"
   - "App setup requires a stable 2.4GHz connection; occasional Bluetooth pairing hiccups reported"
+
 
 ---
 

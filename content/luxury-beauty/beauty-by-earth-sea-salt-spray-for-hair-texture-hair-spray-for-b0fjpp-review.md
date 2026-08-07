@@ -1,4 +1,5 @@
 ---
+
 title: "Beauty by Earth Sea Salt Spray for Hair - Texture Hair Spray"
 seo_title: "Beauty by Earth Sea Salt Spray Review: Texture & Hold (2026)"
 meta_description: "Honest Beauty by Earth Sea Salt Spray review: Does this textured hair spray deliver beach waves without crunch? Real pros, cons & verdict inside."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FJPPHZPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iXK1Ic5wL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean, plant-based formula with no sulfates, parabens, or synthetic fragrance — rare in this category"
   - "Provides flexible, matte texture that doesn't stiffen or flake, even on second-day hair"
   - "8oz bottle with fine-mist sprayer that distributes product evenly without soaking roots"
-cons:
+cons: 
   - "Light hold won't satisfy those seeking strong, all-day curl definition or sculpting control"
   - "Scent leans strongly coconut-forward, which may overwhelm sensitive noses despite being natural"
   - "Can leave finer hair feeling slightly dry if not paired with a conditioning product"
+
 ---
 
 Let's cut through the noise: most sea salt sprays either turn your hair into straw or leave it looking greasy within hours. The Beauty by Earth version sits in a rare middle ground—it delivers that lived-in, beachy texture without the dreaded crunch. But it's not a miracle worker, and knowing its limits before you buy will save you disappointment.

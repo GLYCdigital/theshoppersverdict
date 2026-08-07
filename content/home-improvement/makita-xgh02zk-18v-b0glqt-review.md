@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XGH02ZK 18V"
 seo_title: "Makita XGH02ZK 18V Review: Verdict | TSV"
 meta_description: "Our full makita xgh02zk 18v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GLQTZ7BR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51NACVw77OL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XGH02ZK is the kind of tool that makes you question why you ever dragged an extension cord around your yard. This is the bare-tool version of Makita's 18V LXT blower, meaning you supply the battery — which is either a smart cost-saving move or a hidden expense, depending on whether you're already invested in Makita's ecosystem.

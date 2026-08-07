@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet R10000-UNBXHF MultiChoice Universal"
 seo_title: "Delta R10000-UNBXHF Review: Universal Valve Trim Kit"
 meta_description: "Delta R10000-UNBXHF MultiChoice Universal review: Does this trim kit deliver? Read pros, cons, and who should buy it before you install."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GXWQ3Z4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Works with any Delta MultiChoice rough-in valve, so it's a true retrofit part for existing showers"
   - "Solid zinc and brass construction with a polished chrome finish that resists water spotting"
   - "Includes both the handle and the escutcheon plate—no separate trim kit purchase needed"
-cons:
+cons: 
   - "Does not include the cartridge or the valve body—if you're missing those, you'll spend more"
   - "Some buyers report the handle set screw strips easily if you overtighten it"
   - "Not compatible with older Delta single-handle valves made before 1993, so check your rough-in first"
+
 ---
 
 If you're staring at a bare rough-in valve sticking out of your shower wall, you already know the drill: the hard part is over, and now you just need the trim. The Delta Faucet R10000-UNBXHF MultiChoice Universal is the piece that finishes the job. With a 4.0-star average across 200 ratings, it's a solid performer—but it's not without quirks. Here's what you need to know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "CRAVE Grain Free Indoor Adult High Protein Natural Dry Cat F"
 seo_title: "CRAVE Grain Free Indoor Cat Food Review (2026): High-Protein"
 meta_description: "Honest CRAVE Grain Free Indoor Adult Cat Food review: high-protein recipe, real feedback from 229 ratings, pros/cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B071VFC2VT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dSOB4mjnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chicken is the #1 ingredient with 40% protein that supports lean muscle maintenance in indoor cats"
   - "Specifically formulated for indoor living — addresses hairballs and weight management with natural fiber"
   - "No grain, corn, wheat, soy, or artificial preservatives — clean ingredient list for the price point"
-cons:
+cons: 
   - "Some cats may find the kibble too small or too hard; picky eaters might reject it initially"
   - "Transition period needed — switching abruptly can cause digestive upset in sensitive stomachs"
+
 ---
 
 ## Is CRAVE Indoor Cat Food Actually Worth It? Here's the Real Story

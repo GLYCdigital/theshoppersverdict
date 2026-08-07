@@ -1,4 +1,5 @@
 ---
+
 title: "Honeywell FC200E1029 16 x 25 Media Air Filter (MERV 13)"
 seo_title: "Honeywell FC200E1029 16 x 25 Media Air Filter (MER Review"
 meta_description: "Our full honeywell fc200e1029 16 x 25 media air filter (merv 13) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001GLYC92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GP3cqyYFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Honeywell FC200E1029 16 x 25 Media Air Filter (MERV 13): The Long-Game Filter That Actually Catches What Matters

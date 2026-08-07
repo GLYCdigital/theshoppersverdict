@@ -1,4 +1,5 @@
 ---
+
 title: "TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 "
 seo_title: "TN730 TN-730 Black Toner Cartridges 2 Pack Compati Review"
 meta_description: "Our full tn730 tn-730 black toner cartridges 2 pack compatible tn730  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C3QXMBC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716xcPwjBhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Brother HL-L2300D, DCP-L2520DW, or MFC-L2700DW, you already know the sting of buying OEM toner. Brother's TN730 cartridge is reliable, but at roughly $45-50 a pop, it punishes high-volume printing. This compatible two-pack undercuts that price dramatically — but "cheaper" doesn't always mean "smarter." After digging through 220 ratings and the pattern of feedback, here's what you're actually getting.

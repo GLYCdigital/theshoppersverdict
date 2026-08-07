@@ -1,4 +1,5 @@
 ---
+
 title: "Comfamoli Sunset Lamp Projector Led Lights for Bedroom Night"
 seo_title: "Comfamoli Sunset Lamp Projector Review: RGB Night Light"
 meta_description: "Honest Comfamoli Sunset Lamp Projector review: 4.3-star RGB night light. See how it performs, real buyer feedback, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CGHQLL6D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7137MW2+9uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "360° rotatable lens projects vivid sunset gradients across ceiling and walls without hotspots"
   - "Remote control with timer function (1h/2h/4h) — set it and forget it at bedtime"
   - "Memory function retains your last color/brightness settings after power-off"
-cons:
+cons: 
   - "Projected image is small at close range — needs 5-6 feet of distance for full effect"
   - "Plastic housing feels light; remote requires direct line-of-sight to the IR receiver"
+
 ---
 
 **Review Body:**

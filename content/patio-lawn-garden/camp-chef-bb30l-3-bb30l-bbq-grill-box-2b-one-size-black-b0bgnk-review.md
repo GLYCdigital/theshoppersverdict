@@ -1,4 +1,5 @@
 ---
+
 title: "Camp Chef BB30L 3-BB30L BBQ Grill Box 2B, One Size, Black"
 seo_title: "Camp Chef BB30L Review: Is This Grill Box Worth It? (2026)"
 meta_description: "Camp Chef BB30L BBQ Grill Box review: rugged stainless construction, even heat, and easy cleanup. See pros, cons, and who should buy this 4.6-star grill."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BGNK7RVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AMyXmyRML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty stainless steel construction with cast iron grates that hold heat evenly across the full 480 sq in surface"
   - "Dual 30,000 BTU burners with independent controls let you run a hot zone and warm zone simultaneously"
   - "Removable grease tray and angled drip channels funnel runoff away from the flame, cutting flare-ups significantly"
-cons:
+cons: 
   - "No built-in lid thermometer — you'll need to buy an instant-read probe for accurate temp monitoring"
   - "At roughly 85 lbs, it's not a portable unit; plan for a permanent patio spot or a sturdy cart"
   - "Assembly takes about 45 minutes with basic tools; the instructions are sparse on a couple of steps"
+
 ---
 
 Let me be straight with you: the Camp Chef BB30L isn't the cheapest grill box you'll find, and it's not the lightest. But if you're after serious cooking power in a compact footprint, this 4.6-star unit has earned its reputation among 229 Amazon reviewers for a reason.

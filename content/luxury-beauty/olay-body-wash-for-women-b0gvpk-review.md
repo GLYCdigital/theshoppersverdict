@@ -1,4 +1,5 @@
 ---
+
 title: "Olay Body Wash for Women"
 seo_title: "Olay Body Wash for Women Review: Verdict | TSV"
 meta_description: "Our full olay body wash for women review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GVPKBKWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g2Qu2zVFL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Olay has been a skincare heavyweight for decades, but their body wash line often flies under the radar compared to their facial serums and creams. With a 4.8-star average across 240 ratings, this one deserves a closer look — especially if your skin drinks moisturizer like water and you're tired of body washes that strip rather than nourish.

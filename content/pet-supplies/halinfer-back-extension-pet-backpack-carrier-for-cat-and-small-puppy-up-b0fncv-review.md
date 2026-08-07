@@ -1,4 +1,5 @@
 ---
+
 title: "halinfer Back Extension Pet Backpack Carrier for Cat and Sma"
 seo_title: "halinfer Backpack Carrier Review: Best for Cats & Small Dogs?"
 meta_description: "Read our honest halinfer back extension pet backpack carrier review. See how it fits cats & small dogs, comfort, airflow, and real owner feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNCVY5CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E+JHTsEBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Back extension panel adds ~4 inches of vertical space, letting cats stand fully instead of crouching"
   - "Four-way mesh visibility gives anxious pets a 360° view, which reduces stress during transit"
   - "Padded shoulder straps and breathable back panel distribute weight well for a sub-15 lb pet"
-cons:
+cons: 
   - "Base is semi-soft; a heavy 12+ lb dog will feel the floor flex beneath them"
   - "Side entry zippers can snag if you rush — need to guide fabric carefully when closing"
   - "No built-in tether clip inside, so you must use the included carabiner or bring your own leash attachment"
+
 ---
 
 Let’s be honest: most pet backpacks are glorified purses with a mesh window. Cats hate them because they can’t see what’s coming, and small dogs hate them because they’re cramped into a hunched position for the entire walk. The halinfer Back Extension Pet Backpack Carrier takes a different approach — and it shows in the 4.6-star average across 229 ratings.

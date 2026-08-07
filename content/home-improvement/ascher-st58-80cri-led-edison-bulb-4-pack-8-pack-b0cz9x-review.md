@@ -1,23 +1,25 @@
 ---
+
 title: "Ascher ST58 80CRI LED Edison Bulb 4 Pack 8 Pack"
 seo_title: "Ascher ST58 LED Edison Bulb Review: Warm, Bright, 80CRI"
 meta_description: "Ascher ST58 80CRI LED Edison bulbs: vintage style, true-to-life color, dimmable, and efficient. Read our hands-on review of the 4-pack and 8-pack."
 slug: "ascher-st58-80cri-led-edison-bulb-4-pack-8-pack-b0cz9x-review"
 image_alt: "Ascher ST58 80CRI LED Edison bulbs in a 4-pack, showing warm amber glow"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ9XQCFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KRLr2NCAL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 80CRI rating means skin tones and wood grain look natural, not washed out"  
   - "ST58 shape fits medium-base fixtures without the oversized globe look"  
   - "Dimmable down to 5% with no audible buzz or flicker on standard triac dimmers"  
-cons:  
+cons: 
   - "Warm 2200K tint is noticeably amber — not ideal for task lighting or workspaces"  
   - "Light output (350 lumens) is modest; you'll need multiple bulbs for a large room"
+
 ---
 
 **The Ascher ST58 80CRI LED Edison Bulb: Vintage Looks, Modern Performance — With One Caveat**

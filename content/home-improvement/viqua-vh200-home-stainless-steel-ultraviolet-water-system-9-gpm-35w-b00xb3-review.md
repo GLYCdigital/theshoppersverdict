@@ -1,4 +1,5 @@
 ---
+
 title: "VIQUA VH200 Home Stainless Steel Ultraviolet Water System - "
 seo_title: "VIQUA VH200 Home Stainless Steel Ultraviolet Water Review"
 meta_description: "Our full viqua vh200 home stainless steel ultraviolet water system -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00XB36W0A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FaUf3WxkL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # The VIQUA VH200: A Serious UV System for Homes That Actually Need One

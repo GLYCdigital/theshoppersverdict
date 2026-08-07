@@ -1,7 +1,8 @@
 ---
-title: "Pingliang 101\" Convertible Sectional Sofa 4 Seat U Shaped Co"
-seo_title: "Pingliang 101\" Convertible Sectional Sofa 4 Seat U Review"
-meta_description: "Our full pingliang 101\" convertible sectional sofa 4 seat u shaped co review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Pingliang 101\ Convertible Sectional Sofa 4 Seat U Shaped Co"
+seo_title: "Pingliang 101\ Convertible Sectional Sofa 4 Seat U Review"
+meta_description: "Our full pingliang 101\ convertible sectional sofa 4 seat u shaped co review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pingliang-101-convertible-sectional-sofa-4-seat-u-shaped-couch-b0g4t6-review"
 image_alt: "Pingliang 101 Convertible Sectional Sofa 4 Seat U Shaped Couch"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G4T6S276/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810yFVWwELL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 101-inch U-shaped sectional that actually delivers on its promises — with a couple of honest caveats.**

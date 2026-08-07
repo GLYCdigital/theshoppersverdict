@@ -1,4 +1,5 @@
 ---
+
 title: "Echo 99944200513 Tiller/Cultivator Attachment f"
 seo_title: "Echo 99944200513 Tiller Attachment Review: Worth It?"
 meta_description: "Echo 99944200513 tiller/cultivator attachment review: tines, compatibility, real-world performance. Does it earn a 4.5-star rating? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0073W5FRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/416Bl08bPSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 hardened steel tines cut a 10-inch path through compacted soil without bogging down"
   - "Bolts directly to Echo PAS/Pro Attachment Series power heads — no adapter kit needed"
   - "Weighs just 8.6 lbs, so it won't throw off balance on extended use"
-cons:
+cons: 
   - "Only works with Echo's proprietary PAS attachment system — useless if you own another brand"
   - "No depth adjustment wheel; you control depth purely by how hard you press down"
+
 ---
 
 If you already own an Echo PAS-2620 or Pro Attachment Series power head, the 99944200513 tiller attachment transforms it into a legitimate cultivator for about half the cost of a standalone unit. If you don't — well, keep reading, because there's a catch you need to know before you click buy.

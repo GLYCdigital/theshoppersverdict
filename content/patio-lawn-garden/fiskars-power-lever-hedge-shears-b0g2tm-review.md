@@ -1,23 +1,25 @@
 ---
+
 title: "Fiskars Power-Lever Hedge Shears Review"
 seo_title: "Fiskars Power-Lever Hedge Shears Review (2026): Worth It?"
 meta_description: "Fiskars Power-Lever Hedge Shears: 4.0★ from 200+ buyers. Tested for cutting power, comfort, and durability. See pros, cons, and who should buy."
 slug: "fiskars-power-lever-hedge-shears-b0g2tm-review"
 image_alt: "Fiskars Power-Lever Hedge Shears with angled blades and cushioned grips shown against a garden hedge"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G2TMKBK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UCG0MXm7L._CR31,6,250,250_._FMjpg_._SL34_.jpg"
-pros:  
+pros: 
   - "Power-Lever gear mechanism delivers up to 2x cutting force — noticeably less arm fatigue on thick branches"  
   - "Fully hardened steel blades hold a sharp edge through an entire season of regular trimming"  
   - "Ergonomic D-grip design with cushioned handles reduces hand strain during long sessions"  
-cons:  
+cons: 
   - "At 4.6 lbs, heavier than basic shears — prolonged overhead work will tire your shoulders"  
   - "Fixed blade angle (not adjustable) limits versatility for sculpting intricate topiary shapes"
+
 ---
 
 If you’ve ever wrestled with a cheap pair of hedge shears that bind on the first thick branch, you know the frustration. The Fiskars Power-Lever shears are designed to eliminate that exact problem — and for most buyers, they largely succeed. With a 4.0-star average across 200+ ratings, these aren’t perfect, but they’re a serious upgrade over anything you’ll find in the bargain bin.

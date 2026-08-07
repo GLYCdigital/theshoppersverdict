@@ -1,4 +1,5 @@
 ---
+
 title: "Bluepro Reinforced Clear Nursery Pots with Drainage Hole, Tr"
 seo_title: "Bluepro Reinforced Clear Nursery Pots Review (2026): Worth It?"
 meta_description: "Honest Bluepro reinforced clear nursery pots review: durability, drainage, and root visibility tested. See pros, cons, and who should buy these."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSY5SXRH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sV9vNS3hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reinforced rims and sidewalls prevent the cracking and splitting that plagues cheap clear nursery pots"
   - "True transparency lets you monitor root development without pulling plants — a game-changer for propagation"
   - "Generous drainage holes (multiple per pot) reduce waterlogging risk without letting soil wash through"
-cons:
+cons: 
   - "Clear plastic means algae growth on the interior walls if you're heavy-handed with liquid fertilizer"
   - "Not UV-stabilized for long-term outdoor use — expect brittleness after a full season in direct sun"
   - "No color options; if you want to hide roots for display, these aren't it"
+
 ---
 
 Let's be blunt: most clear nursery pots are flimsy pieces of junk that crack the first time you look at them sideways. The Bluepro Reinforced version is different — and that difference matters if you're serious about propagation, rooting cuttings, or monitoring root health.

@@ -1,4 +1,5 @@
 ---
+
 title: "Night Stand Nightstand with Drawer Storage Bed Side Table En"
 seo_title: "Night Stand Nightstand with Drawer Storage Bed Sid Review"
 meta_description: "Our full night stand nightstand with drawer storage bed side table en review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F24LHZPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iKvAjjsCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: you don’t need a $300 nightstand to hold your phone, glasses, and a book. But you do need one that won’t wobble, scratch your floor, or fall apart in six months. This compact nightstand from Amazon sits at a 4.1-star average across 204 ratings, which tells me it’s doing something right — but not everything perfectly.

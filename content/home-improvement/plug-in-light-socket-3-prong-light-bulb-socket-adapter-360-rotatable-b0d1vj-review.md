@@ -1,4 +1,5 @@
 ---
+
 title: "Plug in Light Socket, 3-Prong Light Bulb Socket Adapter, 360"
 seo_title: "Plug in Light Socket, 3-Prong Light Bulb Socket Ad Review"
 meta_description: "Our full plug in light socket, 3-prong light bulb socket adapter, 360 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1VJB4DM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QB0jhK7BL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a light socket that turns into a power strip sounds like a fire waiting to happen. But this 3-prong adapter from the B0D1VJ line has 225 ratings averaging 4.5 stars, and that's not an accident. After digging through the specs and real buyer feedback, here's the honest picture.

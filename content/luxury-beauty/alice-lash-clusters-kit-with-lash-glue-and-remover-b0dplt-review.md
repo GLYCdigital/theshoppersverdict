@@ -1,4 +1,5 @@
 ---
+
 title: "ALICE Lash Clusters Kit with Lash Glue and Remover"
 seo_title: "ALICE Lash Clusters Kit Review: Worth It? (2026)"
 meta_description: "Honest ALICE Lash Clusters Kit review: does the 4.4-star lash glue & remover set deliver salon lashes at home? Pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DPLTTQDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91YPErNZ3LL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-bonded clusters cut application time to under 15 minutes once you get the hang of it"
   - "The included remover actually works — dissolves bond in 2-3 minutes without tugging natural lashes"
   - "Glue holds through sweat, tears, and 8+ hour wear without lifting at the inner corner"
-cons:
+cons: 
   - "The lash glue dries quickly — beginners will waste several clusters before finding their rhythm"
   - "Cluster sizes run slightly inconsistent; some fans are noticeably longer than others in the same pack"
+
 ---
 
 The at-home lash extension market is crowded with kits that promise salon results and deliver sticky disasters. The ALICE Lash Clusters Kit with Lash Glue and Remover actually comes closer to the promise than most — but it's not without its learning curve.

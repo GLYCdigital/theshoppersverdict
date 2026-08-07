@@ -1,4 +1,5 @@
 ---
+
 title: "If You Care Coffee Filters No. 4 â€“ Unbleached, Chlorine-Fr"
 seo_title: "If You Care Coffee Filters No. 4 â€“ Unbleached, C Review"
 meta_description: "Our full if you care coffee filters no. 4 â€“ unbleached, chlorine-fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077KH4PF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ABHDpa25L._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **If You Care Coffee Filters No. 4 â€“ Unbleached, Chlorine-Fr** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

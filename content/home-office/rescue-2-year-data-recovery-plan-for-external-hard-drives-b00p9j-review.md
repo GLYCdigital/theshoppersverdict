@@ -1,4 +1,5 @@
 ---
+
 title: "Rescue - 2 Year Data Recovery Plan for External Hard Drives"
 seo_title: "Rescue - 2 Year Data Recovery Plan for External Ha Review"
 meta_description: "Our full rescue - 2 year data recovery plan for external hard drives review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00P9J6RFO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/415FDuF-SFL._AC_US40_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home office product, the **Rescue - 2 Year Data Recovery Plan for External Hard Drives** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

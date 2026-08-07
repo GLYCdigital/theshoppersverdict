@@ -1,4 +1,5 @@
 ---
+
 title: "Goplus Tandem Inflatable Kayak, 12.5FT 2-Person Kayak for Ad"
 seo_title: "Goplus Tandem Inflatable Kayak, 12.5FT 2-Person Ka Review"
 meta_description: "Our full goplus tandem inflatable kayak, 12.5ft 2-person kayak for ad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9QVH2GH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m4bPYVlBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about inflatable kayaks: most are glorified pool toys that wobble with every stroke. The Goplus 12.5-foot tandem is not that. After digging through 215 verified ratings and buyer experiences, this one earns its 4.3-star average — and it's a legitimate option for paddlers who want real performance without a roof rack.

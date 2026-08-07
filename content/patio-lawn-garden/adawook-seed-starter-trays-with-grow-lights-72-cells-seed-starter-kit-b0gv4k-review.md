@@ -1,4 +1,5 @@
 ---
+
 title: "Adawook Seed Starter Trays with Grow Lights, 72 Cells Seed S"
 seo_title: "Adawook Seed Starter Trays with Grow Lights Review (2026)"
 meta_description: "Honest Adawook 72-cell seed starter tray review: grow light coverage, durability, and value. See if this kit beats cheaper alternatives."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GV4KWV56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81suV7Z-6vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-spectrum LED bars sit low enough to prevent seedling stretching — a common failure point on cheaper kits"
   - "Base tray, 72-cell insert, and humidity dome all nest together for compact storage between seasons"
   - "Adjustable light height with two intensity settings gives you room to grow from germination to true leaves"
-cons:
+cons: 
   - "No built-in timer — you'll need an outlet timer or manual discipline to avoid 24/7 light exposure"
   - "72 cells are small (1.5-inch) — tomatoes and peppers outgrow them fast and need an upgrade to 3-inch pots"
   - "Cell tray is flexible ABS plastic — it bends when lifted full of wet soil; carry it with two hands"
+
 ---
 
 **Bottom line up front:** The Adawook 72-cell starter kit earns its 4.5-star rating by solving the two problems that kill most seed-starting setups: weak light and soggy soil. But it's not a set-and-forget system.

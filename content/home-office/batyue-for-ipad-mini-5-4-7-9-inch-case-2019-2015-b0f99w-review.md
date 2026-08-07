@@ -1,4 +1,5 @@
 ---
+
 title: "BATYUE for iPad mini 5/4 7.9 Inch Case (2019/2015), Heavy Du"
 seo_title: "BATYUE iPad mini 5/4 Case Review: Heavy Duty 2019/2015 inch"
 meta_description: "Honest BATYUE iPad mini 5/4 7.9-inch heavy duty case review. Built-in pencil holder, kickstand, drop protection. See pros, cons & real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F99WBGJ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hmNfvpZHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and secure fit for both iPad mini 5 (2019) and mini 4 (2015) — no wobble or loose edges"
   - "Built-in Apple Pencil slot with dedicated charging position that actually works with the magnetic attachment"
   - "Multi-angle folding front cover doubles as a sturdy kickstand for both typing and viewing positions"
-cons:
+cons: 
   - "Adds noticeable bulk — this is not a slim case; the heavy duty build makes the mini noticeably thicker and heavier"
   - "Front cover flap can feel stiff out of the box and takes a few days of folding to loosen up"
   - "No auto sleep/wake feature — you'll need to manually lock the screen when closing the cover"
+
 ---
 
 If you're still carrying an iPad mini 5 or 4 in 2026, you already know the struggle: most cases on Amazon are either paper-thin sleeves that offer zero drop protection, or cheap plastic shells that crack after a month. The BATYUE Heavy Duty Case sits in a rare middle ground — it's genuinely rugged without feeling like you're hauling a tactical briefcase. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dewalt DCD771C2 20V MAX Cordless Lithium-Ion 1/2 inch Compac"
 seo_title: "Dewalt DCD771C2 Review: 20V MAX Compact Drill Tested"
 meta_description: "Dewalt DCD771C2 20V MAX compact drill review: 4.8-star rated. Real-world performance, battery life, and durability tested. Find out if it's worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07DPVDD3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dmm7FomNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Compact 6.3-inch length fits into tight spaces where full-size drills won't go"
   - "Dual-speed transmission (0-450/0-1,500 RPM) handles both delicate screw driving and aggressive drilling"
   - "Two 20V MAX batteries included — you can keep one charging while you work"
-cons:
+cons: 
   - "No battery charge indicator on the tool itself; you'll need to check via the charger or test it"
   - "Chuck is plastic-sleeved, not all-metal — fine for DIY, but heavy daily pro use may wear it sooner"
   - "Brushes are not brushless, so runtime and efficiency lag behind newer, pricier models"
+
 ---
 
 The Dewalt DCD771C2 is the drill that shows up on nearly every "best cordless drill for homeowners" list, and with a 4.8-star average across 240+ Amazon ratings, it's earned that spot. But is it the right drill for *you*? Let's cut through the hype and look at what this compact 20V MAX actually delivers.

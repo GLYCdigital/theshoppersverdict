@@ -1,4 +1,5 @@
 ---
+
 title: "NETANY Glass jars with Airtight Lids"
 seo_title: "NETANY Glass jars with Airtight Lids Review: Verdict | TS"
 meta_description: "Our full netany glass jars with airtight lids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7Q7YGQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XZRqxRjYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most glass jars on Amazon are thin, cheap, and crack within a month. The NETANY set isn't that. With a 4.6 average across 229 ratings, these jars have earned their place in my kitchen — but not without a couple of caveats worth knowing before you hit buy.

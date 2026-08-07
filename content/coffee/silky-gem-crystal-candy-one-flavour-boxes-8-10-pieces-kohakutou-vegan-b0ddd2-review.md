@@ -1,4 +1,5 @@
 ---
+
 title: "Silky Gem Crystal Candy - One Flavour Boxes, 8-10 pieces, Ko"
 seo_title: "Silky Gem Crystal Candy - One Flavour Boxes, 8-10  Review"
 meta_description: "Our full silky gem crystal candy - one flavour boxes, 8-10 pieces, ko review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DDD2WFKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GWb8faCWL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Short Version

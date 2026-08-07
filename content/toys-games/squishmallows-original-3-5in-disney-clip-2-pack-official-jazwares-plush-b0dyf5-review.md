@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 3.5in Disney Clip 2-Pack â€“ Official"
 seo_title: "Squishmallows Original 3.5in Disney Clip 2-Pack â€ Review"
 meta_description: "Our full squishmallows original 3.5in disney clip 2-pack â€“ official review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DYF5P2Q3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Ym1t-KvjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 These tiny Disney Squishmallows are 3.5 inches of pure serotonin. But before you toss them in your cart, let's talk about what you're actually getting — because at this size, the details matter.

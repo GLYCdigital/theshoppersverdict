@@ -1,4 +1,5 @@
 ---
+
 title: "Hardware Cloth 1/2'' 24'' X 25',19 Gauge Chicken Wire Mesh F"
 seo_title: "Hardware Cloth 1/2'' 24'' X 25',19 Gauge Chicken W Review"
 meta_description: "Our full hardware cloth 1/2'' 24'' x 25',19 gauge chicken wire mesh f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5WP3M94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91BO9UrDVRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen the flimsy chicken wire at the big-box store — the stuff that bends if you look at it wrong and sags after one season. This 19-gauge hardware cloth is not that. If your project involves keeping something out (or in) with actual determination, this roll is worth a serious look.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Harvey's Herbal Multi-Vitamin and Mineral Supplement for Dogs Review"
 seo_title: "Dr. Harvey's Herbal Multi-Vitamin Review: Worth It? (2026)"
 meta_description: "Honest Dr. Harvey's Herbal Multi-Vitamin review: ingredients, real customer results, and downsides. Is this green powder worth it for your dog?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01B67RI82/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a9LfUaxaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Whole-food, human-grade ingredients list — no synthetic fillers or artificial preservatives"
   - "Works as a powder that mixes easily into wet or dry food, even for picky eaters"
   - "Noticeable coat and energy improvements reported by most long-term users"
-cons:
+cons: 
   - "Strong herbal smell that some dogs initially reject — requires a transition period"
   - "Scoop size is generous for small breeds; a 12oz jar may expire before you finish it for a 15lb dog"
+
 ---
 
 # Dr. Harvey's Herbal Multi-Vitamin: Does Your Dog Actually Need This Green Powder?

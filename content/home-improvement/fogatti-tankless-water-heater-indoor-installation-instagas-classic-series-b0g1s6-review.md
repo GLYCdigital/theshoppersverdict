@@ -1,24 +1,26 @@
 ---
+
 title: "FOGATTI Tankless Water Heater Indoor Installation, InstaGas"
 seo_title: "FOGATTI Tankless Water Heater Review: InstaGas Indoor Model"
 meta_description: "FOGATTI InstaGas tankless water heater review: real performance data, install tips, and honest downsides for indoor use. Is it worth it?"
 slug: "fogatti-tankless-water-heater-indoor-installation-instagas-classic-series-b0g1s6-review"
 image_alt: "FOGATTI InstaGas tankless water heater mounted on indoor wall with venting pipes visible"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G1S6NLSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/416Ge-shIiL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Compact indoor footprint (about the size of a carry-on) frees up serious closet space"  
   - "True endless hot water at up to 6.5 GPM — enough for two simultaneous showers"  
   - "Digital temperature control holds ±1°F once dialed in, no more scalding surprises"  
-cons:  
+cons: 
   - "Requires 3/4-inch gas line and dedicated 120V outlet — many homes need a plumber upgrade first"  
   - "Condensate drain line must be routed to a floor drain or pump; not a DIY-friendly install for most"  
   - "Mixed reliability reports — several buyers cite control board failures within 12–18 months"
+
 ---
 
 If you're staring at a 40-gallon tank that runs out mid-shower, the FOGATTI InstaGas Classic Series looks like the obvious fix. It's compact, powerful on paper, and priced to undercut the big names. But after digging through 195 ratings and real owner experiences, the honest picture is more complicated. Here's what you need to know before handing over your credit card.

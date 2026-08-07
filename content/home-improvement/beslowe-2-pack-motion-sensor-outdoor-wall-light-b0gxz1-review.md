@@ -1,4 +1,5 @@
 ---
+
 title: "BesLowe 2-Pack Motion Sensor Outdoor Wall Light"
 seo_title: "BesLowe Motion Sensor Outdoor Wall Light Review (2026)"
 meta_description: "Honest BesLowe 2-pack motion sensor outdoor wall light review: brightness, range, build quality, and installation. See real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXZ1ZZRT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xiDlOcJVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two independent lights per pack — 1000 lumens each — cover a combined 50-foot detection range, more than most single fixtures"
   - "Adjustable PIR sensor head and three-mode switch (auto, always-on, off) let you fine-tune motion vs. constant light without rewiring"
   - "Die-cast aluminum housing with tempered glass lens handles rain, snow, and direct sun without rust or yellowing"
-cons:
+cons: 
   - "Default motion sensitivity is high — you'll trigger it from 40+ feet away, which may annoy neighbors or pets if you need a narrower zone"
   - "Bulbs are non-replaceable integrated LEDs; when they die (rated 50,000 hours), you replace the whole fixture"
   - "Mounting screws included are short for stucco or brick; budget for masonry anchors if you're not mounting on wood siding"
+
 ---
 
 ## Two lights, one box, zero guesswork

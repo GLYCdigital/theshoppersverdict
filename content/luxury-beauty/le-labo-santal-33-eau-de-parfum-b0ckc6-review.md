@@ -1,4 +1,5 @@
 ---
+
 title: "Le Labo Santal 33 Eau de Parfum"
 seo_title: "Le Labo Santal 33 Eau de Parfum Review: Verdict | TSV"
 meta_description: "Our full le labo santal 33 eau de parfum review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CKC67QTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ORMrCEKfL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's address the elephant in the room immediately: Le Labo Santal 33 is the most recognizable niche fragrance of the past decade. You've smelled it in every boutique hotel lobby, on every subway car in Brooklyn, and on roughly 40% of people who describe themselves as "curators." But does the reality match the mythology? After wearing it for three weeks straight, here's the honest breakdown.

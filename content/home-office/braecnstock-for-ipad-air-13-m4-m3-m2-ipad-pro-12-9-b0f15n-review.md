@@ -1,4 +1,5 @@
 ---
+
 title: "BRAECNstock for iPad Air 13 inch  (M4/M3/M2) / iPad Pro 12.9 inch  6th"
 seo_title: "BRAECNstock iPad Air 13 Case Review: Is It Worth It?"
 meta_description: "BRAECNstock iPad Air 13 (M4/M3/M2) case review: build quality, keyboard compatibility, real user feedback, and who should buy it. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F15NS26S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818yWg-DVmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise cutouts and snug fit for both 13-inch iPad Air (M4/M3/M2) and 12.9-inch iPad Pro 6th gen, with no wobble in the hinge"
   - "Multi-angle stand holds position firmly even when using Apple Pencil Pro for note-taking"
   - "Slim profile adds minimal bulk while still providing raised bezels around screen and camera"
-cons:
+cons: 
   - "No built-in keyboard or trackpad — this is a pure protection/stand case, not a productivity hub"
   - "Side buttons require a firm press due to thick protective lip; some users may find them stiff initially"
   - "Back panel is a fingerprint magnet — matte finish would have been better for a workspace aesthetic"
+
 ---
 
 Let me be blunt: most iPad cases are either flimsy fabric folders or bulky brick-like armor. The BRAECNstock case for iPad Air 13" and iPad Pro 12.9" tries to split the difference. After digging through 229 ratings and the actual product specs, here's what you need to know before spending your money.

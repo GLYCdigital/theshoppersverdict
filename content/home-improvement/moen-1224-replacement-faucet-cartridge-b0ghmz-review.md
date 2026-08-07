@@ -1,4 +1,5 @@
 ---
+
 title: "Moen 1224 Replacement Faucet Cartridge"
 seo_title: "Moen 1224 Replacement Faucet Cartridge Review: Verdict | "
 meta_description: "Our full moen 1224 replacement faucet cartridge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHMZFQB6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Q9bFWHNrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 Fix That Ends a $200 Plumber Visit**

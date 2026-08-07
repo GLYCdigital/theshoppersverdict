@@ -1,4 +1,5 @@
 ---
+
 title: "Bootstrap Farmer Extra Strength Seedling Tray (No Drain Hole"
 seo_title: "Bootstrap Farmer Seedling Tray Review: 20x10 No-Drain"
 meta_description: "Honest Bootstrap Farmer Extra Strength Seedling Tray review: thick walls, no-drain design, bottom-watering ready. See if it's worth the premium price."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GKQDVYVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51w4PEq3niL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-thick 1.2mm walls that survive multiple seasons without cracking or warping"
   - "No-drain design makes bottom-watering foolproof with zero mess on shelves"
   - "Recessed cell ridges lock 1020 inserts firmly in place — no shifting during transport"
-cons:
+cons: 
   - "No drain holes means overwatering can drown seedlings if you're not disciplined"
   - "Premium price — roughly 2-3x cheaper flimsy trays from big-box stores"
   - "Domed lids (sold separately) don't snap tightly to this tray's reinforced rim"
+
 ---
 
 Most seedling trays are disposable by design. You buy a 10-pack, use them for one season, and by next spring they're cracked, warped, or split at the corners. The Bootstrap Farmer Extra Strength Seedling Tray is not that product. At roughly double the thickness of standard 1020 trays, this thing is built like a contractor-grade tool, not a consumable. But the no-drain design is a specific tool for a specific job — and it's not right for everyone.

@@ -1,4 +1,5 @@
 ---
+
 title: "VIKICONÂ® Electric Foil Shavers for Men, Compact Travel Face"
 seo_title: "VIKICONÂ® Electric Foil Shavers for Men, Compact T Review"
 meta_description: "Our full vikiconâ® electric foil shavers for men, compact travel face review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9H8B7W5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vBUDD8PpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most compact travel shavers are garbage. They're either underpowered toys that tug at your whiskers or they die mid-shave and leave you with a half-finished face. The VIKICON electric foil shaver, however, punches well above its price class — with one significant caveat.

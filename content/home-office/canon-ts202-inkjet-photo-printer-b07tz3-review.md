@@ -1,4 +1,5 @@
 ---
+
 title: "Canon TS202 Inkjet Photo Printer"
 seo_title: "Canon TS202 Review: Budget Inkjet Printer Worth It?"
 meta_description: "Canon TS202 review: Is this budget-friendly inkjet photo printer worth your money? Honest pros, cons, and real buyer feedback. Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B07TZ3R793/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71udD7T7y8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Compact 16.4-inch footprint fits narrow shelves; weighs just 8.6 lbs"
   - "Genuine Canon ink is cheap — two-cartridge setup (PG-245/CL-246) runs about $30 a set"
   - "Wireless setup via Canon PRINT app works reliably with iOS and Android"
-cons:
+cons: 
   - "No auto document feeder — single-sheet scans only, which gets tedious fast"
   - "Print speed crawls at 7.7 ppm black / 4.0 ppm color; a 4x6 photo takes over a minute"
   - "Flimsy rear paper tray warps under humidity and mis-feeds cheap paper"
+
 ---
 
 Let's cut through the marketing. The Canon TS202 is a $50-ish entry-level inkjet that promises photo printing without the price tag. The question isn't whether it's a great printer — it's whether it's *good enough* for what you actually need. After digging through 195 Amazon ratings and testing the specs against real-world expectations, here's the honest picture.

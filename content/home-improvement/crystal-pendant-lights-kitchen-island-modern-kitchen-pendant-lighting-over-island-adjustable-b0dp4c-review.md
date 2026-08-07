@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Pendant Lights Kitchen Island, Modern Kitchen Pendan"
 seo_title: "Crystal Pendant Lights Kitchen Island Review (2026) | Modern Kitchen Pendan"
 meta_description: "Honest review of Crystal Pendant Lights Kitchen Island. 4.6★ from 229 buyers. Build quality, light output, installation tips, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP4CTDQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p114foZSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine K9 crystal facets that throw sharp, prismatic light—not cheap plastic beads"
   - "Adjustable stems let you dial in height from 11.8 to 59 inches, clearing even tall counter stools"
   - "Compatible with dimmable LED bulbs and E26 sockets, so you can swap in your own smart bulbs"
-cons:
+cons: 
   - "Crystal elements arrive individually wrapped; expect 30–45 minutes of assembly before hanging"
   - "No bulbs included—budget for six LED bulbs separately if you don't already own them"
+
 ---
 
 Let me be blunt: most "crystal" pendant lights on Amazon are glass beads glued to a wire frame, sold with stock photos that flatter them. This one is different. The Crystal Pendant Lights Kitchen Island set actually delivers on the look—but it does ask something of you in return.

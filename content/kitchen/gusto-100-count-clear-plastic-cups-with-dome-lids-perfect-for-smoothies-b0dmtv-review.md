@@ -1,4 +1,5 @@
 ---
+
 title: "GUSTO 100 Count Clear Plastic Cups With Dome Lids - Perfect "
 seo_title: "GUSTO 100 Count Clear Plastic Cups With Dome Lids  Review"
 meta_description: "Our full gusto 100 count clear plastic cups with dome lids - perfect  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMTV6F2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N04O3llzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GUSTO 100 Count Clear Plastic Cups with Dome Lids aren't glamorous. But if you've ever watched a flimsy 9-ounce cup buckle under the weight of a heavy smoothie, you know why these matter. At 16 ounces with a snug-fitting dome lid, they're the workhorse of backyard parties, food truck service, and meal prep — and at 4.7 stars from 235 ratings, buyers agree more often than not.

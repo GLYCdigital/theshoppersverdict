@@ -1,4 +1,5 @@
 ---
+
 title: "Devoko Waiting Room Office Reception Chairs Executive Leathe"
 seo_title: "Devoko Reception Chairs Review: Worth It? (2026)"
 meta_description: "Honest Devoko waiting room office reception chairs review: build quality, comfort, real buyer feedback, and who should buy. 4.4-star rated guest chairs."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07L2S5XGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DUw7DzklL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine PU leather upholstery with high-density foam that holds shape after months of daily use"
   - "Welded steel frame rated for 350 lbs — no wobble, no creaks even on uneven floors"
   - "Assembly takes under 10 minutes with only 4 bolts — no special tools needed"
-cons:
+cons: 
   - Armrests sit low for taller users (5'11 inch "+) — can feel cramped during long waits
   - "PU leather traps heat; expect sweaty backs in warm climates or non-AC rooms"
   - "No stacking ability — four chairs will eat up serious floor space in storage"
+
 ---
 
 **Bottom line up front:** The Devoko waiting room chair is the rare budget reception seat that actually looks like it costs more than it does. At a 4.4-star average across 220 ratings, it's not perfect — but for a sub-$100 guest chair, it outperforms most of what IKEA and Amazon Basics offer in this category.

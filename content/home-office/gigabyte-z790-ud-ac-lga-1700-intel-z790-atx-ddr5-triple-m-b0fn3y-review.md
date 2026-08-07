@@ -1,4 +1,5 @@
 ---
+
 title: "GIGABYTE Z790 UD AC (LGA 1700/ Intel Z790/ ATX/ DDR5/ Triple"
 seo_title: "GIGABYTE Z790 UD AC (LGA 1700/ Intel Z790/ ATX/ DD Review"
 meta_description: "Our full gigabyte z790 ud ac (lga 1700/ intel z790/ atx/ ddr5/ triple review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FN3Y3NKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w2Kf+KK+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The GIGABYTE Z790 UD AC is the sensible middle child of Intel's LGA 1700 lineup — not flashy, not cheap-feeling, just a well-rounded DDR5 board that gets out of your way.**

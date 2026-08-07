@@ -1,4 +1,5 @@
 ---
+
 title: "Rock Candy Sticks - Party Favors - Candy Buffet - Swizzle St"
 seo_title: "Rock Candy Sticks - Party Favors - Candy Buffet -  Review"
 meta_description: "Our full rock candy sticks - party favors - candy buffet - swizzle st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B072K3Q7FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616crvjzwhL._SL1000_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever watched someone drop a pink crystal stick into their coffee and stir it slowly, watching the color swirl — you already know why these are popular. Rock candy swizzle sticks have become the default "cute but functional" coffee stirrer for brunches, baby showers, and Instagram-worthy tables. But do they actually hold up in hot liquid, or are they just a photo prop? I tested a bulk batch of these to find out.**

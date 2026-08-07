@@ -1,4 +1,5 @@
 ---
+
 title: "MelodySusie Pen-Shaped Portable Cordless Nail Drill,PC180G 2"
 seo_title: "MelodySusie Pen-Shaped Portable Cordless Nail Dril Review"
 meta_description: "Our full melodysusie pen-shaped portable cordless nail drill,pc180g 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRYDDQ26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617jw5m+5wL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $40 question: Can a pen-shaped drill actually handle real nail work?**

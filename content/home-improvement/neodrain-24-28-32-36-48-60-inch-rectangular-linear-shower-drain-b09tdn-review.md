@@ -1,4 +1,5 @@
 ---
+
 title: "Neodrain 24,28,32,36,48,60 Inch Rectangular Linear Shower Dr"
 seo_title: "Neodrain 24,28,32,36,48,60 Inch Rectangular Linear Review"
 meta_description: "Our full neodrain 24,28,32,36,48,60 inch rectangular linear shower dr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TDNT2D4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wM8+E9LoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're speccing a curbless shower or a large-format tile layout, the drain is the first thing you should design around — not the last thing you pick out at the hardware store. The Neodrain linear series gives you six length options from 24 to 60 inches, all built from 304 stainless steel with a brushed finish that holds up better than the cheap chrome-plated zinc you'll find in most big-box stores. At 4.7 stars across 235 ratings, it's clearly earning its keep in real bathrooms. Here's what actually matters before you buy.

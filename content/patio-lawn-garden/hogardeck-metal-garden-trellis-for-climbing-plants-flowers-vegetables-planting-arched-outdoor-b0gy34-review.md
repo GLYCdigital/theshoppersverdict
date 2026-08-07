@@ -1,4 +1,5 @@
 ---
+
 title: "hogardeck Metal Garden Trellis for Climbing Plants Flowers V"
 seo_title: "hogardeck Metal Garden Trellis for Climbing Plants Review"
 meta_description: "Our full hogardeck metal garden trellis for climbing plants flowers v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY347MPH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xnXB9Qc6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've killed more flimsy bamboo stakes than you care to admit, this hogardeck arched trellis is a legitimate step up. At 4.4 stars across 220 ratings, it's not perfect, but for the price of a couple of lattes it solves the "my cucumbers collapsed into a pile" problem most gardeners know intimately.

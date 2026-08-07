@@ -1,4 +1,5 @@
 ---
+
 title: "Brother TN436 Super High Yield Toner 4-Pack Review"
 seo_title: "Brother TN436 4-Color Toner Review: Worth the Price?"
 meta_description: "Honest Brother TN436BK/C/Y/M super high yield toner review. Real page yields, print quality, cost per page, and compatibility details before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B078WGWZ4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xxOvzgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Brother OEM toner — no third-party quality gamble, consistent color matching across all four cartridges"
   - "Super high yield rating delivers roughly double the pages of standard TN421 cartridges, lowering cost per page significantly"
   - "Individual cartridges included (BK, C, Y, M) — replace only what's empty instead of tossing a multi-pack with unused colors"
-cons:
+cons: 
   - "Premium OEM pricing — you'll pay more upfront than compatible alternatives, though reliability is better"
   - "No page-count indicator on the cartridges themselves — you're dependent on the printer's toner level warnings"
+
 ---
 
 # Brother TN436 Super High Yield Toner: The Complete 4-Color Breakdown

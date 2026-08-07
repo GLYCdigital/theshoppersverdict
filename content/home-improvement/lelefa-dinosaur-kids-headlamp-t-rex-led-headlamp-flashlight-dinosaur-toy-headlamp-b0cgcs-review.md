@@ -1,4 +1,5 @@
 ---
+
 title: "lelefa Dinosaur Kids Headlamp, T-Rex Led Headlamp Flashlight"
 seo_title: "lelefa Dinosaur Kids Headlamp, T-Rex Led Headlamp  Review"
 meta_description: "Our full lelefa dinosaur kids headlamp, t-rex led headlamp flashlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGCSL41Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IQeQX84AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Verdict: A $15 Dinosaur Headlamp That Kids Actually Want to Wear**

@@ -1,4 +1,5 @@
 ---
+
 title: "JOYIN 12 Wooden Magnet Creativity Arts & Crafts Painting Kit"
 seo_title: "JOYIN 12 Wooden Magnet Creativity Arts & Crafts Pa Review"
 meta_description: "Our full joyin 12 wooden magnet creativity arts & crafts painting kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CSS4ZMMN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KI2aidYpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're hunting for a screen-free activity that keeps a 4-to-9-year-old busy for a solid afternoon and leaves you with fridge-worthy results, this JOYIN kit delivers. It's not fancy, but it's honest — 12 wooden shapes, real paints, and magnets that actually stick.

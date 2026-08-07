@@ -1,4 +1,5 @@
 ---
+
 title: "Fisher-Price Imaginext Shark Bite Pirate Ship"
 seo_title: "Fisher-Price Imaginext Shark Bite Pirate Ship Review (2026)"
 meta_description: "Read our honest Fisher-Price Imaginext Shark Bite Pirate Ship review. See how the chomping shark action, figures, and play features hold up for kids ages 3+."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B9J69J7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KsYIHZLpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Big, dramatic shark head with a satisfying chomping action that actually closes on figures"
   - "Two included pirate figures plus a small rowboat — ready to play right out of the box"
   - "Sturdy construction that survives drops and aggressive toddler play"
-cons:
+cons: 
   - "Rigid sails don't adjust or rotate, which limits some imaginative positioning"
   - "No storage compartment on the ship itself for loose cannonballs or accessories"
+
 ---
 
 **The Shark Bite Pirate Ship** isn't just another pirate boat — it's a toy with a personality. The centerpiece is a massive, articulated shark head mounted on the bow that opens wide and snaps shut with enough force to swallow a pirate figure whole. At 4.8 stars from 240 ratings, this is one of the most beloved Imaginext sets in recent memory, and after spending time with it, I understand why.

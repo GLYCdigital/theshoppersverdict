@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Kitty and Friends - 8-Inch Candy Wonderland Plush - Of"
 seo_title: "Hello Kitty Candy Wonderland Plush Review: 8-Inch Sanrio Soft Toy"
 meta_description: "Hello Kitty and Friends 8-Inch Candy Wonderland Plush review: Officially licensed Sanrio soft toy. Soft, detailed, and gift-ready. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DVDQ97NT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ao4826NpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Officially licensed Sanrio product with accurate character details and embroidered facial features that won't peel or fade"
   - "Premium plush fabric is notably soft and dense — holds its shape well even after repeated hugging and play"
   - "8-inch size hits the sweet spot for display, cuddling, or travel; sits upright nicely on shelves or beds"
-cons:
+cons: 
   - "No sound or interactive features — this is purely a plush, so younger kids expecting noise or movement may lose interest"
   - "Pastel candy-themed fabric shows dirt and stains more readily than darker plush options"
+
 ---
 
 # Hello Kitty and Friends Candy Wonderland Plush Review: Is This 8-Inch Sanrio Plush Worth Your Money?

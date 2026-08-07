@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Hi-Polymer Block Eraser"
 seo_title: "Pentel Hi-Polymer Block Eraser Review: Verdict | TSV"
 meta_description: "Our full pentel hi-polymer block eraser review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D329CRDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yEJXvYYML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever snapped a cheap pink eraser in half trying to get a clean line, the Pentel Hi-Polymer Block Eraser is the quiet upgrade your pencil case has been begging for. With a 4.7-star average across 235 ratings, it's not a flashy product — it's the kind of dependable office gear you stop thinking about because it just works. But is it worth swapping out your current eraser? Let's break down what you're actually paying for.

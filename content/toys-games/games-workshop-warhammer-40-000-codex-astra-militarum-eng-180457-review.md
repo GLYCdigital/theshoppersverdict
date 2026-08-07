@@ -1,4 +1,5 @@
 ---
+
 title: "Games Workshop - Warhammer 40,000 - Codex: Astra Militarum ("
 seo_title: "Games Workshop - Warhammer 40,000 - Codex: Astra M Review"
 meta_description: "Our full games workshop - warhammer 40,000 - codex: astra militarum ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/1804574767/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818wEZxEFcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **Games Workshop - Warhammer 40,000 - Codex: Astra Militarum (** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

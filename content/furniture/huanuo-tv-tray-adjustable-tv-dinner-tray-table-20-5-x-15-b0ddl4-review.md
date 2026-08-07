@@ -1,4 +1,5 @@
 ---
+
 title: "HUANUO TV Tray, Adjustable TV Dinner Tray Table, 20.5 x 15.4"
 seo_title: "HUANUO TV Tray, Adjustable TV Dinner Tray Table, 2 Review"
 meta_description: "Our full huanuo tv tray, adjustable tv dinner tray table, 20.5 x 15.4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDL4HDSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611Q9HGCuGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about most TV trays: they’re either flimsy wire things that wobble if you look at them wrong, or they’re so bulky you need a garage to store them. The HUANUO TV Tray sits in a smarter middle ground. It’s a proper piece of furniture engineered for the specific problem of eating and working on a couch without hunching. But it’s not without compromises.

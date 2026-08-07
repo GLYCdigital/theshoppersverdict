@@ -1,4 +1,5 @@
 ---
+
 title: "Quico Travel Hair Dryer with Dual Voltage, 120000 RPM Fast D"
 seo_title: "Quico Travel Hair Dryer with Dual Voltage, 120000  Review"
 meta_description: "Our full quico travel hair dryer with dual voltage, 120000 rpm fast d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GHQXJZH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Etdd2sGLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Quico Travel Hair Dryer with Dual Voltage, 120,000 RPM Fast Drying

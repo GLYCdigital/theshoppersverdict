@@ -1,4 +1,5 @@
 ---
+
 title: "Dealusy 100 Pack 12 oz, 16 oz Disposable Coffee Cups with Lids Review"
 seo_title: "Dealusy 100 Pack Disposable Coffee Cups Review (2026)"
 meta_description: "Honest Dealusy 100-pack coffee cup review: 12 oz & 16 oz sizes, leak-resistant lids, real buyer feedback. Is this the right disposable cup for your cafe or office?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHGMK4PB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71z4DwnrLYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall construction keeps drinks hot without burning hands — no sleeve needed"
   - "Lids snap on with an audible click and hold firm; multiple buyers tested the seal before trusting it"
   - "50 of each size gives real flexibility for mixed-use kitchens and offices"
-cons:
+cons: 
   - "Lids aren't fully spill-proof if tipped sideways — fine for commute, not for tossing in a bag"
   - "No insulation on the lid itself, so heat escapes through the top faster than the sides"
+
 ---
 
 If you're buying disposable coffee cups in bulk, you've probably been burned before — flimsy walls that scorch your palm, lids that pop off mid-commute, or a 100-pack that turns out to be 80 cups and 20 regrets. The Dealusy 100 Pack (50 twelve-ounce + 50 sixteen-ounce, with lids) sidesteps most of those traps, and at 4.5 stars across 225 ratings, it's earned a reputation before you even click add to cart.

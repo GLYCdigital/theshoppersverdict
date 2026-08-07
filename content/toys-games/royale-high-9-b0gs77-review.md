@@ -1,4 +1,5 @@
 ---
+
 title: "Royale High 9â€"
 seo_title: "Royale High 9â€ Review: Verdict | TSV"
 meta_description: "Our full royale high 9â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GS77NN23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81uvaW9elOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what the Royale High 9-inch figure actually is: a solid, mid-priced collectible that delivers exactly what the product photos promise — no more, no less. With a 4.6-star average across 229 ratings, buyers are clearly satisfied, but that doesn't mean it's perfect for everyone.

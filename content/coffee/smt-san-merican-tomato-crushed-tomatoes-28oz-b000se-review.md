@@ -1,4 +1,5 @@
 ---
+
 title: "SMT SAN MERICAN TOMATO, Crushed Tomatoes, 28oz"
 seo_title: "SMT SAN MERICAN TOMATO, Crushed Tomatoes, 28oz Review: Ve"
 meta_description: "Our full smt san merican tomato, crushed tomatoes, 28oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000SEOJC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51e-Ryt-HQL._SL1080_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most canned tomatoes taste like metallic regret. SMT San Merican Crushed Tomatoes are different — and once you try them, you'll understand why they carry a 4.8-star average across 240 ratings. This isn't a gimmick. It's the closest thing to summer-ripe tomatoes you'll find in a can, and it deserves a permanent spot in your pantry.

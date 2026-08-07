@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Hogwarts Castle: Flying Lessons Building T"
 seo_title: "LEGO Harry Potter Hogwarts Castle: Flying Lessons  Review"
 meta_description: "Our full lego harry potter hogwarts castle: flying lessons building t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ1B25K9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tChASU2vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a toys & games product, the **LEGO Harry Potter Hogwarts Castle: Flying Lessons Building T** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

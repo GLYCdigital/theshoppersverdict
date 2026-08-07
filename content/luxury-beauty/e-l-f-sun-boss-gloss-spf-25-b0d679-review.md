@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Sun Boss Gloss SPF 25 inch"
 seo_title: "e.l.f. Sun Boss Gloss SPF 25 Review: Is It Worth It?"
 meta_description: "Honest e.l.f. Sun Boss Gloss SPF 25 review. Does this tinted lip gloss with SPF protect and plump? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D679SGSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wfqgAXY7L._SL1500_.jpg"
-pros:
+pros: 
   - "SPF 25 with Avobenzone, Octisalate, and Octocrylene — actual broad-spectrum protection, not a gimmick"
   - "Non-sticky, cushiony texture that wears comfortably for hours without that tacky lip gloss feeling"
   - "Sheer, universally flattering peach tint that works on a wide range of skin tones"
-cons:
+cons: 
   - "Small 0.13 oz tube — at this size, daily use means repurchasing quickly"
   - "Needs reapplication every 2 hours for real sun protection, which gets pricey"
   - "Peppermint oil gives a mild tingle that sensitive lips might find irritating"
+
 ---
 
 Let's be honest about lip products with SPF: most of them are either chalky, greasy, or taste like sunscreen. The e.l.f. Sun Boss Gloss SPF 25 manages to dodge all three of those traps, which is exactly why it's sitting at a 4.6-star average from over 229 Amazon shoppers.

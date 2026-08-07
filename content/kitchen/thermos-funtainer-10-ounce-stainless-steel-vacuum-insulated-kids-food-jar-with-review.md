@@ -1,15 +1,16 @@
 ---
+
 title: "THERMOS FUNTAINER 10 Ounce Stainless Steel Vacuum Insulated Kids Food Jar with Folding Spoon, Pink"
 seo_title: "THERMOS FUNTAINER 10 Review: Verdict (4.7/5) | TSV"
 meta_description: "Goooood Very good quality and its keep food hot for long 8,545+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "thermos-funtainer-10-ounce-stainless-steel-vacuum-insulated-kids-food-jar-with-review"
 image_alt: "THERMOS FUNTAINER 10 Ounce Stainless Steel Vacuum Insulated Kids Food Jar with Folding Spoon, Pink"
-keywords:
+keywords: 
   - "thermos funtainer 10 review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the THERMOS FUNTAINER 10 Ounce?"
     answer: "Goooood Very good quality and its keep food hot for long time That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the THERMOS FUNTAINER 10 Ounce?"
@@ -23,12 +24,13 @@ review_count: 8545
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08NCVT244/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TYdHY2uTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Goooood Very good quality and its keep food hot for long time."
   - "Super cute and loving the quality."
   - "I specifically wanted this as it comes with a spoon which makes it pretty handy."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 The THERMOS FUNTAINER 10 Ounce Stainless is a popular choice - with 8,545 Amazon reviews behind it. Here is what buyers actually say.

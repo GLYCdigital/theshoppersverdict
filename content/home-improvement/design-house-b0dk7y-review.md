@@ -1,4 +1,5 @@
 ---
+
 title: "Design House"
 seo_title: "Design House Review: Honest Look Before You Buy"
 meta_description: "Design House review: real performance data, build quality, and buyer feedback. See what 204 Amazon shoppers say before you spend."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DK7Y4K68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618lHwyc3xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction with quality metal components that resist warping and corrosion"
   - "Clean, modern finish that matches most decor styles without looking cheap"
   - "Straightforward installation with included hardware and clear instructions"
-cons:
+cons: 
   - "Packaging could be more protective — a few buyers reported minor surface scratches"
   - "Finish shows fingerprints more readily than matte alternatives"
+
 ---
 
 Design House is one of those brands that flies under the radar in the home improvement aisle, but it's been quietly supplying builders and remodelers for years. This particular product — pulled from their current hardware lineup — sits in a crowded field where you're choosing between a $15 no-name option and a $60 designer piece. The question is whether this middle-ground pick justifies its spot in your cart.

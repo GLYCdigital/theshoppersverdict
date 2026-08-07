@@ -1,4 +1,5 @@
 ---
+
 title: "QUOKKA Board Games for Kids 8-12 and Family"
 seo_title: "QUOKKA Board Games for Kids 8-12 and Family Review: Verdi"
 meta_description: "Our full quokka board games for kids 8-12 and family review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G52HRS55/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v328HUHgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # QUOKKA Board Games for Kids 8-12 and Family: A Multi-Game Set That Actually Gets Played

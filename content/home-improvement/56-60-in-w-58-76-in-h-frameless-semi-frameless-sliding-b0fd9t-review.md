@@ -1,4 +1,5 @@
 ---
+
 title: "56–60 in. W × 58–76 in. H Frameless & Semi-Frameless Sl"
 seo_title: "Frameless Sliding Shower Door Review: 56-60 in. W"
 meta_description: "Honest 56-60 in. frameless sliding shower door review. Covers glass thickness, installation, hardware quality & real buyer feedback. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FD9T1PXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DAvs9YJvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True frameless look with 3/8-inch tempered glass — no metal channels trapping soap scum"
   - "Adjustable width range (56–60 in.) and height (58–76 in.) fits most rough openings without custom glass"
   - "Stainless steel rollers and pivot hinges glide smoothly; hardware has a solid, premium feel"
-cons:
+cons: 
   - "Installation is genuinely difficult for one person — glass panels are heavy and require precise leveling"
   - "Bottom guide channel can accumulate water if the shower floor isn't pitched correctly"
   - "Some buyers report hairline scratches on glass during shipping due to inadequate edge protection"
+
 ---
 
 **Opening Hook**

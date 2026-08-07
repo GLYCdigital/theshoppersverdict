@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Drill Press, 2-Speed, Magnetic, 2-Inch (DWE1622K)"
 seo_title: "DEWALT DWE1622K Magnetic Drill Press Review (2026)"
 meta_description: "Honest DEWALT DWE1622K magnetic drill press review: 2-speed power, 2-inch capacity, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08FDJSVHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81UUepTmISL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1,430 lb magnetic holding force keeps the drill locked to vertical steel without slipping"
   - "Two-speed gearbox (250/450 RPM) delivers real torque for 2-inch holes in structural steel"
   - "Integrated coolant system with sight gauge extends annular cutter life noticeably"
-cons:
+cons: 
   - "Requires minimum 3/8-inch thick steel for the magnet to reach full holding strength"
   - "No built-in work light, which is a miss at this price point"
   - "Carrying case is bulky and takes up serious truck bed space"
+
 ---
 
 If you've ever tried to drill a 1-inch hole in an I-beam with a handheld drill, you know the drill — literally. Your arms shake, the bit wanders, and the hole ends up oval. The DEWALT DWE1622K magnetic drill press exists to end that misery. It clamps itself to the steel, positions the cutter exactly where you want it, and lets the machine do the work. After 235 Amazon ratings averaging 4.7 stars, it's clear this isn't just another tool that looks good in a catalog.

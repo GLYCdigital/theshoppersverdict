@@ -1,4 +1,5 @@
 ---
+
 title: "Condemo Round End Table"
 seo_title: "Condemo Round End Table Review: Stylish & Sturdy? (2026)"
 meta_description: "Condemo Round End Table review: real buyer feedback on this 4.5-star side table. Is it sturdy enough for daily use? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK1ZLJTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WXWKszDnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid MDF tabletop with a scratch-resistant finish that holds up to daily coffee mug and remote control traffic"
   - "Sturdy powder-coated steel frame with X-cross brace — no wobble even on carpet"
   - "Assembles in under 10 minutes with only 4 bolts; all tools included"
-cons:
+cons: 
   - "Tabletop is not solid wood — expect some water ring marks if you skip coasters"
   - "Only available in two finishes (black and walnut); no white or light oak options"
   - "At 20 inches diameter, it's compact — too small to double as a proper dining sideboard"
+
 ---
 
 **The Condemo Round End Table: The $60 Side Table That Actually Feels Solid**

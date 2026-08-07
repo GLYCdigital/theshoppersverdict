@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Paddle Brush for Hair, Gentle Detangling, Wet"
 seo_title: "Amazon Basics Paddle Brush Review: Gentle Detangling for Wet Hair"
 meta_description: "Amazon Basics Paddle Brush review: soft flexi-bristles, cushioned pad, and wet-hair detangling at a budget price. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BMQD3KNS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610O7GsNtpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Flexible, ball-tipped bristles glide through wet knots without snagging or scratching the scalp"
   - "Cushioned air pad flexes with brush strokes, reducing pull on fragile, water-logged strands"
   - "Ergonomic, non-slip handle stays put even with conditioner-slicked hands"
-cons:
+cons: 
   - "Bristles are too soft for thick, coarse, or heavily tangled hair — you'll need a second brush for serious knots"
   - "Ball tips can pop off over time if you regularly brush with excessive force or heat"
+
 ---
 
 **Bottom line up front:** This isn't a luxury brush, and it doesn't pretend to be. But for the price, the Amazon Basics Paddle Brush does one thing exceptionally well: it gets through wet, tangled hair without making you wince. That's a bigger deal than it sounds.

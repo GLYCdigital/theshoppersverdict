@@ -1,4 +1,5 @@
 ---
+
 title: "mopio Brooklyn Coffee Table, Lift Top Coffee Tables for Livi"
 seo_title: "mopio Brooklyn Coffee Table, Lift Top Coffee Table Review"
 meta_description: "Our full mopio brooklyn coffee table, lift top coffee tables for livi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D45LRR4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zpr-EdspL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** The mopio Brooklyn is a lift-top coffee table that actually works like it should. The mechanism is smooth, the storage is genuinely useful, and the mid-century styling doesn't scream "cheap Amazon furniture." At 4.2 stars from 210 ratings, it's not perfect — assembly is fiddly and the lift only locks in two positions — but for most living rooms, this is a solid buy at the price point.

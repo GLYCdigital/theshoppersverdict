@@ -1,4 +1,5 @@
 ---
+
 title: "CAPOT Ergonomic Mesh Office Chair, Adjustable Lumbar High Ba"
 seo_title: "CAPOT Ergonomic Mesh Office Chair Review: 400lb Capacity"
 meta_description: "CAPOT ergonomic mesh office chair review: 400lb capacity, adjustable lumbar, breathable back. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G23WPR2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bNAamEELL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "400lb weight capacity with reinforced steel frame — rare at this price point"
   - "Adjustable lumbar support that actually moves (height + depth), not just a fixed bump"
   - "Breathable mesh back that prevents the dreaded sweaty-back syndrome during long sessions"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes; the gas lift cylinder can be stubborn to seat"
   - "Seat cushion is firm — if you prefer plush, cloud-like padding, this isn't it"
   - "Armrests adjust but don't rotate, limiting some ergonomic positioning options"
+
 ---
 
 Let me be straight with you: most office chairs under $200 are either flimsy, uncomfortable, or both. The CAPOT Ergonomic Mesh Chair isn't either of those things — but it's not perfect either. Here's what you need to know before you hit "add to cart."

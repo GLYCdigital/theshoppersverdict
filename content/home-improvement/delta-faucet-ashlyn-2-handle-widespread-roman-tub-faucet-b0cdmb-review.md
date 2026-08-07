@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Faucet Ashlyn 2-Handle Widespread Roman Tub Faucet"
 seo_title: "Delta Ashlyn Roman Tub Faucet Review: Worth It? (2026)"
 meta_description: "Delta Ashlyn 2-handle widespread Roman tub faucet review: build quality, installation fit, real buyer feedback. Is this 4.6-star faucet right for your bathroom?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CDMBLW71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A9Kn5QxjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with Diamond Seal valves rated for 1 million uses"
   - "Widespread 3-hole fit works with 8-16 inch centers, covering most tub configurations"
   - "Lever handles with clear hot/cold indicators are easy for kids and elderly users"
-cons:
+cons: 
   - "Hand shower is NOT included — you're paying for the spout and handles only"
   - "Installation requires access behind the tub wall for supply lines"
   - "Pop-up drain assembly sold separately — budget an extra $50-100"
+
 ---
 
 Let’s be blunt about what you’re looking at here. The Delta Ashlyn is a **widespread Roman tub faucet** — that’s the classic three-hole configuration with a centered spout and two lever handles sitting on the rim of your tub. It’s a style that says “traditional bathroom” without screaming “dated,” and at 4.6 stars across 229 ratings, it’s clearly doing something right. But before you hand over your card, there are a few things about this faucet that the product photos don’t tell you.

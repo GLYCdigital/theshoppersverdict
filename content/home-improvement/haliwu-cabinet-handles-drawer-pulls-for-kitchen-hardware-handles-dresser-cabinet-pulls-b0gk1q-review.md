@@ -1,4 +1,5 @@
 ---
+
 title: "Haliwu Cabinet Handles Drawer Pulls for Kitchen Hardware Han"
 seo_title: "Haliwu Cabinet Handles Drawer Pulls for Kitchen Ha Review"
 meta_description: "Our full haliwu cabinet handles drawer pulls for kitchen hardware han review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GK1Q6VWK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51UZktMVlhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Haliwu's cabinet pulls deliver exactly what budget hardware shoppers need — decent zinc alloy construction, a clean matte black finish, and enough size options to outfit a whole kitchen for less than the price of a single premium pull from big-box stores. The 4.2-star rating holds up, with a few caveats around finish durability and installation precision.**

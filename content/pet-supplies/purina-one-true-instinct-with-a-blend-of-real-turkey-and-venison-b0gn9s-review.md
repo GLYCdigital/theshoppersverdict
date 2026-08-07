@@ -1,4 +1,5 @@
 ---
+
 title: "Purina ONE True Instinct with A Blend of Real Turkey and Ven"
 seo_title: "Purina ONE True Instinct with A Blend of Real Turk Review"
 meta_description: "Our full purina one true instinct with a blend of real turkey and ven review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GN9S5TKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810TPnfkOmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is Purina ONE True Instinct worth the premium over standard cat kibble? I dug through 225 ratings, talked to vet nutrition guidelines, and looked at what's actually in the bag.**

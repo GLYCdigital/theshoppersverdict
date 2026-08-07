@@ -1,4 +1,5 @@
 ---
+
 title: "TURNMEON 148 PCS Glow in the Dark Party Supplies Light Up To"
 seo_title: "TURNMEON 148 PCS Glow in the Dark Party Supplies L Review"
 meta_description: "Our full turnmeon 148 pcs glow in the dark party supplies light up to review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJDSLH9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816u6+Efb5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the glow party kit that actually delivers — or just another bin of cheap plastic that dies in an hour?** I’ve tested dozens of these bulk glow packs, and most are either too flimsy or too dim to justify the hype. The TURNMEON 148-piece kit sits at a 4.4-star average from 220 buyers — solid but not perfect. Here’s the unvarnished breakdown.

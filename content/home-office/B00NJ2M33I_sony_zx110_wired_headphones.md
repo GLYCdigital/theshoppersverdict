@@ -1,4 +1,5 @@
 ---
+
 title: "Sony MDR-ZX110 Wired Headphones"
 seo_title: "Sony MDR-ZX110 Review: Best $15 Office Headphones?"
 meta_description: "Sony MDR-ZX110 review: 4.5-star wired headphones at $14.88. Deep bass, foldable design, 1.2m cord. Are they worth it for office use? Find out."
@@ -11,14 +12,15 @@ review_count: 96105
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41CiQ7hR31L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "30mm neodymium drivers deliver surprisingly punchy bass for a $15 pair"
   - "Folds flat with swiveling ear cups — slips into a laptop bag without bulk"
   - "1.2m tangle-resistant cord with in-line mic works for calls, not just music"
-cons:
+cons: 
   - "On-ear design clamps harder than over-ear models; glasses wearers will feel it"
   - "No carrying case included despite the fold-flat design"
   - "Thin headband padding becomes uncomfortable past the 2-hour mark"
+
 ---
 
 **What the 96,000+ Amazon ratings won't tell you before you buy.**

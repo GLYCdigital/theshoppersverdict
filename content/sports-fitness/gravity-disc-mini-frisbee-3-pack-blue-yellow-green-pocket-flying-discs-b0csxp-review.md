@@ -1,4 +1,5 @@
 ---
+
 title: "Gravity Disc Mini Frisbee - 3 Pack (Blue, Yellow, Green) Poc"
 seo_title: "Gravity Disc Mini Frisbee - 3 Pack (Blue, Yellow,  Review"
 meta_description: "Our full gravity disc mini frisbee - 3 pack (blue, yellow, green) poc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CSXP8KZ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gjfu69NmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody *needs* a mini frisbee. But if you've ever sat in a park with nothing to do, or wished you had something to toss with your kid while waiting for soccer practice to start, the Gravity Disc Mini 3-pack makes a compelling case for itself. At roughly the size of your palm, these discs are designed for one thing: being there when you want them.

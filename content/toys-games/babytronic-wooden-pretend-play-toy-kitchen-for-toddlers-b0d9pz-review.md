@@ -1,4 +1,5 @@
 ---
+
 title: "Babytronic Wooden Pretend Play Toy Kitchen for Toddlers"
 seo_title: "Babytronic Wooden Toy Kitchen Review: Worth It for Toddlers?"
 meta_description: "Honest Babytronic wooden toy kitchen review: build quality, size, safety, and real buyer feedback. See who should buy it and who should skip it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9PZCMHH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sbGic+9hL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy, solid wood construction that survives daily toddler play without wobbling"
   - "Compact footprint (~30 inches wide) fits small apartments and playrooms"
   - "Comes with 10+ accessories including pots, pans, utensils, and play food"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with roughly 40 screws — plan for it"
   - "Some buyers report the included play food is thin plastic that can crack"
+
 ---
 
 Let's cut through the noise: there are about 4,000 pretend kitchen options on Amazon, and most of them are either flimsy MDF that sags in six months or plastic monstrosities that dominate your living room. The Babytronic wooden kitchen sits in a sweet spot — but it's not perfect.

@@ -1,4 +1,5 @@
 ---
+
 title: "BOYAN Parchment Rounds for Springform Pan, Cake Pan, Tortilla Press: Review"
 seo_title: "BOYAN Parchment Rounds Review: Springform & Cake Pan Liners"
 meta_description: "Honest BOYAN parchment rounds review: 6.5-inch precut liners for springform pans, cake pans & tortilla presses. Real pros, cons & buyer verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07ZQK1G6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DwVp0S-vL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precut 6.5-inch rounds fit 6-7 inch springform pans and tortilla presses without trimming"
   - "Heavyweight paper holds up to wet batters without curling or tearing mid-bake"
   - "Comes in a 200-count pack — roughly 10 cents per use, cheaper than buying rolls"
-cons:
+cons: 
   - "Only one size (6.5-inch) — no option for larger 8 or 9-inch pans"
   - "Paper edges can curl slightly if batter overflows past the rim"
+
 ---
 
 ## The 6.5-inch paper that saves your cake (and your sanity)

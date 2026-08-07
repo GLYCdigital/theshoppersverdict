@@ -1,4 +1,5 @@
 ---
+
 title: "HongWay Landscape Staples"
 seo_title: "HongWay Landscape Staples Review: Verdict | TSV"
 meta_description: "Our full hongway landscape staples review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G9178KVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c1Kj-5uAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a gust of wind peel back a corner of freshly laid landscape fabric, you know the frustration of cheap staples that bend on impact and pop out after the first rain. The HongWay Landscape Staples are built to end that cycle. With a 4.8-star average across 240 ratings, these 6-inch galvanized stakes have become a go-to for gardeners who are tired of redoing their mulch beds every spring.

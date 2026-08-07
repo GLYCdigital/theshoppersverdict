@@ -1,4 +1,5 @@
 ---
+
 title: "chartustriable LED TV Stand, Modern Tall Entertainment Cente"
 seo_title: "chartustriable LED TV Stand Review: Modern Tall Storage Unit"
 meta_description: "Honest chartustriable LED TV Stand review: sleek high-gloss design, tall profile, real storage. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSGXVRNJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81nYVuQnLfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tall vertical design holds a 65-inch TV while freeing up floor space—rare for this price bracket"
   - "High-gloss finish resists fingerprints and wipes clean with a microfiber cloth, per multiple owner reports"
   - "Open shelving accommodates soundbars up to 12 inches deep and A/V components with good airflow"
-cons:
+cons: 
   - "High-gloss surfaces show dust and smudges quickly in bright rooms—plan on weekly wiping"
   - "Assembly requires two people for the top-heavy frame; one reviewer noted stripped screw holes when overtightened"
+
 ---
 
 Let’s cut through the listing photos and talk about what this TV stand actually does for your living room. The chartustriable LED TV Stand is a tall, high-gloss entertainment center aimed at shoppers who want a modern silhouette without paying modern furniture prices. At 4.5 stars from 225 ratings, it’s clearly doing something right—but it’s not without tradeoffs.

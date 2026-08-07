@@ -1,4 +1,5 @@
 ---
+
 title: "10 Inch LED Flush Mount Ceiling Light Fixture, Slim Dimmable"
 seo_title: "10 Inch LED Flush Mount Ceiling Light Review (2026) | Dimmable"
 meta_description: "Honest 10 inch LED flush mount ceiling light review: dimmable, slim design, 229 ratings at 4.6/5. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5QTHP5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ONKiEAY6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dimmable range from 10% to 100% with most standard LED-compatible dimmer switches"
   - "Slim 1.5-inch profile sits nearly flush against ceiling, ideal for low-clearance hallways"
   - "Integrated 18W LED delivers 1,800 lumens at 5000K daylight — genuinely bright for a 10-inch fixture"
-cons:
+cons: 
   - "Non-replaceable integrated LED board means whole-unit replacement when it eventually fails"
   - "Hardwired installation requires a junction box; not a plug-in fixture despite the compact size"
+
 ---
 
 If you're staring at a builder-grade boob light and wondering why your hallway looks like a cave, this 10-inch slim flush mount is the upgrade you've been hunting. With 229 ratings holding steady at 4.6 out of 5, it's clearly doing something right. Let me tell you what that is — and where it trips up.

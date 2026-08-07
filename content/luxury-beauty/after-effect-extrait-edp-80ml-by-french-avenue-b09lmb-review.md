@@ -1,4 +1,5 @@
 ---
+
 title: "After Effect Extrait EDP 80ml by French Avenue"
 seo_title: "After Effect Extrait EDP Review: Worth the Hype?"
 meta_description: "Honest After Effect Extrait EDP 80ml review: performance, longevity, and projection. Is this French Avenue fragrance worth $150+? Read before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B09LMBY23C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711CP8kVJyL._SL1254_.jpg"
-pros:
+pros: 
   - "Extrait concentration delivers 8-12 hour longevity on skin, 24+ hours on fabric"
   - "Unisex amber-oud profile with noticeable saffron and vanilla depth"
   - "80ml bottle at extract strength — 20ml more than typical niche offerings at similar price"
-cons:
+cons: 
   - "Opening 15-20 minutes can smell sharp/alcoholic to some noses"
   - "Not a safe blind buy — sweetness leans gourmand, not for fresh-fragrance fans"
   - "Batch variation reported; some bottles project softer than others"
+
 ---
 
 # After Effect Extrait EDP 80ml by French Avenue: The Real Story

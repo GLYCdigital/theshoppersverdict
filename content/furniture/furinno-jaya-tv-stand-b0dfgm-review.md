@@ -1,4 +1,5 @@
 ---
+
 title: "Furinno Jaya TV Stand"
 seo_title: "Furinno Jaya TV Stand Review: Budget-Friendly or Bust?"
 meta_description: "Honest Furinno Jaya TV Stand review: build quality, real-world use, and who should buy it. See pros, cons, and the final verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DFGM2PV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ryOwQKgOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Assembles in under 20 minutes with cam-lock hardware — no tools beyond the included Allen wrench"
   - "Weighs roughly 25 lbs but holds up to 75 lbs on the top surface, enough for most 55-inch TVs"
   - "Three-tier design fits standard AV components and the cabinet door hides messy cable clutter"
-cons:
+cons: 
   - "Particle board construction with laminate finish; water damage or heavy impact will cause swelling or chipping"
   - "Back panel is thin fiberboard that requires careful alignment during assembly — rushing it leads to stripped cam screws"
   - "No cable management holes in the back panel, so you'll need zip ties or a cord cover for a clean look"
+
 ---
 
 Let's be direct: the Furinno Jaya TV Stand is not heirloom furniture. It's a $60–$80 (price varies) particle board unit designed for apartments, dorms, and guest rooms. But for what it costs, it does exactly what a TV stand needs to do — and in this review, I'll tell you where it shines and where you'll feel every penny of the budget price.

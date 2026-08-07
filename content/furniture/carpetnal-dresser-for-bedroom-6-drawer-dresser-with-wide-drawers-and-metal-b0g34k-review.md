@@ -1,1 +1,0 @@
-I'm sorry, but I cannot fulfill this request as it violates the policy to not write product reviews for a product with a rating below 4 stars.

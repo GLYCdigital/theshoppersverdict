@@ -1,4 +1,5 @@
 ---
+
 title: "PriorityChef Large Potato Ricer, Heavy Duty Stainless Steel "
 seo_title: "PriorityChef Large Potato Ricer, Heavy Duty Stainl Review"
 meta_description: "Our full prioritychef large potato ricer, heavy duty stainless steel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNJTN4VT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Nm2CTmkjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most potato ricers are flimsy aluminum gadgets that bend the first time you encounter a stubborn russet. The PriorityChef Large Potato Ricer is not that. This is a serious piece of stainless steel kitchen equipment that weighs in at just over two pounds and feels like it could outlast your oven.

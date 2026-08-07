@@ -1,4 +1,5 @@
 ---
+
 title: "Dried Cherries Unsweetened, Dried Tart Cherries Fresh, Montm"
 seo_title: "Dried Tart Cherries Unsweetened Review: Worth It?"
 meta_description: "Honest review of unsweetened dried Montmorency tart cherries. Texture, taste, uses, and value compared. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPLLZKL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71avzJNAOkS._SL1500_.jpg"
-pros:
+pros: 
   - "Truly unsweetened — no added sugar, oil, or preservatives, just dried Montmorency cherries"
   - "Pliable, moist texture rather than hard leathery bits; rehydrates well in oatmeal or baking"
   - "Consistent tart flavor that holds up in recipes without turning cloyingly sweet"
-cons:
+cons: 
   - "Pit fragments occasionally present — chew carefully, not ideal for young children"
   - "Smaller bag sizes run out fast if you snack on these daily; bulk is better value"
+
 ---
 
 Most dried cherries on the shelf are candy in disguise. Loaded with sunflower oil, cane sugar, and enough preservatives to outlast a apocalypse. This bag is different — it's just Montmorency tart cherries, dried, and nothing else. If you've been hunting for a clean snack or a baking ingredient that won't spike your sugar, this earns a serious look.

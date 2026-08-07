@@ -1,4 +1,5 @@
 ---
+
 title: "Oasishine 4 PCS Patio Furniture Set Outdoor Sectional Wicker"
 seo_title: "Oasishine 4 PCS Patio Furniture Set Outdoor Sectio Review"
 meta_description: "Our full oasishine 4 pcs patio furniture set outdoor sectional wicker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK4XQKKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oxu9ILP8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Oasishine 4-Piece Patio Sectional: The $600 Question

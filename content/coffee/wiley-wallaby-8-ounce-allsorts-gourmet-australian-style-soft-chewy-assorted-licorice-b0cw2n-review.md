@@ -1,4 +1,5 @@
 ---
+
 title: "Wiley Wallaby 8 Ounce Allsorts Gourmet Australian Style Soft"
 seo_title: "Wiley Wallaby 8 Ounce Allsorts Gourmet Australian  Review"
 meta_description: "Our full wiley wallaby 8 ounce allsorts gourmet australian style soft review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CW2N42GZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WRaqbF7kL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: If you’ve only ever eaten Twizzlers or Red Vines, Wiley Wallaby’s Allsorts bag is going to feel like a different species of candy. This is soft, squishy Australian-style licorice — closer to a firm fruit snack than the tough, waxy ropes most Americans grew up with. The 8-ounce bag gives you an assorted mix of flavors, making it a low-commitment way to see what all the fuss is about.

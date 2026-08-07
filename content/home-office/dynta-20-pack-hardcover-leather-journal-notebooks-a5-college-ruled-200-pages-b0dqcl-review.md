@@ -1,4 +1,5 @@
 ---
+
 title: "Dynta 20 Pack Hardcover Leather Journal Notebooks, A5 Colleg"
 seo_title: "Dynta 20 Pack Leather Journals Review: A5 College Ruled"
 meta_description: "Dynta 20-pack A5 leather journals review: 200 pages each, lay-flat binding, bulk value. See pros, cons, and who should buy these notebooks."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DQCLN2HT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719SNRCakNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 100gsm paper holds fountain pen ink and gel pens without bleed-through"
   - "Lay-flat sewn binding means pages stay open without holding the notebook down"
   - "20 notebooks works out to roughly $1.50 per journal at typical pricing"
-cons:
+cons: 
   - "Leather cover is faux/PU, not genuine leather — some buyers may find it cheap-feeling"
   - "No page numbers or table of contents, which limits it as a strict bullet journal"
+
 ---
 
 **Review Body:**

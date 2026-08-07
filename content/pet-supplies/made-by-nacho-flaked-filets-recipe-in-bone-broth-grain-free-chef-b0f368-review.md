@@ -1,4 +1,5 @@
 ---
+
 title: "Made by Nacho Flaked Filets Recipe in Bone Broth, Grain-Free"
 seo_title: "Made by Nacho Flaked Filets Recipe in Bone Broth,  Review"
 meta_description: "Our full made by nacho flaked filets recipe in bone broth, grain-free review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0F368X2F8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KXna8C7lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

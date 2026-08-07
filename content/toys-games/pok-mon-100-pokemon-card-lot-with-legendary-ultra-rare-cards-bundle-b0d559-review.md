@@ -1,4 +1,5 @@
 ---
+
 title: "PokÃ©mon 100 Pokemon Card Lot with Legendary Ultra Rare Card"
 seo_title: "PokÃ©mon 100 Pokemon Card Lot with Legendary Ultra Review"
 meta_description: "Our full pokã©mon 100 pokemon card lot with legendary ultra rare card review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5595V5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91NBmupECHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of dropping $5 on a booster pack and pulling yet another basic Energy card, this 100-card lot is the anti-gambling alternative. You know exactly what you're getting: a hundred cards, one of which is a guaranteed legendary ultra rare. For collectors on a budget or parents who want to make a kid's day without mortgaging the house, that's a solid pitch.

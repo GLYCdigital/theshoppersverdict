@@ -1,4 +1,5 @@
 ---
+
 title: "Leviton QuickPort Wallplate, Single Gang"
 seo_title: "Leviton QuickPort Wallplate, Single Gang Review: Verdict "
 meta_description: "Our full leviton quickport wallplate, single gang review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS1F9ZPR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61slWXTtmuL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running Ethernet, coax, or audio cabling and you're tired of those flimsy, off-brand wallplates that crack when you sneeze near them, the Leviton QuickPort Single Gang Wallplate is the quiet upgrade your low-voltage work deserves. It's not flashy, but it's the kind of component that separates a clean installation from a hack job.

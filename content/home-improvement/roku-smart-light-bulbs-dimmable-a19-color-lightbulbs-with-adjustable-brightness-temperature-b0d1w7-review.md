@@ -1,4 +1,5 @@
 ---
+
 title: "Roku Smart Light Bulbs - Dimmable A19 Color Lightbulbs with "
 seo_title: "Roku Smart Light Bulbs - Dimmable A19 Color Lightb Review"
 meta_description: "Our full roku smart light bulbs - dimmable a19 color lightbulbs with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1W75189/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712HjAg2f9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Roku Smart Bulb: A Streaming Giant’s Surprising Lighting Play**  

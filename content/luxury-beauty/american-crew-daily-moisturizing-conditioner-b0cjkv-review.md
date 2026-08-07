@@ -1,23 +1,25 @@
 ---
+
 title: "AMERICAN CREW Daily Moisturizing Conditioner"
 seo_title: "AMERICAN CREW Daily Moisturizing Conditioner Review (2026)"
 meta_description: "Honest AMERICAN CREW Daily Moisturizing Conditioner review: 4.7★ rated, $9.95. Does it hydrate without buildup? Real pros, cons, and who should buy."
 slug: "american-crew-daily-moisturizing-conditioner-b0cjkv-review"
 image_alt: "AMERICAN CREW Daily Moisturizing Conditioner bottle with pump dispenser"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 9.95  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: 9.95
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJKVNVQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dt-8hcMeL._SL1500_.jpg"
-pros:  
+pros: 
   - "Lightweight hydration that rinses clean — no waxy residue on fine or medium hair"  
   - "Cedar and citrus scent is subtle, masculine, and fades within minutes (not a perfume bomb)"  
   - "Pump dispenser actually works — no wrestling with a squeeze tube mid-shower"  
-cons:  
+cons: 
   - "Not enough slip for thick, curly, or coarse hair — you'll need a deep conditioner weekly"  
   - "Sulfate-free formula means it won't strip heavy styling products (clay, wax) fully on first wash"
+
 ---
 
 This is the conditioner that guys actually finish. Not because it's fancy — because it works without fuss.  

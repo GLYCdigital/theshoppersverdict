@@ -1,4 +1,5 @@
 ---
+
 title: "Modern Sputnik Chandelier"
 seo_title: "Modern Sputnik Chandelier Review: Verdict | TSV"
 meta_description: "Our full modern sputnik chandelier review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYXKSJB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HhnkO66gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been scrolling past the same drum shades and glass globes, the Modern Sputnik Chandelier is the visual slap of mid-century personality your dining room has been begging for. With 229 ratings holding a 4.6-star average, it’s not just another mass-market fixture — it’s a statement piece that buyers consistently say transforms a space. But before you hit buy, let’s talk about what’s actually in the box and where it gets fiddly.

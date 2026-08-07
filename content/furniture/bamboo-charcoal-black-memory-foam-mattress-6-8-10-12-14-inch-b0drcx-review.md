@@ -1,4 +1,5 @@
 ---
+
 title: "Bamboo-Charcoal Black Memory Foam Mattress 6/8/10/12/14 Inch"
 seo_title: "Bamboo-Charcoal Memory Foam Mattress Review: 6-14 Inch"
 meta_description: "Honest review of the Bamboo-Charcoal Black Memory Foam Mattress in 6/8/10/12/14-inch thickness. Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRCX69M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-eV93ePkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five thickness options (6–14 inches) let you match the mattress to your frame, weight, and budget instead of forcing a one-size-fits-all choice"
   - "Infused bamboo-charcoal layer actively absorbs moisture and odors — a genuine upgrade over plain memory foam for hot sleepers"
   - "Reversible quilted cover with a soft, breathable bamboo-blend top that unzips for machine washing"
-cons:
+cons: 
   - "The 6-inch option is too thin for heavier sleepers (over 200 lbs) — you'll feel the slats or box spring through it"
   - "Off-gassing is noticeable for the first 48–72 hours, especially in colder rooms where foam takes longer to expand"
+
 ---
 
 # Bamboo-Charcoal Black Memory Foam Mattress Review: The Real Story After 30 Nights

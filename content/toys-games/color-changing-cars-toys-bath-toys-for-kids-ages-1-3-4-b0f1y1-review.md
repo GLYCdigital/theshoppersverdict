@@ -1,4 +1,5 @@
 ---
+
 title: "Color Changing Cars Toys Bath Toys for Kids Ages 1-3 4-8 Goo"
 seo_title: "Color Changing Cars Bath Toys Review: Best for Ages 1-8?"
 meta_description: "Our honest review of Color Changing Cars bath toys for kids ages 1-8. Do they really change color? Are they safe? See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1Y1MGH1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iGr3llTzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm water triggers a dramatic color shift that genuinely delights toddlers and young kids"
   - "No batteries or assembly required — completely dunk-and-play operation"
   - "Durable enough for daily bath use, with no reported mold issues inside the vehicles"
-cons:
+cons: 
   - "Color change fades after a few months of heavy use — the effect weakens over time"
   - "At roughly 4 inches long, these are smaller than photo suggests"
   - "Only works with warm water; cold-water baths won't trigger the effect"
+
 ---
 
 ## Does the Magic Hold Up in Real Baths?

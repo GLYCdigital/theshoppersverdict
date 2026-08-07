@@ -1,4 +1,5 @@
 ---
+
 title: "MassBricks Jumbo Plastic Building Blocks - Giant Toddler Bri"
 seo_title: "MassBricks Jumbo Plastic Building Blocks - Giant T Review"
 meta_description: "Our full massbricks jumbo plastic building blocks - giant toddler bri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CB2B2YCN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5152Uk9WiLL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # MassBricks Jumbo Plastic Building Blocks Review: Are These Giant Bricks Worth the Hype?

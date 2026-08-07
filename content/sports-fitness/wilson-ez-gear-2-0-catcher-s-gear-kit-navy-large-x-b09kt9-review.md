@@ -1,4 +1,5 @@
 ---
+
 title: "Wilson EZ Gear 2.0 Catcherâ€™s Gear Kit - Navy, Large/X-Larg"
 seo_title: "Wilson EZ Gear 2.0 Catcherâ€™s Gear Kit - Navy, La Review"
 meta_description: "Our full wilson ez gear 2.0 catcherâ€™s gear kit - navy, large/x-larg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09KT96K9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710NeYHgZSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re a parent staring down the cost of youth-to-adult catcher’s gear, the Wilson EZ Gear 2.0 Kit in Navy is the budget-friendly answer that doesn’t feel like a compromise. At 4.2 stars across 210 ratings, it’s not perfect — but for a teenage catcher moving up or a weekend league adult, this kit solves the “where do I start?” problem in one box.

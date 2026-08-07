@@ -1,4 +1,5 @@
 ---
+
 title: "Greesum 3 Piece Patio Furniture Set Outdoor Wicker Rattan Se"
 seo_title: "Greesum 3 Piece Patio Furniture Set Outdoor Wicker Review"
 meta_description: "Our full greesum 3 piece patio furniture set outdoor wicker rattan se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFV82BN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iHPfUob8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Greesum 3-piece patio set a genuine bargain or just another cheap wicker set that'll fade by August? I dug through 215 ratings, the spec sheet, and what actual owners are saying to give you the straight answer.**

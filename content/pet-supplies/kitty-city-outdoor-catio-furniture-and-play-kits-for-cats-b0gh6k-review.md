@@ -1,4 +1,5 @@
 ---
+
 title: "Kitty City Outdoor Catio Furniture and Play Kits for Cats"
 seo_title: "Kitty City Outdoor Catio Furniture and Play Kits f Review"
 meta_description: "Our full kitty city outdoor catio furniture and play kits for cats review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GH6KWV5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91eQ10kKiRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: if you want to give your indoor cat safe outdoor time without turning them into hawk bait or a neighborhood statistic, the Kitty City Outdoor Catio is one of the better modular options on Amazon right now. But "better" doesn't mean "perfect," and there are a few things you need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gemmicc Magnetic Tiles Set"
 seo_title: "Gemmicc Magnetic Tiles Review: Are They Worth It? (2026)"
 meta_description: "Our Gemmicc Magnetic Tiles review covers build quality, magnet strength, and value. See if these 4.8-star tiles beat Magna-Tiles for your kids."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GF2QGNLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nPV4CU2gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stronger magnets than Magna-Tiles — structures hold up to rough play without collapsing"
   - "Recessed rivets and welded edges prevent the plastic from cracking at stress points"
   - "Compatible with leading brands, so you can mix sets without worrying about fit"
-cons:
+cons: 
   - "Some pieces arrive with minor scuffs from factory handling — cosmetic only, not structural"
   - "The included idea booklet is thin; most kids will outgrow it within a week"
+
 ---
 
 Let’s cut through the noise: the magnetic tile market is crowded, and parents are right to be skeptical of off-brand sets. The Gemmicc Magnetic Tiles Set, however, isn’t just another budget clone. With a 4.8-star average across 240 ratings, it’s quietly becoming the smart money pick for families who want Magna-Tiles performance without the premium price tag. Here’s the honest breakdown after digging into what buyers actually report.

@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Lanterns Dragonfly Lights Outdoor Decor Hanging Lanter"
 seo_title: "Solar Lanterns Dragonfly Lights Outdoor Decor Hang Review"
 meta_description: "Our full solar lanterns dragonfly lights outdoor decor hanging lanter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F2FQCT34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-TFZsLWdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Solar Dragonfly Lanterns: Garden Charm or Gimmick?

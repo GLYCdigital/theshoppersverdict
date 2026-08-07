@@ -1,4 +1,5 @@
 ---
+
 title: "Carnation Evaporated Milk, Holiday Desserts, Unsweetened Con"
 seo_title: "Carnation Evaporated Milk Review: Holiday Dessert Upgrade"
 meta_description: "Honest Carnation Evaporated Milk review: rich texture for holiday desserts & coffee. See pros, cons, and who should buy this pantry staple."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FPDGSFBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Adds velvety richness to coffee without dairy creamer additives or added sugar"
   - "Heat-stable for baking — no curdling in pumpkin pies, custards, or sauces"
   - "12-month shelf life means you can stock up before holiday season price spikes"
-cons:
+cons: 
   - "Sweetened condensed milk comes in smaller cans; don't confuse the two in recipes"
   - "Opened can only keeps 3-5 days refrigerated — wasteful if you only need a splash"
+
 ---
 
 **The one pantry can that upgrades both your pie and your pour-over**

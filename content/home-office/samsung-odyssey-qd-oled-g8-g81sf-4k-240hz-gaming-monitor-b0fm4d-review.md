@@ -1,4 +1,5 @@
 ---
+
 title: "SAMSUNG Odyssey QD-OLED G8 (G81SF), 4K, 240Hz, Gaming Monito"
 seo_title: "SAMSUNG Odyssey QD-OLED G8 (G81SF), 4K, 240Hz, Gam Review"
 meta_description: "Our full samsung odyssey qd-oled g8 (g81sf), 4k, 240hz, gaming monito review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FM4DP4DW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8186TU464RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4K OLED monitor that makes other panels feel obsolete

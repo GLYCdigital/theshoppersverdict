@@ -1,4 +1,5 @@
 ---
+
 title: "IRIS USA Cat Litter Box Large with Front Door Flap, Covered "
 seo_title: "IRIS USA Cat Litter Box Large with Front Door Flap Review"
 meta_description: "Our full iris usa cat litter box large with front door flap, covered  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXMGH8BM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AbxxGLfyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The IRIS USA Large Covered Litter Box is the sensible middle child of the litter box world — not a $30 plastic tray, not a $200 robotic spaceship. If you're tired of litter kicked across your bathroom floor but your cat refuses to use top-entry boxes, this one deserves a hard look.

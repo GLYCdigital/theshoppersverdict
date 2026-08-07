@@ -1,4 +1,5 @@
 ---
+
 title: "Nyddle Popcorn Machine Maker With 8 Oz Kettle Makes Up to 32"
 seo_title: "Nyddle Popcorn Machine Maker With 8 Oz Kettle Make Review"
 meta_description: "Our full nyddle popcorn machine maker with 8 oz kettle makes up to 32 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FBMBDT4K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615Y5jgac4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a popcorn machine really is: a single-purpose appliance that takes up counter space. The Nyddle Popcorn Machine Maker with its 8 oz kettle needs to justify that footprint. After digging through 200 ratings and the specs, here's my take.

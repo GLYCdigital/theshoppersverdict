@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI 10x20 ft Pop Up Canopy with 6 Sidewalls, Outdoor Gaze"
 seo_title: "VINGLI 10x20 ft Pop Up Canopy with 6 Sidewalls, Ou Review"
 meta_description: "Our full vingli 10x20 ft pop up canopy with 6 sidewalls, outdoor gaze review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0BWDL8RWT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61B+f4XOxWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a 10x20 canopy, you already know the drill: most options under $300 are flimsy, leaky, or collapse in a light breeze. The VINGLI 10x20 ft Pop Up Canopy with 6 Sidewalls sits in the middle of that crowded field — not the cheapest, not the sturdiest, but offering something most competitors skip: a full enclosure with six zippered sidewalls out of the box.

@@ -1,4 +1,5 @@
 ---
+
 title: "ELEKICO 75w 8ft Led Bulbs, 9500lm 5000k 8' Led Bulb, V Shape"
 seo_title: "ELEKICO 75W 8ft LED Bulbs Review: 9500lm Brightness"
 meta_description: "Honest ELEKICO 75W 8ft LED bulb review: 9500 lumens, 5000K daylight. Real performance data, installation tips, and who should buy. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08SWLV5C1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZagY0T36L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "V-shaped design distributes light 180° — kills the dark spots typical of single-row tubes"
   - "95 CRI color rendering makes colors look natural, not washed out like cheap shop lights"
   - "Includes both R17D snap-in and G13 double-pin connectors — works with most existing fixtures"
-cons:
+cons: 
   - "Non-dimmable — don't buy if you need adjustable brightness"
   - "Heat sinks get warm to the touch after 2+ hours; needs open air clearance in enclosed fixtures"
+
 ---
 
 If your garage or workshop currently runs fluorescent T8 tubes, you already know the pain: flickering starters, humming ballasts, and that sickly green-white light that makes everything look like a crime scene. The ELEKICO 75W 8ft LED bulb is the direct replacement you've been looking for — provided you understand what you're buying before you swap it in.

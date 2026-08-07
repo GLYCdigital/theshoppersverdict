@@ -1,4 +1,5 @@
 ---
+
 title: "Aegend Swim Goggles for Kids Youth 3-14 Anti-Fog Anti-UV Com"
 seo_title: "Aegend Swim Goggles for Kids Review: Clear, Comfortable, $12 inch"
 meta_description: "Aegend swim goggles for kids review: anti-fog, anti-UV lenses, adjustable fit for ages 3-14. See if these $12 goggles beat the premium brands."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B083BD1MHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eWkyKxjhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True anti-fog coating that survives months of twice-weekly swim lessons — not the one-session-and-done fogging you get with cheap goggles"
   - "UV400 polycarbonate lenses block 100% of UVA/UVB, which matters for outdoor summer swim teams and pool days"
   - "Adjustable nose bridge and split-strap design fit both a 3-year-old and a 12-year-old from the same package"
-cons:
+cons: 
   - "Lens tint is light — not ideal for bright outdoor swimming where darker lenses reduce glare"
   - "The strap can slip if overtightened on kids with very fine hair; a silicone cap strap keeper helps"
+
 ---
 
 **Aegend Swim Goggles for Kids Youth 3-14 Anti-Fog Anti-UV – Full Review**

@@ -1,4 +1,5 @@
 ---
+
 title: "MAXvolador Outdoor Wall Sconce, Exterior Waterproof Wall Lan"
 seo_title: "MAXvolador Outdoor Wall Sconce, Exterior Waterproo Review"
 meta_description: "Our full maxvolador outdoor wall sconce, exterior waterproof wall lan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B3CYH3RR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714BhF1R8QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most outdoor wall sconces under $50 are flimsy plastic knockoffs that discolor within a season. The MAXvolador Outdoor Wall Sconce is not that. With a 4.8-star average across 240 ratings, this die-cast aluminum fixture punches well above its price point — but it’s not perfect. Here’s the full breakdown.

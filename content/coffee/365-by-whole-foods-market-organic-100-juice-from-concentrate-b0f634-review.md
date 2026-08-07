@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Organic 100% Juice from Concentra"
 seo_title: "365 Organic Juice Review: Worth It? Honest Take"
 meta_description: "365 Whole Foods Organic 100% Juice from Concentrate review: taste, value, and quality vs. fresh. Is it worth buying? Find out now."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F6343SRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71phaOhtXhL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean ingredient list — just organic juice concentrate and water, no added sugars or preservatives"
   - "Consistent flavor across batches that matches the Whole Foods house standard"
   - "Reliable value for organic juice, typically priced below national organic brands"
-cons:
+cons: 
   - "From concentrate means a slightly cooked or flat taste compared to fresh-pressed"
   - "Carton packaging is recyclable but not as eco-friendly as glass bottles"
   - "Limited variety in some regions — stock can be inconsistent at smaller retailers"
+
 ---
 
 # 365 by Whole Foods Market Organic 100% Juice: The Honest Shopper's Verdict

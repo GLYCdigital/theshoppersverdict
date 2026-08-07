@@ -1,7 +1,8 @@
 ---
-title: "THERUN Incline Treadmill 18\" LED Screen & 16.5â€˜â€™ Wide Be"
-seo_title: "THERUN Incline Treadmill 18\" LED Screen & 16.5â€˜â Review"
-meta_description: "Our full therun incline treadmill 18\" led screen & 16.5â€˜â€™ wide be review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "THERUN Incline Treadmill 18\ LED Screen & 16.5â€˜â€™ Wide Be"
+seo_title: "THERUN Incline Treadmill 18\ LED Screen & 16.5â€˜â Review"
+meta_description: "Our full therun incline treadmill 18\ led screen & 16.5â€˜â€™ wide be review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "therun-incline-treadmill-18-led-screen-16-5-wide-belt-running-treadmill-b0gx5m-review"
 image_alt: "THERUN Incline Treadmill 18 LED Screen & 16.5â€˜â€™ Wide Belt, Running Treadmill 2 Layers Shock-Absorbing, Foldable for "
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX5MBZBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The THERUN Incline Treadmill with its 18-inch LED screen and 16.5-inch wide belt is aimed squarely at home runners who want gym-grade features without gym-grade prices. But is it a smart buy, or a compromise you’ll regret by month three? After digging into the specs, customer feedback, and the 4.0-star average across 200 ratings, here’s the real story.

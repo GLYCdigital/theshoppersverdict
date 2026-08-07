@@ -1,4 +1,5 @@
 ---
+
 title: "Tour Edge HL-J Junior Complete Golf Set w/ Bag (Multiple Siz"
 seo_title: "Tour Edge HL-J Junior Complete Golf Set w/ Bag (Mu Review"
 meta_description: "Our full tour edge hl-j junior complete golf set w/ bag (multiple siz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GGRYGPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JBAR54ZnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Tour Edge HL-J Junior Complete Golf Set isn't a toy. That's the first thing you need to know.**

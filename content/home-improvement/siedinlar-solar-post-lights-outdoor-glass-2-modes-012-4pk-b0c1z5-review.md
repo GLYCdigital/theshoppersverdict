@@ -1,4 +1,5 @@
 ---
+
 title: "SIEDiNLAR Solar Post Lights Outdoor Glass 2 Modes 012 4PK"
 seo_title: "SIEDiNLAR Solar Post Lights Outdoor Glass 2 Modes  Review"
 meta_description: "Our full siedinlar solar post lights outdoor glass 2 modes 012 4pk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1Z57QML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lOKny6PvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Are These Worth Your Money?**

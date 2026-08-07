@@ -1,4 +1,5 @@
 ---
+
 title: "Rubbermaid Brilliance Glass Food Storage Containers, Assorted Sizes, 18-Piece Set"
 seo_title: "Rubbermaid Brilliance Glass Containers Review — 4.6★ at $79"
 meta_description: "Rubbermaid Brilliance Glass Food Storage review: 13,886 reviews analyzed. Oven-safe to 450°F, leak-proof lids, universal lid system. Is glass worth the switch?"
@@ -11,23 +12,24 @@ review_count: 13886
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BR9HBZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Oven-safe glass bases up to 450°F — use as bakeware and serveware"
   - "Universal lids fit across all Brilliance containers regardless of material"
   - "Thick gaskets with 2-latch system provide exceptional airtight seal"
   - "Vented lids allow splatter-resistant microwaving without unsealing"
-cons:
+cons: 
   - "Glass is heavy — these are not for lunch bags or backpacking"
   - "Thin lid plastic may degrade faster than the glass bases"
   - "Premium price at $79 for 9 containers — cheaper glass sets exist"
 
-faq:
+faq: 
   - question: "Is the Rubbermaid Brilliance Glass Food Storage Containers, Assorte worth buying?"
     answer: "Based on thousands of verified Amazon reviews, this product is well-regarded by buyers. Check current pricing and availability on Amazon for the best deal."
   - question: "What do customers say about it?"
     answer: "Most reviewers highlight its quality and value. Individual experiences may vary — read the full review above for detailed customer insights from verified purchasers."
   - question: "How does this compare to alternatives?"
     answer: "This product ranks among the top options in its category based on Amazon ratings and review volume. Consider your specific needs when comparing."
+
 ---
 
 The Rubbermaid Brilliance Glass Food Storage Containers are what you buy when you're done with plastic. 13,886 Amazon reviews confirm both the enthusiasm and a few honest compromises. The glass bases are oven-safe, the lids seal tight, and the system is clever. But the switch isn't for everyone.

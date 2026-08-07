@@ -1,4 +1,5 @@
 ---
+
 title: "RULLY Dinosaur Kids Bike for Ages 2-7 Years Old Boys, 12 14 "
 seo_title: "RULLY Dinosaur Kids Bike for Ages 2-7 Years Old Bo Review"
 meta_description: "Our full rully dinosaur kids bike for ages 2-7 years old boys, 12 14  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKQC58KF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7139uGG2ZIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: This is the rare kids' bike that actually survives being dropped on concrete, left in the rain, and ridden over curbs — all while looking like a toy a 4-year-old will fight over.**

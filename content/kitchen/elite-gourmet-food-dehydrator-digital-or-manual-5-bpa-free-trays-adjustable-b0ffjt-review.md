@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet Food Dehydrator – Digital or Manual – 5 BP"
 seo_title: "Elite Gourmet Food Dehydrator Review: 5-Tray Value (2026)"
 meta_description: "Honest Elite Gourmet 5-tray dehydrator review: digital vs manual, BPA-free trays, real-world jerky & fruit results, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFJT51DD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915x+92nMCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in timer with auto shut-off — you can start it before work and come back to perfectly dried jerky, not charcoal"
   - "BPA-free trays are top-rack dishwasher safe, which actually makes cleanup painless (unusual at this price point)"
   - "Compact 5-tray footprint fits under standard upper cabinets; the base fan is quiet enough for countertop use while watching TV"
-cons:
+cons: 
   - "No temperature display on the manual version — you're guessing between Low/High, which matters for yogurt or herb drying"
   - "Trays are 10.5 inches round, so large beef brisket slices or full apple rings need pre-cutting to fit"
   - "Rear air intake gets warm — keep it 4+ inches from the wall or you'll extend drying time by 20-30%"
+
 ---
 
 Look, most dehydrators under $50 are essentially glorified hair dryers with stacking plastic. The **Elite Gourmet 5-Tray** is different — not because it's fancy, but because it's *sensibly engineered*. With a 4.4-star average across 220 ratings, it's clearly earning its keep in real kitchens. Here's the honest breakdown.

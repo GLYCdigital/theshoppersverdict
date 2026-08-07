@@ -1,4 +1,5 @@
 ---
+
 title: "16 Oz Empty Plastic Juice Bottles with Tamper Evident Caps â"
 seo_title: "16 oz Plastic Juice Bottles Review: Tamper Evident Caps"
 meta_description: "Honest review of 16 oz empty plastic juice bottles with tamper evident caps. Leak-proof, BPA-free, and perfect for juicing. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07WYS5Z2V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IbX9K7HqL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "33-bottle pack ships with 34 caps — one extra spare, a detail most bulk sellers skip"
   - "PET plastic holds up to repeated dishwasher cycles without warping or clouding"
   - "Tamper-evident ring snaps cleanly with an audible click, no jagged edges left behind"
-cons:
+cons: 
   - "Caps are not child-resistant — curious toddlers can pop these open in seconds"
   - "Bottles arrive with a faint manufacturing odor that needs one hot soapy rinse before first use"
+
 ---
 
 # 16 oz Empty Plastic Juice Bottles: The Bulk-Buy Verdict

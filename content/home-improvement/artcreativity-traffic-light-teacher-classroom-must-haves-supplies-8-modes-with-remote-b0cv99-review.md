@@ -1,4 +1,5 @@
 ---
+
 title: "ArtCreativity Traffic Light - Teacher Classroom Must Haves S"
 seo_title: "ArtCreativity Traffic Light Review: Classroom Management Tool"
 meta_description: "Honest ArtCreativity Traffic Light review: 8 modes, remote control, classroom management. See if this teacher must-have is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CV99RMHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SZEym8sgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "8 distinct light modes including steady, flashing, and countdown functions give you flexibility beyond simple red/yellow/green"
   - "Remote control works from across the classroom — no need to walk to the front of the room to change signals"
   - "Compact size (~7 inches tall) fits on a desk, shelf, or whiteboard tray without dominating your workspace"
-cons:
+cons: 
   - "Remote requires line-of-sight to the receiver; it can be finicky if you point it from an awkward angle"
   - "No mounting hardware included — you'll need double-sided tape or a small stand if you want it off the desk"
   - "Plastic build feels light and a bit hollow; it's durable enough for classroom use but won't survive a drop onto tile"
+
 ---
 
 Let's be blunt: most "classroom management tools" are gimmicks that end up in a drawer by October. The ArtCreativity Traffic Light is one of the few that might actually earn its place on your desk. Here's the honest breakdown after digging through 215 ratings and real teacher feedback.

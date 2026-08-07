@@ -1,4 +1,5 @@
 ---
+
 title: "Fiesta 3-Piece Bistro Set"
 seo_title: "Fiesta 3-Piece Bistro Set Review: Worth It? (2026)"
 meta_description: "Fiesta 3-Piece Bistro Set review: real-world performance, durability, and value. See what 240+ buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FDH9YX89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qTIPT81vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lead-free, cadmium-free glazes are safe for everyday use and meet FDA and California Prop 65 standards"
   - "Dense, chip-resistant vitrified body handles dishwasher, microwave, and oven use up to 350°F"
   - "Available in 30+ signature colors that match the full Fiesta dinnerware line for mix-and-match table settings"
-cons:
+cons: 
   - "Colors can vary slightly between production batches — if you're matching an existing set, order all pieces at once"
   - "No rim on the dinner plate means hot liquids can spill more easily when carrying a full plate"
+
 ---
 
 The Fiesta name has meant American-made dinnerware since 1936, and this 3-piece bistro set carries that legacy into a compact starter kit. It's not flashy or trendy — it's the same dense, vitrified ceramic that's been on American tables for nearly a century, cut down to the essentials: a 10.5-inch dinner plate, an 7.5-inch salad plate, and an 8-ounce bowl.

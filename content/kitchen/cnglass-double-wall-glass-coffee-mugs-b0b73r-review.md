@@ -1,4 +1,5 @@
 ---
+
 title: "CNGLASS double wall Glass Coffee Mugs"
 seo_title: "CNGLASS Double Wall Glass Mugs Review (2026): Worth It?"
 meta_description: "CNGLASS double wall glass coffee mugs review: 4.6★ rated. Tested for heat retention, durability, and comfort. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B73RT8JN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sc3dwwnUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Double-wall borosilicate glass keeps coffee hot 2x longer than ceramic without a burning-hot exterior"
   - "Crystal-clear construction with zero distortion—you actually see the coffee's crema and color"
   - "Dishwasher and microwave safe for a double-wall design, which is rare in this category"
-cons:
+cons: 
   - "No handles—smaller-handed users may find the 10oz size awkward to grip when full"
   - "Glass is genuinely fragile if dropped on tile; this is not a daily-driver for clumsy households"
+
 ---
 
 Most double-wall glass mugs are either fragile showpieces or lukewarm-lipped disappointments. The CNGLASS double-wall set tries to split the difference—and after digging through 229 ratings and the spec sheet, it mostly succeeds. Here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gueevin Plastic Folders with Pockets, Back to School Two Poc"
 seo_title: "Gueevin Plastic Folders with Pockets, Back to Scho Review"
 meta_description: "Our full gueevin plastic folders with pockets, back to school two poc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHM4MQ3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715DPvOAIkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about plastic folders: they're not exciting. But the Gueevin two-pocket folders solve the actual problem students and office workers face — paper chaos — without pretending to be something they're not.

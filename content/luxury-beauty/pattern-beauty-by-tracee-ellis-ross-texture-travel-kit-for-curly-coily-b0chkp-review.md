@@ -1,4 +1,5 @@
 ---
+
 title: "PATTERN Beauty by Tracee Ellis Ross Texture Travel Kit for C"
 seo_title: "PATTERN Beauty by Tracee Ellis Ross Texture Travel Review"
 meta_description: "Our full pattern beauty by tracee ellis ross texture travel kit for c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHKPY5FY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714MC6nQp5L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be real about the **PATTERN Beauty Texture Travel Kit**. Tracee Ellis Ross built this brand for hair that doesn't behave like straight or wavy hair — the kind that shrinks, coils, and needs actual moisture, not just perfume and foam. This kit is her entry point: four travel-sized products designed to take you from wash day to styled without checking a bag.

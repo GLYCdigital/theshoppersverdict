@@ -1,4 +1,5 @@
 ---
+
 title: "PERCOLA HF20-S/HF20-MS/HF25-S Water Filter, Compatible with "
 seo_title: "PERCOLA HF20-S/HF20-MS/HF25-S Water Filter, Compat Review"
 meta_description: "Our full percola hf20-s/hf20-ms/hf25-s water filter, compatible with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKSC5KFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nyIisye6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 question: Can a third-party filter actually match 3M?

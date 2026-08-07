@@ -1,4 +1,5 @@
 ---
+
 title: "Drafting Chair,Tall Office Chair, Ergonomic Standing Desk Ch"
 seo_title: "Drafting Chair Review: Tall Ergonomic Standing Desk Chair (2026)"
 meta_description: "Honest drafting chair review: tall office chair with flip-up arms, foot ring & ergonomic back. See pros, cons, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09VKSC1N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SByYaqsUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pneumatic seat height adjusts from roughly 22 to 30 inches, making it one of the few chairs that genuinely pairs with standing desks and drafting tables"
   - "Flip-up armrests tuck out of the way completely, allowing you to slide the chair close to a keyboard tray or easel without obstruction"
   - "Circular foot ring is included and adjustable in height — a feature many budget drafting chairs omit entirely"
-cons:
+cons: 
   - "Seat cushion is on the firmer side; lighter users (under 150 lbs) may find it unyielding after two hours of continuous sitting"
   - "Assembly requires a second person for the gas lift insertion — the cylinder is tight and some buyers reported needing to muscle it into place"
+
 ---
 
 If you work at a standing desk, an easel, or a lab bench, you already know the problem: standard office chairs top out too low, and cheap drafting stools feel like sitting on a milk crate. This tall drafting chair splits the difference — and with a 4.4-star average across 220 ratings, it's clearly earning its keep in home offices and studios. But it's not without compromises. Here's what you need to know before you click buy.

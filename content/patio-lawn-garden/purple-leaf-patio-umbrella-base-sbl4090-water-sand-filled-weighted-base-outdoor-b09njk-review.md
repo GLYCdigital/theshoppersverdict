@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Patio Umbrella Base SBL4090 Water &Sand Filled W"
 seo_title: "PURPLE LEAF Patio Umbrella Base SBL4090 Water &San Review"
 meta_description: "Our full purple leaf patio umbrella base sbl4090 water &sand filled w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NJK7GXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W6jUJWOyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a patio umbrella is only as good as the base holding it down. A cheap base turns a breezy afternoon into a game of catch-the-flying-canopy. The PURPLE LEAF SBL4090 aims to end that game. After digging through 229 ratings and the specs, here's the honest picture.

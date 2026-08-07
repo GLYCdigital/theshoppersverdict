@@ -1,4 +1,5 @@
 ---
+
 title: "Garden of Eatin' Organic Tortilla Chip"
 seo_title: "Garden of Eatin' Organic Tortilla Chip Review: Honest Look"
 meta_description: "Garden of Eatin' Organic Tortilla Chip review: 4.4-star rated snack. We break down taste, texture, and value to help you decide before buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNRD7C2H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pfsCOBnbL._SL1500_.jpg"
-pros:
+pros: 
   - "Certified organic corn with a noticeably clean, non-GMO flavor profile"
   - "Sturdy, thick-cut chips that hold up to heavy dips like guacamole and bean dip"
   - "Consistent crunch without excessive greasiness or salt residue"
-cons:
+cons: 
   - "Bag-to-bag inconsistency in chip size; some bags arrive heavy with broken shards"
   - "At roughly $4-5 per 10-ounce bag, pricier than conventional alternatives"
+
 ---
 
 Let's be straight about something: a tortilla chip doesn't need to be organic to taste good. But after working through three bags of Garden of Eatin' Organic Tortilla Chips, I can tell you the organic certification here isn't just a label slapped on for marketing — it changes what you're actually eating.

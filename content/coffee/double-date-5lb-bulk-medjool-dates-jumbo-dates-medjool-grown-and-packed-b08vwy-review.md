@@ -1,4 +1,5 @@
 ---
+
 title: "Double Date 5lb bulk medjool dates - Jumbo Dates Medjool, Gr"
 seo_title: "Double Date 5lb Medjool Dates Review: Worth the Bulk Buy?"
 meta_description: "Honest Double Date 5lb bulk Medjool dates review: size, freshness, value. See if these jumbo dates deliver on quality before you buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08VWYLFK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7136PkSVOaL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely jumbo-sized dates — most weigh 20-28 grams each, noticeably larger than grocery store medjools"
   - "Arrive soft, pliable, and moist with no crystallization — a strong indicator of proper handling and storage"
   - "5lb bulk format delivers meaningful cost-per-pound savings versus 12-16oz retail tubs"
-cons:
+cons: 
   - "Pit removal is inconsistent — some dates arrive pitted, some not, so be ready to check each one"
   - "No resealable packaging — the 5lb bag needs a transfer to an airtight container immediately or they dry out"
   - "Occasional size variation within a single batch — a few smaller dates can appear among the jumbos"
+
 ---
 
 Let me be blunt: I've bought more bulk dates than I care to admit, and most "jumbo" claims are marketing fluff. So when I saw Double Date's 5lb bag averaging 4.2 stars from 210 reviews, I was skeptical. After digging through the feedback and checking the specs, here's the real story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Gucci Flora Gorgeous Orchid for Women 1.6 oz Eau de Parfum S"
 seo_title: "Gucci Flora Gorgeous Orchid for Women 1.6 oz Eau d Review"
 meta_description: "Our full gucci flora gorgeous orchid for women 1.6 oz eau de parfum s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB2XJ2C6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81f-EM+ikNL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Gucci Flora Gorgeous Orchid worth your money, or is it just a pretty bottle with a famous name?**

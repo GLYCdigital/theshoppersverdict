@@ -1,4 +1,5 @@
 ---
+
 title: "Aero-Stream Septic Tank Riser kit"
 seo_title: "Aero-Stream Septic Riser Kit Review (2026): Worth It?"
 meta_description: "Honest Aero-Stream septic tank riser kit review: build quality, installation ease, real buyer feedback, and who should buy it. Verdict: 4.6/5."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNNFP4V8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vAzPcWZGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24-inch riser brings the lid to grade, eliminating the need to dig 18+ inches to find your septic access every pump-out"
   - "Heavy-duty polyethylene construction with UV stabilizers — won't crack, rust, or degrade after years of sun exposure"
   - "Universal 20-inch diameter fits most standard concrete and plastic septic tank openings without custom adapters"
-cons:
+cons: 
   - "Lid sits flush with ground level, which means grass can grow over it — you'll need to mark it with a flag or visible cover"
   - "Hardware kit includes basic screws; several buyers found the included sealant insufficient for high-water-table areas"
+
 ---
 
 Let's be honest: nobody thinks about their septic riser until the pumper truck shows up, you're watching them dig a 2-foot hole in your yard, and they hand you a bill for $150 extra labor. That's exactly the problem the Aero-Stream Septic Tank Riser Kit solves. At 4.7 stars across 235 ratings, it's clearly earning its keep in suburban backyards. But is it the right riser for your specific setup? Here's what I found after digging through the specs, installation reports, and buyer feedback.

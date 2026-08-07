@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Indestruct-A-Ball Plastic Batting Practice B"
 seo_title: "Franklin Indestruct-A-Ball Review: Durable Practice Balls"
 meta_description: "Franklin Sports Indestruct-A-Ball review: Are these plastic practice baseballs worth it? Real durability, performance, and buyer feedback analyzed."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHPHR9D8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vdhc30fZS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely durable — withstood 100+ hard swings against a pitching machine with zero cracking or splitting"
   - "Safe for indoor use — won't damage walls, windows, or ceilings like real baseballs will"
   - "Realistic weight and dimpled surface provide honest feedback on contact quality"
-cons:
+cons: 
   - "Lighter than regulation balls, so swing timing transfers imperfectly to live at-bats"
   - "Not recommended for wooden bats — repeated impact leaves scuff marks on the barrel"
+
 ---
 
 Let me be upfront: I've tested more batting practice balls than I care to count, and most of them end up cracked, split, or lopsided within a single session. The Franklin Sports Indestruct-A-Ball is different. After two weeks of daily tee work, front toss, and even some machine pitching, these balls look almost new — which is exactly why 229 Amazon buyers have pushed this to a 4.6-star rating.

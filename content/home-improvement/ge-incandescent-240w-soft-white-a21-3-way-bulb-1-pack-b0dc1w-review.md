@@ -1,4 +1,5 @@
 ---
+
 title: "GE Incandescent 240W Soft White A21 3-Way Bulb 1 Pack"
 seo_title: "GE Incandescent 240W 3-Way Bulb Review: Honest Look"
 meta_description: "GE 240W Soft White A21 3-way bulb review: brightness, heat output, lifespan, and who should buy it. Real buyer feedback and honest verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DC1W5J8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sqdyZAcxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3-way function (50/100/240W) with smooth, noticeable brightness steps — not a gimmick"
   - "True soft white 2700K color temperature that renders skin tones and wood finishes naturally"
   - "Instantly bright at full power, no warm-up delay like CFLs or cheap LEDs"
-cons:
+cons: 
   - "Pulls 240 watts at max — expect significant heat output that can overheat enclosed fixtures"
   - "Short rated lifespan (~750-1000 hours) means frequent replacement if used daily at high setting"
+
 ---
 
 Let's be blunt: in 2026, buying an incandescent bulb feels almost subversive. But there are specific reasons people still seek out a 240W 3-way bulb, and GE's A21 version fills that niche better than most. If you have a floor lamp with a 3-way socket that's been collecting dust because LED replacements flicker or dim unevenly, this is likely the fix you've been hunting for.

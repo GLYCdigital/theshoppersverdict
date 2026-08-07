@@ -1,4 +1,5 @@
 ---
+
 title: "Rexulqo 85'' L Shaped Couch with Armrest Organizer,3 Seats S"
 seo_title: "Rexulqo 85'' L Shaped Couch with Armrest Organizer Review"
 meta_description: "Our full rexulqo 85'' l shaped couch with armrest organizer,3 seats s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DV3W9G3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GuHmkHrzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The L-Shaped Couch That Actually Earns Its Corner**  

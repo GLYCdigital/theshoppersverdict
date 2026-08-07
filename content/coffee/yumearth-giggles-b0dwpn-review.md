@@ -1,4 +1,5 @@
 ---
+
 title: "YumEarth Giggles"
 seo_title: "YumEarth Giggles Review: Verdict | TSV"
 meta_description: "Our full yumearth giggles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWPNNNQN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-ki5duP6L._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen this price point before. A dozen coffee makers on Amazon all claim the same thing — programmable, 12-cup, easy-clean. YumEarth Giggles isn't trying to reinvent the category. It's trying to nail the basics without the usual corners cut. And for the most part, it does.

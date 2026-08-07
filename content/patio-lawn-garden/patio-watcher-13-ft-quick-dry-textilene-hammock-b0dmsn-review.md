@@ -1,4 +1,5 @@
 ---
+
 title: "Patio Watcher 13 FT Quick Dry Textilene Hammock"
 seo_title: "Patio Watcher 13 FT Quick Dry Textilene Hammock Review: V"
 meta_description: "Our full patio watcher 13 ft quick dry textilene hammock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMSNJDW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81FUFfS+OWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 13-Foot Hammock That Actually Dries Overnight

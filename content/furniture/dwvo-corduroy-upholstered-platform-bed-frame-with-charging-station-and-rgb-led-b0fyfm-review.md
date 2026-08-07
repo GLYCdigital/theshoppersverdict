@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Corduroy Upholstered Platform Bed Frame with Charging S"
 seo_title: "DWVO Corduroy Bed Frame Review: Charging Station & LED"
 meta_description: "DWVO corduroy platform bed frame review: built-in charging ports, RGB LED, and sturdy build. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FYFMB9P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91YUEAI77TL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in USB and USB-C ports on both sides of the headboard — no more fighting over outlets"
   - "Corduroy upholstery actually looks premium and holds up to daily use without pilling"
   - "RGB LED strip with remote control adds real ambiance, not just a gimmick"
-cons:
+cons: 
   - "Assembly requires two people and roughly 90 minutes — the headboard wiring adds complexity"
   - "No box spring needed, but the platform slats sit low to the ground; under-bed storage is a tight squeeze"
   - "LED remote is infrared — you must point it directly at the receiver, which is finicky from across the room"
+
 ---
 
 **The DWVO Corduroy Platform Bed is a rare find: a bed frame that actually earns its tech features.**

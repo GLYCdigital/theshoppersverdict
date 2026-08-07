@@ -1,4 +1,5 @@
 ---
+
 title: "Outward Hound OH Invincibles"
 seo_title: "Outward Hound OH Invincibles Review: Verdict | TSV"
 meta_description: "Our full outward hound oh invincibles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D9M8B2V7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ef9jEgaRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the marketing. The name says "Invincibles." The reality is more nuanced — and knowing that difference before you spend $15–$25 will save you disappointment.

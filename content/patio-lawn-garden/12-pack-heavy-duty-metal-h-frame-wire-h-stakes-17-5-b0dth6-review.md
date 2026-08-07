@@ -1,4 +1,5 @@
 ---
+
 title: "12 Pack Heavy Duty Metal H Frame Wire H Stakes, 17.5'' x 7''"
 seo_title: "Heavy Duty H Stakes Review: 12-Pack Garden Wire Stakes"
 meta_description: "Honest review of 12-pack heavy duty H frame wire stakes (17.5 inch  x 7 inch ). Real-world testing, durability insights, and who should buy these garden staples."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTH6KCQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zoGWQsAHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "17.5-inch legs grip soil firmly even in loose or sandy conditions"
   - "Galvanized steel resists rust through full season of rain and sprinkler exposure"
   - "12-pack gives you enough stakes for a 50-foot row of tomatoes or peppers"
-cons:
+cons: 
   - "Wire gauge could be thicker for perennial support — these shine on annuals, not heavy vines"
   - "Lack of coating means sharp cut ends — wear gloves when installing"
+
 ---
 
 If you've ever watched a tomato plant flop over three weeks after planting, you know the pain of flimsy stakes. These H-frame wire stakes from the 12-pack set are the unglamorous workhorse your garden has been missing. At 17.5 inches tall with a 7-inch footprint, they're not the tallest support on the market — but they're built to hold their ground.

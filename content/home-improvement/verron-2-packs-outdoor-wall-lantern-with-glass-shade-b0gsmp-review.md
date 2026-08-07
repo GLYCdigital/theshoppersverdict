@@ -1,4 +1,5 @@
 ---
+
 title: "VerRon 2 Packs Outdoor Wall Lantern with Glass Shade"
 seo_title: "VerRon 2 Packs Outdoor Wall Lantern with Glass Sha Review"
 meta_description: "Our full verron 2 packs outdoor wall lantern with glass shade review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSMPMQSR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lgiFQlUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen them a hundred times — those cheap outdoor lanterns with plastic "glass" that yellows in a year, or metal bases that rust after one wet season. The VerRon 2-pack aims to be the exception at a price that makes you suspicious. After digging through 229 ratings and the spec sheet, here’s the real story.

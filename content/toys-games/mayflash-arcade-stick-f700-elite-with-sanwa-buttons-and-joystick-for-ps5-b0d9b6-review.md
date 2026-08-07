@@ -1,4 +1,5 @@
 ---
+
 title: "MAYFLASH Arcade Stick F700 Elite with Sanwa buttons and joys"
 seo_title: "MAYFLASH Arcade Stick F700 Elite with Sanwa button Review"
 meta_description: "Our full mayflash arcade stick f700 elite with sanwa buttons and joys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9B6NGPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61afIW8rRvL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MAYFLASH F700 Elite enters a crowded fight stick market with a simple promise: genuine Sanwa parts, multi-platform support, and a price that undercuts the big-name competitors. After digging through 220 Amazon ratings averaging 4.4 stars, here's the real story for anyone about to drop serious cash on their next arcade stick.

@@ -1,4 +1,5 @@
 ---
+
 title: "EXA Form Upgraded Speed Up 27.2mm/30.9mm/31.6mm Cable-Less H"
 seo_title: "EXA Form Speed Up Dropper Post Review: Cable-Less Upgrade"
 meta_description: "Honest EXA Form Speed Up dropper post review: cable-less design, 27.2/30.9/31.6mm sizes, real rider feedback on performance and durability."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9KCLRH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tdztlWYmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely tool-free cable-less install — no routing, no cutting, no bleeding"
   - "Three diameter options (27.2/30.9/31.6mm) cover most modern trail and hardtail frames"
   - "Smooth, consistent actuation with the included remote lever once set up correctly"
-cons:
+cons: 
   - "Seatpost clamp torque is critical — over-tightening causes post slippage issues"
   - "Not serviceable by most home mechanics; cartridge replacement requires special tools"
   - "Air pressure needs periodic adjustment to avoid sag or slow return"
+
 ---
 
 **The EXA Form Speed Up solves a real problem: getting a dropper post onto bikes that make cable routing a nightmare.** If you've ever stared at an internally-routed frame and realized the cable path goes through the bottom bracket, you know the pain. This cable-less design eliminates that entirely — no housing, no routing tool, no hours of swearing. It's a self-contained cartridge that drops with a lever actuation, and for the price, it's genuinely compelling.

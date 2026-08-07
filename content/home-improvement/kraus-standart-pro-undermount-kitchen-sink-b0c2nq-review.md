@@ -1,4 +1,5 @@
 ---
+
 title: "Kraus Standart Pro Undermount Kitchen Sink"
 seo_title: "Kraus Standart Pro Undermount Kitchen Sink Review: Verdic"
 meta_description: "Our full kraus standart pro undermount kitchen sink review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2NQ8GCL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BQ27kt6QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're pricing out a kitchen remodel, the sink is where corners get cut. The Kraus Standart Pro series exists to make that corner-cutting feel unnecessary. This undermount model packs commercial-grade 16-gauge T304 steel — the same spec used in restaurant prep lines — into a package that undercuts most big-box alternatives by a meaningful margin. But as with any undermount sink, the real story lives in the installation, the finish, and how it holds up after six months of daily abuse.

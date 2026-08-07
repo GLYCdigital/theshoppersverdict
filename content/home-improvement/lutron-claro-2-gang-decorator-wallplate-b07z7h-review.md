@@ -1,4 +1,5 @@
 ---
+
 title: "Lutron Claro 2 Gang Decorator Wallplate"
 seo_title: "Lutron Claro 2 Gang Decorator Wallplate Review: Verdict |"
 meta_description: "Our full lutron claro 2 gang decorator wallplate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07Z7HXHFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rInXCe0XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wallplates are an afterthought — you grab a two-pack for four bucks and move on. The Lutron Claro is not that. At roughly $10–15 per plate, this is a deliberate upgrade. The question is whether that premium is justified for what amounts to a piece of plastic covering your wiring. After living with one for a few weeks, I have a clear answer.

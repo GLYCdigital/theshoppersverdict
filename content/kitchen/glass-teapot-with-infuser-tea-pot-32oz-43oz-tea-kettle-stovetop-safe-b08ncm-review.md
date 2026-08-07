@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Teapot with Infuser Tea Pot 32oz/43oz Tea Kettle Stove"
 seo_title: "Glass Teapot with Infuser Tea Pot 32oz/43oz Tea Ke Review"
 meta_description: "Our full glass teapot with infuser tea pot 32oz/43oz tea kettle stove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08NCMPDJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qS-w-TqQL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A Glass Teapot That Actually Earns Its Place on Your Stove**

@@ -1,4 +1,5 @@
 ---
+
 title: "Jinei 100pcs Plastic Charger Plates, 13'' Reusable Dinner Pl"
 seo_title: "Jinei 100pcs Plastic Charger Plates, 13'' Reusable Review"
 meta_description: "Our full jinei 100pcs plastic charger plates, 13'' reusable dinner pl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CKQYMPT6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RooVs0MML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what these are: you're not buying fine china. You're buying 100 disposable-looking charger plates that are actually thick enough to reuse — and that's precisely the niche they fill well.

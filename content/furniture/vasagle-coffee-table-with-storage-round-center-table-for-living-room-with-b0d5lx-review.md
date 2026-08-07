@@ -1,4 +1,5 @@
 ---
+
 title: "VASAGLE Coffee Table with Storage, Round Center Table for Li"
 seo_title: "VASAGLE Coffee Table with Storage, Round Center Ta Review"
 meta_description: "Our full vasagle coffee table with storage, round center table for li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5LXFXL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RmQPvlQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The VASAGLE round coffee table with storage walks a careful line between "stylish centerpiece" and "practical workhorse." After digging through 220 ratings and the spec sheet, here's what actually matters before you hit "add to cart."**

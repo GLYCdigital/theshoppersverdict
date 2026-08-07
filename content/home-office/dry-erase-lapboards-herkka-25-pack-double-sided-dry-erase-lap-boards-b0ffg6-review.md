@@ -1,4 +1,5 @@
 ---
+
 title: "Dry Erase Lapboards, HERKKA 25 Pack Double Sided Dry Erase L"
 seo_title: "HERKKA 25-Pack Dry Erase Lapboards Review (2026)"
 meta_description: "HERKKA 25-pack double-sided dry erase lapboards review: durable, lightweight, and classroom-ready. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFG6P2MJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714uCgIV5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True double-sided writing surface — both sides erase cleanly without ghosting after weeks of use"
   - "At 12 x 9 inches, they're large enough for real work but still fit comfortably in a standard backpack"
   - "Low-odor markers included actually write smoothly and don't dry out between sessions"
-cons:
+cons: 
   - "The included erasers are small and wear out quickly — plan to buy replacement felt erasers within a couple months"
   - "Edges are slightly sharp where the plastic was cut; a quick sanding helps if you have kids prone to dragging boards across arms"
+
 ---
 
 **The Verdict: 4.2/5 — Buy it if you need a classroom or team set that survives daily abuse. Skip it if you need presentation-grade boards for client-facing work.**

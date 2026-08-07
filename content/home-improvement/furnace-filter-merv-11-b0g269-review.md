@@ -1,5 +1,6 @@
 ---
 
+
 title: "Furnace Filter MERV 11 inch"
 seo_title: "Furnace Filter MERV 11 Review: Worth It? (2026)"
 meta_description: "Furnace Filter MERV 11 review: real-world airflow, dust capture, and fit. See pros, cons, and if it's worth $14.97 for your HVAC system."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G269SZTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ilYSrBCbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "MERV 11 rating captures pollen, mold spores, and pet dander without the airflow restriction of a MERV 13 inch"
   - "Sturdy cardboard frame holds its shape during installation — no bending or collapsing in the slot"
   - "Consistent 1-inch thickness across the pleats; fits standard residential slots without gaps"
-cons:
+cons: 
   - "No printed directional arrow on the frame — you'll need to eyeball the airflow direction or mark it yourself"
   - "Cardboard frame, not wire-backed, so it can sag if your filter slot is oversized or poorly supported"
+
 
 ---
 

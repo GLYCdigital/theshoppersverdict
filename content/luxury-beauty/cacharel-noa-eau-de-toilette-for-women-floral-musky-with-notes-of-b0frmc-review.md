@@ -1,4 +1,5 @@
 ---
+
 title: "Cacharel Noa, Eau de Toilette for Women, Floral, Musky With"
 seo_title: "Cacharel Noa EDT Review: Floral Musky Scent Worth It?"
 meta_description: "Cacharel Noa Eau de Toilette review: soft floral-musky scent with coffee and white musk notes. Is this 4.6-star fragrance right for you? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FRMC28S5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g9oziJv1L._SL1500_.jpg"
-pros:
+pros: 
   - "Soft, skin-like dry down that works for office and close-contact settings"
   - "Unique coffee-notes opening that avoids the typical syrupy floral trap"
   - "Excellent longevity for an EDT — 6–8 hours on skin, longer on fabric"
-cons:
+cons: 
   - "Sillage is intimate; don't expect a room-filling scent trail"
   - "The powdery-musk dry down isn't for anyone who prefers bold, sweet perfumes"
+
 ---
 
 Let's be direct: Cacharel Noa is not a perfume that announces itself. It whispers. And for a certain kind of buyer, that's exactly the point. With a 4.6-star average across 229 Amazon ratings, this 1998 classic has quietly outlasted countless trend-driven launches. Here's who it's actually for — and who should scroll past.

@@ -1,4 +1,5 @@
 ---
+
 title: "Philips LEDA19 4-Pack Ultra Definition, Dimmable Flicker Fre"
 seo_title: "Philips LEDA19 4-Pack Ultra Definition, Dimmable F Review"
 meta_description: "Our full philips leda19 4-pack ultra definition, dimmable flicker fre review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FHB1PZLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H8mEEMqWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Light Bulb That Makes You Notice Light

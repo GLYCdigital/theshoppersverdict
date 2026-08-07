@@ -1,4 +1,5 @@
 ---
+
 title: "Catit Dinner"
 seo_title: "Catit Dinner Review: Is This Pet Bowl Worth It? (2026)"
 meta_description: "Catit Dinner review: 4.2-star rated pet bowl. We break down build quality, real customer feedback, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F39WJF8C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uy+ctuLLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Whisker-friendly shallow design that cats actually prefer over deep bowls"
   - "Non-slip base stays put on tile and hardwood — no midnight bowl sliding"
   - "Dishwasher-safe construction with no seams where bacteria can hide"
-cons:
+cons: 
   - "Smaller capacity than standard bowls — not ideal for large-breed dogs or multiple cats"
   - "Some cats may knock the bowl over if they're aggressive eaters, despite the rubber base"
+
 ---
 
 Let's be honest: most pet bowls are the same. You buy one, it slides across the floor, your cat eats half her food, and you wonder why you spent $15 on plastic. The Catit Dinner tries to actually solve those problems. Here's the real story after digging through 210 ratings and customer feedback.

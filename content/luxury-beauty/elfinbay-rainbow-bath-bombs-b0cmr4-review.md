@@ -1,4 +1,5 @@
 ---
+
 title: "Elfinbay Rainbow Bath Bombs"
 seo_title: "Elfinbay Rainbow Bath Bombs Review: Worth It? (2026)"
 meta_description: "Elfinbay Rainbow Bath Bombs review: Do these color-bursting bath fizzies live up to 4.6 stars? We break down scent, color, skin feel, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMR49SYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81iXVaGY-vL._SL1500_.jpg"
-pros:
+pros: 
   - "Produces dense, vibrant color swirls that don't stain tubs or skin — a common failure point for rainbow bath bombs"
   - "Generous 6-ounce size per bomb delivers 10-15 minutes of continuous fizzing, not a 30-second fizz-and-disappear"
   - "Scent is noticeable but not cloying — holds up through the soak without turning artificially sweet"
-cons:
+cons: 
   - "The 'rainbow' effect is more of a blended watercolor swirl than distinct, layered color bands — manage expectations"
   - "Some batches arrive with minor surface cracking due to compressed powder handling, though function is unaffected"
+
 ---
 
 Let's be honest: most rainbow bath bombs are a marketing trick. You drop one in, get a muddy brown swirl, and wonder where your $8 went. The Elfinbay Rainbow Bath Bombs are different — not perfect, but genuinely different.

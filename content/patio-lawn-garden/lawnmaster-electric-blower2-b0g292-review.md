@@ -1,4 +1,5 @@
 ---
+
 title: "LawnMaster Electric Blower2"
 seo_title: "LawnMaster Electric Blower2 Review: Verdict | TSV"
 meta_description: "Our full lawnmaster electric blower2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G292B42Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714qneAe8kL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: at $69.99, the LawnMaster Electric Blower2 isn't competing with a $400 EGO backpack unit. But for the suburban homeowner staring down a driveway full of autumn leaves or a garage floor coated in sawdust, this corded blower occupies a sweet spot — if you know its limits.

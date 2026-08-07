@@ -1,4 +1,5 @@
 ---
+
 title: "StyleCraft Rogue Professional 9V Magnetic Motor Cordless Cli"
 seo_title: "StyleCraft Rogue Professional 9V Magnetic Motor Co Review"
 meta_description: "Our full stylecraft rogue professional 9v magnetic motor cordless cli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTWBPGVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ns07XWG0L._SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The barber tool market is crowded with plastic-bodied clippers that promise "pro-grade" performance and deliver hobbyist results. The StyleCraft Rogue Professional 9V is not that. This is a serious piece of equipment aimed at working barbers and obsessive self-cutters who've graduated past entry-level gear.

@@ -1,17 +1,18 @@
 ---
+
 title: "OXO Brew Single Serve Pour-Over Coffee Maker"
 seo_title: "OXO Brew Pour-Over Review: Lazy Person's Perfect Cup (4.7★)"
 meta_description: "OXO Brew Single Serve Pour-Over review. 4.7 stars from 10,000+ ratings. The pour-over with a built-in reservoir that does the work for you. Hands-free brewing."
 slug: "oxo-brew-pour-over-review"
 image_alt: "OXO Brew Single Serve Pour-Over Coffee Maker in white and stainless steel"
-keywords:
+keywords: 
   - "OXO pour over review"
   - "OXO single serve coffee maker"
   - "best pour over coffee maker"
   - "OXO Brew review"
   - "hands-free pour over"
 verdict_score: 4.7
-faq:
+faq: 
   - question: "How does the OXO Brew Pour-Over work?"
     answer: "It uses a built-in water reservoir with a patented 'rainmaker' lid that distributes water evenly over the coffee grounds. You pour hot water into the reservoir once, and the shower head does the rest — no hands-on pour-over technique required."
   - question: "Is the OXO Brew Pour-Over made of plastic?"
@@ -26,17 +27,18 @@ review_count: 10188
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01ENK41Q6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Pi-0c8ovL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in water reservoir eliminates the need for precision pouring technique"
   - "Consistent, even extraction every time — no skill required"
   - "Easy to clean — all parts rinse clean in seconds"
   - "Compact footprint fits in small kitchens, RVs, and offices"
   - "Under $20 — exceptional value for pour-over quality"
-cons:
+cons: 
   - "100% plastic construction — may concern those avoiding hot plastic contact"
   - "Not truly hands-free — still requires boiling water separately"
   - "Single-serve only — not suitable for making multiple cups at once"
   - "Plastic won't last forever like glass or stainless steel alternatives"
+
 ---
 
 I'm about to say something that might upset coffee purists: you don't need to be a pour-over artist to make great pour-over coffee. The OXO Brew Single Serve Pour-Over is proof.

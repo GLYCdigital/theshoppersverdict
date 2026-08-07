@@ -1,4 +1,5 @@
 ---
+
 title: "DOZYANT Propane Tank Gauge Level Indicator Leak Detector Gas"
 seo_title: "DOZYANT Propane Tank Gauge Review: Accurate Leak Detector?"
 meta_description: "DOZYANT Propane Tank Gauge review: Does this 4.4-star leak detector & level indicator deliver accuracy? Read real pros, cons & buying verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B007WH7S4A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IcAAcQBmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in leak detection valve lets you test tank connections without soapy water — a genuinely useful safety feature most gauges skip"
   - "Universal fit with both 1-inch and 20lb POL-style connections; installs in under a minute without tools"
   - "Weather-resistant brass and plastic build holds up to outdoor sun and rain without cracking or fogging"
-cons:
+cons: 
   - "Works on pressure, not actual liquid level — readings drop dramatically in cold weather or when the tank is low, misleading users into thinking they're empty"
   - "The dial is small (about 2 inches) with fine markings; users with poor eyesight may struggle to read it in dim grill-side lighting"
+
 ---
 
 Let's be blunt: the DOZYANT Propane Tank Gauge isn't magic. It can't tell you exactly how many burgers you have left. But after digging through 220 verified ratings and the unit's real-world behavior, it's clear this little brass-and-plastic gadget solves a genuine frustration — the dreaded mid-cookout flame-out. Here's who it actually works for, and who should skip it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Vadisun 100% Solid Oak Wood Ladder Shelf, 3-Tier Ladder Shel"
 seo_title: "Vadisun 100% Solid Oak Wood Ladder Shelf, 3-Tier L Review"
 meta_description: "Our full vadisun 100% solid oak wood ladder shelf, 3-tier ladder shel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5H7X9P5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UulTILBlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "wood" ladder shelves on Amazon are veneer over particleboard. The Vadisun is not that. This is a 100% solid oak piece — no plywood, no MDF, no printed grain. At 65 inches tall, 15.7 inches wide, and 11.8 inches deep, it's substantial without dominating a room. Buyers consistently confirm the construction: "This is real wood, not that cheap paper-wrapped stuff. I sanded it and stained it dark walnut in an afternoon." That's a genuine rarity at this price point.

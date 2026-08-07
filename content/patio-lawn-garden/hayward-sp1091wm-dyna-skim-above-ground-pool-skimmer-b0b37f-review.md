@@ -1,4 +1,5 @@
 ---
+
 title: "Hayward SP1091WM Dyna-Skim Above-Ground Pool Skimmer"
 seo_title: "Hayward SP1091WM Dyna-Skim Above-Ground Pool Skimm Review"
 meta_description: "Our full hayward sp1091wm dyna-skim above-ground pool skimmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B37FVW8W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41UDwbuHNnL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line First**

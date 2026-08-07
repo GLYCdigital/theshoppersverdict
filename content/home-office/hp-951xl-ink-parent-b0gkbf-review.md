@@ -1,4 +1,5 @@
 ---
+
 title: "HP 951XL Ink (Parent)"
 seo_title: "HP 951XL Ink (Parent) Review: Verdict | TSV"
 meta_description: "Our full hp 951xl ink (parent) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GKBFNRV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GxGwSQPML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Ink is the silent tax on every office. You don't notice it until the printer starts streaking mid-deadline, and suddenly you're paying $40 for something you can't even hold in your hand. The HP 951XL is the high-yield version of the standard 951, and it's the cartridge most OfficeJet Pro owners should be buying. Here's the full picture before you click "add to cart."

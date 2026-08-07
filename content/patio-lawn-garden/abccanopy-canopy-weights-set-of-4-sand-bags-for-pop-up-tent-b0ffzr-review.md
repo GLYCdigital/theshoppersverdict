@@ -1,4 +1,5 @@
 ---
+
 title: "ABCCANOPY Canopy Weights Set of 4 - Sand Bags for Pop up Ten"
 seo_title: "ABCCANOPY Canopy Weights Review (2026): Do Sand Bags Work?"
 meta_description: "ABCCANOPY canopy weights set of 4 review: durable 20lb sand bags, easy fill spout, universal fit. See what 220 buyers say before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FFZRR69J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bd-OuShsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Four separate 20lb bags — no unwieldy single weight to wrestle"
   - "Wide 4-inch strap loops fit virtually any canopy leg frame"
   - "Heavy-duty 600D Oxford cloth with double-stitched seams resists tearing"
-cons:
+cons: 
   - "Bags arrive empty — you supply the sand or pea gravel"
   - "Small fill opening makes pouring sand messy without a funnel"
   - "Not waterproof — sand stays damp and can freeze in cold weather"
+
 ---
 
 Let’s be honest: the most annoying part of owning a pop-up canopy isn’t setting it up — it’s watching it cartwheel across the yard the moment the wind picks up. The ABCCANOPY Canopy Weights Set of 4 is a straightforward fix, but is it the right one for your setup? After digging through the specs and what 220 buyers actually said, here’s the real story.

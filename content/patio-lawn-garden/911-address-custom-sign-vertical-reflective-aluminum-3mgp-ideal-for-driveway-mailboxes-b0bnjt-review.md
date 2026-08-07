@@ -1,4 +1,5 @@
 ---
+
 title: "911 Address Custom Sign, Vertical Reflective Aluminum 3MGP,"
 seo_title: "911 Address Custom Sign Review: Reflective Aluminum 3MGP"
 meta_description: "Honest 911 address custom sign review: vertical reflective aluminum 3MGP. Real buyer feedback, durability, visibility, and installation tips."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0BNJTYHTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FHs5cc1OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3M reflective sheeting with superior nighttime visibility from 200+ feet under headlights"
   - "Custom vertical orientation fits narrow posts, mailboxes, and gate entries where horizontal signs won't work"
   - "Thick aluminum base with pre-drilled holes; holds up through snow, salt, and UV exposure without fading"
-cons:
+cons: 
   - "Vertical layout limits text length—long street names or multi-line addresses get cramped"
   - "No mounting hardware included; you'll need your own screws or adhesive, which adds to the total cost"
+
 ---
 
 **Frontmatter done. Now the full review body:**

@@ -1,4 +1,5 @@
 ---
+
 title: "FUTASSI 5 Tiers Metal Bookshelf, Free-Standing Metal Narrow"
 seo_title: "FUTASSI 5-Tier Metal Bookshelf Review: Narrow & Sturdy"
 meta_description: "Honest FUTASSI 5-tier metal bookshelf review: build quality, real-world use, and who should buy. See if this narrow bookcase fits your space."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJ6DW18X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710yOoPek3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Genuinely narrow footprint (about 15.7 inch " wide) fits tight spaces like laundry rooms and office corners
   - "Easy tab-and-slot assembly — most buyers report under 15 minutes with no tools"
   - "Rated for 30 lbs per shelf; metal construction feels denser than budget particleboard units"
-cons:
+cons: 
   - "No backing panel means items can slide through the back if not pushed flush"
   - "Cut edges on the metal shelf panels are sharp — handle with gloves during assembly"
   - "Wobbles slightly at full height if you load it unevenly; wall anchoring recommended"
+
 ---
 
 Let’s be blunt: most narrow bookshelves under $50 are wobbly particleboard disasters. The FUTASSI 5-tier metal bookshelf isn't that. With a 4.4-star average across 220 ratings, it's carving out a niche for buyers who need vertical storage in impossibly tight spaces — without paying boutique prices.

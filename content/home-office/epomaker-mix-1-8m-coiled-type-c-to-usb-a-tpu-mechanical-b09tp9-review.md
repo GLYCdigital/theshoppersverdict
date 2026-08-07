@@ -1,4 +1,5 @@
 ---
+
 title: "EPOMAKER Mix 1.8m Coiled Type-C to USB A TPU Mechanical Keyb"
 seo_title: "EPOMAKER Mix 1.8m Coiled Cable Review: Worth It?"
 meta_description: "EPOMAKER Mix 1.8m coiled Type-C cable review: build quality, flexibility, and compatibility tested. Is this TPU cable worth your desk setup?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09TP9JZ6F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612M2JJh3uL._SL1500_.jpg"
-pros:
+pros: 
   - "Thick 5mm TPU braided jacket with real coiled spring tension that holds shape without kinking"
   - "1.8m total length gives enough slack for under-desk routing while keeping the coil visible"
   - "USB 2.0 rated at 480Mbps — plenty for keyboards, mice, and controllers, not for storage drives"
-cons:
+cons: 
   - "Coil is stiff out of the box; needs a few days of stretching to reach full flexibility"
   - "No detachable connector heads — what you see is what you get, no swapping to USB-C to C"
+
 ---
 
 Let's be honest: most coiled cables you find on Amazon are either flimsy AliExpress leftovers or overpriced "custom" jobs with a 300% markup. The EPOMAKER Mix sits in a weird middle ground — it's a $20-ish cable that actually feels like it belongs on a serious mechanical keyboard setup. After a week of daily use, here's the real story.

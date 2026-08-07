@@ -1,4 +1,5 @@
 ---
+
 title: "Seachem Purigen Organic Filtration Resin"
 seo_title: "Seachem Purigen Organic Filtration Resin Review: Verdict "
 meta_description: "Our full seachem purigen organic filtration resin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07W6975PL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71c7GlRaoNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your aquarium water looks like weak tea no matter how often you vacuum the gravel, you don't need more water changes — you need Seachem Purigen. This synthetic resin has quietly become the gold standard for crystal-clear water in planted tanks, reef setups, and even brackish systems. With 235 Amazon ratings averaging 4.7 out of 5, it's one of the most consistently praised filtration media in the hobby. Here's the honest breakdown after digging through the specs and real owner feedback.

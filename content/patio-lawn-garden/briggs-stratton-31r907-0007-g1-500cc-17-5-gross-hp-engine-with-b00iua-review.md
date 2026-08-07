@@ -1,4 +1,5 @@
 ---
+
 title: "Briggs & Stratton 31R907-0007-G1 500cc 17.5 Gross HP Engine"
 seo_title: "Briggs & Stratton 500cc 17.5 HP Engine Review (2026)"
 meta_description: "Honest review of the Briggs & Stratton 31R907-0007-G1 500cc engine: power, durability, real user feedback, and who should buy it. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00IUAYGP2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81g8rTQEPqL._SL1500_.jpg"
-pros:
+pros: 
   - "Drop-in replacement for many Briggs 31R9-series engines — same bolt pattern and shaft size"
   - "Cast iron bore and dual ball bearings deliver long service life under heavy mowing"
   - "Comes with muffler, air filter, and fuel tank — ready to bolt on"
-cons:
+cons: 
   - "Recoil start is stiff on cold mornings; some users report needing 3-4 pulls"
   - "No fuel shutoff valve — small issue if you store long-term"
   - "Genuine Briggs parts cost more than aftermarket equivalents"
+
 ---
 
 **Bottom line:** This is the engine that keeps your mower alive when the original dies. The Briggs & Stratton 31R907-0007-G1 is a 500cc, 17.5 gross HP vertical-shaft workhorse, and at 4.6 stars from 229 buyers, it earns its reputation. You're paying for reliability, not flash.

@@ -1,4 +1,5 @@
 ---
+
 title: "Razab 10 Cups/ 80 Oz 4 Pc (Set of 2) Glass Food Storage Cont"
 seo_title: "Razab 10 Cups/ 80 Oz 4 Pc (Set of 2) Glass Food St Review"
 meta_description: "Our full razab 10 cups/ 80 oz 4 pc (set of 2) glass food storage cont review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07WVT8H9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eKV4QxDNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Performance and Build Quality**

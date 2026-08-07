@@ -1,4 +1,5 @@
 ---
+
 title: "URSOLA Wall Light LED Wall Sconce with On/Off Switch USB Cha"
 seo_title: "URSOLA Wall Light LED Wall Sconce with On/Off Swit Review"
 meta_description: "Our full ursola wall light led wall sconce with on/off switch usb cha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TW3GZPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hVpUNcjUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Cordless Wall Light That Actually Makes Sense

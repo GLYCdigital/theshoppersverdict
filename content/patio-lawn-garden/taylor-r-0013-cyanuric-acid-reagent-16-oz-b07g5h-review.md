@@ -1,4 +1,5 @@
 ---
+
 title: "taylor R-0013 Cyanuric Acid Reagent (16 oz)"
 seo_title: "taylor R-0013 Cyanuric Acid Reagent (16 oz) Review: Verdi"
 meta_description: "Our full taylor r-0013 cyanuric acid reagent (16 oz) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07G5HZXQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41jzN0sagKS._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: if you own a Taylor test kit—the K-2005, K-2006, or any of the professional-grade kits—you already know the pain of running out of reagent. The Taylor R-0013 is the refill for the cyanuric acid (CYA) test, and it's the one consumable you don't want to substitute with generic brands. Here's why.

@@ -1,7 +1,8 @@
 ---
-title: "Ringside Mexican Style Boxing Hand Wraps (Pairs) - 180\" Semi"
+
+title: "Ringside Mexican Style Boxing Hand Wraps (Pairs) - 180\ Semi"
 seo_title: "Ringside Mexican Style Boxing Hand Wraps (Pairs) - Review"
-meta_description: "Our full ringside mexican style boxing hand wraps (pairs) - 180\" semi review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full ringside mexican style boxing hand wraps (pairs) - 180\ semi review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "ringside-mexican-style-boxing-hand-wraps-pairs-180-semi-elastic-cotton-blend-b0gtc9-review"
 image_alt: "Ringside Mexican Style Boxing Hand Wraps (Pairs) - 180 Semi-Elastic Cotton Blend Wrist Support with Thumb Loop for MMA, "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTC96XP5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611rZxPdh2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening hook**  

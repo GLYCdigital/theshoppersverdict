@@ -1,4 +1,5 @@
 ---
+
 title: "Fromann Dual Motor Electric Standing Desk Frame 3 Tier Legs"
 seo_title: "Fromann Dual Motor Standing Desk Frame Review (2026)"
 meta_description: "Fromann dual motor standing desk frame 3 tier legs review: stability, weight capacity, noise, and value. Is this frame worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFH3QND5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hyfx4eCiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Three-stage legs reach 48.4 inches top height — genuinely tall enough for 6'4 inch "+ users standing
   - "Dual motors lift up to 265 lbs smoothly, with barely audible operation under normal loads"
   - "Anti-collision detection and keypad lockout prevent damage to desk contents and accidental activation"
-cons:
+cons: 
   - "Frame-only purchase means you supply your own desktop; total cost adds up if you don't have one"
   - "At 89 lbs, assembly is a two-person job despite what the instructions suggest"
   - "No preset memory positions below 3 — memorized heights require holding the button"
+
 ---
 
 Let's be direct: most standing desk frames under $400 wobble like a nervous intern during a presentation. The Fromann Dual Motor Electric Standing Desk Frame with its three-tier legs is trying to be the exception. After digging through 220 ratings and the spec sheet, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft NotCo Original Flavor Plant Based Mac & Cheese"
 seo_title: "Kraft NotCo Original Flavor Plant Based Mac & Chee Review"
 meta_description: "Our full kraft notco original flavor plant based mac & cheese review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FND2K2XG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+OAdr+TjL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Plant-Based Mac That Actually Tastes Like the Real Thing

@@ -1,4 +1,5 @@
 ---
+
 title: "JEAREY 2-Tiers Patio Umbrellas Outdoor Table Market Umbrella"
 seo_title: "JEAREY 2-Tiers Patio Umbrellas Outdoor Table Marke Review"
 meta_description: "Our full jearey 2-tiers patio umbrellas outdoor table market umbrella review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GCD17BR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612nOlV-ujL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Double-Decker Shade Solution That Actually Works

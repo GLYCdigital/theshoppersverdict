@@ -1,4 +1,5 @@
 ---
+
 title: "Big and Tall Gaming Chair 440LBS Gaming Chair with Metal Bas"
 seo_title: "Big & Tall Gaming Chair 440LB Review: Worth It? (2026)"
 meta_description: "Honest Big and Tall Gaming Chair 440LBS review: metal base, weight capacity, comfort, and durability tested. See if this plus-size chair is worth your money."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C8BCWKQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cd31iTj0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 440lb weight rating backed by a reinforced steel frame and wide 22-inch seat pan — not marketing fluff"
   - "Metal base with 3-inch casters holds up on carpet and hardwood without wobble, even at max load"
   - "4D armrests (height, angle, depth, pivot) rare at this price point for big-and-tall chairs"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes with confusingly labeled bolts; expect to redo one step"
   - "Seat cushion runs firm for the first two weeks — breaks in but not for the impatient"
   - "Backrest lumbar pillow uses cheap hook-and-loop that slips under heavy lean"
+
 ---
 
 Let's be blunt: most "big and tall" gaming chairs are standard chairs with a longer gas cylinder and a prayer. This one — the 440LBS Gaming Chair with Metal Base — actually does the math. The steel frame is 1.8mm thick (most budget chairs use 1.2mm), the seat pan measures 22 inches across, and the base is cast aluminum alloy, not that plastic-coated junk you find at half the price. If you're 250 pounds or north of six feet, this is one of the few sub-$200 chairs that won't have you shopping for a replacement by spring.

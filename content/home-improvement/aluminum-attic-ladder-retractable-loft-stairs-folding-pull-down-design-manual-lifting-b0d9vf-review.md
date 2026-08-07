@@ -1,4 +1,5 @@
 ---
+
 title: "Aluminum Attic Ladder - Retractable Loft Stairs, Folding Pul"
 seo_title: "Aluminum Attic Ladder Review: Retractable Loft Stairs Honest Look"
 meta_description: "Honest review of the aluminum attic ladder: build quality, installation ease, weight capacity, and real buyer feedback. Is this retractable loft stair worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9VF1VRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61trIQNtGcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full aluminum construction resists warping and moisture damage better than wood ladders in unconditioned attics"
   - "Counterbalanced spring system makes lowering and raising the ladder genuinely smooth — no sudden drops"
   - "Fits standard rough openings with minimal framing adjustment for most residential ceiling heights"
-cons:
+cons: 
   - "Installation is a two-person job — the assembled unit is heavy and awkward to maneuver alone"
   - "Rungs feel slick when socks are wet; consider adding grip tape for safety"
   - "Insulation cover is thin and doesn't seal tightly, allowing some attic air leakage"
+
 ---
 
 # Aluminum Attic Ladder Review: The Retractable Loft Stairs That Actually Work

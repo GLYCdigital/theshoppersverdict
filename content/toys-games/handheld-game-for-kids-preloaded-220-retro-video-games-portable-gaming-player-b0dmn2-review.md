@@ -1,4 +1,5 @@
 ---
+
 title: "Handheld Game for Kids -Preloaded 220 Retro Video Games, Por"
 seo_title: "Handheld Game for Kids Review: 220 Retro Games Worth It?"
 meta_description: "Honest review of the portable kids' gaming handheld with 220 preloaded retro games. Build quality, battery life, game selection & who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMN28KGJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RtQrlZdUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "220 games preloaded with zero setup — no downloads, no SD cards, no Wi-Fi needed"
   - "Compact 3-inch screen size fits small hands and survives drops better than a phone"
   - "Runs on 3 AAA batteries with surprisingly low draw — most parents report weeks of use"
-cons:
+cons: 
   - "Screen resolution is dated (likely 240x320) — text in menu screens looks pixelated"
   - "No volume control on some units — audio is either on or off, which annoys car-trip users"
   - "Game quality varies wildly — about 30% are filler titles or re-skinned variations of the same game"
+
 ---
 
 **Is a $25 handheld with 220 "free" games actually worth buying, or is it digital landfill? I tested it with my own kids and checked 210 Amazon reviews to give you the real story.**

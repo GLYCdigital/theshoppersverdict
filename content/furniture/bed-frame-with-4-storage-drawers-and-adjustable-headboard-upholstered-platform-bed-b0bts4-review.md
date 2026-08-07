@@ -1,4 +1,5 @@
 ---
+
 title: "Bed Frame with 4 Storage Drawers and Adjustable Headboard, U"
 seo_title: "Bed Frame with Storage Drawers Review: 4 Drawers + Adjustable Headboard"
 meta_description: "Honest review of the Upholstered Platform Bed Frame with 4 Storage Drawers. Real pros, cons, and buyer feedback to help you decide before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BTS4W79N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8191qynkrqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Four smooth-glide drawers provide real storage capacity — roughly equivalent to a medium dresser — without sacrificing floor space"
   - Adjustable headboard offers two height positions (roughly 36 inch " and 40 inch "), letting you match pillow height and mattress thickness
   - No box spring needed — the platform slats support memory foam and hybrid mattresses up to 14 inch " thick
-cons:
+cons: 
   - "Drawers require about 24 inches of clearance at the foot of the bed to open fully — tight in smaller bedrooms"
   - "Assembly is a two-person job taking 60–90 minutes; the drawers need precise alignment or they'll rub against the frame"
   - "The upholstered headboard fabric is light-colored on some versions and shows dust and marks more readily than darker options"
+
 ---
 
 **Is this the storage bed that finally solves your small-bedroom problem? Or just another piece of flat-pack furniture that'll wobble by year two? Let's dig into the details.**

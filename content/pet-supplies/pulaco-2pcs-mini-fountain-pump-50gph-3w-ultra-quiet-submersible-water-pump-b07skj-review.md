@@ -1,4 +1,5 @@
 ---
+
 title: "PULACO 2Pcs Mini Fountain Pump (50GPH 3W), Ultra Quiet Subme"
 seo_title: "PULACO 2Pcs Mini Fountain Pump (50GPH 3W), Ultra Q Review"
 meta_description: "Our full pulaco 2pcs mini fountain pump (50gph 3w), ultra quiet subme review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07SKJGNX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61g3KPQZksL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a pet fountain, you already know the drill: the pump dies at 11 PM on a Sunday, and your cat refuses to drink from anything that isn't moving water. The PULACO 2-pack exists to solve that exact problem — and it mostly does.

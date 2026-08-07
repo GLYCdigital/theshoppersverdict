@@ -1,4 +1,5 @@
 ---
+
 title: "Driveway Elastomeric Emulsion Crack Filler"
 seo_title: "Driveway Elastomeric Emulsion Crack Filler Review (2026)"
 meta_description: "Honest review of Driveway Elastomeric Emulsion Crack Filler: does it actually seal asphalt cracks? Real pros, cons, and longevity data from 210+ buyers."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B000DZBGDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MW1q0Sw6L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Self-leveling formula flows into hairline cracks without needing a trowel or putty knife"
   - "Elastomeric blend stays flexible in freezing temps, reducing the pop-out problem common with rigid fillers"
   - "Cures to a dark asphalt color that blends with existing blacktop instead of leaving gray patches"
-cons:
+cons: 
   - "1-gallon jug only covers roughly 60-80 linear feet at 1/2-inch depth — heavy crack networks will eat through multiple jugs"
   - "Requires dry weather and 60°F+ temps for proper curing; applying before a rainstorm ruins the bond"
   - "Thick consistency makes it hard to pour from the jug into narrow cracks without a funnel or pour spout"
+
 ---
 
 If your driveway looks like a map of Los Angeles freeways, you've probably tried the cheap stuff — the brittle gray filler that crumbles out by spring. The Driveway Elastomeric Emulsion Crack Filler is a different animal. As shown in the product image, this isn't a squeeze tube; it's a full gallon of liquid asphalt emulsion designed to pour and self-level. The question is whether it holds up where cheaper fillers fail.

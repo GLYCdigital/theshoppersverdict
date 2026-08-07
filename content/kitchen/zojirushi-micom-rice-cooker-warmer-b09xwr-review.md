@@ -1,4 +1,5 @@
 ---
+
 title: "Zojirushi Micom Rice Cooker & Warmer"
 seo_title: "Zojirushi Micom Rice Cooker & Warmer Review: Verdict | TS"
 meta_description: "Our full zojirushi micom rice cooker & warmer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XWRWDVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ls8UcoYJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Zojirushi Micom Rice Cooker & Warmer: The Gold Standard, With One Catch

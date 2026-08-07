@@ -1,4 +1,5 @@
 ---
+
 title: "Games Workshop - Warhammer 40,000 - Space Marines: Jump Pack"
 seo_title: "Space Marines Jump Pack Review: 2026 Buyer's Guide"
 meta_description: "Honest review of the Warhammer 40K Space Marines Jump Pack kit. Build quality, assembly tips, and who should buy. Read before you spend."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJS353L5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pxTJCq4nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Iconic sculpts with crisp detail on thrusters, vents, and backpack cabling — paint-picking layers are cleanly separated"
   - "Push-fit assembly with 8–10 parts per model means a full squad builds in under an hour, no glue needed"
   - "Multipart design includes alternate heads and shoulder pads for easy chapter customization"
-cons:
+cons: 
   - "No jump pack-specific weapon options — you're locked into the stock bolt rifle loadout"
   - "Flight stands are absent; you'll need to pin or glue models to bases or buy separate clear stands for dynamic poses"
+
 ---
 
 # Space Marines Jump Pack Review: Mobility Without the Headache

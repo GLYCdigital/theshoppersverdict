@@ -1,4 +1,5 @@
 ---
+
 title: "Obabala Ceiling Fans with Lights, Flush Mount Ceiling Fan wi"
 seo_title: "Obabala Ceiling Fans with Lights, Flush Mount Ceil Review"
 meta_description: "Our full obabala ceiling fans with lights, flush mount ceiling fan wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0G3WNNYD6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HNgIpDPTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got low ceilings, you already know the struggle: most ceiling fans hang too low, make a room feel cramped, and cast mediocre light. The Obabala Flush Mount Ceiling Fan with Lights tries to solve all three problems in one package. At 3.9 stars across 195 ratings, it's not a home run — but it might be a solid double for the right buyer.

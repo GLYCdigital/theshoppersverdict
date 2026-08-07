@@ -1,4 +1,5 @@
 ---
+
 title: "Yes4All High-Density EPP Half Round Back Roller Foam, Exerci"
 seo_title: "Yes4All High-Density EPP Half Round Back Roller Fo Review"
 meta_description: "Our full yes4all high-density epp half round back roller foam, exerci review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLW3DCXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PVWDbuLEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me get straight to it: most foam rollers are either marshmallow-soft EVA that collapses in three months or brutal PVC pipes that leave you seeing stars. The Yes4All Half Round Back Roller sits in a sweet spot most budget brands miss, and it's worth understanding why before you pull the trigger.

@@ -1,4 +1,5 @@
 ---
+
 title: "Attwood Sahara MK2 Automatic Bilge Pump"
 seo_title: "Attwood Sahara MK2 Bilge Pump Review: Honest 2026 Verdict"
 meta_description: "Attwood Sahara MK2 automatic bilge pump review: real-world performance, reliability concerns, and who should buy. 3.7/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B09F6S8Z9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511nHOY80OL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "1100 GPH rated flow moves water aggressively—clears a flooded bilge fast"
   - "Built-in automatic float switch means no separate sensor wiring or mounting"
   - "Compact 3-inch footprint fits tight bilge compartments where larger pumps won't"
-cons:
+cons: 
   - "Float switch mechanism prone to sticking after debris exposure—requires frequent cleaning"
   - "Plastic housing feels thin; several buyers report cracking at hose barb under vibration"
   - "Not truly submersible-rated despite marketing—seal fails if fully submerged for extended periods"
+
 ---
 
 **The Attwood Sahara MK2 Automatic Bilge Pump: A Workhorse With a Quirk**

@@ -1,4 +1,5 @@
 ---
+
 title: "Relcolor Compatible Ink Cartridge Replacement for Canon 245X"
 seo_title: "Relcolor Compatible Ink Cartridge Replacement for  Review"
 meta_description: "Our full relcolor compatible ink cartridge replacement for canon 245x review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVYYCVV2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ShdRIF3UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: printer ink is a racket, and Canon's OEM 245/246 cartridges are among the priciest per milliliter in the business. That's why compatible options like this Relcolor 3-pack exist—and why they now command a 4.5-star average across 225 Amazon ratings. But does saving money cost you print quality? I dug into the specs, the customer feedback, and the real-world tradeoffs so you don't have to gamble.

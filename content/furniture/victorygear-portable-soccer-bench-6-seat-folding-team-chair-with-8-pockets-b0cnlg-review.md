@@ -1,4 +1,5 @@
 ---
+
 title: "VictoryGear Portable Soccer Bench â€“ 6 Seat Folding Team Ch"
 seo_title: "VictoryGear Portable Soccer Bench â€“ 6 Seat Foldi Review"
 meta_description: "Our full victorygear portable soccer bench â€“ 6 seat folding team ch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNLGV1FZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Mx2XGJMjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most portable team benches are flimsy aluminum tubes with a strip of nylon that sags the moment a 12-year-old sits down. The VictoryGear 6-seat folding bench is not that. This thing is built like a piece of stadium furniture that decided to go on a road trip.

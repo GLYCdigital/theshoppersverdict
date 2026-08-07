@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DUPLO Classic Brick Box Building Blocks - Learning & Ed"
 seo_title: "LEGO DUPLO Classic Brick Box Building Blocks - Lea Review"
 meta_description: "Our full lego duplo classic brick box building blocks - learning & ed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B07WJJF8PB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YIWuWeL4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The First LEGO Set That Actually Gets It Right

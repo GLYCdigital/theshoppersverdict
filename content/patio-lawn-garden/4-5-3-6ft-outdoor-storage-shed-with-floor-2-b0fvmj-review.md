@@ -1,4 +1,5 @@
 ---
+
 title: "4.5×3.6FT Outdoor Storage Shed with Floor-2 inch"
 seo_title: "4.5×3.6FT Outdoor Storage Shed Review: Worth It?"
 meta_description: "Honest 4.5×3.6FT outdoor storage shed review: build quality, real capacity, assembly pain points, and who should buy. 3.7-star verdict."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FVMJK57V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pG5NBlKZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated metal floor adds stability and keeps contents off damp ground"
   - "Compact footprint fits tight side yards and balcony corners"
   - "Slanted roof sheds rain and snow effectively without pooling"
-cons:
+cons: 
   - "Assembly requires two people and patience with 50+ small bolts"
   - "Reported fit issues on some panels after a few months"
   - "Not waterproof at seams — sealant recommended before first rain"
+
 ---
 
 If you’ve got a narrow side yard, a small balcony, or a patio corner that’s become a graveyard of garden tools, the 4.5×3.6FT Outdoor Storage Shed with Floor-2 looks like the answer. At roughly 16 square feet of floor space, it’s not a garage replacement — it’s a targeted solution for the stuff you’re tired of tripping over. But with a 3.7-star average across 185 ratings, the question isn’t whether it fits. It’s whether it holds up.

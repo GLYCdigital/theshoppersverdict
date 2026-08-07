@@ -1,4 +1,5 @@
 ---
+
 title: "cinkehome Modern Accent Chair"
 seo_title: "cinkehome Modern Accent Chair Review: Worth It? (2026)"
 meta_description: "cinkehome Modern Accent Chair review: 4.6/5 from 229 ratings. Compact, stylish, and sturdy. Read pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKFH4QQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HJxjjOj7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid hardwood frame with reinforced corner blocks — no creaking or wobble even after months of daily use"
   - "High-density foam seat cushion that keeps its shape; several reviewers note it doesn't flatten out like cheaper chairs"
   - Compact footprint (roughly 28 inch "W x 30 inch "D) that fits tight corners and small apartments without dominating the room
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver — no Allen wrench included, which annoys some buyers"
   - "The fabric is a magnet for pet hair and lint; a lint roller becomes part of your routine"
+
 ---
 
 ## The Accent Chair That Actually Earns Its Spot

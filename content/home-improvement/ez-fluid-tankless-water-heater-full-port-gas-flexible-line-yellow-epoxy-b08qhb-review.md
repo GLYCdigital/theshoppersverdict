@@ -1,4 +1,5 @@
 ---
+
 title: "EZ-Fluid Tankless Water Heater Full Port Gas Flexible Line,Y"
 seo_title: "EZ-Fluid Tankless Water Heater Gas Line Review (2026)"
 meta_description: "EZ-Fluid tankless water heater gas connector review: full port flow, yellow epoxy coating, 4.6★ rating. See pros, cons, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QHBBNSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ivvwKKF6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3/4-inch full port bore delivers unrestricted gas flow — critical for tankless units that need high BTU input"
   - "Yellow epoxy coating provides corrosion resistance and immediate visual identification as a gas line"
   - "Includes both fittings and thread sealant — everything needed for a code-compliant install in one box"
-cons:
+cons: 
   - "Braided stainless exterior is stiff — bending into tight spaces requires careful planning and muscle"
   - "Some users report the included gaskets can deform if over-tightened with a wrench instead of hand-tightening"
+
 ---
 
 Replacing a tankless water heater’s gas line isn’t the glamorous part of a home upgrade — but get it wrong and you’ve got a code violation, a gas leak, or a unit that starves for fuel and throws error codes all winter. The EZ-Fluid Full Port Gas Flexible Line is built specifically to solve that last problem, and with 229 ratings averaging 4.6 stars, it’s clearly doing something right. Here’s the breakdown after digging through the specs and what real buyers are saying.

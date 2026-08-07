@@ -1,4 +1,5 @@
 ---
+
 title: "HOVERFLY X1/X3/X5 Electric Scooter for Adults, Anti Flat 8.5"
 seo_title: "HOVERFLY X1/X3/X5 Electric Scooter for Adults, Ant Review"
 meta_description: "Our full hoverfly x1/x3/x5 electric scooter for adults, anti flat 8.5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0GWTZ1DHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c-lt6Z8yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # HOVERFLY X1/X3/X5 Electric Scooter for Adults: Honest Review After 195 Ratings

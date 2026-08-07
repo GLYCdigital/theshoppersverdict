@@ -1,4 +1,5 @@
 ---
+
 title: "Great Explorations: Wonder Stars Super Kit, Glow In The Dark"
 seo_title: "Wonder Stars Super Kit Review: Glow Stars That Actually Stick"
 meta_description: "Honest Great Explorations Wonder Stars Super Kit review: 200+ glow stars, adhesive quality, real-world testing, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00009ENDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a-onJ3hPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "200+ stars in multiple sizes and shapes (including moons and planets) — enough to cover a full ceiling"
   - "Adhesive tabs actually hold on textured ceilings and painted drywall — no damage on removal when used as directed"
   - "The glow lasts 2-3 hours after a 10-minute charge, bright enough to read by for the first hour"
-cons:
+cons: 
   - "The included constellation guide is thin on astronomy detail — it's basically a poster, not a learning tool"
   - "Small stars (under 1 inch) are easy to lose during application — the adhesive tabs are separate and fiddly for small hands"
+
 ---
 
 ## The 10-Minute Ceiling Transformation That Keeps Delivering

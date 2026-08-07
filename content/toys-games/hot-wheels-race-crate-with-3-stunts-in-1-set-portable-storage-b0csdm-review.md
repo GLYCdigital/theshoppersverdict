@@ -1,4 +1,5 @@
 ---
+
 title: "Hot Wheels Race Crate with 3 Stunts in 1 Set, Portable Stora"
 seo_title: "Hot Wheels Race Crate Review: 3 Stunts in 1 Portable Set"
 meta_description: "Our Hot Wheels Race Crate review: 3 stunts in 1 portable storage set. See if this 4.5-star toy delivers on fun, storage, and durability."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CSDMXNZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zNRMjaUqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct stunt configurations from one base set, giving real variety for the price"
   - "Integrated storage crate doubles as the track base—no loose parts to lose between play sessions"
   - "Simple snap-together assembly that most kids 5+ can manage independently"
-cons:
+cons: 
   - "Plastic connectors feel slightly thin where track sections join; rough play may stress them"
   - "Crate lid doesn't latch shut securely—carries fine, but bounce in the car and it pops open"
   - "Only one car included, so you'll want to grab more before gifting"
+
 ---
 
 If you've stepped on a stray Hot Wheel in the dark, you know the struggle: the cars are immortal, but the tracks? They scatter like confetti. The Hot Wheels Race Crate aims to fix that with a clever premise—the storage box *is* the track base. Does it deliver? Mostly yes, with a few caveats worth knowing before you click buy.

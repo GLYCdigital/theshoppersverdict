@@ -1,4 +1,5 @@
 ---
+
 title: "SAMSUNG OEM Original Part: DG94-00520A Gas Range Hot Surface"
 seo_title: "SAMSUNG OEM Original Part: DG94-00520A Gas Range H Review"
 meta_description: "Our full samsung oem original part: dg94-00520a gas range hot surface review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B00EZACYR8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QHUshalWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SAMSUNG OEM DG94-00520A Gas Range Igniter: The Right Part, If You've Got the Right Range

@@ -1,4 +1,5 @@
 ---
+
 title: "AHYWTAN Keyboard Case for iPad 9/8/7th Gen 10.2’’ Case w"
 seo_title: "AHYWTAN Keyboard Case Review: iPad 9/8/7th Gen 10.2”"
 meta_description: "AHYWTAN keyboard case for iPad 9/8/7th Gen 10.2” tested: build quality, typing feel, trackpad accuracy, and real-world cons. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8FQB8T9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71avq79GpcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-size backlit keyboard with 7 color modes and adjustable brightness — rare at this price point for a 10.2” iPad case"
   - "Precision trackpad that supports multi-touch gestures (scroll, swipe, tap-to-click) without needing iPadOS mouse settings"
   - "Slim folio profile at 0.6” thick when closed, with a magnetic flap that keeps the Apple Pencil secured on the side"
-cons:
+cons: 
   - "Case adds 1.2 lbs — noticeably heavier than a standard folio, making one-handed tablet use awkward"
   - "Trackpad is small (roughly 3.5” x 2”), so palm rejection is imperfect during long typing sessions"
   - "No auto-wake/sleep function — you must use the magnetic flap or power button manually"
+
 ---
 
 **Opening Hook**

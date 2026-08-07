@@ -1,4 +1,5 @@
 ---
+
 title: "Merax Wooden Bunk Bed with Guardrial and Removble Ladder"
 seo_title: "Merax Wooden Bunk Bed with Guardrial and Removble  Review"
 meta_description: "Our full merax wooden bunk bed with guardrial and removble ladder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BKPL1QV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rDulqK0FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Merax Wooden Bunk Bed a smart buy for your kids' room, or should you keep shopping? Here's the honest breakdown after digging through 220+ owner reviews and the spec sheet.**

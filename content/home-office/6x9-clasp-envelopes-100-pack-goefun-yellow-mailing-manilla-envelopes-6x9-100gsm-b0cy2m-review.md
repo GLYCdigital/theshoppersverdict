@@ -1,4 +1,5 @@
 ---
+
 title: "6x9 Clasp Envelopes, 100 Pack, Goefun Yellow Mailing Manilla"
 seo_title: "6x9 Clasp Envelopes Review: 100 Pack Goefun Value"
 meta_description: "Honest Goefun 6x9 clasp envelopes review: 100-pack strength, metal clasp durability, and real-world mailing performance at $9.99. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CY2MT23Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YCLSA7Z2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100 GSM paper stock feels notably thicker than standard manila — resists tearing at corners during stuffing"
   - "Metal clasp and reinforced eyelet hold documents securely through USPS sorting machines without snagging"
   - "At 10 cents per envelope, this is one of the cheapest per-unit costs for a 6x9 with actual metal hardware"
-cons:
+cons: 
   - "Yellow dye can transfer slightly onto white documents in humid conditions — keep originals in a protective sleeve"
   - "Clasp prongs are sharp on initial opening; careful fingernails needed to avoid catching"
+
 ---
 
 **The $10 Workhorse: Do These 6x9 Clasp Envelopes Actually Hold Up?**

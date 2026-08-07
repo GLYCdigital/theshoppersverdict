@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGOO Conqueror Robot Tank Kit with UNO R3 for Arduino Robo"
 seo_title: "ELEGOO Conqueror Robot Tank Kit Review: Arduino Fun"
 meta_description: "ELEGOO Conqueror Robot Tank Kit with UNO R3 for Arduino: honest review of build quality, app control, and learning value. Is it worth $80? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08CZ4MG5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AZZUPEAAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full UNO R3 board included — not a stripped clone; you can repurpose it after the project"
   - "Tank treads handle carpet, grass, and small obstacles better than wheeled kits"
   - "Three control modes (IR remote, app, obstacle avoidance) give real variety"
-cons:
+cons: 
   - "Assembly takes 2–3 hours; younger kids will need adult help with the 100+ jumper wires"
   - "App connectivity drops occasionally on Android; iOS is more stable"
   - "No printed manual — you'll need a laptop or tablet beside you to follow the PDF"
+
 ---
 
 **Bottom line: This is the rare Arduino kit that actually feels like a toy after you build it — not just a pile of components that blinks once and goes in a drawer.**

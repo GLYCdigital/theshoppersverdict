@@ -1,4 +1,5 @@
 ---
+
 title: "Bosch Electric Orbital Sander"
 seo_title: "Bosch Electric Orbital Sander Review (2026): Is It Worth It?"
 meta_description: "Bosch Electric Orbital Sander review: 4.4★ rated. We tested dust collection, vibration, and finish quality. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B086Y3HVXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X8HfOodRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Microfilter dust canister captures fine particles without needing a shop vac, keeping the work area visibly cleaner"
   - "Hook-and-loop pad accepts standard 5-inch discs and resists clogging even on softer woods"
   - "Variable-speed dial (12,000–14,000 OPM) gives real control for edge work versus flat panel sanding"
-cons:
+cons: 
   - "Plastic pad housing feels less durable than the metal bases on DeWalt or Makita equivalents"
   - "Dust canister reduces balance; the tool tips forward when set down — minor, but annoying mid-project"
+
 ---
 
 **Bosch Electric Orbital Sander Review: The 4.4-Star Workhorse That Nearly Gets It Right**

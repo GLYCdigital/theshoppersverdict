@@ -1,4 +1,5 @@
 ---
+
 title: "AVON Skin So Soft Original Body Lotion for Women, Paraben-Free"
 seo_title: "AVON Skin So Soft Original Body Lotion Review (2026): Worth It?"
 meta_description: "Honest AVON Skin So Soft Original Body Lotion review: paraben-free hydration, that iconic scent, and whether it beats modern moisturizers. Read before buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG2MJMRR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51CmVLV7P4L._SL1500_.jpg"
-pros:
+pros: 
   - "Signature Skin So Soft scent that doubles as a light fragrance — no need for separate perfume"
   - "Paraben-free formula that absorbs in under 60 seconds without greasy residue"
   - "Works as a mild insect repellent base layer, a long-standing cult trick"
-cons:
+cons: 
   - "Scent is polarizing — if you dislike floral-musk, this will linger all day"
   - "Thin lotion consistency isn't enough for severely dry winter skin — you'll need a heavier cream overlay"
   - "Pump dispenser can clog if you don't use it daily"
+
 ---
 
 Some products earn cult status for their results. AVON's Skin So Soft earned it for a rumor — that the scent keeps mosquitoes away. That myth (partially true, we'll get to it) has kept this lotion on bathroom shelves for four decades. But as a daily moisturizer in 2026, does it hold up against modern body lotions with ceramides and hyaluronic acid? I tested it for two weeks to find out.

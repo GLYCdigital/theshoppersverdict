@@ -1,4 +1,5 @@
 ---
+
 title: "AMZASA Dining Room Chandelier"
 seo_title: "AMZASA Dining Room Chandelier Review (2026): Worth It?"
 meta_description: "Read our honest AMZASA Dining Room Chandelier review. See how this 4.6-star light fixture performs, its build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL6HPMHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dr8+SQ62L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Warm, evenly diffused light from the clear glass globes — no harsh hotspots"
   - "Sturdy all-metal construction with a smooth, chip-resistant matte black finish"
   - "Hardwired install takes about 30 minutes if you have basic electrical comfort"
-cons:
+cons: 
   - "Bulbs not included — you'll need to buy six E12 candelabra bulbs separately"
   - "The glass shades are fragile during shipping; a few buyers reported cracks on arrival"
   - "No dimmer switch included, so you'll need to add one for adjustable ambiance"
+
 ---
 
 Let’s be honest about dining room lighting: most fixtures are either cheap-looking or wildly overpriced. The AMZASA Dining Room Chandelier sits in the middle, and after digging through 229 ratings and the specs, it’s clear why this one holds a 4.6-star average. It’s a solid, no-nonsense fixture that does exactly what it promises — no more, no less.

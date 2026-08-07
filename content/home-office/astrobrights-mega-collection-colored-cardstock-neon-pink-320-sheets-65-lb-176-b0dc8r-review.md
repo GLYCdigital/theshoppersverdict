@@ -1,4 +1,5 @@
 ---
+
 title: "Astrobrights Mega Collection, Colored Cardstock, Neon Pink,"
 seo_title: "Astrobrights Neon Pink Cardstock Review: Mega Collection"
 meta_description: "Astrobrights Mega Collection neon pink cardstock review: 320 sheets, 65 lb cover weight, vibrant color. See how it prints, cuts, and holds up."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DC8RWSYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/816WqzReHxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True neon saturation that doesn't wash out — color is consistent on both sides with no streaking"
   - "65 lb cover weight (176 gsm) feeds reliably through laser printers and home inkjets without jamming"
   - "320-sheet bulk pack breaks down to roughly half the per-sheet cost of craft-store cardstock"
-cons:
+cons: 
   - "Neon pink is aggressively bright — not suitable for long-form text documents or anything requiring readability"
   - "Slight texture means fine-detail die cuts below 0.5 inches may tear at the edges"
+
 ---
 
 If you've ever bought "neon" cardstock that turned out to be a washed-out pastel, the Astrobrights Mega Collection in Neon Pink will be a revelation. This is the real deal — a shade that practically glows under office lighting. But this isn't just about the color. It's about whether 320 sheets of 65 lb cover stock actually earn their place in your workspace. After testing, the answer is a qualified yes.

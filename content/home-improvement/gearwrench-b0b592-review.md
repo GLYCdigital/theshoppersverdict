@@ -1,4 +1,5 @@
 ---
+
 title: "GEARWRENCH"
 seo_title: "GEARWRENCH Review: Worth the Hype? Real Buyer Insights"
 meta_description: "GEARWRENCH review: 4.8-star rated tool with 240+ reviews. We break down performance, durability, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B592HMQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ivNry5tDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "90-tooth ratcheting mechanism delivers a tight 4-degree swing arc — fits where standard 72-tooth ratchets won't"
   - "Full-polish chrome vanadium steel resists corrosion and wipes clean easily after greasy jobs"
   - "Laser-etched size markings stay legible after months of abuse, unlike stamped alternatives that fade"
-cons:
+cons: 
   - "No storage case included — you'll need to supply your own organizer or roll"
   - "The comfort-grip handles add bulk that can be a nuisance in tight engine bays"
   - "Price sits above house-brand equivalents, though the mechanism justifies the premium"
+
 ---
 
 ## The 90-Tooth Difference You Actually Feel

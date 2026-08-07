@@ -1,4 +1,5 @@
 ---
+
 title: "Brother LC406XLCS, LC406XLMS, LC406XLYS 3-Color High Yield I"
 seo_title: "Brother LC406XL 3-Color High Yield Ink Review (2026)"
 meta_description: "Honest Brother LC406XL 3-color high-yield ink review: real-world page yields, print quality, compatibility, and value compared to standard cartridges."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B097NLVWJR/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/71+1elx3MZS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Roughly double the page yield of standard LC406 cartridges — up to 1,200 pages per color at 5% coverage"
   - "Genuine Brother ink with chip recognition — no compatibility warnings, no firmware headaches"
   - "Reliable color consistency across cyan, magenta, and yellow for photo and graphic printing"
-cons:
+cons: 
   - "High-yield markup means you're paying more upfront — savings only materialize if you actually print enough volume"
   - "No black cartridge included in this 3-pack — budget for the LC406XL BK separately"
   - "Some users report chip issues on the yellow cartridge specifically, requiring a reseat to clear error messages"
+
 ---
 
 If you own a Brother printer that takes LC406 cartridges — think the MFC-J1010DW, MFC-J4335DW, or the INKvestment series — you already know the dirty secret: standard-capacity cartridges run dry at the worst possible moment, usually mid-print on something time-sensitive. This 3-pack of high-yield cyan, magenta, and yellow is Brother's answer to that problem. The question is whether the higher upfront cost actually pays off.

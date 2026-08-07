@@ -1,4 +1,5 @@
 ---
+
 title: "Crayola Color Wonder Mess Free Coloring Kit (120ct), 100 Mes"
 seo_title: "Crayola Color Wonder Mess Free Coloring Kit Review: 120ct"
 meta_description: "Our honest Crayola Color Wonder Mess Free Coloring Kit (120ct) review — 100+ mess-free pages, 4.8 stars, real pros & cons. Worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B3SD845N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91vLoKCJExL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "100 mess-free pages included — roughly 3-4 months of daily coloring for most kids"
   - "Markers only write on Color Wonder paper, so walls, furniture, and skin stay clean"
   - "Wide variety of themes keeps kids engaged longer than single-pad sets"
-cons:
+cons: 
   - "Markers dry out faster than standard Crayola markers if caps aren't replaced immediately"
   - "No storage solution included — the box isn't resealable, so you'll need a zip bag or bin"
+
 ---
 
 If you've ever watched a toddler with a washable marker in one hand and your new beige sofa in the other, you already know why the Crayola Color Wonder Mess Free Coloring Kit exists. This 120-count set is the big-box version of Crayola's mess-free line, and with a 4.8-star average across 240 ratings, it's clearly doing something right. But is it worth the shelf space? Let's dig in.

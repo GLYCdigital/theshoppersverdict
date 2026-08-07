@@ -1,4 +1,5 @@
 ---
+
 title: "AmazonBasics Glass Dry-Erase Board"
 seo_title: "AmazonBasics Glass Dry-Erase Board Review (2026): Worth It?"
 meta_description: "Honest AmazonBasics Glass Dry-Erase Board review: durability, ghosting, magnet strength, and who should buy. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B096MPQMR6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51E2LTqBa6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True glass surface resists ghosting and staining far better than melamine boards — wipe clean with a dry cloth"
   - "Built-in aluminum tray holds markers and eraser, saving you $15–20 on accessories"
   - "Includes mounting hardware and template — installable in under 20 minutes with a drill"
-cons:
+cons: 
   - "Markers and eraser NOT included — budget an extra $10–15 for decent dry-erase markers"
   - "Glass is heavy (approx. 15–18 lbs depending on size); requires solid drywall anchors, not just screws"
   - "Magnet strength is adequate but not industrial — heavy magnets or thick documents will slide"
+
 ---
 
 **The Short Version: A Sleek Whiteboard That Won't Ghost On You**

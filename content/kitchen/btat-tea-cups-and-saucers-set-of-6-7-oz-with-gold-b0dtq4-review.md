@@ -1,4 +1,5 @@
 ---
+
 title: "BTaT- Tea Cups and Saucers, Set of 6 (7 oz) with Gold Trim a"
 seo_title: "BTaT Tea Cups and Saucers Set of 6 Review (2026)"
 meta_description: "Honest BTaT tea cups and saucers review: 7 oz porcelain set with gold trim. Is it worth it? Real buyer feedback, durability concerns, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTQ4KTFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UwJczKT8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "7 oz capacity is genuinely useful — large enough for a proper cuppa, small enough for espresso or after-dinner tea"
   - "Gold trim is applied cleanly and evenly; no missed spots or drips in the set"
   - "Saucers are flat and stable — no wobble on uneven surfaces"
-cons:
+cons: 
   - "Gold trim is NOT dishwasher safe — hand-wash only, which several buyers learned the hard way"
   - "Porcelain is on the thinner side; feels delicate when lifted, especially when full"
   - "No stacking lugs — cups nest tightly, making them prone to chipping if stacked without protection"
+
 ---
 
 Here's the thing about tea cups: most sets are either beautiful but fragile, or sturdy but boring. The BTaT 7 oz set tries to hit both — and mostly succeeds, with a few honest caveats.

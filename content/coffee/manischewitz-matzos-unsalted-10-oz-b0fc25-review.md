@@ -1,4 +1,5 @@
 ---
+
 title: "Manischewitz, Matzos Unsalted, 10 Oz"
 seo_title: "Manischewitz, Matzos Unsalted, 10 Oz Review: Verdict | TS"
 meta_description: "Our full manischewitz, matzos unsalted, 10 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FC25NRFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8184j6EEXaL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'll be straight with you: this is a review of a 10-ounce box of unleavened crackers. There's no fancy brewing technology, no temperature control, no grind settings. But if you're shopping for matzo — whether for Passover or year-round pantry staples — you want the facts, not poetry. Here they are.

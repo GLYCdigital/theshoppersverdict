@@ -1,23 +1,25 @@
 ---
+
 title: "Garden Shovel Garden Hand Trowel, Heavy Duty Hand Shovel wit"
 seo_title: "Heavy Duty Garden Hand Trowel Review: Ergonomic & Durable"
 meta_description: "Read our honest review of the heavy duty garden hand trowel with ergonomic handle. Durable, comfortable, and tested by real gardeners. See pros, cons, and verdict."
 slug: "garden-shovel-garden-hand-trowel-heavy-duty-hand-shovel-with-ergonomic-handle-b0f2hr-review"
 image_alt: "Heavy duty garden hand trowel with ergonomic non-slip handle and stainless steel blade"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2HRD9PL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614M-z8cnYL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Full-tang stainless steel blade resists bending even in compacted clay soil"  
   - "Ergonomic handle with soft-grip coating reduces hand fatigue during extended use"  
   - "Hang hole and bright orange handle make it easy to spot in a crowded shed"  
-cons:  
+cons: 
   - "Blade is on the narrower side (about 2.5 inches) — not ideal for moving large volumes of loose soil"  
   - "Handle length is standard (around 11 inches), so taller gardeners may find themselves crouching more than they'd like"
+
 ---
 
 **Opening Hook**  

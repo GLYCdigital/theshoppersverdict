@@ -1,4 +1,5 @@
 ---
+
 title: "Lego Speed Champions 007 Aston Martin DB5 76911 Building Toy"
 seo_title: "Lego Speed Champions 007 Aston Martin DB5 76911 Bu Review"
 meta_description: "Our full lego speed champions 007 aston martin db5 76911 building toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09XWXM8R8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zc0Xk0MFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Lego Speed Champions 007 Aston Martin DB5 (76911) isn't just another brick-built car — it's a love letter to the most famous spy vehicle in cinema history. As shown in the product images, that iconic silver silhouette with the machine-gun headlights and ejector seat translates surprisingly well into brick form. But does it earn its shelf space next to the rest of your Speed Champions collection? Let's break it down.

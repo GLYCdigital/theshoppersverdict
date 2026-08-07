@@ -1,4 +1,5 @@
 ---
+
 title: "Antner 12PCS Zipper Cash Envelopes for Budget Binder, 6-Hole"
 seo_title: "Antner 12PC Zipper Cash Envelopes Review: Budget Binder"
 meta_description: "Antner 12PC zipper cash envelopes review: durable 6-hole design, clear windows, secure zippers. See pros, cons, and if they fit your budget binder."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07KF75YFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oxmInFGJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 0.2mm PVC material withstands daily handling without tearing at the punch holes"
   - "Clear front window makes it easy to spot which envelope holds what without flipping pages"
   - "Smooth dual zippers glide reliably—no snagging or catching on the fabric edge"
-cons:
+cons: 
   - "Envelopes are tight when fully stuffed with coins or bulky receipts—zipper can strain"
   - "6-hole punch fits standard A5 binders only; won't work with 7-ring or disc-bound systems"
+
 ---
 
 If you've ever watched your carefully sorted cash envelopes explode inside your bag, you already know the problem. The Antner 12-pack aims to fix that with a zippered seal and a clear front panel—and for the most part, it succeeds. Here's what 235 buyers (4.7 stars) are actually saying about these budget binder workhorses.

@@ -1,4 +1,5 @@
 ---
+
 title: "Redcat Everest-10 RC Crawler - 1:10 Brushed Electric Rock Cr"
 seo_title: "Redcat Everest-10 RC Crawler - 1:10 Brushed Electr Review"
 meta_description: "Our full redcat everest-10 rc crawler - 1:10 brushed electric rock cr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G35JGL9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91xxz7otjdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: the Redcat Everest-10 is the gateway drug of rock crawling. At 1:10 scale with a 53T brushed motor and a price point that undercuts the Axial SCX10 II by a wide margin, it’s the truck most hobbyists start with — and many never outgrow it.

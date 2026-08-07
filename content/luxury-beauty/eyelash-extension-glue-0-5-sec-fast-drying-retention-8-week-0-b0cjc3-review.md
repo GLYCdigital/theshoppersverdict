@@ -1,4 +1,5 @@
 ---
+
 title: "Eyelash Extension Glue 0.5 Sec Fast Drying/Retention -8 Week"
 seo_title: "Eyelash Extension Glue Review: 0.5 Sec Dry, 8-Week Hold"
 meta_description: "Honest review of 0.5-sec fast-drying eyelash extension glue with 8-week retention. Pros, cons, and who should buy this pro-grade adhesive."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CJC3HRFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Krzj4kThL._SL1000_.jpg"
-pros:
+pros: 
   - "Genuinely fast 0.5-1 second tack time means clients leave with dry, set lashes — no smudging or sticking during the first hour"
   - "Retention holds 5-7 weeks for most users when applied correctly, matching expensive salon-grade adhesives at a fraction of the cost"
   - "Low fume formula that doesn't cause the burning eyes or excessive watering that plagues many quick-set glues"
-cons:
+cons: 
   - "Thin viscosity runs if you're not precise with placement — beginners will waste product and create messy bonds"
   - "Requires 40-50% humidity environment to cure properly; too dry or humid and you'll get brittle or gummy results"
   - "Bottle tip clogs fast if you don't wipe it every single use — keep acetone and a clean cloth nearby"
+
 ---
 
 Let's cut through the marketing. A lash glue that claims 0.5-second drying and 8-week retention is either a game-changer or a gimmick. After digging through 215 ratings and testing this adhesive against competitors in the same price bracket, here's the real story.

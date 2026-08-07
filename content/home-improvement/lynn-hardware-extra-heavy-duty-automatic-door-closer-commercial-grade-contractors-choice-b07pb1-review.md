@@ -1,4 +1,5 @@
 ---
+
 title: "LYNN HARDWARE Extra Heavy Duty Automatic Door Closer - Comme"
 seo_title: "LYNN HARDWARE Extra Heavy Duty Automatic Door Clos Review"
 meta_description: "Our full lynn hardware extra heavy duty automatic door closer - comme review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PB19VMT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HSb7EE4FL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A door closer is one of those products you don't think about until the door slams at 2 a.m. or a gust of wind rips it out of your hand. The LYNN HARDWARE Extra Heavy Duty Automatic Door Closer is aimed at the person who's tired of flimsy residential units and wants something that actually holds up. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's the real story.

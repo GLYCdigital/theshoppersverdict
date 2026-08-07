@@ -1,4 +1,5 @@
 ---
+
 title: "LED Flood Light"
 seo_title: "LED Flood Light Review: Verdict | TSV"
 meta_description: "Our full led flood light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF4ZFDBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q9YlrENfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: most flood lights on Amazon are either too dim to matter or too flimsy to survive a single winter. This one, at 4.7 stars across 235 ratings, sits in a sweet spot. Here's what you're actually getting before you hand over your card.

@@ -1,4 +1,5 @@
 ---
+
 title: "ROVSUN Commercial Bain Marie Buffet Food Warmer, 110V Stainl"
 seo_title: "ROVSUN Commercial Bain Marie Buffet Food Warmer, 1 Review"
 meta_description: "Our full rovsun commercial bain marie buffet food warmer, 110v stainl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9H6KLXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bBn3fyidL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

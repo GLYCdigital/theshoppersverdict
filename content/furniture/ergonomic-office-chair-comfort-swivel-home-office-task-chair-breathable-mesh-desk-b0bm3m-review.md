@@ -1,4 +1,5 @@
 ---
+
 title: "Ergonomic Office Chair, Comfort Swivel Home Office Task Chai"
 seo_title: "Ergonomic Office Chair Review: Comfort Swivel Task Chair (2026)"
 meta_description: "Honest review of the Ergonomic Office Chair with breathable mesh, lumbar support, and swivel function. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BM3M6S86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-kRPzEYPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Breathable mesh back keeps you cool during 8+ hour workdays—no sweaty back syndrome"
   - "Tool-free assembly takes under 15 minutes; all pieces labeled and hardware included"
   - Adjustable seat height and tilt tension accommodate users from 5'2 inch " to 6'1 inch " comfortably
-cons:
+cons: 
   - "Armrests are fixed, not height-adjustable—a dealbreaker for some taller users"
   - "Seat cushion is on the firmer side; heavier users (200+ lbs) report bottoming out after 6 months"
+
 ---
 
 You spend a third of your life sitting. That chair you're eyeing? It's either going to save your spine or slowly dismantle it. The Ergonomic Office Chair with breathable mesh has been sitting pretty on Amazon with a 4.3-star average from 215 ratings. Here's the honest breakdown before you click "Add to Cart."

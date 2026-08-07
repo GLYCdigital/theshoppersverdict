@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Instant Camping Tent with Rainfly, Weather-Res"
 seo_title: "Amazon Basics Instant Tent Review: Quick Setup, Real Value"
 meta_description: "Amazon Basics Instant Camping Tent review: 60-second setup, weather resistance, and real buyer feedback. See if this budget tent delivers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGGPSLB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wqjAmuwOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-attached poles make setup genuinely fast — most buyers report pitching in under 2 minutes after the first try"
   - "Full-coverage rainfly with taped seams handles steady rain without leaking, according to multiple storm-test reviews"
   - Interior height around 5'8 inch " lets average-height adults stand up and change clothes without crouching
-cons:
+cons: 
   - "Carry bag is tight — repacking the pre-bent poles takes effort and patience, a recurring complaint in reviews"
   - "Ventilation is mediocre without the rainfly on; condensation builds up overnight in cooler weather"
   - "Stakes are thin and bend easily in hard or rocky ground — plan to upgrade or bring spares"
+
 ---
 
 If you've ever watched someone wrestle a tent for 45 minutes while the sun goes down, you'll understand why the Amazon Basics Instant Camping Tent has carved out a loyal following. At 4.4 stars across 220 ratings, this is a tent built around one promise: get camp set up before the mosquito swarm finds you. But does the convenience come at a cost? Let's dig into what you're actually getting.

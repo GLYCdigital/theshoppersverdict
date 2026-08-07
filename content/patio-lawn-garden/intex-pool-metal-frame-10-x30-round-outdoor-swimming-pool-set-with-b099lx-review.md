@@ -1,7 +1,8 @@
 ---
-title: "INTEX Pool Metal Frame 10'x30\" Round Outdoor Swimming Pool S"
-seo_title: "INTEX Pool Metal Frame 10'x30\" Round Outdoor Swimm Review"
-meta_description: "Our full intex pool metal frame 10'x30\" round outdoor swimming pool s review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "INTEX Pool Metal Frame 10'x30\ Round Outdoor Swimming Pool S"
+seo_title: "INTEX Pool Metal Frame 10'x30\ Round Outdoor Swimm Review"
+meta_description: "Our full intex pool metal frame 10'x30\ round outdoor swimming pool s review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "intex-pool-metal-frame-10-x30-round-outdoor-swimming-pool-set-with-b099lx-review"
 image_alt: "INTEX Pool Metal Frame 10x30 Round Outdoor Swimming Pool Set with 330 GPH Filter Pump, Pool Cover, and Type H Filter Car"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B099LXZSW9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Pa9Ds08L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The INTEX 10'x30" Metal Frame Pool: The Backyard Summer Hero (With One Big Caveat)**  

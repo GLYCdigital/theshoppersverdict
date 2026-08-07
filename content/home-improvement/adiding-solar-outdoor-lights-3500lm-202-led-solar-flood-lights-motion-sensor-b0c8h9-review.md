@@ -1,4 +1,5 @@
 ---
+
 title: "Adiding Solar Outdoor Lights, 3500LM 202 LED Solar Flood Lig"
 seo_title: "Adiding Solar Outdoor Lights Review: 3500LM Flood Light"
 meta_description: "Honest Adiding Solar Outdoor Lights review: 3500LM, 202 LED, motion sensor. Real performance data, buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C8H9Z1N2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Wc9Al+S0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3500-lumen output with 202 LEDs — bright enough to light a full driveway or backyard, not just a doorway"
   - "Three adjustable light heads with 120° rotation each, letting you aim light exactly where you need it"
   - "IP65 weatherproof rating and aluminum housing that holds up through rain, snow, and summer heat"
-cons:
+cons: 
   - "Solar panel and light are tethered by a 16-foot cable, so mounting requires planning for panel placement"
   - "Battery capacity (2200mAh) limits full-brightness runtime to 4–6 hours on cloudy days — winter performance drops noticeably"
   - "Motion sensor range (26 feet) is adequate but won't cover very wide driveways without angling adjustments"
+
 ---
 
 **The Verdict: A 3500-lumen solar flood light that actually delivers on its brightness claim — if you can manage the wiring and panel placement.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Kraft Classic Catalina Salad Dressing"
 seo_title: "Kraft Classic Catalina Salad Dressing Review: Verdict | T"
 meta_description: "Our full kraft classic catalina salad dressing review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHR1DSFK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wdTCulyuL._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Real-World Performance: The Flavor Profile**

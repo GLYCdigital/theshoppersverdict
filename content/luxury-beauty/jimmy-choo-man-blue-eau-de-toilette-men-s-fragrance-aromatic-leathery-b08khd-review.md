@@ -1,4 +1,5 @@
 ---
+
 title: "JIMMY CHOO - Man Blue Eau de Toilette - Men's Fragrance - Ar"
 seo_title: "JIMMY CHOO - Man Blue Eau de Toilette - Men's Frag Review"
 meta_description: "Our full jimmy choo - man blue eau de toilette - men's fragrance - ar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08KHD63S2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aZYBufIkL._SL1024_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JIMMY CHOO Man Blue EDT: The Aromatic Leather That Doesn't Play It Safe

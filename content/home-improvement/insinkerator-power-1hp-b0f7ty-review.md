@@ -1,4 +1,5 @@
 ---
+
 title: "InSinkErator Power 1HP"
 seo_title: "InSinkErator Power 1HP Review: Verdict | TSV"
 meta_description: "Our full insinkerator power 1hp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7TYXJ37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jEQsdaHXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most garbage disposals are the same gray box under your sink, and most reviews you'll read are indistinguishable from one another. The InSinkErator Power 1HP is different — not because it's flashy, but because it's one of the few residential disposals that actually feels like a commercial-grade unit without the commercial-grade price tag. With 229 Amazon ratings averaging 4.6 stars, the consensus is clear, but let's dig into whether it's the right pick for *your* kitchen.

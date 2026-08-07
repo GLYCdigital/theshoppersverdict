@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings | R16 Velo Baseball Batting Helmet | Matte | JR & S"
 seo_title: "Rawlings | R16 Velo Baseball Batting Helmet | Matt Review"
 meta_description: "Our full rawlings | r16 velo baseball batting helmet | matte | jr & s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DP96LFVT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pQwym0CyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A Helmet That Actually Fits Like It Should

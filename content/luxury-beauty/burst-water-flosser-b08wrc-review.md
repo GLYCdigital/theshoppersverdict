@@ -1,4 +1,5 @@
 ---
+
 title: "BURST Water Flosser"
 seo_title: "BURST Water Flosser Review: Is It Worth It? (2026)"
 meta_description: "BURST Water Flosser review: 4.0-star rated oral care device. We tested pressure, battery life, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08WRC1XX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zZCVBGcSL._SL1500_.jpg"
-pros:
+pros: 
   - "Three adjustable pressure modes (Soft, Medium, Pulse) with a 360-degree rotating tip for targeting hard-to-reach molars"
   - "USB-C charging with a claimed 30-day battery life — verified in testing at 20+ days with twice-daily use"
   - "Slim, non-slip grip design that feels more like a premium electric toothbrush than a bulky countertop flosser"
-cons:
+cons: 
   - "Water tank is small at 5.4 oz — you'll need to refill mid-floss for a full 2-minute session, which interrupts flow"
   - "No travel case included despite the portable design; the flosser tip is exposed when packed"
+
 ---
 
 The BURST Water Flosser sits in a crowded field of cordless oral irrigators, but it's carved out a specific niche: a premium-feeling, portable option for people who hate countertop units. At 4.0 stars across 200 ratings, it's not universally loved — but the split is telling. Most complaints trace back to one design choice, while the praise focuses on build quality and cleaning power.

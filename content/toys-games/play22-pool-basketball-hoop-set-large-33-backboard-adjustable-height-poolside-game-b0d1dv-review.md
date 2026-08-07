@@ -1,7 +1,8 @@
 ---
-title: "Play22 Pool Basketball Hoop Set - Large 33\" Backboard, Adjus"
-seo_title: "Play22 Pool Basketball Hoop Set - Large 33\" Backbo Review"
-meta_description: "Our full play22 pool basketball hoop set - large 33\" backboard, adjus review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Play22 Pool Basketball Hoop Set - Large 33\ Backboard, Adjus"
+seo_title: "Play22 Pool Basketball Hoop Set - Large 33\ Backbo Review"
+meta_description: "Our full play22 pool basketball hoop set - large 33\ backboard, adjus review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "play22-pool-basketball-hoop-set-large-33-backboard-adjustable-height-poolside-game-b0d1dv-review"
 image_alt: "Play22 Pool Basketball Hoop Set - Large 33 Backboard, Adjustable Height Poolside Game with 7-Gal Water Bag in Base (58 l"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D1DVPCP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Pu-8n4bQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the pool toy that actually gets used, or the one that rusts in the shed by July?**

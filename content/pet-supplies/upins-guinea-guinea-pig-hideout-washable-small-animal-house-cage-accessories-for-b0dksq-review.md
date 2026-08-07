@@ -1,4 +1,5 @@
 ---
+
 title: "UPINS Guinea Guinea Pig Hideout Washable Small Animal House "
 seo_title: "UPINS Guinea Guinea Pig Hideout Washable Small Ani Review"
 meta_description: "Our full upins guinea guinea pig hideout washable small animal house  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKSQ7NQQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wwBRgPhUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A washable hideout that actually survives guinea pig life — and your washing machine.**

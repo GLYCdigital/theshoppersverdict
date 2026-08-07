@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Cat Tree Indoor Climbing Activity Tower with S"
 seo_title: "Amazon Basics Cat Tree Review: Worth It? Real Buyer Insights"
 meta_description: "Honest Amazon Basics Cat Tree review: build quality, scratching posts, stability, and what 225 buyers say. Is this budget tower worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRDM56Q7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vod5IjZRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Surprisingly sturdy base for the price point — multiple buyers note it holds up to 15+ lb cats without wobble"
   - "Sisal-wrapped posts are dense and take real scratching abuse; several reviewers report months of daily use before fraying"
   - "Assembly takes under 15 minutes with clear instructions and all tools included — no frustrating hardware guessing"
-cons:
+cons: 
   - "Faux fur covering sheds noticeably during first week — expect to vacuum daily until it settles"
   - "Top perch is snug for larger breeds (Maine Coons, big tomcats); a 12 lb cat fits, but anything bigger looks cramped"
   - "Base platform lacks added weight — on thick carpet it's fine, but on hardwood it can slide during energetic jumps"
+
 ---
 
 ## Is the Amazon Basics Cat Tree Actually Worth Your Money?

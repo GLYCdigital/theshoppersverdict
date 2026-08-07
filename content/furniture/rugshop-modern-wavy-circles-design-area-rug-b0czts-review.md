@@ -1,4 +1,5 @@
 ---
+
 title: "Rugshop Modern Wavy Circles Design Area Rug"
 seo_title: "Rugshop Modern Wavy Circles Design Area Rug Review: Verdi"
 meta_description: "Our full rugshop modern wavy circles design area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZTSG47Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kwqhWBxeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most area rugs under $150 are disposable. The Rugshop Modern Wavy Circles breaks that pattern — mostly. With 220 Amazon ratings averaging 4.4 stars, this rug is clearly doing something right. But is it right for *your* living room? Here's the unvarnished truth.

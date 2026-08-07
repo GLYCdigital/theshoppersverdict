@@ -1,4 +1,5 @@
 ---
+
 title: "Dell OptiPlex 7020 MFF Mini PC"
 seo_title: "Dell OptiPlex 7020 MFF Review: Compact Office Power (2026)"
 meta_description: "Dell OptiPlex 7020 MFF Mini PC review: Is this tiny desktop worth it? Real performance, build quality, and buyer feedback — honest verdict for office use."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVS82NRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y-HvaYvWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - True micro form factor — roughly 7 inch " x 7 inch " x 1.4 inch " — mounts behind a monitor and disappears entirely
   - "13th-gen Intel Core processors (up to i7) deliver desktop-class performance in a chassis smaller than a hardcover book"
   - "VESA mount bracket and 65W power adapter included in the box — no hidden accessory costs"
-cons:
+cons: 
   - "No discrete GPU option — integrated Intel UHD graphics only, so forget gaming or heavy video editing"
   - "Proprietary Dell power connector and motherboard layout limit upgrade paths and DIY repairs"
   - "Fan can become audible under sustained load — noticeable in dead-silent offices"
+
 ---
 
 Let's get one thing straight: most "mini PCs" on Amazon are cheap Chinese boxes with questionable build quality and even more questionable BIOS support. The Dell OptiPlex 7020 MFF is not that. This is the same hardware Dell ships to enterprise clients by the thousands, and that pedigree shows — but it also carries some enterprise quirks you need to know about before you click buy.

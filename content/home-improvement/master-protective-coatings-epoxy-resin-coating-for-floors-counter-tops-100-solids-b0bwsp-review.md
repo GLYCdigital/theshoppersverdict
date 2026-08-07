@@ -1,4 +1,5 @@
 ---
+
 title: "Master Protective Coatings Epoxy Resin Coating for Floors & "
 seo_title: "Master Protective Coatings Epoxy Resin Coating for Review"
 meta_description: "Our full master protective coatings epoxy resin coating for floors &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BWSPS19Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710iop2pv1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a stained, dusty garage floor and wondering whether a $100 epoxy kit will actually hold up — the Master Protective Coatings 100% Solids Epoxy is one of the few consumer-grade options that takes the job seriously. But it's not a beginner-friendly weekend project. Here's what you need to know before you mix that first batch.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fimibuke Kids Insulated Tumbler with Handle & Straw - 16oz L"
 seo_title: "Fimibuke Kids Insulated Tumbler Review: 16oz Leak-Proof Cup"
 meta_description: "Fimibuke 16oz kids insulated tumbler review: leak-proof straw cup with handle. Tested for spills, durability, and cold retention. See if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D78Z4CYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LJTQD7QML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall vacuum insulation keeps drinks cold for 6+ hours (verified by multiple reviewers)"
   - "Genuinely leak-proof when the straw is closed — survives being thrown, dropped, and tossed in a diaper bag"
   - "16oz capacity hits the sweet spot for ages 3-7; fits standard cup holders and most car seat holders"
-cons:
+cons: 
   - "Straw is on the thin side — some kids bite through it within a few months; replacements require contacting the seller"
   - "Hand wash only despite the 'dishwasher safe' claims in some listings; the lid warps in the top rack"
+
 ---
 
 Let me cut through the noise on this one. The **Fimibuke Kids Insulated Tumbler** is a 16-ounce stainless steel cup aimed at the toddler-to-early-elementary crowd, and it's currently sitting at 4.4 stars from 220 ratings. That's a solid score, but the real question is whether it holds up to actual kid abuse. Here's the honest breakdown after digging through buyer experiences.

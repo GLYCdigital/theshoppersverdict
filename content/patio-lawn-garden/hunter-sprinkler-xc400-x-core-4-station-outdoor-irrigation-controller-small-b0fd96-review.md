@@ -1,4 +1,5 @@
 ---
+
 title: "Hunter Sprinkler XC400 X-Core 4-Station Outdoor Irrigation C"
 seo_title: "Hunter Sprinkler XC400 X-Core 4-Station Outdoor Ir Review"
 meta_description: "Our full hunter sprinkler xc400 x-core 4-station outdoor irrigation c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FD96JYS5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AAs8+AltL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a bare patch of lawn because your old controller finally gave up, the Hunter XC400 X-Core deserves a hard look. It's the kind of irrigation controller that doesn't try to be flashy — it just waters your yard reliably, season after season. With 235 Amazon ratings averaging 4.7 out of 5, the consensus is clear: this is a workhorse. But "reliable" and "smart" are two different things, and that distinction matters.

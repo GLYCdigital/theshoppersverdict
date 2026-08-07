@@ -1,4 +1,5 @@
 ---
+
 title: "Thermalright Frozen Prism 240 Series Liquid CPU Water Cooler"
 seo_title: "Thermalright Frozen Prism 240 Series Liquid CPU Wa Review"
 meta_description: "Our full thermalright frozen prism 240 series liquid cpu water cooler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C5Q66SMQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Wpv-LKr5L._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Thermalright Frozen Prism 240 isn't trying to be the flashiest AIO on the shelf. It's not chasing 360mm radiator bragging rights or gimmicky LCD screens. What it delivers is something arguably more useful: dependable liquid cooling that doesn't punish your wallet or your patience during installation. With 220 Amazon ratings averaging 4.4 stars, this cooler has quietly built a reputation among builders who care more about results than RGB spectacle.

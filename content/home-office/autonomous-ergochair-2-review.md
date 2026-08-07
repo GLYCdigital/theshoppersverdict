@@ -1,4 +1,5 @@
 ---
+
 title: "Autonomous ErgoChair 2 inch"
 seo_title: "Autonomous ErgoChair 2 Review: Worth It in 2026?"
 meta_description: "Autonomous ErgoChair 2 review: 4.3/5 rating. We test adjustability, build quality, and comfort for $523. Is this ergonomic chair worth it?"
@@ -11,13 +12,14 @@ review_count: 29
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FL2F3W34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YR-loNGqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Front-tilt mechanism and 4D armrests match chairs costing twice as much; armrests adjust in height, depth, width, and angle"
   - "Breathable mesh back with dynamic lumbar support that actually moves with your spine rather than pressing into it"
   - "Tilt tension dial is smooth and progressive — no dead zone at the start of recline like cheaper chairs"
-cons:
+cons: 
   - "Seat cushion is noticeably firm for the first 2-3 weeks; lighter users (under 150 lbs) may find it uncomfortable initially"
   - "Assembly requires two people — the backrest bolts are awkwardly positioned and the included Allen wrench strips easily"
+
 ---
 
 The $500 ergonomic chair market is a minefield. You've got knockoff Aeron clones, gamer chairs with more RGB than lumbar support, and then there's the Autonomous ErgoChair 2 — a chair that's been quietly building a following among remote workers since 2018. At $523.95, it sits in a weird middle ground: cheaper than a Herman Miller, pricier than an Amazon Basics. After spending three weeks with it, here's what you're actually getting.

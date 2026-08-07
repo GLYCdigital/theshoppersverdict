@@ -1,4 +1,5 @@
 ---
+
 title: "RealFlight"
 seo_title: "RealFlight Review: Verdict | TSV"
 meta_description: "Our full realflight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLLF88P2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XjFiuYaRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt about what RealFlight is: it's the closest thing to a flight school for RC pilots that you can buy for $200. It's also the same price as a decent beginner drone. So the real question isn't whether it's good — it's whether you're the kind of pilot who actually needs it.

@@ -1,4 +1,5 @@
 ---
+
 title: "Park Tool CCP-22 Crank Puller"
 seo_title: "Park Tool CCP-22 Crank Puller Review: Verdict | TSV"
 meta_description: "Our full park tool ccp-22 crank puller review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001VS1M20/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iKIuRFv4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've just spent an hour wrestling a stubborn crank arm off an old bike, only to realize you're about to strip the threads and turn a $30 repair into a $150 replacement. That's exactly the scenario the Park Tool CCP-22 was built to prevent. This is the tool that separates people who work on bikes from people who own tools that look like they work on bikes. After 235 Amazon ratings averaging 4.7 stars, the consensus is clear: this is the crank puller to buy if you only buy one.

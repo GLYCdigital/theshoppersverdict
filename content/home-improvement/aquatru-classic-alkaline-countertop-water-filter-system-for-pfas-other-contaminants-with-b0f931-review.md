@@ -1,4 +1,5 @@
 ---
+
 title: "AquaTru Classic Alkaline Countertop Water Filter System for"
 seo_title: "AquaTru Classic Alkaline Countertop Filter Review (2026)"
 meta_description: "AquaTru Classic Alkaline countertop filter review: 4-star rated. Removes PFAS, adds minerals. Real pros, cons, and who should buy it."
@@ -11,15 +12,16 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F931XDMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Four-stage filtration including activated carbon block certified to remove PFAS, lead, and 70+ other contaminants — verified by independent lab testing"
   - "Alkaline remineralization stage raises pH to 9.5+ and adds beneficial minerals (calcium, magnesium, potassium) without needing a separate pitcher"
   - "No installation required — sets up in under 5 minutes on any countertop, no plumbing or drilling needed"
   - "Replacement filters last 6 months or 600 gallons, costing roughly $0.30/day versus bottled water at $1.50+/day"
-cons:
+cons: 
   - Countertop footprint is substantial — measures 13.5 inch " deep x 10 inch " wide, which will dominate a small kitchen counter
   - "Filter replacements run $89.99 per set, and the system requires two cartridges (pre-filter + RO membrane) replaced on different schedules"
   - "Filtration speed is slow — produces about 0.5 gallons per hour, so you'll wait 6-8 minutes to fill a standard water bottle"
+
 ---
 
 You've seen the headlines about PFAS in tap water. You've also seen the price tags on whole-home filtration systems that require a plumber and a second mortgage. The AquaTru Classic Alkaline sits in the middle — a countertop unit that promises lab-grade purification without the installation headache. With a 4.0-star average across 200 ratings, it's clearly working for many households. But is it right for yours?

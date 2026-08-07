@@ -1,4 +1,5 @@
 ---
+
 title: "Instinct Raw Boost Gut Health Chicken Natural Dry Dog Food"
 seo_title: "Instinct Raw Boost Gut Health Chicken Natural Dry  Review"
 meta_description: "Our full instinct raw boost gut health chicken natural dry dog food review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08P3SBYBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710b+QXxZqL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog's digestion has you on a first-name basis with your vet, you've probably already stared at this bag. Instinct Raw Boost Gut Health isn't just another chicken kibble — it's a targeted formula that pairs high-protein kibble with freeze-dried raw pieces and a specific fiber/probiotic blend designed to firm up stools and calm sensitive stomachs. With a 4.4-star average across 220 ratings, it's clearly working for a lot of dogs. But it's also pricey, and it won't fix every digestive issue. Here's the honest breakdown.

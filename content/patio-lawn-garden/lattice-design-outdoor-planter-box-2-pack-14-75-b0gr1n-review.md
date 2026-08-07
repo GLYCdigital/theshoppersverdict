@@ -1,4 +1,5 @@
 ---
+
 title: "Lattice Design Outdoor Planter Box 2-Pack - 14.75â€"
 seo_title: "Lattice Design Outdoor Planter Box 2-Pack - 14.75â Review"
 meta_description: "Our full lattice design outdoor planter box 2-pack - 14.75â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GR1NT6S6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614U-SBJvvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this lattice planter box a garden gem or a plastic headache? Let's break down what 190 buyers are saying.**

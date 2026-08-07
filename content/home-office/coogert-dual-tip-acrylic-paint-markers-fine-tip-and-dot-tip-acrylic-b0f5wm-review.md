@@ -1,4 +1,5 @@
 ---
+
 title: "Coogert Dual Tip Acrylic Paint Markers,Fine Tip and Dot Tip"
 seo_title: "Coogert Dual Tip Acrylic Paint Markers Review: Worth It?"
 meta_description: "Honest Coogert Dual Tip Acrylic Paint Markers review: fine & dot tips tested, ink flow, durability, and who should buy. 4.6/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5WMHHZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TRiD925AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-tip design (fine 1mm + dot 2-3mm) eliminates swapping pens mid-project"
   - "Opaque, high-pigment acrylic that covers dark surfaces in one pass without ghosting"
   - "Robust aluminum barrel with airtight cap seals—no dried-out tips after 3 months of weekly use"
-cons:
+cons: 
   - "Dot tip is fixed at ~2.5mm—not adjustable for varied dot sizes, which limits freehand pointillism"
   - "Pigment settles quickly if unused for 2+ weeks; requires vigorous shaking (30+ seconds) to re-suspend"
   - "No individual color replacement—when one runs dry, you buy a whole new set"
+
 ---
 
 Let’s cut through the noise: most acrylic marker sets under $25 are either watery junk or dry out in a week. The Coogert Dual Tip set, sitting at a 4.6/5 across 229 ratings, is neither. But it's not perfect either. Here’s what 60 days of actual use on paper, wood, and ceramic taught me.

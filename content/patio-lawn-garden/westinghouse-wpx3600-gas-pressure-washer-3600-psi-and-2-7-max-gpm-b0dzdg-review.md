@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse WPX3600 Gas Pressure Washer, 3600 PSI and 2.7 M"
 seo_title: "Westinghouse WPX3600 Gas Pressure Washer, 3600 PSI Review"
 meta_description: "Our full westinghouse wpx3600 gas pressure washer, 3600 psi and 2.7 m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DZDGN9VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EQc1q7yUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a gas pressure washer, you've seen the spec-sheet wars: 3,400 PSI here, 3,600 PSI there. But here's what actually matters — flow rate (GPM) and pump durability. The Westinghouse WPX3600 pairs 3,600 PSI with a genuinely useful 2.7 GPM, which means you're moving real water volume, not just pressure. That combination is what strips years of grime off a driveway in one pass instead of three.

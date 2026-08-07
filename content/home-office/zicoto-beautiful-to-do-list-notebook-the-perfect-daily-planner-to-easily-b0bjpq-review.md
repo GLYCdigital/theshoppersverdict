@@ -1,4 +1,5 @@
 ---
+
 title: "ZICOTO Beautiful To Do List Notebook - The Perfect Daily Pla"
 seo_title: "ZICOTO Beautiful To Do List Notebook - The Perfect Review"
 meta_description: "Our full zicoto beautiful to do list notebook - the perfect daily pla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJPQRLMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IyOhBUH3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this planner actually worth your desk space?

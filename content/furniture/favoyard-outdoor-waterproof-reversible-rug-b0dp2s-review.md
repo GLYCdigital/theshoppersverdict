@@ -1,4 +1,5 @@
 ---
+
 title: "Favoyard Outdoor Waterproof Reversible Rug"
 seo_title: "Favoyard Outdoor Waterproof Reversible Rug Review (2026)"
 meta_description: "Honest Favoyard outdoor waterproof reversible rug review: durability, cleaning, real buyer feedback, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP2SVS1G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jusHjWSeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True two-sided design — flip it for a completely different look, effectively doubling the rug's lifespan"
   - "Waterproof backing and top layer handle rain, spills, and pet accidents without soaking through to your deck"
   - "Fade-resistant polypropylene construction holds color even in direct, unrelenting summer sun"
-cons:
+cons: 
   - "Thinner profile (roughly 5-6mm) means less cushioning underfoot than indoor plush rugs — fine for patios, not for barefoot lounging on concrete"
   - "Edges can curl slightly at the corners until the rug fully settles, especially in high heat"
   - "No non-slip rubber backing — you'll want a pad underneath for high-traffic or windy areas"
+
 ---
 
 You know the drill: you buy an "outdoor" rug in May, and by August it's a sun-bleached, mildew-smelling shadow of its former self. The Favoyard Outdoor Waterproof Reversible Rug (4.6 stars, 229 ratings) is trying to break that cycle. Here's whether it actually does.

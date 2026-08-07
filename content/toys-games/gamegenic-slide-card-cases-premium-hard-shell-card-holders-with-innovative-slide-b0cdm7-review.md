@@ -1,4 +1,5 @@
 ---
+
 title: "Gamegenic Slide Card Cases - Premium Hard-Shell Card Holders"
 seo_title: "Gamegenic Slide Card Cases Review: Premium Hard Shell"
 meta_description: "Gamegenic Slide Card Cases review: premium hard-shell card holders in 3 sizes. Are they worth it? Real buyer feedback, sizing guide & verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CDM7BWBX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5191Y-0X92L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Sliding top-load design protects cards without the pinch risk of clam-shell cases — no more cracked corners from careless closing"
   - "Rigid polypropylene shell at roughly 1.5mm thick offers real protection in bags and deck boxes, not just dust coverage"
   - "Three sizes (55x87mm, 66x91mm, 66x108mm) cover standard, Japanese, and oversized cards like Pokemon or board game tokens"
-cons:
+cons: 
   - "The slide mechanism can be stiff on brand-new units; you'll need to work it a few times to loosen it up"
   - "Some buyers report a slightly loose fit for cards with standard sleeves — penny sleeves slide around inside the case"
   - "No UV protection, so long-term display in direct sunlight will still fade your cards"
+
 ---
 
 Let me be blunt: most card cases are either flimsy penny sleeves or over-engineered bricks that cost more than the card inside. The Gamegenic Slide Card Cases sit in a sweet spot — but they're not perfect.

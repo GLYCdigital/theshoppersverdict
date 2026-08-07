@@ -1,4 +1,5 @@
 ---
+
 title: "MIYADIVA Magnifying Mirror, Small Compact Travel Mirror with"
 seo_title: "MIYADIVA Magnifying Mirror, Small Compact Travel M Review"
 meta_description: "Our full miyadiva magnifying mirror, small compact travel mirror with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQHKQ2Z7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MO32MoY4L._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most compact travel mirrors are cheap plastic junk that lives at the bottom of a cosmetics bag, fogging up and scratching within a month. The MIYADIVA Magnifying Mirror tries to be different — it's a dual-sided pocket mirror with a suction cup mount and a bonus tweezers set, all aimed at the "I need precision on the go" crowd.

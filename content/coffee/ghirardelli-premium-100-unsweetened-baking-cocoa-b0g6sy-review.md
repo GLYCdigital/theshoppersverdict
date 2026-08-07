@@ -1,4 +1,5 @@
 ---
+
 title: "GHIRARDELLI Premium 100% Unsweetened Baking Cocoa"
 seo_title: "GHIRARDELLI Premium 100% Unsweetened Baking Cocoa Review:"
 meta_description: "Our full ghirardelli premium 100% unsweetened baking cocoa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6SYYSGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8179eBnQ7-L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about this: GHIRARDELLI Premium 100% Unsweetened Baking Cocoa is the cocoa powder that makes you wonder why you ever bought the cheap stuff. At 4.7 stars from 235 Amazon ratings, it's clearly doing something right. Here's the full story.

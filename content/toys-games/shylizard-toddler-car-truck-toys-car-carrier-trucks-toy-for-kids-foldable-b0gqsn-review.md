@@ -1,4 +1,5 @@
 ---
+
 title: "ShyLizard Toddler Car Truck Toys,Car Carrier Trucks Toy for "
 seo_title: "ShyLizard Toddler Car Truck Toys,Car Carrier Truck Review"
 meta_description: "Our full shylizard toddler car truck toys,car carrier trucks toy for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQSNWXXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ae-iDjYUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If your toddler treats toy cars like a demolition derby, this ShyLizard carrier truck is built to survive. But it's the foldable two-level deck that makes it a standout — a feature you rarely see at this price point. The included mini cars are the weak link, so budget for replacements.

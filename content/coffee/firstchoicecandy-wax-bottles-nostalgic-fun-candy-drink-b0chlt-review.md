@@ -1,4 +1,5 @@
 ---
+
 title: "FirstChoiceCandy Wax Bottles Nostalgic Fun Candy Drink"
 seo_title: "FirstChoiceCandy Wax Bottles Review: Nostalgic Soda Pop Candy"
 meta_description: "FirstChoiceCandy Wax Bottles review: 210+ ratings, 4.2 stars. We tested the nostalgic candy drink — flavor, wax quality, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CHLT4289/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Uv03AwZ+L._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely authentic retro experience — the wax shell, the snap-top opening, the tiny syrup sip. It's the real thing, not a modern reinterpretation."
   - "Flavor syrup inside is surprisingly bold and sweet — the cola and blue raspberry varieties taste distinctly like their soda counterparts, not watered-down sugar water."
   - "Great value per piece — you get a substantial number of bottles per bag, making it a solid party favor or classroom treat option."
-cons:
+cons: 
   - "Wax quality varies between batches — some bottles arrive with brittle wax that cracks unevenly instead of snapping cleanly at the top, which can splinter into pieces in your mouth."
   - "The syrup-to-wax ratio is heavily weighted toward wax — you get a tiny sip of liquid and then a long, chewy wax experience that some kids find tedious."
   - "Not a candy for the impatient — you have to chew the wax thoroughly to release all the flavor, and swallowing wax chunks (which some kids do) is not a pleasant experience."
+
 ---
 
 Let's be honest about what these are: tiny wax bottles filled with a thimble of sugary syrup. They're not gourmet chocolate, and they're not a hydration drink. They're a time machine. And on that specific job, the FirstChoiceCandy Wax Bottles deliver.

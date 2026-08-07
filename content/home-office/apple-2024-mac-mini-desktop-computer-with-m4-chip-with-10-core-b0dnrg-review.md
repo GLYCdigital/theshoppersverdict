@@ -1,4 +1,5 @@
 ---
+
 title: "Apple 2024 Mac mini Desktop Computer with M4 chip with 10â€‘"
 seo_title: "Apple M4 Mac mini Review: Compact Powerhouse for Desks"
 meta_description: "Read our hands-on Apple 2024 Mac mini M4 review. Tiny footprint, huge performance, 10-core GPU. See who should buy it, real tradeoffs, and our verdict."
@@ -11,14 +12,15 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0DNRGQ44G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615y53Ws-NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "10-core CPU/GPU delivers desktop-class performance in a 5x5 inch chassis — handles 4K video edits and heavy code compiles without fan noise"
   - "16GB unified memory standard — the base model finally runs 20+ browser tabs plus Lightroom without swapping"
   - "Front-facing USB-C ports are a long-overdue ergonomic win for flash drives and phone cables"
-cons:
+cons: 
   - "Still ships with 256GB storage on the base model — you'll pay Apple's premium to upgrade to 512GB"
   - "No SD card slot or USB-A on the front — content creators will need a hub for camera cards"
   - "Built-in speaker is genuinely bad for music — plan on external speakers or headphones from day one"
+
 ---
 
 ## The 5x5 box that replaced my tower

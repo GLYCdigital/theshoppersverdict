@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco UFO 200W High Bay LED Light, 28000 Lumens, 6000K, IP65"
 seo_title: "Sunco UFO 200W High Bay LED Light, 28000 Lumens, 6 Review"
 meta_description: "Our full sunco ufo 200w high bay led light, 28000 lumens, 6000k, ip65 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DGRW26CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UTvrOLSkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're lighting a warehouse, workshop, or commercial garage, you know the drill: cheap high bay lights either die in 18 months or produce that sickly, uneven glow that makes everything look like a crime scene. The Sunco UFO 200W sits in a crowded field of budget-friendly LED high bays, but it earns its keep with specs that mostly hold up under scrutiny. Having tested this against similar units in the 150W–240W range, here's the honest breakdown.

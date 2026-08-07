@@ -1,4 +1,5 @@
 ---
+
 title: "Arris (G18) - Cable Modem Router Combo - Fast DOCSIS 3.1 Mul"
 seo_title: "Arris G18 Modem Router Combo Review: Worth It? (2026)"
 meta_description: "Arris G18 DOCSIS 3.1 modem router combo review: speeds, compatibility, setup, and real buyer feedback. Is this multi-gig unit right for your office?"
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DV1VFFVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510v5MQ3lqL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "2.5 Gbps Ethernet WAN port actually delivers beyond gigabit speeds if your ISP plan supports it"
   - "Built-in DOCSIS 3.1 supports full-duplex on most major cable providers without an activation fee"
   - "Compact vertical tower design takes up less desk space than typical modem/router stacks"
-cons:
+cons: 
   - "Wi-Fi range is mediocre — several buyers report dead zones beyond 40 feet through walls"
   - "Setup requires phone activation with some ISPs; no web-based provisioning on first boot"
   - "No separate Wi-Fi band steering toggle; 2.4GHz and 5GHz are combined with no option to split"
+
 ---
 
 Let's be direct: the Arris G18 is a solid modem wrapped in a frustratingly average router. If you're shopping for an office or home workspace combo unit, here's what 190 Amazon reviewers have figured out the hard way.

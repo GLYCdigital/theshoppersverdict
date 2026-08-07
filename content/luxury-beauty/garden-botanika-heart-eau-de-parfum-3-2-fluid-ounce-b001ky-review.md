@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Botanika Heart Eau De Parfum, 3.2 Fluid Ounce"
 seo_title: "Garden Botanika Heart Eau De Parfum, 3.2 Fluid Oun Review"
 meta_description: "Our full garden botanika heart eau de parfum, 3.2 fluid ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001KYQBUI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lNXa48QOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, most fragrances in this price bracket are one of two things: a thin, alcohol-forward eau de toilette that evaporates by lunch, or a syrupy celebrity juice that screams from across the room. Garden Botanika Heart Eau De Parfum sits in a genuinely rare third space — a proper eau de parfum concentration (typically 15-20% aromatic compounds) in a generous 3.2-ounce flacon that respects both your nose and your wallet.

@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA Gaming Desk 74.8'' with LED Lights, Hutch and Storage"
 seo_title: "SEDETA Gaming Desk 74.8'' with LED Lights, Hutch a Review"
 meta_description: "Our full sedeta gaming desk 74.8'' with led lights, hutch and storage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5CK4H61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sxtXqyo7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: most gaming desks under $200 are flimsy pressboard with a cup holder glued on. The SEDETA 74.8-inch Gaming Desk with LED lights, hutch, and storage is not that. It’s a 4.6-star rated workstation with 229 verified ratings, and it’s clearly aimed at gamers who’ve outgrown the "dorm room" aesthetic but don’t want to drop $600 on a standing desk.

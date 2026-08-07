@@ -1,4 +1,5 @@
 ---
+
 title: "FTZVRD Low Profile Ceiling Fans with Lights and Remote"
 seo_title: "FTZVRD Low Profile Ceiling Fan Review: Slim, Smart, Worth It?"
 meta_description: "FTZVRD low profile ceiling fan with light and remote: 4.5-star rated. Is it the right flush-mount fan for low ceilings? Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCB9WNS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71awqW9Do1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True flush mount design sits less than 10 inches from ceiling, clearing standard 8-foot door swings"
   - "Integrated 24W LED delivers 3000K-5000K color temperature adjustability without buying extra bulbs"
   - "Silent DC motor with 6-speed control and reverse function runs cooler than AC equivalents"
-cons:
+cons: 
   - "Remote-only operation — no wall switch included, so you'll need to keep the remote within reach"
   - "Light output (around 1800 lumens) is adequate for bedrooms but underwhelming for large living areas"
+
 ---
 
 ## The Low-Ceiling Savior That Actually Delivers

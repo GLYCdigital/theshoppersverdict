@@ -1,4 +1,5 @@
 ---
+
 title: "Jonathan Y SEU100A-14 Haze Solid Low-Pile Indoor Area Rug"
 seo_title: "Jonathan Y SEU100A-14 Haze Solid Low-Pile Indoor A Review"
 meta_description: "Our full jonathan y seu100a-14 haze solid low-pile indoor area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPM49ZG9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1dQV5b9OzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Jonathan Y Haze rug is the budget-friendly workhorse your entryway or office has been waiting for — if you can survive the first week's odor.**

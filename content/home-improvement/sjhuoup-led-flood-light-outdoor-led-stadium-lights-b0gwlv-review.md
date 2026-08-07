@@ -1,4 +1,5 @@
 ---
+
 title: "SJHUOUP LED Flood Light Outdoor,Led Stadium Lights"
 seo_title: "SJHUOUP LED Flood Light Outdoor,Led Stadium Lights Review"
 meta_description: "Our full sjhuoup led flood light outdoor,led stadium lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GWLV8LQC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610ZfV1jIkL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Last Flood Light You'll Buy?

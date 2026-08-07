@@ -1,4 +1,5 @@
 ---
+
 title: "MEXO Modern Glass Chandeliers"
 seo_title: "MEXO Modern Glass Chandeliers Review: Verdict | TSV"
 meta_description: "Our full mexo modern glass chandeliers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKBDXB3K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51od5F7TqhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The MEXO Modern Glass Chandelier has 225 ratings averaging 4.5 stars, and after digging through the feedback and spec sheet, here's what actually matters before you buy.**

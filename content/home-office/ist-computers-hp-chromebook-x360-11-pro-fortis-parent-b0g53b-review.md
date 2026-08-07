@@ -1,4 +1,5 @@
 ---
+
 title: "ist computers HP Chromebook X360 11 Pro Fortis Parent"
 seo_title: "ist computers HP Chromebook X360 11 Pro Fortis Par Review"
 meta_description: "Our full ist computers hp chromebook x360 11 pro fortis parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G53BWDJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k0QqhaqGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The HP Chromebook X360 11 Pro Fortis is the laptop equivalent of a pair of steel-toed boots. It's not flashy, it's not fast, and it's not lightweight — but it will survive things that would kill a MacBook Air in seconds. As a parent, that's precisely the point.

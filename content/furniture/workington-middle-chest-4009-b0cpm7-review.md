@@ -1,4 +1,5 @@
 ---
+
 title: "Workington Middle Chest 4009"
 seo_title: "Workington Middle Chest 4009 Review: Verdict | TSV"
 meta_description: "Our full workington middle chest 4009 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CPM7NB9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OjoAR1zzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Workington Middle Chest 4009 sits in that crowded middle ground of Amazon furniture: not bargain-basement, not heirloom quality. With 204 ratings averaging 4.1 stars, it's clearly doing something right — but the real question is whether it earns a spot in your bedroom. After digging through buyer feedback and the spec sheet, here's the honest breakdown.

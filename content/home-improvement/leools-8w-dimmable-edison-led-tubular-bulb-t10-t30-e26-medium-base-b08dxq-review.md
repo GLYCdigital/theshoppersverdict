@@ -1,4 +1,5 @@
 ---
+
 title: "Leools 8W Dimmable Edison Led Tubular Bulb T10/T30,E26 Mediu"
 seo_title: "Leools 8W Dimmable Edison Led Tubular Bulb T10/T30 Review"
 meta_description: "Our full leools 8w dimmable edison led tubular bulb t10/t30,e26 mediu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08DXQS6JT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71heuULNy8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you want that Edison-bulb aesthetic without the heat, energy waste, and 1,000-hour lifespan of actual vintage bulbs, the Leools 8W dimmable LED is a solid pick. It delivers the warm, filament-heavy look you're after, dims properly (with caveats), and runs cool enough to touch after hours of use. At 4.4 stars across 220 ratings, it's doing something right — but there are a few things you should know before you buy.

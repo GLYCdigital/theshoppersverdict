@@ -1,4 +1,5 @@
 ---
+
 title: "CF289A 89A 2-Pack Toner Review: Solid HP Alternative"
 seo_title: "CF289A 89A Toner 2-Pack Review: Compatible HP Alternative"
 meta_description: "Honest CF289A 89A black toner 2-pack review. Page yield, print quality, compatibility, and cost savings vs. HP OEM. Real user feedback included."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F21GGLSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P3FQxtsEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 4,200-page yield per cartridge (8,400 total) — tested and verified by multiple buyers"
   - "Chip authenticates properly in HP printers; no error messages or bypass workarounds needed"
   - "Consistent dense black output with no streaking or banding across varied print jobs"
-cons:
+cons: 
   - "No recycling program included — you'll need to find your own drop-off for spent cartridges"
   - "Packaging is minimal; no protective foam inserts, so handle carefully during shipping"
+
 ---
 
 If you own an HP LaserJet that takes the 89A toner — think the M207, M209, or the M234 series — you already know the OEM cartridge price is brutal. This two-pack from a compatible brand costs a fraction of what two HP-branded cartridges run, and with a 4.8-star average across 240 ratings, it's not flying under the radar. The question is whether "compatible" actually means "comparable" when it hits paper. Here's the real breakdown.

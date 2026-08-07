@@ -1,4 +1,5 @@
 ---
+
 title: "Design Essentials Rosemary & Mint Stimulating Super Moisturi"
 seo_title: "Design Essentials Rosemary & Mint Conditioner Review (2026)"
 meta_description: "Honest Design Essentials Rosemary & Mint Super Moisturizing Conditioner review: performance, ingredients, and who should buy it. 4.6/5 rating from 229 reviews."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV169BNJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51RqNFT0IQL._SL1000_.jpg"
-pros:
+pros: 
   - "Deeply hydrates thick, coarse, and curly textures without leaving a heavy greasy film — the peppermint oil provides actual scalp stimulation, not just a scent."
   - "Sulfate-free formula with rosemary, mint, and biotin that strengthens strands over repeated use; a little goes a long way in 8 oz or 16 oz sizes."
   - "Refreshing cooling tingle on application that makes it feel like a spa treatment, especially effective for dry, itchy scalps."
-cons:
+cons: 
   - "The minty tingle can be intense for sensitive scalps or those with broken skin — test a small patch first before full application."
   - "Thicker consistency requires thorough rinsing; leftover residue can weigh down fine or low-porosity hair if not washed out completely."
+
 ---
 
 # Design Essentials Rosemary & Mint Stimulating Super Moisturi: Does It Live Up to the Hype?

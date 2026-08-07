@@ -1,4 +1,5 @@
 ---
+
 title: "100% unisex-adult Strata 2 inch"
 seo_title: "100% Strata 2 Review: Worth It? (2026 Buyer's Guide)"
 meta_description: "Honest 100% Strata 2 review: Is this unisex-adult gear worth your money? Real owner feedback, pros, cons, and buying advice. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZTFLPD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51rIoiRBa1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ventilation channels actually move air — noticeable difference in hot conditions vs. competing models"
   - "Unisex sizing runs true across a wide range; the adjustable retention system accommodates most head shapes"
   - "Build quality feels premium — reinforced shell with zero flex or creaking after 3+ months of weekly use"
-cons:
+cons: 
   - "Padding is on the firmer side; some users report pressure points during the first few wears"
   - "No integrated storage for accessories like action cameras or lights without aftermarket mounts"
+
 ---
 
 Let me be direct with you: the 100% Strata 2 is the kind of product that doesn't scream for attention in the listing photos, but once it's in your hands, you understand why it's got a 4.5-star average across 225 ratings. This is a piece of sports gear that respects your money.

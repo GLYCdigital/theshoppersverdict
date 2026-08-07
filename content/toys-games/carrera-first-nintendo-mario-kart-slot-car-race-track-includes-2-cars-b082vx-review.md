@@ -1,4 +1,5 @@
 ---
+
 title: "Carrera First Nintendo Mario Kart Slot Car Race Track - Incl"
 seo_title: "Carrera First Mario Kart Slot Car Track Review (2026)"
 meta_description: "Honest Carrera First Mario Kart slot car track review: build quality, speed, age suitability, and real buyer feedback. Is it worth it for young racers?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B082VXJFH8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LX2aE++FL._AC_SL1441_.jpg"
-pros:
+pros: 
   - "Officially licensed Mario Kart cars with authentic character details that survive rough play"
   - "Simple 2-lane oval layout sets up in minutes — no track-building frustration for parents"
   - "Built-in speed limiter keeps cars manageable for ages 4+, unlike faster hobby-grade sets"
-cons:
+cons: 
   - "Cars occasionally derail at high speed on the tighter curves — a known quirk of this layout"
   - "Hand controllers are wired and short, so kids must sit close to the track"
   - "Expansion potential is limited; you can't easily add loops or jumps like larger Carrera sets"
+
 ---
 
 **Is this the gateway drug to slot car racing, or a Mario Kart cash-in?**

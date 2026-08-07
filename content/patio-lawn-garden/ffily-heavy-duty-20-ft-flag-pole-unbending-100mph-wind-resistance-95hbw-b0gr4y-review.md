@@ -1,4 +1,5 @@
 ---
+
 title: "FFILY Heavy Duty 20 FT Flag Pole, Unbending 100MPH Wind Resi"
 seo_title: "FFILY 20 FT Flag Pole Review: Unbending 100MPH Wind Resistant"
 meta_description: "FFILY 20 ft heavy duty flag pole review: 100MPH wind resistance, aircraft-grade aluminum, 3-piece design. Real buyer feedback on durability and installation."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GR4YX2DR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d166oGpQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "3-piece aircraft-grade aluminum construction with 2.5mm wall thickness that genuinely resists bending in sustained high winds"
   - "Fully self-contained kit — includes ground sleeve, flag, and all mounting hardware, so no hidden accessory costs"
   - "Smooth-glide ball bearing rotating ring prevents the flag from wrapping around the pole, even in shifting gusts"
-cons:
+cons: 
   - "20 ft height requires a solid concrete base (not included); installation is a solid afternoon project, not a quick job"
   - "Telescoping sections need to be assembled in exact order — a few buyers reported cross-threading when rushing assembly"
+
 ---
 
 ## The 20-Foot Flagpole That Actually Stays Straight

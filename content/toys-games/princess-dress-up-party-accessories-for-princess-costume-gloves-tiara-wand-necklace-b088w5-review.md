@@ -1,4 +1,5 @@
 ---
+
 title: "Princess Dress Up Party Accessories for Princess Costume Glo"
 seo_title: "Princess Dress Up Party Accessories for Princess C Review"
 meta_description: "Our full princess dress up party accessories for princess costume glo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B088W5HFYX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rNty+M0CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **WHAT'S IN THE BOX**  

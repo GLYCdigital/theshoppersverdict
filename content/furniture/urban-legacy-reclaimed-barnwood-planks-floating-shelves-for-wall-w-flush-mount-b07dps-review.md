@@ -1,4 +1,5 @@
 ---
+
 title: "Urban Legacy Reclaimed Barnwood Planks | Floating Shelves fo"
 seo_title: "Urban Legacy Reclaimed Barnwood Planks | Floating  Review"
 meta_description: "Our full urban legacy reclaimed barnwood planks | floating shelves fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DPSSJFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616W-KrsE+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **Urban Legacy Reclaimed Barnwood Planks | Floating Shelves fo** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

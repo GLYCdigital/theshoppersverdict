@@ -1,4 +1,5 @@
 ---
+
 title: "Imperius Light and Thin Bed,King Size"
 seo_title: "Imperius Light and Thin Bed,King Size Review: Verdict | T"
 meta_description: "Our full imperius light and thin bed,king size review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1MFZQR2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jpANGtCkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Imperius Light and Thin Bed in King size is the furniture equivalent of ordering a salad when you're starving — it looks minimal, but does it actually satisfy? After digging through 210 ratings and the spec sheet, here's the real picture.

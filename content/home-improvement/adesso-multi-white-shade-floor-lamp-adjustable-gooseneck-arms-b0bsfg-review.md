@@ -1,4 +1,5 @@
 ---
+
 title: "Adesso Multi-White Shade Floor Lamp, Adjustable Gooseneck Ar"
 seo_title: "Adesso Multi-White Floor Lamp Review: Adjustable Gooseneck Arms"
 meta_description: "Adesso Multi-White Shade Floor Lamp review: 3 adjustable gooseneck arms, multi-white color temps, 4.6/5 rating. Is it worth it? Read our honest take."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BSFG3VHP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JofaJP1BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three independently adjustable gooseneck arms let you direct light exactly where you need it — task lighting for reading, ambient glow for the room, all at once"
   - "Multi-white color temperature control (2700K-5000K) with dimming means you can match the lamp to your activity or time of day without swapping bulbs"
   - "Sturdy weighted base and solid metal construction prevent tipping even with all three arms fully extended"
-cons:
+cons: 
   - "No remote control — you have to walk to the lamp to adjust brightness or color temperature, which gets annoying if it's placed across the room"
   - "The gooseneck arms are somewhat short (roughly 15-18 inches each), so it won't replace a dedicated overhead light for large spaces"
   - "Assembly is straightforward but the included Allen wrench is low quality; have a proper hex key set handy to avoid stripping screws"
+
 ---
 
 Let's be direct: most floor lamps are boring. They're a pole with a shade, maybe a dimmer if you're lucky. The Adesso Multi-White Shade Floor Lamp is not that. With three adjustable gooseneck arms sprouting from a central column, this thing looks like a modern art piece and functions like a lighting utility knife. At 4.6 stars across 229 ratings, it's clearly resonating with buyers. But should it resonate with you? Let's break it down.

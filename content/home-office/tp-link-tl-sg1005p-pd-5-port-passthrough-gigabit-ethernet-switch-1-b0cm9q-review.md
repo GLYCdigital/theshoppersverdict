@@ -1,4 +1,5 @@
 ---
+
 title: "TP-Link TL-SG1005P-PD 5-Port Passthrough Gigabit Ethernet Sw"
 seo_title: "TP-Link TL-SG1005P-PD 5-Port Passthrough Gigabit E Review"
 meta_description: "Our full tp-link tl-sg1005p-pd 5-port passthrough gigabit ethernet sw review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM9QB6DR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AvWmGtiCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Switch That Feeds Itself — and Your Cameras

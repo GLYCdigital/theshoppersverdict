@@ -1,4 +1,5 @@
 ---
+
 title: "Lennox X6673 Healthy Climate HCF20-11 MERV 11 Filter Media ("
 seo_title: "Lennox X6673 Healthy Climate HCF20-11 MERV 11 Filt Review"
 meta_description: "Our full lennox x6673 healthy climate hcf20-11 merv 11 filter media ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B008D7URTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714l+4j0MXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you the headache I had: I bought this Lennox X6673 filter media thinking it was a universal 20x20 filter. It's not. It's a 4-inch-thick media pad specifically engineered for Lennox Healthy Climate HCF20-11 cabinets. If that's what you own, you've found your filter. If not, stop reading and search for your actual cabinet model.

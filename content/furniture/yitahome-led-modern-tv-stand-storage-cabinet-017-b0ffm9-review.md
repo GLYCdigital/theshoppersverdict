@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME LED Modern TV Stand Storage Cabinet 017"
 seo_title: "YITAHOME LED Modern TV Stand Storage Cabinet 017 Review: "
 meta_description: "Our full yitahome led modern tv stand storage cabinet 017 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FFM9QYN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817ZNpPlI-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most TV stands under $200 are either boring or flimsy. The YITAHOME LED Modern TV Stand Storage Cabinet 017 tries to be neither. With integrated LED lighting and a sleek floating design, it promises the "wow" factor of a custom media unit at a box-store price. After digging through 200+ ratings and scrutinizing the specs, here's the real story.

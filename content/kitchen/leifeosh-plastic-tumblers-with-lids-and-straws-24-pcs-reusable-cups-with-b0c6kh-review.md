@@ -1,4 +1,5 @@
 ---
+
 title: "LEIFEOSH Plastic Tumblers with Lids and Straws, 24 Pcs Reusa"
 seo_title: "LEIFEOSH Plastic Tumblers with Lids and Straws, 24 Review"
 meta_description: "Our full leifeosh plastic tumblers with lids and straws, 24 pcs reusa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6KH8M1H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GmZCXgPPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've priced a set of four insulated tumblers lately, you know the sticker shock. The LEIFEOSH 24-piece set — cups, lids, and straws for a dozen people — costs less than two branded tumblers at Target. But cheap party cups these are not. At 4.6 stars across 229 ratings, this set earns its keep.

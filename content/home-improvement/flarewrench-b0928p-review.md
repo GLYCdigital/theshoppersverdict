@@ -1,4 +1,5 @@
 ---
+
 title: "FlareWrench"
 seo_title: "FlareWrench Review: Precision Flare Nut Wrench Set"
 meta_description: "FlareWrench review: 4.6-star flare nut wrench set. Tested for grip, durability, and torque. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0928PXGM5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nYiEr6H8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full engagement 6-point box end grips flare nuts without rounding soft brass or aluminum fittings"
   - "Heat-treated chrome vanadium steel with a satin finish resists corrosion and survives impact driver abuse"
   - "Angled flare-end design clears fuel lines and brake calipers where straight wrenches won't fit"
-cons:
+cons: 
   - "Slightly thicker jaw profile than premium brands like Snap-on—tight clearance spots can be a squeeze"
   - "No metric option in the standard set; you'll need to buy a second set for import cars"
+
 ---
 
 ## The Real Story on FlareWrench: Does It Beat the Rounding Problem?

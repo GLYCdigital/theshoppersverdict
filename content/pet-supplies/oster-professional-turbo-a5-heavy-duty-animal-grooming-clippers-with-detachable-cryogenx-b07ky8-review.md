@@ -1,4 +1,5 @@
 ---
+
 title: "Oster Professional Turbo A5 Heavy Duty Animal Grooming Clipp"
 seo_title: "Oster Professional Turbo A5 Heavy Duty Animal Groo Review"
 meta_description: "Our full oster professional turbo a5 heavy duty animal grooming clipp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07KY8GGXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sv9y914gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a professional groomer or you own a double-coated breed that turns a $40 clipper into a smoking pile of plastic, you already know the Oster name. The Turbo A5 has been a shop staple for decades, and this iteration ships with the CryogenX blade — Oster's answer to the overheating problem that plagues heavy-duty clipping.

@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 4 Year Home Improvement Protection Plan ($40 - $49.9 inch"
 seo_title: "ASURION 4-Year Home Improvement Protection Plan Review"
 meta_description: "ASURION 4-year home improvement protection plan review: coverage details, claims process, real buyer feedback, and whether this warranty is worth $40-$50."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07QD2WD3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814EtKAhkVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on power tools, lawn equipment, and appliances from day one — no waiting period"
   - "Claims handled directly by Asurion, not the manufacturer, so you're not stuck in OEM warranty limbo"
   - "Replacement or repair at Asurion's discretion; if repair costs exceed product value, they send a replacement or refund"
-cons:
+cons: 
   - "Coverage is tied to the specific item purchased with the plan — if that tool dies, the plan dies with it"
   - "Does not cover accidental damage, abuse, or normal wear items like blades and batteries"
   - "You must provide proof of purchase and a description of the failure; some buyers report needing to call rather than chat for faster resolution"
+
 ---
 
 Let me be direct: you're looking at a warranty plan, not a tool. But for $40–$50 on a power tool, lawn mower, or garage door opener, this Asurion plan is one of the smartest insurance policies you can click "add to cart" on. Here's the honest breakdown.

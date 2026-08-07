@@ -1,7 +1,8 @@
 ---
-title: "Merax 76.5\" Outdoor Acacia Wood Wicker 3 Seater Sofa, Patio "
-seo_title: "Merax 76.5\" Outdoor Acacia Wood Wicker 3 Seater So Review"
-meta_description: "Our full merax 76.5\" outdoor acacia wood wicker 3 seater sofa, patio  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Merax 76.5\ Outdoor Acacia Wood Wicker 3 Seater Sofa, Patio "
+seo_title: "Merax 76.5\ Outdoor Acacia Wood Wicker 3 Seater So Review"
+meta_description: "Our full merax 76.5\ outdoor acacia wood wicker 3 seater sofa, patio  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "merax-76-5-outdoor-acacia-wood-wicker-3-seater-sofa-patio-furniture-b0d8vx-review"
 image_alt: "Merax 76.5 Outdoor Acacia Wood Wicker 3 Seater Sofa, Patio Furniture Couch for Backyard"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8VXNF58/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91s68u-9oHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: What you're actually getting for the money**

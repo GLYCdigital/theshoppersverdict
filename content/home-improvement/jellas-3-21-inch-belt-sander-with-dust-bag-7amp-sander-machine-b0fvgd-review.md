@@ -1,4 +1,5 @@
 ---
+
 title: "Jellas 3 Ã— 21-Inch Belt Sander with Dust Bag, 7Amp Sander M"
 seo_title: "Jellas 3 Ã— 21-Inch Belt Sander with Dust Bag, 7Am Review"
 meta_description: "Our full jellas 3 ã— 21-inch belt sander with dust bag, 7amp sander m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVGDYS8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ayWNb8GSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Jellas 3×21 belt sander a budget-friendly win or a compromise you'll regret? Let's break it down.**

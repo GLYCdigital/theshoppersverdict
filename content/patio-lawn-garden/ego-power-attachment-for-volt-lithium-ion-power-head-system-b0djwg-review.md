@@ -1,4 +1,5 @@
 ---
+
 title: "EGO Power Attachment for Volt Lithium-ion Power Head System"
 seo_title: "EGO Power Attachment Review: Best Multi-Tool for Volt System"
 meta_description: "Read our honest EGO Power Attachment review for the Volt Lithium-ion Power Head System. Real pros, cons, and buyer advice. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJWGD2H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517CIQOgVjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Tool-free attachment swap takes under 10 seconds once you get the hang of the release lever"
   - "Compatible with the full EGO multi-tool lineup — edger, blower, hedge trimmer, and pole saw attachments all lock in solid"
   - "Lightweight aluminum coupler design adds minimal bulk to the power head, keeping the balance point comfortable"
-cons:
+cons: 
   - "Only works with EGO's proprietary Volt power head — no third-party or universal compatibility"
   - "Attachment collar can feel stiff when new; needs a break-in period before it rotates smoothly"
+
 ---
 
 If you already own the EGO Volt Lithium-ion Power Head, you're probably wondering whether the official attachment is worth the premium over generic alternatives. Here's the short answer: it is — but with a few caveats that matter depending on how you plan to use it.

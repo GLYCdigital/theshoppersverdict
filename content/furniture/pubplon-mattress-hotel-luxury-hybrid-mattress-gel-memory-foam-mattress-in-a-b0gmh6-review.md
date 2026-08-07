@@ -1,4 +1,5 @@
 ---
+
 title: "PUBPLON Mattress Hotel Luxury Hybrid Mattress, Gel Memory Fo"
 seo_title: "PUBPLON Mattress Hotel Luxury Hybrid Mattress, Gel Review"
 meta_description: "Our full pubplon mattress hotel luxury hybrid mattress, gel memory fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMH6V78Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e4TlHkG0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $400 "Hotel Mattress" That Actually Delivers — Mostly

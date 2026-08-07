@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Hue White Ambiance Filament E12 Candle Bulb Full Ran"
 seo_title: "Philips Hue White Ambiance Filament E12 Candle Bul Review"
 meta_description: "Our full philips hue white ambiance filament e12 candle bulb full ran review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FFC6L4YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h-YYmZ3KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** If you're building a smart-home lighting system and want vintage-looking bulbs that actually dim well and shift from warm candlelight to crisp daylight, this is the best E12 filament option on the market. But it's not a standalone smart bulb—and it'll cost you.

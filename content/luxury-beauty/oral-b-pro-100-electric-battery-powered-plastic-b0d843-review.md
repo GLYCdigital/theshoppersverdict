@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B pro 100 Electric Battery Powered Plastic"
 seo_title: "Oral-B pro 100 Electric Battery Powered Plastic Review: V"
 meta_description: "Our full oral-b pro 100 electric battery powered plastic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D843P6F9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ecVKBfKbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: the Oral-B Pro 100 is the budget gateway into electric brushing, not a luxury device. But calling it "just plastic" undersells what a 4.2-star average across 210 ratings actually means. I've read through the buyer feedback, and there's a clear pattern — this thing converts manual brushers and doesn't disappoint people who want results without spending $150 on a sonic flagship.

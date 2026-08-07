@@ -1,4 +1,5 @@
 ---
+
 title: "Dash Mini Waffle Maker- Compact Electric Iron for Creative H"
 seo_title: "Dash Mini Waffle Maker Review: Compact 4-Inch Waffle Iron"
 meta_description: "Dash Mini Waffle Maker review: compact 4-inch nonstick iron for personal waffles, hash browns, and keto chaffles. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRWSB95V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XhpU-A1uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4-inch nonstick plates heat evenly in about 3 minutes — no preheating guesswork"
   - "Lightweight at roughly 1 pound and stores upright, taking less drawer space than a toaster"
   - "PTFE-coated surface releases waffles cleanly with minimal oil; wipe-clean in under a minute"
-cons:
+cons: 
   - "Single waffle at a time — feeding a family of four means 20+ minutes of batch cooking"
   - "No temperature control or indicator light; you learn doneness by trial and error"
   - "Cord is short at about 24 inches, which limits counter placement near outlets"
+
 ---
 
 **The Dash Mini Waffle Maker: A $20 Gadget That Earns Its Drawer Space**

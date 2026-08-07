@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Youth Baseball Bat - Heist Kids Baseball Bat"
 seo_title: "Franklin Sports Heist Youth Baseball Bat Review (2026)"
 meta_description: "Honest Franklin Sports Heist youth baseball bat review: alloy construction, -12 drop weight, bat control for ages 8-12. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQM96Q7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EpMn0o4RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "-12 length-to-weight ratio makes it easy for younger players to get the barrel through the zone"
   - "One-piece alloy construction delivers pop right out of the wrapper — no break-in period"
   - "Cushioned grip reduces sting on off-center hits, which keeps kids confident at the plate"
-cons:
+cons: 
   - "Not approved for USA Baseball leagues — USSSA-only certification limits where it can be used"
   - "One-piece alloy transfers vibration more than composite bats on mishits, despite the grip"
+
 ---
 
 Some youth bats make kids work too hard. The Franklin Sports Heist isn't one of them. This is a bat designed around one simple truth: if a 9-year-old can't get it through the zone fast, the technology doesn't matter. With a -12 drop weight and one-piece alloy build, this bat prioritizes swing speed and immediate feedback over exotic materials and inflated price tags.

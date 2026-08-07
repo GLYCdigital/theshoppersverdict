@@ -1,4 +1,5 @@
 ---
+
 title: "Fairtex SP5 Muay Thai Shin Guards for Men, Women, Kids | Shi"
 seo_title: "Fairtex SP5 Shin Guards Review: Pro-Level Protection"
 meta_description: "Fairtex SP5 shin guards review: durable Thai-made protection for Muay Thai, kickboxing, MMA. Read pros, cons, sizing tips before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01EVVKOG8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JzNTsyMgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine Thai-made construction with dense multi-layer foam that holds shape after years of hard sparring"
   - "Extended shin coverage that protects the instep and ankle without restricting foot movement"
   - "Secure hook-and-loop closure with elastic foot strap keeps guards locked in place during clinch work"
-cons:
+cons: 
   - "Break-in period is real — the synthetic leather starts stiff and requires several sessions to flex naturally"
   - "Sizing runs small for Western foot shapes; wide-footed buyers should size up or risk tightness across the instep"
+
 ---
 
 You can spot a fighter's gear quality by how it holds up after a year of weekly sparring, not how it looks fresh out of the box. The Fairtex SP5s have been a gym staple for over a decade, and there's a reason you'll see them in nearly every Muay Thai gym locker room. At $94.99, they sit in the upper-middle tier — cheaper than custom Japanese leathers, pricier than budget Twins specials. Here's the real story after breaking down the specs, the build, and what 240 Amazon reviewers actually say.

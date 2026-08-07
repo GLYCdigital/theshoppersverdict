@@ -1,4 +1,5 @@
 ---
+
 title: "EconoHome Folding Bed with Mattress - 75x38 Twin Size Frame"
 seo_title: "EconoHome Folding Bed Review: Twin Rollaway with Mattress"
 meta_description: "Honest EconoHome folding bed review: 75x38 twin rollaway with mattress. Is this 4.4-star guest bed worth it? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F29XNNSV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716ms92DjbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "75x38 twin dimensions match standard sheets, so you don't need specialty bedding"
   - "Folds to roughly 8 inches thick for upright closet storage between uses"
   - "Built-in locking mechanism prevents the frame from collapsing mid-sleep"
-cons:
+cons: 
   - "Mattress padding is thin (about 3 inches) — side sleepers will feel the metal crossbars"
   - "At roughly 50 pounds, it's manageable but not light enough for frail users to haul upstairs solo"
+
 ---
 
 **The honest question with any rollaway bed is simple: will your guest actually sleep well, or will they be staring at the ceiling at 3 a.m. counting the springs?** The EconoHome Folding Bed with Mattress sits in that awkward middle ground between "better than the floor" and "actually decent." At 4.4 stars from 220 ratings, it's clearly doing something right — but here's what you need to know before you click buy.

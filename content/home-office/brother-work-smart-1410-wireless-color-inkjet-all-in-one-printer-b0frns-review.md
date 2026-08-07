@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Work Smart 1410 Wireless Color Inkjet All-in-One Pri"
 seo_title: "Brother Work Smart 1410 Review: Wireless Inkjet All-in-One"
 meta_description: "Brother Work Smart 1410 wireless inkjet review: print quality, ink costs, setup, and real owner feedback. Is this budget AIO right for your home office?"
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FRNSMWYV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61rzDZLLFrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Remarkably low cost-per-page with high-yield INKvestment cartridges (up to 6,000 black pages per set)"
   - "Flatbed scanner with automatic document feeder handles multi-page jobs without babysitting"
   - "Front-loading paper tray keeps the footprint small enough for a cramped desk corner"
-cons:
+cons: 
   - "No automatic duplex printing — flipping pages manually is tedious for multi-page reports"
   - "Initial setup can be finicky on 5GHz-only networks; 2.4GHz connection is required for the wizard"
   - "Print speed is modest (rated 12 ipm black) — not for high-volume office bursts"
+
 ---
 
 # Brother Work Smart 1410: The Budget Inkjet That Actually Gets It Right

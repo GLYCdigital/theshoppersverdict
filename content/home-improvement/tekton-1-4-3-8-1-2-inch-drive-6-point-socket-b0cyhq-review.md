@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 1/4, 3/8, 1/2 Inch Drive 6-Point Socket Set with Rail"
 seo_title: "TEKTON 1/4, 3/8, 1/2 Inch Drive 6-Point Socket Set Review"
 meta_description: "Our full tekton 1/4, 3/8, 1/2 inch drive 6-point socket set with rail review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CYHQJM7L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J42kUr1bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most socket sets under $100 are junk. The chrome flakes, the detents wear out, and the rails bend the first time you drop them. The TEKTON 1/4, 3/8, and 1/2-inch drive set is not that. It's the set I'd recommend to anyone who wants professional-grade functionality without paying truck-brand prices.

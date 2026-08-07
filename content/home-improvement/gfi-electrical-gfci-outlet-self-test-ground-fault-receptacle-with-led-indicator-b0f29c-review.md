@@ -1,4 +1,5 @@
 ---
+
 title: "GFI Electrical GFCI Outlet Self-Test Ground Fault Receptacle"
 seo_title: "GFI Electrical GFCI Outlet Review: Self-Test Receptacle (2026)"
 meta_description: "Honest GFI Electrical GFCI outlet review: self-test features, installation quirks, and real buyer feedback. Is it worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F29CH6D2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LjZnd3rBL._SL1500_.jpg"
-pros:
+pros: 
   - "True self-test every few seconds with clear green LED status light, not just a manual test button"
   - "Slim can design fits deeper in standard boxes, making multi-gang installations noticeably easier"
   - "Tamper-resistant shutters meet 2023 NEC requirements without adding insertion resistance"
-cons:
+cons: 
   - "Some units arrive with trip sensitivity too high — nuisance trips on older wiring with shared neutrals"
   - "Wall plate not included; budget an extra $2–3 and check your box depth before ordering"
+
 ---
 
 You're replacing a dead GFCI or upgrading a bathroom outlet, and the pile of options on Amazon all look identical. Here's what separates the GFI Electrical Self-Test from the pack — and where it stumbles.

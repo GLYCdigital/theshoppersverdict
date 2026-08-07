@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters 4 Prong to 4 Wire Range Cord, Heavy Duty 6/8 A"
 seo_title: "Cable Matters 4 Prong Range Cord Review (2026): Heavy Duty"
 meta_description: "Cable Matters 4 prong range cord review: heavy-duty 6/8 AWG build, easy install, 4.6★ rating. See if it fits your electric stove or dryer."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08FXNQ1QB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r0sJ1rASL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 6/8 AWG copper conductors handle 50-amp loads without heat buildup — verified by multiple buyer thermal tests"
   - "Molded NEMA 14-50P plug with strain relief won't crack or pull apart, even in tight installation spots"
   - "Ring terminals are pre-tinned and color-coded (brass, silver, green) matching standard range wiring diagrams"
-cons:
+cons: 
   - "Cable is stiff in cold weather — bending it into tight junction boxes requires patience and a heat gun at 40°F or below"
   - "No included cable clamp or connector for the strain relief bushing; you'll need to buy one separately if your range doesn't have a built-in clamp"
+
 ---
 
 Let's be blunt: most range cords are afterthoughts — cheap PVC jackets, undersized wire, and terminals that strip when you torque them down. The Cable Matters 4 Prong to 4 Wire Range Cord isn't that. At 4.6 stars across 229 ratings, this is the cord I'd put on my own stove, and here's why.

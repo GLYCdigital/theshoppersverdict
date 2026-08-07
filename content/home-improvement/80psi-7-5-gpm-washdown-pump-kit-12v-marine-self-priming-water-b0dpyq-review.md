@@ -1,4 +1,5 @@
 ---
+
 title: "80PSI 7.5 GPM Washdown Pump Kit - 12V Marine Self-Priming Wa"
 seo_title: "80PSI 7.5 GPM Washdown Pump Kit Review: Marine 12V"
 meta_description: "Honest 80PSI 7.5 GPM 12V marine washdown pump kit review. Real performance, install tips, and buyer feedback. Is it worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPYQJW3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715tX2BLoWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full kit includes strainer, hose adapter, and switch — no extra parts needed for basic install"
   - "80 PSI pressure handles mud-caked anchors and sandy decks without bogging down"
   - "Self-priming up to 8-10 feet, so mounting flexibility beats fixed-position pumps"
-cons:
+cons: 
   - "Draws 15+ amps at full load — undersized wiring or a weak battery will starve it"
   - "Plastic housing feels less robust than brass-bodied competitors; handle with care during winterization"
+
 ---
 
 If you're tired of dragging a bucket to rinse the anchor rode or watching a weak 3 GPM pump dribble over a mud-caked deck, this 80 PSI 7.5 GPM 12V marine washdown kit is worth a hard look. With 215 ratings holding a solid 4.3-star average, it's clearly earning its keep on boats that actually get used. But there's a catch or two you need to know before you hand over your card.

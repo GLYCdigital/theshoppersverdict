@@ -1,4 +1,5 @@
 ---
+
 title: "Cozivolife Over The Toilet Storage: 4-Tier Bamboo Organizer"
 seo_title: "Cozivolife Over Toilet Storage Review: 4-Tier Bamboo (2026)"
 meta_description: "Honest Cozivolife over toilet storage review: 4-tier bamboo build, real capacity, stability issues, and who should buy it. Read before you order."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPY4TPC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ARVoXwClL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine bamboo construction — not MDF or particleboard wrapped in veneer"
   - "Fits standard toilets with 7.5–8.5 inch tank-to-wall gaps; adjustable feet level on uneven floors"
   - "Open shelving keeps everything visible and within reach, no cabinet doors to fight"
-cons:
+cons: 
   - "Top shelf clearance is tight — tall pump bottles (over 9 inches) won't fit beneath the top tier"
   - "Assembly takes 30–45 minutes; holes occasionally need persuasion with a rubber mallet"
   - "Not for thick plush bath mats — the front legs can tip if the mat bunches underneath"
+
 ---
 
 Bathroom storage is the most underrated upgrade you can make. The space over your toilet is dead air — and the Cozivolife 4-Tier Bamboo Organizer turns it into genuine, usable real estate. With 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it the right rack for *your* bathroom? Let's break down what you're actually getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Amz Security Self-Seal Mailing Envelope"
 seo_title: "Amazon Basics Security Self-Seal Envelope Review (2026)"
 meta_description: "Amazon Basics security mailing envelopes reviewed: tamper-evident, self-seal design, durability, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6VQFCTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lHKANBuLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tamper-evident security pattern printed on the interior liner makes opened envelopes immediately obvious"
   - "Self-seal adhesive strip requires no licking or moistening — just peel, press, and it's locked"
   - "Sturdy 32-lb paper stock holds up to standard mail sorting without tearing or crumpling"
-cons:
+cons: 
   - "Security pattern can obscure handwriting if you write directly on the envelope face"
   - "No bubble padding — strictly for flat documents, not anything with thickness or fragility"
+
 ---
 
 You're about to mail a stack of sensitive documents — tax forms, contracts, medical records — and the last thing you need is someone prying into them before they reach the recipient. The Amazon Basics Amz Security Self-Seal Mailing Envelope addresses exactly that concern with a design that's simple, effective, and cheap enough to buy in bulk. Here's the full breakdown after digging into the specs, customer feedback, and real-world use.

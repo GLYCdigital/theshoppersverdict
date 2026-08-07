@@ -1,4 +1,5 @@
 ---
+
 title: "TURSTIN 8 Pack 2 Inch Furniture Legs Plastic Sofa Coach Legs"
 seo_title: "TURSTIN 8 Pack 2 Inch Furniture Legs Plastic Sofa  Review"
 meta_description: "Our full turstin 8 pack 2 inch furniture legs plastic sofa coach legs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZBDGLH2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BrtP2Z22L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: nobody wakes up excited to buy furniture legs. You're here because your sofa sits too low, your robot vacuum keeps getting stuck, or the original feet cracked after years of abuse. The TURSTIN 8-pack of 2-inch plastic legs promises a cheap, quick fix. Does it deliver? Mostly yes — with a few caveats worth knowing before you click buy.

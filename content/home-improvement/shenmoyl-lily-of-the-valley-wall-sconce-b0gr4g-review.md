@@ -1,4 +1,5 @@
 ---
+
 title: "Shenmoyl Lily of The Valley Wall Sconce"
 seo_title: "Shenmoyl Lily of The Valley Wall Sconce Review: Verdict |"
 meta_description: "Our full shenmoyl lily of the valley wall sconce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GR4GD8L8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fGv47c7JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Shenmoyl’s Lily of the Valley sconce is the rare piece of hardware that genuinely looks better in person than in the product photos. The casting has a dimensional depth that flat-pack lighting usually lacks. But before you get swept up by the botanical charm, understand exactly what you’re buying—this is a decorative accent light with specific installation quirks, not a workhorse fixture.

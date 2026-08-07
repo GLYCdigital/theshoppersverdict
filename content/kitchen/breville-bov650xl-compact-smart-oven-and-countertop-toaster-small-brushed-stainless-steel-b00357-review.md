@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BOV650XL Compact Smart Oven and Countertop Toaster,"
 seo_title: "Breville BOV650XL Review: Compact Smart Oven Worth It?"
 meta_description: "Breville BOV650XL Compact Smart Oven review: 8 smart settings, Element IQ, real-world performance, and honest downsides. Is it worth $250?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00357YS3A/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51usSRz5xXL._AC_SL1141_.jpg"
-pros:
+pros: 
   - "Element IQ system distributes heat evenly across four independent quartz elements — no rotating trays needed"
   - "Eight one-touch preset functions (toast, bagel, pizza, cookies, roast, broil, bake, reheat) with automatic temperature and time"
   - "Compact 0.5 cubic foot interior fits a 12-inch pizza or 9x13 pan while taking up barely more counter space than a microwave"
-cons:
+cons: 
   - "Non-stick interior coating scratches easily — use silicone or wooden tools only, and skip abrasive cleaners"
   - "No convection fan despite the 'Smart Oven' marketing; it's a radiant oven with smart presets, not a true air-fryer alternative"
   - "Short 2-year warranty for a $250 appliance — several Amazon reviewers report control panel failures after 18-24 months"
+
 ---
 
 Let me be upfront: the Breville BOV650XL isn't the cheapest countertop oven you'll find, and it's not the most powerful either. But after combing through 220 Amazon ratings and digging into how this thing actually cooks, I can tell you exactly who should buy it — and who should walk away.

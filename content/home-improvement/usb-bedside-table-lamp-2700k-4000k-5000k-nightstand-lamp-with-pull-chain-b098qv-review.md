@@ -1,4 +1,5 @@
 ---
+
 title: "USB Bedside Table Lamp, 2700K 4000k 5000K Nightstand Lamp wi"
 seo_title: "USB Bedside Table Lamp, 2700K 4000k 5000K Nightsta Review"
 meta_description: "Our full usb bedside table lamp, 2700k 4000k 5000k nightstand lamp wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B098QV73FH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61b3ebOzfOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: this is a $20-ish USB lamp that does exactly three things, and does them well. No app, no smart home integration, no RGB disco mode. Just a pull chain and three color temperatures that actually correspond to real lighting needs.

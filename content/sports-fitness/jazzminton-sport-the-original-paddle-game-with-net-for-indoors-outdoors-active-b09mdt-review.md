@@ -1,4 +1,5 @@
 ---
+
 title: "Jazzminton-Sport â€“ The Original Paddle Game with Net for I"
 seo_title: "Jazzminton-Sport â€“ The Original Paddle Game with Review"
 meta_description: "Our full jazzminton-sport â€“ the original paddle game with net for i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09MDTL3G1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81lkneapHPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Paddle Game That Actually Gets Used?

@@ -1,4 +1,5 @@
 ---
+
 title: "7000 Maintenance Kit 32 083 09-S Air Filter for Kohler 32 88 inch"
 seo_title: "7000 Maintenance Kit Air Filter Review: Kohler Fit & Value"
 meta_description: "Honest 7000 Maintenance Kit 32 083 09-S air filter review for Kohler 32 88 engines. Covers fit, filtration quality, durability, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07B93XCKL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619ZxXsSEAL._AC_SL1077_.jpg"
-pros:
+pros: 
   - "Includes both paper element and foam pre-filter — a true two-stage filtration setup, not just a single filter"
   - "Direct OEM-style replacement for Kohler 32 083 09-S with exact dimensions; no modification needed on compatible mower decks"
   - "Holds up well in dusty conditions — several buyers report 2+ seasons of use with proper cleaning"
-cons:
+cons: 
   - "Foam pre-filter requires oiling before first use; some buyers missed this step and saw reduced performance"
   - "Not universal — only fits Kohler 32 88 series engines, so verify your engine model before ordering"
+
 ---
 
 If you own a Kohler 32 88 series engine—found on many Troy-Bilt, Cub Cadet, and Craftsman riding mowers—you already know the factory air filter costs more than it should. The 7000 Maintenance Kit 32 083 09-S steps in as a budget-friendly alternative. But does saving a few bucks cost you filtration quality? I dug through the specs, the materials, and 229 buyer ratings to give you the real answer.

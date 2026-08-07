@@ -1,4 +1,5 @@
 ---
+
 title: "OuMuaMua Pink Rose Gold Birthday Party Decorations Set, Rose"
 seo_title: "OuMuaMua Pink Rose Gold Birthday Party Decorations Review"
 meta_description: "Our full oumuamua pink rose gold birthday party decorations set, rose review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08B1CLJL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O52wXv7SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the honest truth: if you're planning a girly, glam birthday party on a budget, the OuMuaMua Pink Rose Gold set is a solid value. But it's not without its quirks, and you deserve to know exactly what you're getting before you click "add to cart."

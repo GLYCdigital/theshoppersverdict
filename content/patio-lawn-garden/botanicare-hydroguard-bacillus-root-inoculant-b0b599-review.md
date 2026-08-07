@@ -1,4 +1,5 @@
 ---
+
 title: "Botanicare Hydroguard Bacillus Root Inoculant"
 seo_title: "Botanicare Hydroguard Review: Root Rot Fix (2026)"
 meta_description: "Botanicare Hydroguard review: Does this Bacillus root inoculant stop root rot? 4.6/5 rating. Real results, dosing tips, and honest drawbacks."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B599DP5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SEdsMQNcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Prevents and reverses root rot in hydro and soil within 48-72 hours"
   - "Beneficial Bacillus amyloliquefaciens colonizes roots and outcompetes pathogens"
   - "Safe for seedlings and clones — won't burn delicate new roots"
-cons:
+cons: 
   - "Expensive per dose compared to generic beneficial bacteria products"
   - "Live bacteria requires refrigeration after opening to maintain potency"
   - "Not a cure-all — won't fix root rot caused by poor oxygenation or high temps"
+
 ---
 
 If you grow hydroponically, you already know the sickening feeling: roots that were pearly white turn brown and slimy, and your plants start drooping despite perfect pH and nutrients. That's root rot — and it kills more indoor gardens than any pest. Botanicare Hydroguard is the product most growers reach for first, and with a 4.6-star rating across 229 reviews, it's earned that reputation. But it's not magic, and it's not cheap. Here's the honest breakdown.

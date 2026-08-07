@@ -1,4 +1,5 @@
 ---
+
 title: "MINT Extra-Long Curling Wand"
 seo_title: "MINT Extra-Long Curling Wand Review: Verdict | TSV"
 meta_description: "Our full mint extra-long curling wand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXQD6B7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tO+sC9QEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about curling wands: most are either too short for thick hair, too weak for stubborn textures, or too cheap to justify the space in your drawer. The MINT Extra-Long Curling Wand sits in a different category — it’s priced like a luxury tool and, for the most part, performs like one. With 225 ratings averaging 4.5 stars, it’s clearly earning its keep in real bathrooms. But is it worth your money? Here’s the breakdown after digging through what buyers actually say.

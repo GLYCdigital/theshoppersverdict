@@ -1,4 +1,5 @@
 ---
+
 title: "CRANBURY Small Desk Calendar, Standing Flip 8x6 inch , Compact Sp"
 seo_title: "CRANBURY Small Desk Calendar Review: Compact Flip for 2026 inch"
 meta_description: "CRANBURY small desk calendar review: 8x6 inch  standing flip design saves space. See pros, cons, and who should buy this compact 2026 planner."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPXPDVCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dw7U+OZCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - 8x6 inch " footprint fits in tight spaces where full-size calendars won't — even on cramped cubicle desks or narrow kitchen counters
   - "Sturdy stand-up flip design stays upright without propping; no flimsy easel that collapses after a week"
   - "Large, legible date boxes per day for handwriting notes, appointments, and deadlines without squinting"
-cons:
+cons: 
   - "No hourly breakdown — if you schedule by time slots, this won't cut it; it's a daily-box calendar, not a planner"
   - "Monthly view only (no weekly spreads); you'll need a separate planner for detailed task tracking"
+
 ---
 
 The CRANBURY Small Desk Calendar solves a specific problem: your desk is already cluttered, and a full-size calendar just won't fit. At 8x6 inches, this standing flip calendar takes up roughly the footprint of a paperback novel. But compact doesn't mean cramped — the daily boxes are surprisingly roomy, and the flip design means you're never wrestling with a spiral binding that snags on your coffee mug.

@@ -1,4 +1,5 @@
 ---
+
 title: "Threeking RC Stunt Car Remote Control Cars with Lights Doubl"
 seo_title: "Threeking RC Stunt Car Remote Control Cars with Li Review"
 meta_description: "Our full threeking rc stunt car remote control cars with lights doubl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9GBQ3CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jR7TuzuOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Threeking RC Stunt Car isn't trying to be a serious hobby-grade machine — it's a $30-ish toy that turns "oops, I flipped it" into the whole point of the game. And honestly, that's exactly what makes it fun.

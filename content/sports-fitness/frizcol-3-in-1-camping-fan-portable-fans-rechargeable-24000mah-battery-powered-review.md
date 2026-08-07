@@ -1,13 +1,14 @@
 ---
+
 title: "FRIZCOL 3-in-1 Camping Fan - Portable Fans Rechargeable - 24000mAh Battery Powered Fan with Light & Remote for Indoor, Outdoor, Tent, Travel, Fishing, Jobsite, Gifts for Men Dad Him - Green"
 seo_title: "FRIZCOL 3-in Review: Verdict (4.4/5) | The Shopper's Verdict"
 meta_description: "Honest frizcol 3-in review 2,916+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "frizcol-3-in-1-camping-fan-portable-fans-rechargeable-24000mah-battery-powered-review"
 image_alt: "FRIZCOL 3-in-1 Camping Fan - Portable Fans Rechargeable - 24000mAh Battery Powered Fan with Light & Remote for Indoor, O"
-keywords:
+keywords: 
   - "frizcol 3in1 camping review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What are the downsides of the FRIZCOL 3-in-1 Camping Fan?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the FRIZCOL 3-in-1 Camping Fan?"
@@ -18,10 +19,11 @@ review_count: 2916
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BVTHPXLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E1s4gODdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's be blunt about what a $28 camping fan usually gets you: a weak breeze, a battery that dies by 2 AM, and a light that's more decorative than useful. The FRIZCOL 3-in-1 isn't that fan. With a 24000mAh battery and a remote control at this price point, it's punching well above its weight class. But it's not perfect, and here's the honest breakdown.

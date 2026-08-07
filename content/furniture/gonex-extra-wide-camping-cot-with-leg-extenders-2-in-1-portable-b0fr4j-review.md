@@ -1,4 +1,5 @@
 ---
+
 title: "Gonex Extra Wide Camping Cot with Leg Extenders 2 in 1 Porta"
 seo_title: "Gonex Extra Wide Camping Cot Review: 2-in-1 Leg Extenders"
 meta_description: "Gonex Extra Wide Camping Cot with leg extenders reviewed: 2-in-1 height options, 600lb capacity, real buyer feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FR4JPKF9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l7uFwr5aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2-in-1 leg extender system converts between 8.5-inch low profile and 18-inch standard height without tools"
   - "Extra-wide 30-inch sleeping surface with reinforced 600D Oxford fabric rated for 600 pounds"
   - "Siderail design keeps the sleeping surface taut, preventing the dreaded 'hammock sag' mid-night"
-cons:
+cons: 
   - "At 22 pounds, it's heavier than most backpacking cots—this is strictly car camping gear"
   - "Leg extenders add assembly steps; some users report the twist-lock mechanism needs muscle to secure"
   - "Carry bag is functional but thin; the steel frame corners can wear through after repeated packing"
+
 ---
 
 Let's be direct: most camping cots are either narrow enough to make you feel like you're sleeping in a coffin, or they're so low to the ground that getting up in the middle of the night feels like a full-body workout. The Gonex Extra Wide Cot with Leg Extenders tries to solve both problems at once. Here's whether it actually delivers.

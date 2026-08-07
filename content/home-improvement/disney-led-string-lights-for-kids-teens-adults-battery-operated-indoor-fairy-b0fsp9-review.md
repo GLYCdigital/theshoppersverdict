@@ -1,4 +1,5 @@
 ---
+
 title: "Disney LED String Lights for Kids, Teens, Adults, Battery Op"
 seo_title: "Disney LED String Lights Review: Battery-Powered Magic"
 meta_description: "Disney LED string lights review: battery-powered, 4.0-star rated. Are they worth it for bedrooms, dorms, or parties? Honest pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSP931ZP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "True Disney character bulbs (Mickey, Minnie, etc.) with clear, vibrant colors that hold up after repeated use"
   - "Battery-powered design means zero cords — works anywhere from bunk beds to dorm room headboards"
   - "Tiny LED bulbs run cool, so they're safe for fabric canopies and kids' bedding"
-cons:
+cons: 
   - "Batteries drain fast on the 'steady on' setting — expect to swap them out weekly with heavy nightly use"
   - "No timer function; you'll need to remember to switch them off or they'll run dead by morning"
   - "Wire is thinner than standard string lights, so rough handling by younger kids can kink or snap the connections"
+
 ---
 
 Look, I've reviewed dozens of "character" string lights over the years, and most are a gimmick — cheap plastic molds slapped on a wire with a markup. The Disney LED String Lights are the exception that almost gets it right. At 4.0 stars across 200 ratings, they're not perfect, but for what they are — a battery-powered, character-themed accent light — they deliver where it counts.

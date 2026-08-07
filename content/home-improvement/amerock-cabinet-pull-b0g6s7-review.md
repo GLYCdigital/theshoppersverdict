@@ -1,4 +1,5 @@
 ---
+
 title: "Amerock Cabinet Pull"
 seo_title: "Amerock Cabinet Pull Review: Worth It? Honest 2026 Verdict"
 meta_description: "Amerock Cabinet Pull review: Real-world testing, finish quality, and durability. See pros, cons, and who should buy this 4.0-rated hardware."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G6S7R1YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid zinc die-cast construction with a smooth, consistent finish that resists fingerprints and smudging"
   - "Standard 3-inch (76.2mm) hole spacing fits most existing cabinets — a true drop-in replacement"
   - "Ergonomic grip profile sits comfortably in the hand; no sharp edges or awkward angles"
-cons:
+cons: 
   - "Screws included are on the shorter side; won't work on thicker drawer fronts without swapping hardware"
   - "Finish durability varies by color — oil-rubbed bronze shows wear quicker than the brushed nickel options"
+
 ---
 
 **The Amerock Cabinet Pull is the hardware equivalent of a solid handshake — dependable, straightforward, and unremarkable in a good way.** If you're in the middle of a kitchen refresh and need pulls that won't fight you during installation or fall apart after a year of daily use, this one earns its place in your cart.

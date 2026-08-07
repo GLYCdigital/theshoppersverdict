@@ -1,4 +1,5 @@
 ---
+
 title: "Pyrex Pyrex Basics 1.5qt Loaf Dish"
 seo_title: "Pyrex Pyrex Basics 1.5qt Loaf Dish Review: Verdict | TSV"
 meta_description: "Our full pyrex pyrex basics 1.5qt loaf dish review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FFZ8MGMJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S-trj8vfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever pulled a banana bread out of a dark metal loaf pan only to find the edges burnt and the center still raw, you already understand why Pyrex Basics has been a kitchen staple for decades. The 1.5qt loaf dish is the brand's answer to a perennial problem: how to bake evenly without sticking or scorching.

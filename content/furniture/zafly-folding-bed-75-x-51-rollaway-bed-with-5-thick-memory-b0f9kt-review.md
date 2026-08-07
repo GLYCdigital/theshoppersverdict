@@ -1,7 +1,8 @@
 ---
-title: "ZAFLY Folding Bed, 75\" x 51\" Rollaway Bed with 5\" Thick Memo"
-seo_title: "ZAFLY Folding Bed, 75\" x 51\" Rollaway Bed with 5\"  Review"
-meta_description: "Our full zafly folding bed, 75\" x 51\" rollaway bed with 5\" thick memo review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "ZAFLY Folding Bed, 75\ x 51\ Rollaway Bed with 5\ Thick Memo"
+seo_title: "ZAFLY Folding Bed, 75\ x 51\ Rollaway Bed with 5\  Review"
+meta_description: "Our full zafly folding bed, 75\ x 51\ rollaway bed with 5\ thick memo review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "zafly-folding-bed-75-x-51-rollaway-bed-with-5-thick-memory-b0f9kt-review"
 image_alt: "ZAFLY Folding Bed, 75 x 51 Rollaway Bed with 5 Thick Memory Foam Mattress for Adults, Queen Size Fold Up Roll Away Sleep"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F9KTKBHS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kYmCcQIaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Zafly Folding Bed 75 x 51 is a serious attempt at solving the guest bed problem — but it's not without compromises.** Let me be clear about what this is: a rollaway bed that's actually trying to feel like a real mattress, not a wire-frame cot with a yoga mat on top.

@@ -1,4 +1,5 @@
 ---
+
 title: "Motorola Cable Modem with Built in Gigabit WiFi Router Combo"
 seo_title: "Motorola Cable Modem with Built in Gigabit WiFi Ro Review"
 meta_description: "Our full motorola cable modem with built in gigabit wifi router combo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B09NZ9F6B2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cWTNSf8RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still paying $12–15 a month to rent a modem from your cable company, this Motorola combo is worth a hard look. But before you click buy, understand exactly what you're getting — because this isn't the modem that'll max out your gigabit fiber-to-cable upgrade.

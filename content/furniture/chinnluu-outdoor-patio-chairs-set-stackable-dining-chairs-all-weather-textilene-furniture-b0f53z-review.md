@@ -1,4 +1,5 @@
 ---
+
 title: "CHINNLUU Outdoor Patio Chairs Set Stackable Dining Chairs Al"
 seo_title: "CHINNLUU Outdoor Patio Chairs Review: Stackable & Durable"
 meta_description: "CHINNLUU outdoor patio chairs set review: stackable aluminum frames, Textilene seating, 4.3-star rated. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F53Z71TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Eo+VSRFGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely stackable — 4-5 chairs nest into a 2-foot footprint for off-season storage"
   - "Textilene mesh seat is quick-drying and doesn't absorb heat like solid plastic"
   - "Aluminum frame stays rust-free through rain and humidity; chairs come fully assembled"
-cons:
+cons: 
   - "No armrests on this model — some users miss the support when sitting for long meals"
   - "Hardware can loosen after a season of heavy use; plan to re-tighten bolts periodically"
+
 ---
 
 Let's be blunt: most patio chairs under $100 are either flimsy plastic that cracks by August or heavy steel that rusts by year two. The CHINNLUU stackable dining chair tries to hit a smarter middle ground — aluminum frame, Textilene mesh seating, and a design that actually stacks. After digging through 215 ratings and the real-world feedback baked into them, here's what you need to know before you click "add to cart."

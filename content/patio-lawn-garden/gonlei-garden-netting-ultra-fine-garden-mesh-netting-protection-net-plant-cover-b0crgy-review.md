@@ -1,4 +1,5 @@
 ---
+
 title: "GonLei Garden Netting Ultra Fine Garden Mesh Netting Protect"
 seo_title: "GonLei Garden Netting Ultra Fine Garden Mesh Netti Review"
 meta_description: "Our full gonlei garden netting ultra fine garden mesh netting protect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CRGY9R4H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qwhEe4FQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # GonLei Garden Netting Review: Is Ultra-Fine Mesh Worth the Hype?

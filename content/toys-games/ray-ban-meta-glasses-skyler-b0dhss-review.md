@@ -1,4 +1,5 @@
 ---
+
 title: "Ray-Ban Meta Glasses, Skyler"
 seo_title: "Ray-Ban Meta Glasses, Skyler Review: Verdict | TSV"
 meta_description: "Our full ray-ban meta glasses, skyler review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHSSCCN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511MGN5yCOL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Frontmatter complete. Review body below.**

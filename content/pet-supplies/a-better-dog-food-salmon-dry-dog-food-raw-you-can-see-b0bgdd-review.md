@@ -1,4 +1,5 @@
 ---
+
 title: "A Better Dog Food | Salmon Dry Dog Food | Raw You Can See |"
 seo_title: "A Better Dog Food Salmon Review: Raw-Coated Kibble (2026)"
 meta_description: "Honest A Better Dog Food Salmon dry kibble review: visible raw pieces, real salmon, 4.0-star rating. Pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BGDD1J4P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810K6MnB6CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Visible raw-coated kibble pieces — you can actually see the freeze-dried raw bits mixed in, not just promises on the label"
   - "Salmon is the first ingredient, with no chicken, corn, wheat, or soy — solid for dogs with poultry sensitivities"
   - "Smaller kibble size works well for medium breeds and senior dogs with dental issues"
-cons:
+cons: 
   - "Some bags arrive with excessive powder at the bottom — the raw coating separates during shipping, which makes portions look inconsistent"
   - "Strong fishy odor that lingers in the bowl and on breath; noticeable if your dog eats indoors"
   - "Price per pound runs higher than comparable salmon kibbles from Purina Pro Plan or Taste of the Wild"
+
 ---
 
 **The "Raw You Can See" claim is literally true — and that's both the appeal and the catch.**

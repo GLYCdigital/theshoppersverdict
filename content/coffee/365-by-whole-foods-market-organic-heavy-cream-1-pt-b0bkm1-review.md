@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market Organic Heavy Cream, 1 PT"
 seo_title: "365 Organic Heavy Cream Review: Barista Tested (2026)"
 meta_description: "Honest 365 by Whole Foods Organic Heavy Cream review: Does it whip, steam, and pour like a $6 pint? Tested in coffee, tested in foam. Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BKM1W82J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617sGFMslRL._SL1500_.jpg"
-pros:
+pros: 
   - "Contains only one ingredient (organic cream) with no stabilizers or gums, so it steams and whips with clean dairy flavor"
   - "Consistently fresh with a distant sell-by date — multiple reviewers note it lasts 1–2 weeks past opening"
   - "Pint size is practical for coffee drinkers who want heavy cream without committing to a quart that spoils"
-cons:
+cons: 
   - "Thinner mouthfeel than ultra-pasteurized brands like Organic Valley — some coffee drinkers find it less 'silky'"
   - "Can over-whip quickly if you're not watching — it's sensitive to temperature swings in warm kitchens"
+
 ---
 
 Let's cut to the chase: you're not here because you're curious about dairy farming. You're here because you put heavy cream in your coffee and you want to know if the Whole Foods house brand actually holds up. Short answer: yes, with a caveat or two.

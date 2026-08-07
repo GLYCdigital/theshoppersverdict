@@ -1,4 +1,5 @@
 ---
+
 title: "BAM POS 3 1/8 inch  x 190' Thermal Receipt Paper Rolls For Most P"
 seo_title: "BAM POS Thermal Receipt Paper Review: 190' Rolls Tested"
 meta_description: "BAM POS 3 1/8 inch  x 190' thermal receipt paper review: print quality, compatibility, value. Real buyer feedback on 229 ratings. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07MC5B38S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TfMXgaAHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 190-foot length per roll delivers roughly 30% more receipts per roll than typical 165-foot budget options"
   - "Clean, consistent thermal coating with no fading or smudging issues reported across 229 ratings"
   - "Compatible with the vast majority of 3 1/8-inch (80mm) receipt printers including Epson, Star, and Zebra models"
-cons:
+cons: 
   - "No cardboard core option — these are plastic cores, which some recyclers won't accept"
   - "Packaging is minimal; rolls can arrive slightly compressed if the box gets crushed in transit"
+
 ---
 
 Receipt paper is one of those purchases you don't think about until you're mid-transaction with a customer staring at a blank roll. The BAM POS 3 1/8" x 190' thermal paper has become a go-to for small business owners, and after digging into what 229 buyers are saying, I understand why.

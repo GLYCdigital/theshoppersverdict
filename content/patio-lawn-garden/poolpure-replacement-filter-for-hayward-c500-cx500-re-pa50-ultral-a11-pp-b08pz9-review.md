@@ -1,4 +1,5 @@
 ---
+
 title: "POOLPURE Replacement Filter for Hayward C500, CX500-RE, PA50"
 seo_title: "POOLPURE Replacement Filter for Hayward C500, CX50 Review"
 meta_description: "Our full poolpure replacement filter for hayward c500, cx500-re, pa50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08PZ9DQHL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rHX85Jx8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don’t need to hear that pool filters are important. You need to know if this $40-ish cartridge actually replaces a $90 Hayward part without headaches. After digging through 229 ratings and the technical specs, here’s the straight story.

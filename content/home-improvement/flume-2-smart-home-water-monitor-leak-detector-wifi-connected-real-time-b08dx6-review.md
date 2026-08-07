@@ -1,4 +1,5 @@
 ---
+
 title: "Flume 2 Smart Home Water Monitor & Leak Detector – WiFi Co"
 seo_title: "Flume 2 Smart Water Monitor Review: Real-Time Leak Detection (2026)"
 meta_description: "Flume 2 Smart Home Water Monitor review: Does this WiFi leak detector earn its 4.0 rating? We break down accuracy, install, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08DX6MP8X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QwYtdcCaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Non-invasive clamp-on sensor installs in minutes without cutting pipes or calling a plumber — works with virtually any standard water meter"
   - "Granular real-time data with customizable alerts (flow spikes, continuous use, unusual overnight activity) that actually caught a toilet flapper leak in testing"
   - "No monthly subscription for core features — the app gives you hourly usage graphs, leak alerts, and fixture-level insights free"
-cons:
+cons: 
   - "Requires a 2 AA batteries swap every 18-24 months; the sensor fails silently if you ignore low-battery warnings, leaving you unprotected"
   - "Accuracy drifts on low-flow fixtures (under 0.25 GPM) — a slow drip may not trigger alerts, so it's not a substitute for a point-of-use moisture sensor"
   - "Bridge unit must be within 30-40 feet of the sensor with clear line-of-sight; in larger homes you may need to buy a second bridge ($49) for reliable connectivity"
+
 ---
 
 **The 4.0-star rating on this Flume 2 isn't a cop-out — it's a reflection of a product that does one thing exceptionally well and another thing merely "okay."** Let me be direct: if you want to know exactly how much water your home uses, down to the gallon, and get alerted the moment something's wrong, this is the best non-invasive option on the market. If you're expecting it to catch every pinhole leak behind your drywall, you'll be disappointed.

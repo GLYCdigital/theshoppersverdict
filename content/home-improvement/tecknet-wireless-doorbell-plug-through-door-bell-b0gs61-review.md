@@ -1,4 +1,5 @@
 ---
+
 title: "TECKNET Wireless Doorbell, Plug-through Door Bell"
 seo_title: "TECKNET Wireless Doorbell, Plug-through Door Bell Review:"
 meta_description: "Our full tecknet wireless doorbell, plug-through door bell review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GS61F66B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NbbcI7h2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Doorbell That Doesn't Steal Your Outlet

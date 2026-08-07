@@ -1,4 +1,5 @@
 ---
+
 title: "Uciefy Wireless Bluetooth Mouse, LED Rechargeable, Multi-Dev"
 seo_title: "Uciefy Wireless Bluetooth Mouse, LED Rechargeable, Review"
 meta_description: "Our full uciefy wireless bluetooth mouse, led rechargeable, multi-dev review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5B6DW37/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lTAGbNp6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $20 Mouse That Thinks It's a $60 One

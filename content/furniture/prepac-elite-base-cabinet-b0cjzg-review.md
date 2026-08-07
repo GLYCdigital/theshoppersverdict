@@ -1,4 +1,5 @@
 ---
+
 title: "Prepac Elite Base Cabinet"
 seo_title: "Prepac Elite Base Cabinet Review: Verdict | TSV"
 meta_description: "Our full prepac elite base cabinet review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CJZG8XF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-5ODm8R+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Prepac Elite Base Cabinet isn't flashy. That's exactly why it works.**

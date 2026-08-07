@@ -1,4 +1,5 @@
 ---
+
 title: "MAXvolador 12-Pack Hanging Solar Lights Outdoor"
 seo_title: "MAXvolador 12-Pack Hanging Solar Lights Outdoor Review: V"
 meta_description: "Our full maxvolador 12-pack hanging solar lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1SB5RCV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hkLFUkuTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Solar string lights are a dime a dozen on Amazon. Most deliver a weak glow for two hours before dying, and half the bulbs stop working by the second season. The **MAXvolador 12-pack** isn't perfect, but it's a clear cut above that crowd — and the 4.4-star average across 220 ratings backs that up.

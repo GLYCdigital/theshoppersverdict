@@ -1,4 +1,5 @@
 ---
+
 title: "Nicebay Hair Dryer Brush, Blow Dryer Brush for Women Fast St"
 seo_title: "Nicebay Hair Dryer Brush, Blow Dryer Brush for Wom Review"
 meta_description: "Our full nicebay hair dryer brush, blow dryer brush for women fast st review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CH3CS9N8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kzJ3oKq6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nicebay Hair Dryer Brush: The $40 Blowout That Actually Works?

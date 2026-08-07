@@ -1,4 +1,5 @@
 ---
+
 title: "PinkSheep Kids Jewelry, 6 Sets Toddler Beaded Necklaces and "
 seo_title: "PinkSheep Kids Jewelry, 6 Sets Toddler Beaded Neck Review"
 meta_description: "Our full pinksheep kids jewelry, 6 sets toddler beaded necklaces and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DT6P1N7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SsQ7UzDKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

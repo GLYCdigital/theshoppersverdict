@@ -1,4 +1,5 @@
 ---
+
 title: "PEMAR Mother of Pearl Inlaid Cylinder Drum End Table Nacre C"
 seo_title: "PEMAR Mother of Pearl Inlaid Cylinder Drum End Tab Review"
 meta_description: "Our full pemar mother of pearl inlaid cylinder drum end table nacre c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CDTZPXRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OZd5pMG6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: most “mother of pearl” furniture you find online is printed vinyl pretending to be shell. The PEMAR Nacre C is not that. This is genuine capiz shell — thin, translucent squares hand-laid over a cylindrical drum base — and it shows in every angle of light. At 4.7 stars across 235 ratings, it’s earned its reputation. But it’s not a piece for everyone, and here’s the honest breakdown.

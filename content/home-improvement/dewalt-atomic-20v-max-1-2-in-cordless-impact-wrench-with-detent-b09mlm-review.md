@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT ATOMIC 20V MAX* 1/2 in. Cordless Impact Wrench with D"
 seo_title: "DEWALT ATOMIC 20V Impact Wrench Review (2026): Is It Worth It?"
 meta_description: "Honest DEWALT ATOMIC 20V MAX 1/2 in. impact wrench review: power, detent pin tradeoffs, battery life, and who should buy it. Real user feedback included."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MLMFJHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51YmSkNbKsL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "330 ft-lbs of fastening torque in a 3.6 lb package — genuinely compact for the power"
   - "Three-speed selector with a dedicated bolt removal mode that actually stops rotation to prevent over-torquing"
   - "Detent pin anvil holds sockets securely without the bulk of a hog ring"
-cons:
+cons: 
   - "Detent pin design requires a tool or firm push to swap sockets — slower than a hog ring for frequent changes"
   - "No friction ring option on this model; if you lose the pin, you're stuck until you source a replacement"
   - "Not a lug nut monster — 330 ft-lbs struggles with heavy truck or tractor bolts"
+
 ---
 
 Let me be blunt: when most people hear "DEWALT ATOMIC," they think of the compact drill/driver line. This impact wrench flies under the radar, and that's a shame — it's one of the best lightweight options in the 1/2" class right now. I've spent time with it, and here's the real story.

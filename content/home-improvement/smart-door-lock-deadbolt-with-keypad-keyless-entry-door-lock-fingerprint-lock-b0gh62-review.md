@@ -1,4 +1,5 @@
 ---
+
 title: "Smart Door Lock Deadbolt with Keypad: Keyless Entry Door Loc"
 seo_title: "Smart Door Lock Deadbolt with Keypad: Keyless Entr Review"
 meta_description: "Our full smart door lock deadbolt with keypad: keyless entry door loc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GH62JB29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tfp5bn8SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the listing photos and talk about what this lock actually does. The Smart Door Lock Deadbolt with Keypad (model B0GH62JB29) is a **standalone keyless deadbolt** that replaces your existing thumb-turn lock. No Wi-Fi, no app, no subscription — just a fingerprint reader, a backlit keypad, and a physical key for backup. At a 4.0-star average across 200 ratings, it’s not perfect, but it nails the basics for a specific type of buyer.

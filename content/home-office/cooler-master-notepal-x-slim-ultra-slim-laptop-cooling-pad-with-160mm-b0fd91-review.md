@@ -1,4 +1,5 @@
 ---
+
 title: "Cooler Master NotePal X-Slim Ultra-Slim Laptop Cooling Pad w"
 seo_title: "Cooler Master NotePal X-Slim Review: Slim & Effective Cooling"
 meta_description: "Cooler Master NotePal X-Slim review: ultra-slim 160mm fan cooling pad. See how it performs, who it's for, and whether it's worth your money."
@@ -11,15 +12,16 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FD91ZQ2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61F6ZR+J4TL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "160mm fan moves serious air while staying whisper-quiet at 21 dBA"
   - "Ultra-slim 26mm profile slides into most laptop bags without bulk"
   - "Dual USB ports keep connectivity intact while powering the fan"
   - "Tool-free height adjustment with two viewing angles for typing comfort"
-cons:
+cons: 
   - "Fan placement is fixed and may miss side-mounted cooling vents on some laptops"
   - "Plastic build feels light; no metal reinforcement for heavy-duty use"
   - "Single fan design struggles with high-TDP gaming laptops under sustained load"
+
 ---
 
 The Cooler Master NotePal X-Slim is the laptop cooling pad that keeps showing up in budget-focused workspace setups, and after digging through 215 ratings averaging 4.3 stars, I understand why. It's not flashy, it's not loaded with RGB, and it won't cool a gaming rig that's pushing 90°C. But for the vast majority of laptop users who just want their machine to run cooler, quieter, and more comfortably on a desk, this slim aluminum-and-plastic pad delivers exactly what it promises — with a few caveats worth knowing before you buy.

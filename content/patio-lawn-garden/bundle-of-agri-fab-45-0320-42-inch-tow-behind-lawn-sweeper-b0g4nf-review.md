@@ -1,4 +1,5 @@
 ---
+
 title: "Bundle of Agri-Fab 45-0320 42-Inch Tow-Behind Lawn Sweeper,"
 seo_title: "Agri-Fab 45-0320 42-Inch Tow-Behind Lawn Sweeper Review"
 meta_description: "Honest review of the Agri-Fab 45-0320 42-inch tow-behind lawn sweeper. Build quality, real-world performance, and whether this bundle is worth your money."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0G4NF4HKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qfrxpickL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "42-inch sweeping width matches a standard 42-inch riding deck, so you cover your mower's path in one pass without overlap gaps"
   - "Height-adjustable brush deck (1.5 to 3 inches) lets you dial in the perfect brush-to-ground contact for different grass lengths"
   - "Folds upright for vertical storage, cutting garage footprint down to roughly 2 by 3 feet when not in use"
-cons:
+cons: 
   - "Polyester collection bags hold only 12.5 bushels — that's about 7-8 full bags of grass clippings on a typical half-acre, meaning frequent emptying on bigger lots"
   - "Plastic wheels and non-sealed bearings wear faster than steel alternatives; several owners report replacing wheel assemblies after 2-3 seasons"
   - "Assembly takes 45-60 minutes with a socket set, and the instruction manual's line drawings are small and occasionally ambiguous at pivot points"
+
 ---
 
 **Is the Agri-Fab 45-0320 the lawn sweeper that finally ends your leaf-raking misery? Short answer: yes — if you own a riding mower and have a half-acre or less. Here's the long answer.**

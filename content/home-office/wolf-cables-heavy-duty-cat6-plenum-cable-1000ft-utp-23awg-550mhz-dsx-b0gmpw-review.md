@@ -1,4 +1,5 @@
 ---
+
 title: "WOLF CABLES | Heavy-Duty CAT6 Plenum Cable 1000ft | UTP, 23A"
 seo_title: "WOLF CABLES | Heavy-Duty CAT6 Plenum Cable 1000ft  Review"
 meta_description: "Our full wolf cables | heavy-duty cat6 plenum cable 1000ft | utp, 23a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GMPWTJ23/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41cwwvQcqaL._SX342_SY445_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to run 1,000 feet of cable through drop ceilings or between floors, and the last thing you need is a spool that fights you. The WOLF CABLES Heavy-Duty CAT6 Plenum 1000ft has the right specs on paper — 23AWG solid copper, CMP jacket, 550MHz rating — but the real question is whether the physical reality matches the marketing. At $129.99 (about 13 cents per foot), it's priced lower than name-brand plenum cable from Monoprice or Belden, and that price gap tells a story worth reading before you commit.

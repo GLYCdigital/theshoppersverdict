@@ -1,4 +1,5 @@
 ---
+
 title: "Decaf Coffee Pods"
 seo_title: "Decaf Coffee Pods Review: Honest 2026 Buyer's Guide"
 meta_description: "Read our 2026 decaf coffee pods review with 4.2/5 rating. Real buyer feedback on flavor, compatibility, and value. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FVYG56DY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611k3ntvIGL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent full-bodied flavor with low acidity — doesn't taste like typical watery decaf"
   - "Universal pod design fits Keurig 2.0, most single-serve brewers, and reusable filter baskets"
   - "Caffeine removed via Swiss Water Process, not chemical solvents — clean, smooth finish"
-cons:
+cons: 
   - "Thinner pod walls can split if overfilled or brewed on extra-large settings"
   - "Some buyers report the 10-ounce brew yields a slightly weaker cup than expected"
   - "Roast level varies between batches — dark roast fans may find inconsistency in medium blends"
+
 ---
 
 **Decaf doesn't have to taste like punishment.** That's the first thing you'll notice with these pods. I've tested dozens of decaf options over the years, and most fall into two camps: chemically bitter or flavorless brown water. This one lands somewhere refreshingly in between — a real coffee experience minus the jitters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Easelife Sliding Barn Door"
 seo_title: "Easelife Sliding Barn Door Review: Worth It? [2026]"
 meta_description: "Honest Easelife Sliding Barn Door review: hardware quality, installation, noise, and value. See real pros/cons before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CKN6F11M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-AVQBu1-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty 10-gauge steel track and hardened steel rollers rated for doors up to 220 lbs"
   - "Complete kit includes 6.6ft rail, soft-close mechanism, floor guide, and all mounting hardware"
   - "Anti-jump brackets and rubber bumper stops prevent derailment and loud metal-on-metal contact"
-cons:
+cons: 
   - "Soft-close is on one side only; the opposite direction stops with a firm thud"
   - "Stainless steel track shows fingerprints and smudges easily, requiring frequent wiping"
+
 ---
 
 If you've priced out barn door hardware at big-box stores, you know the sticker shock: $150 to $300 for a basic rail and rollers. The Easelife Sliding Barn Door kit undercuts that dramatically while claiming commercial-grade construction. After digging through 225 ratings and analyzing the spec sheet, here's the real story on whether this kit delivers or cuts corners.

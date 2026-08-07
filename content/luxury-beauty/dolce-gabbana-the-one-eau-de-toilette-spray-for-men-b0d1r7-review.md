@@ -1,4 +1,5 @@
 ---
+
 title: "Dolce&Gabbana The One, Eau De Toilette Spray, For Men"
 seo_title: "Dolce&Gabbana The One EDT Review: Worth It? (2026)"
 meta_description: "Dolce&Gabbana The One EDT for Men reviewed: performance, sillage, longevity, and value. See if this 4.7-star iconic scent is worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D1R7R641/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41VvhUPfgvL._SL1000_.jpg"
-pros:
+pros: 
   - "Smooth, sophisticated tobacco-amber base that never turns harsh or cloying"
   - "Compliment magnet — consistently described as one of the most appealing men's scents"
   - "Versatile enough for office, dates, and formal events without being overpowering"
-cons:
+cons: 
   - "Longevity is genuinely poor — expect 3-4 hours before it becomes a skin scent"
   - "Weak projection; you'll need to spray generously or reapply for evening wear"
+
 ---
 
 Let's get the elephant in the room out of the way first: Dolce&Gabbana The One EDT has a longevity problem. It's the single most common complaint in customer reviews, and it's legitimate. But here's the thing — people keep buying it anyway, and they keep rating it 4.7 out of 5 stars. That tells you everything about what this fragrance gets right.

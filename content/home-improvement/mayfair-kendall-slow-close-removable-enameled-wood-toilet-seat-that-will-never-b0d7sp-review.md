@@ -1,4 +1,5 @@
 ---
+
 title: "Mayfair Kendall Slow-Close, Removable Enameled Wood Toilet S"
 seo_title: "Mayfair Kendall Slow-Close, Removable Enameled Woo Review"
 meta_description: "Our full mayfair kendall slow-close, removable enameled wood toilet s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7SP7C71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XndjFYCBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't think about toilet seats until the wrong one makes you think about it constantly. The Mayfair Kendall is the kind of product that disappears into your daily routine — which, for bathroom hardware, is the highest compliment you can pay it. With 225 ratings and a 4.5-star average, it's clearly doing something right. Here's what that something is, and where it stumbles.

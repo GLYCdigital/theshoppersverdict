@@ -1,4 +1,5 @@
 ---
+
 title: "Magic: The Gathering Starter Commander Deck"
 seo_title: "Magic: The Gathering Starter Commander Deck Review: Verdi"
 meta_description: "Our full magic: the gathering starter commander deck review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D8HQ94TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Qn-Y3VtkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wanted to learn Commander — Magic: The Gathering's most popular format — but felt intimidated by the sheer number of cards, rules, and deck-building theory, this Starter Commander Deck set is the best gateway product on the market right now. It's not the flashiest MTG product, but it solves the biggest problem for new players: where to start.

@@ -1,16 +1,17 @@
 ---
+
 title: "Ninja FB131GY FrostVault Hard Cooler with Dry Zone"
 seo_title: "Ninja FrostVault Hard Cooler Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest Ninja FrostVault hard cooler review 991+ reviews analyzed. Real pros, cons, Dry Zone technology, ice retention, and our verdict."
 slug: "ninja-fb131gy-frostvault-hard-cooler-with-dry-zone-30-quart-review"
 image_alt: "Ninja FB131GY FrostVault Hard Cooler with Dry Zone featuring 30-quart capacity, dual-zone design, and heavy-duty construction"
-keywords:
+keywords: 
   - "Ninja FrostVault review"
   - "Ninja hard cooler review"
   - "best cooler with dry zone"
   - "Ninja cooler ice retention"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "How does the Ninja FrostVault Dry Zone work?"
     answer: "The Ninja FrostVault Dry Zone uses FrostVault Technology that transfers cold from the main ice compartment into a sealed drawer below, keeping food cool (under 40°F), dry, and separate from melting ice. This means lunch meat, cheese, and produce stay cold and dry — never soggy or slimy from sitting in water."
   - question: "How long does ice last in the Ninja FrostVault cooler?"
@@ -23,16 +24,17 @@ review_count: 991
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV5M1DK2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61qXuIoRi2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Innovative Dry Zone keeps food dry and separate from ice"
   - "Holds ice for days with up to 3 inches of insulation"
   - "30-quart capacity fits 48 cans or 26 cans with ice"
   - "Durable handles and secure latch for easy carrying"
   - "Lockable lid compatible with Ninja padlocks (bear-resistant)"
-cons:
+cons: 
   - "Ice doesn't quite last as long as premium rotomolded coolers"
   - "Dry Zone reduces main compartment space slightly"
   - "Best performance requires proper pre-chilling technique"
+
 ---
 
 **Is the Ninja FrostVault the cooler that finally solves the soggy sandwich problem?** After 991 Amazon ratings averaging 4.6 stars, it's clearly doing something right. But at $47.73, is this 30-quart cooler a genuine value or just another branded plastic box? I dug through the specs, the feedback, and the real-world complaints to give you the straight answer.

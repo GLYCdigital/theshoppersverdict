@@ -1,4 +1,5 @@
 ---
+
 title: "Prestige 600w and 700w PSU Variation"
 seo_title: "Prestige 600w and 700w PSU Variation Review: Verdict | TS"
 meta_description: "Our full prestige 600w and 700w psu variation review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYPM2RN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zlrRfNtFL._AC_SL1224_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Prestige 600W and 700W PSU Variation: The Budget Power Supply That Doesn't Cheap Out on the Basics

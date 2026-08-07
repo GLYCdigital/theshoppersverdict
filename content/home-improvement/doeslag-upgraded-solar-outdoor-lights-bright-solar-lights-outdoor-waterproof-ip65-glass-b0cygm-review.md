@@ -1,4 +1,5 @@
 ---
+
 title: "DOESLAG Upgraded Solar Outdoor Lights, Bright Solar Lights O"
 seo_title: "DOESLAG Solar Outdoor Lights Review: Bright, IP65 & Durable"
 meta_description: "Honest DOESLAG solar outdoor lights review: bright 800LM output, IP65 waterproofing, glass lens durability. See pros, cons & real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CYGM2BNK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jKbMepwUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 800-lumen output from a 12-LED array — bright enough to illuminate a full driveway, not just a walkway"
   - "IP65 waterproof rating plus a real glass lens (not cheap plastic) that won't yellow or cloud over after a season"
   - "Three adjustable head panels let you aim light in multiple directions from a single fixture — covers corners other solar lights miss"
-cons:
+cons: 
   - "Battery capacity is modest at 2000mAh — buyers in low-sun regions report dimming after 4–5 hours in winter"
   - "Mounting bracket uses plastic anchors; heavier units can sag if not secured into studs or masonry properly"
+
 ---
 
 Let's cut through the noise on solar lights. Most units under $40 are glorified nightlights — they throw a weak yellow glow that fades by 9 PM. The DOESLAG Upgraded Solar Outdoor Lights aren't that. With a 12-LED array pushing a claimed 800 lumens through a real glass lens, these are built for actual illumination, not just decorative accent lighting.

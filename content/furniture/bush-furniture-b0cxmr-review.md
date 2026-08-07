@@ -1,4 +1,5 @@
 ---
+
 title: "Bush Furniture"
 seo_title: "Bush Furniture Review: Is It Worth It? (2026)"
 meta_description: "Bush Furniture review: 4.5-star rated home furnishing. Real pros, cons, and buying advice. See who should buy it and who should skip it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXMR2XDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OpccRTpKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid laminate construction with scratch-resistant finish that holds up better than comparable budget brands"
   - "Clear, numbered assembly instructions with all hardware included — most buyers report 30-60 minute build times"
   - "Versatile modular design that works in home offices, living rooms, or dorm setups"
-cons:
+cons: 
   - "Particleboard core means water damage is permanent — keep drinks on coasters, not directly on surfaces"
   - "Some buyers report minor alignment issues with pre-drilled holes on certain pieces"
   - "Not a piece you'll move frequently — once assembled, it's very heavy and awkward to relocate"
+
 ---
 
 # Bush Furniture: The Budget-Friendly Choice That Actually Holds Up

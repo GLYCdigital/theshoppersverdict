@@ -1,16 +1,17 @@
 ---
+
 title: "Hamilton Beach Portable Blender for Shakes and Smoothies, 14 Oz, White (51101V)"
 seo_title: "Hamilton Beach 51101V Personal Blender Review — 4.2★ at $24.95"
 meta_description: "Hamilton Beach 51101V portable blender review: 70,156 reviews analyzed. 14oz travel cup, stainless steel blades, BPA-free. Is this the best budget smoothie blender?"
 slug: "hamilton-beach-portable-blender-14oz-smoothie-review"
 image_alt: "Hamilton Beach 51101V Portable Blender in White with Travel Cup"
-keywords:
+keywords: 
   - "Hamilton Beach 51101V review"
   - "personal blender for smoothies"
   - "Hamilton Beach portable blender review"
   - "budget smoothie maker"
 verdict_score: 4.0
-faq:
+faq: 
   - question: "How do you lock the cup onto the Hamilton Beach blender base?"
     answer: "Line up the unlock icon on the cup with the base, place it down, then twist to the left (counterclockwise) to lock. A lock icon shows when it's properly seated. Most user complaints about the cup not staying on come from not locking it correctly."
   - question: "Can this blender crush ice and frozen fruit?"
@@ -23,14 +24,15 @@ review_count: 70156
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00065L6CU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+xUG74fkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "70,156 reviews — one of the most-reviewed blenders on Amazon"
   - "Compact design takes minimal counter space, cup doubles as travel container"
   - "Easy to clean — blade assembly doesn't require disassembly"
-cons:
+cons: 
   - "Motor life is limited — many users report burnout after 1-2 years of daily use"
   - "Lid can be very difficult to remove, especially for users with weaker hands"
   - "Plastic construction can develop cracks and leaks over extended use"
+
 ---
 
 **The $25 Blender That Actually Blends Ice — Mostly**

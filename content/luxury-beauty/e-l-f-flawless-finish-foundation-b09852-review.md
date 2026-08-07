@@ -1,4 +1,5 @@
 ---
+
 title: "e.l.f. Flawless Finish Foundation"
 seo_title: "e.l.f. Flawless Finish Foundation Review: Worth It? (2026)"
 meta_description: "Honest e.l.f. Flawless Finish Foundation review: coverage, shade range, wear time, and who should buy it. Real buyer feedback at 4.3 stars."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09852KTMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614WUNz8ByL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable medium coverage that layers without caking — even on dry patches"
   - "Pump dispenser delivers controlled doses; no wasted product or messy spills"
   - "Natural satin finish that photographs well and doesn't require powder to set"
-cons:
+cons: 
   - "Shade range skews light-to-medium; deeper tones are limited and run warm"
   - "Not truly oil-proof — expect touch-ups around the T-zone after 6 hours"
   - "Fragrance is noticeable for the first 10 minutes after application"
+
 ---
 
 Let's be direct about what e.l.f. Flawless Finish Foundation actually is: a budget-friendly satin-finish foundation that punches well above its price point, but it's not the miracle product some TikTok reviews claim. With 215 ratings averaging 4.3 stars, the consensus is solid — but the dissenters raise fair points worth hearing.

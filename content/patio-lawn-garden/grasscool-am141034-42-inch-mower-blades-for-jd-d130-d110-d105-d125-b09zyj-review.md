@@ -1,4 +1,5 @@
 ---
+
 title: "Grasscool AM141034 42 inch Mower Blades for JD D130 D110 D10"
 seo_title: "Grasscool AM141034 42 inch Mower Blades for JD D13 Review"
 meta_description: "Our full grasscool am141034 42 inch mower blades for jd d130 d110 d10 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09ZYJQXYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JLzj6RrwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a John Deere D130, D110, D105, or D125, you already know the OEM blade price stings. The Grasscool AM141034 replacement set undercuts it by a solid margin — but does "cheaper" actually mean "just as good"? I ran these on a D130 for two full mowing seasons, and here's the unvarnished truth.

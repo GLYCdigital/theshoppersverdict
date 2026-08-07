@@ -1,4 +1,5 @@
 ---
+
 title: "Kensington Trackball Mouse"
 seo_title: "Kensington Trackball Mouse Review: Verdict | TSV"
 meta_description: "Our full kensington trackball mouse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DC8JJKVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ht0tz6LlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kensington Trackball Mouse isn't for everyone — but for the right user, it's a career-saving upgrade.**

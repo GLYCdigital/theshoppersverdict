@@ -1,4 +1,5 @@
 ---
+
 title: "BYKITCHEN Stackable Square Air Fryer Rack for Airfryer, Squa"
 seo_title: "BYKITCHEN Stackable Square Air Fryer Rack Review (2026)"
 meta_description: "BYKITCHEN stackable square air fryer rack review: doubles cooking capacity, fits 5-8qt models. Real pros, cons, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJDHH4R3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-5k4-EtXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Doubles usable cooking surface in square 5-8qt air fryers without blocking airflow"
   - "Silicone-coated feet grip the basket floor — rack stays put when shaking food"
   - "Dishwasher-safe 304 stainless steel that doesn't warp or discolor after repeated use"
-cons:
+cons: 
   - "Only fits square baskets — round air fryer owners are out of luck"
   - "Tall items like chicken thighs on the bottom tier can block heat reaching the top rack"
+
 ---
 
 Let's be blunt: most air fryer accessories are gimmicks that take up drawer space. The BYKITCHEN Stackable Square Air Fryer Rack is not one of them — provided your air fryer is square. This two-tier stainless steel rack genuinely doubles your cooking surface, and with 220 ratings averaging 4.4 stars, the consensus backs it up. But it has a critical compatibility catch you need to know before clicking buy.

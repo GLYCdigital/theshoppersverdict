@@ -1,4 +1,5 @@
 ---
+
 title: "GCI Outdoor Rocker Camping Chair"
 seo_title: "GCI Outdoor Rocker Camping Chair Review (2026): Buy or Skip?"
 meta_description: "Honest GCI Outdoor Rocker Camping Chair review: spring-action rocking comfort, sturdy steel frame, 250-lb capacity. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLBV849G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71stfTqq2AL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spring-action rocker base delivers genuine rocking motion without needing legs to lift — works on uneven campsite ground"
   - "Steel frame with 250-pound capacity feels solid; no wobble even when leaning back"
   - "Padded armrests and breathable mesh back keep you comfortable through a full evening by the fire"
-cons:
+cons: 
   - "Folded size is bulky (40 x 7.5 x 7.5 inches) and the included carry strap is basic — won't fit in a standard car trunk easily"
   - "No cup holder on the right armrest — only the left side has one, which left-handed users will find annoying"
   - "Assembly required out of the box; some buyers report the rocker springs need a firm push to lock in place"
+
 ---
 
 Let me be blunt: most "rocking" camping chairs are gimmicks. The legs lift, the chair tips, and you spend the whole trip fighting the ground. The GCI Outdoor Rocker actually solves that problem with a spring-based rocker base that moves the seat, not the legs. That single design decision makes it worth a serious look.

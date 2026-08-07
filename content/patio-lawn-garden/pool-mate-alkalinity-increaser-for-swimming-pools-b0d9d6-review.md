@@ -1,4 +1,5 @@
 ---
+
 title: "Pool Mate Alkalinity Increaser for Swimming Pools"
 seo_title: "Pool Mate Alkalinity Increaser for Swimming Pools Review:"
 meta_description: "Our full pool mate alkalinity increaser for swimming pools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9D6S7T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fMibXKILL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 title: "Pool Mate Alkalinity Increaser for Swimming Pools"

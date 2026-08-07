@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie DreamHouse Review"
 seo_title: "Barbie DreamHouse Review (2026): Is It Worth $250?"
 meta_description: "Barbie DreamHouse review: 3-story playset with elevator, 75+ accessories. Real buyer feedback, pros, cons, and who should buy it in 2026."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DDVH92TK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gpzTh5wvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Working elevator with real pulley mechanism — kids actually use it, not just decoration"
   - "75+ pieces included, so you're not nickel-and-dimed for furniture separately"
   - "Three floors of play space that folds flat for storage — rare for a house this size"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes even with two adults; some clips are stubborn"
   - "No dolls included — that's another $25+ if you don't already own Barbies"
   - "Sticker application is tedious and some decals peel within months of heavy play"
+
 ---
 
 Let's be direct: the Barbie DreamHouse is the flagship dollhouse on the market for a reason. It's also $200+ and requires assembly. Whether it earns that price tag depends entirely on how your kid plays.

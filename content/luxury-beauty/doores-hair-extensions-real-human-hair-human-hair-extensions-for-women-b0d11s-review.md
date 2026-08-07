@@ -1,4 +1,5 @@
 ---
+
 title: "DOORES Hair Extensions Real Human Hair, Human Hair Extension"
 seo_title: "DOORES Hair Extensions Review: Real Human Hair, 4.2 Stars"
 meta_description: "Honest DOORES hair extensions review: real human hair quality, color match, shedding, and longevity. See if this 4.2-star extension is worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D11SVS47/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nDoiuuSqL._SL1500_.jpg"
-pros:
+pros: 
   - "100% Remy human hair that blends naturally and takes color well, per multiple verified buyer reports"
   - "Machine-wefted clips stay secure through daily wear without visible bulk or pulling"
   - "Holds curl and heat styling up to 400°F without frizzing or matting at the weft line"
-cons:
+cons: 
   - "Color matching can be off by a shade or two — order swatches first if you're between shades"
   - "Some units arrive with a chemical processing smell that requires 2–3 washes to dissipate"
+
 ---
 
 Let me be direct: the human hair extensions market is flooded with products that claim "Remy" quality but deliver straw-like fibers that tangle within a week. The DOORES Real Human Hair Extension sits somewhere above that mess — but it's not without its own quirks. Here's what 210 shoppers collectively learned after spending real money on this set.

@@ -1,4 +1,5 @@
 ---
+
 title: "Nordic Naturals Omega 3 Pet - Fish Oil Liquid for Cats and D"
 seo_title: "Nordic Naturals Omega 3 Pet - Fish Oil Liquid for  Review"
 meta_description: "Our full nordic naturals omega 3 pet - fish oil liquid for cats and d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0964HLKJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EzGTY7XtL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 30-Second Take**

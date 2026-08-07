@@ -1,4 +1,5 @@
 ---
+
 title: "ONAVIA White Board Dry Erase Calendar"
 seo_title: "ONAVIA White Board Dry Erase Calendar Review: Verdict | T"
 meta_description: "Our full onavia white board dry erase calendar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DRV4KJ9B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i678Qb0KL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The wall calendar that actually survives a messy family

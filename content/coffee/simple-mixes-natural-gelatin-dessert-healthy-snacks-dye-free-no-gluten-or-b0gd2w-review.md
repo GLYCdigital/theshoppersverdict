@@ -1,4 +1,5 @@
 ---
+
 title: "Simple Mixes Natural Gelatin Dessert, Healthy Snacks, Dye-Fr"
 seo_title: "Simple Mixes Natural Gelatin Dessert, Healthy Snac Review"
 meta_description: "Our full simple mixes natural gelatin dessert, healthy snacks, dye-fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GD2WBT7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FoML1gC3L._SL1080_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Dye-Free Gelatin That Actually Tastes Like Fruit — Not Chemicals**

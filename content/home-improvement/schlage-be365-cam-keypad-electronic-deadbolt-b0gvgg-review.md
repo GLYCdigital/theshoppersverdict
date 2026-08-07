@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE BE365 CAM Keypad Electronic Deadbolt"
 seo_title: "SCHLAGE BE365 CAM Keypad Electronic Deadbolt Review: Verd"
 meta_description: "Our full schlage be365 cam keypad electronic deadbolt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVGG6MN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Lock That Won't Leave You Locked Out

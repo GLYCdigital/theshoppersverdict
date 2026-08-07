@@ -1,4 +1,5 @@
 ---
+
 title: "Champion Power Equipment 25-Foot 30-Amp 250-Volt Generator P"
 seo_title: "Champion 25-Ft 30-Amp Generator Cord Review (2026)"
 meta_description: "Champion 25-ft 30-amp 250-volt generator cord review: gauge, build, NEMA compatibility, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FD9DYKR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f6XZUI5wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 10-gauge copper wire handles full 30-amp continuous load without heat buildup"
   - "Molded NEMA L14-30P plug and connector ends hold up to repeated connect/disconnect cycles"
   - "25-foot length gives real placement flexibility — you're not tethered three feet from the generator"
-cons:
+cons: 
   - "Stiff in cold weather; below 40°F it resists coiling back up neatly"
   - "No built-in cord wrap or storage strap — you'll need your own tie or bag"
   - "Locking connectors require a firm push-and-twist; users with arthritis may struggle"
+
 ---
 
 Let's be direct: a generator cord is the least glamorous purchase you'll make all year, but it's also the one that determines whether your fridge stays cold during an outage. The Champion Power Equipment 25-Foot 30-Amp 250-Volt cord has earned a 4.8-star average across 240 ratings, and after digging into the specs and user feedback, here's the real story.

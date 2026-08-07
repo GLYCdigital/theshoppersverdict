@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO City Passenger Airplane 60367 Building Toy Set"
 seo_title: "LEGO City Passenger Airplane 60367 Building Toy Se Review"
 meta_description: "Our full lego city passenger airplane 60367 building toy set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CCSTRRNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O7ATQOy6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO City Passenger Airplane 60367 Review: The Real Story Behind the 4.9 Stars**

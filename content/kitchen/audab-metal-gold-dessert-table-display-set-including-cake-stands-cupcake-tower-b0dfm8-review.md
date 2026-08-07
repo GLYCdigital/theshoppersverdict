@@ -1,4 +1,5 @@
 ---
+
 title: "Audab Metal Gold Dessert Table Display Set Including Cake St"
 seo_title: "Audab Gold Dessert Table Display Set Review: Worth It?"
 meta_description: "Hands-on Audab Metal Gold Dessert Table Display Set review: build quality, real-world use, and whether this 3-tier cake stand earns its 4.3-star rating."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFM8WWKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81znR0V8X2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy all-metal construction — no wobble even with a full cake on the bottom tier"
   - "Gold finish is consistent and scratch-resistant; doesn't look cheap in person"
   - "Disassembles into flat pieces for storage — fits in a standard kitchen drawer"
-cons:
+cons: 
   - "Tiers are smaller than they appear in product photos; 8-inch plates max"
   - "No carrying handle — you'll need two hands and a flat surface to move it assembled"
+
 ---
 
 **The Short Version:** If you're hosting a bridal shower, birthday party, or brunch and want a cake stand that looks like it cost three times the price, the Audab Metal Gold Dessert Table Display Set delivers. But it's not the towering centerpiece the photos suggest — this is a compact, practical display piece that shines on a buffet table, not a statement piece for a 50-person wedding.

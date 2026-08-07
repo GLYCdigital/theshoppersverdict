@@ -1,4 +1,5 @@
 ---
+
 title: "Lomi Pods and Filters | Turn Food Scraps into Nutrient-Rich "
 seo_title: "Lomi Pods and Filters | Turn Food Scraps into Nutr Review"
 meta_description: "Our full lomi pods and filters | turn food scraps into nutrient-rich  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK7PCBJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C8eyLV6QL._AC_SL1188_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Slug:** lomi-pods-and-filters-turn-food-scraps-into-nutrient-rich-plant-food-b0dk7p-review

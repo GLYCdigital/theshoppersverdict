@@ -1,4 +1,5 @@
 ---
+
 title: "Bobo's Oat Bars Strawberry Bites 5 counts, 1.3 OZ"
 seo_title: "Bobo's Oat Bars Strawberry Bites Review: Worth It?"
 meta_description: "Honest Bobo's Oat Bars Strawberry Bites review: taste, texture, ingredients, and value. See if these 1.3 oz snack bars earn their 4.5-star rating."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1GJVRTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91V7hUs2H6L._SL1500_.jpg"
-pros:
+pros: 
   - "Whole-grain oats and real strawberry filling — no artificial flavors or preservatives in the ingredient list"
   - "Each 1.3 oz bar delivers 3g fiber and 4g protein, making it a legitimately filling snack rather than empty calories"
   - "Individually wrapped 5-count pack keeps bars fresh and portable for lunchboxes, hiking packs, or desk drawers"
-cons:
+cons: 
   - "Bars are crumbly — expect oat bits in your lap or bag, especially if you eat them on the move"
   - "Sweetness level is moderate, not candy-like; if you're used to frosted granola bars, these will taste more restrained"
+
 ---
 
 Let's be direct: Bobo's Oat Bars Strawberry Bites sit in a crowded field of snack bars, but they earn their 4.5-star rating with a simple formula — real ingredients and honest texture. If you're tired of bars that taste like cardboard with chocolate chips glued on, these are worth a look.

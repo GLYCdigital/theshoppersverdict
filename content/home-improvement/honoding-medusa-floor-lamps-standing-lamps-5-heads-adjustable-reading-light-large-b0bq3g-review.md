@@ -1,4 +1,5 @@
 ---
+
 title: "HonoDing Medusa Floor Lamps Standing Lamps 5 Heads Adjustabl"
 seo_title: "HonoDing Medusa Floor Lamps Standing Lamps 5 Heads Review"
 meta_description: "Our full honoding medusa floor lamps standing lamps 5 heads adjustabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQ3GVJ9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nWdUJ0OrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The HonoDing Medusa Floor Lamp isn't a gimmick — it's a genuinely useful tool for anyone who's ever fought with a single-direction lamp.** With 235 Amazon ratings averaging 4.7 stars, this five-headed monster has clearly earned its place in living rooms and workshops. But is it right for you? Let's break down what you're actually getting.

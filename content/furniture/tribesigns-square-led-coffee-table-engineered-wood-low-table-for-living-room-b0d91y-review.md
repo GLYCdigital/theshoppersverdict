@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Square LED Coffee Table - Engineered Wood Low Tab"
 seo_title: "Tribesigns Square LED Coffee Table - Engineered Wo Review"
 meta_description: "Our full tribesigns square led coffee table - engineered wood low tab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D91Y5HJ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81765T+AVOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A coffee table that glows might sound like a gimmick you'd tire of in a week. But the Tribesigns Square LED Coffee Table has racked up 210 ratings at a solid 4.2 stars — and after digging into what buyers actually say, that score holds up. This isn't a novelty piece; it's a functional table with a genuinely useful lighting feature that can transform a room's vibe. Here's the real story.

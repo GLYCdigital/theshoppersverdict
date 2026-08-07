@@ -1,4 +1,5 @@
 ---
+
 title: "Ash & Ember Park-Style Grill & Smoker, 390 Sq. In Charcoal G"
 seo_title: "Ash & Ember Park-Style Grill Review: 390 Sq In Charcoal Smoker"
 meta_description: "Honest Ash & Ember Park-Style Grill & Smoker review: 390 sq in charcoal cooking area, build quality, heat control, and who should buy it."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B082LTDNBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41NU-rn5oQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "390 sq in of porcelain-enameled cooking surface — enough for 12-15 burgers or a full brisket, at a price well under ceramic kamados"
   - "Thick 1mm steel body with double-wall insulation holds steady 225-250°F temps for 6+ hours on a single chimney of charcoal"
-cons:
+cons: 
   - "Assembly takes 90+ minutes and the hinge alignment on the firebox door is finicky — several buyers report gaps that leak smoke"
   - "The included charcoal grate sits too close to the ash pan; ash buildup blocks airflow mid-cook and requires a shop vac to clean"
+
 ---
 
 Let me be blunt: a 390-square-inch charcoal grill and smoker that doesn't cost a mortgage payment is rare. The Ash & Ember Park-Style hits that sweet spot on paper — but does it perform when the charcoal's lit? Here's what 195 buyers and my own research tell you.

@@ -1,4 +1,5 @@
 ---
+
 title: "Polar Protector - 100 Gallon Oval Stock Tank Cover Ice Water"
 seo_title: "Polar Protector - 100 Gallon Oval Stock Tank Cover Review"
 meta_description: "Our full polar protector - 100 gallon oval stock tank cover ice water review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLHKGR56/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZyIMDYnCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Polar Protector - 100 Gallon Oval Stock Tank Cover Ice Water Review**

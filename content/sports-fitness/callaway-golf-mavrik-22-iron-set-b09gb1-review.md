@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Mavrik 22 Iron Set"
 seo_title: "Callaway Mavrik 22 Iron Set Review: Game Improvement Value"
 meta_description: "Our Callaway Mavrik 22 iron set review covers distance, forgiveness, and feel. See if these game-improvement irons fit your handicap in this honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09GB12NFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fCQqzkaOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flash Face Cup technology delivers noticeable ball speed on off-center strikes, especially low on the face"
   - "Generous offset and wide sole inspire confidence at address for mid-to-high handicappers"
   - "Stock graphite shaft options (regular and senior flex) save you $100+ over custom ordering"
-cons:
+cons: 
   - "Strong lofts (Pitching Wedge at 41°) create awkward gapping gaps with older wedge sets"
   - "Stock grips are thin and slick — most buyers will want to regrip within a season"
+
 ---
 
 Let me cut through the marketing noise: the Callaway Mavrik 22 irons are a solid game-improvement set, but they're not magic. At 4.4 stars across 220 Amazon ratings, buyers are mostly happy — but they're also honest about the quirks. Here's what you actually need to know before dropping your money.

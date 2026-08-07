@@ -1,4 +1,5 @@
 ---
+
 title: "SHA CERLIN Upholstered Platform Bed Frame with Adjustable He"
 seo_title: "SHA CERLIN Upholstered Platform Bed Frame with Adj Review"
 meta_description: "Our full sha cerlin upholstered platform bed frame with adjustable he review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6KFN67L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bHAdlfULL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you've been scrolling past $1,200 upholstered beds from Wayfair and Restoration Hardware, the SHA CERLIN platform bed is the budget-friendly alternative that actually holds up. At 4.6 stars across 229 ratings, it's not perfect — but it solves the two biggest complaints about affordable upholstered beds: flimsy frames and headboards that sit too low.

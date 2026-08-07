@@ -1,4 +1,5 @@
 ---
+
 title: "Wagner's 62011 Eastern Regional Blend Wild Bird Food, 8-Poun"
 seo_title: "Wagner's 62011 Eastern Regional Blend Wild Bird Fo Review"
 meta_description: "Our full wagner's 62011 eastern regional blend wild bird food, 8-poun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08ZKJQRVS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91QXYnUFVFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most wild bird seed blends are 60% filler designed to look impressive in the bag while pigeons and squirrels get the last laugh. Wagner's Eastern Regional Blend isn't that. But it's also not a premium no-waste mix. Here's where it actually lands.

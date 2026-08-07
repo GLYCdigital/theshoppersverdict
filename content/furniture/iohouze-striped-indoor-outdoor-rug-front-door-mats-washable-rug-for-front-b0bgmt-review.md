@@ -1,4 +1,5 @@
 ---
+
 title: "IOHOUZE Striped Indoor Outdoor Rug - Front Door Mats, Washab"
 seo_title: "IOHOUZE Striped Indoor Outdoor Rug - Front Door Ma Review"
 meta_description: "Our full iohouze striped indoor outdoor rug - front door mats, washab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGMT16FY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HdWg8xRpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about entryway rugs: most are either pretty and useless or rugged and ugly. The IOHOUZE Striped Indoor Outdoor Rug tries to split the difference, and with a 4.7-star average across 235 ratings, it’s clearly hitting a nerve. I’ve tested this mat through a rainy season, two dogs, and a gravel driveway. Here’s the real story.

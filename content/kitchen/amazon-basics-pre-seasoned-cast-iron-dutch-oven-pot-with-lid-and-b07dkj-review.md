@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Pre-Seasoned Cast Iron Dutch Oven Pot with Lid"
 seo_title: "Amazon Basics Cast Iron Dutch Oven Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics pre-seasoned cast iron Dutch oven review: build quality, heat retention, lid fit, and who should buy. Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DKJL6JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dTJI7Ye6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers the heat retention and searing power of a $100+ Lodge or Le Creuset for roughly half the price"
   - "Pre-seasoned with vegetable oil — ready for bacon, cornbread, or a deep sear on day one without stripping and re-seasoning"
   - "Heavy-duty 5-quart capacity with sturdy loop handles that fit gloved hands comfortably"
-cons:
+cons: 
   - "Uncoated cast iron requires hand washing and drying immediately — rust is a real risk if you're careless"
   - "Weighs roughly 13 pounds empty; not a practical option for anyone with wrist or shoulder issues"
   - "Lid fits snugly but not perfectly airtight — braising liquids can escape as steam over long cooks"
+
 ---
 
 If you've priced a cast iron Dutch oven lately, you know the sticker shock. A Lodge runs $70–$90. A Le Creuset will set you back $300+. The Amazon Basics Pre-Seasoned Cast Iron Dutch Oven sits in a different lane entirely — usually under $50 — and after spending a month cooking with it, I can tell you exactly where that money goes and where it doesn't.

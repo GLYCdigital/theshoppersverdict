@@ -1,4 +1,5 @@
 ---
+
 title: "Franklinâ€™s Gourmet Popcorn Butter Flavored Coconut Oil"
 seo_title: "Franklin's Gourmet Popcorn Coconut Oil Review: Worth It?"
 meta_description: "Honest Franklin's Gourmet Popcorn Butter Flavored Coconut Oil review. Does this 4.4-star coconut oil deliver theater-style flavor? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B092CRG2G7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619IvEUmWjL._SL1500_.jpg"
-pros:
+pros: 
   - "High smoke point (around 400°F) means fewer burnt batches and no acrid smoke filling your kitchen"
   - "Contains real butter flavor plus natural coloring agents, so popcorn comes out looking like movie theater corn, not pale and sad"
   - "One tablespoon coats a full 1/3-cup batch of kernels — a single container lasts 20+ batches"
-cons:
+cons: 
   - "It's coconut oil, so it solidifies below 76°F — you'll need to scoop or microwave the jar before measuring"
   - "The 'butter' flavor is buttery, not actual butter — if you want real dairy, this isn't it"
   - "No resealable lid on the standard container; you'll want a separate storage jar or clip"
+
 ---
 
 Let me be straight with you: this is not a coffee product. But if you're shopping for a coffee maker or coffee gear, you've probably got a kitchen counter that deserves better snacks than sad microwave popcorn. And honestly, Franklin's Gourmet Popcorn Butter Flavored Coconut Oil has become the unsung hero of my home movie nights — so let's talk about whether it earns a spot on your shelf.

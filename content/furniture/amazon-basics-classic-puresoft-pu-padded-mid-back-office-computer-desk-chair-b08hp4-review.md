@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Com"
 seo_title: "Amazon Basics Puresoft Mid-Back Office Chair Review (2026)"
 meta_description: "Honest Amazon Basics Puresoft PU-padded mid-back office chair review: comfort, build quality, assembly, and who should buy it. 4.2/5 verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08HP4LG43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XrK-bAifL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine PU leather that holds up without peeling after 6+ months — rare at this price point"
   - "Mid-back height hits the sweet spot for lumbar support without blocking shoulder movement"
   - "Assembly takes under 20 minutes with clear instructions and all tools included"
-cons:
+cons: 
   - "Fixed armrests sit slightly wide for petite frames — you'll notice it in tight desks"
   - "Seat cushion firms up noticeably after 3-4 hours of continuous sitting"
+
 ---
 
 Let's cut through the noise: the Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Chair is the best-selling budget office chair on Amazon for a reason. With 210 ratings averaging 4.2 stars, it's not flawless — but it's remarkably competent for what it costs. Here's the honest breakdown before you click "add to cart."

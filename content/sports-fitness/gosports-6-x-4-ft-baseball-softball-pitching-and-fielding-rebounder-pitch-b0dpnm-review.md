@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports 6 x 4 ft Baseball & Softball Pitching and Fielding "
 seo_title: "GoSports 6 x 4 ft Baseball & Softball Pitching and Review"
 meta_description: "Our full gosports 6 x 4 ft baseball & softball pitching and fielding  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPNM1PSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81JGtaf8efL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a sports & fitness product, the **GoSports 6 x 4 ft Baseball & Softball Pitching and Fielding ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

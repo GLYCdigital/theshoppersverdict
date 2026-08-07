@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Cordless Hedge Trimmer, 3-in-1 Handheld Electric Gr"
 seo_title: "DURATECH 3-in-1 Cordless Hedge Trimmer Review (2026)"
 meta_description: "Honest DURATECH 3-in-1 cordless hedge trimmer review: battery life, cutting power, ergonomics, and real buyer feedback. Is it worth $60? Find out."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GX964XCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LGSuifEFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Interchangeable hedge, grass, and shrubber heads cover most yard tasks with one battery system"
   - "Lightweight at roughly 4.5 lbs — genuinely comfortable for overhead trimming"
   - "Tool-free head swaps take under 10 seconds; no wrenches or screwdrivers needed"
-cons:
+cons: 
   - "Battery life falls short of advertised 60 minutes in real-world use — expect 25–35 minutes of active cutting"
   - "Blade gap struggles with anything thicker than 3/8-inch branches; it jams on woody growth"
   - "No battery charge indicator on the tool itself; you'll be guessing until it dies"
+
 ---
 
 **The $60 question: does a 3-in-1 cordless trimmer actually replace three separate tools?** The DURATECH 3-in-1 tries to answer that with a hedge trimmer, grass trimmer, and shrubber head all sharing one 20V battery. At 3.8 stars from 190 ratings, buyers are split — some call it a "game changer for small yards," while others report it dying mid-job. Here's the real breakdown.

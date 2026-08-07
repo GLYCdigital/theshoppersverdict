@@ -1,4 +1,5 @@
 ---
+
 title: "CRBN Pickleball - X Series Power Paddle - Carbon Fiber Pickl"
 seo_title: "CRBN X Series Power Paddle Review: Carbon Fiber Pickleball"
 meta_description: "CRBN X Series Power Paddle review: carbon fiber face, foam core, thermoformed edge. Real player feedback on power, control & durability. Is it worth $200+?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GBY99QLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61A1c9KroaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine power generation without sacrificing touch — thermal forming and carbon face deliver pop that 3.5+ players will feel immediately"
   - "Foam-injected perimeter adds twist weight and stability; off-center hits stay true instead of spraying"
   - "Tacky grip out of the box with solid 5.5-inch handle length, comfortable for two-handed backhands"
-cons:
+cons: 
   - "Price point sits at the premium end — this is a serious investment for casual or weekend players"
   - "Weight distribution feels head-heavy for some; players transitioning from balanced paddles may need an adjustment period"
   - "No paddle cover included at this price — a notable omission given the $200+ bracket"
+
 ---
 
 The CRBN X Series Power paddle doesn't waste time with subtlety. From the first hit, you know exactly what this paddle is built for: aggressive, offensive play from the baseline and mid-court. It's the rare paddle that delivers on its name — power is the headline feature, but the real story is how much control CRBN managed to pack alongside it.

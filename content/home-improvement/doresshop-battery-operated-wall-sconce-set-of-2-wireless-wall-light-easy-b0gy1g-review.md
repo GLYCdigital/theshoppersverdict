@@ -1,4 +1,5 @@
 ---
+
 title: "DORESshop Battery Operated Wall Sconce Set of 2, Wireless Wa"
 seo_title: "DORESshop Battery Wall Sconce Review: Set of 2 Wireless Lights"
 meta_description: "DORESshop battery operated wall sconce set of 2 review: real brightness, install ease, battery life, and who should buy these wireless lights."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GY1GXHTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GT0UDXDxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True wireless install with adhesive mounting strips — no wiring, no stud-finding, no electrician"
   - "Adjustable color temperature (2700K-6000K) and dimming via remote, useful for bedside vs. hallway use"
   - "Each sconce runs 6-12 months on 3 AA batteries depending on daily use and brightness setting"
-cons:
+cons: 
   - "Adhesive strips may fail on textured wallpaper or uneven plaster; screws included but they're short for thick drywall anchors"
   - "Battery compartment door is stiff on some units — a few reviewers report needing pliers or a coin to pry it open"
+
 ---
 
 If you’ve been staring at a dark hallway, a windowless bathroom, or a rental wall you can’t drill into, the DORESshop Battery Operated Wall Sconce Set of 2 is the kind of product that makes you wonder why you didn’t buy it months ago. At 4.3 stars from 215 ratings, it’s not perfect — but for the price of a pizza dinner, it solves a genuinely annoying problem.

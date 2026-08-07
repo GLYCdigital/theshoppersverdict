@@ -1,4 +1,5 @@
 ---
+
 title: "AUBENR 4.72 Inch Extra Large Apple Slicer - Professional Hea"
 seo_title: "AUBENR Extra Large Apple Slicer Review: Heavy-Duty 4.72-Inch"
 meta_description: "Honest AUBENR 4.72-inch apple slicer review: pros, cons, real buyer feedback. Is this heavy-duty corer/slicer worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5MJ9363/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616AbZ0NpSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4.72-inch cutting diameter handles jumbo Honeycrisp and Fuji apples that jam standard slicers"
   - "Heavy-duty cast aluminum frame with sharpened stainless steel blades won't flex or bend under pressure"
   - "Serrated edge design cuts through tough apple skin cleanly without crushing the flesh"
-cons:
+cons: 
   - "At roughly 1.5 pounds, it's heavier than typical plastic slicers — not ideal for weak grip strength"
   - "Some users report the core ejector requires a firm push; smaller apples can wobble slightly before cutting"
   - "Hand wash only — the cast aluminum frame will discolor in the dishwasher"
+
 ---
 
 Most apple slicers are flimsy plastic things that bend the moment you hit a stubborn Honeycrisp. The AUBENR 4.72-inch takes a different approach: it's built like a tool, not a toy. If you've ever fought with a slicer that left half the apple stuck in the blades while the core stayed stubbornly in place, this is worth a close look.

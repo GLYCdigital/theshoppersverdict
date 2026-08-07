@@ -1,5 +1,6 @@
 ---
 
+
 title: "Ciays 28Inch Propane Fire Pit Table, 50,000 BTU Outdoor Gas"
 seo_title: "Ciays 28-Inch Propane Fire Pit Table Review: 50,000 BTU"
 meta_description: "Honest Ciays 28-inch propane fire pit table review: 50,000 BTU output, build quality, real buyer feedback, and who should buy it."
@@ -12,14 +13,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F93DDH11/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81epixpj9EL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "50,000 BTU output actually throws serious heat — not a decorative flame"
   - "28-inch round tabletop fits standard propane tanks and doubles as a real side table"
   - "Assembly takes about 20 minutes with clear instructions and all hardware included"
-cons:
+cons: 
   - "No cover or lid included — you'll want to buy one separately for $20–30 inch"
   - "Glass stones arrive in a single sealed bag; you'll need to distribute them evenly yourself"
   - "Piezo ignition can be finicky in wind; keep a lighter nearby as backup"
+
 
 ---
 

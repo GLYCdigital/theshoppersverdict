@@ -1,4 +1,5 @@
 ---
+
 title: "BRUTUS & BARNABY Bully Sticks for Dogs 6 inch  – Long Lasting N"
 seo_title: "BRUTUS & BARNABY Bully Sticks Review: 6 inch  Natural Chews"
 meta_description: "Honest BRUTUS & BARNABY 6 inch  bully sticks review: odor, longevity, value, and safety. See if these natural beef chews suit your aggressive chewer."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJ3TG7TQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R6UdXwD5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Single-ingredient beef pizzle with no additives or binding agents"
   - "6-inch length suits medium to large dogs without quick choking risk"
   - "Noticeably lower odor than most competing bully sticks"
-cons:
+cons: 
   - "Thinner sticks can snap into sharp pieces for power chewers"
   - "Price per ounce runs higher than bulk rawhide alternatives"
+
 ---
 
 **The 6-inch bully stick is the Goldilocks of dog chews** — long enough to keep a determined chewer busy, short enough to avoid the awkward "last two inches" fumbling that ends with a swallowed nub. BRUTUS & BARNABY's offering hits that sweet spot, and after digging through 220 ratings averaging 4.4 stars, the consensus is clear: this is a solid, single-ingredient chew that most dogs demolish with enthusiasm.

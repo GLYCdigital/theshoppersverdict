@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Free Styler Working Hairspray"
 seo_title: "Oribe Free Styler Working Hairspray Review: Verdict | TSV"
 meta_description: "Our full oribe free styler working hairspray review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B088SBLNXW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zUdzHCG2L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: Oribe Free Styler Working Hairspray is a $44 can of hairspray. That alone will make some shoppers close this tab. But if you've ever wrestled with hairsprays that either glue your hair into a helmet or evaporate by lunch, this one might justify its luxury price tag. I've tested it against drugstore options and a few other prestige sprays to give you the real breakdown.

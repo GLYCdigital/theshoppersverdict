@@ -1,4 +1,5 @@
 ---
+
 title: "AI ACCESSORY INNOVATIONS Sonic The Hedgehog Insulated Lunch Box Review"
 seo_title: "Sonic Insulated Lunch Box Review: Worth It? | 4.8★"
 meta_description: "Honest AI ACCESSORY INNOVATIONS Sonic insulated lunch box review. Build quality, ice pack performance, real parent feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CCBRVK7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hsVNOMAYL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine Sonic artwork that holds up to daily tossing — no peeling or fading reported after months of school use"
   - "Insulated walls actually keep yogurt and string cheese cold until lunchtime, not just the first hour"
   - "Easy-clean interior wipes down in seconds; no weird chemical smell out of the box"
-cons:
+cons: 
   - "Smaller than standard lunch bags — won't fit full-size juice boxes or bento boxes with multiple compartments"
   - "No internal mesh pocket or elastic straps, so loose apples and pouches slide around during transit"
+
 ---
 
 # Sonic the Hedgehog Insulated Lunch Box: A Parent's Honest Take

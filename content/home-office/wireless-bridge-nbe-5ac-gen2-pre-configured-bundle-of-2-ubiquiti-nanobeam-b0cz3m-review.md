@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Bridge NBE-5AC-GEN2 PRE-CONFIGURED Bundle of 2 Ubiq"
 seo_title: "Wireless Bridge NBE-5AC-GEN2 PRE-CONFIGURED Bundle Review"
 meta_description: "Our full wireless bridge nbe-5ac-gen2 pre-configured bundle of 2 ubiq review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CZ3MKJ1K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tHRr76H2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need to connect two buildings without trenching fiber, the Ubiquiti NanoBeam 5AC Gen2 is a proven workhorse. This particular listing bundles two pre-configured units, which removes the most frustrating part of wireless bridging: the initial pairing dance. But "pre-configured" doesn't mean "zero technical skill required." Here's the honest breakdown.

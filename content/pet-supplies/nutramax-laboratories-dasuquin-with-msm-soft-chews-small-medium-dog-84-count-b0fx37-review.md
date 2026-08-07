@@ -1,4 +1,5 @@
 ---
+
 title: "Nutramax Laboratories Dasuquin with MSM Soft Chews Small/Med"
 seo_title: "Nutramax Laboratories Dasuquin with MSM Soft Chews Review"
 meta_description: "Our full nutramax laboratories dasuquin with msm soft chews small/med review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FX377BMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7161AKQLBRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Joint Supplement That Actually Has Science Behind It

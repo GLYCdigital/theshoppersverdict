@@ -1,4 +1,5 @@
 ---
+
 title: "ATTITUDE Little Leaves Conditioner"
 seo_title: "ATTITUDE Little Leaves Conditioner Review (2026): Is It Worth It?"
 meta_description: "Honest ATTITUDE Little Leaves Conditioner review: EWG-verified, plant-based formula, real results for kids' hair. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D54W5ZJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FYAe2VchL._SL1500_.jpg"
-pros:
+pros: 
   - "EWG VERIFIED™ with zero ingredients on the 'unacceptable' list — one of the few kids' conditioners to earn this"
   - "Pump dispenser actually locks, so bath-time spills and toddler 'help' don't empty the bottle"
   - "Detangles effectively without heavy silicones that build up on fine children's hair"
-cons:
+cons: 
   - "Scent is very mild (nearly unscented) — if you want a fragrant children's product, this isn't it"
   - "Thinner consistency than drugstore conditioners; takes a bit more product for very thick hair"
   - "Pricier per ounce than conventional kids' conditioners — the clean-formula tax is real"
+
 ---
 
 Let's be honest about what parents actually need from a kids' conditioner: something that detangles a screaming toddler's hair without burning their eyes, coating their scalp in synthetic junk, or costing more per ounce than your own salon conditioner. The ATTITUDE Little Leaves Conditioner claims to do all three — and with 235 ratings averaging 4.7 stars, it's clearly working for most families. But is it worth the premium? I dug into the formula, the packaging, and what real buyers are saying.

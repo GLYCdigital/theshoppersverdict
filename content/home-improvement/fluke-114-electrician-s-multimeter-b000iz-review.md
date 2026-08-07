@@ -1,4 +1,5 @@
 ---
+
 title: "Fluke 114 Electrician's Multimeter"
 seo_title: "Fluke 114 Multimeter Review: Is It Worth It for Electricians?"
 meta_description: "Fluke 114 Electrician's Multimeter review: True RMS, LoZ, CAT III rating. See real performance data, buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000IZ9FD0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61iC35IcD9L._SL1500_.jpg"
-pros:
+pros: 
   - "True RMS AC/DC voltage measurement with 0.5% basic DC accuracy — reliable readings on non-sine wave drives"
   - "LoZ (low impedance) mode eliminates ghost voltages — a genuine safety feature for troubleshooting"
   - "CAT III 600V safety rating with input protection — built to survive industrial panels"
-cons:
+cons: 
   - "No current measurement capability — you'll need a separate clamp meter for amps"
   - "Lacks a backlight on the display — frustrating in dim panel boxes or outdoor work"
   - "No auto-ranging off option — advanced users who want manual range lock will be disappointed"
+
 ---
 
 The Fluke 114 doesn't try to be everything to everyone. It's a focused tool for one specific job: measuring voltage accurately and safely in commercial and industrial settings. If you're a residential handyman who needs to check amps and resistance too, this isn't your meter. But if you're an electrician who lives in breaker panels, this might be the only multimeter you need on the truck.

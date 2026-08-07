@@ -1,4 +1,5 @@
 ---
+
 title: "Givenchy Gentleman Society Extreme Eau De Parfum Spray for M"
 seo_title: "Givenchy Gentleman Society Extreme Eau De Parfum S Review"
 meta_description: "Our full givenchy gentleman society extreme eau de parfum spray for m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5RJPZC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517wtOBmJ+L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Givenchy Gentleman Society Extreme: The Power Move You Wear

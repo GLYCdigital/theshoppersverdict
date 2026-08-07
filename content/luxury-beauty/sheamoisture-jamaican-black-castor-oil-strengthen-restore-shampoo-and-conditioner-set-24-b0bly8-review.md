@@ -1,4 +1,5 @@
 ---
+
 title: "SheaMoisture Jamaican Black Castor Oil Strengthen & Restore "
 seo_title: "SheaMoisture Jamaican Black Castor Oil Strengthen  Review"
 meta_description: "Our full sheamoisture jamaican black castor oil strengthen & restore  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLY8YGGV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aSfZaY+AL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.5-star SheaMoisture set that actually earns its "Strengthen & Restore" name — if you understand what it's for.**

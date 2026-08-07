@@ -1,4 +1,5 @@
 ---
+
 title: "Rustic Farmhouse Chandelier for Dining Room Handmade Rustic "
 seo_title: "Rustic Farmhouse Chandelier for Dining Room Handma Review"
 meta_description: "Our full rustic farmhouse chandelier for dining room handmade rustic  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09LC81WXP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813UwaAFz5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same brushed-nickel drum shades and generic glass globes, this handmade rustic chandelier is the first thing that actually looks different. And not in a gimmicky way — it's a legit wood drum fixture that brings real texture to a dining room.

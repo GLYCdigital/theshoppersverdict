@@ -1,4 +1,5 @@
 ---
+
 title: "Make Your Own Loom Animals"
 seo_title: "Make Your Own Loom Animals Review: Verdict | TSV"
 meta_description: "Our full make your own loom animals review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/1546114157/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HlrG-ZuvL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 This is the rare craft kit that actually delivers on its promise. Most "make your own" sets end up with half-finished projects and frustrated kids. The Make Your Own Loom Animals kit breaks that pattern — and the 4.7-star average across 235 ratings confirms it's not a fluke.

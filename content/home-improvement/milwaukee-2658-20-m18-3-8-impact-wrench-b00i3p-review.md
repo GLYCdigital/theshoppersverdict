@@ -1,7 +1,8 @@
 ---
-title: "Milwaukee 2658-20 M18 3/8\" Impact Wrench"
-seo_title: "Milwaukee 2658-20 M18 3/8\" Impact Wrench Review: Verdict "
-meta_description: "Our full milwaukee 2658-20 m18 3/8\" impact wrench review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Milwaukee 2658-20 M18 3/8\ Impact Wrench"
+seo_title: "Milwaukee 2658-20 M18 3/8\ Impact Wrench Review: Verdict "
+meta_description: "Our full milwaukee 2658-20 m18 3/8\ impact wrench review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "milwaukee-2658-20-m18-3-8-impact-wrench-b00i3p-review"
 image_alt: "Milwaukee 2658-20 M18 3/8 Impact Wrench"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00I3PNJ7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41yTKc4k0NL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Milwaukee 2658-20 isn't the most powerful impact wrench in the M18 lineup — and that's exactly why you might want it.**

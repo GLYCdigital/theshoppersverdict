@@ -1,4 +1,5 @@
 ---
+
 title: "Spigen for Galaxy Tab S Series, Rugged Armor Pro Protective "
 seo_title: "Spigen for Galaxy Tab S Series, Rugged Armor Pro P Review"
 meta_description: "Our full spigen for galaxy tab s series, rugged armor pro protective  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKK12MWJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61maLzHXU3L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Spigen for Galaxy Tab S Series, Rugged Armor Pro Protective — Is This the Last Case You'll Buy?

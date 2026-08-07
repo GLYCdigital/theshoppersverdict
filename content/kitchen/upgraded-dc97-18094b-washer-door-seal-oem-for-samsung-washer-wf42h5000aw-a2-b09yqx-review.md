@@ -1,4 +1,5 @@
 ---
+
 title: "Upgraded DC97-18094B Washer Door Seal OEM for Samsung Washer"
 seo_title: "Upgraded DC97-18094B Washer Door Seal OEM for Sams Review"
 meta_description: "Our full upgraded dc97-18094b washer door seal oem for samsung washer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09YQXCRYH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hsTUcZucL._SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me save you 30 minutes of panic: the DC97-18094B door seal replacement is not a fun Saturday project, but this upgraded OEM version makes it about as painless as it gets. If your Samsung front-loader has started leaking from the door, or you've spotted that telltale black mold creeping along the bellows, this is the part you need. Here's the honest breakdown after digging through 225 ratings and the real-world install experience.

@@ -1,4 +1,5 @@
 ---
+
 title: "BOOMIBOO Over The Door Hooks, Sturdy Door Hanger, Towel Rack"
 seo_title: "BOOMIBOO Over Door Hooks Review: Sturdy Towel Rack (2026)"
 meta_description: "Honest BOOMIBOO over door hooks review: 6 sturdy hooks, no-drill install, fits most doors. See pros, cons, and who should buy before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZRCG444/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-Y8PhYI8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six staggered hooks provide 12.6 inches of usable hanging width without crowding"
   - "Thickened metal U-shaped bracket distributes weight evenly across door top"
   - "Foam pads protect door frame and prevent the rack from sliding side to side"
-cons:
+cons: 
   - "Fits doors up to 1.75 inches thick — thicker solid-core doors will not work"
   - "Hooks are fixed at one angle; bulky coats can push them sideways"
   - "No rubber coating on hook tips, so delicate fabrics may snag on the metal seam"
+
 ---
 
 Let me be blunt: most over-door hooks are flimsy wire contraptions that twist, scratch your door, and hold about as much as a bent paperclip. The BOOMIBOO Over The Door Hooks isn't that. It's a proper piece of hardware disguised as a simple towel rack, and for $20-ish (price fluctuates), it solves a genuinely annoying storage problem.

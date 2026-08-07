@@ -1,4 +1,5 @@
 ---
+
 title: "KETTOYA Non-Expanding Garden Hose 150 ft, Kink Free Flexible"
 seo_title: "KETTOYA Non-Expanding Garden Hose 150 ft, Kink Fre Review"
 meta_description: "Our full kettoya non-expanding garden hose 150 ft, kink free flexible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F7XPDQYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J192gG8GL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 150-Foot Hose That Actually Delivers 150 Feet**

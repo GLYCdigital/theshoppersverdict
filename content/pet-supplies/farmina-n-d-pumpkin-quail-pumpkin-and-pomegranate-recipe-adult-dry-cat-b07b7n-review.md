@@ -1,4 +1,5 @@
 ---
+
 title: "Farmina N&D, Pumpkin Quail Pumpkin and Pomegranate Recipe Ad"
 seo_title: "Farmina N&D Pumpkin Quail Cat Food Review (2026)"
 meta_description: "Honest Farmina N&D Pumpkin Quail & Pomegranate review: 4.4-star rated, grain-free, high-protein cat food. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07B7NSB9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51C9I5SN9gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Quail is a novel protein — ideal for cats with chicken or beef sensitivities"
   - "92% animal-based ingredients with omega-3s from herring oil and cod liver oil"
   - "Low glycemic index formula with pumpkin supports steady energy and digestion"
-cons:
+cons: 
   - "Premium pricing — expect to pay significantly more than mass-market kibble"
   - "Strong fishy smell from the added fish oils that some picky cats reject"
   - "Transition period required — cats eating high-carb kibble may have loose stool initially"
+
 ---
 
 If your cat has been scratching endlessly, throwing up after meals, or turning their nose up at yet another chicken-based kibble, the Farmina N&D Pumpkin Quail recipe might be the reset button you've been looking for. This is not your average grocery store cat food — it's a low-glycemic, novel-protein formula from an Italian brand that treats feline nutrition like a science, not an afterthought.

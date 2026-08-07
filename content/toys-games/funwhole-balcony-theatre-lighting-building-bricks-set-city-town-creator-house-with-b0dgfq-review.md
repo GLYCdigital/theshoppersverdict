@@ -1,4 +1,5 @@
 ---
+
 title: "FUNWHOLE Balcony-Theatre Lighting Building-Bricks Set - City"
 seo_title: "FUNWHOLE Balcony Theatre Set Review: Lit Bricks Worth It?"
 meta_description: "FUNWHOLE Balcony-Theatre lighting set review: 4.6/5 stars. We test build quality, LED integration, and value. See if this 1,068-piece set delivers."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DGFQF9PL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818sg87AbeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Working LED lighting system integrated directly into brick design — no aftermarket kits needed"
   - "1,068 pieces with numbered bags and clear step-by-step instructions that reduce build time to about 3 hours"
   - "Unique theatre facade with balcony and marquee details you won't find in standard brick sets"
-cons:
+cons: 
   - "Lighting wires require careful routing during assembly — rushing this step can pinch cables and kill the glow"
   - "No minifigures included despite the theatre theme, which feels like a missed opportunity at this price point"
   - "Some tiny decorative pieces (1x1 tiles) are easy to lose; no spare parts bag included"
+
 ---
 
 The first thing you'll notice about the FUNWHOLE Balcony-Theatre set is that it doesn't look like the box art. It looks better. That's because the integrated LED system actually works — and that's rare in this price bracket. Most brick sets treat lighting as an afterthought or a separate purchase. FUNWHOLE built it into the design, and it shows.

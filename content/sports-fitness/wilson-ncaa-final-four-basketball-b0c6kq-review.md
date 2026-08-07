@@ -1,4 +1,5 @@
 ---
+
 title: "WILSON NCAA Final Four Basketball"
 seo_title: "WILSON NCAA Final Four Basketball Review: Verdict | TSV"
 meta_description: "Our full wilson ncaa final four basketball review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C6KQYJ7G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ATTfCvMIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The WILSON NCAA Final Four Basketball** sits in a weird spot in the market. It's not the official NCAA game ball (that's the Evolution), and it's not a budget beater ball. But with 235 ratings averaging 4.7 stars, it's clearly doing something right. After digging through the spec sheet and what owners actually say, here's the real story.

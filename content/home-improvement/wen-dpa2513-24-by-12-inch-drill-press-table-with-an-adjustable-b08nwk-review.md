@@ -1,4 +1,5 @@
 ---
+
 title: "WEN DPA2513 24-by-12-Inch Drill Press Table with an Adjustab"
 seo_title: "WEN DPA2513 24-by-12-Inch Drill Press Table with a Review"
 meta_description: "Our full wen dpa2513 24-by-12-inch drill press table with an adjustab review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08NWKVRKZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pFGs5fDBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been drilling into a wobbly factory table or freehanding holes on a scrap 2x4, the WEN DPA2513 is the upgrade that makes you wonder why you waited. This 24-by-12-inch bolt-on table turns a basic drill press into a repeatable, accurate workhorse — and at 4.6 stars from 229 buyers, it's not just hype. But it’s not perfect, and you need to know where it cuts corners before you hit “add to cart.”

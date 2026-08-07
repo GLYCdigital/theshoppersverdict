@@ -1,4 +1,5 @@
 ---
+
 title: "TEKTON 3/8 Inch Drive"
 seo_title: "TEKTON 3/8 Inch Drive Review: Verdict | TSV"
 meta_description: "Our full tekton 3/8 inch drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9SF5H2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aEfI97uDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fought a bolt in a cramped engine bay with a ratchet that clicks through half a turn before catching, you know the frustration. The TEKTON 3/8 Inch Drive ratchet solves that specific problem with a 90-tooth mechanism—a 4-degree swing arc that engages fast and keeps your knuckles out of harm's way. With a 4.8-star average across 240 ratings, this isn't a niche tool; it's become a garage staple. Let's break down whether it earns a spot in your box.

@@ -1,4 +1,5 @@
 ---
+
 title: "bseah Grow Light Plant Lights for Indoor Plants, Full Spectr"
 seo_title: "bseah Grow Light Review: Full Spectrum Indoor Plant Light"
 meta_description: "Honest bseah grow light review: full spectrum LED coverage, build quality, and real plant results. See who it's for and who should skip it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CG5WPTBJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71L1XH190VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full spectrum LED array with separate veg and bloom channels — actually adjustable, not just a single fixed white light"
   - "Thin aluminum heat sink keeps temps manageable even after 8+ hours of continuous running"
   - "Daisy-chain capability lets you run multiple units from one wall outlet"
-cons:
+cons: 
   - "No built-in timer — you'll need to buy an outlet timer separately or remember to flip the switch daily"
   - "Mounting hardware is basic; the metal clips feel flimsy and can scratch thinner shelves if you're not careful"
+
 ---
 
 Let's cut through the LED grow light noise. The bseah Grow Light isn't trying to replace a $400 quantum board — and that's exactly why it's worth a look for most indoor gardeners.

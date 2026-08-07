@@ -1,4 +1,5 @@
 ---
+
 title: "SANODESK Dual Motor L Shaped Standing Desk E1L"
 seo_title: "SANODESK Dual Motor L Shaped Standing Desk E1L Review: Ve"
 meta_description: "Our full sanodesk dual motor l shaped standing desk e1l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKDR6KG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613BXWcztuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The SANODESK E1L is the rare L-shaped standing desk that doesn't wobble like a nervous intern.** Most corner desks in this price range sacrifice stability for size — not this one. With 220 ratings averaging 4.4 stars, it's earned its spot in the upper tier of sit-stand desks. Let's break down what you're actually getting.

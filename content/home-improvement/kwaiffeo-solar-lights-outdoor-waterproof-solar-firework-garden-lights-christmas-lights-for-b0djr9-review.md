@@ -1,4 +1,5 @@
 ---
+
 title: "Kwaiffeo Solar Lights Outdoor Waterproof Solar Firework Gard"
 seo_title: "Kwaiffeo Solar Lights Outdoor Waterproof Solar Fir Review"
 meta_description: "Our full kwaiffeo solar lights outdoor waterproof solar firework gard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJR94C4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fuuHqTp+L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most solar garden lights are cheap junk that dies after two weeks. The Kwaiffeo Solar Firework Lights are not that. But they're also not something you should buy blind. Here's what 215 Amazon reviewers (4.3 stars) actually experienced.

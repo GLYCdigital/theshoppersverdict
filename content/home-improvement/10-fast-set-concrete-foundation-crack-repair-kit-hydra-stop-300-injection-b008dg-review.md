@@ -1,4 +1,5 @@
 ---
+
 title: "10' Fast Set Concrete Foundation Crack Repair Kit-Hydra Stop 300 Injection-B008DG Review"
 seo_title: "Hydra Stop 300 Concrete Crack Repair Kit Review (2026)"
 meta_description: "Honest Hydra Stop 300 foundation crack repair kit review: injection performance, cure time, and whether it actually stops leaks. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B008DG7UCO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jAcj5LSJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fast-set polyurethane formula cures in about 30 minutes at 70°F, letting you backfill the same day"
   - "10-foot injection hose reaches deep cracks without needing to drill multiple access ports"
   - "Complete kit includes dispensing gun, static mixer, and cleaning solvent — no hidden extras needed"
-cons:
+cons: 
   - "Cure time jumps to 2+ hours in cooler temps below 50°F, which can stall a weekend project"
   - "Single-use cartridges mean unused material hardens in the tube — you can't save it for later"
   - "Thin viscosity requires a tight crack seal; hairline cracks under 1/8 inch need widening first"
+
 ---
 
 **Bottom line up front:** If you've got a leaking foundation crack wider than a credit card, this Hydra Stop 300 kit is one of the few DIY options that actually work. It's not a miracle fix — you'll need patience and a clean workspace — but for a single crack up to 10 feet, it's cheaper than a contractor's $1,500 injection job.

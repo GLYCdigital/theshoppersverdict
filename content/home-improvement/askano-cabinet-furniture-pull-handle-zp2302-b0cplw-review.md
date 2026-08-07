@@ -1,4 +1,5 @@
 ---
+
 title: "ASKANO Cabinet Furniture Pull Handle ZP2302 inch"
 seo_title: "ASKANO Cabinet Pull Handle ZP2302 Review: Worth It?"
 meta_description: "Honest ASKANO ZP2302 cabinet pull handle review: build quality, finish, sizing, and real buyer feedback. Is this 4.8-star hardware worth your money?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CPLWQHFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rs5mVLyML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a smooth, consistent finish that resists fingerprints"
   - "Multiple size options make matching existing cabinet hardware straightforward"
   - "Includes mounting screws and a template — installs in under 10 minutes per handle"
-cons:
+cons: 
   - "Finish can chip if you overtighten screws with a power drill — hand-tighten final turns"
   - "No rubber or silicone backing pad; handles may rotate slightly on thin drawer fronts"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen — inexpensive, easy to swap, and capable of transforming a dated space in an afternoon. The ASKANO ZP2302 pull handle has racked up 240 ratings at 4.8 stars, which puts it in serious contention for your money. But does it hold up beyond the first few weeks? Here's the honest breakdown.

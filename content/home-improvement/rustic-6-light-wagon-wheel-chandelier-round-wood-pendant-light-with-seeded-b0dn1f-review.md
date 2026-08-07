@@ -1,4 +1,5 @@
 ---
+
 title: "Rustic 6 Light Wagon Wheel Chandelier, Round Wood Pendant Li"
 seo_title: "Rustic 6 Light Wagon Wheel Chandelier, Round Wood  Review"
 meta_description: "Our full rustic 6 light wagon wheel chandelier, round wood pendant li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DN1F4DB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gV-y-huML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a farmhouse chandelier, you've probably seen a dozen wagon wheel options that all look identical in the listing photos. This one earns its 4.6-star rating for a simple reason: it's built from real wood, not plastic pretending to be wood. The round pendant body uses solid timber with visible grain, and the six seeded glass shades give it a more refined look than the standard clear-glass farmhouse fixtures.

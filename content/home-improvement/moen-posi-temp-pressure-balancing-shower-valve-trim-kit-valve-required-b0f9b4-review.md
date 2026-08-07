@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Posi-Temp Pressure Balancing Shower Valve Trim Kit Valv"
 seo_title: "Moen Posi-Temp Pressure Balancing Shower Valve Tri Review"
 meta_description: "Our full moen posi-temp pressure balancing shower valve trim kit valv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9B471B8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vxfgmlhcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your shower handle has gotten wobbly, dated, or just plain ugly, the Moen Posi-Temp trim kit is the upgrade that makes sense — *if* you already have the right rough-in valve behind the wall. This is the trim-only kit (escutcheon plate, handle, and cartridge adapter), designed to snap onto Moen's Posi-Temp pressure balancing valve body. With a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the real breakdown.

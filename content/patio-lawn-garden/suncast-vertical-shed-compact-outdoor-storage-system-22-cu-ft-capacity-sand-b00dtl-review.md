@@ -1,4 +1,5 @@
 ---
+
 title: "Suncast Vertical Shed, Compact Outdoor Storage System, 22 Cu"
 seo_title: "Suncast Vertical Shed, Compact Outdoor Storage Sys Review"
 meta_description: "Our full suncast vertical shed, compact outdoor storage system, 22 cu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DTL9TZO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ba5GwXKzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your garage looks like a yard tool exploded in it, the Suncast Vertical Shed (22 Cu Ft) might be the answer. This compact resin cabinet stands about 65 inches tall but only takes up roughly 2 feet of depth. It's designed for people who need tool storage but don't have the space—or the budget—for a full backyard shed.

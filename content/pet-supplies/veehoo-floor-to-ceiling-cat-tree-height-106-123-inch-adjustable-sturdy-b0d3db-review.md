@@ -1,4 +1,5 @@
 ---
+
 title: "Veehoo Floor to Ceiling Cat Tree Height(106-123 Inch) Adjust"
 seo_title: "Veehoo Floor to Ceiling Cat Tree Height(106-123 In Review"
 meta_description: "Our full veehoo floor to ceiling cat tree height(106-123 inch) adjust review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3DB43RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617lfKecDTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your bookshelves like a climbing gym, you've probably searched for a cat tree that actually reaches the ceiling. Most tall towers cap out around 70 inches, leaving the top three feet of your walls completely wasted. The Veehoo Floor to Ceiling Cat Tree solves that problem with a telescoping design that spans 106 to 123 inches. But does adjustable height mean adjustable stability? I dug into the specs, the 225 Amazon ratings, and what owners actually say to find out.

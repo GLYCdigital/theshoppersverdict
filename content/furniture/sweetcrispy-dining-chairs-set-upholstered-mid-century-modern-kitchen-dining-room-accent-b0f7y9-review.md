@@ -1,4 +1,5 @@
 ---
+
 title: "Sweetcrispy Dining Chairs Set, Upholstered Mid Century Moder"
 seo_title: "Sweetcrispy Dining Chairs Set, Upholstered Mid Cen Review"
 meta_description: "Our full sweetcrispy dining chairs set, upholstered mid century moder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F7Y9HH4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617B-SQICEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sweetcrispy Dining Chairs Set Review: Mid-Century Style That Actually Holds Up

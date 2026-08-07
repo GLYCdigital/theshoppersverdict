@@ -1,23 +1,25 @@
 ---
+
 title: "Amish Country Popcorn - Medium White Popcorn - Old Fashioned"
 seo_title: "Amish Country Popcorn Review: Old Fashioned White Kernels"
 meta_description: "Amish Country Popcorn Medium White review: Old fashioned kernels, high pop yield, non-GMO. See if this 4.5-star popcorn earns a spot in your kitchen."
 slug: "amish-country-popcorn-medium-white-popcorn-old-fashioned-non-gmo-and-gluten-b0d36h-review"
 image_alt: "Amish Country Popcorn Medium White kernels in a clear bag with red label"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D36HY6F9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K2Rzv2oaL._SL1500_.jpg"
-pros:  
+pros: 
   - "Exceptionally high pop yield — nearly every kernel pops, leaving minimal unpopped 'old maids'"  
   - "Clean, neutral corn flavor that doesn't need heavy butter or salt to taste good"  
   - "Non-GMO and gluten-free, verified by the Amish Country brand's reputation for simple sourcing"  
-cons:  
+cons: 
   - "Medium white kernels pop smaller and lighter than yellow or mushroom varieties — not ideal for caramel corn or heavy toppings"  
   - "Bag packaging is basic; no resealable zipper, so you'll want a clip or container for long-term storage"
+
 ---
 
 ## The Quiet Workhorse of Popcorn

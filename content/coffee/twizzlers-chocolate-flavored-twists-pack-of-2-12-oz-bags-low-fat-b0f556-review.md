@@ -1,4 +1,5 @@
 ---
+
 title: "Twizzlers Chocolate Flavored Twists - Pack of 2-12 oz Bags -"
 seo_title: "Twizzlers Chocolate Flavored Twists - Pack of 2-12 Review"
 meta_description: "Our full twizzlers chocolate flavored twists - pack of 2-12 oz bags - review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F55614XL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZlVbjzUdL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Twizzlers Chocolate Flavored Twists – The 2-Pack That Finally Gets Chocolate Right**

@@ -1,4 +1,5 @@
 ---
+
 title: "100 Sheets Matte Photo Paper Coated 8.5x11 180Gsm 49lbs 8.5M"
 seo_title: "Matte Photo Paper 8.5x11 180gsm Review: 100 Sheets"
 meta_description: "Honest review of 100-sheet matte photo paper 8.5x11, 180gsm coated stock. Tested for ink absorption, drying time, and value. See pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07427C5BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nCBZRUusL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 180gsm weight with a coated matte surface that resists smudging and fingerprints"
   - "Crisp, clean white point that makes colors and text pop without glare"
   - "Consistent 100-sheet count per pack — no shorting, no perforated tear-offs"
-cons:
+cons: 
   - "Not a true photo-lab finish — fine detail in dark shadows can muddy slightly on some inkjets"
   - "Coating is delicate before drying; stacking too quickly can leave transfer marks"
   - "No included color profile ICC file for advanced color-managed printing workflows"
+
 ---
 
 If you print anything more than casual text documents, you’ve probably hit the wall where regular multipurpose paper just won't cut it. Bleed-through, muddy colors, curling edges — the usual suspects. This 100-sheet pack of 8.5x11 matte photo paper, coated at 180gsm (about 49 lbs), is aimed squarely at that gap between cheap copier stock and premium fine-art sheets. It’s a solid middle ground, and for most home offices and small studios, it may be all you need.

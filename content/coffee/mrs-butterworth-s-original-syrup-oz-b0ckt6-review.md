@@ -1,4 +1,5 @@
 ---
+
 title: "Mrs. Butterworth's Original Syrup Oz"
 seo_title: "Mrs. Butterworth's Original Syrup Oz Review: Verdict | TS"
 meta_description: "Our full mrs. butterworth's original syrup oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKT6FHSJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VhaHRsjvL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is: Mrs. Butterworth's Original Syrup is not maple syrup. It's a pancake syrup — a blend of corn syrup, high fructose corn syrup, and artificial flavoring designed to taste like the idealized breakfast syrup of American diner lore. And for what it is, it does the job remarkably well.

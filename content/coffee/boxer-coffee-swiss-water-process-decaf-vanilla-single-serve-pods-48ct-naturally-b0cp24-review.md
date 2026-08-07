@@ -1,4 +1,5 @@
 ---
+
 title: "Boxer Coffee Swiss Water Process Decaf Vanilla Single Serve"
 seo_title: "Boxer Coffee Decaf Vanilla Pods Review: Swiss Water Process"
 meta_description: "Honest Boxer Coffee Swiss Water Process Decaf Vanilla Single Serve review. 48-count pods, real vanilla flavor, no chemical aftertaste. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP242TZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SgoshGclL._SL1200_.jpg"
-pros:
+pros: 
   - "Swiss Water Process removes caffeine without chemical solvents, so you get a cleaner cup with none of that harsh decaf bite"
   - "Real vanilla flavor — not artificial syrup sweetness — that comes through clearly even with milk or creamer added"
   - "48-count box works out to a solid per-cup price for a specialty decaf, and the pods are universally compatible with standard single-serve brewers"
-cons:
+cons: 
   - "Lighter body than the brand's regular roast — if you want a bold, dark decaf this isn't it"
   - "The vanilla is noticeable but subtle; flavor-forward drinkers may find it underwhelming compared to syrupy competitors"
   - "No strength control on the pod itself, so you're locked into Boxer's extraction profile"
+
 ---
 
 Here's the honest truth about decaf coffee: most of it tastes like the punishment you deserve for quitting caffeine. The Swiss Water Process changes that equation, and Boxer's Vanilla Single Serve is a solid argument for why you don't need to suffer through chemically stripped beans just to sleep at night.

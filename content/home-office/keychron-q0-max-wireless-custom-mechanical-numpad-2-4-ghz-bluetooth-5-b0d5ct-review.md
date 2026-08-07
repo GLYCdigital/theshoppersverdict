@@ -1,4 +1,5 @@
 ---
+
 title: "Keychron Q0 Max Wireless Custom Mechanical Numpad, 2.4 GHz/B"
 seo_title: "Keychron Q0 Max Wireless Custom Mechanical Numpad, Review"
 meta_description: "Our full keychron q0 max wireless custom mechanical numpad, 2.4 ghz/b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D5CTPMKW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NhC0+iobL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Keychron Q0 Max Wireless Custom Mechanical Numpad: The 21-Key Desk Upgrade That Actually Earns Its Spot  

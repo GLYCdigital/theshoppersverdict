@@ -1,4 +1,5 @@
 ---
+
 title: "Aedavey Cordless Nail Lamp, 120W Rechargeable UV Nail Lamp f"
 seo_title: "Aedavey 120W Cordless Nail Lamp Review: Worth It?"
 meta_description: "Aedavey 120W rechargeable UV nail lamp review: 4.4-star rated, cordless convenience, fast gel curing. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C7VQ7KSQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712+T7a2T+L._SL1500_.jpg"
-pros:
+pros: 
   - "120W output cures gel polish in 30–60 seconds per coat — genuinely fast, tested across hard gels and builder bases"
   - "True cordless operation with a 2600mAh battery; roughly 40–60 minutes of continuous use per charge, which covers multiple manicures"
   - "Auto-sensor and 30/60/99-second timers give salon-grade flexibility without needing to read a manual twice"
-cons:
+cons: 
   - "The auto-sensor sometimes triggers prematurely on thin or lightly coated nails, causing longer cure cycles than needed"
   - "Battery is internal and non-replaceable; heavy users will see capacity fade after roughly 18 months of weekly charging"
+
 ---
 
 **The Aedavey 120W Cordless Nail Lamp, 4.2/5 — A cordless cure that mostly delivers**

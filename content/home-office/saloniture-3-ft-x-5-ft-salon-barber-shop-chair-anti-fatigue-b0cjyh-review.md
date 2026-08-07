@@ -1,4 +1,5 @@
 ---
+
 title: "Saloniture 3 ft. x 5 ft. Salon & Barber Shop Chair Anti-Fati"
 seo_title: "Saloniture 3 ft. x 5 ft. Salon & Barber Shop Chair Review"
 meta_description: "Our full saloniture 3 ft. x 5 ft. salon & barber shop chair anti-fati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJYHNPPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619TPkeV1ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most anti-fatigue mats are an afterthought — a flimsy slab of foam you kick under the chair and forget about until it starts curling at the corners. The Saloniture 3x5 takes a different approach, and after 225 ratings holding steady at 4.5 stars, it's worth a closer look. This is a serious piece of workspace gear designed for professionals who stand on concrete or tile for eight-plus hours a day.

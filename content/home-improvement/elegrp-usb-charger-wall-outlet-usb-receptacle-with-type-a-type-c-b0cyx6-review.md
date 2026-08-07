@@ -1,4 +1,5 @@
 ---
+
 title: "ELEGRP USB Charger Wall Outlet, USB Receptacle with Type A &"
 seo_title: "ELEGRP USB Wall Outlet Review: Type A & C Receptacle"
 meta_description: "ELEGRP USB charger wall outlet review: dual Type A & C ports, 30W fast charging, easy install. See real pros, cons, and if it's worth upgrading."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYX6WVLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51d56HV+s+L._SL1500_.jpg"
-pros:
+pros: 
   - "Delivers a true 30W combined output — enough to fast-charge a modern iPhone or Android at full speed without needing a separate wall brick"
   - "Tool-free side wiring terminals accept 12 AWG wire, making it noticeably easier to install in tight junction boxes than screw-terminal-only outlets"
   - "Compact 1.4-inch deep body fits standard 2-inch deep boxes without the pigtail cramming you get from bulkier competitors"
-cons:
+cons: 
   - "USB ports stop charging entirely when the top receptacle trips the GFCI — a design quirk that can confuse buyers expecting independent operation"
   - "White finish is slightly glossy compared to standard Leviton or Eaton outlets, so it won't perfectly match older plates if you're replacing just one"
+
 ---
 
 # Is the ELEGRP USB Wall Outlet Worth Your Junction Box?

@@ -1,4 +1,5 @@
 ---
+
 title: "Hicober USB C to SD Card Reader, Micro SD Memory Card Reader"
 seo_title: "Hicober USB C to SD Card Reader, Micro SD Memory C Review"
 meta_description: "Our full hicober usb c to sd card reader, micro sd memory card reader review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN7GJK24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PgOBu7mHL._AC_SL1449_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you shoot photos or drone footage, you've hit this wall: the memory card is full, your laptop only has USB-C ports, and you're digging through a drawer for a dongle that's somehow always missing. The Hicober USB C to SD Card Reader exists to end that scavenger hunt. It's a small, dual-slot adapter that does exactly what it promises — and does it well enough to justify a spot in your everyday carry.

@@ -1,4 +1,5 @@
 ---
+
 title: "FUKUMARU Cat House for Indoor Cats, 23.62 Inch Large Cat Bed"
 seo_title: "FUKUMARU Cat House Review: 23.62 Inch Indoor Cat Bed"
 meta_description: "Honest FUKUMARU cat house review: 23.62-inch indoor cat bed with washable cover. See pros, cons, and who should buy this 4.4-star rated hideaway."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GL7S5GSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YskBTBVoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 23.62-inch interior fits Maine Coons and chunky cats — most 'large' cat beds are actually 18 inches"
   - "Removable, machine-washable cover makes cleaning manageable — a real differentiator in this category"
   - "Sturdy PP board frame holds its shape even with 15+ lb cats jumping on top"
-cons:
+cons: 
   - "Assembly requires some effort — the frame pieces need firm pressure to snap together"
   - "Cushion is on the thinner side; heavier cats may want an extra pad inside"
   - "Only one color option available — no pattern variety for matching your decor"
+
 ---
 
 Let's be clear about something upfront: the pet furniture market is flooded with "large" cat houses that barely fit a kitten. The FUKUMARU actually delivers on its 23.62-inch claim. I measured it. That matters if you've got a big boy at home.

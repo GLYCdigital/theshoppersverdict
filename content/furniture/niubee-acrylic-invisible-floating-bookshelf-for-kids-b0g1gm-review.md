@@ -1,4 +1,5 @@
 ---
+
 title: "NIUBEE Acrylic Invisible Floating Bookshelf for Kids"
 seo_title: "NIUBEE Acrylic Invisible Floating Bookshelf for Ki Review"
 meta_description: "Our full niubee acrylic invisible floating bookshelf for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G1GMRB3H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GEaGfIYjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The magic trick that actually works

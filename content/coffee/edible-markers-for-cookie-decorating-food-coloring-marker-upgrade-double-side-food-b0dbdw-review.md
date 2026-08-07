@@ -1,4 +1,5 @@
 ---
+
 title: "Edible Markers for Cookie Decorating, Food Coloring Marker,"
 seo_title: "Edible Markers Review: Best Food Coloring Pens for Cookies (2026)"
 meta_description: "Honest review of double-sided edible markers for cookie decorating. Tested for tip durability, color payoff, and ease of use. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DBDWGJSX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UcVxOx17L._SL1500_.jpg"
-pros:
+pros: 
   - "Double-sided design gives you 24 colors in one pack — 12 fine tips for detail work and 12 broader tips for filling large areas"
   - "Ink dries quickly on royal icing and fondant without smearing, even when stacking cookies for storage"
   - "Tastes neutral — no bitter chemical aftertaste that plagues cheaper food coloring pens"
-cons:
+cons: 
   - "Ink can bleed slightly on wet or fresh royal icing; you need to let icing crust for 30+ minutes first"
   - "Fine tips are genuinely fine — if you press hard they'll fray faster than standard markers"
   - "No single-color replacement packs; when one color runs dry you're buying the whole set again"
+
 ---
 
 Let's be honest: most edible markers are a disappointment. They smear, they taste like battery acid, and the tips turn to mush after three cookies. This double-sided set from the food coloring marker category is the exception — and at 4.4 stars across 220 ratings, I'm not the only one who thinks so.

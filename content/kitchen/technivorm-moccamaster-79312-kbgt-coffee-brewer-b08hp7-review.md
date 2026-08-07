@@ -1,4 +1,5 @@
 ---
+
 title: "Technivorm Moccamaster 79312 KBGT Coffee Brewer"
 seo_title: "Technivorm Moccamaster 79312 KBGT Coffee Brewer Review: V"
 meta_description: "Our full technivorm moccamaster 79312 kbgt coffee brewer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08HP77CLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Cj-pMNFCL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $350 question: does a coffee maker with zero electronics and no programmable timer deserve that price tag?**

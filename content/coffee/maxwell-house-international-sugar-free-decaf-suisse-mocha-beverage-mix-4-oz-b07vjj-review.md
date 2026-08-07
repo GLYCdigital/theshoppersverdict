@@ -1,4 +1,5 @@
 ---
+
 title: "Maxwell House International Sugar-Free Decaf Suisse Mocha Be"
 seo_title: "Maxwell House International Sugar-Free Decaf Suiss Review"
 meta_description: "Our full maxwell house international sugar-free decaf suisse mocha be review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07VJJKK5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xkfDwlSBL._SL1449_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: this is the best sugar-free instant mocha I've tested in a decade of reviewing coffee products, and that's coming from someone who normally despises artificial sweeteners.

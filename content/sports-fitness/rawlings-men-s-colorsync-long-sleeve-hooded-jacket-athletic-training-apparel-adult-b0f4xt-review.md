@@ -1,4 +1,5 @@
 ---
+
 title: "Rawlings | Men's Colorsync Long Sleeve Hooded Jacket | Athle"
 seo_title: "Rawlings | Men's Colorsync Long Sleeve Hooded Jack Review"
 meta_description: "Our full rawlings | men's colorsync long sleeve hooded jacket | athle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4XT2LFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91sZdaCth4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Rawlings Colorsync Hooded Jacket: The Training Layer That Actually Works**

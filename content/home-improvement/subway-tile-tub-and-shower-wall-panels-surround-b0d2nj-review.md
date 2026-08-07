@@ -1,4 +1,5 @@
 ---
+
 title: "Subway Tile Tub and Shower Wall Panels Surround"
 seo_title: "Subway Tile Tub and Shower Wall Panels Surround Review: V"
 meta_description: "Our full subway tile tub and shower wall panels surround review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D2NJRZ7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71kBlr7u-AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If the phrase "tile installation" sends a chill down your spine — the thought of mortar, spacers, and a wet saw on a Saturday morning — these subway tile panels are the shortcut you've been hunting for. The question is whether the time saved is worth the visual compromise. After digging through 190 ratings and the product's actual spec sheet, here's what I'd want to know before handing over my card.

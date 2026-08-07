@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Cosmetic Foam Wedges"
 seo_title: "Amazon Basics Cosmetic Foam Wedges Review (2026): Worth It?"
 meta_description: "Honest Amazon Basics Cosmetic Foam Wedges review: blend performance, durability, and value. See pros, cons, and who should buy before you add to cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4Z1H5NV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-tsL-p9WL._SL1500_.jpg"
-pros:
+pros: 
   - "Latex-free foam holds up through multiple washes without crumbling or tearing — most cheap wedges disintegrate by wash three"
   - "Dense, fine-pore texture blends liquid foundation seamlessly with zero streaking, even on dry patches"
   - "Sized generously at 1.8 x 1.4 x 1.1 inches — bigger than typical drugstore wedges, so fewer are needed per application"
-cons:
+cons: 
   - "Packaging is a simple clear bag with no resealable closure — wedges can collect dust if you don't store them yourself"
   - "Absorbs more product than silicone blenders, so you'll use slightly more foundation per application"
+
 ---
 
 **The $10 Beauty Secret That Actually Works (With One Catch)**

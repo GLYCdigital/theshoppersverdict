@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenStar Acacia Wood Pizza Peel â€“ Wooden Cutting & Serv"
 seo_title: "KitchenStar Acacia Wood Pizza Peel â€“ Wooden Cutt Review"
 meta_description: "Our full kitchenstar acacia wood pizza peel â€“ wooden cutting & serv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CNMCNXTF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916+-jjeRgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # KitchenStar Acacia Wood Pizza Peel Review: The 2-in-1 Board That Actually Works

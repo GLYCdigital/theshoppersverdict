@@ -1,4 +1,5 @@
 ---
+
 title: "Bandai Hobby - Gundam Seed Destiny - Strike Freedom Gundam M"
 seo_title: "Strike Freedom Gundam M Review: MGEX 1/100 Kit"
 meta_description: "Strike Freedom Gundam M review: Is the MGEX 1/100 kit worth $200+? We break down build quality, articulation, and whether this premium Bandai kit delivers."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B4NLPLZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LJ-Ex-j3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium gold electroplated inner frame with intricate mechanical detail visible through armor gaps"
   - "Massive wings of light effect parts create a striking 14-inch display presence"
   - "Pre-molded articulated frame out of the box — no glue or painting required for a stunning result"
-cons:
+cons: 
   - "Runner organization is dense; expect 4-6 hours of build time for the full experience"
   - "Gold plating requires careful nub removal — use single-blade nippers or you'll chip the finish"
   - "Effect parts are fragile; the wings of light are brittle and can snap during posing"
+
 ---
 
 ## The $250 Question: Is the MGEX Strike Freedom Worth It?

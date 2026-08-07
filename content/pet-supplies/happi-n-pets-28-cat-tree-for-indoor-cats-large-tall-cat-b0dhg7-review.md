@@ -1,7 +1,8 @@
 ---
-title: "Happi N Pets 28\" Cat Tree for Indoor Cats Large, Tall Cat Sc"
-seo_title: "Happi N Pets 28\" Cat Tree for Indoor Cats Large, T Review"
-meta_description: "Our full happi n pets 28\" cat tree for indoor cats large, tall cat sc review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Happi N Pets 28\ Cat Tree for Indoor Cats Large, Tall Cat Sc"
+seo_title: "Happi N Pets 28\ Cat Tree for Indoor Cats Large, T Review"
+meta_description: "Our full happi n pets 28\ cat tree for indoor cats large, tall cat sc review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "happi-n-pets-28-cat-tree-for-indoor-cats-large-tall-cat-b0dhg7-review"
 image_alt: "Happi N Pets 28 Cat Tree for Indoor Cats Large, Tall Cat Scratching Post with Bed, Sisal Cat Scratcher with Soft Perch &"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHG7XC96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gUJqT6wnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cat treats your sofa like a scratching post and your curtains like a jungle gym, you've probably stared at a dozen cat trees wondering which one won't collapse in a week. The Happi N Pets 28" Cat Tree is the compact option that keeps popping up in "best for small spaces" lists — but does it actually hold up to a determined claw? I dug through 229 ratings and the product specs to give you the straight story.

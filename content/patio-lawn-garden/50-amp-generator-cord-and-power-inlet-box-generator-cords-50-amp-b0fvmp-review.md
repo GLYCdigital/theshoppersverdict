@@ -1,4 +1,5 @@
 ---
+
 title: "50 Amp Generator Cord and Power Inlet Box, Generator Cords 5 inch"
 seo_title: "50 Amp Generator Cord & Inlet Box Review (2026) | Honest Look"
 meta_description: "Read our 50 Amp Generator Cord and Power Inlet Box review. 4.8/5 rated. Covers build quality, real-world performance, and who should buy. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVMPJZCF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OKO-twTAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-gauge copper wire with 3% voltage drop over full 25-foot run — steady power for heavy loads"
   - "Weatherproof inlet box with hinged spring-loaded cover and gasket seals out rain and snow"
   - "NEMA 14-50P plug and CS6364 locking connector rated for 12,500 watts continuous"
-cons:
+cons: 
   - "Inlet box mounting screws not included — you'll need to supply your own 1/4-inch fasteners"
   - "Cord is stiff in sub-freezing temps, making tight bends around corners difficult"
+
 ---
 
 **Bottom Line Up Front:** If you're wiring a generator into your home's electrical system without hiring an electrician, this 50-amp cord and inlet box combo is the most straightforward path I've tested. The 4.8-star average across 240 ratings isn't hype — the build quality justifies the price for anyone running a 7,500-watt or larger portable generator.

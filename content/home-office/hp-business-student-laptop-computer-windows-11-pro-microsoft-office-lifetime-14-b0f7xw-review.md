@@ -1,4 +1,5 @@
 ---
+
 title: "HP Business Student Laptop Computer - Windows 11 Pro & Micro"
 seo_title: "HP Business Student Laptop Computer - Windows 11 P Review"
 meta_description: "Our full hp business student laptop computer - windows 11 pro & micro review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F7XWPC27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61unvl0pyVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The “Student” Label Undersells This Machine

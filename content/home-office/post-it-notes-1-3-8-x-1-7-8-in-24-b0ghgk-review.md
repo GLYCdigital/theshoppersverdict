@@ -1,4 +1,5 @@
 ---
+
 title: "Post-it Notes, 1/3/8 x 1 7/8 in, 24 Sticky Notes Pads, 100 S"
 seo_title: "Post-it Notes, 1/3/8 x 1 7/8 in, 24 Sticky Notes P Review"
 meta_description: "Our full post-it notes, 1/3/8 x 1 7/8 in, 24 sticky notes pads, 100 s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHGK78HK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zJzl5faEL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 2,400-Sheet Workhorse: Why This Mini Post-it Pack Earns Its 4.7 Stars**

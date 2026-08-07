@@ -1,4 +1,5 @@
 ---
+
 title: "Armani Beauty - My Way & Acqua di Gioia - Women's Perfume Gi"
 seo_title: "Armani My Way & Acqua di Gioia Gift Set Review (2026)"
 meta_description: "Honest review of the Armani Beauty My Way & Acqua di Gioia women's perfume gift set. See how these two iconic scents perform, their longevity, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKG81MDV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sJ1PYlhpL._SL1500_.jpg"
-pros:
+pros: 
   - "Two full-size (50ml each) iconic Armani fragrances in one purchase — better value than buying separately"
   - "My Way's tuberose and vanilla blend earns consistent compliments and works year-round"
   - "Acqua di Gioia offers a fresh, aquatic daily wear option that's office-safe and easy to layer"
-cons:
+cons: 
   - "No travel-size or discovery samples included — you're committing to full bottles blind if you haven't smelled these"
   - "My Way projects heavily for the first hour; overspraying leads to nose-blindness and potential headaches in close quarters"
+
 ---
 
 **Two Armani icons in one box — but is this gift set actually worth your money?**

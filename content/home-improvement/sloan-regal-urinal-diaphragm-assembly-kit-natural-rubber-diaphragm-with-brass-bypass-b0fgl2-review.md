@@ -1,4 +1,5 @@
 ---
+
 title: "Sloan Regal Urinal Diaphragm Assembly Kit - Natural Rubber D"
 seo_title: "Sloan Regal Urinal Diaphragm Assembly Kit - Natura Review"
 meta_description: "Our full sloan regal urinal diaphragm assembly kit - natural rubber d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGL2KHBM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61or80pKEfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 fix that silences a screaming urinal

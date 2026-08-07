@@ -1,4 +1,5 @@
 ---
+
 title: "VIVO Dual Monitor Desk Stand Free-Standing LCD Mount"
 seo_title: "VIVO Dual Monitor Desk Stand Free-Standing LCD Mou Review"
 meta_description: "Our full vivo dual monitor desk stand free-standing lcd mount review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHFGFPZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61L+FS7r6gL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your desk is drowning in monitor stands, the VIVO Dual Monitor Desk Stand is the kind of purchase that makes you wonder why you waited so long. This free-standing mount does exactly what it promises: it gets two monitors off your work surface and onto a single, sturdy steel frame that doesn't require clamping to your desk.

@@ -1,4 +1,5 @@
 ---
+
 title: "XLUX Solar Lights for Steps Decks Pathway Yard Stairs Fences"
 seo_title: "XLUX Solar Lights for Steps Decks Pathway Yard Sta Review"
 meta_description: "Our full xlux solar lights for steps decks pathway yard stairs fences review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DD3CPDVP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BT5I-EKzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about solar step lights: most of them are junk. They flicker after a month, the adhesive strips fail, or they put out less light than a dying phone screen. The XLUX Solar Lights are not that. Are they perfect? No. But after digging through 220 ratings at a 4.4 average, these earn their place on your stair risers.

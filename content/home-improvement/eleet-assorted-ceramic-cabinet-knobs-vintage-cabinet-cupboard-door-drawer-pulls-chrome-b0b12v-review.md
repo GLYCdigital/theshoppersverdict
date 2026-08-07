@@ -1,4 +1,5 @@
 ---
+
 title: "Eleet Assorted Ceramic Cabinet Knobs - Vintage Cabinet Cupbo"
 seo_title: "Eleet Ceramic Cabinet Knobs Review: Vintage Charm, Real Value"
 meta_description: "Honest Eleet assorted ceramic cabinet knobs review: 12 vintage-style pulls, build quality, finish durability, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B12VDG1R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JN-CzKFSL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Twelve assorted vintage-style ceramic designs in one box—enough variety to mix and match without buying multiple sets"
   - "Standard 1.5-inch screw spacing fits virtually all pre-drilled cabinet fronts and drawer faces"
   - "Ceramic bodies are glazed and kiln-fired, not painted plastic—they hold up to daily use without chipping"
-cons:
+cons: 
   - "Screws included are basic zinc-plated steel; consider replacing with brass or stainless for humid environments"
   - "Assortment is random—you get what you get, so don't expect exact color or design control"
+
 ---
 
 Let’s be honest about cabinet hardware: most of it is boring. The Eleet Assorted Ceramic Cabinet Knobs are not boring. This 12-piece set brings vintage-inspired ceramic pulls to your kitchen, bathroom, or furniture project—and at 4.5 stars from 225 buyers, it’s clearly doing something right. But is it right for *your* cabinets? Here’s the real breakdown.

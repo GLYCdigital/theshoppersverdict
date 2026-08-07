@@ -1,4 +1,5 @@
 ---
+
 title: "Live and Sleep Classic Medium Firm Mattress"
 seo_title: "Live and Sleep Classic Medium Firm Mattress Review: Verdi"
 meta_description: "Our full live and sleep classic medium firm mattress review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FM6CNNW3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aqlbU5S+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Live and Sleep Classic Medium Firm Mattress Review: The Budget Bed That Actually Delivers**

@@ -1,4 +1,5 @@
 ---
+
 title: "Jellycat Tumblie Sheep Dog Stuffed Animal, 14 inches- Dogs a"
 seo_title: "Jellycat Tumblie Sheep Dog Stuffed Animal, 14 inch Review"
 meta_description: "Our full jellycat tumblie sheep dog stuffed animal, 14 inches- dogs a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01NCNNU5I/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612qjMyF9NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't buy a Jellycat because you need another stuffed animal. You buy one because everything else feels like a compromise. The **Tumblie Sheep Dog** — a 14-inch floppy-eared pup with that signature Jellycat charm — is no exception. At 4.8 stars across 240 ratings, it's clearly doing something right. But is it worth the premium over a $15 Target plush? Let's break it down.

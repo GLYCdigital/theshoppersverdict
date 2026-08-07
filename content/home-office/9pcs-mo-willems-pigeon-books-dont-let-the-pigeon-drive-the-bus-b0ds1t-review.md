@@ -1,4 +1,5 @@
 ---
+
 title: "9PCS Mo Willems Pigeon Books Dont Let the Pigeon Drive the B"
 seo_title: "Mo Willems Pigeon Books 9-Pack Review: Worth It? (2026)"
 meta_description: "Honest review of the 9PCS Mo Willems Pigeon Books set. Are these classroom favorites worth the buy? Real pros, cons, and verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DS1TD83X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7132MfufHVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Complete 9-book collection covers all core Pigeon titles plus fan-favorites like The Duckling Gets a Cookie"
   - "Sturdy board book construction holds up to repeated toddler handling and classroom use"
   - "Consistent 4.7-star rating across 235 reviews indicates genuine buyer satisfaction"
-cons:
+cons: 
   - "Individual books sold separately can be cheaper if you already own some titles"
   - "No storage box included — books arrive loose in a plastic bag"
+
 ---
 
 **Review Body:**

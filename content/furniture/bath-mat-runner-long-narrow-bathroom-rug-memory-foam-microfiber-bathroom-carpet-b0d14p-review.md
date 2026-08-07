@@ -1,4 +1,5 @@
 ---
+
 title: "Bath Mat Runner Long Narrow Bathroom Rug Memory Foam Microfi"
 seo_title: "Bath Mat Runner Long Narrow Review: Memory Foam Comfort"
 meta_description: "Honest review of the Long Narrow Bathroom Rug Memory Foam Microfiber bath mat. Is it worth it? Real pros, cons, and buying advice from 220+ ratings."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D14PL6YP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-BT8XN6gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plush 0.5-inch memory foam core provides genuine cushioning that holds up to daily use without flattening"
   - "Long narrow dimensions (typically 16x47 inches) fit tight spaces like double vanities and galley bathrooms perfectly"
   - "Quick-drying microfiber surface with anti-slip rubber backing stays put on tile and hardwood"
-cons:
+cons: 
   - "Not machine washable in standard washers — the memory foam core requires spot cleaning or hand washing"
   - "Initial out-of-box odor lasts a few days even after airing out"
   - "Thin edges can curl slightly if you step on the very border repeatedly"
+
 ---
 
 Let me be blunt: most bathroom rugs are either pretty but useless, or durable but ugly. The **Long Narrow Bathroom Rug Memory Foam Microfiber** tries to split the difference, and for the most part, it lands on the right side of that line.

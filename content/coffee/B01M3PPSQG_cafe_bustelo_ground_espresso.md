@@ -1,4 +1,5 @@
 ---
+
 title: "Café Bustelo Espresso Ground Coffee"
 seo_title: "Café Bustelo Ground Coffee Review: Bold Espresso at $15 inch"
 meta_description: "Café Bustelo Espresso Ground Coffee review: bold, dark roast with 4.8 stars. See how it brews, who it's for, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 9097
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G+uU0k9sL._SL1500_.jpg"
-pros:
+pros: 
   - "Bold, smoky flavor profile that stands up to milk and sugar without getting lost"
   - "Finely ground — works in espresso machines, Moka pots, and drip brewers alike"
   - "10-ounce brick pack is consistently fresh and costs less per cup than most single-origin bags"
-cons:
+cons: 
   - "Fine grind can clog some paper filters — use a coarser setting or a metal filter if you're brewing drip"
   - "Not a single-origin or specialty bean; it's a commodity blend with a dark, bitter edge some find harsh"
+
 ---
 
 Let me be direct: Café Bustelo is not a fancy third-wave coffee. It's not trying to be. It's a Cuban-style dark roast that has been the backbone of Latino kitchens for decades, and for $14.99 for a 10-ounce brick, it delivers a flavor punch that most $20 bags can't match. With 9,097 ratings averaging 4.8 stars, the crowd has spoken — but let's dig into whether it's the right coffee for *you*.

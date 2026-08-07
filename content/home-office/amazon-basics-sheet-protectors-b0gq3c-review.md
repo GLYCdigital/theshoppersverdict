@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Sheet Protectors"
 seo_title: "Amazon Basics Sheet Protectors Review (2026): Worth It?"
 meta_description: "Amazon Basics Sheet Protectors review: 4.7-star rated, 200-pack for $8.39. Are they durable? We test clarity, fit, and value for home offices."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQ3C9XMK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kw30b3USL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crystal-clear polypropylene doesn't yellow or glare under office lighting"
   - "Reinforced top edge resists tearing at the punch holes — the usual failure point"
   - "200 sheets for $8.39 works out to about 4 cents per protector"
-cons:
+cons: 
   - "Standard weight (3.5 mil) won't survive heavy daily handling in binders you haul around"
   - "No archival-safe designation — don't use for irreplaceable documents you need to last decades"
+
 ---
 
 You can spend $25 on a box of premium sheet protectors that do the exact same job as these. Or you can buy the Amazon Basics 200-pack for $8.39 and pocket the difference. That's the core appeal here — but let's dig into whether the savings cost you anything where it matters.

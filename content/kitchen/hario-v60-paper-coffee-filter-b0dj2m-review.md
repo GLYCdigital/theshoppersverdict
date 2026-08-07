@@ -1,4 +1,5 @@
 ---
+
 title: "Hario V60 Paper Coffee Filter"
 seo_title: "Hario V60 Paper Coffee Filter Review: Verdict | TSV"
 meta_description: "Our full hario v60 paper coffee filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ2MW9M1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41yvXuNGfXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a kitchen product, the **Hario V60 Paper Coffee Filter** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

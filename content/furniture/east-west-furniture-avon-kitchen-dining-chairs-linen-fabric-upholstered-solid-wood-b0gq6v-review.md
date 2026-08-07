@@ -1,4 +1,5 @@
 ---
+
 title: "East West Furniture Avon Kitchen Dining Chairs - Linen Fabri"
 seo_title: "East West Avon Dining Chair Review: Solid Wood & Linen"
 meta_description: "Honest East West Furniture Avon dining chair review: solid wood frame, linen upholstery, 4.6/5 rating. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQ6VG1P4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Tt67jN9lL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Kiln-dried solid rubberwood frame — genuinely sturdy, not particle board"
   - "Linen-blend upholstery with high-resiliency foam that holds shape through daily use"
   - "Pre-assembled legs — most buyers report under 10 minutes setup with just a screwdriver"
-cons:
+cons: 
   - "Linen fabric is light-colored and shows stains quickly; no removable covers for washing"
   - "No padding on the backrest — firm support that some find too rigid for long meals"
+
 ---
 
 Let's be blunt: most dining chairs under $150 are wobbly particle-board disasters that sag within a year. The East West Furniture Avon chair isn't that — but it's also not a plush throne. Here's what 229 buyers (averaging 4.6 stars) actually discovered after living with these chairs.

@@ -1,4 +1,5 @@
 ---
+
 title: "Motion Sensor Light Indoor, BLS LED Night Light Closet Light"
 seo_title: "Motion Sensor Light Indoor, BLS LED Night Light Cl Review"
 meta_description: "Our full motion sensor light indoor, bls led night light closet light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWD3X8ZS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nwYeG-fOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** The BLS motion sensor light solves a genuinely annoying problem — fumbling for light switches in dark closets, under cabinets, or on stair landings — without hardwiring or replacing fixtures. At 4.6 stars from 229 ratings, it's earned its reputation as a reliable, no-fuss lighting upgrade. But it's not perfect, and knowing the quirks before you buy saves frustration.

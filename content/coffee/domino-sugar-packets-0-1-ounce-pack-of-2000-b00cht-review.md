@@ -1,4 +1,5 @@
 ---
+
 title: "Domino Sugar Packets, 0.1 Ounce (Pack of 2000)"
 seo_title: "Domino Sugar Packets Review: 2000 Count for Coffee"
 meta_description: "Domino Sugar Packets 0.1 oz (2000 count) review: portion control, value, and real-world use for coffee shops and home brewers. Is the bulk buy worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00CHTTPO4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jmbnFy0oL._SL1500_.jpg"
-pros:
+pros: 
   - "Exactly 2,000 individually sealed packets — roughly 31 cents per 100 packets at typical pricing, far cheaper than grocery store boxes"
   - "Consistent 0.1 oz (about 2.8g) serving — perfect for standard coffee cup sweetness without measuring"
   - "Durable paper packets that tear cleanly and don't leak or clump even in humid conditions"
-cons:
+cons: 
   - "No resealable bulk container — packets ship loose in a cardboard box, so you need your own storage bin"
   - "2000 packets is 3-4 years of daily use for a single person — the quantity is excessive for home kitchens"
+
 ---
 
 Here's the thing about buying 2,000 sugar packets: you're not really buying sugar. You're buying convenience, portion control, and the end of sticky sugar bowls forever. Domino's bulk pack delivers exactly that — 2,000 individually wrapped 0.1-ounce packets that solve a specific problem for specific people.

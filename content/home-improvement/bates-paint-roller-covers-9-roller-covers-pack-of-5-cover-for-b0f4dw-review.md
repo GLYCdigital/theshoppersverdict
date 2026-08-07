@@ -1,4 +1,5 @@
 ---
+
 title: "Bates- Paint Roller Covers, 9 inch  Roller Covers, Pack of 5, Cov"
 seo_title: "Bates 9 inch  Paint Roller Covers Review (5-Pack): Worth It?"
 meta_description: "Honest Bates 9 inch  roller cover review: 5-pack performance, nap options, lint shedding, and value. See if these covers beat the big brands."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4DW4FQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HUlr75f7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Microfiber blend picks up and releases paint evenly with minimal splatter on flat and eggshell finishes"
   - "5-pack pricing lands around $2 per cover — cheap enough to toss instead of cleaning between coats"
   - "Fits standard 9-inch cages snugly; no slipping or shedding mid-roll even on textured ceilings"
-cons:
+cons: 
   - "Nap is on the shorter side (~3/8 inch) so heavy stipple textures require a second pass or a thicker cover"
   - "Core is cardboard, not phenolic plastic — soaking in water before use can soften it and cause warping"
+
 ---
 
 Let me save you a trip to the hardware store. I've burned through enough roller covers to know the difference between "disposable cheap" and "disposable smart." The Bates 9-inch 5-pack falls firmly in the second category — but with a couple of caveats worth knowing before you add it to your cart.

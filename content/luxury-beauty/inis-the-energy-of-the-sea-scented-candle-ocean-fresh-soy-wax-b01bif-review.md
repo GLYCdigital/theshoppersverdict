@@ -1,4 +1,5 @@
 ---
+
 title: "Inis the Energy of the Sea - Scented Candle, Ocean Fresh Soy"
 seo_title: "Inis the Energy of the Sea - Scented Candle, Ocean Review"
 meta_description: "Our full inis the energy of the sea - scented candle, ocean fresh soy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01BIFZ5JQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HmVy51cBL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "ocean" candles smell like a Bath & Body Works clearance rack — all synthetic watermelon and coconut. The Inis Energy of the Sea candle is not that. It's the fragrance equivalent of standing on a rocky Irish coastline, which makes sense because this is a spinoff of the cult-favorite Inis perfume from Fragrances of Ireland. 

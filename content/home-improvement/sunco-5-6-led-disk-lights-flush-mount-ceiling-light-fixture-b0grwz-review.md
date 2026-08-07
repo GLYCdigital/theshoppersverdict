@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco 5/6 LED Disk Lights Flush Mount Ceiling Light Fixture"
 seo_title: "Sunco 5/6 LED Disk Lights Flush Mount Ceiling Ligh Review"
 meta_description: "Our full sunco 5/6 led disk lights flush mount ceiling light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GRWZ3LF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ORYRs9UML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a builder-grade boob light and wondering why your hallway feels like a cave, the Sunco 5/6 LED Disk Light is the modern, low-profile replacement you've been circling. With 229 ratings and a 4.6-star average, this isn't an obscure find — it's a proven workhorse. But before you add it to cart, let me tell you what the listing photos don't: the installation quirks, the color temperature switch you'll actually use, and the one thing that might make you pause.

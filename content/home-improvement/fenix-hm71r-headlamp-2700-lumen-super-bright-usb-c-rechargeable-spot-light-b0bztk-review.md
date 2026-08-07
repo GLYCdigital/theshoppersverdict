@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fenix HM71R Headlamp, 2700 Lumen Super Bright USB-C Recharge"
 seo_title: "Fenix HM71R Headlamp Review: 2700 Lumens, Worth It?"
 meta_description: "Fenix HM71R headlamp review: 2700-lumen output, USB-C charging, spot/flood beams. Is this premium light worth $130? Real-world testing and honest verdict."
@@ -12,14 +13,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZTKN7JW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UA5yCaL9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "2700-lumen spot beam throws a focused hotspot over 500 feet — verified in field use, not just on paper"
   - "USB-C charging with Power Delivery support; full recharge in under 2.5 hours, battery indicator shows remaining charge to the minute"
   - "Dual-switch design separates spot and flood controls, so you never cycle through modes to get what you need"
-cons:
+cons: 
   - "Weighs 6.2 ounces with the 21700 battery installed — noticeably heavier than ultralight options like the Nitecore NU25 inch"
   - "Headband padding is adequate but not premium; after 3 hours of wear, pressure points develop on the forehead"
   - "No red light mode, which is a miss for hunters and night photographers who need to preserve night vision"
+
 
 ---
 

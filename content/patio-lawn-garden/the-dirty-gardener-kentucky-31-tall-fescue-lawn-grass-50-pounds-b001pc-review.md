@@ -1,4 +1,5 @@
 ---
+
 title: "The Dirty Gardener Kentucky 31 Tall Fescue Lawn Grass - 50 P"
 seo_title: "The Dirty Gardener Kentucky 31 Tall Fescue Lawn Gr Review"
 meta_description: "Our full the dirty gardener kentucky 31 tall fescue lawn grass - 50 p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B001PCUTB2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/21wOO0gxe4L._AC_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **The Dirty Gardener Kentucky 31 Tall Fescue Lawn Grass - 50 P** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

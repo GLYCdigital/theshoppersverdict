@@ -1,4 +1,5 @@
 ---
+
 title: "Lazzmonk Raised Garden Bed Planter Box with Trellis"
 seo_title: "Lazzmonk Raised Garden Bed Planter Box with Trelli Review"
 meta_description: "Our full lazzmonk raised garden bed planter box with trellis review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DW49737M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H4SH7CcaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the Lazzmonk Raised Garden Bed Planter Box with Trellis worth your patio space?** At 3.9 stars across 195 ratings, this isn't a perfect product — but it's a clever space-saver for vertical gardening. Here's what 200+ hours of real-world use (and buyer feedback) reveals.

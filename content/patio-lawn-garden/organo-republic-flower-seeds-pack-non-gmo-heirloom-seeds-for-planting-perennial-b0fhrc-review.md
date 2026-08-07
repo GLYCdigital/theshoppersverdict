@@ -1,4 +1,5 @@
 ---
+
 title: "Organo Republic Flower Seeds Pack - Non-GMO Heirloom Seeds f"
 seo_title: "Organo Republic Flower Seeds Pack - Non-GMO Heirlo Review"
 meta_description: "Our full organo republic flower seeds pack - non-gmo heirloom seeds f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHRC1SQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9174jEuij+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this seed pack a shortcut to a stunning garden, or just another box of disappointment? Here's what 225 Amazon reviewers and my own research found.**

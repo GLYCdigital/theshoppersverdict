@@ -1,4 +1,5 @@
 ---
+
 title: "JASON Professional Haircut Scissors Set - 10-Piece Hair Thin"
 seo_title: "JASON Professional Haircut Scissors Set - 10-Piece Review"
 meta_description: "Our full jason professional haircut scissors set - 10-piece hair thin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWW2Z4N9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OOz1i24eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # JASON Professional 10-Piece Haircut Scissors Set Review: Salon-Grade Sharpness Without the Salon Price

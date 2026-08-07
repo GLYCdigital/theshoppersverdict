@@ -1,4 +1,5 @@
 ---
+
 title: "PLANTERS Planters Peanuts 12 Ounce"
 seo_title: "PLANTERS Planters Peanuts 12 Ounce Review: Verdict | TSV"
 meta_description: "Our full planters planters peanuts 12 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGRWR5PJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91POw17MeeL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Okay, let's be upfront: this is a review of peanuts, not coffee gear. But if you're shopping for a coffee maker, you already know the real accessory you need is something to snack on while that first pot brews. So let's talk about the PLANTERS Peanuts 12 Ounce canister — a 4.7-star staple with 235 ratings that's been showing up in carts for decades.

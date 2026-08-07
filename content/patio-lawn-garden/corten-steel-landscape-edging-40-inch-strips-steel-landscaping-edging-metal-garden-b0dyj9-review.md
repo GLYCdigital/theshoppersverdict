@@ -1,4 +1,5 @@
 ---
+
 title: "Corten Steel Landscape Edging 40 Inch Strips Steel Landscapi"
 seo_title: "Corten Steel Landscape Edging Review: 40-Inch Strips (2026)"
 meta_description: "Honest Corten Steel Landscape Edging 40-inch strips review. Real-world durability, rust look, installation tips, and who should buy. 4.3-star rated."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DYJ9SH5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aqSBhCY1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real corten steel that develops a stable, protective patina — not painted faux-rust that flakes"
   - "40-inch strips (about 3.3 feet) are long enough for clean runs but short enough to curve around beds without wrestling"
   - "Thick enough gauge to hold shape against lawnmower strikes and root pressure"
-cons:
+cons: 
   - "Pre-rusted finish means rust-colored runoff can stain concrete or pavers during the first few rains"
   - "Edges are sharp — gloves are mandatory during installation, and you'll want to keep kids away until it's buried"
   - "No pre-drilled holes or stakes included; you'll need to buy your own anchoring pins separately"
+
 ---
 
 Let me be direct: most metal landscape edging on Amazon is painted steel pretending to be something it's not. This corten steel product actually delivers the real thing — and that matters more than you'd think when it's sitting in your yard for the next decade.

@@ -1,4 +1,5 @@
 ---
+
 title: "FLYRUGGO Abstract Area Rug, Modern Throw Rugs for Living Roo"
 seo_title: "FLYRUGGO Abstract Area Rug Review: Soft, Washable, Modern"
 meta_description: "FLYRUGGO abstract area rug review: Is this soft, washable living room rug worth it? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DG5HWNQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Wv6Cc18cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that survives repeated cycles without shedding or pilling"
   - "Low-profile 0.3-inch pile works well under furniture and doorways"
   - "Non-slip rubber backing holds firm on hardwood and tile floors"
-cons:
+cons: 
   - "Thin cushioning means it's not ideal for long periods of standing"
   - "Abstract pattern can look slightly different in person than on screen"
+
 ---
 
 If you've ever wrestled a bulky area rug into a laundromat washing machine, you know the pain. The FLYRUGGO Abstract Area Rug claims to solve that problem with a machine-washable design that won't turn into a frayed mess after the first cycle. After digging through 215 Amazon ratings and analyzing the construction, here's the real story.

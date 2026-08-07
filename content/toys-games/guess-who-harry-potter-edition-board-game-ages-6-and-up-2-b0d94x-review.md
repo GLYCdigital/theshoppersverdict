@@ -1,4 +1,5 @@
 ---
+
 title: "Guess Who? HARRY POTTER Edition Board Game | Ages 6 and Up |"
 seo_title: "Guess Who Harry Potter Edition Review: Is It Worth It?"
 meta_description: "Our honest Guess Who Harry Potter Edition review covers gameplay, build quality, and age fit. See if this 4.8-star game is right for your family."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D94X5WQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pAJRKNHJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Classic Guess Who mechanics wrapped in authentic Harry Potter theming—character art and names are instantly recognizable to fans"
   - "Sturdy plastic trays and flip-down character doors that hold up to repeated play from younger kids"
   - "Simple question-and-elimination gameplay that works for ages 6 and up without reading comprehension barriers"
-cons:
+cons: 
   - "Only 24 characters per tray, so some fan-favorite characters like Luna Lovegood or Neville Longbottom are missing"
   - "Character selection is fixed—no blank cards or customization options for advanced players"
   - "The included question cards are more of a crutch than a necessity; most players will ditch them quickly"
+
 ---
 
 Let me be direct: this is the same Guess Who you played as a kid, but someone cast a *Spellotape* charm on it. If that sounds like exactly what you want, you're already sold. If you're on the fence, here's what you need to know before you add it to your cart.

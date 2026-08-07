@@ -1,4 +1,5 @@
 ---
+
 title: "SCOMANAGE Replacement Cover Compatible with Coleman Oasis 13"
 seo_title: "SCOMANAGE Replacement Cover Compatible with Colema Review"
 meta_description: "Our full scomanage replacement cover compatible with coleman oasis 13 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5QMFGQB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61x2yPBUu-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Coleman Oasis 13 pop-up canopy, you already know the original cover is the first thing to fail. Sun rot, wind tears, and that cheap zipper that gives up after a season—it's a common story. The SCOMANAGE replacement cover is built to fix that, and at 4.7 stars from 235 ratings, it's clearly doing something right.

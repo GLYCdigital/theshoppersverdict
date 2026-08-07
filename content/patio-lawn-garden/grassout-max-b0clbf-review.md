@@ -1,4 +1,5 @@
 ---
+
 title: "Grassout Max"
 seo_title: "Grassout Max Review: Verdict | TSV"
 meta_description: "Our full grassout max review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CLBFHY2P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iiPvnp6xL._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most weed killers fall into two camps — the ones that nuke everything including your grass, or the ones so gentle they just make weeds angry. Grassout Max tries to thread that needle, and based on 200 Amazon ratings averaging 4.0 stars, it's mostly succeeding. But is it the right herbicide for your yard? Here's what you need to know before you buy.

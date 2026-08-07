@@ -1,4 +1,5 @@
 ---
+
 title: "Kingston Brass 60-Inch Acrylic 3-Wall Alcove Tub with Right "
 seo_title: "Kingston Brass 60-Inch Acrylic 3-Wall Alcove Tub w Review"
 meta_description: "Our full kingston brass 60-inch acrylic 3-wall alcove tub with right  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B3DG3YDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41iG3Ridl3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

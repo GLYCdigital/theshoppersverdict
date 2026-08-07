@@ -1,4 +1,5 @@
 ---
+
 title: "Wahl USA Flea & Tick Repelling Dog Shampoo â€“ Defense Formu"
 seo_title: "Wahl USA Flea & Tick Repelling Dog Shampoo â€“ Def Review"
 meta_description: "Our full wahl usa flea & tick repelling dog shampoo â€“ defense formu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B005CUTY4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gtoRk75rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most flea shampoos smell like a chemical spill and leave your dog’s coat feeling like straw. The Wahl Defense Formula takes a different route — cedar and rosemary oils instead of pyrethrins — and that alone makes it worth a hard look.

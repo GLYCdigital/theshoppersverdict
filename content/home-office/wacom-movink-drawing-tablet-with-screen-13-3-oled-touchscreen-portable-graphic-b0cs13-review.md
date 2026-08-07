@@ -1,7 +1,8 @@
 ---
-title: "Wacom Movink Drawing Tablet with Screen, 13.3\" OLED Touchscr"
-seo_title: "Wacom Movink Drawing Tablet with Screen, 13.3\" OLE Review"
-meta_description: "Our full wacom movink drawing tablet with screen, 13.3\" oled touchscr review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Wacom Movink Drawing Tablet with Screen, 13.3\ OLED Touchscr"
+seo_title: "Wacom Movink Drawing Tablet with Screen, 13.3\ OLE Review"
+meta_description: "Our full wacom movink drawing tablet with screen, 13.3\ oled touchscr review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "wacom-movink-drawing-tablet-with-screen-13-3-oled-touchscreen-portable-graphic-b0cs13-review"
 image_alt: "Wacom Movink Drawing Tablet with Screen, 13.3 OLED Touchscreen Portable Graphic Art Tablet w/Pro Pen 3, 10-bit Color Dis"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CS135LT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51qp1ZbYTXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

@@ -1,4 +1,5 @@
 ---
+
 title: "Jada Minecraft Metalfigs"
 seo_title: "Jada Minecraft Metalfigs Review: Verdict | TSV"
 meta_description: "Our full jada minecraft metalfigs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9K2L9D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wyX1Ox7HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Jada Minecraft Metalfigs deliver exactly what the name promises: chunky, die-cast versions of your favorite blocky mobs that feel like they could survive a creeper explosion. But are they toys or collectibles? The answer matters more than you'd think.**

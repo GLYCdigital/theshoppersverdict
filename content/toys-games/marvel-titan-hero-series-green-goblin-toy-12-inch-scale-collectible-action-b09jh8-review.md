@@ -1,4 +1,5 @@
 ---
+
 title: "Marvel Titan Hero Series Green Goblin Toy 12-Inch-Scale Coll"
 seo_title: "Marvel Titan Hero Series Green Goblin Toy 12-Inch- Review"
 meta_description: "Our full marvel titan hero series green goblin toy 12-inch-scale coll review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09JH8P792/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51OaRPjnK5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Green Goblin has been Spider-Man's archenemy for over 60 years, and Hasbro's Titan Hero Series finally gives him the shelf presence he deserves. This 12-inch-scale figure isn't a delicate display piece — it's a chunky, durable action figure built for actual play. At 4.8 stars from 240 ratings, it's clearly hitting the mark. But is it right for *your* collection? Let's break down what you're actually getting.

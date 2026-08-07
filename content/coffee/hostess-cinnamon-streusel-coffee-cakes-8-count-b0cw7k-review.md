@@ -1,4 +1,5 @@
 ---
+
 title: "Hostess Cinnamon Streusel Coffee Cakes, 8 Count"
 seo_title: "Hostess Cinnamon Streusel Coffee Cakes, 8 Count Review: V"
 meta_description: "Our full hostess cinnamon streusel coffee cakes, 8 count review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW7KJBJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QT7eSU0uL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be straight: most grocery-store coffee cakes are dry, bland discs of cardboard pretending to be pastry. The Hostess Cinnamon Streusel Coffee Cakes aren’t that. After 229 Amazon ratings averaging 4.6 stars, these little cakes have earned a loyal following — and mostly for good reason.

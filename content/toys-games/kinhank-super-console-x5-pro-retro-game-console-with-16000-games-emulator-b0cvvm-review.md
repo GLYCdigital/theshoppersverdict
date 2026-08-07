@@ -1,4 +1,5 @@
 ---
+
 title: "Kinhank Super Console X5 PRO Retro Game Console with 16000+G"
 seo_title: "Kinhank Super Console X5 PRO Retro Game Console wi Review"
 meta_description: "Our full kinhank super console x5 pro retro game console with 16000+g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CVVMVDXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719BsEJ+LSL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kinhank Super Console X5 PRO is a nostalgia machine with a catch: it’s brilliant for casual retro gaming, but purists chasing perfect emulation will hit walls.**

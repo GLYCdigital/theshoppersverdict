@@ -1,4 +1,5 @@
 ---
+
 title: "Weber Spirit & Pellet Rotisserie â€“ Heavyâ€‘Duty Electric M"
 seo_title: "Weber Spirit & Pellet Rotisserie â€“ Heavyâ€‘Duty  Review"
 meta_description: "Our full weber spirit & pellet rotisserie â€“ heavyâ€‘duty electric m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D3NYNJVG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S2ITJ96QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $40 rotisserie motor struggle under a 10-pound chicken, you know the frustration. The Weber Spirit & Pellet Rotisserie aims to fix that — and for the most part, it delivers. This is the accessory that turns your everyday grill into a backyard showpiece, but it's not without a few quirks worth knowing before you pull the trigger.

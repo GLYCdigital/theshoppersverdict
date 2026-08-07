@@ -1,4 +1,5 @@
 ---
+
 title: "Permanent Outdoor Light,RGB Eaves Lights Outside led Lights "
 seo_title: "Permanent Outdoor Light,RGB Eaves Lights Outside l Review"
 meta_description: "Our full permanent outdoor light,rgb eaves lights outside led lights  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0G1MDLPHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EPznxMZ0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Permanent Outdoor Light,RGB Eaves Lights Outside led Lights ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

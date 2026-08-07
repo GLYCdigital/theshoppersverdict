@@ -1,4 +1,5 @@
 ---
+
 title: "SURFACE Hair Curls Oil Gel â€“ Defines, Adds Shine, and Prov"
 seo_title: "SURFACE Hair Curls Oil Gel â€“ Defines, Adds Shine Review"
 meta_description: "Our full surface hair curls oil gel â€“ defines, adds shine, and prov review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BYQ8X216/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oC6-tpDiL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SURFACE Hair Curls Oil Gel: The $30 Question — Is This the Curl Product You've Been Missing?

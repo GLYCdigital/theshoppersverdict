@@ -1,4 +1,5 @@
 ---
+
 title: "Trifecta II Gray Leaf Spot Resistant Perennial Ryegrass Blen"
 seo_title: "Trifecta II Gray Leaf Spot Resistant Perennial Rye Review"
 meta_description: "Our full trifecta ii gray leaf spot resistant perennial ryegrass blen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FDBMS7MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A4aJdnupS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Trifecta II Perennial Ryegrass Blend: The Gray Leaf Spot Fighter Worth Your Money?

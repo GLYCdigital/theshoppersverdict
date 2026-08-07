@@ -1,4 +1,5 @@
 ---
+
 title: "HASK Chia Seed Volumizing Dry Shampoo â€“ Absorbs Oil, Adds "
 seo_title: "HASK Chia Seed Volumizing Dry Shampoo â€“ Absorbs  Review"
 meta_description: "Our full hask chia seed volumizing dry shampoo â€“ absorbs oil, adds  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZ9JJR9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617ND3+NbQL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The problem with most dry shampoos is that they solve one problem and create another.** You spray them on to absorb oil, and suddenly your hair feels like straw, looks dusty, and smells like a pharmacy aisle. The HASK Chia Seed Volumizing Dry Shampoo tries to fix that equation. It mostly succeeds — with some caveats worth knowing before you buy.

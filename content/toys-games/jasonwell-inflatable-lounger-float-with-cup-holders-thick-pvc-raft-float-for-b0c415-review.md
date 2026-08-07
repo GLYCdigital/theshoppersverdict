@@ -1,4 +1,5 @@
 ---
+
 title: "Jasonwell Inflatable Lounger Float with Cup Holders - Thick "
 seo_title: "Jasonwell Inflatable Lounger Float with Cup Holder Review"
 meta_description: "Our full jasonwell inflatable lounger float with cup holders - thick  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C41566BG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v1Lcvj94L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be upfront: the water float market is flooded with $15 single-layer rafts that pop before your first drink gets warm. The Jasonwell Inflatable Lounger Float sits a tier above that — but it's not without its quirks. After digging through 220 ratings (4.4 stars average) and the spec sheet, here's the real story.

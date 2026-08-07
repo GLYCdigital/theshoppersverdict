@@ -1,4 +1,5 @@
 ---
+
 title: "kadision LED Wall Pack Light with Dusk-to-Dawn Photocell, 50"
 seo_title: "kadision LED Wall Pack Light with Dusk-to-Dawn Pho Review"
 meta_description: "Our full kadision led wall pack light with dusk-to-dawn photocell, 50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D31GLR62/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oyOyaANgL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you need reliable overnight security lighting without thinking about it, this kadision wall pack is the no-nonsense answer.** It's not flashy, it doesn't have smart-home integration, and it won't win design awards. But after 229 ratings averaging 4.6 stars, it's clear this light does one thing exceptionally well: turning on at dusk and off at dawn, every single night, without drama.

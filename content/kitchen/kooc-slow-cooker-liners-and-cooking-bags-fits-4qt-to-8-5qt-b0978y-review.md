@@ -1,4 +1,5 @@
 ---
+
 title: "KOOC Slow Cooker Liners and Cooking Bags, Fits 4QT to 8.5QT "
 seo_title: "KOOC Slow Cooker Liners and Cooking Bags, Fits 4QT Review"
 meta_description: "Our full kooc slow cooker liners and cooking bags, fits 4qt to 8.5qt  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0978YVWTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yLMwWX+FL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the KOOC Slow Cooker Liner Actually Worth Your Money?

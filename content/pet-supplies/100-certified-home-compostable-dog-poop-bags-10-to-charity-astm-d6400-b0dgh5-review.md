@@ -1,4 +1,5 @@
 ---
+
 title: "100% Certified Home Compostable Dog Poop Bags - 10% to Chari"
 seo_title: "Home Compostable Dog Poop Bags Review: 4.7 Stars"
 meta_description: "Our honest review of 100% Certified Home Compostable Dog Poop Bags. See real performance, thickness, and compostability testing plus who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DGH51VG6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LFHXu5dML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True home compostable certification (ASTM D6400 with home compost addendum) — not just 'biodegradable' greenwashing"
   - "Surprisingly thick material at 20 microns; no tearing at the knot or picking up point"
   - "10% of profits donated to Chari, a verified nonprofit — actual giving, not marketing"
-cons:
+cons: 
   - "Scented version has a noticeable lavender smell that some might find strong; unscented is the safer bet"
   - "A bit pricier than standard polyethylene bags — you're paying for the certification"
   - "Perforation can occasionally tear unevenly if you pull at an angle"
+
 ---
 
 Let's be honest about dog poop bags: most are plastic that'll outlive your dog. These are different — and after testing, here's the full picture.

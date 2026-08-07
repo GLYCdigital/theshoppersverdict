@@ -1,4 +1,5 @@
 ---
+
 title: "Birds Choice Bird Baths | Ohio Stoneware Ceramic Clay Bird B"
 seo_title: "Birds Choice Ohio Stoneware Bird Bath Review (2026): Worth It?"
 meta_description: "Honest Birds Choice Ohio Stoneware Ceramic Clay Bird Bath review: build quality, winter durability, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DN689W48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qs7WKHQ7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 0.5-inch Ohio stoneware walls shrug off freeze-thaw cycles without cracking — most ceramic baths fail here"
   - "Textured interior grip surface gives birds secure footing; no slippery glaze accidents"
   - "Heavy 18-pound base means no tipping even with squirrels or high winds"
-cons:
+cons: 
   - "Arrives unglazed on the exterior — porous surface needs annual sealing to prevent moss buildup"
   - "No drainage plug; standing water requires weekly dumping to stay mosquito-free"
+
 ---
 
 Most bird baths are either cheap plastic that tips over in a breeze or fragile ceramic that cracks after one hard frost. The Birds Choice Ohio Stoneware model sits in a different category entirely — and after digging through 225 ratings and the build specs, I can tell you exactly why it earns its 4.5-star average.

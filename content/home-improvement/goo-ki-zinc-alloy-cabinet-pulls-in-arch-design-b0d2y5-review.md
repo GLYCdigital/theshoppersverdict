@@ -1,4 +1,5 @@
 ---
+
 title: "Goo-Ki Zinc Alloy Cabinet Pulls in Arch Design"
 seo_title: "Goo-Ki Zinc Alloy Cabinet Pulls in Arch Design Review: Ve"
 meta_description: "Our full goo-ki zinc alloy cabinet pulls in arch design review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2Y55NBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Jg0JZkPuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a row of dated cabinet knobs and thinking about upgrading to pulls, the Goo-Ki Zinc Alloy Arch Pulls are a contender that deserves a serious look. With a 4.6-star average across 229 Amazon ratings, these pulls have clearly found an audience — but let's dig into whether they're the right call for your specific renovation.

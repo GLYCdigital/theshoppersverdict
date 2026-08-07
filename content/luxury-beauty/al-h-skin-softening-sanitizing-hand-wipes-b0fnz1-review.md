@@ -1,4 +1,5 @@
 ---
+
 title: "ALÅŒH Skin - Softening Sanitizing Hand Wipes"
 seo_title: "ALÅŒH Skin Softening Sanitizing Wipes Review: Worth It?"
 meta_description: "ALÅŒH Skin softening sanitizing hand wipes review: Do luxury $3-per-wipe packs beat drugstore sanitizers? Tested for scent, moisture, and germ-kill."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNZ1R3FV/?tag=tsvglyc-20"
 amazon_image: "https://m.media.amazon.com/images/I/41I49Y2ElaL._SL1001_.jpg"
-pros:
+pros: 
   - "70% ethyl alcohol kills germs without the harsh, evaporating dryness you get from standard sanitizers"
   - "Aloe vera and glycerin actually leave hands feeling conditioned — not tacky or greasy like lotion wipes"
   - "Durable textured wipe material holds up through a full hand-and-face wipe-down without shredding"
-cons:
+cons: 
   - "Premium price point — you're paying 3-4x what basic sanitizing wipes cost per sheet"
   - "Scent is subtle but distinct — if you hate any fragrance in skincare, the botanical blend might bother you"
   - "Single-use format generates more waste than a refillable sanitizer bottle"
+
 ---
 
 **The $3 Hand Wipe That Might Just Replace Your Sanitizer Bottle**

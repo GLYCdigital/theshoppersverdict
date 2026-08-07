@@ -1,4 +1,5 @@
 ---
+
 title: "HYPER GO H16BM 1/16 RTR Brushless High Speed Electric 4X4 Of"
 seo_title: "HYPER GO H16BM Review: Is This 1/16 Brushless RC Truck Worth It?"
 meta_description: "HYPER GO H16BM 1/16 brushless RC truck review: speed, durability, real-world performance. See if this 4X4 RTR is worth your money before you buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BBW1F5CV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yRiXwvt8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers genuine 45+ mph out of the box — no upgrades needed"
   - "Full 4WD with metal gears and oil-filled shocks handles rough terrain without breaking"
   - "Ready-to-run package includes battery, charger, and 2.4GHz radio — true out-of-box fun"
-cons:
+cons: 
   - "20-minute runtime per charge feels short when you're having this much fun"
   - "Stock tires lack bite on loose gravel; expect to swap for better traction"
   - "Plastic servo saver strips under hard impacts — carry a spare"
+
 ---
 
 Let me be blunt: most sub-$150 RC trucks are toys that break in an afternoon. The HYPER GO H16BM isn't that. This 1/16-scale brushless 4X4 is a legitimate speed machine that punches well above its price point — but it's not without compromises.

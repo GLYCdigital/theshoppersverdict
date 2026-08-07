@@ -1,4 +1,5 @@
 ---
+
 title: "Midland â€“ MXTA24 Low Profile Antenna Cable with NMO Connec"
 seo_title: "Midland â€“ MXTA24 Low Profile Antenna Cable with  Review"
 meta_description: "Our full midland â€“ mxta24 low profile antenna cable with nmo connec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0842B1WFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710lAsncMwL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Clean, Capable Cable for Mobile Radio Installations — With One Caveat**

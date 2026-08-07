@@ -1,4 +1,5 @@
 ---
+
 title: "Lithonia Lighting Outdoor LED Security Floodlight"
 seo_title: "Lithonia Lighting Outdoor LED Security Floodlight Review:"
 meta_description: "Our full lithonia lighting outdoor led security floodlight review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BCX84RPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512vT9PCWLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most residential floodlights are junk. Thin aluminum that bends in your hand, "1200 lumens" that somehow illuminate less than a flashlight, and motion sensors that either ignore your porch pirate or trigger on every raccoon in the county. The Lithonia Lighting Outdoor LED Security Floodlight — the model shown in the product image with twin adjustable heads — tries to be the exception. For the most part, it succeeds.

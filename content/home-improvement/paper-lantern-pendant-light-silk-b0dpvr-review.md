@@ -1,4 +1,5 @@
 ---
+
 title: "Paper Lantern Pendant Light Silk"
 seo_title: "Paper Lantern Pendant Light Silk Review: Verdict | TSV"
 meta_description: "Our full paper lantern pendant light silk review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPVRHN21/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-TLNWV3IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Paper Lantern Pendant Light Silk is the rare fixture that manages to look genuinely expensive while costing a fraction of what a designer pendant runs. At 4.7 stars from 235 buyers, it's clearly connecting with people — but this isn't a fixture for everyone. Let's break down exactly what you're getting before you commit.

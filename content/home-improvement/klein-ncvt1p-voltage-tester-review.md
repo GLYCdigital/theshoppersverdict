@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools NCVT1P Voltage Tester Review: Non-Contact Pen Tested"
 seo_title: "Klein Tools NCVT1P Voltage Tester Review 2026: Best Non-Contact Pen?"
 meta_description: "Our honest Klein Tools NCVT1P voltage tester review. Real customer insights on the non-contact low voltage tester pen for DIYers and pros."
@@ -11,34 +12,35 @@ image_alt: "Klein Tools NCVT1P Non-Contact Voltage Tester pen in yellow and blac
 amazon_rating: 4.7
 review_count: 7483
 verdict_score: 9.0
-categories:
+categories: 
   - home-improvement
   - tools
   - electrical
-tags:
+tags: 
   - Klein Tools
   - NCVT1P
   - voltage tester
   - non-contact voltage
   - electrical tool
   - B099SJ6469
-pros:
+pros: 
   - "Dual-range detection covers both standard (50-1000V AC) and low-voltage (12-50V AC) applications"
   - "Klein reliability you can trust — suitable for both professional electricians and DIYers"
   - "Compact pen design fits easily in a pocket or tool pouch without bulk"
   - "Bright LED tip and audible alarm provide clear indication even in noisy or dim environments"
   - "Great for troubleshooting Christmas lights, appliances, and basic electrical circuits"
-cons:
+cons: 
   - "Premium pricing compared to no-name alternatives on Amazon — you're paying for the Klein name"
   - "Tip sensitivity can vary depending on wire insulation thickness and wall depth"
   - "No flashlight — some competing models include integrated work lighting"
-faq:
+faq: 
   - question: "What voltage range does the Klein NCVT1P detect?"
     answer: "The NCVT1P has dual-range detection: standard mode covers 50-1000V AC, and low-voltage mode covers 12-50V AC for doorbells, thermostats, and Christmas lights."
   - question: "Is the Klein NCVT1P worth the premium over cheaper testers?"
     answer: "For the dual-range capability and Klein reliability, yes. The low-voltage detection and build quality justify the  price for regular electrical work."
   - question: "Can the Klein NCVT1P be used for Christmas lights?"
     answer: "Yes, the low-voltage mode (12-50V AC) makes it excellent for troubleshooting Christmas light strings by detecting which bulb is before the break."
+
 ---
 
 # Klein Tools NCVT1P Voltage Tester Review: Non-Contact Pen Tested

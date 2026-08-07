@@ -1,4 +1,5 @@
 ---
+
 title: "DDR4 RAM PC4 Computer Module"
 seo_title: "DDR4 RAM PC4 Review (2026): Worth It? Specs & Verdict"
 meta_description: "DDR4 RAM PC4 Computer Module review: specs, real-world performance, pros/cons, and who should buy. See if this $45.99 upgrade fits your build."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN9B1JLG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zmR5BfDkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Plug-and-play XMP 2.0 profile works out of the box on Intel and AMD platforms"
   - "Low-profile heat spreader clears oversized CPU coolers without clearance issues"
   - "Stable at rated speeds in 200+ verified purchases — minimal DOA reports"
-cons:
+cons: 
   - "No RGB lighting — plain design that won't appeal to showcase builds"
   - "Limited to 3200MHz — owners of newer CPUs may want faster kits"
   - "Single-module capacity capped at 32GB per stick, no 64GB option"
+
 ---
 
 RAM is the least glamorous upgrade you can make to a computer — until the day your browser eats 12 tabs, a spreadsheet, and a video call all at once, and your system starts breathing hard. That's the gap this DDR4 stick aims to fill at a $45.99 price point that won't make you flinch.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pentair Water Pool and Spa 602055 Globrite for Swimming Pool"
 seo_title: "Pentair Water Pool and Spa 602055 Globrite for Swi Review"
 meta_description: "Our full pentair water pool and spa 602055 globrite for swimming pool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B00E4QB6WM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ySH+G96wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a dark pool with a dead Pentair AmerLite fixture, the Globrite 602055 looks like the obvious fix. It's the same brand, same niche, supposedly a direct swap. But at this price point, "obvious" deserves a second look.

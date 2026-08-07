@@ -1,4 +1,5 @@
 ---
+
 title: "Amasideca AM05-new Cabinet Pulls Kitchen Cabinet Handles Dra"
 seo_title: "Amasideca AM05 Cabinet Pulls Review: Worth It? (2026)"
 meta_description: "Amasideca AM05 cabinet pulls review: 4.5-star rated drawer handles. Real-world durability, finish quality, and installation tips. Buy or skip?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNMHSCRZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ic72eD6aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined aluminum body with consistent brushed finish that resists fingerprints better than cheap zinc alloys"
   - "Included mounting screws fit standard 2.5-inch and 3-inch hole spacing — no trips to the hardware store"
   - "Screw caps conceal hardware for a clean, furniture-grade look on visible cabinet faces"
-cons:
+cons: 
   - "Set-screw design on some units can loosen over time if you over-tighten during installation"
   - "No template included — measure twice, drill once because misaligned holes are permanent"
+
 ---
 
 Cabinet hardware is the jewelry of a kitchen. Get it wrong and even a $30,000 renovation looks cheap. Get it right and a modest IKEA kitchen suddenly reads custom. The Amasideca AM05 pulls sit squarely in the "get it right" camp — with a few caveats worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Door Flap"
 seo_title: "Dog Door Flap Review: Is It Worth It? (2026)"
 meta_description: "Honest Dog Door Flap review: install ease, durability, energy efficiency, and real owner feedback. See pros, cons, and buying advice before you order."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1VB9P4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71leW9KI5sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reversible locking panel gives you 4 modes (open, locked, in-only, out-only) — rare at this price"
   - "Magnetic seal strips keep the flap shut tight, cutting drafts and noise better than basic vinyl flaps"
   - "Fits door thicknesses up to 1.75 inches, covering most standard exterior doors without custom work"
-cons:
+cons: 
   - "Installation requires drilling a 6.5 x 8.25-inch hole — no rental-friendly option here"
   - "The frame is plastic, not metal; larger dogs pushing hard over years may stress the corners"
   - "No energy-efficient double-flap or insulation core, so extreme climates will feel it"
+
 ---
 
 **Bottom Line: A solid, affordable dog door that does the job without fancy extras — but it's not built for every home or every dog.**

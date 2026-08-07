@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Electronic Keypad Deadbolt Door Lock with Touc"
 seo_title: "Amazon Basics Keypad Deadbolt Review: Honest 2026 Verdict"
 meta_description: "Amazon Basics Electronic Keypad Deadbolt review: real performance, battery life, security tradeoffs. Is this budget smart lock worth it? Read before buying."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DRNKHBNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717PkrS14jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Backlit touchpad responds reliably in low light and works with standard 9V battery backup for lockouts"
   - "Fits standard 2-1/8 inch bore holes — installs in under 30 minutes with just a Phillips screwdriver"
   - "Retains last 10 access codes, letting you audit who entered and when"
-cons:
+cons: 
   - "No Wi-Fi or Bluetooth — you'll need to physically touch the keypad to lock/unlock; no remote access"
   - "Keypad surface shows fingerprints and smudges quickly on the glossy black finish"
   - "Auto-lock feature requires programming through the interior unit, and some users report it's finicky to set"
+
 ---
 
 **The $50 question: Can a budget keypad deadbolt deliver real security without the smart-home premium?**

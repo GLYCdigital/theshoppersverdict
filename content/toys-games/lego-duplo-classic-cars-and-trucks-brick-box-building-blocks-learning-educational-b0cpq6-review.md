@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO DUPLO Classic Cars and Trucks Brick Box Building Blocks"
 seo_title: "LEGO DUPLO Classic Cars and Trucks Brick Box Build Review"
 meta_description: "Our full lego duplo classic cars and trucks brick box building blocks review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CPQ6W357/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812+TrSKg0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: this is the DUPLO set you buy when your toddler has decided that everything — the couch, the dog, your phone — is a car. The LEGO DUPLO Classic Cars and Trucks Brick Box (set number 10965, for the curious) packs 18 vehicle-focused pieces into a 4.9-star-rated box that 245 Amazon reviewers have mostly adored. But it's not perfect, and you deserve to know exactly what you're getting before you hand over your cash.

@@ -1,23 +1,25 @@
 ---
+
 title: "Bodum Bistro Electric Blade Coffee Grinder"
 seo_title: "Bodum Bistro Blade Grinder Review: Worth It in 2026?"
 meta_description: "Read our honest Bodum Bistro Electric Blade Coffee Grinder review: 4.4-star rated, $20, stainless steel. Pros, cons, and who should buy it."
 slug: "bodum-bistro-electric-blade-coffee-grinder-review"
 image_alt: "Bodum Bistro electric blade coffee grinder with stainless steel blades and clear lid on countertop"
-verdict_score: 4.4  
-date: 2026-08-06  
-price: 19.99  
-review_count: 7645  
-amazon_rating: 4.4  
+verdict_score: 4.4
+date: 2026-08-06
+price: 19.99
+review_count: 7645
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0043073WQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IS2JggP1L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Stainless steel blades stay sharp after 2+ years of daily use"  
   - "Removable 60g hopper and lid are dishwasher-safe — no crumb traps"  
   - "Simple one-button pulse operation gives you full grind control"  
-cons:  
+cons: 
   - "Blade grind produces uneven particle sizes — not for espresso purists"  
   - "Loud — measured around 85 dB during operation, so use it before the family wakes"
+
 ---
 
 **Bodum Bistro Electric Blade Coffee Grinder Review: The $20 Workhorse That Gets the Job Done**

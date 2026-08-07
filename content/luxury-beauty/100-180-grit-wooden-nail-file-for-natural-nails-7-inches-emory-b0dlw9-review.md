@@ -1,4 +1,5 @@
 ---
+
 title: "100/180 Grit Wooden Nail File for Natural Nails, 7 Inches Em"
 seo_title: "100/180 Grit Wooden Nail File Review: Worth It? (2026)"
 meta_description: "Honest review of the 100/180 grit wooden nail file for natural nails. Does this 7-inch emory board deliver salon results? Find out here."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DLW9TVHW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/910CNBX4UML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual 100/180 grit surfaces let you shape and finish without switching tools"
   - "7-inch length gives solid control for both left and right hand use"
   - "Wooden core feels sturdy and premium, unlike flimsy cardboard-backed files"
-cons:
+cons: 
   - "100 grit side is aggressive — easy to over-file if you're heavy-handed"
   - "Not washable; wooden base will warp if you get it wet"
   - "No cushioning or flex, so it's less forgiving on very thin, peeling nails"
+
 ---
 
 Look, most nail files are an afterthought. You grab whatever's at the drugstore checkout, use it twice, and lose it in a drawer. The 100/180 Grit Wooden Nail File for Natural Nails is not that file. At 7 inches with a dual-grit wooden core, this thing is built like a proper grooming tool — and at 4.5 stars across 225 ratings, it's clearly earning its keep.

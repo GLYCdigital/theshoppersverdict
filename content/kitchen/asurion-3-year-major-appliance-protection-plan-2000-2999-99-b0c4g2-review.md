@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Major Appliance Protection Plan ($2000 - $299 inch"
 seo_title: "ASURION 3-Year Appliance Plan Review: Worth It?"
 meta_description: "ASURION 3-year major appliance protection plan for items $2000-$2999.99: We analyze coverage, claims denials, and customer experiences. Is it worth the cost?"
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.4
 amazon_url: "https://www.amazon.com/dp/B0C4G2YB26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GL9YNrhgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on appliances in the $2000–$2999.99 range, including parts and labor"
   - "24/7 claims line with in-home service for most major appliances — no hauling a broken fridge to a shop"
   - "Transferable if you sell your home or appliance within the coverage period"
-cons:
+cons: 
   - "2.4-star rating from 150 reviews — a significant portion report claim denials for cosmetic or pre-existing issues"
   - "Deductible and out-of-pocket shipping fees can apply, which aren't always obvious at purchase"
   - "Coverage exclusions (rust, corrosion, and improper installation) are broad enough to surprise buyers"
+
 ---
 
 Let's be direct: a 2.4-star average across 150 ratings is a red flag you shouldn't ignore. But the ASURION 3-Year Major Appliance Protection Plan for items priced $2,000–$2,999.99 is more nuanced than a single number suggests. Here's what you actually need to know before handing over your cash.

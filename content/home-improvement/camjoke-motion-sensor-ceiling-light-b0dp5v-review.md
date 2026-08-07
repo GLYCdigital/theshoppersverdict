@@ -1,24 +1,26 @@
 ---
+
 title: "CAMJOKE Motion Sensor Ceiling Light"
 seo_title: "CAMJOKE Motion Sensor Ceiling Light Review (2026): Honest Verdict"
 meta_description: "CAMJOKE Motion Sensor Ceiling Light review: 4.2/5 stars. Tested for brightness, PIR range, install ease. Buy it or skip it—real buyer feedback inside."
 slug: "camjoke-motion-sensor-ceiling-light-b0dp5v-review"
 image_alt: "CAMJOKE motion sensor ceiling light mounted in a hallway with warm white illumination"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP5V6SY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81E9Zr35A9L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True hands-free convenience—PIR sensor triggers instantly within 10–16 ft, no fumbling for switches in the dark"  
   - "Tool-free install in under 5 minutes; surface-mount base fits standard junction boxes and sticks to flat ceilings"  
   - "Dual color temperature (3000K/6000K) and a 3-mode switch that actually remembers your last setting"  
-cons:  
+cons: 
   - "No dusk-to-dawn photocell—light stays active 24/7 unless you manually flip the switch, which kills the sensor logic"  
   - "Sensor is fixed at a ~120° angle; you can't rotate the head, so awkward in long hallways or L-shaped entries"  
   - "Some buyers report the motion cutoff is abrupt—no 10-second fade-out, just a hard off that can startle you mid-task"
+
 ---
 
 If you've ever walked into a dark pantry carrying two bags of groceries and a squirming toddler, you already know why a motion-sensor ceiling light makes sense. The CAMJOKE Motion Sensor Ceiling Light promises to kill that fumbling-for-the-switch dance, and for the most part—it delivers. At 4.2 stars across 210 Amazon ratings, it's not perfect, but it's a solid, affordable fix for closets, laundry rooms, garages, and stairwells.

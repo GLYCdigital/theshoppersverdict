@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon Kitchen Pantry Storage Cabinet with Drawers Freestand"
 seo_title: "Gizoon Pantry Cabinet Review: Freestanding Storage With Drawers"
 meta_description: "Honest Gizoon kitchen pantry cabinet review: assembly, durability, and real storage capacity for small kitchens. See if this freestanding unit earns its 4.5-star rating."
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GGJD455C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Zjf8CUriL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid particleboard construction with a smooth, wipeable white finish that resists fingerprints"
   - "Adjustable internal shelves let you reconfigure for cereal boxes, small appliances, or canned goods"
   - "Two soft-close drawers at the base provide dedicated flat storage for utensils, linens, or wraps"
   - Compact footprint (roughly 15.7 inch " D x 23.6 inch " W x 62.2 inch " H) fits narrow kitchen gaps without dominating the room
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with 30+ screws; the included hex wrench works but a power drill with the right bit saves real time"
   - "Back panel is thin fiberboard — fine once anchored, but it can bow if you over-tighten the screws"
   - "No wall-mount hardware included; securing to a stud is advisable if you have kids or pets"
+
 ---
 
 **Bottom line up front:** If your kitchen has a dead corner that desperately needs vertical storage, the Gizoon freestanding pantry cabinet with drawers punches well above its price point — provided you're comfortable with a Saturday-morning assembly session. At 4.5 stars across 225 ratings, it's clearly doing something right for most buyers.

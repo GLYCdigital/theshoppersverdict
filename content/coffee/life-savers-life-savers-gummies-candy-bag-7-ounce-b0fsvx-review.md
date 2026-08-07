@@ -1,4 +1,5 @@
 ---
+
 title: "Life Savers Life Savers Gummies Candy Bag 7 Ounce"
 seo_title: "Life Savers Life Savers Gummies Candy Bag 7 Ounce Review:"
 meta_description: "Our full life savers life savers gummies candy bag 7 ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSVXHQCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KSLnn0FYL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Life Savers Gummies Candy Bag 7 Ounce: A Sweet Surprise Worth Your Snack Budget

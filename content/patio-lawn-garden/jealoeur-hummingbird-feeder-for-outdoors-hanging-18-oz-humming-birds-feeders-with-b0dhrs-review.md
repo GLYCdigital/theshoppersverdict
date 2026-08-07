@@ -1,4 +1,5 @@
 ---
+
 title: "Jealoeur Hummingbird Feeder for Outdoors Hanging, 18 OZ Humm"
 seo_title: "Jealoeur Hummingbird Feeder for Outdoors Hanging,  Review"
 meta_description: "Our full jealoeur hummingbird feeder for outdoors hanging, 18 oz humm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHRSXS39/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YEZXXy0XL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $20 feeder that actually keeps nectar where it belongs

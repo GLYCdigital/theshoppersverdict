@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Obelisk Trellis for Climbing Plants Rustproof Metal P"
 seo_title: "Garden Obelisk Trellis Review: Rustproof Metal Support for Vines"
 meta_description: "Honest Garden Obelisk Trellis review: sturdy rustproof metal support for climbing plants at $17.99. See how it holds up in real gardens."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GWR4NP3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZanB7ImVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Powder-coated steel pipe construction resists rust far better than cheap wire alternatives"
   - "Four-sided pyramid design gives climbing plants 360-degree support without staking"
   - "Tool-free assembly takes under five minutes — no screws, no frustration"
-cons:
+cons: 
   - "Legs lack ground stakes; windy areas will require DIY anchoring"
   - "Opening at top is narrower than the photos suggest — thick vines may outgrow it"
+
 ---
 
 You've seen the $40 obelisks at the garden center. This one costs $17.99 and claims rustproof metal construction. That price gap either means a screaming deal or a flimsy disappointment. After digging through 200 ratings and the build specs, here's the real story.

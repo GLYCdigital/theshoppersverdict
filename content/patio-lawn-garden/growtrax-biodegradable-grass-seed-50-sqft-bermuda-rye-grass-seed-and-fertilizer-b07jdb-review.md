@@ -1,4 +1,5 @@
 ---
+
 title: "Growtrax Biodegradable Grass Seed - 50 SQFT Bermuda Rye - Gr"
 seo_title: "Growtrax Biodegradable Grass Seed - 50 SQFT Bermud Review"
 meta_description: "Our full growtrax biodegradable grass seed - 50 sqft bermuda rye - gr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B07JDBVM9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Egs2bYkvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: a 3.4-star average on Amazon for a grass seed product usually means one of two things — either the seed is bad, or people are planting it wrong. After digging through the feedback on Growtrax's biodegradable mat, I'm leaning toward "planting it wrong" being the bigger culprit, but there are legitimate issues here too.

@@ -1,4 +1,5 @@
 ---
+
 title: "Small Desk Lamp,3600mAh Battery Operated Lamp,Rechargeable L"
 seo_title: "Small Desk Lamp,3600mAh Battery Operated Lamp,Rech Review"
 meta_description: "Our full small desk lamp,3600mah battery operated lamp,rechargeable l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DW3PXM45/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vvVeqnJoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a desk lamp whose cord barely reaches the outlet, or tried to read in bed without blinding your partner, you already know why the cordless category exists. This small desk lamp with a 3600mAh battery is a solid answer to that problem — but it comes with a few compromises worth understanding before you buy.

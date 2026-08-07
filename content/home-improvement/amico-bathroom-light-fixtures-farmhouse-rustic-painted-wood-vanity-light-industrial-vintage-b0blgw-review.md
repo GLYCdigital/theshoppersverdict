@@ -1,4 +1,5 @@
 ---
+
 title: "Amico Bathroom Light Fixtures, Farmhouse Rustic Painted Wood"
 seo_title: "Amico Bathroom Light Fixtures Review: Farmhouse Vanity Light Worth It?"
 meta_description: "Honest Amico bathroom light fixtures review: rustic painted wood vanity light with 4.6/5 rating. Build quality, fit, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLGW852Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815rKk6TgwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine wood frame with genuine rustic character — not a cheap plastic wood-grain print"
   - "E24 base sockets accept any standard bulb, so you can tune brightness and color temperature to match your bathroom"
   - "Integrated bubble level in the mounting plate makes a two-person job feel like a solo DIY"
-cons:
+cons: 
   - "Painted wood finish varies slightly from unit to unit — expect natural grain and tone differences, not factory-perfect uniformity"
   - "Uses standard incandescent/CFL/LED bulbs (not integrated LEDs), so factor in bulb cost if you don't already have them"
+
 ---
 
 If your bathroom vanity currently has a cheap plastic bar light with yellowed diffusers, the Amico Farmhouse Rustic Painted Wood fixture is the upgrade you've been eyeing. With 229 ratings and a 4.6-star average, this is one of the more popular budget-friendly farmhouse lights on Amazon. But is it actually worth the install effort, or is it just another Amazon lighting gamble?

@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN GRB Velocity Brew 10-Cup"
 seo_title: "BUNN Velocity Brew Review: Is It Worth It? (2026)"
 meta_description: "BUNN Velocity Brew 10-Cup review: 4.6★ from 17,203 ratings. Tested for brew speed, temp, and durability. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c-0mF4CjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 10-cup pot brews in about 3 minutes thanks to the 1400-watt heater and sprayhead design"
   - "Internal 70-ounce water tank keeps water hot at 200°F so you can brew immediately without waiting"
   - "Commercial-grade stainless steel components and simple construction — most owners report 5+ years of daily use"
-cons:
+cons: 
   - "No programmable timer — this is a single-function machine, you must be present to brew"
   - "Carafe lid is notoriously prone to cracking if you tighten it too aggressively"
   - "Not for small batches — 4 cups or less comes out under-extracted and weak"
+
 ---
 
 Look, if you're the type of person who stands in front of a standard drip machine tapping your foot while it takes six minutes to produce lukewarm coffee, the BUNN Velocity Brew is going to feel like a cheat code. It's not fancy. It doesn't have a timer, a display, or Bluetooth. What it does is brew a full pot of properly hot coffee in about three minutes, and it has been doing exactly that for decades. That's why 17,200+ Amazon shoppers have pushed it to a 4.6-star rating.

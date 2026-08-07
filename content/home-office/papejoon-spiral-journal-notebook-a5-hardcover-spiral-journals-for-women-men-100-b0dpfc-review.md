@@ -1,4 +1,5 @@
 ---
+
 title: "PAPEJOON Spiral Journal Notebook, A5 Hardcover Spiral Journa"
 seo_title: "PAPEJOON Spiral Journal Notebook, A5 Hardcover Spi Review"
 meta_description: "Our full papejoon spiral journal notebook, a5 hardcover spiral journa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPFC6KPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MTI40YcgL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The A5 Spiral Journal That Actually Gets Used — Here's Why**

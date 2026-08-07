@@ -1,4 +1,5 @@
 ---
+
 title: "Elf Logic - Outdoor LED Light Ball - Tree Globe Light - Fold"
 seo_title: "Elf Logic Outdoor LED Light Ball Review: Fold-Flat Tree Globe"
 meta_description: "Elf Logic fold-flat LED tree globe light review: durable metal frame, warm glow, easy storage. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B081THB7SH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81qnfGO+2jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fold-flat collapsible metal frame stores in a fraction of the space of rigid globes — a genuine garage-saver"
   - "Warm white LEDs provide even, ambient light without harsh hotspots, judging by buyer photos"
   - "Weather-resistant build holds up across multiple seasons per long-term owner reports"
-cons:
+cons: 
   - "Not a spotlight — output is decorative accent lighting, not task or security illumination"
   - "Some buyers report the folding hinge can feel stiff initially; needs gentle persuasion"
   - "No timer or remote included, so you'll need an external outlet timer for automation"
+
 ---
 
 ## The Outdoor Light That Disappears When You Don't Need It

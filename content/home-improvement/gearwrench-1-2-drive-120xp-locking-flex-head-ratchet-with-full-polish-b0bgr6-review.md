@@ -1,4 +1,5 @@
 ---
+
 title: "GEARWRENCH 1/2 inch  Drive 120XP Locking Flex Head Ratchet with F"
 seo_title: "GEARWRENCH 120XP Locking Flex Head Ratchet Review (2026)"
 meta_description: "GEARWRENCH 1/2 inch  120XP locking flex head ratchet review: 120 teeth, full polish, locking mechanism. Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BGR68RF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51t4CDSYjFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "120-tooth mechanism delivers 3° of arc swing — you can turn fasteners in tight engine bays where a standard 72-tooth ratchet simply won't fit"
   - "Locking flex head holds its angle firmly under heavy torque — no floppy head collapsing mid-pull on stubborn bolts"
   - "Full-polish chrome finish resists rust and wipes clean easily; the handle is knurled for grip even with greasy hands"
-cons:
+cons: 
   - "The locking mechanism requires two hands to adjust — you can't quickly flick the head angle while holding a socket on a bolt"
   - "At roughly 11 inches long, it's heavier and bulkier than a standard 1/2-inch ratchet — not ideal for tight, precision work"
   - "No quick-release button on the drive end — you'll have to pull sockets off manually, which slows down repetitive jobs"
+
 ---
 
 # GEARWRENCH 1/2" Drive 120XP Locking Flex Head Ratchet: The Real Story

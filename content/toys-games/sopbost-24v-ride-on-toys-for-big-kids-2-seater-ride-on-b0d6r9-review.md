@@ -1,4 +1,5 @@
 ---
+
 title: "sopbost 24V Ride On Toys for Big Kids 2 Seater Ride On Truck"
 seo_title: "sopbost 24V Ride On Toys for Big Kids 2 Seater Rid Review"
 meta_description: "Our full sopbost 24v ride on toys for big kids 2 seater ride on truck review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D6R98X1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b-QVEaBOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24V difference is real — but here's what 204 Amazon buyers aren't telling you.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Zupapa 1800LBS Weight Capacity Rectangle Trampoline 10x17FT "
 seo_title: "Zupapa 1800LBS Weight Capacity Rectangle Trampolin Review"
 meta_description: "Our full zupapa 1800lbs weight capacity rectangle trampoline 10x17ft  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GR98C3JZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7100DMzsGGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $1,000 Question: Is the Zupapa 1800LBS Worth It?

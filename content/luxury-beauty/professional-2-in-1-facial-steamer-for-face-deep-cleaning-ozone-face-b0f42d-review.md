@@ -1,4 +1,5 @@
 ---
+
 title: "Professional 2 in 1 Facial Steamer for Face Deep Cleaning Oz"
 seo_title: "Professional 2 in 1 Facial Steamer for Face Deep C Review"
 meta_description: "Our full professional 2 in 1 facial steamer for face deep cleaning oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F42DLJ3Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cMK9rWE2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most at-home facial steamers are glorified kettles with a pretty plastic shell. This one is different — but it's not perfect either. After 200 ratings averaging 4.0 stars, here's what you actually need to know before spending your money.

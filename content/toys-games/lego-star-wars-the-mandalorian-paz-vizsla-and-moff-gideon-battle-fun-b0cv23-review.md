@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Star Wars: The Mandalorian Paz Vizsla and Moff Gideon B"
 seo_title: "LEGO Star Wars: The Mandalorian Paz Vizsla and Mof Review"
 meta_description: "Our full lego star wars: the mandalorian paz vizsla and moff gideon b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CV23B3LT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81J1w4hI16L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to it: this set exists for one reason, and it's named Paz Vizsla. The Mandalorian heavy-weapons specialist finally gets a minifigure worthy of his screen presence, and that alone justifies a look for collectors. But is it worth your money as a build? Let's break it down.

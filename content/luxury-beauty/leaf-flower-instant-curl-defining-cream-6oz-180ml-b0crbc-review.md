@@ -1,4 +1,5 @@
 ---
+
 title: "Leaf & Flower Instant Curl Defining Cream, 6oz/180ml"
 seo_title: "Leaf & Flower Instant Curl Defining Cream, 6oz/180 Review"
 meta_description: "Our full leaf & flower instant curl defining cream, 6oz/180ml review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRBC3WGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51BrAUSbUaL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $24 question: Can a botanical curl cream actually deliver salon-grade definition without the crunch?**

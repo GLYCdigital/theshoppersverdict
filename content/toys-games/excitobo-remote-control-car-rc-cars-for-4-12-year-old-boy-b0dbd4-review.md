@@ -1,4 +1,5 @@
 ---
+
 title: "Excitobo Remote Control Car,RC Cars for 4-12 Year Old Boy Do"
 seo_title: "Excitobo RC Car Review: Best Gift for Boys 4-12?"
 meta_description: "Excitobo RC car for boys 4-12: honest review of speed, durability, battery life, and value. Is it worth buying? Find out before you click add to cart."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBD4WZT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qJK0AQacL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two rechargeable batteries included, giving roughly 40+ minutes of run time per charge cycle"
   - "4WD off-road chassis with rubber tires handles grass, gravel, and dirt without flipping at speed"
   - "Controller uses 2.4GHz frequency so multiple cars can race simultaneously without signal interference"
-cons:
+cons: 
   - "Plastic body shell feels thin and will crack on hard impacts — this is not a basher truck"
   - "Charging takes 2-3 hours per battery, so you'll want to rotate them rather than wait"
+
 ---
 
 Let's cut through the noise. You're looking at the Excitobo RC car for a kid between 4 and 12, and you want to know if it's worth the money. The 4.6-star average across 229 ratings says most buyers are happy. But here's what those ratings don't tell you: this is a toy-grade RC car, not a hobby-grade machine. That distinction matters.

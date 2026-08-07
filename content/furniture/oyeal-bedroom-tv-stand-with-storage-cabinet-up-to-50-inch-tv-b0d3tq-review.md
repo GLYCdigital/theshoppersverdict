@@ -1,4 +1,5 @@
 ---
+
 title: "OYEAL Bedroom TV Stand with Storage Cabinet up to 50 inch TV"
 seo_title: "OYEAL Bedroom TV Stand with Storage Cabinet up to  Review"
 meta_description: "Our full oyeal bedroom tv stand with storage cabinet up to 50 inch tv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D3TQ9MBY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ETd95dskL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The OYEAL Bedroom TV Stand is the kind of furniture that makes you ask a practical question before you buy: do I need a statement piece, or do I need something that holds my TV and hides my junk? If you answered the second one, this stand deserves a closer look. At 4.0 stars across 200 ratings, it's not blowing anyone's mind — but it's quietly doing its job for a lot of people.

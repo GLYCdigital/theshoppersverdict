@@ -1,4 +1,5 @@
 ---
+
 title: "Easton | Black Magic 2.0 Baseball Catcher's Set | Sizes - Ju"
 seo_title: "Easton Black Magic 2.0 Catcher's Set Review: Youth Value"
 meta_description: "Easton Black Magic 2.0 catcher's set review: is this youth gear worth it? Real buyer feedback, sizing tips, and honest tradeoffs for junior players."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CWVKNN4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KKyaL95IL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Full set includes helmet, chest protector, and leg guards — no need to piece together mismatched gear"
   - "Padded palm and reinforced thumb on the catcher's mitt break in quickly, per multiple buyer reports"
   - "Adjustable straps throughout allow the set to fit kids from roughly 8–12 years old as they grow"
-cons:
+cons: 
   - "Helmet sizing runs small — several parents report needing to size up for kids at the top of the age range"
   - "Chest protector padding is adequate for youth speeds but won't stop sting from hard-throwing 12U pitchers"
+
 ---
 
 ## The Youth Catcher's Dilemma, Solved (Mostly)

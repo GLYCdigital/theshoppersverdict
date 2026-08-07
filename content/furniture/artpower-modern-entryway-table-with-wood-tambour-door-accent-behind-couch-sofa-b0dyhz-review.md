@@ -1,4 +1,5 @@
 ---
+
 title: "ARTPOWER Modern Entryway Table with Wood Tambour Door, Accen"
 seo_title: "ARTPOWER Entryway Table Review: Tambour Door Accent Table"
 meta_description: "ARTPOWER Modern Entryway Table with wood tambour door: honest review of build quality, storage, and style. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DYHZ8JWN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71e09P2orXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tambour door glides smoothly and hides clutter behind a solid wood slat front"
   - "Assembly is genuinely tool-free — most buyers report 10–15 minutes start to finish"
   - "Versatile 40-inch width fits behind sofas, in entryways, or as a console in tight spaces"
-cons:
+cons: 
   - "Tambour door track can derail if you slam it — needs gentle handling"
   - "Back panel is thin MDF, not solid wood — fine for light use but not heirloom grade"
+
 ---
 
 Let’s be honest: most entryway tables under $200 are wobbly, particleboard disasters that look fine in photos and fall apart by month three. The ARTPOWER Modern Entryway Table with Wood Tambour Door is not that. Is it perfect? No. Is it the best-looking storage console at this price point? Quite possibly.

@@ -1,4 +1,5 @@
 ---
+
 title: "Autocrat Coffee Syrup, 32 oz"
 seo_title: "Autocrat Coffee Syrup, 32 oz Review: Is It Worth It?"
 meta_description: "Autocrat Coffee Syrup, 32 oz review: taste, uses, and value. See what 229+ buyers say about this New England classic before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0002BQLI2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819DPGsUaXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rich, coffee-forward flavor that mimics a café-style iced coffee without needing a machine"
   - "32-ounce bottle lasts a long time — roughly 40+ servings at 2 tablespoons per glass"
   - "New England staple with a devoted following; consistent quality for decades"
-cons:
+cons: 
   - "High sugar content (16g per 2-tablespoon serving) — not suitable for low-sugar diets"
   - "Thick syrup consistency requires thorough stirring in cold milk; can sink to the bottom if rushed"
   - "Flavor is distinctly 'coffee syrup,' not brewed coffee — some purists find it too sweet or artificial"
+
 ---
 
 If you've never had coffee syrup, the concept sounds odd: a thick, molasses-like concentrate you pour into milk, not hot water. But this 32-ounce bottle of Autocrat has been a Rhode Island breakfast staple since 1895, and it's earned its 4.6-star rating across 229 Amazon reviews for one simple reason — it makes a genuinely great glass of iced coffee in about ten seconds.

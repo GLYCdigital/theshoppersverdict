@@ -1,4 +1,5 @@
 ---
+
 title: "FT Center LED Troffer Panel Light, 20/30/40W, 3 Color Option"
 seo_title: "FT Center LED Troffer Panel Light Review: 3-Wattage, 3-Color"
 meta_description: "Honest FT Center LED troffer panel light review: 20/30/40W options, 3 color temps, easy install. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSLHT315/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Gk2+C0UPL._AC_SL1429_.jpg"
-pros:
+pros: 
   - "Built-in 3-position wattage switch (20/30/40W) lets you match brightness to room size without buying separate fixtures"
   - "3 color temperatures (3000K/4000K/5000K) selectable via slide switch before installation — no extra wiring or dimmer needed"
   - "Fits standard 2x2 drop ceiling grids with included torsion springs; flush lens sits nearly level with the tile"
-cons:
+cons: 
   - "Color/wattage switches are only accessible during installation — you must pull the fixture down to change settings afterward"
   - "No junction box enclosure on the back; some local codes may require a separate box for direct wire connections"
   - "Driver hum is audible at 40W in a quiet room, especially if mounted in a bedroom or home office"
+
 ---
 
 If you're tired of flickering fluorescent troffers that hum louder than your HVAC system, the FT Center LED panel is worth a serious look. This 2x2 drop-ceiling light skips the ballast headaches entirely and adds three brightness levels and three color temperatures in a single fixture. After combing through 235 ratings (4.7 stars), here's the real story for shoppers.

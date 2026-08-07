@@ -1,4 +1,5 @@
 ---
+
 title: "TRENDnet Unmanaged Multi-Gig Switch"
 seo_title: "TRENDnet Unmanaged Multi-Gig Switch Review: Verdict | TSV"
 meta_description: "Our full trendnet unmanaged multi-gig switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GV3H6MCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tful3RI-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The TRENDnet unmanaged multi-gig switch is the networking equivalent of a good pair of work boots: unglamorous, dependable, and does exactly what it's supposed to do without demanding attention. If you're running a home office with a NAS, a couple of high-speed workstations, or a media server that's bottlenecked by gigabit ethernet, this switch quietly removes a ceiling you might not have realized was there.

@@ -1,4 +1,5 @@
 ---
+
 title: "Farmer Brothers Coffee - Ground Medium Roast Breakfast Blend"
 seo_title: "Farmer Brothers Breakfast Blend Review: Bold, Reliable, 2026 inch"
 meta_description: "Honest Farmer Brothers Breakfast Blend review: smooth medium roast, 2-oz filter packs, ideal for offices. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CW7GHQ9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NT5cA1FpL._SL1500_.jpg"
-pros:
+pros: 
   - "Pre-measured 2-oz filter packs eliminate guesswork and keep grounds fresh longer than open bags"
   - "Smooth, balanced flavor with no bitter aftertaste — crowd-pleaser for office or home"
   - "Consistent brew strength across multiple pots, thanks to uniform grind size"
-cons:
+cons: 
   - "No whole-bean option — you're locked into their grind profile"
   - "Individual packs create more packaging waste than a single bag"
+
 ---
 
 If you've ever stood in an office break room staring at a can of stale, sad coffee, you already know the problem this product solves. Farmer Brothers has been supplying restaurants and diners for over a century, and their Breakfast Blend ground coffee comes in individually wrapped 2-ounce filter packs that make brewing a consistent pot almost foolproof.

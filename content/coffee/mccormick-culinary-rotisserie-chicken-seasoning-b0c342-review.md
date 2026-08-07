@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Culinary Rotisserie Chicken Seasoning"
 seo_title: "McCormick Culinary Rotisserie Chicken Seasoning Review: V"
 meta_description: "Our full mccormick culinary rotisserie chicken seasoning review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C342QTVN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71URoKLiwJL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If you've ever chased that golden, crackly-skinned rotisserie chicken flavor at home and come up short, this McCormick Culinary blend is the closest shortcut you'll find. It's a 4.8-star seasoning for a reason — but it's not without caveats.**

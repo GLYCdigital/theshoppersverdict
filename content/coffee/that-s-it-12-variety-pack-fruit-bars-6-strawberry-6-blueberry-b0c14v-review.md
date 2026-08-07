@@ -1,4 +1,5 @@
 ---
+
 title: "That's it 12 Variety Pack Fruit Bars (6 Strawberry, 6 Bluebe"
 seo_title: "That's it 12 Variety Pack Fruit Bars (6 Strawberry Review"
 meta_description: "Our full that's it 12 variety pack fruit bars (6 strawberry, 6 bluebe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C14V8J46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71916HV4eHL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I’ve tested dozens of “clean” fruit bars over the years, and most of them are either candy pretending to be health food or cardboard with a nutrition label. That’s It manages to avoid both traps. This 12-pack gives you six strawberry and six blueberry bars, each made from exactly two ingredients: apples and the named fruit. That’s the whole ingredient list — no added sugar, no citric acid, no “natural flavors” hiding behind vague terminology.

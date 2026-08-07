@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Cashews Thai Curry, 12 Ounce"
 seo_title: "365 Whole Foods Thai Curry Cashews Review (2026)"
 meta_description: "365 by Whole Foods Thai Curry Cashews review: bold coconut-curry flavor, crunchy texture, clean ingredients. See if this 12-oz snack is worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DG5X15KF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zMFOE6EUL._SL1000_.jpg"
-pros:
+pros: 
   - "Bold, authentic Thai curry flavor with noticeable coconut and lemongrass — not a shy seasoning"
   - "Generous 12-ounce resealable bag that holds up well for snacking over multiple weeks"
   - "Whole, uniform cashews with consistently crunchy texture — very few broken pieces"
-cons:
+cons: 
   - "Flavor coating is sweet-forward; those expecting savory-only curry may find it sugary"
   - "Not spicy — the heat is mild at best, so chili-heads will need to look elsewhere"
+
 ---
 
 I'll be honest upfront: I didn't expect a store-brand cashew to nail Thai curry flavor. But 365 by Whole Foods Market's Thai Curry Cashews have earned their 4.6-star rating across 229 reviews — and after tasting them, I get it. This isn't a timid "hint of curry" snack. The seasoning hits you with coconut, lemongrass, and a gentle warmth that lingers.

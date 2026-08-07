@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns LJM-SCT-All"
 seo_title: "Tribesigns LJM-SCT-All Review: Verdict | TSV"
 meta_description: "Our full tribesigns ljm-sct-all review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DP8SRD2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818l5hPeLFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that feeling when a furniture piece looks great in the product photos but arrives looking like a cardboard replica? That's not the case with the Tribesigns LJM-SCT-All. It's not a showroom stunner, but it's a legitimate, functional piece that earns its keep. With 204 ratings averaging 4.1 stars, this is a product shoppers have actually lived with — and mostly liked. Here's the real story.

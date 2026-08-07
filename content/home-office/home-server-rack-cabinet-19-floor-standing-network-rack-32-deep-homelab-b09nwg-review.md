@@ -1,7 +1,8 @@
 ---
-title: "Home Server Rack Cabinet â€“ 19\" Floor Standing Network Rack"
-seo_title: "Home Server Rack Cabinet â€“ 19\" Floor Standing Ne Review"
-meta_description: "Our full home server rack cabinet â€“ 19\" floor standing network rack review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Home Server Rack Cabinet â€“ 19\ Floor Standing Network Rack"
+seo_title: "Home Server Rack Cabinet â€“ 19\ Floor Standing Ne Review"
+meta_description: "Our full home server rack cabinet â€“ 19\ floor standing network rack review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "home-server-rack-cabinet-19-floor-standing-network-rack-32-deep-homelab-b09nwg-review"
 image_alt: "Home Server Rack Cabinet â€“ 19 Floor Standing Network Rack, 32 Deep Homelab Rack with Locking Glass Door, Cooling Fans,"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09NWGS6R3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Er6QOd7eS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're past the "stack everything on an IKEA shelf" phase of your homelab, you already know the drill: gear gets hot, cables become a rat's nest, and every firmware update means crawling on the floor. This 19" floor-standing rack cabinet from Amazon's budget tier aims to fix that without charging server-room prices. After digging through 225 ratings and the spec sheet, here's what actually matters.

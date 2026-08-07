@@ -1,4 +1,5 @@
 ---
+
 title: "High Density Thick Cork Trivets for Hot Dishes - Heat Resist"
 seo_title: "High Density Thick Cork Trivets for Hot Dishes - H Review"
 meta_description: "Our full high density thick cork trivets for hot dishes - heat resist review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C5R2WPGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71M1hVNjOOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most trivets are an afterthought — that flimsy silicone mat you kick under a hot dish and forget. That's not this product. These thick, high-density cork trivets are engineered for people who actually cook with cast iron, Dutch ovens, and heavy stoneware. At nearly an inch thick, they're the difference between "probably fine" and "that table is now a permanent art project."

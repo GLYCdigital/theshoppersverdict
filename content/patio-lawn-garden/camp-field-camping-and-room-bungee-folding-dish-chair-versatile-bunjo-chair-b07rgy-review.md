@@ -1,4 +1,5 @@
 ---
+
 title: "Camp Field Camping and Room Bungee Folding Dish Chair -Versa"
 seo_title: "Camp Field Bungee Folding Dish Chair Review: Worth It?"
 meta_description: "Camp Field Versa bungee dish chair review: 4.5-star rated. We tested comfort, portability & durability. See who should buy it & who should skip."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RGYKK2F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71C8SLnJbGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bungee suspension system conforms to body shape, providing genuine lumbar support without a hard frame digging into your back"
   - "Folds down to a compact 35-inch length with a built-in carry strap — fits in car trunks that reject bulkier camp chairs"
   - "Steel frame rated to 300 lbs with a wide base that stays planted on uneven ground"
-cons:
+cons: 
   - "No cup holder or side pocket — you'll need a separate table for drinks and phones"
   - "Headrest area is minimal; tall users (6'+) may find the top edge hits mid-neck instead of supporting the head"
   - "The 9.8 lbs weight is manageable but heavier than ultralight backpacking chairs"
+
 ---
 
 Some camp chairs are just fabric stretched over a folding frame. The Camp Field Versa bungee dish chair is not that. It uses a shock-cord suspension system that wraps around your body like a hammock-chair hybrid, which changes the entire sitting experience. With 225 ratings averaging 4.5 stars, this chair has clearly found its audience. Here's who that audience is — and who should keep scrolling.

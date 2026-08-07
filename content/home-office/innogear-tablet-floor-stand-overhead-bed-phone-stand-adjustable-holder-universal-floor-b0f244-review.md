@@ -1,4 +1,5 @@
 ---
+
 title: "InnoGear Tablet Floor Stand, Overhead Bed Phone Stand Adjust"
 seo_title: "InnoGear Tablet Floor Stand, Overhead Bed Phone St Review"
 meta_description: "Our full innogear tablet floor stand, overhead bed phone stand adjust review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F244JLJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HFDxK8KSL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most tablet stands are glorified lap trays. The InnoGear Tablet Floor Stand takes a different approach — it’s a floor-mounted gooseneck that arcs over your head, letting you watch movies, follow recipes, or video-call while lying flat. That’s a genuinely different use case, and it’s executed well enough to earn a 4.4-star average across 220 ratings. But it’s not without tradeoffs.

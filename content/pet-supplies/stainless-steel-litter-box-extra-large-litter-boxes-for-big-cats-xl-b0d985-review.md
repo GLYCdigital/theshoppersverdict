@@ -1,4 +1,5 @@
 ---
+
 title: "Stainless Steel Litter Box, Extra Large Litter Boxes for Big"
 seo_title: "Stainless Steel Litter Box, Extra Large Litter Box Review"
 meta_description: "Our full stainless steel litter box, extra large litter boxes for big review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9856SVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71P6WnC-h1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Stainless Steel Upgrade Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "Kevyn Aucoin The Eyelash Curler: Easy use. Long-lasting curl"
 seo_title: "Kevyn Aucoin The Eyelash Curler: Easy use. Long-la Review"
 meta_description: "Our full kevyn aucoin the eyelash curler: easy use. long-lasting curl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000Z5YCOA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616n1B3H9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20+ eyelash curler that actually delivers — if you know what you're doing.**

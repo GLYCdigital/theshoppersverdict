@@ -1,5 +1,6 @@
 ---
 
+
 title: "Corsair Dual SSD Mounting Bracket (3.5â€³)"
 seo_title: "Corsair Dual SSD Mounting Bracket Review (2026): Worth It?"
 meta_description: "Corsair Dual SSD Mounting Bracket review: tool-free 3.5 inch bay install, holds two 2.5 inch drives. See pros, cons, and who should buy it."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DM2JXH2J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eurjGJ8iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True tool-free install — spring-loaded clips lock drives in place with zero screws, and the bracket slides into any standard 3.5-inch bay without mounting hardware"
   - "Fits both 7mm and 9.5mm SSDs, covering virtually every 2.5-inch drive on the market including Samsung 870 EVO and Crucial MX500 inch"
   - "All-steel construction with rubber vibration dampeners — drives sit snug with no rattle even in vertically mounted cases"
-cons:
+cons: 
   - "Does not accommodate 15mm-thick drives (rare, but some older enterprise SSDs and hybrid drives are too tall)"
   - "Only fits 3.5-inch internal bays — useless for 5.25-inch external bays or cases without traditional drive cages"
+
 
 ---
 

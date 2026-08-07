@@ -1,4 +1,5 @@
 ---
+
 title: "HP Wireless Silent 280M Mouse - Ergonomic Right-Handed Desig"
 seo_title: "HP Wireless Silent 280M Mouse - Ergonomic Right-Ha Review"
 meta_description: "Our full hp wireless silent 280m mouse - ergonomic right-handed desig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D2JMR4QQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sWRdARuVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ### The Quiet Workhorse That Won't Wake Your Coworkers

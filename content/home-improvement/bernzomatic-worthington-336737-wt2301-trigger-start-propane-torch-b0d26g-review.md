@@ -1,4 +1,5 @@
 ---
+
 title: "BERNZOMATIC Worthington 336737 WT2301 Trigger Start Propane"
 seo_title: "BERNZOMATIC WT2301 Trigger Start Propane Torch Review"
 meta_description: "BERNZOMATIC WT2301 trigger-start propane torch review: instant ignition, self-locking valve, 3,600°F flame. Is it worth it? Real buyer verdict inside."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D26GD2L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JTXnMYpNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Trigger-start ignition means no separate striker or lighter needed — one hand operation"
   - "Self-locking valve holds the flame steady during long jobs like soldering or thawing"
   - "Swivel base on the included cylinder lets you angle the torch without kinking the hose"
-cons:
+cons: 
   - "Propane cylinder sold separately — factor in that extra cost before buying"
   - "Trigger requires a firm squeeze; users with weaker grip strength may find it tiring"
   - "No flame adjustment dial — output is fixed, limiting fine control for delicate work"
+
 ---
 
 Let me be blunt: if you're still fumbling with a striker and a stubborn pilot light, you're wasting time. The BERNZOMATIC Worthington WT2301 Trigger Start Propane Torch exists to kill that hassle permanently. I've tested it against the old-school squeeze-valve models, and the difference is night and day.

@@ -1,4 +1,5 @@
 ---
+
 title: "GAMEMAX PCIE ATX 3.0 PCIe 5.0 Power Supply"
 seo_title: "GAMEMAX PCIE ATX 3.0 PCIe 5.0 Power Supply Review: Verdic"
 meta_description: "Our full gamemax pcie atx 3.0 pcie 5.0 power supply review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C9X8JYBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71myCITe9+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The GAMEMAX PCIE ATX 3.0 PCIe 5.0 Power Supply** is one of those products that sits in the awkward middle ground — not a budget unit, not a flagship. At 4.4 stars across 220 ratings, it's clearly doing something right. But is it the right PSU for *your* build? Let's dig into the details.

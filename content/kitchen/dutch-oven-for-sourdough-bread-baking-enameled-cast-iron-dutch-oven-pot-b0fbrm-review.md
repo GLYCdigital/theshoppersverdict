@@ -1,4 +1,5 @@
 ---
+
 title: "Dutch Oven for Sourdough Bread Baking, Enameled Cast Iron Du"
 seo_title: "Dutch Oven for Sourdough Bread Baking Review (2026): Worth It?"
 meta_description: "Honest Dutch Oven for Sourdough Bread Baking review: enameled cast iron performance, steam retention, cleanup, and who should buy it. 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBRM1JX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712GMImkThL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 4.5mm cast iron walls hold steady heat for consistent oven spring and deep crust color"
   - "Light-colored enamel interior lets you monitor browning without lifting the lid and losing steam"
   - "Wide loop handles fit gloved hands comfortably, even with bulky oven mitts"
-cons:
+cons: 
   - "Uncoated cast iron rim will rust if not dried thoroughly after washing — a known quirk of this design"
   - "At roughly 13 pounds, it's heavy for those with wrist or grip issues"
+
 ---
 
 If you've been baking sourdough for more than a week, you already know the struggle: pale crusts, flat loaves, and scoring that rips instead of blooms. The fix is almost always the same — a heavy, sealed vessel that traps steam. This enameled cast iron Dutch oven, marketed specifically for sourdough, does exactly that. But is it worth your counter space and cash? Let's break it down.

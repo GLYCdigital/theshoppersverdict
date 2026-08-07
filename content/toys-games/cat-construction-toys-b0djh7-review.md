@@ -1,4 +1,5 @@
 ---
+
 title: "CAT Construction Toys"
 seo_title: "CAT Construction Toys Review: Rugged, Realistic, Worth It?"
 meta_description: "CAT Construction Toys review: Are these die-cast trucks worth the hype? We break down durability, play value, and what buyers really think."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJH78MVH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LXvB5M9rL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Die-cast metal bodies and rubber treads hold up to aggressive indoor and sandbox play without cracking"
   - "Realistic CAT branding and moving parts (working buckets, tilting blades) that actually function, not just decorative"
   - "Chunky size is perfect for small hands — no tiny pieces that snap off or become choking hazards"
-cons:
+cons: 
   - "Moving joints can loosen with heavy use, requiring occasional tightening or the parts droop"
   - "No sound or lights — kids expecting flashy features may be underwhelmed"
   - "Paint chipping on the metal body is likely after rough outdoor use, especially on concrete"
+
 ---
 
 **If you're shopping for a construction toy that survives more than one play session, CAT's line is the benchmark.** After digging through 235 Amazon ratings averaging 4.7 stars, the pattern is clear: these trucks take a beating and keep moving dirt. Here's what you're actually getting before you click buy.

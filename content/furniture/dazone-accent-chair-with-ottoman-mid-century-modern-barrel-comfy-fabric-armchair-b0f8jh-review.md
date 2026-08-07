@@ -1,4 +1,5 @@
 ---
+
 title: "DAZONE Accent Chair with Ottoman, Mid Century Modern Barrel"
 seo_title: "DAZONE Accent Chair Review: Mid Century Barrel with Ottoman"
 meta_description: "Honest DAZONE accent chair review: mid-century barrel design, fabric comfort, ottoman included. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8JHHFTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aRxlL2qvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Curved barrel back provides genuine lumbar support, not just a style gimmick"
   - "Ottoman included at no extra cost — rare at this price point"
   - "Assembly takes under 15 minutes with only four bolts to secure"
-cons:
+cons: 
   - "Fabric is a magnet for pet hair and lint; light colors show wear quickly"
   - "Seat cushion is firm — not plush — and may feel stiff for smaller frames"
+
 ---
 
 # DAZONE Accent Chair with Ottoman: A Mid-Century Barrel That Actually Delivers

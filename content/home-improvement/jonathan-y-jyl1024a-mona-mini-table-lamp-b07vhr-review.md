@@ -1,4 +1,5 @@
 ---
+
 title: "JONATHAN Y JYL1024A Mona Mini Table Lamp"
 seo_title: "JONATHAN Y JYL1024A Mona Mini Table Lamp Review: Verdict "
 meta_description: "Our full jonathan y jyl1024a mona mini table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07VHRWBVK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815g1ZYGemL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most table lamps under $50 are disposable junk with wobbly bases and harsh light. The JONATHAN Y Mona Mini isn't that. But it's also not perfect. Here's what you need to know before clicking buy.

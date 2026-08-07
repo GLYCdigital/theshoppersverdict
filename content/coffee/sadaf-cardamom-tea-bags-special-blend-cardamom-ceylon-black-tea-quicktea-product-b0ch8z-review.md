@@ -1,4 +1,5 @@
 ---
+
 title: "Sadaf Cardamom Tea Bags | Special Blend Cardamom Ceylon Blac"
 seo_title: "Sadaf Cardamom Tea Bags | Special Blend Cardamom C Review"
 meta_description: "Our full sadaf cardamom tea bags | special blend cardamom ceylon blac review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CH8ZRNKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714PggXtPhL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most cardamom teas taste like a polite suggestion of spice. Sadaf's Special Blend is not that tea. As shown in the product image, the bags are packed with visible crushed cardamom pods mixed into the Ceylon black tea leaves — you can smell the difference before the water even hits the cup. This is a tea for people who want the spice to show up.

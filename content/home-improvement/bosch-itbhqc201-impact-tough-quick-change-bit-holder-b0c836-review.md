@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH ITBHQC201 Impact Tough Quick Change Bit Holder"
 seo_title: "BOSCH ITBHQC201 Bit Holder Review: Impact Tough Tested"
 meta_description: "BOSCH ITBHQC201 Impact Tough Quick Change Bit Holder review: magnet strength, durability, and real-world driver performance tested. Is it worth the premium?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C836PX4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mntBU--bS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Impact-rated alloy steel body holds up to repeated hammering without shattering or deforming"
   - "Strong rare-earth magnet holds screws securely on angled or overhead work"
   - "Quick-change collar lets you swap bits one-handed without removing the holder from the driver"
-cons:
+cons: 
   - "Slightly longer than standard holders, which reduces access in tight spaces"
   - "Magnet can attract metal shavings and debris during extended use"
   - "Premium pricing compared to basic no-name bit holders"
+
 ---
 
 Most bit holders are an afterthought. You grab the free one that came with your drill, it wears out in a month, and you buy another. The BOSCH ITBHQC201 Impact Tough Quick Change Bit Holder is not that. At 4.6 stars across 229 ratings, it's the rare accessory that pros and DIYers both agree on. But is it worth paying more for a piece of steel with a magnet? Let's dig in.

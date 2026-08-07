@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Cast Iron Kettlebell for Strength Training, Te"
 seo_title: "Amazon Basics Cast Iron Kettlebell Review (2026): Is It Worth It?"
 meta_description: "Amazon Basics Cast Iron Kettlebell review: textured wide handle, durability, grip comfort. See pros, cons, and who should buy this 4.8-star kettlebell."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CM9JYFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716SMzWcD8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Textured wide handle accommodates two-handed swings comfortably, even for larger hands"
   - "Solid one-piece cast iron construction with no seams or welded joints to fail"
   - "Powder-coated finish provides reliable grip without being abrasive on palms"
-cons:
+cons: 
   - "No flat bottom — kettlebell rolls when set down, requires deliberate placement"
   - "Weight is printed on the side but not color-coded for quick rack identification"
   - "Powder coat can chip if dropped on concrete, exposing bare iron"
+
 ---
 
 **Opening Hook: Skip the boutique brands. This is the kettlebell that gets the job done.**

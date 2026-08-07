@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Lotion"
 seo_title: "Old Spice Lotion Review: Verdict | TSV"
 meta_description: "Our full old spice lotion review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CM2MTCY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pvLwwDRqL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: Old Spice making lotion feels like it shouldn't work. The brand built its name on aftershave that could strip paint. But this moisturizer has quietly racked up 229 ratings at 4.6 stars, which puts it in the same territory as dedicated skincare brands charging twice as much. I tested it for two weeks to see if the hype holds up.

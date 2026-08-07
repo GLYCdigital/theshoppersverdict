@@ -1,4 +1,5 @@
 ---
+
 title: "Kitchen Knife Set - Phantom Iris X5 Knife Block Set - Top-ti"
 seo_title: "Kitchen Knife Set - Phantom Iris X5 Knife Block Se Review"
 meta_description: "Our full kitchen knife set - phantom iris x5 knife block set - top-ti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F5BBQJN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JEM-fC96L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The Phantom Iris X5 isn't another pretty knife block that dulls after three weeks. With a 4.8-star average across 240 ratings, this 15-piece set has earned its reputation for one simple reason: it performs like knives twice its price point.

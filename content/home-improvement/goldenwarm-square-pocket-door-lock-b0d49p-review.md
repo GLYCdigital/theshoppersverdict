@@ -1,4 +1,5 @@
 ---
+
 title: "goldenwarm Square Pocket Door Lock"
 seo_title: "goldenwarm Square Pocket Door Lock Review: Verdict | TSV"
 meta_description: "Our full goldenwarm square pocket door lock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D49P7ZKP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ESwi4p3CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Pocket doors are the unsung workhorses of modern home design — they save space, look clean, and then they break, and you're stuck with a flimsy plastic latch that never quite catches. The goldenwarm Square Pocket Door Lock aims to fix that with a beefy metal build and a look that actually complements the hardware you already hung. After digging through 200 ratings and the spec sheet, here's the real story.

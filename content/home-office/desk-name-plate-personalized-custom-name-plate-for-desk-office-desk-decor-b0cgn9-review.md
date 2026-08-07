@@ -1,4 +1,5 @@
 ---
+
 title: "Desk Name Plate Personalized, Custom Name Plate for Desk, Of"
 seo_title: "Desk Name Plate Review: Custom & Personalized for Office"
 meta_description: "Honest desk name plate review: build quality, customization options, real buyer feedback, and who should buy. See if this personalized plate fits your office."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGN95LQJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yREwOnOCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Crisp laser engraving that holds up to daily handling — no fading or chipping after months of use"
   - "Multiple size and finish options let you match your desk aesthetic without paying custom-shop prices"
   - "Sturdy acrylic base with non-slip padding that stays put even on glossy surfaces"
-cons:
+cons: 
   - "Standard font choices are limited; don't expect the full typography library of a dedicated engraver"
   - "Stand assembly requires a bit of patience — the acrylic pieces fit snugly and need careful alignment"
+
 ---
 
 A desk name plate is one of those purchases you don't think about until you're in a meeting, someone asks "who are you?" and you realize your name tag is buried in a drawer. This personalized version solves that problem with a clean, professional look that doesn't feel like a corporate giveaway.

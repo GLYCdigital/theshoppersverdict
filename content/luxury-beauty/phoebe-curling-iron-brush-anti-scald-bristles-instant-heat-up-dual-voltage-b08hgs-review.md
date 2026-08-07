@@ -1,4 +1,5 @@
 ---
+
 title: "PHOEBE Curling Iron Brush Anti-Scald Bristles Instant Heat U"
 seo_title: "PHOEBE Curling Iron Brush Anti-Scald Bristles Inst Review"
 meta_description: "Our full phoebe curling iron brush anti-scald bristles instant heat u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08HGS3FVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hsHZs4jJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PHOEBE Curling Iron Brush — the one tool that actually addresses the #1 curling iron complaint.**

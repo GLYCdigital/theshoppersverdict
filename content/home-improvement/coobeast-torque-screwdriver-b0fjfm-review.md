@@ -1,23 +1,25 @@
 ---
+
 title: "coobeast Torque Screwdriver"
 seo_title: "coobeast Torque Screwdriver Review: Accurate & Affordable (2026)"
 meta_description: "coobeast Torque Screwdriver review: 4.6/5 rating. Precision settings, 60-bit kit, sturdy build. See real pros, cons, and who should buy it."
 slug: "coobeast-torque-screwdriver-b0fjfm-review"
 image_alt: "coobeast torque screwdriver with interchangeable bits and adjustment dial"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: 29.97  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: 29.97
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJFM76GB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s7vtP6xrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Preset torque range from 2–10 in-lb covers electronics, eyeglasses, and small appliance repairs"  
   - "60-piece bit set includes security bits (Torx, hex, Phillips, slotted) in a locking storage case"  
   - "Aluminum alloy body with knurled grip feels solid, not like a disposable precision tool"  
-cons:  
+cons: 
   - "No in-between torque values — you get 10 fixed settings, not a continuous dial"  
   - "Bit holder uses a magnetic collar that can occasionally drop small bits if you're not careful"
+
 ---
 
 If you've ever stripped a laptop screw or over-tightened a tiny hinge, you already know why a torque screwdriver earns its place in your drawer. The coobeast Torque Screwdriver (around $30) promises precision without the $100+ price tag of iFixit or Wera kits. After digging through 229 Amazon ratings and the specs, here's the honest breakdown.

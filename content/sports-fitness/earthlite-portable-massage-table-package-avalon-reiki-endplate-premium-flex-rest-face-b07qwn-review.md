@@ -1,4 +1,5 @@
 ---
+
 title: "EARTHLITE Portable Massage Table Package AVALON – Reiki En"
 seo_title: "EARTHLITE AVALON Portable Massage Table Review (2026)"
 meta_description: "Hands-on EARTHLITE AVALON portable massage table review: build quality, comfort, weight, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QWNPTLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZoK5JlkUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multi-layer cushioning with 2-inch foam that holds up to 450 lbs without bottoming out"
   - "Quick-release leg locks and adjustable height (22–34 inches) make setup under 60 seconds"
   - "Reiki endplate is genuinely useful for ankle, wrist, and head positioning — not a gimmick"
-cons:
+cons: 
   - "At 33 pounds, it's heavier than ultralight competitors — noticeable for home-based mobile therapists"
   - "Face cradle foam is firmer than the main table; some clients find it too hard for long sessions"
+
 ---
 
 **Skip the fluff: This is the table to beat if you're a working massage therapist, Reiki practitioner, or someone who wants a table that will still be solid in a decade.**

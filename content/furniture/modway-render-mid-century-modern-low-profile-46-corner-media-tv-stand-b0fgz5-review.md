@@ -1,7 +1,8 @@
 ---
-title: "Modway Render Mid-Century Modern Low Profile 46\" Corner Medi"
-seo_title: "Modway Render Mid-Century Modern Low Profile 46\" C Review"
-meta_description: "Our full modway render mid-century modern low profile 46\" corner medi review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Modway Render Mid-Century Modern Low Profile 46\ Corner Medi"
+seo_title: "Modway Render Mid-Century Modern Low Profile 46\ C Review"
+meta_description: "Our full modway render mid-century modern low profile 46\ corner medi review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "modway-render-mid-century-modern-low-profile-46-corner-media-tv-stand-b0fgz5-review"
 image_alt: "Modway Render Mid-Century Modern Low Profile 46 Corner Media TV Stand in Oak, 15 x 46 x 23"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGZ57JKM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hydYBP47L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The corner TV stand is a furniture category most brands botch. They either over-engineer the shape until it swallows the room, or they cheap out on materials until it wobbles. The Modway Render 46" corner media console sits somewhere in the sweet spot — and at 4.5 stars across 225 ratings, buyers mostly agree. But "mostly" is doing a lot of work. Here's the real breakdown.

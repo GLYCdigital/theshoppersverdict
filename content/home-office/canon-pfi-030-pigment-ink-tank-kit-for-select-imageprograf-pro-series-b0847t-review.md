@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PFI-030 Pigment Ink Tank Kit for Select imagePROGRAF P"
 seo_title: "Canon PFI-030 Ink Tank Kit Review: Worth It? (2026)"
 meta_description: "Honest Canon PFI-030 pigment ink tank kit review. Real-world performance, cost per print, and compatibility for imagePROGRAF Pro printers."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0847TQ4GT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514ak6HnacL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Complete 12-color set matches the Pro-1000's full LUCIA PRO pigment gamut"
   - "Genuine Canon tanks eliminate third-party clogging and color-shift risks"
   - "Consistent 80ml capacity per tank for predictable print yields"
-cons:
+cons: 
   - "High upfront cost for the full kit—buy only the colors you're low on"
   - "No expiration date printed on individual tanks, so long-stored spares are a gamble"
+
 ---
 
 If you own a Canon imagePROGRAF PRO-1000, you already know the dirty secret: this printer produces stunning gallery-grade prints, but it drinks ink like a thirsty teenager drains soda. The Canon PFI-030 Pigment Ink Tank Kit is the official refueling solution. The question isn't whether it works—it's whether the price per milliliter makes sense for your workflow.

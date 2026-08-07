@@ -1,4 +1,5 @@
 ---
+
 title: "Simply Organic Dill Weed Cut & Sifted Certified Organic, 0.8"
 seo_title: "Simply Organic Dill Weed Cut & Sifted Certified Or Review"
 meta_description: "Our full simply organic dill weed cut & sifted certified organic, 0.8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000WR4SGI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91FmleY4pgL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most dried dill you’ll find at the grocery store tastes like dusty grass clippings. Simply Organic’s Cut & Sifted version is a different animal. This is the dill that actually smells like dill the moment you crack the lid — bright, slightly lemony, with that unmistakable fresh herbaceous punch. For a dried herb, that’s a rare feat.

@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Matte Gel Top Coat, Powder-Resist Matte Finish, Chrome "
 seo_title: "GAOY Matte Gel Top Coat, Powder-Resist Matte Finis Review"
 meta_description: "Our full gaoy matte gel top coat, powder-resist matte finish, chrome  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGP7T94V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ptp5Xi-CL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've probably been burned by a "matte" top coat that goes on flat, then develops a weird sheen by day three. Or worse, one that attracts every speck of lint and powder in your house like a magnet. GAOY claims they've solved both problems with this powder-resist matte gel top coat. I tested it for two weeks to see if the hype holds up.

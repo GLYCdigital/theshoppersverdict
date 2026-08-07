@@ -1,4 +1,5 @@
 ---
+
 title: "DELTA FAUCET Rivet Workstation Kitchen Sink Drop-In Top Moun"
 seo_title: "Delta Rivet Workstation Sink Review: 16-Gauge Drop-In"
 meta_description: "Honest Delta Rivet workstation sink review: 16-gauge steel, drop-in install, accessories. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DR98JL5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jY-smDnkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "16-gauge stainless steel is genuinely thick and resists denting during heavy use"
   - "Workstation tracks accept sliding accessories, turning the sink into a prep station"
   - "Drop-in design fits existing 33-inch cutouts without undermount retrofitting"
-cons:
+cons: 
   - "Drop-in rim sits proud of countertop, trapping debris and making wipe-down harder"
   - "Included cutting board and rack are functional but feel lighter than the sink itself"
   - "Sound-dampening pads help but don't eliminate noise from disposal or heavy pots"
+
 ---
 
 Let’s be blunt: most kitchen sinks are just holes with plumbing attached. The Delta Rivet Workstation tries to be more — and for the most part, it pulls it off. At 4.2 stars across 210 ratings, this 16-gauge drop-in sink has earned a reputation, but it’s not without compromises. Here’s what you need to know before you cut into your countertop.

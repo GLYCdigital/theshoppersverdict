@@ -1,4 +1,5 @@
 ---
+
 title: "Kiddieland Disney Mickey Mouse Plane Light & Sound Activity "
 seo_title: "Kiddieland Disney Mickey Mouse Plane Light & Sound Review"
 meta_description: "Our full kiddieland disney mickey mouse plane light & sound activity  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHBV2QHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eupHzAKEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Tiny Plane Worth the Hype (and the Batteries)?

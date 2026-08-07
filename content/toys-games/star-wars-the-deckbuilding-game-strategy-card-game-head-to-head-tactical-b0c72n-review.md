@@ -1,4 +1,5 @@
 ---
+
 title: "Star Wars: The DeckBuilding Game | Strategy Card Game | Head"
 seo_title: "Star Wars: The DeckBuilding Game | Strategy Card G Review"
 meta_description: "Our full star wars: the deckbuilding game | strategy card game | head review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C72NZXYP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71byaxngS0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Force is strong with this one — but is it strong enough for your game night rotation? The Star Wars Deckbuilding Game has earned a 4.8-star average from 240 Amazon buyers, and after digging through the feedback and mechanics, I can tell you exactly who should pick this up and who should keep looking.

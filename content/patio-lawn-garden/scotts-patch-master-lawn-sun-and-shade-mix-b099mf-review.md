@@ -1,4 +1,5 @@
 ---
+
 title: "Scotts Patch Master Lawn Sun and Shade Mix"
 seo_title: "Scotts Patch Master Lawn Sun and Shade Mix Review: Verdic"
 meta_description: "Our full scotts patch master lawn sun and shade mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B099MF2122/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GamxyChfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've stared at a bare, muddy patch in your lawn and thought *"I don't have time for this,"* Scotts Patch Master is designed for you. This isn't traditional grass seed — it's a three-in-one system combining mulch, seed, and fertilizer in one bag. The pitch: spread it, water it, walk away. But at 3.9 stars from 195 ratings, the reality is more nuanced.

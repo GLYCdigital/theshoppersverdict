@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Power Lift Recliner Chair Sofa with Massage and Heat "
 seo_title: "MCombo Power Lift Recliner Chair Sofa with Massage Review"
 meta_description: "Our full mcombo power lift recliner chair sofa with massage and heat  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08PFTTYTJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a1-sw1SNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a power lift chair, you've probably noticed the price gap between "medical-grade" brands (think Golden Technologies at $1,200+) and budget options like this MCombo, which typically lands in the $300–$400 range. The question isn't whether it's worth buying — it's whether the savings come with sacrifices you can live with. After digging through 215 ratings and the spec sheet, here's the real story.

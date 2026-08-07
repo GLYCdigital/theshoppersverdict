@@ -1,4 +1,5 @@
 ---
+
 title: "Gilway Demerara Sugar Cubes, 1.5 Ounces"
 seo_title: "Gilway Demerara Sugar Cubes, 1.5 Ounces Review: Verdict |"
 meta_description: "Our full gilway demerara sugar cubes, 1.5 ounces review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRGHVM9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UjwNdIyuL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products are gadgets. Some are gear. This is neither. The Gilway Demerara Sugar Cubes are a tiny 1.5-ounce box of amber-colored sugar cubes — and honestly, they might be the most underrated upgrade to your daily coffee routine you haven't considered yet.

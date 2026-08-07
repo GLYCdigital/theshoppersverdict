@@ -1,4 +1,5 @@
 ---
+
 title: "GREENER WALKER Poop Bags for Dog Waste-540 Bags,Extra Thick"
 seo_title: "GREENER WALKER Poop Bags Review: 540 Extra-Thick Bags (2026)"
 meta_description: "GREENER WALKER 540-count poop bags review: leak-proof, extra-thick, and scented. See real pros, cons, and if this bulk pack beats cheaper alternatives."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C9TGR5TZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XIjV-oK5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely thick 1.5-mil material that resists punctures from sticks and rocks — no 'phantom leaks' mid-bag"
   - "540 bags in one box works out to roughly 5-6 months of daily walks for a single dog"
   - "Built-in lavender scent actually neutralizes odor at the source, not just masking it for 10 seconds"
-cons:
+cons: 
   - "Rolls are not individually wrapped — if you toss a loose roll in your bag, it can unwind and get dirty"
   - "Scented version has a noticeable fragrance that some sensitive noses may find strong right out of the box"
+
 ---
 
 Here's the honest truth about poop bags: most of them are terrible. They tear at the worst moment, let you feel the warmth of what you're picking up, or snap right when you're balancing three coffee cups and a leash. The GREENER WALKER 540-count bulk box tries to solve all of that, and for the most part, it actually does.

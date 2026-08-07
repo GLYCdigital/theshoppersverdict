@@ -1,4 +1,5 @@
 ---
+
 title: "7LB FOLDING TRIANCHOR – WavesRx"
 seo_title: "7LB Folding Trianchor Review: Is It Worth It? (2026)"
 meta_description: "WavesRx 7LB Folding Trianchor review: 4.6★ rated. Tested for portability, stability, and versatility. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZS495VT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Folds flat to roughly the size of a large book, making it genuinely packable for travel or gym bag storage"
   - "7lb weight provides enough resistance for rows, presses, and core work without being so heavy it's impractical"
   - "Tri-anchor design grips grass, sand, and dirt securely — tested by multiple buyers for sled pushes and band work"
-cons:
+cons: 
   - "Not effective on hard surfaces like concrete or artificial turf — the stakes need soft ground to bite"
   - "No carry case or strap included, so the folded unit can scratch a car trunk or gym bag without padding"
+
 ---
 
 **The 7LB Folding Trianchor from WavesRx solves a problem most athletes don't realize they have until they're at a park with a resistance band and no way to anchor it.**

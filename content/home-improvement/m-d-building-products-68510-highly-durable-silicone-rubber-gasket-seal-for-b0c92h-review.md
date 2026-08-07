@@ -1,4 +1,5 @@
 ---
+
 title: "M-D Building Products 68510 Highly Durable Silicone Rubber G"
 seo_title: "M-D Building Products 68510 Highly Durable Silicon Review"
 meta_description: "Our full m-d building products 68510 highly durable silicone rubber g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C92HQ35Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510442l4rhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is this the last weatherstrip you'll ever buy?

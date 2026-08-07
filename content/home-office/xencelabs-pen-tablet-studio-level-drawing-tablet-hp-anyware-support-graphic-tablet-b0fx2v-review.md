@@ -1,4 +1,5 @@
 ---
+
 title: "Xencelabs Pen Tablet, Studio Level Drawing Tablet, HP Anywar"
 seo_title: "Xencelabs Pen Tablet, Studio Level Drawing Tablet, Review"
 meta_description: "Our full xencelabs pen tablet, studio level drawing tablet, hp anywar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FX2V6R89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51JPUDRrnaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Wacom Alternative That Actually Competes

@@ -1,4 +1,5 @@
 ---
+
 title: "MyLifeUNIT Business Card Book, Name Card Holder Book with 60"
 seo_title: "MyLifeUNIT Business Card Book, Name Card Holder Bo Review"
 meta_description: "Our full mylifeunit business card book, name card holder book with 60 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMWRRSLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818DgJhvrsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're still shoving business cards into a rubber-banded stack in your glovebox, this MyLifeUNIT card book is a $10 wake-up call. It's not flashy, but it solves a genuinely annoying problem: keeping 60 contacts organized, readable, and presentable when you need them.

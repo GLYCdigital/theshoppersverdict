@@ -1,4 +1,5 @@
 ---
+
 title: "Lowrance HDS PRO Fishfinder/Chartplotter with Smartphone Int"
 seo_title: "Lowrance HDS PRO Fishfinder/Chartplotter with Smar Review"
 meta_description: "Our full lowrance hds pro fishfinder/chartplotter with smartphone int review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1XB9862/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71obOwNUO8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: the Lowrance HDS PRO isn't a beginner's toy. It's a serious piece of marine electronics aimed at anglers who know what they're doing. And for that crowd, it delivers.

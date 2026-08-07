@@ -1,7 +1,8 @@
 ---
-title: "UVV Counter Height Bar Stools, 26\" Modern Barstools with Bac"
-seo_title: "UVV Counter Height Bar Stools, 26\" Modern Barstool Review"
-meta_description: "Our full uvv counter height bar stools, 26\" modern barstools with bac review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "UVV Counter Height Bar Stools, 26\ Modern Barstools with Bac"
+seo_title: "UVV Counter Height Bar Stools, 26\ Modern Barstool Review"
+meta_description: "Our full uvv counter height bar stools, 26\ modern barstools with bac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "uvv-counter-height-bar-stools-26-modern-barstools-with-back-faux-leather-b0gfn9-review"
 image_alt: "UVV Counter Height Bar Stools, 26 Modern Barstools with Back, Faux Leather Upholstery Counter Chairs with Metal Legs for"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GFN97K7H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XKIFeZ1AL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # UVV Counter Height Bar Stools Review: Solid Value or Just Another Amazon Chair?

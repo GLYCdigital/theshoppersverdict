@@ -1,4 +1,5 @@
 ---
+
 title: "RIVOVA 1869 Upholstered Barrel Chair"
 seo_title: "RIVOVA 1869 Upholstered Barrel Chair Review: Verdict | TS"
 meta_description: "Our full rivova 1869 upholstered barrel chair review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJJP8Y3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WnrZ+ZpdL._AC_SL1279_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The RIVOVA 1869 isn't trying to reinvent the barrel chair. It's trying to get the proportions right — and at a price point that doesn't require a second mortgage. After combing through 229 verified ratings and the detailed feedback that comes with them, here's what you're actually getting.

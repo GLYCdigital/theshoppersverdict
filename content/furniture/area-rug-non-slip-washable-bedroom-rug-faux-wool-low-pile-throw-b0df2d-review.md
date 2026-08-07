@@ -1,4 +1,5 @@
 ---
+
 title: "Area Rug Non Slip Washable Bedroom Rug Faux Wool Low Pile Th"
 seo_title: "Non Slip Washable Faux Wool Rug Review: Is It Worth It?"
 meta_description: "Honest review of the Non Slip Washable Faux Wool Bedroom Rug. We test durability, cleaning ease, and comfort. See if this 4.3-star rug fits your home."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DF2D92F2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81j5Xo9veOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machine-washable construction that actually survives repeated cycles without shedding or fraying"
   - "TPR non-slip backing grips hardwood and tile firmly — no curling at corners even in high-traffic paths"
   - "Faux wool texture feels convincingly soft underfoot for the price, without the $200+ price tag of real wool"
-cons:
+cons: 
   - "Low pile (roughly 0.3 inches) offers minimal cushioning — not ideal for hard floors if you stand for long periods"
   - "Initial chemical smell out of the box requires 24-48 hours of airing out before use"
   - "Thinner than product images suggest; edges can flip if you vacuum with a beater bar aggressively"
+
 ---
 
 Let's cut through the noise: most washable rugs under $100 are either glorified bath mats or shed fibers like a husky in summer. This faux wool low pile option from Amazon sits right in that crowded middle ground, and it's actually decent. Here's the full breakdown based on the 215 ratings and the 4.3-star average.

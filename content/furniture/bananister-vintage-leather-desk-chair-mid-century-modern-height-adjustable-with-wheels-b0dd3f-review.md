@@ -1,4 +1,5 @@
 ---
+
 title: "Bananister Vintage Leather Desk Chair - Mid Century Modern,"
 seo_title: "Bananister Vintage Leather Desk Chair Review (2026) | Honest Verdict"
 meta_description: "Bananister vintage leather desk chair review: real comfort, mid-century style, and height adjustability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DD3FKXDG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+NcbH8rBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine leather upholstery with a vintage patina that develops character over time — not bonded leather that peels"
   - "Tool-free height adjustment via pneumatic lift, with a smooth 18-inch to 22-inch seat range that fits most desk heights"
   - "Solid hardwood frame and steel base rated for 300 lbs, with double-wheel casters that roll quietly on hardwood and carpet"
-cons:
+cons: 
   - "No lumbar support or tilt mechanism — this is a task chair for short sessions, not an ergonomic throne for 10-hour days"
   - Armrests are fixed and non-padded; taller users (over 6'1 inch ") may find them slightly low for comfortable elbow support
+
 ---
 
 # Bananister Vintage Leather Desk Chair Review: Mid-Century Style Meets Real-World Comfort

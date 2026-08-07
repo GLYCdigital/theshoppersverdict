@@ -1,4 +1,5 @@
 ---
+
 title: "Nespresso Capsules Original Line, Mild Roast Blend Variety P"
 seo_title: "Nespresso Capsules Original Line, Mild Roast Blend Review"
 meta_description: "Our full nespresso capsules original line, mild roast blend variety p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTH4YSN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71akA9RogfL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about variety packs: manufacturers stuff them with one good blend and two fillers. The Nespresso Mild Roast Variety P avoids that trap. Across 235 Amazon ratings, it holds a 4.7-star average — a number that tells me real buyers aren't chucking half the box in the trash.

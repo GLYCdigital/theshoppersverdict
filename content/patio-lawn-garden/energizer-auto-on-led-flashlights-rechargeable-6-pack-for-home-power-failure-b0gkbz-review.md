@@ -1,4 +1,5 @@
 ---
+
 title: "Energizer Auto-On LED Flashlights Rechargeable (6-Pack) for"
 seo_title: "Energizer Auto-On LED Flashlights Review (6-Pack): Worth It?"
 meta_description: "Energizer Auto-On LED Flashlights 6-pack review: Do they hold up in blackouts? Tested for brightness, recharge, and auto-on reliability. Read before buying."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GKBZ91DM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Rpj6RTLEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-on feature activates instantly when power cuts — tested reliable in real blackout scenarios per buyer reports"
   - "Built-in rechargeable cells mean zero disposable battery costs over the life of the unit"
   - "Dock doubles as a nightlight with soft LED glow that doesn't blind you at 2 AM"
-cons:
+cons: 
   - "Auto-on drains the internal battery if left in the dock during prolonged outages — you may return to a dead flashlight"
   - "Dock requires wall outlet proximity; you can't mount these in a hallway without an available plug"
   - "Not a tactical light — brightness tops out around 100 lumens, fine for navigation but weak for outdoor use"
+
 ---
 
 **Rating: 4.6/5 (⭐ 4.7/5 from 235 Amazon ratings)**

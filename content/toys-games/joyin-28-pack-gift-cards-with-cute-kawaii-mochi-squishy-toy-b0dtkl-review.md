@@ -1,4 +1,5 @@
 ---
+
 title: "JOYIN 28 Pack Gift Cards with Cute Kawaii Mochi Squishy Toy"
 seo_title: "JOYIN 28 Pack Gift Cards with Cute Kawaii Mochi Sq Review"
 meta_description: "Our full joyin 28 pack gift cards with cute kawaii mochi squishy toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DTKL14WJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vZIbOQLdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Look, you've seen those "kawaii squishy" multipacks that promise 28 toys and deliver a pile of identical, sad-looking blobs. The JOYIN 28 Pack Gift Cards with Cute Kawaii Mochi Squishy Toy is not that. This set actually pairs each squishy with a matching gift card designed around it — think boba tea squishy with a boba tea card, a sushi roll with a sushi card, a cat face with a cat card. For under $20 (price varies by listing), you're getting 28 complete gift-ready combos. That's the hook.

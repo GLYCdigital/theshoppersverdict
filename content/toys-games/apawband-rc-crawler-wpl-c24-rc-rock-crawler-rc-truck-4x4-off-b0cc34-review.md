@@ -1,4 +1,5 @@
 ---
+
 title: "Apawband RC Crawler WPL C24 RC Rock Crawler RC Truck 4x4 Off"
 seo_title: "Apawband WPL C24 RC Crawler Review: Honest 4x4 Verdict"
 meta_description: "Our Apawband WPL C24 RC Rock Crawler review covers real-world performance, build quality, and value. See if this 4x4 off-roader is worth your money."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CC34J8NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719yvXg2GPL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 4x4 drivetrain with locked differentials that crawls over rocks and roots that would stall cheaper 2WD trucks"
   - "Full ball-bearing drivetrain and metal gearbox at this price point—upgrade parts you'd normally buy separately"
   - "1/16 scale strikes a balance between indoor usable and outdoor capable; runs about 15-20 minutes per charge"
-cons:
+cons: 
   - "Stock servo is weak—expect to swap it out for a metal-gear unit if you push it hard on steep climbs"
   - "Battery charging takes 2-3 hours, which is nearly 10x longer than the runtime you get"
   - "Plastic driveshafts can twist under sudden throttle; drive smoothly or budget for spares"
+
 ---
 
 The WPL C24 has been a budget crawler legend for years, and the Apawband version packages that proven platform with a few sensible upgrades. If you've been eyeing a rock crawler but balked at $300+ Traxxas or Axial prices, this $70-ish truck deserves a hard look. Just know what you're getting into before you commit.

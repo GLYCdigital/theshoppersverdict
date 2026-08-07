@@ -1,7 +1,8 @@
 ---
-title: "POOLPURE 6CH-940 Spa Filter Replaces PWW50P3(1 1/2\" Coarse T"
+
+title: "POOLPURE 6CH-940 Spa Filter Replaces PWW50P3(1 1/2\ Coarse T"
 seo_title: "POOLPURE 6CH-940 Spa Filter Replaces PWW50P3(1 1/2 Review"
-meta_description: "Our full poolpure 6ch-940 spa filter replaces pww50p3(1 1/2\" coarse t review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full poolpure 6ch-940 spa filter replaces pww50p3(1 1/2\ coarse t review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "poolpure-6ch-940-spa-filter-replaces-pww50p3-1-1-2-coarse-thread-b0fss7-review"
 image_alt: "POOLPURE 6CH-940 Spa Filter Replaces PWW50P3(1 1/2 Coarse Thread), 817-0050, Filbur FC-0359, 25252, 03FIL1400, Waterway "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FSS7SNNQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yPmYSiu7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Poolpure 6CH-940 isn't just another generic spa filter.** At 4.8 stars from 240 buyers, it's the kind of replacement part that hot tub owners bookmark and reorder without thinking. But here's the real question: does it actually hold up, or is it riding on brand momentum?

@@ -1,4 +1,5 @@
 ---
+
 title: "OC Orange-Casual 5 Piece Patio Furniture Set, Wicker Outdoor"
 seo_title: "OC Orange-Casual 5 Piece Patio Furniture Set, Wick Review"
 meta_description: "Our full oc orange-casual 5 piece patio furniture set, wicker outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CM9B67LH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qj+LS6ClL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get one thing straight: “5-piece patio set” is a category full of flimsy, rust-prone junk. The OC Orange-Casual set, though, is not that. With a 4.4-star average across 220 ratings, it’s earning its keep on porches and decks. Here’s who it’s actually for—and who should walk away.

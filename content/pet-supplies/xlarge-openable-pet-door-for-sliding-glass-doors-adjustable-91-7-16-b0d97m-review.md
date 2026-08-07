@@ -1,4 +1,5 @@
 ---
+
 title: "XLarge Openable Pet Door for Sliding Glass Doors, Adjustable"
 seo_title: "XLarge Openable Pet Door for Sliding Glass Doors,  Review"
 meta_description: "Our full xlarge openable pet door for sliding glass doors, adjustable review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0D97MG9FG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AA7fdrrCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've priced out a professional sliding glass door pet door installation, you already know it's a $500-plus job.** This XLarge openable panel from the folks at PetSafe-adjacent budget territory comes in at a fraction of that, and it solves the biggest problem with traditional pet doors: it doesn't require cutting a hole in your actual door. But a 3.6-star average across 180 ratings tells you this isn't a slam dunk. Here's what you need to know before you buy.

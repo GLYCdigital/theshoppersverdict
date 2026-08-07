@@ -1,4 +1,5 @@
 ---
+
 title: "Orbit 21005 B-hyve Smart Hose Watering Timer"
 seo_title: "Orbit 21005 B-hyve Smart Hose Watering Timer Review: Verd"
 meta_description: "Our full orbit 21005 b-hyve smart hose watering timer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0758V2JQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G-sr0WFcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: smart hose timers are a crowded category full of gadgets that over-promise and under-deliver. The Orbit 21005 B-hyve is one of the more established names in the space, and with 200 ratings holding at a solid 4.0 stars, it's clearly doing something right. But it's not perfect — and I'll tell you exactly where it stumbles.

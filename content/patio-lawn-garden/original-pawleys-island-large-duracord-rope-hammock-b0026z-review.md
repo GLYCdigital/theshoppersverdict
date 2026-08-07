@@ -1,4 +1,5 @@
 ---
+
 title: "Original Pawleys Island Large Duracord Rope Hammock"
 seo_title: "Original Pawleys Island Large Duracord Rope Hammoc Review"
 meta_description: "Our full original pawleys island large duracord rope hammock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0026ZQ06U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818-HDAjjFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some hammocks are furniture. This one is a decision. The Original Pawleys Island Large Duracord Rope Hammock has been hanging in backyards since 1889, and the current version carries that legacy with a 4.7-star average across 235 Amazon ratings. But is it worth the premium over a $40 woven-cotton knockoff? I dug into the specs, the complaints, and the praise to give you the straight answer.

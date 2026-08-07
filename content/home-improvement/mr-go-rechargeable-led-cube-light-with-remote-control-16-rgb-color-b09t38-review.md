@@ -1,4 +1,5 @@
 ---
+
 title: "Mr.Go Rechargeable LED Cube Light with Remote Control, 16 RG"
 seo_title: "Mr.Go Rechargeable LED Cube Light with Remote Cont Review"
 meta_description: "Our full mr.go rechargeable led cube light with remote control, 16 rg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09T38DT65/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51wYL786msS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Mr.Go Rechargeable LED Cube Light is one of those tools you don't realize you need until you're contorted under a sink with a flashlight in your teeth. This little 3x3-inch cube solves that problem with a magnetic base, a tripod mount, and 16 colors that go far beyond basic white work lighting.

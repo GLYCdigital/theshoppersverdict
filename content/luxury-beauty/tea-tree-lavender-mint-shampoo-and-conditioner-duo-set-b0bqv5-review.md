@@ -1,4 +1,5 @@
 ---
+
 title: "Tea Tree Lavender Mint Shampoo and Conditioner Duo Set"
 seo_title: "Tea Tree Lavender Mint Shampoo and Conditioner Duo Review"
 meta_description: "Our full tea tree lavender mint shampoo and conditioner duo set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQV5S7PY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tLhwKTvhL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the obvious: a shampoo that promises a "cooling tingle" usually delivers either a chemical burn or a weak whisper of menthol. This set from the Tea Tree Lavender Mint line actually hits the middle ground — and for most people, that's exactly where you want to be.

@@ -1,4 +1,5 @@
 ---
+
 title: "RALPH LAUREN FRAGRANCES Polo Red - Eau de Parfum - Men's Col"
 seo_title: "RALPH LAUREN FRAGRANCES Polo Red - Eau de Parfum - Review"
 meta_description: "Our full ralph lauren fragrances polo red - eau de parfum - men's col review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08HH7VTSL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bdC8zpe8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: Polo Red has been a department store staple for years, but this Eau de Parfum iteration is a different animal. Ralph Lauren didn’t just bump up the concentration — they reshaped the fragrance entirely. If you remember the sharp, citrus-forward EDT from 2013, the EDP swaps that brightness for a deeper, spicier character that’s more suited to cooler months and evening wear.

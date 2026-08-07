@@ -1,4 +1,5 @@
 ---
+
 title: "WRTZ Automatic Dog Ball Launcher Parent"
 seo_title: "WRTZ Automatic Dog Ball Launcher Parent Review: Verdict |"
 meta_description: "Our full wrtz automatic dog ball launcher parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZD3L7BD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81suRG5Z9uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 20-minute break your throwing arm has been begging for.**

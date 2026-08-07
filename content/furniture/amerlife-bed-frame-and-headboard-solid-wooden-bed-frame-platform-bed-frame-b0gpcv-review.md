@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Bed Frame and Headboard, Solid Wooden Bed Frame Pla"
 seo_title: "AMERLIFE Solid Wood Bed Frame Review: Worth It in 2026?"
 meta_description: "Honest AMERLIFE bed frame review: solid wood platform design, headboard included, 4.4-star rating. We break down build quality, assembly, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GPCVCFYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91x1sfwI18L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine solid wood frame rails and legs — not particleboard or MDF, so it holds up to years of nightly use"
   - "No box spring needed; integrated platform slats support a mattress directly, saving you $100+ on foundation costs"
   - "Headboard is included and pre-drilled for easy mounting — no separate $150 headboard purchase required"
-cons:
+cons: 
   - "Assembly is a two-person job; the frame is heavy and the slats require patience to align correctly"
   - "Lower profile than many traditional beds — if you want under-bed storage space for bins, this isn't the frame for you"
+
 ---
 
 The AMERLIFE Solid Wooden Bed Frame is the rare Amazon furniture find that doesn't make you compromise on materials to hit a reasonable price point. With a 4.4-star average across 220 ratings, it's clearly earning its keep in real bedrooms — but let's dig into whether it's the right frame for *your* specific setup.

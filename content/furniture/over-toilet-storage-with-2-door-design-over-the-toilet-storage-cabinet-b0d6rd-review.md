@@ -1,4 +1,5 @@
 ---
+
 title: "Over Toilet Storage with 2-Door Design Over The Toilet Stora"
 seo_title: "Over Toilet Storage with 2-Door Design Over The To Review"
 meta_description: "Our full over toilet storage with 2-door design over the toilet stora review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6RDWRYF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714MIvs34-L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know bathroom storage is a problem when you're stacking toilet paper rolls on the floor next to the plunger. This over-toilet cabinet with a two-door design attacks that wasted airspace above the tank. And for most bathrooms, it does the job well. But "most" isn't "all" — and the fit question is the one you need to answer before you click buy.

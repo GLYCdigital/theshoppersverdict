@@ -1,4 +1,5 @@
 ---
+
 title: "Veradek Demi Shade Side Table"
 seo_title: "Veradek Demi Shade Side Table Review: Verdict | TSV"
 meta_description: "Our full veradek demi shade side table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ2C64L5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lZs5Ii3mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Veradek Demi Shade Side Table earns its 4.7-star rating not because it does anything flashy, but because it does the basics perfectly. In a category flooded with wobbly, rust-prone, particleboard disasters, this 24-pound composite table actually delivers on its "leave it outside year-round" promise. After digging through 235 verified buyer ratings, the consensus is clear: this is the side table you buy once and stop thinking about.

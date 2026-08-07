@@ -1,4 +1,5 @@
 ---
+
 title: "EPFamily Plant Pot, Ceramic Planters for Plants with Drainag"
 seo_title: "EPFamily Ceramic Plant Pot Review: Drainage, Saucer & Style"
 meta_description: "Honest EPFamily ceramic plant pot review: drainage holes, saucer design, and real-world durability. See if this 4.5-star planter is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7MJ8FNX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-microsoft.com/images/I/71LNV8qk+bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine drainage hole plus matching saucer — roots stay healthy without water staining your furniture"
   - "Glossy ceramic finish resists chipping and UV fading, even in full-sun patio spots"
   - "Multiple sizes available, so you can group them for a cohesive container garden look"
-cons:
+cons: 
   - "No rubber or cork pads on the saucer bottom — it can scratch wood tables if you drag it"
   - "Slightly heavier than expected when filled; awkward to move once planted"
+
 ---
 
 Let me cut through the noise on this one. The EPFamily Ceramic Plant Pot is the kind of product that looks simple but gets the fundamentals right — and in the planter world, that's rarer than you'd think.

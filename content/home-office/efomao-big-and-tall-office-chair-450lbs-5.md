@@ -1,4 +1,5 @@
 ---
+
 title: "Efomao Big and Tall Office Chair"
 seo_title: "Efomao Big and Tall Office Chair Review (2026): Worth It?"
 meta_description: "Efomao Big and Tall Office Chair review: 4.2-star rated, 500-lb capacity, real user feedback. Is this $244 ergonomic chair worth it? Find out here."
@@ -11,14 +12,15 @@ review_count: 4072
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FS1DBG4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819HLiTbRDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 500-lb weight capacity with a 22.5-inch wide seat — rare at this price point"
   - "Heavy-duty steel frame and Class-4 gas lift that actually hold up under daily 8-hour use"
   - "Adjustable lumbar support and 3D armrests (height, angle, width) you can fine-tune"
-cons:
+cons: 
   - "Bonded leather seat will crack and peel within 12–18 months of daily use — budget for a replacement cover"
   - Headrest is fixed; if you're under 5'10 inch it may hit your upper back instead of your neck
   - "Assembly takes 45–60 minutes; the included hex key strips easily on the seat plate bolts"
+
 ---
 
 If you're over 250 pounds, you already know the struggle: most "big and tall" chairs are just standard chairs with longer gas lifts and a marketing badge. The Efomao Big and Tall Office Chair actually changes the geometry. The seat pan measures 22.5 inches across — that's 3–4 inches wider than a typical office chair — and the backrest rises to 30 inches. At $244, it's undercutting competitors like the Flash Furniture XT series by $50–70 while claiming a 500-pound capacity.

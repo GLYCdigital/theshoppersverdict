@@ -1,4 +1,5 @@
 ---
+
 title: "Glorious Traders Youth Football Gloves American Wide Receive"
 seo_title: "Glorious Traders Youth Football Gloves American Wi Review"
 meta_description: "Our full glorious traders youth football gloves american wide receive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D7MLVZ26/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cXu7X8IiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Glorious Traders Youth Football Gloves Review: The $25 Wide Receiver Gloves That Punch Above Their Weight

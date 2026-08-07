@@ -1,4 +1,5 @@
 ---
+
 title: "Wild Badger Power 4 in 1"
 seo_title: "Wild Badger Power 4 in 1 Review: Verdict | TSV"
 meta_description: "Our full wild badger power 4 in 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FZLG772X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71t+JEmDAXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Wild Badger Power 4 in 1: A Lawn Tool That Actually Earns Its Name

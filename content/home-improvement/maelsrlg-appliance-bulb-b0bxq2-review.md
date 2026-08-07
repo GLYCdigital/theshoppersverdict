@@ -1,4 +1,5 @@
 ---
+
 title: "Maelsrlg Appliance Bulb"
 seo_title: "Maelsrlg Appliance Bulb Review: Verdict | TSV"
 meta_description: "Our full maelsrlg appliance bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXQ24354/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XtOPdFsAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever paid $12 for a "genuine OEM" refrigerator bulb at a parts store, only to watch it burn out eighteen months later, the Maelsrlg Appliance Bulb deserves a hard look. This isn't a flashy product — it's a 4.6-star workhorse with 229 verified ratings, and it solves a genuinely annoying problem: appliance bulbs that die young or run hot enough to spoil your leftovers. Here's the honest breakdown after digging through the specs, the customer feedback, and the real-world tradeoffs.

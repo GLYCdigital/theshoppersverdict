@@ -1,4 +1,5 @@
 ---
+
 title: "SMEG KLF03 Electric Kettle 1.7L (7 Cup), Retro Hot Water Boi"
 seo_title: "SMEG KLF03 Electric Kettle 1.7L (7 Cup), Retro Hot Review"
 meta_description: "Our full smeg klf03 electric kettle 1.7l (7 cup), retro hot water boi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR3CDLQX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SpiFBDweL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SMEG KLF03 Electric Kettle Review: Retro Beauty Meets Boiling Reality

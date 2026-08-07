@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Parsley Flakes"
 seo_title: "McCormick Parsley Flakes Review: Verdict | TSV"
 meta_description: "Our full mccormick parsley flakes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CP8MT1Y6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gnMGIJiZL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: dried parsley gets a bad rap. It’s the sad green sprinkle on restaurant plates, the afterthought in your spice rack. So why does McCormick’s version hold a 4.8-star average across 240 reviews? Because it quietly does exactly what dried parsley should do — no more, no less.

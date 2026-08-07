@@ -1,4 +1,5 @@
 ---
+
 title: "adidas Vibes Unisex Collection"
 seo_title: "adidas Vibes Unisex Collection Review (2026): Worth It?"
 meta_description: "Honest adidas Vibes Unisex Collection review: performance, scent, longevity, and value. See pros, cons, and who should buy this 4.2-star fragrance set."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DHDB1NFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61caxo4NwdL._SL1500_.jpg"
-pros:
+pros: 
   - "Three distinct, wearable scents in one set — genuine variety for daily rotation"
   - "Solid longevity for the price point; 6-8 hours on skin with moderate projection"
   - "Unisex formulations that lean fresh and athletic without being aggressively sporty"
-cons:
+cons: 
   - "Packaging feels lighter than the 'luxury' positioning suggests — thin cardstock box"
   - "Sillage settles close to skin after the first two hours; not a compliment machine"
+
 ---
 
 Let's be direct: this isn't a niche French perfume house. What the adidas Vibes Unisex Collection actually delivers is a practical, versatile fragrance wardrobe for people who want variety without committing to three full-priced bottles. At a 4.2-star average across 210 ratings, it's earning its keep — but with caveats worth knowing before you click buy.

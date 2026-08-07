@@ -1,4 +1,5 @@
 ---
+
 title: "Retractable Dog Leash 1205"
 seo_title: "Retractable Dog Leash 1205 Review: Verdict | TSV"
 meta_description: "Our full retractable dog leash 1205 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FJF41W9V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h2AOftHbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Retractable Dog Leash 1205 occupies a weird middle ground: it's not the cheapest option on Amazon, and it's not a premium flexi. But with 204 ratings holding a steady 4.1 stars, it's clearly doing something right for everyday dog owners. Here's the real breakdown after digging through the specs and what actual buyers keep saying.

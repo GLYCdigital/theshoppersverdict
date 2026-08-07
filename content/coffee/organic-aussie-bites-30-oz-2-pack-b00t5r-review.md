@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Aussie Bites 30 OZ. (2 Pack)"
 seo_title: "Organic Aussie Bites 30 OZ. (2 Pack) Review: Verdict | TS"
 meta_description: "Our full organic aussie bites 30 oz. (2 pack) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00T5RXCLS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y9xpe4AiL._SL1242_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 30-Second Hook

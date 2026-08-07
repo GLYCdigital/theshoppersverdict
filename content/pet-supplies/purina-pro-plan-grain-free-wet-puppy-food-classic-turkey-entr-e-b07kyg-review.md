@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Grain Free Wet Puppy Food, Classic Turkey En"
 seo_title: "Purina Pro Plan Grain Free Wet Puppy Food, Classic Review"
 meta_description: "Our full purina pro plan grain free wet puppy food, classic turkey en review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07KYGG63J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+4gmiTEvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Wet Food Your Puppy Actually Needs?

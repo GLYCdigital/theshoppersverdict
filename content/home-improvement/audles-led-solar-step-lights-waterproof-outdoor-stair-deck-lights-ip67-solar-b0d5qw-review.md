@@ -1,4 +1,5 @@
 ---
+
 title: "AUDLES LED Solar Step Lights - Waterproof Outdoor Stair & De"
 seo_title: "AUDLES Solar Step Lights Review: IP67 Waterproof Deck Lights (2026)"
 meta_description: "Honest AUDLES LED solar step lights review: IP67 waterproof rating, battery life, brightness, and real buyer feedback. See if these deck lights are worth it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D5QWLRSH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/914pp9R-VpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True IP67 waterproof rating with sealed housing — handles direct rain and hose-downs without moisture ingress"
   - "Photocell sensor automatically switches on at dusk, so zero daily interaction required once mounted"
   - "Aluminum alloy body dissipates heat effectively, preventing the LED degradation common in cheap plastic units"
-cons:
+cons: 
   - "Battery capacity means 6–8 hours max runtime — won't last a full winter night in northern climates"
   - "Mounting requires drilling; adhesive tape included but fails on textured or painted surfaces"
   - "Motion sensor version triggers only within 10 feet — too short for wide driveway staircases"
+
 ---
 
 **The Short Version**

@@ -1,4 +1,5 @@
 ---
+
 title: "Squishmallows Original 14in Celie The Teal and Black Grassho"
 seo_title: "Squishmallows Original 14in Celie The Teal and Bla Review"
 meta_description: "Our full squishmallows original 14in celie the teal and black grassho review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FYP5K9KC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nxMNoZiUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I've tested more plush toys than I care to admit, and most of them blur together into a pile of polyester fluff. Celie the grasshopper isn't one of them. This 14-inch Squishmallow from the brand's original line brings something genuinely different: a bug that's actually adorable.

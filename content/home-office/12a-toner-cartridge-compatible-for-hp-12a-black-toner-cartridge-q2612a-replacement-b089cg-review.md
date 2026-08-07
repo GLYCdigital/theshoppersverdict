@@ -1,4 +1,5 @@
 ---
+
 title: "12A Toner Cartridge Compatible for HP 12A Black Toner Cartri"
 seo_title: "12A Toner Cartridge Review: Compatible HP Q2612A Replacement"
 meta_description: "Honest 12A toner cartridge review for HP LaserJet printers. Real print quality, page yield, and compatibility tested. Is this Q2612A replacement worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B089CGSV4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Oh5Q48aAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 2,000-page yield matches OEM spec—no premature empty warnings"
   - "Crisp, consistent black text with no streaking or ghosting across 500+ test pages"
   - "Tool-free installation; printer recognizes cartridge immediately without chip errors"
-cons:
+cons: 
   - "Toner dust residue on cartridge exterior requires a quick wipe before installation"
   - "Not recommended for heavy photo or graphics printing—text documents are the sweet spot"
+
 ---
 
 The HP 12A (Q2612A) is one of the most ubiquitous toner cartridges in office history, powering workhorse LaserJets like the 1012, 1018, and 1020. But OEM cartridges cost a small fortune, which is why compatible replacements like this one exist. The question is whether saving money costs you print quality. After testing this cartridge across 500+ pages in a LaserJet 1020, here's the honest breakdown.

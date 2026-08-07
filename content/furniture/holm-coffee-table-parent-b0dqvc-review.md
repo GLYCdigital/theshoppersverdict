@@ -1,4 +1,5 @@
 ---
+
 title: "Holm_Coffee Table_Parent"
 seo_title: "Holm_Coffee Table_Parent Review: Verdict | TSV"
 meta_description: "Our full holm_coffee table_parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQVCYYFQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z4YCgwACL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Holm coffee table sits in a crowded market of mid-priced furniture that promises more than it delivers. Most tables in this range use particleboard wrapped in photo-printed veneer. The Holm doesn't. That's the first thing you'll notice.

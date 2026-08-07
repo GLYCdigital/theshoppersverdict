@@ -1,4 +1,5 @@
 ---
+
 title: "Whole Foods Market, Cookie Brown Butter Chocolate Chunk Mini"
 seo_title: "Whole Foods Market, Cookie Brown Butter Chocolate  Review"
 meta_description: "Our full whole foods market, cookie brown butter chocolate chunk mini review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B088ZTDBCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lS2tRA7RL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Whole Foods Market Cookie Brown Butter Chocolate Chunk Mini 18 Count Frozen B088Zt Review"
 seo_title: "Whole Foods Brown Butter Chocolate Chunk Cookies: Honest Review"

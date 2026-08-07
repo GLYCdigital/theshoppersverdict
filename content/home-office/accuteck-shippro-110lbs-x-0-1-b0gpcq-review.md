@@ -1,4 +1,5 @@
 ---
+
 title: "ACCUTECK ShipPro 110lbs x 0.1 inch"
 seo_title: "ACCUTECK ShipPro 110lbs Review: Accurate Postal Scale"
 meta_description: "ACCUTECK ShipPro 110lbs x 0.1 review: Is this 0.1oz-accurate postal scale worth it? Real buyer feedback, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GPCQD3WZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "0.1 oz / 0.005 lb resolution — catches the difference between a 15.9 oz and 16.1 oz package, which is where shipping costs double"
   - "110 lb capacity with a 9.5 x 7.5 inch stainless steel platform that actually fits medium flat-rate boxes"
   - "Multiple unit modes (lb, oz, kg, g) and auto-off — no fiddling with manuals"
-cons:
+cons: 
   - "No AC adapter option — runs on 2 AAA batteries, and the auto-off kicks in after 60 seconds even mid-task"
   - "Display is backlit but not angled, so it's hard to read if the scale sits below eye level on a desk"
+
 ---
 
 If you've ever stood at a USPS counter watching the clerk re-weigh your "flat rate" box and quote you $20 more than you budgeted, you know the pain. The ACCUTECK ShipPro 110lbs x 0.1 is designed to end that guessing game. With 229 Amazon ratings averaging 4.6 stars, it's clearly doing something right. But is it the right scale for your shipping setup? Here's the honest breakdown.

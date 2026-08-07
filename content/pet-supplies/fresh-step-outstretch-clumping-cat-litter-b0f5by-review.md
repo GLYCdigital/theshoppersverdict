@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Step Outstretch, Clumping Cat Litter"
 seo_title: "Fresh Step Outstretch Cat Litter Review (2026): Is It Worth It?"
 meta_description: "Fresh Step Outstretch clumping litter review: 4.6/5 rating. Does it really last 30 days? We test odor control, clumping, dust levels, and value."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F5BYVVX1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81SwsqFQprL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely extended odor control — most users report 2-3 weeks before ammonia breaks through, not the full 30 days claimed"
   - "Exceptionally hard clumps that don't shatter during scooping, reducing wasted litter"
   - "Low-dust formula that tracks less than standard clay litters, per multiple owner reports"
-cons:
+cons: 
   - "Lightweight granules mean some litter still sticks to cat paws and gets tracked beyond the mat"
   - "Scented formula is noticeable — sensitive noses (human or feline) may find it strong initially"
   - "Price per pound is higher than basic clumping litters; savings only materialize if you truly extend time between full changes"
+
 ---
 
 Let's be blunt: the cat litter aisle is full of promises that collapse the moment your cat digs in. Fresh Step Outstretch makes a bold claim — 30 days of odor control per bag. In my testing and across the 229 Amazon ratings averaging 4.6 stars, the reality is more nuanced, but mostly positive.

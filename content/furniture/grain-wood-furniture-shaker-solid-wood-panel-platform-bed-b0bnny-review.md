@@ -1,4 +1,5 @@
 ---
+
 title: "Grain Wood Furniture Shaker Solid Wood Panel Platform Bed"
 seo_title: "Grain Wood Furniture Shaker Bed Review: Solid Wood Value"
 meta_description: "Grain Wood Furniture Shaker Platform Bed review: solid wood construction, easy assembly, real customer feedback. Is this 4.7-star bed worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BNNY912C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zaTiNaDeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100% solid poplar wood construction — no MDF or particleboard anywhere in the frame"
   - "Platform design eliminates the need for a box spring, saving $150-300 on setup"
   - "Slatted headboard with 1.5-inch gaps provides ventilation while maintaining visual privacy"
-cons:
+cons: 
   - "Assembly requires two people and roughly 90 minutes — not a solo evening project"
   - "Poplar is a softer hardwood; it dents more easily than oak or maple under heavy impact"
   - "No center support leg on queen and king models below 12-inch slat spacing"
+
 ---
 
 # Grain Wood Furniture Shaker Solid Wood Panel Platform Bed Review: The Honest Truth After 235 Ratings

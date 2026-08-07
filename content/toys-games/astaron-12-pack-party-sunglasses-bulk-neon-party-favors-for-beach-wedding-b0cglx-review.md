@@ -1,4 +1,5 @@
 ---
+
 title: "ASTARON 12 Pack Party Sunglasses Bulk Neon Party Favors for"
 seo_title: "ASTARON 12 Pack Party Sunglasses Review: Neon Bulk Favors"
 meta_description: "Read our honest ASTARON 12 pack party sunglasses review. Durable neon bulk favors for beach weddings, birthdays & more. See pros, cons & FAQs."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CGLXRJ7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/71BrXLdyZpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flexible polycarbonate frames that survive being sat on, bent, and tossed into a party bag without cracking"
   - "True neon colors (pink, orange, yellow, green, blue, purple) that pop in photos and under blacklight"
   - "Unisex one-size-fits-most design that works for adults and older kids (ages 8+)"
-cons:
+cons: 
   - "Not polarized — these are novelty shades, not real sun protection; UV rating is unverified"
   - "Sizing leans small for adults with wider heads; frames can pinch after extended wear"
+
 ---
 
 If you're planning a beach wedding, a bachelorette party, or a birthday bash and need a dozen pairs of sunglasses that won't shatter the moment someone drops them, the ASTARON 12-pack deserves a spot in your cart. These are not your drugstore flip-flop shades. The frames are made from a flexible polycarbonate that bends and springs back — I've seen reviews mentioning guests literally sitting on them without breakage. That's the kind of durability you want when handing out favors to a crowd that's been drinking.

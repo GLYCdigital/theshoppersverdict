@@ -1,4 +1,5 @@
 ---
+
 title: "SKITTLES Wild Berry Fruity Candy 50-Ounce Party Size Pouch"
 seo_title: "SKITTLES Wild Berry Fruity Candy 50-Ounce Party Si Review"
 meta_description: "Our full skittles wild berry fruity candy 50-ounce party size pouch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G81FBZPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619jNYFJewL._SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 50-Ounce Berry Bomb: Is This the Best Bulk Candy Value on Amazon?**

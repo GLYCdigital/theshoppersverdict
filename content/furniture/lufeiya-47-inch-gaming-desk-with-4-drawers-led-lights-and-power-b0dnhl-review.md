@@ -1,4 +1,5 @@
 ---
+
 title: "Lufeiya 47 Inch Gaming Desk with 4 Drawers & Led Lights and "
 seo_title: "Lufeiya 47 Inch Gaming Desk with 4 Drawers & Led L Review"
 meta_description: "Our full lufeiya 47 inch gaming desk with 4 drawers & led lights and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNHLHLTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jEUtHKTVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most gaming desks under $100 are flimsy particleboard slabs with cup holders you'll never use. The Lufeiya 47 Inch Gaming Desk tries something different: it actually gives you storage. Four drawers, LED lighting, and a 47-inch work surface for around the price of a decent mechanical keyboard. Is it a genuine upgrade or just another Amazon special? I dug through 220 ratings and the specs to give you the real picture.

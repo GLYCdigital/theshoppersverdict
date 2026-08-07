@@ -1,4 +1,5 @@
 ---
+
 title: "MINERAL FUSION Eyeshadow, 0.25 oz"
 seo_title: "MINERAL FUSION Eyeshadow, 0.25 oz Review: Verdict | TSV"
 meta_description: "Our full mineral fusion eyeshadow, 0.25 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BL32MNFV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91a-6zdhJoL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about what “luxury” means in the mineral makeup world. It’s not the packaging — MINERAL FUSION’s simple compact won’t impress anyone on your vanity. The luxury here is in the formula: a short ingredient list, skin-compatible minerals, and color that doesn’t require a chemistry degree to pronounce. At 229 Amazon ratings and a 4.6 average, this eyeshadow has earned its reputation. Here’s the real breakdown.

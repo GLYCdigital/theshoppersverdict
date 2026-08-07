@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Dansant Towel Hook, Robe"
 seo_title: "Delta Dansant Towel Hook Review: Robe Hook Worth It?"
 meta_description: "Delta Dansant Towel Hook review: solid brass robe hook with 4.7★ rating. See pros, cons, and verdict before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GHR8LW66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XRqshHPaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a substantial 2.5 lb weight — feels premium, not hollow or flimsy"
   - Dual-mount design works for both 2-1/2 inch " and 4 inch " stud spacing (24 inch " or 16 inch " on-center)
   - "Hidden set screws give clean look with no visible mounting hardware"
-cons:
+cons: 
   - Wider 4 inch " mounting footprint makes it tight on narrow wall spacings between doors or windows
   - Robe hook arm is fixed at 2-3/4 inch " projection — won't accommodate extra-thick robe hangers
+
 ---
 
 The Delta Dansant Towel Hook is the kind of hardware you notice in a high-end hotel bathroom and immediately want in your own home. It's also the kind of product where the difference between "good" and "great" comes down to installation details most shoppers overlook. Here's what you need to know before buying.

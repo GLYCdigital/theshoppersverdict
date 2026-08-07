@@ -1,4 +1,5 @@
 ---
+
 title: "Intermatic 20-Amp 24-Hour SPST 1-Circuit Digital Time Switch"
 seo_title: "Intermatic 20-Amp 24-Hour SPST 1-Circuit Digital T Review"
 meta_description: "Our full intermatic 20-amp 24-hour spst 1-circuit digital time switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B073H3H32C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VdfECiEkL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you need to automate a heavy electrical load—think water heater, pool pump, or driveway heater—the Intermatic 20-Amp 24-Hour Digital Time Switch earns its place in your panel. This isn't a smart-home gadget with an app; it's a workhorse timer built for reliability.

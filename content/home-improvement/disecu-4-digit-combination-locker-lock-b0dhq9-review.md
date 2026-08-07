@@ -1,4 +1,5 @@
 ---
+
 title: "disecu 4-Digit Combination Locker Lock"
 seo_title: "disecu 4-Digit Locker Lock Review: Reliable Gym Security"
 meta_description: "Honest disecu 4-digit combination locker lock review: build quality, security, ease of use, and real buyer feedback. Is it worth buying for gym or school?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHQ99KSB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kXEVVE1fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy body with 10,000 possible combinations — no key to lose"
   - "Self-setting combination mechanism lets you personalize the code in under a minute"
   - "Wide 2.5-inch shackle clearance fits most standard locker hasps and gym vents"
-cons:
+cons: 
   - "No master key or reset tool included — if you forget the code, you're cutting it off"
   - "Shackle is hardened steel but not stainless; some buyers report surface rust after months of damp gym bag storage"
+
 ---
 
 **The Disappearing Key Problem, Solved**

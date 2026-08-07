@@ -1,4 +1,5 @@
 ---
+
 title: "Arcoyard Tennis Bag Holds 2 Rackets, Professional Tennis Bag"
 seo_title: "Arcoyard Tennis Bag Review: Holds 2 Rackets, Worth It?"
 meta_description: "Arcoyard Tennis Bag review: 2-racket capacity, padded compartments, thermal lining. Is this professional-grade bag worth your money? We tested it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJX63PGZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AlOWbQYaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thermal-lined main compartment protects racket strings and frames from temperature swings"
   - "Padded shoulder strap and lightweight build (under 1.5 lbs) make it comfortable for court commutes"
   - "Separate zip pocket for shoes/laundry keeps dirty gear away from rackets and clothes"
-cons:
+cons: 
   - "2-racket capacity is limiting for players who carry demo rackets or multiple frames"
   - "No external water bottle holder — you'll need to stash bottles inside the main compartment"
+
 ---
 
 Let's be honest: most tennis bags under $40 are flimsy nylon sacks that fall apart after one season. The Arcoyard Tennis Bag Holds 2 Rackets is trying to be different. With a 4.7-star average across 235 ratings, it's clearly resonating with recreational and club-level players. But does it actually deliver? I dug into the specs, the build, and what real buyers are saying.

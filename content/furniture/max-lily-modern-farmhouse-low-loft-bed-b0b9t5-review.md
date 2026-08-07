@@ -1,4 +1,5 @@
 ---
+
 title: "Max & Lily Modern Farmhouse Low Loft Bed"
 seo_title: "Max & Lily Modern Farmhouse Low Loft Bed Review: Verdict "
 meta_description: "Our full max & lily modern farmhouse low loft bed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9T5GFWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w8OZiH-xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a loft bed, you've probably seen the Max & Lily Modern Farmhouse Low Loft Bed dominate search results. With 220 ratings holding steady at 4.4 stars, it's clearly doing something right. But is it the right bed for *your* kid and *your* room? Here's the honest breakdown after digging through specs, materials, and real owner feedback.

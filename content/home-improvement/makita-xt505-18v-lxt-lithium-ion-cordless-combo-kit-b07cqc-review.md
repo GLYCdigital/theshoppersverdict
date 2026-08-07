@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XT505 18V LXT Lithium-Ion Cordless Combo Kit"
 seo_title: "Makita XT505 18V LXT Lithium-Ion Cordless Combo Ki Review"
 meta_description: "Our full makita xt505 18v lxt lithium-ion cordless combo kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07CQCHG8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qhr5mNo6L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a serious DIYer or a professional who's already invested in Makita's 18V LXT platform, the XT505 is one of the smartest combo kits you can buy right now. It bundles five core tools — a hammer drill, impact driver, circular saw, reciprocating saw, and work light — into a single package with two 5.0Ah batteries. But here's the catch: there's no charger in the box. That's a deliberate move to keep the price down for people who already own Makita gear, and it's a dealbreaker if you're starting from scratch.

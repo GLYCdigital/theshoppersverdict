@@ -1,4 +1,5 @@
 ---
+
 title: "YourGift Drawer Knobs Diamond Shaped Crystal Glass 30mm Cabi"
 seo_title: "YourGift Drawer Knobs Diamond Shaped Crystal Glass Review"
 meta_description: "Our full yourgift drawer knobs diamond shaped crystal glass 30mm cabi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BK68BBL1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zw-uznkZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're renovating a half-bath, upgrading a dresser, or just tired of staring at the same tired cabinet pulls, the YourGift Diamond Crystal Knobs are the kind of small upgrade that makes visitors ask, "Did you redo your kitchen?" At 4.6 stars across 229 ratings, these 30mm faceted glass knobs have found a loyal following — and after breaking down the specs, the build, and what real buyers say, I get it. But they're not perfect for every cabinet. Here's the honest breakdown.

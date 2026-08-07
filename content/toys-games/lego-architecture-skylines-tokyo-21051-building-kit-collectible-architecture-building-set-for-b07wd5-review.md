@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Architecture Skylines: Tokyo 21051 Building Kit, Collec"
 seo_title: "LEGO Architecture Skylines: Tokyo 21051 Building K Review"
 meta_description: "Our full lego architecture skylines: tokyo 21051 building kit, collec review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B07WD5XMVX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61I6iS7o5HL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LEGO Architecture Tokyo 21051 Review: A Miniature Skyline That Nails the Vibe**

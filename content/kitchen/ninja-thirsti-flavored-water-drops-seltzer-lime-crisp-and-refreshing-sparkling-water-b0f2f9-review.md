@@ -1,4 +1,5 @@
 ---
+
 title: "Ninja Thirsti Flavored Water Drops, SELTZER Lime, Crisp and "
 seo_title: "Ninja Thirsti Flavored Water Drops, SELTZER Lime,  Review"
 meta_description: "Our full ninja thirsti flavored water drops, seltzer lime, crisp and  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F2F9JW79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c+Av-LG8L._AC_SL1152_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is not a standalone product. The Ninja Thirsti SELTZER Lime drops are a consumable accessory for the Ninja Thirsti sparkling water system, and evaluating them without that context misses the point entirely. If you own a Thirsti machine, these drops are the difference between drinking plain carbonated water and something that actually tastes like a lime seltzer. If you don't own one, this review tells you what you're missing.

@@ -1,16 +1,17 @@
 ---
+
 title: "Technivormm Moccamaster 79114 KBT Coffee Brewer, 40 oz, Black"
 seo_title: "Technivormm Moccamaster 79114 KBT Coffee Brewer, 4 Review"
 meta_description: "Honest technivormm moccamaster 79114 kbt coffee review based on 3,262+ Amazon reviews. Real pros, cons, FAQs, and our verdict."
 slug: "technivormm-moccamaster-79114-kbt-coffee-brewer-40-oz-black-review"
 image_alt: "Technivormm Moccamaster 79114 KBT Coffee Brewer, 40 oz, Black"
-keywords:
+keywords: 
   - "technivormm moccamaster 79114 review"
   - "coffee maker review"
   - "espresso machine"
   - "best coffee gear"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "Is the Technivormm Moccamaster 79114 KBT Coffee well-made?"
     answer: "Yes — build quality holds up well. Most reviewers highlight this as a strong point, which is why it's one of the most frequently praised aspects of this product."
   - question: "What are the downsides of the Technivormm Moccamaster 79114 KBT Coffee?"
@@ -23,13 +24,14 @@ review_count: 3262
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002S4MUHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AO0WRrvEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid build quality that holds up"
   - "Easy to set up and use"
   - "Good performance for the price range"
-cons:
+cons: 
   - "Missing some advanced features"
   - "Some durability concerns over time"
+
 ---
 
 **The $300 Coffee Brewer That Actually Earns Its Price Tag — With Caveats**

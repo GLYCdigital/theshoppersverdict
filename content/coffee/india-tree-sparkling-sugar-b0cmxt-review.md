@@ -1,4 +1,5 @@
 ---
+
 title: "India Tree Sparkling Sugar"
 seo_title: "India Tree Sparkling Sugar Review: Verdict | TSV"
 meta_description: "Our full india tree sparkling sugar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMXT1LSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7128gYnOTCL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about decorative sugar: most of it is garbage. It's either so fine it dissolves the second it hits your latte foam, or it's chunky enough to crack a tooth. India Tree Sparkling Sugar sits in a sweet spot that's made it a 4.6-star staple in my kitchen — and in 229 other shoppers' kitchens, apparently.

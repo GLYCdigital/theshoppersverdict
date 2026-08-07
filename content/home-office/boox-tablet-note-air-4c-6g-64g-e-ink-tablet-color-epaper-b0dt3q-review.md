@@ -1,4 +1,5 @@
 ---
+
 title: "BOOX Tablet Note Air 4C 6G 64G E Ink Tablet Color ePaper Not"
 seo_title: "BOOX Note Air 4C Review: Color E Ink Tablet Worth It?"
 meta_description: "BOOX Note Air 4C review: 10.3-inch color E Ink tablet for note-taking, reading, and PDF annotation. Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DT3Q52PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j2Hf3jKAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Color E Ink display (4096 colors) that's genuinely readable in direct sunlight — no glare or backlight strain"
   - "Lag-free writing experience with the included stylus; palm rejection actually works, no accidental marks"
   - "Open Android 13 system lets you install any note-taking or reading app, not locked to a proprietary ecosystem"
-cons:
+cons: 
   - "Screen refresh rate causes visible ghosting when scrolling web pages or switching apps quickly"
   - "64GB storage fills fast with PDFs and color notebooks; no microSD expansion slot on this model"
   - "No front light on the base version — you need the Pro for that, which is a notable omission at this price"
+
 ---
 
 ## The E Ink tablet that finally does color — but has a catch

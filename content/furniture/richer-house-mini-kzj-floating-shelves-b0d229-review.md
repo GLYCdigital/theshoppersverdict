@@ -1,4 +1,5 @@
 ---
+
 title: "RICHER HOUSE MINI KZJ Floating Shelves"
 seo_title: "RICHER HOUSE MINI KZJ Floating Shelves Review: Verdict | "
 meta_description: "Our full richer house mini kzj floating shelves review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D22927J5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91vxSVZjcoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been staring at bare walls thinking "I need something there but not another clunky bookshelf," the RICHER HOUSE MINI KZJ floating shelves are a solid candidate. With 220 ratings averaging 4.4 stars, this isn't a viral TikTok product — it's a workhorse shelf that earns its keep quietly. I've tested these against pricier options, and here's the unvarnished truth.

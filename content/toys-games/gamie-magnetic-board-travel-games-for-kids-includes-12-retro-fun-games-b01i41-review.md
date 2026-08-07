@@ -1,4 +1,5 @@
 ---
+
 title: "Gamie Magnetic Board Travel Games for Kids, Includes 12 Retro Fun Games"
 seo_title: "Gamie Magnetic Board Travel Games Review: 12 Retro Games for Kids"
 meta_description: "Hands-on Gamie Magnetic Board Travel Games review: 12 classic games in one compact case. See pros, cons, and if it's worth buying for road trips."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01I41A58S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813J0DBqCTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Twelve classic games in one folding case roughly the size of a hardcover book — genuinely portable, not a gimmick"
   - "Magnetic pieces stay put on the board through turbulence, bumpy car rides, and airplane tray tables"
   - "At roughly $20, you're paying about $1.65 per game — exceptional value for a durable travel set"
-cons:
+cons: 
   - "Pieces are small and fiddly — not ideal for kids under 6 or anyone prone to losing tiny parts"
   - "Game rules are printed on a single folded sheet, not individual cards, which gets tedious to pass around"
+
 ---
 
 ## Is this the ultimate boredom-killer for family trips, or just another toy that gathers dust?

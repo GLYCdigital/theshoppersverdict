@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Dry Shampoo Spray 4-Pack Variety Mix, Original Clean"
 seo_title: "Batiste Dry Shampoo 4-Pack Review: Original & Classic (2026)"
 meta_description: "Honest Batiste Dry Shampoo 4-Pack review: scent variety, grit power, and oil absorption tested. See pros, cons, and who should buy it."
@@ -9,16 +10,17 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-pros:
+pros: 
   - "Four different scents in one order — lets you rotate based on mood without committing to a full can of one fragrance"
   - "Rice starch formula absorbs oil without leaving the chalky white cast that cheaper dry shampoos leave on dark hair"
   - "Each 6.73-ounce can lasts roughly 20-25 applications, making the 4-pack a solid three-month supply for daily users"
-cons:
+cons: 
   - "The aerosol spray has a distinct chemical scent upon first application that lingers for about 10 minutes before fading"
   - "Doesn't add much volume or texture — it's primarily an oil absorber, not a styling tool"
   - "Scent strength varies noticeably across the four options; Original is mild while others can be overpowering for sensitive noses"
 amazon_url: "https://www.amazon.com/dp/B08NRH5DNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fq35sL0lL._SL1500_.jpg"
+
 ---
 
 **The 4-pack that solves the "which scent do I pick" problem**

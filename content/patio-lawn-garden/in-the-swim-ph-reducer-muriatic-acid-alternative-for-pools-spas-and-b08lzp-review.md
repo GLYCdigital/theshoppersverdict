@@ -1,4 +1,5 @@
 ---
+
 title: "In The Swim pH Reducer - Muriatic Acid Alternative for Pools"
 seo_title: "In The Swim pH Reducer - Muriatic Acid Alternative Review"
 meta_description: "Our full in the swim ph reducer - muriatic acid alternative for pools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08LZPVYRC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MOSlBHZNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a gallon of muriatic acid — the fumes, the splatter risk, the way it eats through cheap rubber gloves — you already know why pool owners look for alternatives. In The Swim pH Reducer swaps the scary liquid for a dry granular form of sodium bisulfate that does the same job with far less drama. But is "less drama" worth the tradeoffs? Let's dig in.

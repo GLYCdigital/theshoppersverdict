@@ -1,4 +1,5 @@
 ---
+
 title: "Chair Leg Socks 24 pcs Knitted Elastic Furniture Leg Socks/C"
 seo_title: "Chair Leg Socks Review: 24-Pack Knitted Furniture Protectors"
 meta_description: "Honest review of Chair Leg Socks 24-pack: do knitted elastic furniture protectors actually stay on? Tested for grip, durability, and floor protection."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07Q1HY7BY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71REGx6AOGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick knitted material actually muffles scraping noise on hardwood and tile — noticeably quieter than felt pads"
   - "Elastic cuff design grips chair legs up to about 2 inches in diameter without slipping, even on tapered legs"
   - "24 pieces means you can cover a full dining set (6 chairs) twice over, or mix-match sizes for different furniture"
-cons:
+cons: 
   - "Not machine washable — hand washing is tedious, and they pick up dust and pet hair quickly"
   - "Thin knit can wear through on heavy chairs with constant dragging; expect 2-4 months of daily use before replacement"
+
 ---
 
 ## The $15 Fix That Quieted My Entire Dining Room

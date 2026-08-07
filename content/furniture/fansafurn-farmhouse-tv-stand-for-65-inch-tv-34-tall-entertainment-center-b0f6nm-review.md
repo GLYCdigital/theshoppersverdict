@@ -1,4 +1,5 @@
 ---
+
 title: "FansaFurn Farmhouse TV Stand for 65+ Inch TV, 34'' Tall Ente"
 seo_title: "FansaFurn Farmhouse TV Stand Review: 65-Inch, 34-Inch Tall"
 meta_description: "Honest FansaFurn farmhouse TV stand review: fits 65+ inch TVs, 34-inch height, real wood details, assembly difficulty, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6NMCM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ghxd7uayL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sliding barn-door hardware is smooth and quiet, not the cheap rattly kind you see on sub-$200 units"
   - "34-inch height puts the screen at proper eye level for most sofas — genuinely comfortable viewing angle"
   - "Cable management holes in the back panel are large enough for surge protectors and HDMI bundles"
-cons:
+cons: 
   - "Assembly takes 2+ hours with two people; the barn door track alignment is finicky"
   - "Back panel is thin fiberboard — you'll want to handle it gently during setup"
   - "No integrated power strip or USB ports; plan for your own surge protector"
+
 ---
 
 **Is this the farmhouse TV stand that actually earns a spot in your living room, or just another Pinterest-worthy piece that falls apart in a year?** I've spent time digging through 225 Amazon ratings, customer photos, and the spec sheet on this FansaFurn unit. Here's the truth.

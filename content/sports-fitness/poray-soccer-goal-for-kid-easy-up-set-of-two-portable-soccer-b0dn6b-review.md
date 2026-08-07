@@ -1,4 +1,5 @@
 ---
+
 title: "Poray Soccer Goal for Kid Easy-up Set of Two Portable Soccer"
 seo_title: "Poray Soccer Goal for Kid Easy-up Set of Two Porta Review"
 meta_description: "Our full poray soccer goal for kid easy-up set of two portable soccer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DN6BS6NJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zzQ2XysHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The two-goal setup that turns any backyard into a pitch — but has a wind problem.**

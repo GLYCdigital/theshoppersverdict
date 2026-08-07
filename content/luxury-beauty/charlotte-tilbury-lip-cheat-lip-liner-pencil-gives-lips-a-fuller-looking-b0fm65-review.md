@@ -1,4 +1,5 @@
 ---
+
 title: "Charlotte Tilbury Lip Cheat Lip Liner Pencil - Gives Lips a"
 seo_title: "Charlotte Tilbury Lip Cheat Review: Fuller-Looking Lips in 1 Step"
 meta_description: "Honest Charlotte Tilbury Lip Cheat Lip Liner review: Does this $25 pencil really plump lips? Tested for staying power, shade range, and value. Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FM65NQC7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41Sh+g4ZViL._SL1500_.jpg"
-pros:
+pros: 
   - "Creamy, glide-on formula that doesn't tug or drag — even on dry lips"
   - "Precision tip allows for sharp overdrawn lines without looking cakey"
   - "Long-wearing matte finish that survives coffee and light meals (6+ hours)"
-cons:
+cons: 
   - "Shade matching is tricky — the 'Pillow Talk' shade runs warmer than most neutral nudes"
   - "Requires sharpening; the soft formula wastes product in the sharpener"
   - "Pricey at ~$25 for 0.04 oz — you'll replace it 3x faster than a drugstore liner"
+
 ---
 
 # Charlotte Tilbury Lip Cheat: The $25 Liner That Built a Cult Following

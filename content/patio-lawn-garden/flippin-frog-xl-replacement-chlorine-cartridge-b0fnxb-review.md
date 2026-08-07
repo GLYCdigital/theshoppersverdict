@@ -1,4 +1,5 @@
 ---
+
 title: "Flippin’ FROG XL Replacement Chlorine Cartridge"
 seo_title: "Flippin’ FROG XL Chlorine Cartridge Review (2026)"
 meta_description: "Honest Flippin’ FROG XL replacement chlorine cartridge review: performance, lifespan, pros/cons, and who should buy. 4.6/5 from 229 ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FNXBCMHF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NtVFx2W-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3-week lifespan in a 12,000-gallon pool with daily swimming — matches the label"
   - "Dissolves evenly without the white chalky residue that plagues cheaper 1-inch tabs"
   - "Drop-in fit for the FROG XL system — no adapter fiddling or force needed"
-cons:
+cons: 
   - "Premium price per cartridge vs. bulk granulated chlorine — you pay for convenience"
   - "Not compatible with saltwater systems, even though the FROG XL unit can be used in them"
   - "Hard water above 300 ppm calcium will shorten life to 2 weeks, not 3"
+
 ---
 
 If you own a FROG XL mineral system, you already know the catch: once the starter pack runs out, you're married to the brand's refill cartridges. The Flippin’ FROG XL Replacement Chlorine Cartridge is that marriage's monthly cost — so the real question is whether it earns its keep.

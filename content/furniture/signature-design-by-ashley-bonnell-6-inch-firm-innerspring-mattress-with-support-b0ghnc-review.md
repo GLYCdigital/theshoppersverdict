@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Bonnell 6 Inch Firm Innerspring M"
 seo_title: "Signature Design by Ashley Bonnell 6 Inch Firm Inn Review"
 meta_description: "Our full signature design by ashley bonnell 6 inch firm innerspring m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GHNCRYMH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The bottom line up front:** The Signature Design by Ashley Bonnell is a no-nonsense, low-profile innerspring mattress that does exactly what it promises — firm support at a budget price — but it's not for everyone. If you're a back or stomach sleeper who needs a firm, supportive surface for a guest room, bunk bed, or platform frame, this is a solid pick. If you're a side sleeper or want plush comfort, keep scrolling.

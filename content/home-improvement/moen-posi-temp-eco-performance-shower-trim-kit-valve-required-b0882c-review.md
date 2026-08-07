@@ -1,4 +1,5 @@
 ---
+
 title: "Moen Posi-Temp Eco-Performance Shower Trim Kit, Valve Requir"
 seo_title: "Moen Posi-Temp Eco-Performance Shower Trim Kit, Va Review"
 meta_description: "Our full moen posi-temp eco-performance shower trim kit, valve requir review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0882CMWN1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611YqExyqfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get this out of the way upfront: the Moen Posi-Temp Eco-Performance Shower Trim Kit is not a complete shower valve. It’s the trim — the handle, escutcheon, and faceplate. If you’re expecting to unbox this and have a working shower, you’ll be disappointed. But if you’re mid-remodel and need a reliable, good-looking control plate that pairs with Moen’s Posi-Temp rough-in valve, this is one of the more solid options in its price range.

@@ -1,4 +1,5 @@
 ---
+
 title: "BLONIKA Hybrid Mattress - Gel Memory Foam Mattress with Indi"
 seo_title: "BLONIKA Hybrid Mattress Review: Gel Foam & Pocket Springs"
 meta_description: "BLONIKA Hybrid Mattress review: gel memory foam meets individual pocket springs. Real buyer feedback on comfort, support & off-gassing. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRV18JRK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dDgQhmh1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gel-infused memory foam top layer actively dissipates body heat — multiple buyers report sleeping cooler than on traditional foam mattresses"
   - "Individually wrapped pocket springs provide targeted support with minimal motion transfer; couples report undisturbed sleep when partners shift positions"
   - "Compressed roll-pack delivery makes setup a one-person job — no hauling a heavy traditional mattress up stairs"
-cons:
+cons: 
   - "Noticeable off-gassing odor on first unboxing; most buyers say it fades within 24–72 hours but it's strong enough to matter for sensitive noses"
   - "Edge support is average at best — sitting on the corner causes noticeable compression, so this isn't ideal for those who need to perch on the bed edge daily"
+
 ---
 
 # BLONIKA Hybrid Mattress Review: Does Gel Foam Plus Pocket Springs Actually Deliver?

@@ -1,4 +1,5 @@
 ---
+
 title: "Crystal Chandeliers Modern Luxury Chandelier Round K9 Ceilin"
 seo_title: "Crystal Chandeliers Modern Luxury Round K9 Review (2026)"
 meta_description: "Honest review of the Crystal Chandeliers Modern Luxury Round K9 ceiling light. 4.6/5 stars from 229 buyers. Is the sparkle worth the install hassle? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJF4N42K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rbT07G-aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine K9 crystal with high light dispersion—noticeably brighter and more prismatic than standard glass or acrylic fixtures"
   - "Fully dimmable with standard LED bulbs, giving you control from warm ambient glow to full showroom sparkle"
   - "Solid chrome finish and weighted construction—feels substantial, not like a flimsy discount-store piece"
-cons:
+cons: 
   - "Assembly is genuinely tedious—each crystal strand requires individual attachment; budget 60-90 minutes with two people"
   - "No bulbs included despite the premium price point—factor in an extra $20-40 for quality LED candelabra bulbs"
   - "The round canopy is larger than shown in some product photos—measure your ceiling height before committing, especially for low ceilings"
+
 ---
 
 ## The Short Version

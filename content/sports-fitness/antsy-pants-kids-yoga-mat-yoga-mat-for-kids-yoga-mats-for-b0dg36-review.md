@@ -1,4 +1,5 @@
 ---
+
 title: "Antsy Pants Kids Yoga Mat - Yoga Mat for Kids, Yoga Mats for"
 seo_title: "Antsy Pants Kids Yoga Mat Review: Honest 2026 Verdict"
 meta_description: "Our Antsy Pants kids yoga mat review covers grip, size, durability & real parent feedback. Is this 4.7-star mat worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DG36CH6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dV33ux2BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Non-slip textured surface holds up to wiggly kids during downward dog and rough play"
   - Generous 68 inch " x 24 inch " size fits elementary-age kids with room to grow, unlike flimsy toddler mats
   - "Closed-cell TPE material is free of latex and phthalates — a real win for sensitive skin"
-cons:
+cons: 
   - "Shows scuff marks from shoes and toys quickly; needs regular wiping to stay presentable"
   - "Thinner than adult mats at 4mm, so hardwood-floor comfort is borderline for longer sessions"
+
 ---
 
 **The Short Version: Is This the Kids' Mat That Finally Sticks?**

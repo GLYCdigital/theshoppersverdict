@@ -1,4 +1,5 @@
 ---
+
 title: "Dexboard Round Stand Mobile Whiteboard"
 seo_title: "Dexboard Round Stand Mobile Whiteboard Review: Is It Worth It?"
 meta_description: "Dexboard Round Stand Mobile Whiteboard review: 4.5-star rated, 225 reviews. We tested durability, mobility, and writing surface. Honest pros and cons inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07SDL4XDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EJxtcClLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "360-degree swivel lets you flip the board instantly for impromptu presentations"
   - "Locking casters keep the board stable when you need it stationary"
   - "Aluminum frame stays rigid — no wobble even with heavy marker pressure"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver and about 25 minutes of patience"
   - "Tray is removable but clips on tightly; takes two hands to detach"
+
 ---
 
 Most mobile whiteboards feel like an afterthought — a rectangle on wobbly legs that you wrestle with every time you roll it across a carpeted threshold. The Dexboard Round Stand breaks that pattern. It's the rare whiteboard that actually feels designed for how people work, not just for a catalog photo. With a 4.5-star average across 225 reviews, it's clearly earning its keep in real offices. Here's what you need to know before you buy.

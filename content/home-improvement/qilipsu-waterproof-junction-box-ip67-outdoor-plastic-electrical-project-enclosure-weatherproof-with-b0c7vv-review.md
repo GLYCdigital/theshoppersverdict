@@ -1,4 +1,5 @@
 ---
+
 title: "QILIPSU Waterproof Junction Box IP67 Outdoor Plastic Electri"
 seo_title: "QILIPSU Waterproof Junction Box IP67 Outdoor Plast Review"
 meta_description: "Our full qilipsu waterproof junction box ip67 outdoor plastic electri review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7VV4ZD7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d3T+gHoAL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: most "waterproof" junction boxes on Amazon are plastic boxes with a rubber strip and a prayer. The QILIPSU IP67 is not that. This is one of those rare budget components that actually respects its rating.

@@ -1,4 +1,5 @@
 ---
+
 title: "Vexagyle Two-Layer Drum Ceiling Light Fixture"
 seo_title: "Vexagyle Two-Layer Drum Ceiling Light Fixture Review: Ver"
 meta_description: "Our full vexagyle two-layer drum ceiling light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9Y9RBVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cXGsH9XJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some ceiling lights are pure decoration. Others are pure utility. The Vexagyle Two-Layer Drum tries to be both, and for the most part, it pulls it off. At 4.6 stars across 229 ratings, it's clearly doing something right — but let's talk about what that something actually is, and where it falls short.

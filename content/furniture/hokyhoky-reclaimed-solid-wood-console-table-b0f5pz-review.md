@@ -1,4 +1,5 @@
 ---
+
 title: "HOKYHOKY Reclaimed Solid Wood Console Table"
 seo_title: "HOKYHOKY Reclaimed Solid Wood Console Table Review: Verdi"
 meta_description: "Our full hokyhoky reclaimed solid wood console table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F5PZLFJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718cWo9RFtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about the HOKYHOKY Reclaimed Solid Wood Console Table: this is not another mass-produced particleboard piece that arrives in a flat box with cam locks and a prayer. This is a 47-inch slab of actual reclaimed wood bolted to a steel frame, and it shows up ready to hold your keys, mail, and a lamp without sagging or squeaking.

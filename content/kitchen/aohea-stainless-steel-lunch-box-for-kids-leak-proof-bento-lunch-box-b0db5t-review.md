@@ -1,4 +1,5 @@
 ---
+
 title: "AOHEA Stainless Steel Lunch Box for Kids, Leak Proof Bento L"
 seo_title: "AOHEA Stainless Steel Lunch Box Review: Leak-Proof Bento for Kids"
 meta_description: "AOHEA stainless steel bento lunch box review: leak-proof, kid-friendly design, real durability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB5TZFHR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/919kypPue0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True stainless steel interior means no staining or lingering odors, even after months of tomato sauce and curry"
   - "Leak-proof silicone gasket holds up to real-world tossing in backpacks — parents confirm no soggy napkins"
   - "Divided compartments keep wet and dry foods separated, so crackers stay crunchy until lunchtime"
-cons:
+cons: 
   - "No insulation — this is a bento box, not a thermos; hot food goes in warm and comes out room temperature"
   - "Smaller capacity than it looks; the 3-compartment design fits kid-sized portions but won't hold adult leftovers"
+
 ---
 
 Let me be direct: most kids' lunch boxes are either plastic that absorbs last Tuesday's spaghetti smell or metal tins that leak yogurt all over a backpack. The AOHEA Stainless Steel Lunch Box tries to split the difference, and for the most part, it succeeds.

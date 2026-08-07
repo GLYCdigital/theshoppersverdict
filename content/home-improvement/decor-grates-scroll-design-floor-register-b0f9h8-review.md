@@ -1,4 +1,5 @@
 ---
+
 title: "Decor Grates Scroll Design Floor Register"
 seo_title: "Decor Grates Scroll Design Floor Register Review (2026)"
 meta_description: "Honest Decor Grates Scroll Design Floor Register review: build quality, airflow, sizing, and real buyer feedback. Is this cast-iron register worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9H88QVR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LMfjGLBrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cast-iron construction with a smooth, chip-resistant powder coat finish"
   - "Scroll design hides duct openings well while still allowing solid airflow"
   - "Available in multiple standard sizes and three finishes (black, bronze, white)"
-cons:
+cons: 
   - "No adjustable dampers — airflow control is not an option on this model"
   - "Cast iron is heavy; some buyers note it needs a snug fit to avoid rattling"
+
 ---
 
 Most floor registers are afterthoughts — cheap stamped steel rectangles that scream "builder grade" every time you walk past them. The Decor Grates Scroll Design Floor Register is not that. This is a cast-iron grate that costs more than the cheap stuff and looks like it, in the best possible way.

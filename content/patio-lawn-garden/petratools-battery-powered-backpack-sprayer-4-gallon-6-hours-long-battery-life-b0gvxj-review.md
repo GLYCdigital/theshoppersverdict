@@ -1,4 +1,5 @@
 ---
+
 title: "PetraTools Battery Powered Backpack Sprayer 4 Gallon - 6 Hou"
 seo_title: "PetraTools Battery Powered Backpack Sprayer 4 Gall Review"
 meta_description: "Our full petratools battery powered backpack sprayer 4 gallon - 6 hou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVXJHJVF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iagUq2DDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever spent an afternoon hand-pumping a manual sprayer, you know the rhythm: pump, spray, pump, spray, curse, repeat. The PetraTools 4-Gallon Battery Backpack Sprayer eliminates that entire routine. With 225 Amazon ratings averaging 4.5 stars, it's clearly earning its keep in suburban garages. But is the 6-hour battery claim real, or marketing math? I dug into the specs, the customer feedback, and the build to give you the straight story.

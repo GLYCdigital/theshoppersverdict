@@ -1,4 +1,5 @@
 ---
+
 title: "Raw Manuka Honey Medicinal Strength - High Certified Rating "
 seo_title: "Raw Manuka Honey Medicinal Strength - High Certifi Review"
 meta_description: "Our full raw manuka honey medicinal strength - high certified rating  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4TB9CF6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h6Elc2WnL._SL1500_.jpg"
-pros:
+pros: 
   - "Effective for achieving fitness goals"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the honey aisle noise. Every jar claims “raw,” “medicinal,” and “high potency.” Most are marketing fluff. This one has the certification to back it up — UMF 15+, which is the gold standard for methylglyoxal content, the compound responsible for manuka’s antibacterial properties. At 4.5 stars across 225 ratings, it’s not a flash-in-the-pan product. Here’s the real breakdown.

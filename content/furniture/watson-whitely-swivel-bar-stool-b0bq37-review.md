@@ -1,4 +1,5 @@
 ---
+
 title: "Watson & Whitely Swivel Bar Stool"
 seo_title: "Watson & Whitely Swivel Bar Stool Review: Verdict | TSV"
 meta_description: "Our full watson & whitely swivel bar stool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BQ37D7X1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71F-n3qSVbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Bar Stool That Actually Earned Its 4.6 Stars

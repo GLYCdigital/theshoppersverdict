@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Mate C200 Automatic 2 Meal Timer-Controlled Pet Feeder"
 seo_title: "Cat Mate C200 Review: Is This 2-Meal Feeder Worth It?"
 meta_description: "Honest Cat Mate C200 review: timer accuracy, portion control, and real cat owner feedback. See if this 2-meal feeder fits your pet's needs."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FMFTPRF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vrvJk3McL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two separate meal compartments with individual timer dials — each side opens independently at up to 48 hours in advance"
   - "Hinged clear lids keep dry food fresh while allowing pets to see the meal inside, reducing anxiety"
   - "Includes reusable ice packs that fit under the bowls for wet food freshness during warmer weather"
-cons:
+cons: 
   - "Timer dial is mechanical and can be confusing to set precisely — a few minutes off is common for some users"
   - "Plastic construction feels light; determined cats may knock it over or paw at the lids to force them open"
+
 ---
 
 If your cat greets you at 5 AM like a furry alarm clock with claws, the Cat Mate C200 is designed to buy you a few extra hours of sleep. This isn't a smart feeder with Wi-Fi and an app — it's a mechanical, two-compartment device that does exactly one thing: opens a lid at a set time to reveal food. At 4.4 stars from 220 raters, it's clearly working for many households. But is it right for yours?

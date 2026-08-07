@@ -1,4 +1,5 @@
 ---
+
 title: "CM-5.3 - Cyclone Chain Scrubber"
 seo_title: "CM-5.3 Cyclone Chain Scrubber Review: Pros, Cons & Verdict"
 meta_description: "CM-5.3 Cyclone Chain Scrubber review: Does this 5.3-ft chain scrubber clean grime off patios and siding? Real pros, cons, and buying verdict inside."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09JFHRFN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KFozLDAiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy 5.3-foot chain head with stainless steel loops that aggressively dislodge set-in grime without scratching surfaces"
   - "Universal threaded adapter fits any standard broom handle or extension pole, so you don't need to buy a separate stick"
   - "Works dry or with water — effective on concrete, brick, stucco, and even composite decking"
-cons:
+cons: 
   - "Requires significant upper-body effort; not a tool for those wanting a completely effortless clean"
   - "Chain head can fling water and debris — wear eye protection and old clothes when using it wet"
   - "Not ideal for delicate surfaces like painted wood or soft vinyl without testing in an inconspicuous spot first"
+
 ---
 
 **The Review Body:**

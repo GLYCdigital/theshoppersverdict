@@ -1,4 +1,5 @@
 ---
+
 title: "KVRG washing machine base"
 seo_title: "KVRG washing machine base Review: Verdict | TSV"
 meta_description: "Our full kvrg washing machine base review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNJV7J4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NE16dmD4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get one thing straight: this is a washing machine base, not a kitchen gadget. But if you're remodeling a laundry room or adding a washer to a pantry-adjacent space, this is the kind of purchase that makes or breaks your back. The KVRG base has 210 ratings averaging 4.2 stars, and that number tracks with what I've found digging through the feedback. It's genuinely good, but it's also a piece of hardware that demands you read the dimensions before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hizashi LED Edison Bulbs ST19 Light Bulbs 60W E26 LED Bulbâ€"
 seo_title: "Hizashi LED Edison Bulbs ST19 Light Bulbs 60W E26  Review"
 meta_description: "Our full hizashi led edison bulbs st19 light bulbs 60w e26 led bulbâ€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9VSS4L9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m+uoXFnTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're scrolling past another "vintage style" LED bulb that looks like a prop from a steampunk café, stop. The Hizashi ST19 Edison bulbs actually deliver on the aesthetic without the incandescent energy bill. After 229 ratings averaging 4.6 stars, these bulbs have earned their place in the conversation — but they're not perfect for everyone.

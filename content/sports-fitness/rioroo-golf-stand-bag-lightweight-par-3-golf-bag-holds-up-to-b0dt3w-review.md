@@ -1,4 +1,5 @@
 ---
+
 title: "RIOROO Golf Stand Bag, Lightweight Par 3 Golf Bag Holds Up t"
 seo_title: "RIOROO Golf Stand Bag, Lightweight Par 3 Golf Bag  Review"
 meta_description: "Our full rioroo golf stand bag, lightweight par 3 golf bag holds up t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DT3W9ZWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FoN7auC3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.5-Pound Bag That Disappears on Your Back**

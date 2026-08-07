@@ -1,4 +1,5 @@
 ---
+
 title: "Tennis Rackets 2 Players Recreational for Beginners,Pre-Stru"
 seo_title: "Tennis Rackets 2 Players Recreational for Beginner Review"
 meta_description: "Our full tennis rackets 2 players recreational for beginners,pre-stru review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09FL7DZMC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Vc0AUkxL._AC_SL1111_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: The Set That Actually Gets You Playing**

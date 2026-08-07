@@ -1,4 +1,5 @@
 ---
+
 title: "Nueve&Five Gooseneck Electric Kettle with Thermometer, Elect"
 seo_title: "Nueve&Five Gooseneck Electric Kettle with Thermome Review"
 meta_description: "Our full nueve&five gooseneck electric kettle with thermometer, elect review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BNVHYBXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uAkbpYxHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 There are two kinds of people who buy a gooseneck kettle: those who already own a pour-over setup and need a proper spout, and those who are done guessing water temperature for their tea. The Nueve&Five Gooseneck Electric Kettle with Thermometer targets both, and for the most part, it hits the mark.

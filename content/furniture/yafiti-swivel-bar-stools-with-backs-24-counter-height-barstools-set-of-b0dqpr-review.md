@@ -1,7 +1,8 @@
 ---
-title: "YaFiti Swivel Bar Stools with Backs, 24\" Counter Height Bars"
-seo_title: "YaFiti Swivel Bar Stools with Backs, 24\" Counter H Review"
-meta_description: "Our full yafiti swivel bar stools with backs, 24\" counter height bars review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "YaFiti Swivel Bar Stools with Backs, 24\ Counter Height Bars"
+seo_title: "YaFiti Swivel Bar Stools with Backs, 24\ Counter H Review"
+meta_description: "Our full yafiti swivel bar stools with backs, 24\ counter height bars review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "yafiti-swivel-bar-stools-with-backs-24-counter-height-barstools-set-of-b0dqpr-review"
 image_alt: "YaFiti Swivel Bar Stools with Backs, 24 Counter Height Barstools Set of 3, Fabric Upholstered Counter Bar Stools with So"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQPRPJHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LUHC-D+fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # YaFiti Swivel Bar Stools with Backs: The $100-A-Pair Reality Check

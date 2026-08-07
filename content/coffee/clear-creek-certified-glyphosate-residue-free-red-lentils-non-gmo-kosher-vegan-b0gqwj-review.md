@@ -1,6 +1,8 @@
 ---
 
+
 Here is the product image alt text: "CLEAR CREEK certified glyphosate residue free red lentils in a clear bag with green and white label, showing bright orange-red split lentils."
+
 
 ---
 

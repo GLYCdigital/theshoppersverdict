@@ -1,4 +1,5 @@
 ---
+
 title: "4 Less Co 5 Pack of Metal A-Frame Stand for Open House Sign"
 seo_title: "4 Less Co A-Frame Stand Review (5-Pack): Worth It?"
 meta_description: "4 Less Co 5-pack metal A-frame sign stands reviewed: sturdy build, real-world durability, and honest downsides. See if this open house staple fits."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BHZYGNLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Sast5ZhCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Steel frame with welded corner joints that hold up to repeated outdoor use without wobbling"
   - "Includes plastic sign sleeves that fit standard 24x18 inch signs — no separate purchase needed"
   - "Folds flat with a simple latch mechanism, so the 5-pack stores easily in a trunk or closet"
-cons:
+cons: 
   - "No included stakes or weights; the 3.5 lb frame alone won't survive strong wind gusts"
   - "Plastic sleeve is thin and can crack in freezing temps if you force a stiff sign inside"
+
 ---
 
 If you're a realtor, property manager, or weekend flipper, you know the drill: cheap plastic A-frames crack after one season, and the "premium" ones cost as much as a tank of gas. The 4 Less Co 5-pack sits in a sweet spot — it's a metal frame priced like a disposable, but built like something that'll survive multiple listing seasons.

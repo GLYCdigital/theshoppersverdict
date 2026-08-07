@@ -1,4 +1,5 @@
 ---
+
 title: "HP 15 i3 Touch & nontouch Parent12"
 seo_title: "HP 15 i3 Touch & nontouch Parent12 Review: Verdict | TSV"
 meta_description: "Our full hp 15 i3 touch & nontouch parent12 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GCJHMP79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KpU7xc48L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the HP 15 with an Intel i3 is a budget workhorse that splits buyers into two camps — those who get the touchscreen version and those who don't. And that distinction matters more than the processor inside.

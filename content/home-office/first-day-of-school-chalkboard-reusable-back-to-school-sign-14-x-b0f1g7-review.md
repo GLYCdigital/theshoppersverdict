@@ -1,4 +1,5 @@
 ---
+
 title: "First Day of School Chalkboard, Reusable Back to School Sign"
 seo_title: "First Day of School Chalkboard, Reusable Back to S Review"
 meta_description: "Our full first day of school chalkboard, reusable back to school sign review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F1G71Y73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hDhUgWsaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most back-to-school signs are one-and-done cardboard. You snap the photo, the sign goes in the recycling bin, and next August you're buying another one. That's the problem this reusable chalkboard solves — and it solves it well enough to justify the price.

@@ -1,15 +1,16 @@
 ---
+
 title: "LOVELYWIND Lunch Box for Women Cute Lunch Bags for Women Lunch Tote Bags Reusable Insulated Lunch Box Large Capacity Reusable Insulated Cooler for Work or Travel Gifts or Beach"
 seo_title: "LOVELYWIND Lunch Box Review: Verdict (4.7/5) | TSV"
 meta_description: "Good quality, roomy, cute, functional I’ve been using this for a few weeks now 830+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "lovelywind-lunch-box-for-women-cute-lunch-bags-for-women-lunch-tote-review"
 image_alt: "LOVELYWIND Lunch Box for Women Cute Lunch Bags for Women Lunch Tote Bags Reusable Insulated Lunch Box Large Capacity Reu"
-keywords:
+keywords: 
   - "lovelywind lunch box review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the LOVELYWIND Lunch Box for?"
     answer: "Good quality, roomy, cute, functional I’ve been using this for a few weeks now for work That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the LOVELYWIND Lunch Box for?"
@@ -23,12 +24,13 @@ review_count: 830
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GDZLL8BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Jh0s2nl3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good quality, roomy, cute."
   - "The color is beautiful."
   - "I love the color, the amount I can fit in it, the insulation, good zippers."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **Is the LOVELYWIND lunch box actually worth your $14?** With 830 ratings averaging 4.7 stars, this cute insulated tote has become a lunch-bag staple. But I've seen plenty of adorable bags that fall apart by week three. Here's what you're really getting.

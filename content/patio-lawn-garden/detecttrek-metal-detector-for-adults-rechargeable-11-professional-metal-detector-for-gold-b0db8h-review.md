@@ -1,4 +1,5 @@
 ---
+
 title: "DetectTrek Metal Detector for Adults Rechargeable, 11 inch  Profe"
 seo_title: "DetectTrek Metal Detector Review: Rechargeable & 11 inch  Coil (2026)"
 meta_description: "Honest DetectTrek metal detector review: 11 inch  waterproof coil, rechargeable battery, 4.5-star rating. See what real users praise and where it falls short."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB8HD2JD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a2fZdhdDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in 2200mAh rechargeable battery delivers 12+ hours per charge — no AA battery hunting mid-hunt"
   - "11-inch waterproof search coil handles wet grass and shallow creek crossings without shutdown"
   - "Three-tone audio discrimination separates iron, foil, and coin signals clearly for beginners"
-cons:
+cons: 
   - "Shaft assembly loosens after roughly 15 hours of use; you'll need a hex wrench to re-tighten"
   - "No ground-balance adjustment — mineralized soil triggers false positives that frustrate advanced users"
+
 ---
 
 Look, most sub-$200 metal detectors make you choose between "cheap toy" and "heavy, complicated machine." The DetectTrek sits in a genuinely useful middle ground — a rechargeable, 11-inch coil unit that's earned a 4.5-star rating from 225 buyers. I've spent time with it, and here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Outdoor Glider Bench Wood Patio Glider with Cup Holde"
 seo_title: "VINGLI Outdoor Glider Bench Wood Patio Glider with Review"
 meta_description: "Our full vingli outdoor glider bench wood patio glider with cup holde review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DLGMMG8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MsqPfbhgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most patio gliders under $300 are junk. The VINGLI Outdoor Glider Bench isn't that — but it's also not a heirloom piece. Here's what 210 Amazon reviewers (4.2 stars) are actually saying, and what you need to know before clicking buy.

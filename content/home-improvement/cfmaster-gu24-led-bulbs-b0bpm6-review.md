@@ -1,4 +1,5 @@
 ---
+
 title: "CFMASTER GU24 LED Bulbs"
 seo_title: "CFMASTER GU24 LED Bulbs Review: Worth It? (2026)"
 meta_description: "CFMASTER GU24 LED bulbs reviewed: brightness, color temps, lifespan, and real buyer feedback. See if these 4.6-star bulbs fit your fixtures."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPM6HPP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zw0oCdHRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Twist-lock GU24 base eliminates the need for adapter rewiring—screws directly into existing fixtures"
   - "Multiple color temperature options (2700K–6500K) let you match warm or daylight scenes without changing bulbs"
   - "Instant full brightness with no warm-up flicker, even in cold garages or outdoor fixtures"
-cons:
+cons: 
   - "Not dimmable—if you have a dimmer switch, these will flicker or hum"
   - "Bulb diameter is slightly wider than some recessed cans; check your housing clearance before buying"
+
 ---
 
 If you’ve got a ceiling fan or recessed light that takes those twist-lock GU24 sockets, you already know the frustration: most stores carry one basic option, and it’s usually a dim, buzzing fluorescent. The CFMASTER GU24 LED bulbs are the modern replacement—and with a 4.6-star average across 229 ratings, they’re clearly hitting the mark for most people. But are they right for *your* fixtures? Let’s get specific.

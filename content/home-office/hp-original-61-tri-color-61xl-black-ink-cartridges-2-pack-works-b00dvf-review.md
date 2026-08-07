@@ -1,4 +1,5 @@
 ---
+
 title: "HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack"
 seo_title: "HP Original 61 Tri-Color / 61XL Black Ink Cartridg Review"
 meta_description: "Our full hp original 61 tri-color / 61xl black ink cartridges (2-pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00DVF3D0K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hf1dxTgJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own an HP Deskjet 1112, 2132, or 3630-series printer, you already know the drill: the moment one cartridge hits empty, the whole machine refuses to cooperate until you swap it. That's where this HP Original 61 combo earns its keep. It's the factory-made pair — one standard tri-color and one high-yield black — designed to keep those entry-level Deskjets humming without the "genuine ink required" nag screen that plagues compatible brands.

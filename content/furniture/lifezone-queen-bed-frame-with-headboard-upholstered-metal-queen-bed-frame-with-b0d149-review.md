@@ -1,4 +1,5 @@
 ---
+
 title: "Lifezone Queen Bed Frame with Headboard Upholstered Metal Qu"
 seo_title: "Lifezone Queen Bed Frame with Headboard Upholstere Review"
 meta_description: "Our full lifezone queen bed frame with headboard upholstered metal qu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D149QGDM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Sw1x36+7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a furniture product, the **Lifezone Queen Bed Frame with Headboard Upholstered Metal Qu** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

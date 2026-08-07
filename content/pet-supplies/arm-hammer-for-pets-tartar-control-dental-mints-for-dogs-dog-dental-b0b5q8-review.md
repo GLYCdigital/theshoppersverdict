@@ -1,4 +1,5 @@
 ---
+
 title: "Arm & Hammer for Pets Tartar Control Dental Mints for Dogs |"
 seo_title: "Arm & Hammer Dental Mints for Dogs Review (2026): Do They Work?"
 meta_description: "Honest Arm & Hammer Tartar Control Dental Mints review: 4.2/5 stars. Do these breath mints actually reduce plaque? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B5Q8CT6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71khmmGIqmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Baking soda formula actively neutralizes odor-causing bacteria, not just masking bad breath"
   - "Chewy mint texture provides mild abrasive action on teeth surfaces during chewing"
   - "No artificial colors, no added sugars, and under 15 calories per treat"
-cons:
+cons: 
   - "Texture is too soft to meaningfully scrape away established tartar or plaque buildup"
   - "Some dogs turn their noses up at the mint flavor — palatability is hit-or-miss"
+
 ---
 
 ## Arm & Hammer for Pets Tartar Control Dental Mints: The Honest Take

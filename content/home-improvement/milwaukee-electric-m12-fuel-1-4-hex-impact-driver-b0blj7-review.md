@@ -1,4 +1,5 @@
 ---
+
 title: "Milwaukee Electric - M12 Fuel. 1/4 HEX Impact Driver"
 seo_title: "Milwaukee Electric - M12 Fuel. 1/4 HEX Impact Driv Review"
 meta_description: "Our full milwaukee electric - m12 fuel. 1/4 hex impact driver review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BLJ7B4SK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bfaiW0yhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Milwaukee M12 Fuel Impact Driver Review: Small Body, Serious Muscle

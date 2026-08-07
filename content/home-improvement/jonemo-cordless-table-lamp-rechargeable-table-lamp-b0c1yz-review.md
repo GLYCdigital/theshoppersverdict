@@ -1,4 +1,5 @@
 ---
+
 title: "JONEMO Cordless Table Lamp, Rechargeable Table Lamp"
 seo_title: "JONEMO Cordless Table Lamp, Rechargeable Table Lam Review"
 meta_description: "Our full jonemo cordless table lamp, rechargeable table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C1YZ7KGQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51j9o8NN5LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most cordless lamps are either bright enough to light a room but die in four hours, or they sip power but cast a pathetic glow. The JONEMO Cordless Table Lamp actually threads that needle — and it's been doing it well enough to earn a 4.5-star average across 225 Amazon ratings.

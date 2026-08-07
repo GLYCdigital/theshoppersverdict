@@ -1,4 +1,5 @@
 ---
+
 title: "Eclatara Large Rattan Night Standsï¼šBoho Nightstand with Dr"
 seo_title: "Eclatara Rattan Nightstand Review: Boho Storage, 4.6 Stars"
 meta_description: "Eclatara rattan nightstand review: 2 drawers, open shelf, solid wood legs. Is this boho bedside table worth $100? Real pros, cons, and buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6L149MB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zVtuC8w+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - Large 23.6 inch "W x 15.7 inch "D top surface fits a lamp, books, and a charging tray without feeling crowded
   - "Real rattan weave on drawer fronts adds texture that MDF-and-veneer competitors can't fake"
   - "Two full-extension drawers on metal slides plus an open bottom shelf — surprisingly versatile storage for the price"
-cons:
+cons: 
   - "Assembly requires ~30–45 minutes; drawer alignment can be fiddly if you rush the cam-lock bolts"
   - "Rattan is natural material — expect minor color variation and don't leave it in direct sun or it will fade"
   - "Back panel is thin hardboard; fine for a nightstand, but don't lean heavy items against the rear"
+
 ---
 
 If you've been scrolling past a dozen "boho" nightstands that are really just gray MDF boxes with a sticker saying *rattan*, here's the one that actually delivers. The Eclatara Large Rattan Nightstand has earned a 4.6-star average from 229 Amazon ratings, and after digging through the feedback and the specs, I get why. This isn't a trend piece — it's a genuinely useful bedside table with a hand-woven texture that photographs as well in person as it does in the listing.

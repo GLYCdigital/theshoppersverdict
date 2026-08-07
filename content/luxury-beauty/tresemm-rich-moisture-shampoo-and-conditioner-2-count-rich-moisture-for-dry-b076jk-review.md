@@ -1,4 +1,5 @@
 ---
+
 title: "TRESemmÃ© Rich Moisture Shampoo and Conditioner 2 Count Rich"
 seo_title: "TRESemmÃ© Rich Moisture Shampoo and Conditioner 2  Review"
 meta_description: "Our full tresemmã© rich moisture shampoo and conditioner 2 count rich review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B076JK8PXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hb3+TWXkL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about TRESemmé Rich Moisture: it's the rare drugstore line that refuses to act like one. The 2-count set delivers a full liter of product (two 28-ounce bottles) for a price that typically gets you a single 8-ounce tube of something fancy with a French name. That math alone gets shoppers' attention — but the 4.7-star rating across 235 reviews is what keeps it there.

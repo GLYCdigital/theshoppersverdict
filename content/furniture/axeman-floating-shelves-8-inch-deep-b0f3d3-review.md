@@ -1,4 +1,5 @@
 ---
+
 title: "Axeman Floating Shelves 8 Inch Deep Review"
 seo_title: "Axeman Floating Shelves 8 Inch Deep Review (2026): Worth It?"
 meta_description: "Honest Axeman Floating Shelves 8 Inch Deep review: real pros, cons, and buyer feedback. See if this 4.6-star shelf fits your space before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3D3PSTK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YEJFOgQbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Truly hidden mounting bracket allows a seamless floating look without visible hardware"
   - "8-inch depth fits standard books, small plants, and picture frames without overhang"
   - "Solid MDF core with a smooth, matte finish that resists scuffs and cleans easily"
-cons:
+cons: 
   - "Brackets require a stud finder and level; drywall-only installation will not support heavy loads"
   - "Limited color options — most buyers will find only basic finishes available"
+
 ---
 
 Floating shelves are a dime a dozen on Amazon, but most of them are either too shallow to hold anything real or so flimsy they sag under the weight of a few paperbacks. The Axeman Floating Shelves 8 Inch Deep sits in a sweet spot — deep enough to actually store things, shallow enough to work in tight spaces. With a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the honest breakdown.

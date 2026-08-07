@@ -1,4 +1,5 @@
 ---
+
 title: "Milliways Spearmint | Plastic Free Gum | Xylitol, Aspartame-"
 seo_title: "Milliways Spearmint | Plastic Free Gum | Xylitol,  Review"
 meta_description: "Our full milliways spearmint | plastic free gum | xylitol, aspartame- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ2JJ1DV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dWtzx-xfL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Gum You've Been Looking For?

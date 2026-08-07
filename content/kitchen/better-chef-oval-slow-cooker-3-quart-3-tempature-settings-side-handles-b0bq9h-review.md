@@ -1,4 +1,5 @@
 ---
+
 title: "Better Chef Oval Slow Cooker | 3-Quart | 3-Tempature Setting"
 seo_title: "Better Chef 3-Quart Slow Cooker Review: Compact & Reliable"
 meta_description: "Better Chef 3-Quart Oval Slow Cooker review: 3 heat settings, compact size, easy cleanup. Is this budget crock pot worth it? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BQ9HMSZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mI6gYnrKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely compact — the 3-quart oval footprint fits on crowded counters and stores easily in a cabinet"
   - "Three simple heat settings (Low/High/Warm) with an indicator light that actually tells you when it's on"
   - "Stoneware insert and glass lid are both dishwasher-safe, making cleanup genuinely effortless"
-cons:
+cons: 
   - "No programmable timer or auto shut-off — you must be home to turn it off manually"
   - "The 'Warm' setting runs hotter than most competitors, so food can overcook if left on it for hours"
   - "Cord is short at roughly 24 inches, which can limit where you place it on the counter"
+
 ---
 
 **The Verdict: The Best $25 You'll Spend on Weeknight Dinners**

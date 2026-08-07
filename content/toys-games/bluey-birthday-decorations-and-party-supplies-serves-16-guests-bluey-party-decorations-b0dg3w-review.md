@@ -1,4 +1,5 @@
 ---
+
 title: "Bluey Birthday Decorations and Party Supplies | Serves 16 Gu"
 seo_title: "Bluey Birthday Party Supplies Review: Serves 16 Guests"
 meta_description: "Honest Bluey birthday decorations review: what's in the box, durability, and value. See if this 16-guest party kit is worth buying for your kid's big day."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DG3WCCL6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gafrP+0zL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Complete 16-guest kit includes banner, plates, cups, napkins, and tablecover—no separate purchases needed"
   - "Licensed Bluey artwork that's actually cheerful and bright, not grainy or off-color like knockoff brands"
   - "Sturdy paper plates that hold up to frosting and pizza grease without wilting mid-party"
-cons:
+cons: 
   - "Cups are on the smaller side (9 oz)—expect refills for thirsty kids"
   - "No forks or spoons included, which feels like an oversight for a 'complete' party kit"
+
 ---
 
 If your kid has discovered Bluey—and let's be honest, most kids between 2 and 7 have—you already know that birthday party planning starts with one question: *"Can we have Bluey everything?"* This party kit from the official Bluey line answers that question without making you hunt down a dozen separate products.

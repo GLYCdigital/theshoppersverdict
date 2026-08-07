@@ -1,4 +1,5 @@
 ---
+
 title: "API POND ACCU-CLEAR Pond Water Clarifier 1-Gallon Bottle"
 seo_title: "API POND ACCU-CLEAR Review: 1-Gallon Water Clarifier for Ponds"
 meta_description: "Honest API POND ACCU-CLEAR 1-Gallon review: Does it really clear murky pond water? Read pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000255N46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OyGpsjA7L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Works within 24-48 hours on most green-water and suspended-sediment issues"
   - "One gallon treats up to 11,000 gallons of pond water — exceptional value per dose"
   - "Safe for fish, plants, and beneficial bacteria when dosed correctly"
-cons:
+cons: 
   - "Not a cure for the root cause — algae and debris will return if the underlying issue persists"
   - "Can temporarily cloud water or stress sensitive fish if you overdose"
+
 ---
 
 You’ve got a pond that looks like pea soup, and you’re wondering if a chemical clarifier is the answer. Here’s the straight truth: API POND ACCU-CLEAR is one of the most reliable quick fixes on the market, but it’s exactly that — a fix, not a cure. With a 4.4-star average across 220 ratings, it earns its reputation, but you need to know how it works before you pour.

@@ -1,4 +1,5 @@
 ---
+
 title: "Beyblade X Claw Leon 5-60P Starter Pack Set with Balance Typ"
 seo_title: "Beyblade X Claw Leon 5-60P Review: Balance Type Starter"
 meta_description: "Beyblade X Claw Leon 5-60P Starter Pack review: balance-type performance, build quality, and real buyer feedback. Is it worth $12? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CS8DNRFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718V57p5bAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True balance-type behavior with the 5-60 ratchet and P (Point) bit — holds center well and resists knockouts"
   - "Claw Leon's contact points deliver consistent, mid-power hits that work for both beginners and competitive tweakers"
   - "Comes with the full X-clusive launcher and ripcord — no need to buy extra gear to start battling immediately"
-cons:
+cons: 
   - "Plastic blade layer feels lighter than expected; hard-hitting attack types can shove it around the stadium"
   - "P bit wears down noticeably after a few dozen launches — plan on replacing it if you battle frequently"
+
 ---
 
 ## The Balance-Type That Actually Balances

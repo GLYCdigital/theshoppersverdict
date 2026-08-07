@@ -1,4 +1,5 @@
 ---
+
 title: "Deegari King Mattress,12 Inch King Size Mattress in a Box,Ge"
 seo_title: "Deegari King Mattress Review: 12-Inch Gel Memory Foam (2026)"
 meta_description: "Honest Deegari King Mattress review: 12-inch gel memory foam, in-a-box delivery, 210 ratings at 4.2 stars. Is it worth it? Pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXLPZ52N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kNZC3EZNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Gel-infused top layer runs noticeably cooler than standard memory foam — several reviewers confirm no heat trapping"
   - "True 12-inch profile with high-density base foam; edges hold up better than most sub-$300 box mattresses"
   - "Minimal off-gassing — most buyers report it's sleep-ready within 4-6 hours, not the usual 48-hour wait"
-cons:
+cons: 
   - "Firmness runs medium-firm at best; side sleepers under 150 lbs may find it too stiff without a topper"
   - "No handles or reinforced edge support system — rotating this 70+ lb king mattress solo is a genuine workout"
+
 ---
 
 **The Deegari King Mattress has a 4.2-star average from 210 Amazon ratings — solid, but not spectacular. Here's what those ratings actually mean for your back, your budget, and your sleep.**

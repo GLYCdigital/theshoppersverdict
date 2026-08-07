@@ -1,4 +1,5 @@
 ---
+
 title: "BEN'S ORIGINAL Ready Rice Coconut Jasmine Flavored Rice, Eas"
 seo_title: "BEN'S ORIGINAL Coconut Jasmine Rice Review (2026): Worth It?"
 meta_description: "Hands-on BEN'S ORIGINAL Ready Rice Coconut Jasmine review: flavor, texture, 90-second convenience, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GJ12M3SH/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/81B0KdnhP4L._SL1500_.jpg"
-pros:
+pros: 
   - "Actual coconut flavor comes through clearly — not a faint afterthought like most flavored rices"
   - "90-second microwave cook time with no draining, no measuring, no pot to scrub"
   - "Holds texture well for 2+ days in the fridge without turning mushy or clumping"
-cons:
+cons: 
   - "Sodium content runs high at ~350mg per serving — a dealbreaker if you're watching salt intake"
   - "Single-serve pouches create notable packaging waste compared to cooking rice from scratch"
+
 ---
 
 Let's be honest: most flavored instant rice tastes like cardboard dusted with seasoning. So when I saw BEN'S ORIGINAL Ready Rice in Coconut Jasmine, I expected another disappointment. But after testing it as a side dish, a meal-prep base, and a desperate 11 PM snack, I have to admit — this one's different.

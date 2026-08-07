@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement for Delta 13/14 Series Shower Valve Trim Kit"
 seo_title: "Replacement for Delta 13/14 Series Shower Valve Tr Review"
 meta_description: "Our full replacement for delta 13/14 series shower valve trim kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F32RDJCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bBN8nn-CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Delta 13/14 series shower valve works fine but looks like it survived a decade of hard water and aggressive scrubbing, you've got two options: pay Delta's OEM premium or grab this aftermarket trim kit. At roughly half the price of the branded equivalent, this replacement kit is the kind of product that makes you wonder why you didn't swap that ugly handle years ago.

@@ -1,4 +1,5 @@
 ---
+
 title: "Griddle Accessories Portable air Conditioner"
 seo_title: "Griddle Accessories Portable air Conditioner Review: Verd"
 meta_description: "Our full griddle accessories portable air conditioner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGHCVNVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hk6Wq4qLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the answer to sweltering summer cookouts, or just another gadget that blows warm air around? After digging through 229 verified ratings and the spec sheet, here's the honest breakdown.**

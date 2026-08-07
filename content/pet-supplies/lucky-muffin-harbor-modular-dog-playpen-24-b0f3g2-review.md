@@ -1,4 +1,5 @@
 ---
+
 title: "Lucky Muffin Harbor Modular Dog Playpen, 24â€"
 seo_title: "Lucky Muffin Harbor Modular Dog Playpen, 24â€ Review: Ver"
 meta_description: "Our full lucky muffin harbor modular dog playpen, 24â€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3G2GG3T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ugggr-JnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Lucky Muffin Harbor Modular Dog Playpen: A Real-World Test**

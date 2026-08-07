@@ -1,4 +1,5 @@
 ---
+
 title: "SunButter Seed Butter, 16 oz Nut-Free Spread with 7g Plant-B"
 seo_title: "SunButter Seed Butter, 16 oz Nut-Free Spread with  Review"
 meta_description: "Our full sunbutter seed butter, 16 oz nut-free spread with 7g plant-b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FC5ML2WS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PV4OpH49L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: if you're shopping for a peanut butter alternative because of a school nut ban or a real allergy, SunButter is the category leader for a reason. But if you're expecting it to taste exactly like Jif, you're going to be disappointed. Here's what 229 Amazon reviewers at a 4.6-star average are actually saying — and what they're not.

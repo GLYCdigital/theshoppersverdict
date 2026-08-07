@@ -1,4 +1,5 @@
 ---
+
 title: "Philadelphia Strawberry Cheesecake Crumbles, 2 ct Pack, 3.25"
 seo_title: "Philadelphia Strawberry Cheesecake Crumbles, 2 ct  Review"
 meta_description: "Our full philadelphia strawberry cheesecake crumbles, 2 ct pack, 3.25 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDS712S9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/9152CM7m5dL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Philadelphia Strawberry Cheesecake Crumbles (2 ct, 3.25 oz each) are a dessert masquerading as a snack — and that's exactly why they work.**

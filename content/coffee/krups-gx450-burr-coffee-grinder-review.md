@@ -1,10 +1,11 @@
 ---
+
 title: "KRUPS GX450 Precision Burr Coffee Grinder Review: 12 Settings, 8 oz Capacity"
 seo_title: "KRUPS GX450 Burr Grinder — Best Under $60? | TSV"
 meta_description: "KRUPS GX450 burr coffee grinder review: 4.1 stars, 7,567 ratings, $60. 12 grind settings for drip, French press, espresso, cold brew. Full verdict."
 slug: "krups-gx450-burr-coffee-grinder-review"
 image_alt: "KRUPS GX450 Precision Burr Coffee Grinder in stainless steel with 12-setting dial and 8 oz capacity"
-keywords:
+keywords: 
   - "KRUPS GX450 review"
   - "best burr coffee grinder under $100"
   - "KRUPS burr grinder 2026"
@@ -16,18 +17,18 @@ amazon_rating: 4.1
 price: 60.11
 amazon_url: "https://www.amazon.com/dp/B07Q622YLB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o+Ocx9bEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely quiet operation compared to blade grinders"
   - "12 grind settings cover drip, French press, espresso, pour over, and cold brew"
   - "Consistent burr grind for better extraction than blade alternatives"
   - "Excellent value at $60 — undercuts competitors by 40-50%"
   - "Auto-stop feature prevents overheating"
-cons:
+cons: 
   - "Draws 6W standby power when plugged in — unplug when not in use"
   - "Grind size dial can be imprecise between settings"
   - "Some users report inconsistencies at coarser settings"
   - "Customer support experiences vary"
-faq:
+faq: 
   - question: "Is the KRUPS GX450 burr grinder quiet?"
     answer: "Yes, multiple reviewers describe it as 'genuinely quiet.' One noted it's much less noisy than their previous blade grinder, making early-morning grinding less intrusive."
   - question: "Does the KRUPS GX450 work for espresso?"
@@ -37,6 +38,7 @@ faq:
   - question: "How long does the KRUPS GX450 last?"
     answer: "Multiple reviewers report 2-3+ years of daily use with zero issues. One noted theirs is 'still going strong' after using it since October 2022."
 date: 2026-05-28
+
 ---
 
 The $60 price tag on a burr grinder used to mean "you get what you pay for" in the worst way. The KRUPS GX450 flips that assumption — mostly. It's the grinder I'd recommend to anyone stepping up from a blade grinder, but it's not without its quirks.

@@ -1,4 +1,5 @@
 ---
+
 title: "Scotch Heavy Duty Shipping Packing Tape"
 seo_title: "Scotch Heavy Duty Packing Tape Review (2026): Worth It?"
 meta_description: "Scotch Heavy Duty Shipping Packing Tape review: 4.7/5 from 107K+ ratings. Is this $12 tape worth it for moving & shipping? Real pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 107827
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817GKjo-ufL._SL1500_.jpg"
-pros:
+pros: 
   - "Adhesive locks down fast — no waiting for it to set, and it stays put on recycled cardboard"
   - "2.7 mil thickness handles heavy boxes without tearing mid-strip"
   - "Smooth, quiet unwind from the included dispenser — no fighting the roll"
-cons:
+cons: 
   - "The included plastic dispenser is flimsy; the metal cutting blade dulls after heavy use"
   - "Not truly 'heavy duty' for industrial use — 3M's 3750 series is thicker if you're shipping 50+ boxes daily"
+
 ---
 
 You'd think tape is tape. Then you ship a 40-pound box across the country with bargain-bin tape, and it arrives looking like a paper bag that lost a fight. That's why the Scotch Heavy Duty Shipping Packing Tape has over 107,000 Amazon ratings and a 4.7-star average. But is it actually worth $12, or are you paying for the name? Let's cut through the hype.

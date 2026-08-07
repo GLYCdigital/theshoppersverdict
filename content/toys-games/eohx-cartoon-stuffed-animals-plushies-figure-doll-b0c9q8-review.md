@@ -1,4 +1,5 @@
 ---
+
 title: "EOHX Cartoon Stuffed Animals Plushies Figure Doll"
 seo_title: "EOHX Cartoon Stuffed Animals Review: Soft, Cute, Worth It?"
 meta_description: "EOHX Cartoon Stuffed Animals Plushies review: 4.8-star rated. Is this soft, huggable doll worth the buy? Real pros, cons, and who it suits."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9Q8F2D1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yTlBFXP3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Exceptionally soft, high-pile fabric that holds up to aggressive hugging and machine washing without pilling or flattening"
   - "Stitched facial features (not glued) — safe for toddlers and won't peel off after a few weeks of play"
   - "Generous stuffing density gives it a satisfying, weighted heft rather than a flimsy, hollow feel"
-cons:
+cons: 
   - "Eyes and nose are embroidered, but the thread color on darker variants can look washed out in person"
   - "No size options listed — you get one fixed size that runs smaller than the product photos suggest"
+
 ---
 
 # EOHX Cartoon Stuffed Animals Plushies Figure Doll Review: The $20 Hug You Won't Regret

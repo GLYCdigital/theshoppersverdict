@@ -1,4 +1,5 @@
 ---
+
 title: "Bathroom Faucet WF008-5-father"
 seo_title: "WF008-5-father Bathroom Faucet Review: Worth It?"
 meta_description: "WF008-5-father bathroom faucet review: build quality, install ease, real owner feedback. Is this 4.5-star faucet right for your sink? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DQXKY51/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bzPbNOTbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid brass construction with a real weight to it — no hollow-feeling zinc alloy here"
   - "Ceramic disc cartridge delivers smooth, precise handle movement with zero drip after months of use"
   - "Deck plate included, so it works for both single-hole and 3-hole sinks right out of the box"
-cons:
+cons: 
   - "Installation instructions are minimal — expect to rely on YouTube if you're not a seasoned DIYer"
   - "Finish is prone to water spots; if you have hard water, you'll be wiping it down weekly"
+
 ---
 
 # Bathroom Faucet WF008-5-father: The $50 Faucet That Feels Like It Costs Twice as Much

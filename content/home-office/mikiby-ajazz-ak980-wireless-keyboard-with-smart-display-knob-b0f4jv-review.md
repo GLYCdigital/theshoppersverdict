@@ -1,4 +1,5 @@
 ---
+
 title: "MIKIBY AJAZZ AK980 Wireless Keyboard with Smart Display & Kn"
 seo_title: "MIKIBY AJAZZ AK980 Wireless Keyboard with Smart Di Review"
 meta_description: "Our full mikiby ajazz ak980 wireless keyboard with smart display & kn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4JV29XC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611dq4NsqAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The MIKIBY AJAZZ AK980 isn't just another wireless keyboard — it's a productivity tool that puts system feedback where you can actually see it. At 4.6 stars from 229 ratings, it's earning its keep. But "smart" doesn't mean "perfect," and there are a few gotchas worth knowing before you click buy.

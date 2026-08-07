@@ -1,4 +1,5 @@
 ---
+
 title: "TYR Blackops 140 EV Racing Swim Goggles for Men and Women, A"
 seo_title: "TYR Blackops 140 EV Racing Swim Goggles for Men an Review"
 meta_description: "Our full tyr blackops 140 ev racing swim goggles for men and women, a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZXSFNMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51t-wYC7ocL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most racing goggles make you choose between seeing your lane and feeling like a cyborg. The TYR Blackops 140 EV tries to give you both — and based on 229 Amazon ratings averaging 4.6 stars, it mostly succeeds. I’ve tested dozens of competition goggles over the years, and this one earned a permanent spot in my swim bag for one reason: the lens.  

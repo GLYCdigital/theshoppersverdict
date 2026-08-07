@@ -1,4 +1,5 @@
 ---
+
 title: "CmnVmn Vintage Bathroom Light Fixtures, Gold Bathroom Vanity"
 seo_title: "CmnVmn Vintage Bathroom Light Fixtures Review (2026): Worth It?"
 meta_description: "CmnVmn vintage gold bathroom vanity light review: matte antique brass build, install ease, real buyer feedback, and who should buy it. Honest 4.6/5 verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F3BY1B7M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Okn097bDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty steel and glass construction that feels far more expensive than the price point"
   - "True matte antique brass finish — not shiny gold — with even, uniform coating that resists fingerprints"
   - "Tools and mounting hardware included; installs in under 30 minutes on standard 4-inch junction boxes"
-cons:
+cons: 
   - "Bulbs not included — and the exposed-bulb design demands stylish Edison bulbs, adding $15–25 to your total cost"
   - "Only works with sloped or flat ceilings when mounted vertically; horizontal wall mounting requires the separate sconce kit"
   - "Glass shades are shipped separate and one reviewer reported chipping on arrival, though Amazon's return process covered it"
+
 ---
 
 If you've been scrolling past a dozen identical "gold" vanity lights that all look like spray-painted plastic, stop. The CmnVmn Vintage Bathroom Light Fixture is the one that actually delivers on the antique brass promise.

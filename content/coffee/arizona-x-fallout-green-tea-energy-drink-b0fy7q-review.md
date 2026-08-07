@@ -1,23 +1,25 @@
 ---
+
 title: "AriZona x Fallout Green Tea Energy Drink,"
 seo_title: "AriZona x Fallout Green Tea Energy Drink Review (2026)"
 meta_description: "Honest AriZona x Fallout Green Tea Energy Drink review: taste, caffeine, value, and who should buy this limited-edition collab."
 slug: "arizona-x-fallout-green-tea-energy-drink-b0fy7q-review"
 image_alt: "AriZona x Fallout Green Tea Energy Drink can with Fallout Vault-Tec branding"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 204  
-amazon_rating: 4.1  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 204
+amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FY7QZPNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815HIyUNQ-L._SL1500_.jpg"
-pros:  
+pros: 
   - "Authentic AriZona green tea flavor — not overly sweet or syrupy"  
   - "200mg natural caffeine from green tea, no jitters or crash for most"  
   - "Collectible Vault-Tec can design that actually holds up in hand"  
-cons:  
+cons: 
   - "Limited availability — often sold in 12-packs only, pricier per can"  
   - "Carbonation is light; if you expect a fizzy energy drink, adjust expectations"
+
 ---
 
 **The AriZona x Fallout collab isn’t just a gimmick — it’s a genuinely drinkable green tea energy drink that respects the source material.** As someone who’s burned through more energy drinks than I care to admit, I grabbed this expecting a novelty product with mediocre liquid. What I found was a surprisingly balanced, low-sugar option that earns its shelf space — if you can find it in stock.

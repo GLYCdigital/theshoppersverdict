@@ -1,4 +1,5 @@
 ---
+
 title: "Door Lock Parent ASIN"
 seo_title: "Door Lock Parent ASIN Review: Real Security or Gimmick?"
 meta_description: "Door Lock Parent ASIN review: build quality, security features, installation, and honest downsides. See if this 4.7-star lock fits your home."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08CXQD5D7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61t8MC0KDqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with anti-pick pins and a reinforced strike plate that resists forced entry"
   - "Reversible lever handles make it work for both left- and right-hinged doors without extra parts"
   - "Tool-free rekeying system lets you reset the cylinder in under two minutes with the included jig"
-cons:
+cons: 
   - "Installation instructions are minimal — expect to watch a YouTube video if you're not already handy"
   - "The included screws are soft; replace them with aftermarket ones if you're mounting into a metal door frame"
+
 ---
 
 **Door Lock Parent ASIN Review: Real Security or Gimmick?**

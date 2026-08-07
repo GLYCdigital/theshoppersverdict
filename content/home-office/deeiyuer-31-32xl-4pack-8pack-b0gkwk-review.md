@@ -1,4 +1,5 @@
 ---
+
 title: "DEEIYUER 31 32XL 4Pack 8Pack"
 seo_title: "DEEIYUER 31 32XL Review: Better Than Standard Shelving?"
 meta_description: "DEEIYUER 31 32XL 4Pack 8Pack review: Are these heavy-duty shelves worth $31.89? Real-world testing, load limits, and honest pros/cons with a 4.8-star verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GKWKCG6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ocoBaMWeL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Rated for 110 lbs per pair — actual load testing held 130+ lbs before flexing"
   - "1.5mm cold-rolled steel with matte black finish that resists scratches from tools"
   - Pre-drilled keyhole slots align perfectly with standard 16 inch stud spacing
-cons:
+cons: 
   - "Hardware included is minimal — you'll need your own #8 or #10 screws for drywall anchors"
   - "The 8-pack is a better value but the 4-pack costs nearly the same per bracket"
+
 ---
 
 **The $32 Shelf Bracket That Made Me Throw Away My Particle Board Shelves**

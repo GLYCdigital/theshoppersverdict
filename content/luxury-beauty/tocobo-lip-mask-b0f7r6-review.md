@@ -1,4 +1,5 @@
 ---
+
 title: "TOCOBO Lip Mask"
 seo_title: "TOCOBO Lip Mask Review: Verdict | TSV"
 meta_description: "Our full tocobo lip mask review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7R6JTMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61COZSYkg3L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut to the chase: the TOCOBO Lip Mask has been quietly outperforming far more expensive overnight lip treatments in my testing, and at 4.6 stars across 229 Amazon ratings, I'm not the only one noticing. This Korean beauty brand has built a reputation for no-nonsense skincare, and this 20g jar of concentrated lip repair is their strongest player yet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Eneston Large Squeaky Dog Toys, Tug-of-War Puppy Toys with C"
 seo_title: "Eneston Large Squeaky Dog Toys Review: Tug & Crinkle Fun"
 meta_description: "Honest Eneston Large Squeaky Dog Toys review: durability, squeaker life, and tug-of-war performance for chewers. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DBL336LR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nhjB3WB+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-layer fabric with reinforced stitching holds up to moderate chewers better than typical plush toys"
   - "Crinkle paper inside plus squeaker gives two distinct sound profiles that keep high-energy dogs engaged"
   - "Rope handles on both ends make tug-of-war easy on your hands and give you real grip during play"
-cons:
+cons: 
   - "Not for aggressive power chewers — the squeaker is a prime target and will be extracted quickly"
   - "Crinkle paper compresses and goes quiet after a few weeks of heavy play, losing half the novelty"
+
 ---
 
 **Bottom line up front:** The Eneston Large Squeaky Dog Toy is a solid mid-tier interactive toy that nails the tug-of-war experience but stops short of being indestructible. If your dog is a moderate chewer who loves a good wrestle, this is worth your money. If you own a pit bull with a vendetta against squeakers, keep scrolling.

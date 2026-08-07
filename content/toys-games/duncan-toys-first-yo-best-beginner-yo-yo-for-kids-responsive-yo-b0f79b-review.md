@@ -1,23 +1,25 @@
 ---
+
 title: "Duncan Toys First Yo! - Best Beginner Yo-Yo for Kids, Respon"
 seo_title: "Duncan First Yo! Review: Best Beginner Yo-Yo for Kids (2026)"
 meta_description: "Duncan First Yo! review: Is this the best beginner yo-yo for kids? Tested for durability, ease of use & value. Real pros, cons & verdict."
 slug: "duncan-toys-first-yo-best-beginner-yo-yo-for-kids-responsive-yo-b0f79b-review"
 image_alt: "Duncan Toys First Yo! beginner yo-yo for kids with responsive return and durable plastic body"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F79BXCML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81npekMfe9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Responsive return system makes it genuinely easy for young kids to get a yo-yo back up on the first try"  
   - "Starter string is pre-tied and the correct length for small hands — no knot-tying frustration out of the box"  
   - "Durable polycarbonate body survives drops on concrete and hardwood without cracking or warping"  
-cons:  
+cons: 
   - "String wears out noticeably faster than adult-level yo-yos — expect replacement every 2-3 weeks with daily use"  
   - "Smaller diameter (54mm) feels cramped for older kids or adults with larger hands"
+
 ---
 
 ## The Yo-Yo That Actually Teaches Kids to Yo-Yo

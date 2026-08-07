@@ -1,4 +1,5 @@
 ---
+
 title: "Makita XDT18ZB 18V LXT Lithium-Ion Sub-Compact Brushless Cor"
 seo_title: "Makita XDT18ZB 18V LXT Lithium-Ion Sub-Compact Bru Review"
 meta_description: "Our full makita xdt18zb 18v lxt lithium-ion sub-compact brushless cor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09BY5D5K3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51MG8ff1ArL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XDT18ZB is the tool that makes you question why you ever carried something heavier. This sub-compact impact driver packs 1,430 in-lbs of max torque into a head that measures just 5.2 inches long. For context, that's roughly the same power output as Makita's full-size XDT16 but in a package that's about 20% shorter and noticeably lighter at 2.9 pounds with a 2.0Ah battery attached.

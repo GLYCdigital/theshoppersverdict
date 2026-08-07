@@ -1,4 +1,5 @@
 ---
+
 title: "SHARPIE Metallics Permanent Markers"
 seo_title: "SHARPIE Metallics Permanent Markers Review: Verdict | TSV"
 meta_description: "Our full sharpie metallics permanent markers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DB5NTVN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1s6nZylAGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about metallic markers: most of them are glittery garbage that smears the moment you look at them. SHARPIE Metallics are not that. With a 4.4-star average across 220 ratings, these are the rare permanent markers that actually deliver on the "metallic" promise—but they're not without quirks you need to know before buying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fang Yan Mei Modern Black Chandelier Chandeliers LED Pendant"
 seo_title: "Fang Yan Mei Black LED Chandelier Review: Modern & Sleek"
 meta_description: "Honest Fang Yan Mei Modern Black Chandelier review: LED pendant lighting, build quality, install tips, and who should buy. 4.3/5 from 215 ratings."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09T8YLJZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EN8I6Gz0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LEDs rated for 50,000 hours — no bulb replacements, warm 3000K light that flatters wood tones and neutral palettes"
   - "Slim profile (under 4 inches deep) works in rooms with 8-foot ceilings without feeling claustrophobic"
   - "Dimmable with standard ELV/MLV dimmers, giving real control from 10% to full brightness"
-cons:
+cons: 
   - "Integrated LED board is not replaceable — when it dies, the entire fixture is a paperweight"
   - "Mounting plate is flimsy stamped steel; aligning it to a non-standard junction box takes patience"
   - "Dimmer compatibility is picky — several buyers report buzzing with cheap dimmers, need a quality one"
+
 ---
 
 Let me be blunt: most "modern" chandeliers under $200 are cheap metal hoops with exposed bulbs that glare like a interrogation room. The Fang Yan Mei Modern Black Chandelier is not that. This is a genuine statement piece — a 40-inch ring of matte black steel with integrated LED strips that cast a warm, diffused glow downward. It reads expensive, even though it's priced like a mid-tier ceiling fan.

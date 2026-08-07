@@ -1,4 +1,5 @@
 ---
+
 title: "FACEBAG 90pcs Brown Paper Bags with Handles Assorted Sizes M"
 seo_title: "FACEBAG 90pcs Brown Paper Bags Review: Worth It? (2026)"
 meta_description: "Honest FACEBAG 90pcs brown paper bags review: assorted sizes, sturdy handles, real-world kitchen use. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DCZ1JC1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81e+DSuwFPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sturdy 100gsm kraft paper holds up to heavier items without tearing at the seams"
   - "Three useful sizes in one 90-count pack — no more buying separate boxes for different jobs"
   - "Twisted paper handles are reinforced and comfortable, even with a full load"
-cons:
+cons: 
   - "Size assortment skews heavily toward the medium bags — the small and large sizes are far fewer"
   - "No flat-bottom reinforcement, so round or awkward items can shift and stress the seams"
   - "Not grease-proof — oily pastries or fried food will soak through quickly"
+
 ---
 
 Let me be blunt: you don't buy a 90-pack of paper bags because you're excited. You buy them because you're tired of running out, or tired of flimsy bags that split the moment you look at them wrong. The FACEBAG assortment aims to solve both. Does it? Mostly, yes — with a few caveats worth knowing before you click buy.

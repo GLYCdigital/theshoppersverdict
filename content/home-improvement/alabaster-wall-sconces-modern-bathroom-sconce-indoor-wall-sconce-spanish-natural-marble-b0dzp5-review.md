@@ -1,4 +1,5 @@
 ---
+
 title: "Alabaster Wall Sconces, Modern Bathroom Sconce, Indoor Wall"
 seo_title: "Alabaster Wall Sconces Review: Modern Bathroom Lighting Worth It?"
 meta_description: "Honest Alabaster Wall Sconces review: real buyer feedback, build quality, light output, and whether these modern bathroom sconces fit your space."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZP58Y49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AxOs9e4yL._AC_SL1404_.jpg"
-pros:
+pros: 
   - "Genuine natural alabaster stone — each shade has unique veining, no two fixtures look identical"
   - "Warm, diffused light that flatters skin tones — ideal for bathroom vanity applications"
   - "Solid brass backplate with a brushed finish that resists water spots and fingerprints"
-cons:
+cons: 
   - "Natural alabaster is translucent, so brightness depends heavily on the bulb wattage you choose"
   - "Sizing runs smaller than the photos suggest — measure your vanity width before ordering"
   - "No dimmer included; you'll need to supply your own compatible dimmer switch for adjustable mood lighting"
+
 ---
 
 **The Verdict at a Glance**

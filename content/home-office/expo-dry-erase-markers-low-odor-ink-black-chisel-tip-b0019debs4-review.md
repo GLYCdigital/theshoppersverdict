@@ -1,17 +1,18 @@
 ---
+
 title: "EXPO Dry Erase Markers, Low Odor Ink, Black, Chisel Tip, 4 Count"
 seo_title: "EXPO Dry Erase Markers Review: The Gold Standard (4.8★)"
 meta_description: "EXPO Dry Erase Markers review. 4.8 stars from 17,000+ ratings. Low-odor ink, chisel tip, vibrant black. The marker that makes whiteboards work."
 slug: "expo-dry-erase-markers-review"
 image_alt: "EXPO Dry Erase Markers 4-pack, black, chisel tip, low odor ink"
-keywords:
+keywords: 
   - "EXPO dry erase markers review"
   - "best dry erase markers"
   - "EXPO low odor markers"
   - "chisel tip dry erase markers"
   - "whiteboard markers"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Are EXPO dry erase markers low odor?"
     answer: "Yes. EXPO uses a low-odor ink formula that is significantly less pungent than standard dry erase markers. Reviewers consistently note the lack of strong chemical smell."
   - question: "How long do EXPO markers last?"
@@ -26,17 +27,18 @@ review_count: 17289
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0019DEBS4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bbHRTP9LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-odor formula — no harsh chemical smell during use"
   - "Vibrant, bold black ink that's easy to read from a distance"
   - "Chisel tip offers both fine and broad stroke versatility"
   - "Erases cleanly from whiteboards, glass, and acrylic surfaces"
   - "Long-lasting ink with proper storage"
-cons:
+cons: 
   - "At $38.44 for a 4-pack, this is expensive — the price reflects a bulk/office pack"
   - "Some reviewers find they dry out faster than expected if not stored rigorously"
   - "Only black — no color variety in this pack"
   - "Chisel tip takes practice to use well at both angles"
+
 ---
 
 There's a reason EXPO is the default dry erase marker in offices, classrooms, and meeting rooms across America. It's not because they're the cheapest — they're not. It's because every alternative feels like a compromise.

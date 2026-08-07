@@ -1,4 +1,5 @@
 ---
+
 title: "LUTEC Solar Deck Lights"
 seo_title: "LUTEC Solar Deck Lights Review: Verdict | TSV"
 meta_description: "Our full lutec solar deck lights review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX9QVDS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718Qrxrka9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Solar deck lights are a category where Amazon listings are thick with $15 four-packs that stop working by October. The LUTEC Solar Deck Lights (currently averaging 4.1 stars across 204 ratings) sit in a different lane — aluminum-bodied, IP65-rated, and priced like they mean it. But do they actually earn that premium? I dug through the specs, the buyer feedback, and the real-world photos to give you the straight answer.

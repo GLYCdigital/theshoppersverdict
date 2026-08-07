@@ -1,4 +1,5 @@
 ---
+
 title: "Lemonhead Ropes, Candy, Lemon, Tart and Citrusy, Soft and Ch"
 seo_title: "Lemonhead Ropes, Candy, Lemon, Tart and Citrusy, S Review"
 meta_description: "Our full lemonhead ropes, candy, lemon, tart and citrusy, soft and ch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FCYWR7QQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81goxug+RfL._SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about Lemonhead Ropes: they're not trying to be anything they're not. No chocolate coating, no fancy fillings — just a straightforward lemon candy rope that delivers exactly what the name promises. After working through two 9-ounce bags (yes, in the name of research), here's what you actually need to know before buying.

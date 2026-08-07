@@ -1,4 +1,5 @@
 ---
+
 title: "Pentair LL505PMG Kreepy Krauly Platinum Pressure-Side Ingrou"
 seo_title: "Pentair LL505PMG Kreepy Krauly Platinum Pressure-S Review"
 meta_description: "Our full pentair ll505pmg kreepy krauly platinum pressure-side ingrou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B00C7UEK5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mlT7ZR2ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve got an in-ground pool with a pressure-side return line, the Pentair Kreepy Krauly Platinum is worth a serious look — but it’s not the do-everything robot you might imagine. With a 3.9-star average across 195 ratings, owners are split between “works great for my pool” and “returned it after a month.” Here’s the real story.

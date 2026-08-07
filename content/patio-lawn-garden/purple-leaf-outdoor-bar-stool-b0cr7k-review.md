@@ -1,4 +1,5 @@
 ---
+
 title: "PURPLE LEAF Outdoor Bar Stool"
 seo_title: "PURPLE LEAF Outdoor Bar Stool Review: Verdict | TSV"
 meta_description: "Our full purple leaf outdoor bar stool review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CR7KTKXL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l7lIGiwML._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re shopping for outdoor bar seating, you’ve probably seen the PURPLE LEAF name pop up. With 240 ratings and a 4.8-star average, this stool is clearly doing something right. But is it actually worth your money, or is it just another mid-priced patio product riding on good marketing? I dug into the specs, the build, and what real owners are saying. Here’s the straight story.

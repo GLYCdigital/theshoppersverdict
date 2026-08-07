@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Harry Potter Flying Ford Anglia, Buildable Car Toy with"
 seo_title: "LEGO Harry Potter Flying Ford Anglia, Buildable Ca Review"
 meta_description: "Our full lego harry potter flying ford anglia, buildable car toy with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CGY3QD8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YtRYVU9fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Flying Ford Anglia is one of those vehicles that defined a generation of Harry Potter fans. It's not sleek, it's not magical in the traditional sense — it's a battered turquoise family car that happens to fly. And LEGO has captured it brilliantly.

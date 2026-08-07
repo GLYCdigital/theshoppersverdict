@@ -1,4 +1,5 @@
 ---
+
 title: "Tectsia Strawberry Vertical 5G"
 seo_title: "Tectsia Strawberry Vertical 5G Review: Verdict | TSV"
 meta_description: "Our full tectsia strawberry vertical 5g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D7V92WLV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815Fl+n2NXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got a tiny patio or a bare balcony corner, the Tectsia Strawberry Vertical 5G promises to turn that wasted space into a mini strawberry patch. The concept is solid: stack five planting tiers vertically, fit 20+ plants in a footprint smaller than a doormat, and let a self-watering system do the heavy lifting. At 3.9 stars from 195 ratings, it's not a runaway hit — but it's not a dud either. Here's the real story.

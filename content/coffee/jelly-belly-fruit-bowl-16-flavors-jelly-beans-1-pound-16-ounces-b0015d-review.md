@@ -1,4 +1,5 @@
 ---
+
 title: "Jelly Belly Fruit Bowl 16 Flavors Jelly Beans - 1 Pound (16 "
 seo_title: "Jelly Belly Fruit Bowl 16 Flavors Jelly Beans - 1  Review"
 meta_description: "Our full jelly belly fruit bowl 16 flavors jelly beans - 1 pound (16  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0015D61OA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61l6SYOKNmL._SL1200_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: this is a review of jelly beans, not a coffee maker. The product data says "coffee maker or coffee gear," but that's clearly a categorization error — and honestly, if you're looking for a machine to brew your morning joe, you're in the wrong place. What you'll actually find here is a 1-pound bag of Jelly Belly Fruit Bowl jelly beans, and that's a very different kind of indulgence.

@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE Farmhouse Platform Bed with 49 inch  Fluted Headboard, B"
 seo_title: "AMERLIFE Farmhouse Platform Bed Review: Fluted Headboard"
 meta_description: "AMERLIFE farmhouse platform bed with 49 inch  fluted headboard: honest review of build quality, assembly, and comfort. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G2T3QG98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SJxqYNHFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "49-inch fluted headboard delivers high-end designer look at a fraction of boutique furniture prices"
   - "Solid wood slats support heavy mattresses without box spring — saves money and lowers profile"
   - "Under-bed clearance is generous enough for standard storage bins"
-cons:
+cons: 
   - "Assembly is a two-person job; hardware holes on some units don't align perfectly"
   - "Natural finish shows scuffs easily; consider a darker tone if you have pets or kids"
+
 ---
 
 The AMERLIFE Farmhouse Platform Bed with its 49-inch fluted headboard is trying to do something ambitious: deliver that $2,000 Restoration Hardware aesthetic for a fraction of the price. Based on 204 Amazon ratings averaging 4.1 stars, it largely succeeds — but with a few caveats worth knowing before you hit buy.

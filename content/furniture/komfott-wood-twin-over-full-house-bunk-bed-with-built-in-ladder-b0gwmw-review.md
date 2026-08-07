@@ -1,4 +1,5 @@
 ---
+
 title: "KOMFOTT Wood Twin Over Full House Bunk Bed with Built in Lad"
 seo_title: "KOMFOTT Wood Twin Over Full House Bunk Bed with Bu Review"
 meta_description: "Our full komfott wood twin over full house bunk bed with built in lad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWMWG4KS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Lq+-c7oOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got two kids sharing a room and you're tired of them fighting over floor space, the KOMFOTT Twin Over Full is the pragmatic middle ground. It's not the cheapest bunk bed on Amazon, and it's not the prettiest, but it solves a specific problem: giving a younger child the top bunk while an older kid or guest gets a legitimate full-size mattress below. At 4.2 stars from 210 ratings, the consensus is clear — this is a solid, no-nonsense bed that rewards patient assembly.

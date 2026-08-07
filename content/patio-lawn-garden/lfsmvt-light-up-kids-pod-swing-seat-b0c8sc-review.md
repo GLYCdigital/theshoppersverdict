@@ -1,4 +1,5 @@
 ---
+
 title: "LFSMVT Light Up Kids Pod Swing Seat"
 seo_title: "LFSMVT Light Up Kids Pod Swing Seat Review: Verdict | TSV"
 meta_description: "Our full lfsmvt light up kids pod swing seat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C8SC77NB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hXpvn2GOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most kids' swings are boring. A plastic bucket seat bolted to a tree branch doesn't exactly inspire backyard magic after dark. The LFSMVT Light Up Kids Pod Swing Seat tries to change that with an LED-lit cocoon that turns your patio into a nighttime wonderland. After digging through 215 ratings and the specs, here's what actually matters before you buy.

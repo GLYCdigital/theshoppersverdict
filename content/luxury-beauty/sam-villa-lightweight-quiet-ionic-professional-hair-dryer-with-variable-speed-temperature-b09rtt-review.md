@@ -1,4 +1,5 @@
 ---
+
 title: "Sam Villa Lightweight & Quiet Ionic Professional Hair Dryer "
 seo_title: "Sam Villa Lightweight & Quiet Ionic Professional H Review"
 meta_description: "Our full sam villa lightweight & quiet ionic professional hair dryer  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09RTTN8R7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wnpVhLyhL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Sam Villa Lightweight & Quiet Ionic Professional Hair Dryer: A Stylist's Tool That Actually Delivers

@@ -1,4 +1,5 @@
 ---
+
 title: "KRIDDO 2-in-1 Toddler Tricycle for Ages 18 Months to 5 Years"
 seo_title: "KRIDDO 2-in-1 Toddler Tricycle for Ages 18 Months  Review"
 meta_description: "Our full kriddo 2-in-1 toddler tricycle for ages 18 months to 5 years review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW2ZML2Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GJ4IdqDsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most toddler trikes under $70 are flimsy plastic toys your kid outgrows in six months. The KRIDDO 2-in-1 tries to be the exception — and for the most part, it pulls it off. I’ve tested this with a 20-month-old and a 4-year-old, and dug through 220 Amazon ratings to give you the straight story.

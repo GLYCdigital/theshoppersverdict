@@ -1,4 +1,5 @@
 ---
+
 title: "Mentos Pure Fresh Sugar-Free Chewing Gum with Xylitol, Spear"
 seo_title: "Mentos Pure Fresh Sugar-Free Chewing Gum with Xyli Review"
 meta_description: "Our full mentos pure fresh sugar-free chewing gum with xylitol, spear review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMWNFRDR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81i2m1IalbL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is a gum review, and I know you clicked because you're tired of spending $6 on a pack of Trident that loses flavor in six minutes. The Mentos Pure Fresh bottle solves that specific problem — but not without a couple of tradeoffs worth knowing before you buy.

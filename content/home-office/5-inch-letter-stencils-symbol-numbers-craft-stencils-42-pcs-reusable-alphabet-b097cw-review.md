@@ -1,4 +1,5 @@
 ---
+
 title: "5 Inch Letter Stencils Symbol Numbers Craft Stencils, 42 Pcs"
 seo_title: "5 Inch Letter Stencils Review: 42-Pc Reusable Alphabet Set (2026)"
 meta_description: "Honest 5 Inch Letter Stencils review: 42-pc reusable alphabet set. Tested for durability, precision & value. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B097CWMDZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Hymd-iLXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 42-piece set covers A-Z, 0-9, and 16 common symbols/punctuation marks in one purchase"
   - "Thick 0.2mm mylar plastic resists buckling and holds shape even with spray paint overspray"
   - "5-inch letter height is large enough for warehouse signage, yard signs, and poster work"
-cons:
+cons: 
   - "Individual stencils arrive loose in a bag — no storage case, so keeping the set organized takes effort"
   - "Inner cutouts on letters like A, B, and D require small bridges that can tear if you're rough with them"
   - "No lowercase letters — this set is uppercase and numbers only, which limits some craft applications"
+
 ---
 
 If you've ever tried to hand-paint a 5-inch letter without a stencil, you know it ends with wobbly lines and a trip to the craft store for a second sign blank. This 42-piece stencil set from B097CWMDZJ aims to kill that problem for good. After handling the set and digging through 220 ratings (4.4 stars), here's what actually matters before you buy.

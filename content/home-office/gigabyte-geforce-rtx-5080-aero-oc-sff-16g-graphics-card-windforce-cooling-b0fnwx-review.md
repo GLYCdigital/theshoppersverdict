@@ -1,4 +1,5 @@
 ---
+
 title: "GIGABYTE GeForce RTX 5080 AERO OC SFF 16G Graphics Card, WIN"
 seo_title: "GIGABYTE GeForce RTX 5080 AERO OC SFF 16G Graphics Review"
 meta_description: "Our full gigabyte geforce rtx 5080 aero oc sff 16g graphics card, win review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FNWX61HY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71v6oXQ72ZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The SFF Card That Actually Delivers

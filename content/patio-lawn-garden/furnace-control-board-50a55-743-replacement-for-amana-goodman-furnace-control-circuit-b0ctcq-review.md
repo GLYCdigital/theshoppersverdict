@@ -1,4 +1,5 @@
 ---
+
 title: "Furnace Control Board 50A55-743,Replacement for Amana/Goodma"
 seo_title: "Furnace Control Board 50A55-743 Review: Amana/Goodman Replacement"
 meta_description: "Honest review of the 50A55-743 furnace control board for Amana/Goodman systems. Is this $40 replacement worth it? Real pros, cons, and DIY fitment details."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTCQCK6K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DEpr9qLtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Direct drop-in replacement for OEM 50A55-743 boards — no harness splicing or rewiring needed"
   - "Common failure diagnostics LED blinks are clearly labeled on the board face, saving a service call"
   - "Solid solder joints and 1/4-inch quick-connect terminals that hold tight; not flimsy like some aftermarket boards"
-cons:
+cons: 
   - "Mounting holes don't perfectly align with every Goodman/Amana cabinet — a few buyers had to drill new ones"
   - "Some units ship with the onboard fuse seated loosely; check it before powering up"
+
 ---
 
 If your Goodman or Amana furnace just clicked once and went dead, you already know the drill: $150 for a service tech to tell you the control board is fried, then $200–$400 for the OEM part. The 50A55-743 replacement board on Amazon changes that math. At roughly a quarter of the dealer price, this aftermarket board has become the go-to fix for homeowners who can handle a screwdriver and a wire diagram.

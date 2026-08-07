@@ -1,4 +1,5 @@
 ---
+
 title: "LUNA Bar - Mash-Ups LemonZest + Blueberry Flavor - Gluten Fr"
 seo_title: "LUNA Bar - Mash-Ups LemonZest + Blueberry Flavor - Review"
 meta_description: "Our full luna bar - mash-ups lemonzest + blueberry flavor - gluten fr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VL6LJF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H9BsnLtzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I’ll be straight with you: I review coffee gear for a living, but when a snack bar shows up with 229 ratings averaging 4.6 stars, I pay attention — because that’s the same score most pour-over kettles I’ve tested never reach. The LUNA Bar Mash-Ups LemonZest + Blueberry combo is a gluten-free protein bar that’s clearly earning repeat buyers. Here’s the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Oribe Moisture & Control Deep Treatment Masque , 8.5 Fl Oz ("
 seo_title: "Oribe Moisture & Control Deep Treatment Masque , 8 Review"
 meta_description: "Our full oribe moisture & control deep treatment masque , 8.5 fl oz ( review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07NBWW9FV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uxWmF74QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is a $50 hair mask. For that money, you could buy three bottles of drugstore deep conditioner. So the question isn't whether Oribe Moisture & Control works — it's whether it works *well enough* to justify the premium.

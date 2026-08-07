@@ -1,4 +1,5 @@
 ---
+
 title: "Elgato Chat Link Pro - Audio Adapter, for PS5, PS4, Nintendo"
 seo_title: "Elgato Chat Link Pro Review: PS5 & Switch Audio Adapter"
 meta_description: "Elgato Chat Link Pro review: the wired audio adapter that lets streamers capture party chat on PS5, PS4 & Switch. Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09DVMW6GS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614AGgQXZzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zero-latency wired audio splitter that captures party chat and game audio simultaneously for streamers"
   - "Built-in microphone bypass switch lets you toggle between console chat and PC streaming mic without unplugging"
   - "Braided cables and metal-plated 3.5mm jacks hold up to daily use in permanent setups"
-cons:
+cons: 
   - "Doesn't support USB-C headsets without a separate 3.5mm adapter — check your headset before buying"
   - "No inline volume control, so you'll need to adjust levels through your capture software or headset"
+
 ---
 
 Let's cut through the noise. If you're a streamer on PS5, PS4, or Nintendo Switch, you've hit the same wall: you want to get party chat into your broadcast, but the console won't send it through HDMI. The Elgato Chat Link Pro exists to solve exactly that problem. The question is whether it's worth the money when cheaper splitters exist on Amazon. After digging through 220 ratings and the technical specs, here's the real picture.

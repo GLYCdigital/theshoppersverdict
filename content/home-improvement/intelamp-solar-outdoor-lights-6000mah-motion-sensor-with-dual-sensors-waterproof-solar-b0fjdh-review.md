@@ -1,4 +1,5 @@
 ---
+
 title: "intelamp Solar Outdoor Lights,6000mAh Motion Sensor with Dua"
 seo_title: "intelamp Solar Outdoor Lights,6000mAh Motion Senso Review"
 meta_description: "Our full intelamp solar outdoor lights,6000mah motion sensor with dua review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJDHFCNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hHCItj+JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of solar lights that die by 10 PM or motion sensors that trigger on every passing cat, the intelamp 6000mAh model deserves a hard look. This isn't a gimmick fixture — it's a serious piece of outdoor lighting hardware with battery capacity that actually backs up its claims.

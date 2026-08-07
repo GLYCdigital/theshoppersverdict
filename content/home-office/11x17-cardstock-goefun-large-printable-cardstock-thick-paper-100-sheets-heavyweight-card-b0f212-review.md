@@ -1,4 +1,5 @@
 ---
+
 title: "11x17 Cardstock, Goefun Large Printable Cardstock Thick Pape"
 seo_title: "Goefun 11x17 Cardstock Review: Thick, Printable, Worth It?"
 meta_description: "Goefun 11x17 cardstock review: 100 heavyweight sheets, 110lb thickness, printer-friendly. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F212DLG1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51dvTSYokLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 110lb (300gsm) thickness that holds up to heavy ink coverage without warping or bleed-through"
   - "Crisp 11x17 tabloid size — works for posters, menus, and professional presentations without trimming"
   - "Bright white finish (95+ brightness) makes colors pop, especially for photos and graphics"
-cons:
+cons: 
   - "At 300gsm, it's too thick for many standard home printers — check your printer's max paper weight before ordering"
   - "No perforation or pre-scored lines — if you need tear-off sheets, you'll have to cut them yourself"
   - "Comes in a single white color option only — no cream, ivory, or specialty finishes offered"
+
 ---
 
 If you've ever watched a 65lb sheet of cardstock buckle under a heavy inkjet print, you know the frustration. The Goefun 11x17 cardstock is the answer to that specific annoyance — but it comes with one important caveat you need to know before you buy.

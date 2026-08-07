@@ -1,5 +1,6 @@
 ---
 
+
 title: "AUDLES Solar Fence Lights Outdoor"
 seo_title: "AUDLES Solar Fence Lights Review: Bright, Durable, Worth It?"
 meta_description: "Honest AUDLES Solar Fence Lights review: 4.7-star rated. Tested for brightness, battery life, and weather resistance. See pros, cons, and who should buy."
@@ -12,13 +13,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQZ8GW29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81++NEeI5DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "IP65 waterproof rating with sealed solar panel housing — survived direct rain and snow without moisture ingress"
   - "Three adjustable brightness modes plus a dimming option, controlled by a single button on the unit face"
   - "Wide 120-degree beam angle covers fence panels effectively, not just a narrow spotlight"
-cons:
+cons: 
   - "Solar panel is integrated into the fixture — if your fence sits in deep shade, you'll get maybe 2-3 hours of light, not the advertised 8 inch"
   - "Plastic mounting bracket feels sturdy enough, but overtightening the included screws can strip the threads"
+
 
 ---
 

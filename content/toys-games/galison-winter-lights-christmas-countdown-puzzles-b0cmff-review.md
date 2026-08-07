@@ -1,4 +1,5 @@
 ---
+
 title: "Galison Winter Lights Christmas Countdown Puzzles"
 seo_title: "Galison Winter Lights Countdown Puzzles Review (2026)"
 meta_description: "Honest Galison Winter Lights Christmas Countdown Puzzles review: 24 mini puzzles, build quality, and whether this advent calendar is worth buying."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMFFLXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-Mm2-06nL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "24 individually wrapped mini puzzles (each ~40-50 pieces) give you a full month of daily activity, not just one sitting"
   - "Galison's signature thick, glare-free puzzle stock holds up to repeated handling by kids"
   - "Illustrations are genuinely charming — cozy winter scenes with warm lighting, not generic clip-art holiday graphics"
-cons:
+cons: 
   - "Pieces are small — roughly half the size of standard puzzle pieces — which can frustrate adults with larger hands"
   - "No reference poster included; you're working from the box lid image only, which is cramped for some designs"
   - "Some puzzles share similar color palettes (deep blues, dark greens), making certain pieces tricky to sort"
+
 ---
 
 **The 24-Day Puzzle Countdown That Actually Delivers**

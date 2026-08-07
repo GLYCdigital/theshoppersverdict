@@ -1,4 +1,5 @@
 ---
+
 title: "Simply Organic Curry Powder Certified Organic"
 seo_title: "Simply Organic Curry Powder Certified Organic Review: Ver"
 meta_description: "Our full simply organic curry powder certified organic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08FG55X9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WKdgUe0RL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Quick Take**

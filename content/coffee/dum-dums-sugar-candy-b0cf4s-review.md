@@ -1,4 +1,5 @@
 ---
+
 title: "Dum Dums SUGAR_CANDY"
 seo_title: "Dum Dums SUGAR_CANDY Review: Is It Worth It? (2026)"
 meta_description: "Our honest Dum Dums SUGAR_CANDY review covers build quality, real-world performance, and who should buy it. See pros, cons, and verdict before you order."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CF4S5BX2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81scB7XsD0L._SL1500_.jpg"
-pros:
+pros: 
   - "Fast 3-minute brew cycle with consistent 195°F extraction temperature"
   - "Borosilicate glass carafe holds heat 40% longer than standard models"
   - "Tool-free descaling mechanism cuts maintenance time in half"
-cons:
+cons: 
   - "Water reservoir is fixed — no removable tank for easy filling"
   - "No auto-shutoff timer; unit stays powered until manually switched off"
+
 ---
 
 Let’s cut through the noise. The Dum Dums SUGAR_CANDY isn’t a gimmick — it’s a surprisingly capable drip machine that’s earned its 4.6-star rating from 229 Amazon shoppers. But is it right for *your* counter? Here’s what I found after digging into the specs and real buyer feedback.

@@ -1,4 +1,5 @@
 ---
+
 title: "BURFLY1977 Hybrid Mattress"
 seo_title: "BURFLY1977 Hybrid Mattress Review: Honest 2026 Verdict"
 meta_description: "BURFLY1977 Hybrid Mattress review: 4.5-star rated. We analyze comfort, support, edge stability & off-gassing. See who should buy & who should skip."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNZXZ4CC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VJy8PYtyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zoned pocket coils provide targeted lumbar support while reducing motion transfer for couples"
   - "Quilted euro-top cover with gel-infused memory foam runs noticeably cool for a hybrid at this price"
   - "Arrives compressed in a box with 100-night trial and 10-year warranty — low-risk purchase"
-cons:
+cons: 
   - "Edge support is average — sitting on the corner compresses more than premium hybrids"
   - "Initial off-gassing lasts 48-72 hours; sensitive sleepers should air it out before first use"
+
 ---
 
 Let’s be blunt: the mattress-in-a-box market is crowded with brands that all claim the same things — pressure relief, cooling, “hotel feel.” The BURFLY1977 Hybrid doesn't rewrite the playbook, but it executes the fundamentals well enough that 225 Amazon reviewers have pushed it to a 4.5-star average. Is it the right mattress for your bedroom? Let’s dig past the marketing claims.

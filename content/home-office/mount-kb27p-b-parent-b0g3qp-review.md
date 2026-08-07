@@ -1,4 +1,5 @@
 ---
+
 title: "MOUNT-KB27P-B_Parent"
 seo_title: "MOUNT-KB27P-B_Parent Review: Verdict | TSV"
 meta_description: "Our full mount-kb27p-b_parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G3QP15KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716peLisGLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **MOUNT-KB27P-B_Parent Review: The Workspace Upgrade That Actually Earns Its Place**

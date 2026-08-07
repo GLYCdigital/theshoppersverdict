@@ -1,4 +1,5 @@
 ---
+
 title: "Briggs and Stratton Vertical 17.5 HP 500cc INTEK Engine 9amp"
 seo_title: "Briggs & Stratton 17.5 HP INTEK Engine Review: Worth It?"
 meta_description: "Honest Briggs & Stratton 17.5 HP 500cc INTEK Engine review. Real buyer feedback on power, reliability, and where this vertical shaft engine falls short."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07F261TPJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wxvO9vgwL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Drop-in replacement for most 17.5-18 HP Briggs engines with standard 1-inch x 3-5/32-inch shaft and 3.5-inch bolt pattern"
   - "9-amp starter fires instantly even after long storage — multiple buyers report first-pull success after winter"
   - "Solid cast iron cylinder liner and dual ball bearings make this a 1,000+ hour engine, not a disposable one"
-cons:
+cons: 
   - "No fuel tank or muffler included — hidden costs add $60-100 to your total if you're replacing a seized motor"
   - "INtek engines are known for carburetor issues if fuel sits longer than 30 days; plan on adding fuel stabilizer"
   - "Shipping weight is heavy (~70 lbs) and arrives on a pallet; arrange for help unloading before delivery day"
+
 ---
 
 If you're staring at a dead riding mower with a seized engine, you already know the drill: replacing the whole mower costs $2,500+, but a bare engine runs about a third of that. The Briggs & Stratton Vertical 17.5 HP 500cc INTEK with 9-amp starter sits right in that sweet spot — it's the workhorse replacement that keeps a perfectly good deck, transmission, and frame alive for another decade. With 229 ratings averaging 4.6 stars, it's clearly doing something right. Here's what you need to know before you click buy.

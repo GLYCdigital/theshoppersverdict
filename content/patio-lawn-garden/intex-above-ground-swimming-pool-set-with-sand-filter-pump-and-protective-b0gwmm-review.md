@@ -1,4 +1,5 @@
 ---
+
 title: "INTEX Above Ground Swimming Pool Set with Sand Filter Pump a"
 seo_title: "INTEX Above Ground Swimming Pool Set with Sand Fil Review"
 meta_description: "Our full intex above ground swimming pool set with sand filter pump a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWMM7PV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-bLUCqM8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most inflatable or metal-frame pools under $500 are toys with a water bill attached. This INTEX set is different — but it's not without quirks. Here's what 220 Amazon ratings at 4.4 stars actually tell you, and what they don't.

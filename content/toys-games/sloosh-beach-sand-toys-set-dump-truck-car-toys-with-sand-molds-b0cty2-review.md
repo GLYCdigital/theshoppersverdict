@@ -1,4 +1,5 @@
 ---
+
 title: "Sloosh Beach Sand Toys Set - Dump Truck Car Toys with Sand M"
 seo_title: "Sloosh Beach Sand Toys Set - Dump Truck Car Toys w Review"
 meta_description: "Our full sloosh beach sand toys set - dump truck car toys with sand m review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTY28RZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91DS0obmieL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a $12 sand toy set crack on the first castle flip, you know the frustration. The Sloosh Beach Sand Toys Set aims to fix that with a dump truck that actually works and molds thick enough to survive a toddler's enthusiasm. After digging through 229 ratings averaging 4.6 stars, here's the real picture.

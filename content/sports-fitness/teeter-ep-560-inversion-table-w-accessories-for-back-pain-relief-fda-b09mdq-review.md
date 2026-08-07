@@ -1,4 +1,5 @@
 ---
+
 title: "TEETER EP-560 Inversion Table w/Accessories for Back Pain Re"
 seo_title: "TEETER EP-560 Inversion Table w/Accessories for Ba Review"
 meta_description: "Our full teeter ep-560 inversion table w/accessories for back pain re review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09MDQC8DZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VIwKpFHwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the TEETER EP-560 the real deal for back pain relief, or just another overpriced stretching rack?**

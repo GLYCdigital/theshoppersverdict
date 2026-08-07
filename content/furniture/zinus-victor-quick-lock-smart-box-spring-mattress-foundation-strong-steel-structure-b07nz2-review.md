@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Victor Quick Lock Smart Box Spring / Mattress Foundati"
 seo_title: "Zinus Victor Quick Lock Smart Box Spring / Mattres Review"
 meta_description: "Our full zinus victor quick lock smart box spring / mattress foundati review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07NZ26NT4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G3kNnRBzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Quick Lock System That Actually Works

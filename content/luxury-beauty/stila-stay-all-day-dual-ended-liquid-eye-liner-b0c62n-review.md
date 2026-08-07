@@ -1,4 +1,5 @@
 ---
+
 title: "stila Stay All DayÂ® Dual-Ended Liquid Eye Liner"
 seo_title: "stila Stay All DayÂ® Dual-Ended Liquid Eye Liner Review: "
 meta_description: "Our full stila stay all dayâ® dual-ended liquid eye liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C62NQG7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G5HPUTs8L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the makeup aisle debating between a felt-tip liner for crisp wings and a brush liner for tightlining, stila just solved your problem with one dual-ended tube. The Stay All Day Dual-Ended Liquid Eye Liner packs both applicators into a single sleek pen — but the real question is whether the formula lives up to the "Stay All Day" promise.

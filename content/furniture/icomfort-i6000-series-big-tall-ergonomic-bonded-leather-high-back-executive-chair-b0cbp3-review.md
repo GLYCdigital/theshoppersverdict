@@ -1,4 +1,5 @@
 ---
+
 title: "iComfort i6000 Series Big & Tall Ergonomic Bonded Leather Hi"
 seo_title: "iComfort i6000 Series Big & Tall Ergonomic Bonded  Review"
 meta_description: "Our full icomfort i6000 series big & tall ergonomic bonded leather hi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CBP3LL2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MBMR-FM0L._AC_SL1262_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # iComfort i6000 Series Big & Tall Ergonomic Bonded Leather Hi

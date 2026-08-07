@@ -1,4 +1,5 @@
 ---
+
 title: "Pack of 6 Replacement Charcoal Water Filters By Housewares S"
 seo_title: "Pack of 6 Replacement Charcoal Water Filters By Ho Review"
 meta_description: "Our full pack of 6 replacement charcoal water filters by housewares s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09Z64RMT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sYFHO75rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Keurig, you already know the drill: that little white filter cartridge in the reservoir is the only thing standing between you and coffee that tastes vaguely of swimming pool. The Housewares S 6-pack is one of the highest-rated aftermarket options on Amazon at 4.8 stars from 240 buyers, and after looking at what's actually in the box, it's easy to see why.

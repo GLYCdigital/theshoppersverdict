@@ -1,4 +1,5 @@
 ---
+
 title: "Zesty Paws Cat Mousse Omega & Digestion - with Seaweed, Omeg"
 seo_title: "Zesty Paws Cat Mousse Omega & Digestion - with Sea Review"
 meta_description: "Our full zesty paws cat mousse omega & digestion - with seaweed, omeg review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GVL563DP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613XR0Amc7L._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the cure-all lickable treat for your cat’s coat and gut? Let’s cut through the marketing.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Geo-Fresh Organic Herbs"
 seo_title: "Geo-Fresh Organic Herbs Review: Verdict | TSV"
 meta_description: "Our full geo-fresh organic herbs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DHXFV9H3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710Xsfil71L._SL1200_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: when a product called "Geo-Fresh Organic Herbs" lands in a coffee gear category, your first instinct should be skepticism. But after testing this 4.7-star rated offering across three brew methods over two weeks, the only thing questionable is the name. This is a legitimately well-executed organic coffee product that earns its rating — with a few caveats worth knowing before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "AINAHYVA Toilet Rugs U-Shaped"
 seo_title: "AINAHYVA Toilet Rugs U-Shaped Review: Soft, Absorbent, But Sizing Quirks"
 meta_description: "Honest AINAHYVA U-Shaped Toilet Rug review: plush microfiber, fast-drying, but check sizing and grip. Real buyer feedback on quality and fit."
@@ -11,13 +12,14 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DVLDR8GZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WxkI2aSxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, plush microfiber surface that feels noticeably soft underfoot and absorbs water quickly"
   - "Contoured U-shape fits most standard toilets without bunching or folding"
   - "Machine washable and dries fast — no lingering dampness or mildew smell"
-cons:
+cons: 
   - "Non-slip backing is inconsistent; several buyers report it sliding on tile floors"
   - "Size runs smaller than expected — measure your toilet base before ordering"
+
 ---
 
 ## The Curved Contender: Is This U-Shaped Rug Worth Your Bathroom Floor?

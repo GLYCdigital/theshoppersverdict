@@ -1,4 +1,5 @@
 ---
+
 title: "YEAKOO Narrow Side Table with Charging Station, 3-Tier End T"
 seo_title: "YEAKOO Narrow Side Table with Charging Station, 3- Review"
 meta_description: "Our full yeakoo narrow side table with charging station, 3-tier end t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F6SMQP95/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c+uVrojlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about narrow side tables: most are either flimsy particleboard towers that wobble or overpriced "accent pieces" that hold one drink and a remote. The YEAKOO Narrow Side Table with Charging Station tries to be the smart middle ground — compact vertical storage plus integrated power, all under $50 territory. After digging through 220 ratings and the spec sheet, here's the real deal.

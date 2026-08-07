@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Grass Pad with Tray, Artificial Turf Grass Potty, Reusab"
 seo_title: "Dog Grass Pad with Tray Review: Reusable Turf Potty Tested"
 meta_description: "Hands-on review of the Reusab Dog Grass Pad with Tray. Is this 4.2-star artificial turf potty worth $46? Pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWQJXYJC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cpNpyIA2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine grass-like texture that dogs actually accept — most pups transition within days, not weeks"
   - "Drainage tray separates liquid from turf, cutting odor buildup versus flat pee pads"
   - "Holds up to repeated washing; turf stays intact after months of scrubbing"
-cons:
+cons: 
   - "At 24x16 inches, it's tight for medium and large breeds — a 40-pound dog will hang off the edges"
   - "Plastic tray corners can crack if dropped or stepped on; not a heavy-duty crate pan"
   - "No built-in deodorizer — you'll need enzyme cleaner weekly to keep smells neutralized"
+
 ---
 
 **Is this the indoor potty solution that finally works — or just another plastic tray that'll end up in your garage?**

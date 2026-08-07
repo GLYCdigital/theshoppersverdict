@@ -1,4 +1,5 @@
 ---
+
 title: "Orion Safety 584 ALERTER Basic 12 GA 4-Flares"
 seo_title: "Orion Safety 584 ALERTER Basic 12 GA 4-Flares Review: Ver"
 meta_description: "Our full orion safety 584 alerter basic 12 ga 4-flares review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B002IV84TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lrgQmEsqL._AC_SL1194_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're broken down on a dark highway at 11 PM. A handheld flare glows maybe 100 feet. The Orion Safety 584 ALERTER puts a red signal 300 feet in the air. That's the difference between being seen and being a statistic. Here's the honest breakdown after looking at what this kit actually does.

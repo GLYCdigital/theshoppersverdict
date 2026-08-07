@@ -1,4 +1,5 @@
 ---
+
 title: "Elemental Summit Mug Discontinued Parent"
 seo_title: "Elemental Summit Mug Review: Is It Worth the Hype?"
 meta_description: "Elemental Summit Mug review: 4.3/5 rated travel mug with 215 reviews. We break down insulation, durability, and whether this discontinued parent model still holds up."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GV22C88W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yr0qHiaqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Double-wall vacuum insulation keeps drinks hot for 4–6 hours and iced for 12+, verified by multiple long-term users"
   - "Fully leak-proof twist-lock lid survived bag tosses and car cup-holder jostles without a single spill in reported use"
   - "16oz capacity with a slim base that fits standard cupholders — rare for insulated mugs this size"
-cons:
+cons: 
   - "Discontinued status means color options are limited to whatever third-party sellers have left, and warranty support is essentially nonexistent now"
   - "Exterior scratches easily — the powder-coated finish shows wear within months of daily carry, per multiple owner photos"
   - "Not dishwasher-safe despite what some listing photos suggest; hand-washing is mandatory to preserve the vacuum seal"
+
 ---
 
 Let's address the elephant in the room first: this is the "Discontinued Parent" variant of the Elemental Summit Mug. That means the original manufacturer has moved on, and what you're buying now is leftover stock or a close relative of the original. That matters for warranty, color choices, and long-term support. But does it matter for performance? Here's the real story.

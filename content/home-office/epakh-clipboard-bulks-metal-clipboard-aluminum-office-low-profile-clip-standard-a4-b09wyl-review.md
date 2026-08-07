@@ -1,4 +1,5 @@
 ---
+
 title: "Epakh Clipboard Bulks Metal Clipboard Aluminum Office Low Pr"
 seo_title: "Epakh Metal Clipboard Review: Sturdy Aluminum Board for Office"
 meta_description: "Epakh aluminum clipboard review: durable low-profile metal clip board for office use. See real pros, cons, and who should buy this 4.7-star pick."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WYLWPVM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51s1CjmBfHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick aluminum board doesn't flex or bend even under heavy writing pressure"
   - "Low-profile clip sits flush against the board, so it slides easily into bags or briefcases"
   - "Rounded corners and smooth edges — no snags on clothing or paper cuts"
-cons:
+cons: 
   - "Clip tension is strong; removing thick document stacks takes deliberate effort"
   - "Aluminum surface shows scuffs and fingerprints quickly, especially in black finish"
+
 ---
 
 Most clipboards are afterthoughts — flimsy Masonite boards with a spring clip that gives out after three months. The Epakh aluminum clipboard is not that. At $12.99, it's priced like a disposable office supply but built like something you'd find in a fire marshal's hands at a scene inspection. After handling the specs and digging through 235 ratings (4.7 stars), here's the real story.

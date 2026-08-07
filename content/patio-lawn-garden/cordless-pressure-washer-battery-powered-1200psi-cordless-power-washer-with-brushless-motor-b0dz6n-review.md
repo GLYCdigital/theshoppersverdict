@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Pressure Washer Battery Powered; 1200PSI Cordless P"
 seo_title: "Cordless Pressure Washer Review: 1200PSI Battery Powered"
 meta_description: "Honest 1200PSI cordless pressure washer review: battery life, brushless motor, real cleaning power tested. Find out if this portable washer is worth it."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DZ6NYT9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Rb3cxnDUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers consistent 1200PSI without the maintenance headaches of brushed motors"
   - "True portability — no extension cords or garden hose tethering; works anywhere you can carry it"
   - "Multiple nozzle options included for different cleaning tasks, from gentle rinse to concentrated jet"
-cons:
+cons: 
   - "Battery life is the limiting factor — expect 15-20 minutes of actual spray time per charge, not enough for large driveways"
   - "1200PSI is adequate for light duty but won't strip stubborn grime, mold, or years of buildup like a gas unit"
   - "Charging the battery takes several hours, so plan ahead or buy a spare"
+
 ---
 
 **Opening Hook**

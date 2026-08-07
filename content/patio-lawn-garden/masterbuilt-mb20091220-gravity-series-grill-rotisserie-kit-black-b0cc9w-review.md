@@ -1,4 +1,5 @@
 ---
+
 title: "Masterbuilt MB20091220 Gravity Series Grill Rotisserie Kit, "
 seo_title: "Masterbuilt MB20091220 Gravity Series Grill Rotiss Review"
 meta_description: "Our full masterbuilt mb20091220 gravity series grill rotisserie kit,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CC9WRVF7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41tz2KDMgjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Does the Masterbuilt Rotisserie Kit Deliver, or Is It a Spit in the Dark?

@@ -1,4 +1,5 @@
 ---
+
 title: "M&M'S Christmas Candy"
 seo_title: "M&M'S Christmas Candy Review: Verdict | TSV"
 meta_description: "Our full m&m's christmas candy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DMQGF1SL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61InsYv3EpL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Holiday Classic That Needs No Introduction — But Does It Need Your Money?**

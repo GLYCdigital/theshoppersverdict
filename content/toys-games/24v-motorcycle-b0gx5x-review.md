@@ -1,4 +1,5 @@
 ---
+
 title: "24V Motorcycle Review: Power Meets Play"
 seo_title: "24V Motorcycle Review: Worth It? Real Rider Test"
 meta_description: "Our 24V Motorcycle review covers power, battery life, build quality, and safety. See real pros, cons, and who should buy this ride-on bike."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GX5XSJB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PgFRzESLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "24V dual motors deliver real acceleration on grass and mild hills, not just flat pavement"
   - "Suspension system actually absorbs bumps — kids can ride over uneven backyard terrain without jarring stops"
   - "Battery life holds up to 45+ minutes of continuous riding, enough for multiple sessions between charges"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with vague instructions; some holes don't align perfectly with included tools"
   - "No remote control option for parents — younger riders need close supervision until they master the throttle"
+
 ---
 
 ## Is the 24V Motorcycle Worth Your Money?

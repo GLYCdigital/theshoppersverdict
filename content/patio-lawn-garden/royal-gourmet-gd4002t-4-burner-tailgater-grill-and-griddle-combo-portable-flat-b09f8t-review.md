@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Gourmet GD4002T 4-Burner Tailgater Grill and Griddle C"
 seo_title: "Royal Gourmet GD4002T 4-Burner Tailgater Grill and Review"
 meta_description: "Our full royal gourmet gd4002t 4-burner tailgater grill and griddle c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09F8T5VYG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mVEtORWUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Two-Burner Tailgate Workhorse That Actually Does Double Duty**

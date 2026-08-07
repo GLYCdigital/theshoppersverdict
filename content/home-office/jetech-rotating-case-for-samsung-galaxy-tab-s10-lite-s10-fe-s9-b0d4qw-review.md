@@ -1,4 +1,5 @@
 ---
+
 title: "JETech Rotating Case for Samsung Galaxy Tab S10 Lite / S10 F"
 seo_title: "JETech Rotating Case for Samsung Galaxy Tab S10 Li Review"
 meta_description: "Our full jetech rotating case for samsung galaxy tab s10 lite / s10 f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4QWGBQ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Hucz2n4RL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The JETech Rotating Case for the Samsung Galaxy Tab S10 Lite (and the S10 FE variant) isn't trying to be a luxury leather folio. At $17.99, it's a pragmatic workspace tool that answers one question: how do I prop this 10.5-inch tablet at the exact angle I need, without fighting a flimsy origami fold? The answer, as 225 Amazon reviewers at a 4.5-star average will tell you, is a sturdy rotating kickstand that actually works. Let's break down what you're getting before you click buy.

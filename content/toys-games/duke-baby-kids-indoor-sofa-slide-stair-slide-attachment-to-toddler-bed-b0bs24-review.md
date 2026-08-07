@@ -1,4 +1,5 @@
 ---
+
 title: "DUKE BABY Kids Indoor Sofa Slide Stair Slide Attachment to T"
 seo_title: "DUKE BABY Kids Indoor Sofa Slide Review (2026): Is It Worth It?"
 meta_description: "DUKE BABY Kids Indoor Sofa Slide: 4.4★ rated toddler stair slide. Real parent feedback, safety concerns, and fit tips. Buy it or skip it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BS24W8H7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o3cK-t0VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Folds flat for storage and portability — takes up less space than a ride-on toy when not in use"
   - "Dual-function design works as both a stair climber and slide, giving toddlers two activities in one"
   - "Non-slip fabric surface on steps provides grip for little feet during climbing"
-cons:
+cons: 
   - "Requires a stable anchor point (couch, bed, or staircase) — won't work as a standalone play structure"
   - "Some parents report the slide surface can be slippery for fast descents, especially on hardwood floors"
   - "No assembly instructions included — setup is intuitive but may confuse some buyers"
+
 ---
 
 **The short version:** This is a cleverly designed toddler activity that turns your existing furniture into a mini playground. But it's not a "set it and forget it" toy — it needs supervision and a proper anchor point to work safely.

@@ -1,4 +1,5 @@
 ---
+
 title: "Pedigree High Protein Adult Soft Wet Dog Food, Beef & Bison "
 seo_title: "Pedigree High Protein Adult Soft Wet Dog Food, Bee Review"
 meta_description: "Our full pedigree high protein adult soft wet dog food, beef & bison  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FW4M7HXT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71a8Dw9niLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-star rating on this Pedigree High Protein line isn't just hype — but let's dig into whether it's actually worth swapping your dog's current food for.**

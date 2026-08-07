@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken Nesting Boxes,Six Compartments Metal Chicken Laying"
 seo_title: "Chicken Nesting Boxes 6 Compartment Review (2026): Worth It?"
 meta_description: "Honest review of the 6-compartment metal chicken nesting box with roll-out trays. Build quality, real-world use, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GWHVMRW6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dXlSSX14L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Roll-out tray catches eggs at an angle, keeping them clean and reducing pecking — verified by multiple buyers"
   - "Galvanized steel construction holds up to weather and repeated cleaning without rusting"
   - "Six individual compartments give hens privacy and reduce broodiness in active flocks"
-cons:
+cons: 
   - "Assembly requires a wrench and patience; holes occasionally don't line up perfectly"
   - "Mounting hardware (screws for wood) not included — you'll need your own if attaching to a coop wall"
   - "Roll-out tray is shallow; eggs can bounce out if hens kick bedding aggressively"
+
 ---
 
 If you're tired of cracked, dirty eggs and hens fighting over one prime nesting spot, this six-compartment metal box is worth a serious look. It solves two of the most annoying coop problems at once: egg cleanliness and hen competition. But as with most mid-priced coop accessories, there are assembly quirks and design tradeoffs you need to know before you commit.

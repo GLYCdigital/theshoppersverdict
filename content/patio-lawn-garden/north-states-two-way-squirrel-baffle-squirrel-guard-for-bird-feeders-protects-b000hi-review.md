@@ -1,4 +1,5 @@
 ---
+
 title: "North States - Two-Way Squirrel Baffle: Squirrel Guard for B"
 seo_title: "North States - Two-Way Squirrel Baffle: Squirrel G Review"
 meta_description: "Our full north states - two-way squirrel baffle: squirrel guard for b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000HI3DWW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KzFpbuUPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The War on Squirrels: A 4.4-Star Solution That Mostly Works**

@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B Charcoal Toothbrush Whitening Therapy"
 seo_title: "Oral-B Charcoal Toothbrush Whitening Therapy Review: Verd"
 meta_description: "Our full oral-b charcoal toothbrush whitening therapy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08KT9FT57/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uDDld46EL._AC_SL1248_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Oral-B Charcoal Toothbrush: Does the Black Bristle Gimmick Actually Work?

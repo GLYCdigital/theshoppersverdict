@@ -1,4 +1,5 @@
 ---
+
 title: "Whirlpool W10165294RB Genuine OEM Trash Compactor Bags (60-P"
 seo_title: "Whirlpool W10165294RB Genuine OEM Trash Compactor  Review"
 meta_description: "Our full whirlpool w10165294rb genuine oem trash compactor bags (60-p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001U0OJ7O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zwKCUPdpL._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a Whirlpool trash compactor, you already know the pain of generic bags that slip off the bin mid-compact, leaving crushed coffee grounds smeared across the drawer. The W10165294RB is the factory-spec fix, and at $45.27 for 60 bags, it's priced like a premium consumable — but here's the thing: it actually earns that premium.

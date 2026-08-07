@@ -1,4 +1,5 @@
 ---
+
 title: "Babelio Upgraded Baby Gate with Cat Door, Auto Close Durable"
 seo_title: "Babelio Baby Gate with Cat Door Review: Auto-Close, Durable"
 meta_description: "Read our honest Babelio baby gate with cat door review. Auto-close, 30-inch width, dual-lock. Real pros, cons, and buyer verdict. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZ848X7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812ypsh1DqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Auto-close hinge works reliably — no more chasing after a forgotten open gate"
   - "Small 7.5 x 8-inch cat door with a flexible flap lets cats pass while blocking most small dogs"
   - "Pressure-mount design installs in under 5 minutes without drilling; hardware kit included for permanent mount"
-cons:
+cons: 
   - "Pressure mounts can leave scuff marks on painted doorframes if overtightened"
   - "Cat door flap is not lockable — determined dogs may push through if they fit"
   - "32-inch width is snug for wider openings; measure before buying"
+
 ---
 
 If you've ever tripped over a baby gate at 2 a.m. or watched your cat stare mournfully through a barrier they can't cross, the Babelio Upgraded Baby Gate is trying to solve two problems at once. It's a pressure-mounted gate with a built-in cat door, an auto-close hinge, and dual-lock safety. At 4.5 stars across 225 ratings, it's clearly working for most households. But "most" isn't "all" — here's who should buy it and who should keep scrolling.

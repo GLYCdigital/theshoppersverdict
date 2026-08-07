@@ -1,4 +1,5 @@
 ---
+
 title: "MAXYOYO Adjustable Floor Sofa Couch with 2 Pillows, Multi-Fu"
 seo_title: "MAXYOYO Adjustable Floor Sofa Couch with 2 Pillows Review"
 meta_description: "Our full maxyoyo adjustable floor sofa couch with 2 pillows, multi-fu review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DGY1W1YG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pu9hAqMHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The floor sofa that's trying to be everything

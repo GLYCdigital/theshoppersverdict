@@ -1,4 +1,5 @@
 ---
+
 title: "Loisa Sofrito Cooking Sauce, Non-GMO, No-MSG, No Preservativ"
 seo_title: "Loisa Sofrito Cooking Sauce, Non-GMO, No-MSG, No P Review"
 meta_description: "Our full loisa sofrito cooking sauce, non-gmo, no-msg, no preservativ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CLT8ZKBD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D2CTcWM-L._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Loisa Sofrito Cooking Sauce: The Shortcut That Actually Tastes Homemade

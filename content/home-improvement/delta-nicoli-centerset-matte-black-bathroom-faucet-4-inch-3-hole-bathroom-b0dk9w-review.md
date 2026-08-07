@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Nicoli Centerset Matte Black Bathroom Faucet, 4 Inch 3 inch"
 seo_title: "Delta Nicoli Centerset Matte Black Faucet Review (2026)"
 meta_description: "Honest Delta Nicoli centerset matte black bathroom faucet review: build quality, installation, Diamond Seal tech, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK9WLMMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yRiZ9B3VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal Technology eliminates the need for a rubber washer, reducing leak points and extending valve life"
   - "Matte black finish is applied via a multi-step process that resists fingerprints, water spots, and corrosion"
   - "Metal pop-up drain assembly included — most competitors at this price ship plastic"
-cons:
+cons: 
   - "4-inch centerset configuration requires a 3-hole sink; won't fit single-hole or 8-inch widespread setups without modification"
   - "Low-arc spout (5.28 inches) may feel restrictive for filling tall pitchers or washing larger items"
   - "Matte black finish, while durable, will show hard water mineral deposits more visibly than chrome"
+
 ---
 
 **The Delta Nicoli Centerset Matte Black Bathroom Faucet, 4 Inch 3** is the kind of faucet that makes you wonder why anyone still buys chrome. At a glance, it's a clean, low-profile centerset with a matte black finish that looks far more expensive than its price point suggests. But as with any hardware purchase, the real story is in the details — and the installation, not the glamour shots.

@@ -1,4 +1,5 @@
 ---
+
 title: "Carbone, Pasta Sauce Marinara Delicato, 24 Ounce"
 seo_title: "Carbone Marinara Delicato Review: Worth the Hype?"
 meta_description: "Carbone Marinara Delicato 24 oz review: bold flavor, real ingredients, but is it worth the price? Honest pros, cons, and buying verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BH9F6SXZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tjRiEwyGL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, fresh tomato flavor with a clean finish — no cloying sweetness or heavy oregano"
   - "24-ounce glass jar holds enough for a full pound of pasta plus leftovers"
   - "Short, recognizable ingredient list — no added sugar, no gums, no preservatives"
-cons:
+cons: 
   - "Pricey per ounce compared to grocery store staples like Rao's or Classico"
   - "Thinner consistency — not ideal if you want a chunky, slow-simmered texture"
   - "Garlic flavor is subtle; if you want punchy garlic, you'll need to add your own"
+
 ---
 
 Let's be honest: the pasta sauce aisle is a graveyard of mediocrity. Row after row of sugary, oregano-dusted tomato water that all tastes like the same sad marinara. So when a jar with "Carbone" on the label shows up — the same name behind the notoriously hard-to-book NYC restaurant — you're right to be skeptical. Is this just another celebrity-branded cash grab, or does the sauce actually deliver?

@@ -1,4 +1,5 @@
 ---
+
 title: "Acqua Panna Natural Spring Water, 25.3 Oz Glass Bottle (Pack"
 seo_title: "Acqua Panna Glass Bottle Review: Premium Water for Coffee"
 meta_description: "Honest Acqua Panna 25.3 oz glass bottle review: Does premium spring water improve coffee taste? Real buyer feedback, pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3TTRG9R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WZQwTVp3L._SL1500_.jpg"
-pros:
+pros: 
   - "Neutral pH and low mineral content extract coffee flavors without adding off-notes"
   - "25.3 oz glass bottle is perfect for pour-over brewers requiring precise water ratios"
   - "Consistent TDS profile batch-to-batch — reliable for dialing in espresso"
-cons:
+cons: 
   - "Significant cost per brew compared to filtered tap water"
   - "Glass bottles are heavy and increase shipping weight; recycling required"
   - "No resealable cap on some shipments — must use same-day or refrigerate"
+
 ---
 
 ## Is Premium Spring Water Worth It for Coffee?

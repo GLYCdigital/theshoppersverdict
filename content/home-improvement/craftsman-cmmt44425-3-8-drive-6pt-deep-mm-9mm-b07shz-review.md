@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN CMMT44425 3/8 inch  Drive 6pt Deep MM - 9mm"
 seo_title: "CRAFTSMAN CMMT44425 9mm Deep Socket Review: 3/8 inch  Drive"
 meta_description: "CRAFTSMAN CMMT44425 9mm deep socket review: build quality, real-world fit, and durability. Is this 3/8 inch  drive socket worth buying? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07SHZH6WG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41GR23VogFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full deep-well length (about 3 inches) reaches recessed fasteners that standard sockets can't touch"
   - "Chrome vanadium steel with a mirror-polished finish that resists rust and wipes clean easily"
   - "Six-point broached opening grips bolt heads fully, reducing the chance of rounding off worn fasteners"
-cons:
+cons: 
   - "No laser-etched size marking — the stamp can be hard to read in low light or once the socket gets grimy"
   - "Sold individually, so you'll pay more per socket than buying a full set if you need multiple sizes"
+
 ---
 
 Let’s be blunt: most people don’t get excited about a single 9mm socket. But if you’ve ever been under a car or inside an engine bay with a stubborn fastener recessed deep in a bore, you know exactly why a dedicated deep-well socket earns its place in your box. The CRAFTSMAN CMMT44425 is that tool.

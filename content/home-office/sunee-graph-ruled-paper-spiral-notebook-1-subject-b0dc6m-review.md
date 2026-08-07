@@ -1,4 +1,5 @@
 ---
+
 title: "SUNEE Graph Ruled Paper, Spiral Notebook, 1-Subject"
 seo_title: "SUNEE Graph Ruled Paper, Spiral Notebook, 1-Subjec Review"
 meta_description: "Our full sunee graph ruled paper, spiral notebook, 1-subject review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DC6MF9HJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713ETV5GO0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Graph paper notebooks are a dime a dozen on Amazon, but most are flimsy, bleed-prone, or both. The SUNEE 1-Subject Graph Ruled Spiral Notebook sits at 4.7 stars with 235 ratings for a reason — it gets the fundamentals right without overcomplicating anything. Here's the breakdown after digging through the specs and real buyer feedback.

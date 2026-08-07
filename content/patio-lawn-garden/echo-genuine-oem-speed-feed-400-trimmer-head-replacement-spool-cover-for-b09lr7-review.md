@@ -1,4 +1,5 @@
 ---
+
 title: "Echo Genuine OEM Speed Feed 400 Trimmer Head Replacement Spo"
 seo_title: "Echo Speed Feed 400 Trimmer Head Review: Worth It? (2026)"
 meta_description: "Honest Echo Speed Feed 400 trimmer head review: build quality, real-world bump feed performance, compatibility, and common complaints from 235 verified buyers."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09LR77RF4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sknTpjixL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Tool-free reload — the Speed Feed 400 lets you wind new line in under a minute without disassembling the head"
   - "Genuine OEM part — exact fit and thread pattern for Echo trimmers with 10mm shafts, no adapter guessing games"
   - "Bump feed works consistently — the spring-loaded mechanism actually releases line when you tap it, not when you don't"
-cons:
+cons: 
   - Line thickness limited to 0.095 inch " or 0.105 inch " — you can't step up to heavier 0.130 inch " line for thick brush
   - "The plastic housing can crack if you're careless hitting curbs or concrete — replacement covers are sold separately"
   - "Pre-wound spools cost almost as much as the head itself, so the cost savings only show if you wind your own line"
+
 ---
 
 Look, if you're reading this, you've probably already thrown a cheap trimmer head across your yard in frustration. The Echo Genuine OEM Speed Feed 400 is the part that ends that cycle. It's not flashy, it doesn't have LEDs, and it won't mow your lawn for you. But it does one thing exceptionally well: it feeds line when you tap it, and stops feeding when you don't. That's the entire job, and the Speed Feed 400 nails it.

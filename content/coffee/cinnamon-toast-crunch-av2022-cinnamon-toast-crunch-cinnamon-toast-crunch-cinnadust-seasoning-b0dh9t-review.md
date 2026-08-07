@@ -1,4 +1,5 @@
 ---
+
 title: "Cinnamon Toast Crunch av2022-Cinnamon Toast Crunch-cinnamon"
 seo_title: "Cinnamon Toast Crunch Coffee Review: Worth It? (2026)"
 meta_description: "Cinnamon Toast Crunch av2022 coffee maker review: 4.6-star rated. Does this cinnamon-flavored brewer deliver? Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DH9TT5JG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CVP802jhL._SL1469_.jpg"
-pros:
+pros: 
   - "Cinnamon flavor is genuinely integrated into the brew cycle, not just a syrup you add after"
   - "Brews a full 12-cup carafe in under 8 minutes — faster than most drip machines in this class"
   - "Cinnadust seasoning shaker included lets you customize sweetness without clumping"
-cons:
+cons: 
   - "Carafe lid isn't drip-proof when pouring — expect a few drops on the counter"
   - "Cinnamon scent lingers in the reservoir; you'll taste it even when brewing plain coffee"
   - "No programmable timer — you can't wake up to fresh coffee already brewed"
+
 ---
 
 # Cinnamon Toast Crunch Coffee Maker: Breakfast Cereal Meets Your Morning Brew

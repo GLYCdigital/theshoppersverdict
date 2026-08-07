@@ -1,4 +1,5 @@
 ---
+
 title: "fishkeeper Aquarium Air Pump, USB Rechargeable Lithium Batte"
 seo_title: "fishkeeper USB Rechargeable Air Pump Review (2026): Battery Backup"
 meta_description: "Honest fishkeeper USB air pump review: battery life, airflow, noise, and power-outage reliability. See if this 4.5-star backup pump fits your tank."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D49MG5YN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B5oxyMOIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual power modes — runs on USB wall power normally, switches to internal lithium battery automatically during outages"
   - "Genuinely quiet operation at low setting; most buyers report it's barely audible across a room"
   - "USB-C charging means you can top it off from a power bank, laptop, or car adapter — not just a wall wart"
-cons:
+cons: 
   - "Airflow is modest; at max output it's suitable for tanks up to ~20 gallons, not big setups"
   - "Battery runtime at high flow is shorter than advertised — expect 8–10 hours, not 12, in real use"
   - "Included airline tubing is thin and kinks easily; budget for a better silicone line"
+
 ---
 
 ## The Power-Outage Insurance Your Fish Actually Need

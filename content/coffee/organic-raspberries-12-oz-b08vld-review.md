@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Raspberries, 12 OZ"
 seo_title: "Organic Raspberries, 12 OZ Review: Verdict | TSV"
 meta_description: "Our full organic raspberries, 12 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08VLD2XR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414CQy4fGYL._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this review is and isn't. This is the Organic Raspberries listing that lives in the coffee maker and coffee gear category on Amazon. That's a categorization quirk — the algorithm stuffed a produce item into a small-appliance section. But the product itself is real, and with 229 ratings averaging 4.6 stars, enough people have bought it to give us a solid picture of what's actually in that 12-ounce package.

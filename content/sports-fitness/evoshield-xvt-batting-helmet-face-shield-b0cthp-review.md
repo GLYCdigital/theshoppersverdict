@@ -1,4 +1,5 @@
 ---
+
 title: "EvoShield XVT Batting Helmet Face Shield"
 seo_title: "EvoShield XVT Face Shield Review: Is It Worth It?"
 meta_description: "EvoShield XVT Batting Helmet Face Shield review: 4.5 stars from 225 buyers. Real protection data, fit notes, and who should skip it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CTHPH6RN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tv7z50FNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Form-fit polycarbonate shell with dual-density foam liner absorbs impacts without adding noticeable weight"
   - "Tool-free mounting system attaches to most major helmet brands in under five minutes"
   - "Anti-glare matte finish reduces sun and stadium light reflection during day games"
-cons:
+cons: 
   - "Does not include a chin strap — you'll need to buy one separately or rig your own"
   - "Bulky profile can feel restrictive for players who prefer a low-profile cage style"
+
 ---
 
 You've seen the photos of guys taking 90-mph fastballs off the cheek. The EvoShield XVT is designed to make sure that never happens to you or your kid. With 225 ratings averaging 4.5 stars, this is one of the more popular aftermarket face shields on the market. But popularity doesn't automatically mean it's right for every player. Here's what you need to know before you click buy.

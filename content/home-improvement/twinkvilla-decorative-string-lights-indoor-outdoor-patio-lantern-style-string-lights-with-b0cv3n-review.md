@@ -1,4 +1,5 @@
 ---
+
 title: "TWINKVILLA Decorative String Lights Indoor Outdoor, Patio La"
 seo_title: "TWINKVILLA Decorative String Lights Indoor Outdoor Review"
 meta_description: "Our full twinkvilla decorative string lights indoor outdoor, patio la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV3N5MMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gGGQ2-EgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the listing photos and tell you what these TWINKVILLA string lights actually do once they're hanging.

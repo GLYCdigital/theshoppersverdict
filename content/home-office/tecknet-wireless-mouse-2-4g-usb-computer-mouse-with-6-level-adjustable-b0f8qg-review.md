@@ -1,4 +1,5 @@
 ---
+
 title: "TECKNET Wireless Mouse, 2.4G USB Computer Mouse with 6-Level"
 seo_title: "TECKNET Wireless Mouse, 2.4G USB Computer Mouse wi Review"
 meta_description: "Our full tecknet wireless mouse, 2.4g usb computer mouse with 6-level review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8QGGBGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dwsi7sDTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $15 mouse that doesn't feel like a $15 mouse — until you check the port situation.**

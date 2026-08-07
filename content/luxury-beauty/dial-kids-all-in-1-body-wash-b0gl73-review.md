@@ -1,4 +1,5 @@
 ---
+
 title: "Dial Kids All-in-1 Body Wash"
 seo_title: "Dial Kids All-in-1 Body Wash Review: Is It Worth It?"
 meta_description: "Honest Dial Kids All-in-1 Body Wash review: tear-free formula, lather quality, scent strength, and whether it's worth switching from your current kid's wash."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GL73NZN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61HHwvfqJuL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely tear-free — no eye-sting complaints even with toddlers who hate rinsing"
   - "One pump delivers enough suds for a full-body wash; bottle lasts noticeably longer than comparable kids' washes"
   - "Pleasant, mild fragrance that lingers subtly without overwhelming sensitive noses"
-cons:
+cons: 
   - "Pump dispenser can be stiff for small hands — younger kids may need help getting product out"
   - "Formula is thinner than gel-style washes; easy to over-pump if you're not paying attention"
+
 ---
 
 Let's be honest: most "kids" body washes are just adult soap in a cartoon bottle. Dial Kids All-in-1 Body Wash actually does something different — and it's worth understanding before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Easton Mens | Z5 2.0 Baseball Batting Helmet | Matte | Multi"
 seo_title: "Easton Z5 2.0 Batting Helmet Review (2026): Is It Worth It?"
 meta_description: "Easton Z5 2.0 batting helmet review: 4.7-star rated. We break down fit, protection, ventilation, and whether it's worth your money for 2026."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4YTGS41/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hsn6mqKqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-density foam liner absorbs both high- and low-impact hits, not just fastballs but also errant throws and foul tips"
   - "Magnetic chin strap release — a small touch that makes a big difference when you're sweating between at-bats"
   - "Nine air vents positioned at the crown keep your head noticeably cooler than older Easton models"
-cons:
+cons: 
   - "Fit runs small — several buyers report needing to size up, especially for adult male head sizes above 23 inches"
   - "The matte finish scuffs easily; if you're picky about aesthetics, expect visible wear within a season"
+
 ---
 
 **Easton Z5 2.0 Batting Helmet Review: The Smart Upgrade for Serious Hitters**

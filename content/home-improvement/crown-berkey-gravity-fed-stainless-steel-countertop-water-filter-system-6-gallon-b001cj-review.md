@@ -1,4 +1,5 @@
 ---
+
 title: "Crown Berkey Gravity-Fed Stainless Steel Countertop Water Fi"
 seo_title: "Crown Berkey Countertop Water Filter Review: 4.6/5 inch"
 meta_description: "Crown Berkey 6-gallon stainless steel gravity water filter review: capacity, filter life, lead removal, and real buyer feedback. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B001CJM646/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kaAcnupZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removes 200+ contaminants including lead, VOCs, and pharmaceuticals without electricity or plumbing"
   - "6-gallon capacity (4.5 gallons of purified water) serves a family of 4-6 for days between refills"
   - "Commercial-grade 304 stainless steel build with no plastic contact points — built to last decades"
-cons:
+cons: 
   - "Heavy when full (over 60 lbs) and requires 24+ inches of countertop clearance — not for tight spaces"
   - "Initial setup requires soaking and priming filters; some buyers report needing two attempts to get flow right"
+
 ---
 
 Let me be direct: the Crown Berkey is not a water filter. It's a water purification system with a cult following, a price tag to match, and a reputation that's been built over decades of emergency preparedness forums and homesteader blogs. The question isn't whether it works — it's whether it's right for your kitchen.

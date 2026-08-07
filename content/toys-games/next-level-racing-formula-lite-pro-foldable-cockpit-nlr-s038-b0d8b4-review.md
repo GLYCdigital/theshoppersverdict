@@ -1,4 +1,5 @@
 ---
+
 title: "Next Level Racing Formula Lite Pro Foldable Cockpit (NLR-S03"
 seo_title: "Next Level Racing Formula Lite Pro Foldable Cockpi Review"
 meta_description: "Our full next level racing formula lite pro foldable cockpit (nlr-s03 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8B4Y4DG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vvx+COREL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what the Next Level Racing Formula Lite Pro is: it's the folding sim rig that actually tries to give you a Formula-style seating position without emptying your bank account. At roughly half the price of a permanent aluminum extrusion rig, it's the most popular folding cockpit on Amazon for a reason — 215 ratings averaging 4.3 stars. But it's not without compromises, and you deserve to know them before you click buy.

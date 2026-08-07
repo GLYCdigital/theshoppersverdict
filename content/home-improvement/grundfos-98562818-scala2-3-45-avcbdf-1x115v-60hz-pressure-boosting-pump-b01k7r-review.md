@@ -1,4 +1,5 @@
 ---
+
 title: "Grundfos 98562818 SCALA2 3-45 AVCBDF 1x115V 60Hz Pressure Bo"
 seo_title: "Grundfos 98562818 SCALA2 3-45 AVCBDF 1x115V 60Hz P Review"
 meta_description: "Our full grundfos 98562818 scala2 3-45 avcbdf 1x115v 60hz pressure bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B01K7RD1ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615ub5z-vTL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Grundfos SCALA2 is the poster child for "premium problem solver." At roughly $700, this Danish-engineered booster pump promises to transform weak well water or low municipal pressure into a steady, satisfying flow. And when it works, it's genuinely impressive. But a 3.4-star average across 170 ratings tells you something's off — and it's not the pump's hydraulic performance.

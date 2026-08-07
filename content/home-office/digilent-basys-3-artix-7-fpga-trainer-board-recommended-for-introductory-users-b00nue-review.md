@@ -1,4 +1,5 @@
 ---
+
 title: "Digilent Basys 3 Artix-7 FPGA Trainer Board: Recommended for"
 seo_title: "Digilent Basys 3 Artix-7 FPGA Board Review (2026)"
 meta_description: "Digilent Basys 3 Artix-7 FPGA board review: 4.6★ from 229 ratings. Is this the right trainer for beginners? Ports, performance, and real tradeoffs covered."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00NUE1WOG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mTcGhDgHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Artix-7 FPGA (XC7A35T) with 33,280 logic cells — enough headroom for real digital design projects, not just blinking LEDs"
   - "16 switches, 16 LEDs, 5 pushbuttons, 4 seven-segment displays, and a VGA port all onboard — zero extra wiring needed for most coursework"
   - "USB-JTAG programming and UART bridge on a single cable; Vivado detects it instantly on Windows and Linux"
-cons:
+cons: 
   - "No built-in WiFi, Bluetooth, or Ethernet — if your project needs connectivity, you're buying separate PMOD modules"
   - "Micro-USB port is fragile; several reviewers report the connector loosening after repeated plug/unplug cycles"
   - "Vivado WebPack license required (free, but the download is huge and installation is slow on older machines)"
+
 ---
 
 If you're shopping for an FPGA trainer board, you've likely seen the Digilent Basys 3 everywhere — it's the default choice in university digital logic courses across the country. With a 4.6-star average from 229 Amazon ratings, it's clearly doing something right. But is it the right board for *your* specific situation? Let's break down what you're actually getting.

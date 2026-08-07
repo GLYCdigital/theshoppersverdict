@@ -1,4 +1,5 @@
 ---
+
 title: "Lego City Fire Station and Fire Engine 60375, Pretend Play F"
 seo_title: "Lego City Fire Station and Fire Engine 60375, Pret Review"
 meta_description: "Our full lego city fire station and fire engine 60375, pretend play f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BBWL8CY8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hjKr5g5hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: LEGO City fire stations are a crowded field. The 60375 needs to justify its existence against a dozen similar sets. After digging through the specs and what 240+ buyers actually said, here's the real story.

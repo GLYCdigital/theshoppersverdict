@@ -1,4 +1,5 @@
 ---
+
 title: "Exclusky Bike Helmet Mountain Bike Helmet for Adults Lightwe"
 seo_title: "Exclusky Bike Helmet Review: Lightweight MTB Helmet Worth It?"
 meta_description: "Exclusky adult mountain bike helmet review: 4.6-star rated, lightweight design, comfort tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D14M54NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61C+CXVy85L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Weighs roughly 280 grams (under 10 oz), making it one of the lighter helmets in its price bracket — you genuinely forget it's on"
   - "22 ventilation channels with deep internal airflow paths keep your head noticeably cooler on climbs and hot summer rides"
   - "Dial-fit retention system with 360° adjustment band gives a snug, rattle-free fit even on oval-shaped heads"
-cons:
+cons: 
   - "No MIPS or equivalent rotational-impact protection — a meaningful safety omission for aggressive trail riders"
   - "Pads are thin and not replaceable; after heavy sweat sessions they compress and can't be swapped out"
   - "Sizing runs small — large fits up to 61cm, but riders with bigger heads will struggle"
+
 ---
 
 If you're shopping for a mountain bike helmet on a budget, the Exclusky Adult MTB Helmet keeps showing up in search results for a reason. With 229 ratings and a 4.6-star average, it's clearly doing something right. But is it the right helmet for *your* riding? Let's dig past the star rating and look at what you're actually strapping to your head.

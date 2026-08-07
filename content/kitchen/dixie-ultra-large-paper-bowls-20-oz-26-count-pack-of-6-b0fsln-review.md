@@ -1,4 +1,5 @@
 ---
+
 title: "Dixie Ultra, Large Paper Bowls, 20 Oz, 26 Count (Pack of 6),"
 seo_title: "Dixie Ultra Paper Bowls Review: 20 Oz, 26 Count, Pack of 6 inch"
 meta_description: "Dixie Ultra 20 oz paper bowls in a 6-pack bundle: do they hold up to hot soup and heavy chili? Read our honest review on leak resistance, durability, and value."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSLN2TS6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Paper construction is noticeably thicker than standard store brands — holds up to 5+ minutes of soup without turning mushy"
   - "20 oz capacity is genuinely large; fits a full can of condensed soup plus water, or a hearty serving of chili with room to spare"
   - "Microwave-safe with no wax coating that melts or leaches; handles 2-minute reheat cycles without warping"
-cons:
+cons: 
   - "At 26 bowls per pack, you're paying for the Ultra name — cost per bowl runs roughly 30-40% higher than generic alternatives"
   - "Not fully leak-proof under extended sitting; oily or greasy foods can soak through the bottom after 10+ minutes"
   - "The 6-pack bundle is bulky storage — takes up a full kitchen cabinet shelf, not ideal for small apartments"
+
 ---
 
 Let's be honest: most paper bowls are glorified napkins that collapse the second you add hot liquid. The Dixie Ultra line is trying to change that reputation — and for the most part, it succeeds. After testing these 20 oz bowls for a week of soups, stews, and pasta nights, here's the real story.

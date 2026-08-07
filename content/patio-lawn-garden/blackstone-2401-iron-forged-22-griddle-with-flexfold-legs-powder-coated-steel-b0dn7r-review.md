@@ -1,7 +1,8 @@
 ---
-title: "Blackstone 2401 Iron Forged 22\" Griddle with Flexfold Legs,"
-seo_title: "Blackstone 2401 Iron Forged 22\" Griddle Review: Worth It?"
-meta_description: "Read our honest Blackstone 2401 Iron Forged 22\" Griddle review. We cover performance, Flexfold legs, seasoning tips, and who should buy this portable griddle."
+
+title: "Blackstone 2401 Iron Forged 22\ Griddle with Flexfold Legs,"
+seo_title: "Blackstone 2401 Iron Forged 22\ Griddle Review: Worth It?"
+meta_description: "Read our honest Blackstone 2401 Iron Forged 22\ Griddle review. We cover performance, Flexfold legs, seasoning tips, and who should buy this portable griddle."
 slug: "blackstone-2401-iron-forged-22-griddle-with-flexfold-legs-powder-coated-steel-b0dn7r-review"
 image_alt: "Blackstone 2401 Iron Forged 22 inch griddle with Flexfold legs on a patio table, showing the powder-coated steel body and flat cooktop"
 verdict_score: 4.6
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DN7RT2D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618K2IzadbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "The 22-inch cold-rolled steel cooktop heats evenly without the hot spots common on thinner budget griddles, giving you reliable sear marks on smash burgers and even browning for pancakes."
   - "Flexfold legs fold flat in seconds with a simple pull-pin mechanism, letting the entire unit slide into a car trunk or storage closet without tools."
   - "The rear grease management system channels runoff into a removable tray, keeping your patio table clean and making post-cook cleanup a 5-minute job."
-cons:
+cons: 
   - "The griddle arrives bare steel and requires an immediate 3-4 rounds of seasoning before first use; skipping this step will result in rust and sticking."
   - "At roughly 32 pounds, it’s not a backpacking companion; the weight is fine for tailgating but noticeable if you’re hauling it up stairs frequently."
+
 ---
 
 **The Blackstone 2401 Iron Forged 22" Griddle: The Tailgating King That Actually Cooks**

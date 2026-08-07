@@ -1,4 +1,5 @@
 ---
+
 title: "FURINNO Roanne Plain Headboard"
 seo_title: "FURINNO Roanne Headboard Review: Honest 2026 Verdict"
 meta_description: "FURINNO Roanne Plain Headboard review: build quality, real buyer feedback, and who should buy. Get the honest verdict before you order."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBX934CX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CwULnXPVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine engineered wood construction — not the hollow cardboard you find at this price point"
   - "Tool-free assembly in under 15 minutes with cam-lock fittings that actually align"
   - "Sleek low-profile design works with most standard metal bed frames without modification"
-cons:
+cons: 
   - "Fabric panels are thin and show impressions if you lean against them with sharp objects in pockets"
   - "No pre-drilled holes for wall-mounting — you'll need to drill your own if you want it anchored"
+
 ---
 
 Let me be direct: at this price point, most headboards are flimsy cardboard wrapped in fabric that sags within a month. The FURINNO Roanne Plain Headboard isn't that. It's a legitimate piece of furniture that delivers exactly what the product images promise — a clean, minimalist headboard that doesn't look like it came from a discount bin.

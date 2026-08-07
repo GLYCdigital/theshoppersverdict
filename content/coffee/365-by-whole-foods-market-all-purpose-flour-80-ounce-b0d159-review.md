@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, All Purpose Flour, 80 Ounce"
 seo_title: "365 Whole Foods All Purpose Flour Review: 80 oz Value"
 meta_description: "365 by Whole Foods all purpose flour 80 oz review: quality, value, and baking performance. See if this big bag is worth your pantry space."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D159XFLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZdqRUEokL._SL1500_.jpg"
-pros:
+pros: 
   - "Unbleached, unbromated flour with 11.7% protein — reliable gluten structure for breads and pastries"
   - "80-ounce bag offers roughly 18% savings per pound vs. standard 5-pound bags"
   - "Consistent grind and moisture level across batches — no clumping or stale bags reported"
-cons:
+cons: 
   - "No resealable zipper — you'll need your own container or clip for long-term storage"
   - "Paper bag is prone to tearing if handled roughly during shipping"
+
 ---
 
 Let's be direct: most all-purpose flour is a commodity. You grab whatever's on the shelf, and it works. The 365 by Whole Foods Market All Purpose Flour, 80 Ounce, is different — not because it's flashy, but because it's *consistent*. And in baking, consistency is everything.

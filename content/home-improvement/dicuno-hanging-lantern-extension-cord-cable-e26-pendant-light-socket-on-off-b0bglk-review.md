@@ -1,4 +1,5 @@
 ---
+
 title: "DiCUNO Hanging Lantern Extension Cord Cable, E26 Pendant Lig"
 seo_title: "DiCUNO E26 Pendant Light Cord Review: 10ft Hanging Kit"
 meta_description: "Honest DiCUNO hanging lantern extension cord review: 10ft E26 pendant light cable with on/off switch, quality wire, easy install. Verified buyer pros & cons."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BGLKRYR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-B8S-tL51._SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 10-foot cord — enough reach for vaulted ceilings or high-mount fixtures without buying a second extender"
   - "In-line on/off switch saves you from rewiring a wall switch; useful for plug-in or retrofit setups"
   - "E26 socket fits standard bulbs, including LED filament styles that show off the bare-bulb look"
-cons:
+cons: 
   - "No strain relief at the socket — hanging a heavy glass shade (over ~2 lbs) puts stress on the wire connection"
   - "Silver cord is visibly utilitarian; it lacks the fabric or braided finish some decorators expect for exposed runs"
+
 ---
 
 If you’ve ever bought a pendant light kit only to find the cord is 6 feet when you need 10, you know the frustration. The DiCUNO Hanging Lantern Extension Cord solves that specific problem — and does it without making you rewire anything. With a 4.7-star average across 235 ratings, this E26 pendant cord is clearly doing something right. Here’s the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Forza Horizon 4 Standard Edition – Xbox One"
 seo_title: "Forza Horizon 4 Xbox One Review: Still Worth It in 2026?"
 meta_description: "Forza Horizon 4 Xbox One review: open-world racing, seasons, 450+ cars. Is the Standard Edition worth buying years after launch? Find out."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09JDDBX8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SAXd-+-FL._SL1500_.jpg"
-pros:
+pros: 
   - "Dynamic four-season system that changes the map, races, and driving physics every week"
   - "450+ cars with deep tuning and customization options"
   - "Full cross-play and cross-save between Xbox One, Series X|S, and PC"
-cons:
+cons: 
   - "Online servers are being shut down in December 2025 — significant content becomes inaccessible"
   - "Standard edition omits the Fortune Island and Lego Speed Champions expansions"
   - "Install size is massive (over 100 GB with updates), requires significant storage"
+
 ---
 
 Here's the thing about Forza Horizon 4 in 2026: it's a phenomenal racing game that's about to lose its life support. Microsoft announced online server shutdown for December 2025, which dramatically changes whether you should buy this today. Let me break down what you're actually getting.

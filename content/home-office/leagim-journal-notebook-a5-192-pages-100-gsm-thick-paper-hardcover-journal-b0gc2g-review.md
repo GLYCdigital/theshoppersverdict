@@ -1,4 +1,5 @@
 ---
+
 title: "LEAGIM Journal Notebook, A5, 192 Pages 100 GSM Thick Paper, "
 seo_title: "LEAGIM Journal Notebook, A5, 192 Pages 100 GSM Thi Review"
 meta_description: "Our full leagim journal notebook, a5, 192 pages 100 gsm thick paper,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GC2GXQNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VXoeRb2WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEAGIM A5 Journal: 100 GSM paper that actually delivers (with a few honest caveats)**

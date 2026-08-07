@@ -1,4 +1,5 @@
 ---
+
 title: "Traditional Medicinals Organic Smooth Move Tea, 96 Tea Bags "
 seo_title: "Traditional Medicinals Organic Smooth Move Tea, 96 Review"
 meta_description: "Our full traditional medicinals organic smooth move tea, 96 tea bags  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G1CDDHS1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81plqeQGCSL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: this is a laxative tea. You're not buying it for the flavor profile. You're buying it because you're backed up and desperate. The question is whether 96 tea bags of organic senna leaf is the right answer for your money and your digestive system.

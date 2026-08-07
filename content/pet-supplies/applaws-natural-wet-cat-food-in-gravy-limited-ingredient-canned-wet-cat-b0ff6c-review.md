@@ -1,4 +1,5 @@
 ---
+
 title: "Applaws Natural Wet Cat Food in Gravy, Limited Ingredient Ca"
 seo_title: "Applaws Wet Cat Food Review: Limited Ingredient in Gravy"
 meta_description: "Honest Applaws Natural Wet Cat Food in Gravy review: limited ingredients, real chicken, grain-free. See pros, cons, and if it's worth it for your cat."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FF6C7RX9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716QJDEqVPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Chicken is the #1 ingredient — no fillers, grains, or artificial additives in the ingredient list"
   - "High moisture content (approx. 80%) supports urinary tract health and hydration for cats who don't drink enough"
   - "Limited ingredient formula works well for cats with sensitive stomachs or food allergies"
-cons:
+cons: 
   - "Not nutritionally complete as a standalone diet — label clearly states it's complementary, so you'll need to pair with balanced food"
   - "Some cats reject the texture — it's shredded chunks in thin gravy, not pâté, and picky eaters may turn up their noses"
   - "Price per ounce runs higher than standard grocery brands, making it a premium option for supplementing rather than everyday feeding"
+
 ---
 
 If your cat turns up its nose at pâté-style foods but you're trying to avoid the mystery meat in bargain cans, Applaws Natural Wet Cat Food in Gravy sits in an interesting middle ground. It's not a complete diet, and the brand doesn't pretend otherwise. But for what it *is* — a limited-ingredient, high-moisture supplement or topper — it does the job with refreshing transparency.

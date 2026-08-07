@@ -1,4 +1,5 @@
 ---
+
 title: "Loloi II Winston Collection WIT-01 Area Rug"
 seo_title: "Loloi II Winston Collection WIT-01 Area Rug Review: Verdi"
 meta_description: "Our full loloi ii winston collection wit-01 area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DL6K8KQ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91qtJI-6YwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: the Loloi II Winston Collection WIT-01 is not a plush, sink-your-toes-in luxury rug. It’s a workhorse. And for many shoppers, that’s exactly what you need.

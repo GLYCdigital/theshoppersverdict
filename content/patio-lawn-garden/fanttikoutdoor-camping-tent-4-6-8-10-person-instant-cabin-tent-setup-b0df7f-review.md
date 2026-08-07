@@ -1,4 +1,5 @@
 ---
+
 title: "FanttikOutdoor Camping Tent 4/6/8/10 Person Instant Cabin Te"
 seo_title: "FanttikOutdoor Instant Cabin Tent Review: 4-10 Person Setup"
 meta_description: "Honest FanttikOutdoor instant cabin tent review: 60-second setup, roomy 4-10 person options, weather resistance, and real tradeoffs. Read before buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF7FKYBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xrGO+SXRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-attached poles collapse into a single bundle — genuinely 60-second setup, no threading or guesswork"
   - "Center height around 72 inches lets most adults stand upright inside, rare at this price point"
   - "Dual-layer construction with full-coverage rainfly handles moderate downpours without interior condensation"
-cons:
+cons: 
   - "Bag is tight — repacking requires folding in the exact factory sequence or you'll wrestle with the zipper"
   - "Pre-attached pole hubs create awkward folded length (~48 inches) that's awkward in small car trunks"
   - "Floor fabric feels thin underfoot; a footprint tarp is strongly recommended for rocky or root-laced sites"
+
 ---
 
 If you've ever spent 45 minutes fighting fiberglass poles at dusk while mosquitoes feast on your ankles, the FanttikOutdoor instant cabin tent is about to change your camping life. This is a shelter built around one promise: you pitch it in the time it takes to boil water. And for the most part, it delivers.

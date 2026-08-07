@@ -1,4 +1,5 @@
 ---
+
 title: "MAISON ARTS 24 Inch Counter Height Bar Stools with Back"
 seo_title: "MAISON ARTS 24 Inch Counter Height Bar Stools with Review"
 meta_description: "Our full maison arts 24 inch counter height bar stools with back review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8Q28MR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WSfSQOZ6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 24-inch bar stool is the Goldilocks of kitchen seating** — too short and you're staring at your countertop; too tall and your knees hit the underside. MAISON ARTS targets that sweet spot with their counter height stool, and based on 220 ratings averaging 4.4 stars, they've largely hit the mark. But before you hit "add to cart," there are a few things worth knowing.

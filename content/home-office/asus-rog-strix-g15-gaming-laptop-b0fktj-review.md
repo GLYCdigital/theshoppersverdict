@@ -1,4 +1,5 @@
 ---
+
 title: "ASUS ROG Strix G15 Gaming Laptop"
 seo_title: "ASUS ROG Strix G15 Review: Worth It in 2026? | Expert Analysis"
 meta_description: "Honest ASUS ROG Strix G15 gaming laptop review: performance, battery, thermals, and real buyer feedback. Find out if this 4.1-star laptop suits your needs."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FKTJKMXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jVfWWjGKL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Aggressive AMD Ryzen CPU performance that beats many Intel rivals in multi-core workloads"
   - "240Hz FHD panel with 3ms response — genuinely smooth for esports and fast-paced titles"
   - "Excellent thermal design with liquid metal compound on CPU, keeping boost clocks stable"
-cons:
+cons: 
   - "Plastic chassis feels less premium than the price suggests; flex on the keyboard deck"
   - "Webcam is a 720p potato — poor for work calls in a hybrid setup"
   - "Battery life drops to under 3 hours under load; realistic light use is 5-6 hours max"
+
 ---
 
 Let's cut through the RGB marketing. The ASUS ROG Strix G15 is a serious performer that gets a lot right, but it's not the do-everything machine some reviewers claim. After digging through 204 verified ratings and the spec sheet, here's what actually matters.

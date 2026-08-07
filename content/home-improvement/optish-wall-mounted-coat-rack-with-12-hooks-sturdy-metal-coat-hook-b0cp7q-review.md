@@ -1,4 +1,5 @@
 ---
+
 title: "Optish Wall Mounted Coat Rack with 12 Hooks, Sturdy Metal Co"
 seo_title: "Optish Wall Mounted Coat Rack with 12 Hooks, Sturd Review"
 meta_description: "Our full optish wall mounted coat rack with 12 hooks, sturdy metal co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP7QTZ5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+POFH0m7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most wall-mounted coat racks are either flimsy decorative pieces that bend under a wet winter jacket, or industrial monstrosities that look like they belong in a mechanic's garage. The Optish Wall Mounted Coat Rack with 12 Hooks sits somewhere in the sweet spot between those two extremes—and at 4.5 stars across 225 ratings, it's clearly doing something right.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hello Kitty® and Friends 2025 Holiday Advent Calendar - 18 inch"
 seo_title: "Hello Kitty Advent Calendar 2025 Review: 18 Days of Figures"
 meta_description: "Hello Kitty and Friends 2025 Advent Calendar review: 18 surprise figures, quality details, and real buyer feedback. Is it worth the hype? Find out here."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLLL4689/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Xmhzj0AzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18 individually wrapped surprise figures across the entire Hello Kitty and Friends universe — not just Hello Kitty herself"
   - "Figures are solid PVC with good paint application; no cheap plastic smell or flimsy parts reported by buyers"
   - "Door sizes vary, so larger characters like Pompompurin fit without bending or cramming"
-cons:
+cons: 
   - "No display tray or storage compartment — figures arrive loose in the box and need separate shelving"
   - "Some doors are hard to open without tearing the calendar backing, which frustrates collectors who want to keep the box intact"
+
 ---
 
 ## Is This Advent Calendar Worth Your Holiday Money?

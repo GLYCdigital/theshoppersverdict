@@ -1,4 +1,5 @@
 ---
+
 title: "Frontier Co-op Organic Fairtrade Ground Ceylon Cinnamon Powd"
 seo_title: "Frontier Co-op Ceylon Cinnamon Review: Worth It? (2026)"
 meta_description: "Honest Frontier Co-op Organic Ceylon Cinnamon review: flavor, grind quality, fair trade sourcing, and how it compares to cassia. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B084KZKDKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wAwCPRr4L._SL1500_.jpg"
-pros:
+pros: 
   - "True Ceylon (Cinnamomum verum) — not cassia — with a delicate, sweet citrus note that doesn't overpower coffee or baked goods"
   - "Fairtrade and organic certified, with a 16-ounce refill pouch that's about half the per-ounce cost of the shaker version"
   - "Fresh, fragrant grind that clings to oatmeal and dissolves cleanly into latte foam without clumping"
-cons:
+cons: 
   - "The 'refill for shaker' is just a foil pouch — you'll need to transfer it to your own airtight jar or it will stale quickly"
   - "Some users find the flavor too subtle compared to the bold, spicy cassia most Americans grew up with"
+
 ---
 
 Let's get one thing straight upfront: if you've been sprinkling that red-lid supermarket cinnamon on your coffee, you've been using cassia — a different species entirely. Frontier Co-op's Organic Ceylon is *Cinnamomum verum*, the "true cinnamon" from Sri Lanka, and the difference is immediately obvious in both aroma and taste.

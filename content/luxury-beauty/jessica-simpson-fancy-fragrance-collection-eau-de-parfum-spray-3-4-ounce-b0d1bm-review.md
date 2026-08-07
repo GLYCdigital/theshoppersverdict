@@ -1,4 +1,5 @@
 ---
+
 title: "Jessica Simpson Fancy Fragrance Collection Eau de Parfum Spr"
 seo_title: "Jessica Simpson Fancy Fragrance Collection Eau de  Review"
 meta_description: "Our full jessica simpson fancy fragrance collection eau de parfum spr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D1BMP79N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X-TzdhQQL._SL1200_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Jessica Simpson Fancy Fragrance Collection Eau de Parfum Spr** — that mouthful of a name hides a surprisingly solid everyday scent. With 220 Amazon ratings averaging 4.4 stars, this 3.4 oz bottle has staying power in more ways than one. I tested it for two weeks, including a full workday and a humid outdoor event. Here's the unvarnished truth.

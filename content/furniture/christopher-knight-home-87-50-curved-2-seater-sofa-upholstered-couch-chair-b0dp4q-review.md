@@ -1,4 +1,5 @@
 ---
+
 title: "Christopher Knight Home 87.50 inch  Curved 2 Seater Sofa, Upholst"
 seo_title: "Christopher Knight Curved 2 Seater Sofa Review (2026)"
 meta_description: "Honest Christopher Knight Home curved 2-seater sofa review: build quality, comfort, real buyer feedback, and who should buy this 87.5-inch loveseat."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DP4Q1YPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Gh34x7uVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Curved silhouette is genuinely distinctive — visually modern without being polarizing"
   - "87.5-inch width fits small-to-mid living rooms where a full sofa won't"
   - "Solid kiln-dried hardwood frame beneath the upholstery; not a flimsy box-store special"
-cons:
+cons: 
   - "Firm seat cushions with minimal give — some buyers report a 'perch, not sink' feel"
   - "Assembly requires two people; the curved base makes leg alignment finicky"
   - "Fabric is a light gray that shows spills and pet hair faster than darker alternatives"
+
 ---
 
 The Christopher Knight Home 87.50" Curved 2 Seater Sofa is not trying to be the most comfortable couch you've ever owned. It's trying to be the best-looking one in the room. That tradeoff matters, and it's the difference between a 5-star love letter and the 3.9-star mixed bag it actually is.

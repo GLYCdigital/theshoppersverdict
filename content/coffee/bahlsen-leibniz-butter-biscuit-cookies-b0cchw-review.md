@@ -1,4 +1,5 @@
 ---
+
 title: "Bahlsen Leibniz Butter Biscuit Cookies"
 seo_title: "Bahlsen Leibniz Butter Biscuit Review: Worth It? (2026)"
 meta_description: "Honest Bahlsen Leibniz Butter Biscuit review: crunch, flavor, dunkability, and value. See if these German cookies earn their 4.6-star rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CCHWBJ4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6120YQOQKxL._SL1500_.jpg"
-pros:
+pros: 
   - "48 individually wrapped biscuits per package — stays fresh for weeks, easy to toss in a lunch bag"
   - "High butter content (20%) delivers a rich, savory-sweet flavor that holds up to strong coffee"
   - "Sturdy rectangular shape with defined edges — survives shipping without turning to crumbs"
-cons:
+cons: 
   - "Individually wrapped means more plastic waste per cookie than a standard roll"
   - "Slightly sweet, not sugary — if you expect a frosted or chocolate-covered cookie, this isn't it"
+
 ---
 
 I'll be straight with you: this is a review of a butter biscuit on a site that usually covers coffee gear. But here's the thing — the two belong together. A great cup of coffee deserves a worthy companion, and for over 130 years, Germans have been dunking these rectangular biscuits into their morning brew. With 229 ratings and a 4.6-star average on Amazon, the Bahlsen Leibniz is clearly doing something right. Let me tell you if it's worth your money.

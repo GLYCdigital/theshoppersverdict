@@ -1,4 +1,5 @@
 ---
+
 title: "Rudis Bakery Organic 100% Whole Wheat Sliced Bread, 22 OZ"
 seo_title: "Rudis Bakery Organic 100% Whole Wheat Sliced Bread Review"
 meta_description: "Our full rudis bakery organic 100% whole wheat sliced bread, 22 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BPHCOY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cXL3VhQLL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This Isn't Your Grocery-Store Wheat Bread — And That's the Point

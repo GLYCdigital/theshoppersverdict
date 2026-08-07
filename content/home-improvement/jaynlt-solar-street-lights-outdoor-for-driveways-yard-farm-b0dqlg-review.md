@@ -1,4 +1,5 @@
 ---
+
 title: "JAYNLT Solar Street Lights Outdoor for Driveways, Yardï¼ŒFar"
 seo_title: "JAYNLT Solar Street Lights Outdoor for Driveways,  Review"
 meta_description: "Our full jaynlt solar street lights outdoor for driveways, yardï¼œfar review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DQLGCMB4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CdKGWJwsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped solar lighting before, you know the drill: a single unit with a tiny panel glued on top, a weak LED, and a battery that dies by midnight. The JAYNLT Solar Street Light takes a different approach — and it's the reason this one deserves a closer look.

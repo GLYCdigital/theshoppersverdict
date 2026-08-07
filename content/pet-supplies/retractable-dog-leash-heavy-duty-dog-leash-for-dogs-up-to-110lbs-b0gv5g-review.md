@@ -1,4 +1,5 @@
 ---
+
 title: "Retractable Dog Leash, Heavy Duty Dog Leash for Dogs up to 1"
 seo_title: "Retractable Dog Leash, Heavy Duty Dog Leash for Do Review"
 meta_description: "Our full retractable dog leash, heavy duty dog leash for dogs up to 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GV5GMCRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611WBKjlweL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Retractable Dog Leash, Heavy Duty Dog Leash: The 110lb Test

@@ -1,4 +1,5 @@
 ---
+
 title: "COMAX Folding Sofa Bed Queen, Foldable Floor Couch Convertib"
 seo_title: "COMAX Folding Sofa Bed Queen Review: 4-in-1 Floor Couch"
 meta_description: "COMAX Folding Sofa Bed Queen review: Is this 4-in-1 convertible floor couch worth it? We break down comfort, durability, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FHW5FJCB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mX1S5T7dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine queen-size sleeping surface (80 inches long) when fully unfolded, not a cramped loveseat masquerading as a bed"
   - "Three-position backrest with adjustable armrests converts between couch, lounger, and flat bed in under 30 seconds"
   - "High-density foam core holds up to 600 lbs without sagging, according to multiple long-term owner reports"
-cons:
+cons: 
   - "No internal frame means it sits directly on the floor — getting up requires real effort for anyone with knee or back issues"
   - "Cover is not removable for machine washing; spot-cleaning only, which gets old fast with pets or kids"
+
 ---
 
 You've seen the listing photos — a sleek, minimalist couch that folds flat into a bed, promising to solve your guest-room problem for under $200. The COMAX Folding Sofa Bed Queen is one of the most popular picks in this category on Amazon, with 200 ratings averaging a solid 4.0 stars. But here's the question that actually matters: is it a couch that becomes a bed, or a bed that's awkward as a couch? After digging through owner experiences and spec sheets, here's the honest breakdown.

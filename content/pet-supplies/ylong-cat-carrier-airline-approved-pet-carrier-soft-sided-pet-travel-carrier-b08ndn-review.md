@@ -1,4 +1,5 @@
 ---
+
 title: "YLONG Cat Carrier Airline Approved Pet Carrier,Soft-Sided Pe"
 seo_title: "YLONG Cat Carrier Airline Approved Pet Carrier,Sof Review"
 meta_description: "Our full ylong cat carrier airline approved pet carrier,soft-sided pe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08NDNC52N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818YtAgce9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the obvious question: is this actually airline-approved, or is that just marketing copy? After digging through 215 ratings and cross-checking dimensions, the answer is yes — with a caveat. The YLONG measures 18.9 x 11.8 x 11.8 inches, which puts it under the size limits for most major U.S. carriers. But here's the thing: I've seen buyers report being asked to verify it fits under the seat at the gate, not before. Bring a tape measure.

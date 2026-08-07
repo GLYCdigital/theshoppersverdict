@@ -1,4 +1,5 @@
 ---
+
 title: "Lavazza Espresso Whole Bean Coffee Blend, Medium Roast, 2.2 "
 seo_title: "Lavazza Espresso Whole Bean Coffee Blend, Medium R Review"
 meta_description: "Our full lavazza espresso whole bean coffee blend, medium roast, 2.2  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6G3S1VS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zZNeerVNL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been burned by "espresso beans" that taste like charred dirt, Lavazza's Espresso Whole Bean Blend is the palate reset you need. This is the Italian coffee giant's workhorse medium roast, and with 225 Amazon ratings holding a 4.5-star average, it's clearly doing something right. The question is whether it's right for *your* machine and *your* taste. Let's dig in.

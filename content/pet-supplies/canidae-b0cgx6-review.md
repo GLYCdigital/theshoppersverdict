@@ -1,4 +1,5 @@
 ---
+
 title: "CANIDAE"
 seo_title: "CANIDAE Review: Honest Look at This Pet Food Brand"
 meta_description: "CANIDAE pet food review: real customer feedback, ingredient analysis, and buying advice. See if this brand is worth your money before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGX6VCRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gJIWZqbIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real meat is the first ingredient across most recipes, not fillers or by-products"
   - "Multiple protein options (chicken, salmon, lamb) make rotation easy for sensitive dogs"
   - "Consistent quality control with batches that hold up well in storage"
-cons:
+cons: 
   - "Price point runs 15-20% higher than comparable grocery-store brands"
   - "Some dogs with extremely sensitive stomachs still react to the pea protein content"
+
 ---
 
 Let's be direct: the pet food aisle is a minefield of marketing claims and questionable ingredients. CANIDAE has built a reputation over 25+ years as a mid-premium brand that actually delivers on its label promises. With a 4.4-star average across 220 ratings, it's clearly working for most owners—but it's not without tradeoffs. Here's what you need to know before adding it to your cart.

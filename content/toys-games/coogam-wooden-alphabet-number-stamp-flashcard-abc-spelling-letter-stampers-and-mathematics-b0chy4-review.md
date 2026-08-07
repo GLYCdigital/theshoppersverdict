@@ -1,4 +1,5 @@
 ---
+
 title: "Coogam Wooden Alphabet Number Stamp Flashcard, ABC Spelling"
 seo_title: "Coogam Wooden Alphabet Stamp Flashcard Review: ABC Spelling"
 meta_description: "Coogam wooden alphabet & number stamp flashcard set review: durable, hands-on ABC spelling toy for preschoolers. See pros, cons, and who it's best for."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CHY48RXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vrMEgi6HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid basswood construction survives drops and toddler abuse; stamps are chunky enough for small hands to grip"
   - "Dual-sided flashcards cover both uppercase/lowercase letters and numbers 0-9, effectively two learning sets in one box"
   - "Ink pad produces crisp, even impressions — no smudging or blotchy letters like cheaper stamp sets"
-cons:
+cons: 
   - "Only one ink pad included; kids will need a second color to keep engagement high after the novelty fades"
   - "Wooden stamps are not fully sealed — moisture from wet hands can cause slight warping over time"
+
 ---
 
 Most alphabet toys end up as expensive dust collectors within a week. The Coogam Wooden Alphabet Number Stamp set is different — it's messy, it's tactile, and it actually gets used. Here's the honest breakdown after digging through customer experiences and the product specs.

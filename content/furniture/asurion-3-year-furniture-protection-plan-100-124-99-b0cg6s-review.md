@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Furniture Protection Plan ($100 - $124.99)"
 seo_title: "ASURION 3-Year Furniture Protection Plan Review (2026)"
 meta_description: "Is the ASURION 3-Year Furniture Protection Plan worth $100-$125? Honest review of coverage, claims process, and real customer experiences."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CG6SVP8G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71w-hL206OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on power recliners and lift chairs, not just fabric stains"
   - "Claims process is mostly digital — file online or via app, no phone tag with call centers"
   - "Transferable if you sell the furniture within the coverage window"
-cons:
+cons: 
   - "Stain coverage excludes common culprits like pet urine and ink — read the fine print"
   - "Deductible structure varies by claim type, which catches some buyers off guard"
   - "Amazon reviews show occasional slow approvals on high-value claims"
+
 ---
 
 You just dropped $1,200 on a power recliner. The last thing you want is the motor dying in month 14 with no recourse. That's exactly the gap ASURION's 3-Year Furniture Protection Plan tries to fill — and for the most part, it does.

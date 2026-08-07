@@ -1,4 +1,5 @@
 ---
+
 title: "YIHUA 948-II 4 in 1 Hot Air Rework Soldering Iron and Desold"
 seo_title: "YIHUA 948-II 4 in 1 Hot Air Rework Soldering Iron  Review"
 meta_description: "Our full yihua 948-ii 4 in 1 hot air rework soldering iron and desold review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RNL7YT9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uMrbskseL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a hobbyist who's been juggling three separate tools for through-hole, SMD, and rework, the YIHUA 948-II is the kind of consolidation that makes you wonder why you waited so long. This 4-in-1 station packs a hot air pencil, a soldering iron, a desoldering gun, and a ring light into one compact base unit. At a 4.5-star average across 225 ratings, it's clearly earning its keep on hobby benches — but let's be clear about what it is and isn't before you click buy.

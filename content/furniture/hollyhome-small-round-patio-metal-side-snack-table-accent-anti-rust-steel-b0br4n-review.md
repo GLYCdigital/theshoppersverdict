@@ -1,4 +1,5 @@
 ---
+
 title: "HollyHOME Small Round Patio Metal Side Snack Table, Accent A"
 seo_title: "HollyHOME Small Round Patio Metal Side Snack Table Review"
 meta_description: "Our full hollyhome small round patio metal side snack table, accent a review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BR4N3BXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yJ0S0PuyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about what this HollyHOME table actually is: a compact, no-fuss side table for holding your coffee while you scroll your phone on the patio. It’s not a statement piece, and it won’t anchor your outdoor living room. But for $30–40 (depending on when you catch it), it does exactly what it promises — and according to 229 Amazon reviewers averaging 4.6 stars, it does it consistently well.

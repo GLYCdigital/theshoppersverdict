@@ -1,4 +1,5 @@
 ---
+
 title: "LANEIGE Hydro UV Defense Sunscreen SPF 50+ Hypoallergenic & "
 seo_title: "LANEIGE Hydro UV Defense Sunscreen SPF 50+ Hypoall Review"
 meta_description: "Our full laneige hydro uv defense sunscreen spf 50+ hypoallergenic &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09P22Z9VD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51swIlsyhwL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some sunscreens feel like a punishment. Thick, chalky, and prone to pilling under makeup, they're the skincare equivalent of eating your vegetables. The LANEIGE Hydro UV Defense Sunscreen SPF 50+ is not that product. This Korean beauty staple has earned its 4.5-star rating across 225 Amazon reviews for a simple reason: it actually feels good to wear. But at this price point, you deserve to know exactly what you're paying for — and where it falls short.

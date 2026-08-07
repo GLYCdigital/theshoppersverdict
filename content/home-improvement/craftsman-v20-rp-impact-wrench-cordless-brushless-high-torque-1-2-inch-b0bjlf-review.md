@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20 RP Impact Wrench, Cordless, Brushless, High To"
 seo_title: "CRAFTSMAN V20 RP Impact Wrench Review: Real Torque Tested"
 meta_description: "CRAFTSMAN V20 RP Impact Wrench review: 4.8/5 from 240 buyers. Is the brushless high-torque 1/2-inch worth it? Real torque, battery life, and value tested."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BJLFSN22/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81691fGyhrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers 450 ft-lbs of fastening torque and 700 ft-lbs of breakaway torque — enough for lug nuts and most suspension work"
   - "Brushless motor runs cool and efficient; multiple buyers report pulling a full day of work on a single 5Ah charge"
   - "Three-speed selector with a precise low-speed mode that actually prevents over-torquing small fasteners"
-cons:
+cons: 
   - "No friction ring on the anvil — you'll need a detent pin socket set or deal with sockets occasionally walking off"
   - "The included belt hook is flimsy and mounts in only one position, limiting carry options on a tool belt"
   - "At 6.1 pounds with a 5Ah battery, it's heavier than the Milwaukee equivalent — arm fatigue is real on overhead work"
+
 ---
 
 The 4.8-star average across 240 ratings on the CRAFTSMAN V20 RP Impact Wrench tells you something before you even open the box: this thing earns its keep. But let's be clear about what you're getting — and what you're not.

@@ -1,4 +1,5 @@
 ---
+
 title: "2 Pack for Instant AP300 Filter Replacement, True and Activa"
 seo_title: "Instant AP300 Filter Replacement 2-Pack Review (2026)"
 meta_description: "Honest review of the 2-pack Instant AP300 filter replacement for True and Activa air purifiers. Real performance data, fitment notes, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CF271XB8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91A783TH72L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM replacement — exact fit for Instant AP300 True and Activa models, no third-party tolerance issues"
   - "Includes both the pre-filter and HEPA layer in one unit, so replacement takes under 60 seconds"
   - "Two-pack pricing lands at roughly half the cost of buying singles from Instant directly"
-cons:
+cons: 
   - "No washable pre-filter layer — the outer fabric captures dust but can't be rinsed and reused"
   - "Replacement interval of 6 months means you'll need to reorder regularly, and stock fluctuates"
+
 ---
 
 Let me save you some guesswork: if you own an Instant AP300 air purifier, you need these filters, and this two-pack is the smart way to buy them. This isn't a case where a third-party knockoff is trying to undercut the OEM — this is the genuine Instant-branded replacement, sold in a quantity that actually makes sense for the 6-month replacement cycle.

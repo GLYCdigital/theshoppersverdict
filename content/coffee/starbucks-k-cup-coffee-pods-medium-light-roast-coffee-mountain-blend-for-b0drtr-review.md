@@ -1,4 +1,5 @@
 ---
+
 title: "Starbucks K-Cup Coffee Pods, Medium Light Roast Coffee, Moun"
 seo_title: "Starbucks K-Cup Coffee Pods, Medium Light Roast Co Review"
 meta_description: "Our full starbucks k-cup coffee pods, medium light roast coffee, moun review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRTR1JTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZXPXMEP+L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever grabbed a Starbucks Pike Place and wished it had a bit more brightness, this Moun blend is that answer. It's the medium-light roast that sits in that sweet spot — enough body to feel like coffee, enough acidity to keep it interesting. But is it worth the premium over a generic K-Cup? Let's dig in.

@@ -1,4 +1,5 @@
 ---
+
 title: "MINISFORUM NAB9 Plus Mini PC with Intel Core i9 12900HK(14C/"
 seo_title: "MINISFORUM NAB9 Plus Mini PC with Intel Core i9 12 Review"
 meta_description: "Our full minisforum nab9 plus mini pc with intel core i9 12900hk(14c/ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DZNF2G4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51srtDlbtKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about the MINISFORUM NAB9 Plus: it's a tiny box with a big engine and a questionable cooling system. The i9-12900HK is a laptop-class processor that Intel designed for beefy gaming laptops with vapor chambers and aggressive fan curves. MINISFORUM shoehorned it into a 4.6-inch aluminum cube. The result is a machine that benchmarks like a beast for the first ten minutes, then settles into a thermal reality that you need to understand before spending your money.

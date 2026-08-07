@@ -1,4 +1,5 @@
 ---
+
 title: "WILIT LED Night Light, Bedside Lamp with Wireless Charging, "
 seo_title: "WILIT LED Night Light, Bedside Lamp with Wireless  Review"
 meta_description: "Our full wilit led night light, bedside lamp with wireless charging,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09XM68FLC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uGfhx8uGL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The WILIT LED Night Light solves a problem most bedside lamps don't even acknowledge: your phone doesn't need to be on the floor, and your eyes don't need to be assaulted by a 3,000-lumen flashlight when you stumble to the bathroom at 2 AM. This is a purpose-built nightstand tool, not a decorative afterthought.

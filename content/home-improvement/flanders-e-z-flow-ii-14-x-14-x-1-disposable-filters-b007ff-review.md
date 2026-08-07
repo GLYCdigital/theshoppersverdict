@@ -1,4 +1,5 @@
 ---
+
 title: "Flanders E-Z Flow II - 14'' x 14'' x 1'' - Disposable Filter"
 seo_title: "Flanders E-Z Flow II 14x14x1 Filter Review (2026)"
 meta_description: "Honest Flanders E-Z Flow II 14x14x1 filter review: MERV 8 rating, static pressure, lifespan, and fit. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B007FFK1GG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41i3QGh06xL._AC_SX342_.jpg"
-pros:
+pros: 
   - "MERV 8 rating catches pet dander, pollen, and dust without choking airflow like high-MERV filters"
   - "Corrugated cardboard frame holds shape well during installation — no bending or collapsing"
   - "Consistent 14x14x1 dimensions with tight tolerances; fits standard residential return grilles"
-cons:
+cons: 
   - "No antimicrobial coating — mold can develop faster in humid climates if left past 90 days"
   - "Cardboard frame isn't moisture-resistant; wet basement returns can soften the edges"
+
 ---
 
 Let's be direct: most HVAC filters are commodities. You grab whatever's on sale, shove it in, and forget it for three months. The Flanders E-Z Flow II is different — and not because it's flashy. It's because this is the filter your HVAC contractor would probably recommend if you asked them off the record.

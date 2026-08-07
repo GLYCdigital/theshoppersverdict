@@ -1,4 +1,5 @@
 ---
+
 title: "Waterpik Genuine Plaque Seeker Replacement"
 seo_title: "Waterpik Genuine Plaque Seeker Replacement Review: Verdic"
 meta_description: "Our full waterpik genuine plaque seeker replacement review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F6NM8G2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g9JUx+puL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Plaque Seeker isn't the prettiest tool in your medicine cabinet. But if you've got periodontal pockets deeper than 3mm, it might be the most honest brush tip Waterpik makes.**

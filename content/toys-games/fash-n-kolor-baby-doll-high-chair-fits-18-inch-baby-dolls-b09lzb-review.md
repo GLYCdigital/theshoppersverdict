@@ -1,4 +1,5 @@
 ---
+
 title: "fash n kolor Baby Doll High Chair, Fits 18 inch Baby Dolls"
 seo_title: "fash n kolor Baby Doll High Chair Review: 18 inch Doll Seat"
 meta_description: "Honest fash n kolor Baby Doll High Chair review for 18-inch dolls. See what 229 buyers love, real downsides, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09LZBB9RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SvvcpUJHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Durable plastic construction that survives daily toddler play — no wobble, no cracking on hardwood floors"
   - "Adjustable tray that actually stays put, so kids can stage realistic mealtimes without frustration"
   - "Fits standard 18-inch dolls like American Girl and similar brands without being too snug or too loose"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and about 10 minutes of patience — not fully snap-together"
   - "Pink colorway only for the main frame; no neutral options for kids who don't care for pink"
   - "Tray is removable but not dishwasher-safe, so hand-washing is required after pretend-food messes"
+
 ---
 
 **A doll high chair that doesn't wobble, tip, or frustrate — here's the real story**

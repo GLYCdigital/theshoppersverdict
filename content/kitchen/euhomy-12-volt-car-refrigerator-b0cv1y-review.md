@@ -1,4 +1,5 @@
 ---
+
 title: "EUHOMY 12 Volt Car Refrigerator"
 seo_title: "EUHOMY 12V Car Refrigerator Review: Worth It? (2026)"
 meta_description: "EUHOMY 12V car refrigerator review: real-world cooling tests, power draw, and durability. Is this portable fridge worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CV1Y4SX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/518XgQY8OUL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Cools to 32°F below ambient in under 30 minutes — verified in road-trip testing"
   - "Dual 12V/24V DC and 110-240V AC power inputs work in cars, trucks, and homes"
   - "Compressor-based cooling (not thermoelectric) holds temperature even in 100°F heat"
-cons:
+cons: 
   - "No built-in battery protection cutoff — can drain your car battery if left on overnight"
   - "Interior is 12 quarts but oddly shaped; a 2-liter bottle only fits lying down"
   - "Fan noise at max cooling is noticeable — roughly 45dB, audible inside a quiet cabin"
+
 ---
 
 Let me save you a headache: if you're still using a cooler full of melted ice on road trips, you're doing it wrong. The EUHOMY 12 Volt Car Refrigerator is a compressor-based portable fridge that actually freezes — not just "keeps things sort of cold" like those thermoelectric coolers that give up when the outside temperature hits 80°F.

@@ -1,4 +1,5 @@
 ---
+
 title: "Blu Track® Performance 18-Foot Race Track Stunt Set"
 seo_title: "Blu Track Performance 18-Foot Race Track Review (2026)"
 meta_description: "Blu Track Performance 18-foot stunt set review: flexible track, 2 cars, 360° loops. See if this $85 toy delivers real value or just hype."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09J9BBJ3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uxuujqU2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18 feet of flexible track that bends into loops, banked curves, and vertical climbs without kinking"
   - "Two included stunt cars handle 360° loops and high-speed runs reliably, even on hard floors"
   - "No batteries, no charging, no setup tools — track connectors snap together in under 5 minutes"
-cons:
+cons: 
   - "Cars occasionally pop off at high speed on loop exits; younger kids may need adult help re-seating them"
   - "At $85, it's pricier than comparable track sets, and extra cars sold separately add up fast"
+
 ---
 
 Let me save you some scrolling: the Blu Track Performance 18-Foot Race Track Stunt Set is the rare toy that *actually* does what the packaging promises. I've tested this with my own kids, watched it survive a weekend of aggressive play, and read through dozens of verified buyer experiences. Here's the straight story.

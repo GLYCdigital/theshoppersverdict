@@ -1,4 +1,5 @@
 ---
+
 title: "New Primal Grass Fed Beef Sticks, Classic and Spicy"
 seo_title: "New Primal Grass Fed Beef Sticks, Classic and Spic Review"
 meta_description: "Our full new primal grass fed beef sticks, classic and spicy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPTTW2H3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uApyxeLRL._SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at a beef stick that's trying to be the "clean label" champion of the snack aisle. After working through both the Classic and Spicy varieties of New Primal's Grass Fed Beef Sticks, here's what you're actually getting for your money.

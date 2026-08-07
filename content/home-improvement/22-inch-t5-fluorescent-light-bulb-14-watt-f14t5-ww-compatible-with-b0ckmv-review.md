@@ -1,4 +1,5 @@
 ---
+
 title: "22 Inch T5 Fluorescent Light Bulb 14 Watt F14T5/WW Compatibl"
 seo_title: "22 Inch T5 Fluorescent Bulb Review: F14T5/WW 14W"
 meta_description: "Honest F14T5/WW 22-inch T5 bulb review: brightness, compatibility, lifespan, and where it falls short. See if this 14W fluorescent is right for your fixture."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKMVL6R1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cyIqETdlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 22-inch length — fits standard F14T5/WW fixtures without the 'close enough' sizing headache"
   - "Warm white (3000K) output is genuinely pleasant — not the harsh institutional look you get from cool white tubes"
   - "Consistent 14W draw with solid brightness for task lighting in workshops, under cabinets, and utility spaces"
-cons:
+cons: 
   - "No end caps included — you'll need to reuse your existing ones or buy separately, which some buyers miss"
   - "Packaging is minimal — a few reports of bulbs arriving with minor damage due to thin cardboard sleeves"
   - "Not compatible with electronic ballasts that require specific starting methods — check your fixture before ordering"
+
 ---
 
 **If you're staring at a dead 22-inch T5 tube in your workshop, garage, or under-cabinet fixture, this F14T5/WW replacement is the straightforward fix you're looking for — provided you've got the right ballast situation.**

@@ -1,7 +1,8 @@
 ---
-title: "PROFLO PF19164 Rockaway 19\" Oval Vitreous China Drop In Bath"
-seo_title: "PROFLO PF19164 Rockaway 19\" Oval Vitreous China Dr Review"
-meta_description: "Our full proflo pf19164 rockaway 19\" oval vitreous china drop in bath review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "PROFLO PF19164 Rockaway 19\ Oval Vitreous China Drop In Bath"
+seo_title: "PROFLO PF19164 Rockaway 19\ Oval Vitreous China Dr Review"
+meta_description: "Our full proflo pf19164 rockaway 19\ oval vitreous china drop in bath review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "proflo-pf19164-rockaway-19-oval-vitreous-china-drop-in-bathroom-sink-with-b0fnhx-review"
 image_alt: "PROFLO PF19164 Rockaway 19 Oval Vitreous China Drop In Bathroom Sink with Overflow and 3 Faucet Holes at 4 Centers -"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FNHXW67L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511nYOQ6qgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 19-inch bathroom sink that punches above its price tag — if you know what you're getting into.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Teapot with Removable Infuser, Ehugos Stovetop Safe La"
 seo_title: "Glass Teapot with Removable Infuser, Ehugos Stovet Review"
 meta_description: "Our full glass teapot with removable infuser, ehugos stovetop safe la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQXKKQHT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yAxOWk5JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about glass teapots: most of them are decorative lies. They look stunning on a shelf but crack the moment you put them near actual heat, or they dribble tea down your counter with every pour. The Ehugos stovetop-safe glass teapot tries to be the exception. After digging through 225 ratings and the specs, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Emotionlite C7 LED Light Bulbs"
 seo_title: "Emotionlite C7 LED Bulbs Review: Worth It? (2026)"
 meta_description: "Honest Emotionlite C7 LED light bulb review: brightness, durability, and fit for string lights. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B089DDXM52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51oDSSx8xAL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Shatterproof plastic construction survives drops and outdoor weather without breaking"
   - "True C7 size with E12 candelabra base — fits existing string lights, wreaths, and ceramic trees without adapters"
   - "Low heat output allows safe use near foliage, fabrics, and children's crafts"
-cons:
+cons: 
   - "Plastic housing looks noticeably less premium than glass bulbs up close"
   - "Not dimmable — buyers expecting dimmer compatibility will be disappointed"
   - "Brightness varies by color choice; some hues are significantly dimmer than others"
+
 ---
 
 **The 10-Minute Bulb Swap That Upgrades Every Holiday Display**

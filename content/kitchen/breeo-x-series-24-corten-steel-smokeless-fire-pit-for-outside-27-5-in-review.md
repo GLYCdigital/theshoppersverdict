@@ -1,16 +1,17 @@
 ---
+
 title: "Breeo X Series 24 - Corten Steel Smokeless Fire Pit for Outside - 27.5 in | 62 pounds"
 seo_title: "Breeo X Series 24 Smokeless Fire Pit Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest Breeo X Series 24 smokeless fire pit review 273+ reviews analyzed. Real pros, cons, X Airflow technology, cooking accessories, and our verdict."
 slug: "breeo-x-series-24-corten-steel-smokeless-fire-pit-for-outside-27-5-in-review"
 image_alt: "Breeo X Series 24 Corten Steel Smokeless Fire Pit for outdoor use with double-wall construction and stainless steel rim"
-keywords:
+keywords: 
   - "Breeo X Series 24 review"
   - "smokeless fire pit review"
   - "best smokeless fire pit"
   - "Breeo vs Solo Stove"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "Is the Breeo X Series 24 truly smokeless?"
     answer: "The Breeo X Series 24 is designed to be nearly smokeless through its patented X Airflow technology, which feeds oxygen to the fire through secondary combustion holes for a cleaner burn. However, it's not completely smoke-free — it still produces some smoke at the beginning and end of the fire when the flames are smaller and the walls are cooler. Once the fire is hot and established, smoke is minimal."
   - question: "How does the Breeo X Series 24 compare to Solo Stove?"
@@ -23,17 +24,18 @@ review_count: 273
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09WG9DDPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CIGuO1zNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium build quality — heavy-duty corten steel made in USA"
   - "Genuinely near-smokeless once the fire is established"
   - "Versatile accessory system for grilling, pizza, and more"
   - "Beautiful patina finish develops naturally over time"
   - "No smoke smell clings to clothes or hair"
-cons:
+cons: 
   - "Heavy (62 lbs) — not easily portable"
   - "Burns through wood faster than traditional fire pits"
   - "Requires a large, hot fire for optimal smokeless performance"
   - "Premium price point compared to basic fire pits"
+
 ---
 
 Let's cut through the marketing. The Breeo X Series 24 is a 27.5-inch diameter, 62-pound cylinder of raw corten steel that promises what every fire pit claims but few deliver: a genuinely smokeless burn. At $239, it sits in an awkward middle zone — more than a cheap backyard pit, far less than the brand's premium Y-series. Here's what that money actually gets you.

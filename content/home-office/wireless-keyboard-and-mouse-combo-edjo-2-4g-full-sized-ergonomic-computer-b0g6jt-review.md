@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Keyboard and Mouse Combo, EDJO 2.4G Full-Sized Ergo"
 seo_title: "Wireless Keyboard and Mouse Combo, EDJO 2.4G Full- Review"
 meta_description: "Our full wireless keyboard and mouse combo, edjo 2.4g full-sized ergo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G6JT4143/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CMCTF5OIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most sub-$30 keyboard and mouse combos are landfill fodder. The EDJO 2.4G Full-Sized Ergo set isn't that, but it's also not the endgame setup. After digging through 210 ratings and the spec sheet, here's the real story.

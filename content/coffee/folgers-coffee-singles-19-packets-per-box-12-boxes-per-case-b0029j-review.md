@@ -1,4 +1,5 @@
 ---
+
 title: "Folgers Coffee Singles - 19 packets per box, 12 boxes per ca"
 seo_title: "Folgers Coffee Singles Review: 19 Packets, 12-Box Case"
 meta_description: "Honest Folgers Coffee Singles review: 228 single-serve packets, convenience, taste, and value. See if this 12-box case fits your coffee routine."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0029JXJP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zrGafIn5L._SL1000_.jpg"
-pros:
+pros: 
   - "Pre-measured 0.46 oz packets eliminate guesswork, delivering consistent strength cup after cup"
   - "228 total packets per 12-box case means roughly 4.5 months of daily coffee for one person"
   - "No special brewer required — works with any standard 6-8 oz mug and hot water"
-cons:
+cons: 
   - "Single-serve format costs significantly more per cup than brewing a full pot of ground coffee"
   - "Each packet is individually wrapped in plastic, generating noticeable packaging waste"
   - "Flavor profile leans mild and straightforward — not for those seeking bold, complex roasts"
+
 ---
 
 Let's cut to the chase: Folgers Coffee Singles solve a very specific problem. You want a decent cup of coffee without brewing a whole pot, without a Keurig machine, and without measuring grounds into a filter. These pre-portioned packets deliver exactly that — and with 228 packets per case, you're set for months.

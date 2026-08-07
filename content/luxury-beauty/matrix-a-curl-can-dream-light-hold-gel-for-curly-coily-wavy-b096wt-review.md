@@ -1,4 +1,5 @@
 ---
+
 title: "Matrix A Curl Can Dream Light Hold Gel For Curly, Coily, & W"
 seo_title: "Matrix A Curl Can Dream Light Hold Gel For Curly,  Review"
 meta_description: "Our full matrix a curl can dream light hold gel for curly, coily, & w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096WTWVG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618otvxvlEL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: most curly hair gels force you to choose between rock-hard crunch or zero definition. The Matrix A Curl Can Dream Light Hold Gel claims to split that difference. After digging through 229 Amazon ratings and testing the formula myself, here’s what actually matters.

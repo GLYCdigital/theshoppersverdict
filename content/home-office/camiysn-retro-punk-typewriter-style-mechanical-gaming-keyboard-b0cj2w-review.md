@@ -1,4 +1,5 @@
 ---
+
 title: "Camiysn Retro Punk Typewriter Style Mechanical Gaming Keyboa"
 seo_title: "Camiysn Retro Typewriter Keyboard Review: Worth It? (2026)"
 meta_description: "Honest Camiysn Retro Punk Typewriter Keyboard review: clicky keys, round caps, build quality, and who should buy it. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CJ2WRVSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7138X1cRakL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely satisfying clicky feel with real mechanical switches — not a membrane disguised as retro"
   - "Solid metal top plate and weighted base prevent sliding during intense typing or gaming sessions"
   - "Round, deep-dish keycaps mimic vintage typewriters while keeping modern key travel and registration"
-cons:
+cons: 
   - "Loud — genuinely loud. Blue-style switches make this a poor choice for shared offices or bedrooms"
   - "Non-standard keycap shape makes finding aftermarket replacement caps nearly impossible"
   - "No wrist rest included, and the raised profile forces your wrists into an awkward angle for long sessions"
+
 ---
 
 If you've ever watched a movie where someone slams out a letter on a vintage Underwood and thought, *"I want that sound in my cubicle,"* the Camiysn Retro Punk is built for you. But this isn't just a novelty desk ornament — it's a functioning mechanical keyboard with genuine switches, a metal frame, and enough personality to make your Logitech feel like a toy. At 4.3 stars across 215 ratings, it's clearly winning people over. Here's the honest breakdown before you spend your money.

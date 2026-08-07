@@ -1,4 +1,5 @@
 ---
+
 title: "FanttikOutdoor Instant Cabin Tent 6/8/10/12 Person Camping T"
 seo_title: "FanttikOutdoor Instant Cabin Tent Review: Fast Setup, Real Value"
 meta_description: "FanttikOutdoor Instant Cabin Tent review: 60-second setup, 6–12 person sizes, weatherproof build. See real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DV49LFZ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vY3Vy0leL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-attached telescoping poles make setup genuinely 60 seconds — no threading rods through sleeves"
   - "Center height of 78 inches lets most adults stand fully upright inside"
   - "Double-layer polyester with taped seams and a full-coverage rainfly holds up in steady downpours"
-cons:
+cons: 
   - "Packed weight of 42–48 lbs depending on size — this is a car-camping tent, not a backpacking one"
   - "The included stakes are thin; replace them with heavier-duty ones for windy sites"
   - "Ventilation relies on the rainfly being staked out properly — skip that and you'll get condensation overnight"
+
 ---
 
 If you've ever spent 45 minutes wrestling with pole sleeves while the mosquitos feast on your ankles, the FanttikOutdoor Instant Cabin Tent is going to feel like a revelation. This is a tent designed for one thing: getting you from car to camped in under two minutes, without sacrificing the space and weather protection you'd expect from a traditional cabin tent.

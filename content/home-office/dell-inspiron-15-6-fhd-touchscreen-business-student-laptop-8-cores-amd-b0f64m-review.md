@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dell Inspiron 15.6 inch  FHD Touchscreen Business & Student Lapto"
 seo_title: "Dell Inspiron 15.6 FHD Touchscreen Laptop Review: Worth It?"
 meta_description: "Is the Dell Inspiron 15.6 FHD Touchscreen laptop worth it for students? Our honest review covers performance, battery, and display quality."
@@ -12,14 +13,15 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0F64M7SC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61slWhyZCLL._AC_SL1135_.jpg"
-pros:
+pros: 
   - "Bright 15.6-inch FHD touchscreen with decent color accuracy for the price"
   - "8-core AMD processor handles everyday multitasking and light productivity without stutter"
   - "Full-size keyboard with numeric keypad — rare at this price point"
-cons:
+cons: 
   - "Battery life is mediocre — expect 5-6 hours of real mixed use, not the advertised 8 inch"
   - "Plastic chassis flexes noticeably around the keyboard deck and screen hinge"
   - "Fan noise under sustained load is audible; not ideal for quiet lecture halls"
+
 
 ---
 

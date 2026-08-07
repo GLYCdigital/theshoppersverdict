@@ -1,23 +1,25 @@
 ---
+
 title: "Alise Glass Shower Door Hinges, 90&180 Degree Shower Door Hi"
 seo_title: "Alise Glass Shower Door Hinges Review: 90&180-Degree Tested"
 meta_description: "Honest Alise glass shower door hinges review. 4.4-star rated. Tested for 90/180-degree swing, build quality, and leaks. Is it worth it? Find out."
 slug: "alise-glass-shower-door-hinges-90-180-degree-shower-door-hinges-for-b07ds7-review"
 image_alt: "Alise glass shower door hinges installed on a frameless glass shower door showing 90 and 180 degree swing capability"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DS7BLQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71r8JU44czL._AC_SL1000_.jpg"
-pros:  
+pros: 
   - "Solid 304 stainless steel construction that resists rust in humid shower environments"  
   - "True 90/180-degree swing adjustment with easy-to-tighten Allen screws"  
   - "Fits standard 3/8 inch to 1/2 inch tempered glass without special adapters"  
-cons:  
+cons: 
   - "Finish scratches if you over-tighten with the included wrench — use a torque-limited driver"  
   - "No template or drilling guide included; you'll need to mark and drill glass yourself"
+
 ---
 
 You’ve priced out a frameless glass shower door, and now the hinges are staring you down. The Alise Glass Shower Door Hinges promise 90- and 180-degree swing flexibility, but do they hold up to steam, daily slams, and the occasional elbow bump? I’ve installed a set on a custom 3/8" glass panel and put them through a month of real showers. Here’s the story.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cudy AC1200 Dual Band Unlocked 4G LTE Modem Router with SIM"
 seo_title: "Cudy AC1200 4G LTE Router Review: Unlocked SIM Workhorse"
 meta_description: "Honest Cudy AC1200 review: dual-band Wi-Fi, unlocked 4G LTE, SIM slot. See real-world speeds, setup quirks, and who should buy this office router."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B089JW8H4N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51EBl5QNgmL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "True carrier unlock — works with AT&T, T-Mobile, Verizon, and international SIMs without jailbreaking or firmware hacks"
   - "Dual-band AC1200 Wi-Fi (300Mbps on 2.4GHz + 867Mbps on 5GHz) handles a full small office without choking"
   - "Two external SMA antennas plus internal LTE antennas give genuinely better signal pickup than flat-panel 4G routers"
-cons:
+cons: 
   - "Setup interface feels dated — the web dashboard is functional but clunky, and there's no companion app for quick changes"
   - "No external antenna ports for the LTE side — what you see is what you get on signal, so placement matters"
   - "WAN port is only 10/100 Ethernet, so wired throughput caps around 90Mbps even if your LTE plan is faster"
+
 ---
 
 ## The Unlocked 4G Router That Actually Means Unlocked

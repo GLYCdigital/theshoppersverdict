@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE 4-Piece Farmhouse Table Set Includes Sliding Barn D"
 seo_title: "AMERLIFE 4-Piece Farmhouse Table Set Review (2026): Worth It?"
 meta_description: "AMERLIFE 4-piece farmhouse table set with sliding barn door TV stand: honest review of build quality, assembly, and value. Is it right for your living room?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQNVYKR5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91tkKcvwmCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid MDF and particleboard construction with a real sliding barn door mechanism that actually glides smoothly on the track"
   - "Four pieces (TV stand, coffee table, two end tables) for roughly the price of a single comparable farmhouse console from big-box stores"
   - "Reversible barn door panel lets you mount the TV stand with the door sliding left or right — a detail most competitors skip"
-cons:
+cons: 
   - "Assembly is a legitimate 3-4 hour project; the included allen wrench is borderline useless and you'll want a power drill"
   - "Visible seams on the wood-grain laminate, especially on the coffee table top — a dead giveaway if you're expecting real wood"
+
 ---
 
 **The Short Version: A complete farmhouse living room setup for under $400 (when on sale) that looks far more expensive than it is — if you're patient with assembly.**

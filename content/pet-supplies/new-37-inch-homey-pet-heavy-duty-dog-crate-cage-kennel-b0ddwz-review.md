@@ -1,4 +1,5 @@
 ---
+
 title: "New 37 Inch Homey Pet Heavy Duty Dog Crate Cage Kennel"
 seo_title: "New 37 Inch Homey Pet Heavy Duty Dog Crate Cage Ke Review"
 meta_description: "Our full new 37 inch homey pet heavy duty dog crate cage kennel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DDWZFTGW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QLN4JUo7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom Line Up Front:** The Homey Pet 37-inch heavy duty crate is a serious piece of equipment for dogs that treat standard wire crates like a personal challenge. It's not the easiest crate to assemble or relocate, but for a determined chewer or an anxious escape artist, this thing earns its keep.

@@ -1,4 +1,5 @@
 ---
+
 title: "Carhartt Onsite Tool Bag, Durable Water-Resistant"
 seo_title: "Carhartt Onsite Tool Bag Review: Durable, Water-Resistant"
 meta_description: "Carhartt Onsite Tool Bag review: 4.8-star rated, water-resistant, 20-pocket design. Is it worth the money? Real buyer feedback inside."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZ553W5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/912VhyHxkIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "20-pocket layout with reinforced stitching at every stress point"
   - "Water-resistant Rain Defender coating actually sheds moisture"
   - "1680D ballistic weave handles daily abuse without fraying"
-cons:
+cons: 
   - "No shoulder strap included — must buy separately"
   - "Base is not waterproof, only water-resistant — setting it in standing water will soak through eventually"
+
 ---
 
 ## The Workhorse Your Tools Have Been Begging For

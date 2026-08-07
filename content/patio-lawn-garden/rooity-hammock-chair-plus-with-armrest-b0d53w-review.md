@@ -1,4 +1,5 @@
 ---
+
 title: "ROOITY Hammock Chair Plus with Armrest"
 seo_title: "ROOITY Hammock Chair Plus with Armrest Review: Verdict | "
 meta_description: "Our full rooity hammock chair plus with armrest review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D53WBFQ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71N8i7g+xKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most hammock chairs make you choose between lounging and actually sitting upright to drink your coffee. The ROOITY Hammock Chair Plus with Armrest tries to give you both. After digging through 204 ratings and the spec sheet, here's what you need to know before you hand over your cash.

@@ -1,4 +1,5 @@
 ---
+
 title: "essie Gel Couture Long-Lasting Nail Polish, 8-Free Vegan, Raisin Brown — Review"
 seo_title: "essie Gel Couture Review: Long-Lasting 8-Free Vegan Polish"
 meta_description: "essie Gel Couture delivers salon-grade shine without UV light. Our honest review covers wear time, shades, removal, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GSCJYRC5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710Ep07RR9L._SL1500_.jpg"
-pros:
+pros: 
   - "No UV/LED lamp required — cures naturally with the included Gel Couture top coat, saving salon time and money"
   - "Genuinely 8-free formula (no toluene, formaldehyde, DBP, camphor, xylene, TPHP, or other common irritants) plus vegan-friendly"
   - "Consistent 7–10 day wear for most users without chipping, even on active hands"
-cons:
+cons: 
   - "Requires the matching Gel Couture top coat for true longevity — using a regular top coat cuts wear time significantly"
   - "Thicker formula means two thin coats are essential; one heavy coat will pool and streak"
+
 ---
 
 **The $12 Salon Manicure That Actually Lasts: essie Gel Couture, Tested**

@@ -1,4 +1,5 @@
 ---
+
 title: "John Frieda Volume Lift Hold the Lift Hairspray, Volumizing "
 seo_title: "John Frieda Volume Lift Hold the Lift Hairspray, V Review"
 meta_description: "Our full john frieda volume lift hold the lift hairspray, volumizing  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GY48B4T4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51VKArVeAaL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about hairspray: most volumizing formulas are either stiff enough to double as shellac or so weak they might as well be water. The John Frieda Volume Lift Hold the Lift Hairspray tries to split that difference, and for the most part, it pulls it off. With a 4.3-star average across 215 ratings, it’s clearly earning its place in bathrooms—but it’s not the right pick for everyone.

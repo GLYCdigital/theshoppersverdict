@@ -1,4 +1,5 @@
 ---
+
 title: "Kinetic Sand, Squish Nâ€™ Create Playset with 13.5oz Blue, Y"
 seo_title: "Kinetic Sand, Squish Nâ€™ Create Playset with 13.5 Review"
 meta_description: "Our full kinetic sand, squish nâ€™ create playset with 13.5oz blue, y review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B4YWYGXG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91UM01ezWUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** The Kinetic Sand Squish N' Create Playset is a solid, low-mess introduction to kinetic sand for kids aged 3-7. At 4.7 stars from 235 raters, it's clearly doing something right — but the "Squish N' Create" gimmick is more about the satisfying squeeze-and-release molds than actual sculpting. Here's what you're actually getting.

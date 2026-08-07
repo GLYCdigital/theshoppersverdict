@@ -1,4 +1,5 @@
 ---
+
 title: "Abani Nomad Cream & Beige Area Rug for Living Room, Bedroom"
 seo_title: "Abani Nomad Cream & Beige Rug Review: Chic Abstract Style"
 meta_description: "Honest Abani Nomad Cream & Beige area rug review: 4.3-star rated abstract design. Does it hold up? Check durability, shedding, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D94Q5SN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81HkuQhx9JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Low-profile 0.3-inch pile works with door clearances and won't trip up robot vacuums"
   - "Stain-resistant synthetic fibers handle everyday spills without immediate wicking"
   - "Reversible design doubles lifespan — flip it when one side shows traffic wear"
-cons:
+cons: 
   - "Shedding reported for first 2–3 weeks, especially along cut edges"
   - "Cream base shows dark pet hair and dirt quickly; requires weekly vacuuming"
   - "Thin padding means hard floors feel firm underfoot — consider a separate rug pad"
+
 ---
 
 **The short version:** The Abani Nomad is a solid, budget-friendly foundation for a neutral-toned living space — but it's not a plush luxury rug, and it knows it. At 4.3 stars across 215 ratings, buyers are mostly satisfied, though the complaints that exist are consistent enough that you should read them before checkout.

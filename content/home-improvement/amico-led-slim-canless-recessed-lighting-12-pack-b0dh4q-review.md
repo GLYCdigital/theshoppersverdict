@@ -1,23 +1,25 @@
 ---
+
 title: "Amico LED Slim Canless Recessed Lighting 12 Pack"
 seo_title: "Amico LED Canless Recessed Lighting Review (12 Pack)"
 meta_description: "Honest Amico LED slim canless recessed lighting 12-pack review: brightness, color temps, install tips, and who should buy. 4.7★ rating analyzed."
 slug: "amico-led-slim-canless-recessed-lighting-12-pack-b0dh4q-review"
 image_alt: "Amico LED slim canless recessed lighting 12-pack with multiple color temperature options"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH4QR6KD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cf7x8WiCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Tool-free IC-rated housing with push-in wire connectors speeds up installs"  
   - "Three color temps (2700K/4000K/5000K) selectable via a switch on the driver"  
   - "Slim 0.5-inch profile fits tight joist bays and shallow ceilings"  
-cons:  
+cons: 
   - "No dimmer included — you'll need a compatible LED dimmer (most standard ones buzz)"  
   - "Junction box is a bit snug for 12/2 Romex plus a daisy-chain wire"
+
 ---
 
 If you're remodeling a basement or adding can lights to a drywall ceiling, the Amico LED Slim Canless Recessed Lighting 12-pack is the kind of product that makes you wonder why old-school cans still exist. This is a complete kit — no housings, no separate trims, no bulbs to chase. Open the box, wire them up, and you've got 12 recessed lights ready for new construction or retrofit.

@@ -1,4 +1,5 @@
 ---
+
 title: "Acacia Emery Bed Frame with Headboard Solid Wood Platform Be"
 seo_title: "Acacia Emery Bed Frame Review: Solid Wood Platform, King Size"
 meta_description: "Acacia Emery Bed Frame review: Is this solid wood platform bed worth it? Real pros, cons, and buyer feedback on the King size with headboard."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GLN63JBZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cRYkNoiLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine acacia solid wood throughout — no particleboard or MDF hidden under veneer"
   - "Slatted platform design eliminates box spring need, saving $150+ on setup costs"
   - "Sturdy center support rail rated for heavier sleepers without noticeable flex"
-cons:
+cons: 
   - "Assembly requires two people and roughly 90 minutes — not a solo weekend project"
   - "No options for low-profile or adjustable base compatibility due to fixed slat height"
   - "Finish is matte and shows water rings easily; coasters are non-negotiable"
+
 ---
 
 # Acacia Emery Bed Frame Review: Is This Solid Wood Platform Actually Worth It?

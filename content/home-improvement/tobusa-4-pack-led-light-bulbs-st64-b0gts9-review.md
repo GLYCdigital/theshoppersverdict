@@ -1,4 +1,5 @@
 ---
+
 title: "TOBUSA 4-Pack LED Light Bulbs ST64"
 seo_title: "TOBUSA 4-Pack LED Light Bulbs ST64 Review: Verdict | TSV"
 meta_description: "Our full tobusa 4-pack led light bulbs st64 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTS9PHT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bYM0ntdhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The ST64 shape is finally done right — mostly

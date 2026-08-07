@@ -1,4 +1,5 @@
 ---
+
 title: "Stella & Chewyâ€™s Raw Coated Premium Kibble Cat Food â€“ Gr"
 seo_title: "Stella & Chewyâ€™s Raw Coated Premium Kibble Cat F Review"
 meta_description: "Our full stella & chewyâ€™s raw coated premium kibble cat food â€“ gr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPQSY84L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fd2XPPFrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Stella & Chewy’s Raw Coated Premium Kibble Cat Food – Gr** is one of those products that makes you ask: *Is raw-coated actually better, or just better marketing?* After digging through 229 ratings, customer photos, and ingredient specs, here’s the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "E.P. Light EP Floor lamp2023 inch"
 seo_title: "E.P. Light EP Floor Lamp 2023 Review: Honest Buyer's Guide"
 meta_description: "E.P. Light EP Floor lamp2023 review: 3.8-star rated. We break down build quality, brightness, stability issues, and who should buy this lamp."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CQX82W4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61R+3BJfqeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three color temperature modes (3000K/4000K/6500K) with stepless dimming from 5% to 100% brightness"
   - "Sturdy 8.5-pound weighted base that doesn't tip even on carpet"
   - "Tool-free assembly — the pole locks together in under 3 minutes with no screws or wrenches"
-cons:
+cons: 
   - "Single-point touch control on the pole is finicky — the sensor sometimes requires two or three taps to register"
   - "Remote control requires line-of-sight and stops working beyond 12 feet, which limits placement flexibility"
   - "Head angle only tilts 45 degrees vertically with no horizontal swivel, so positioning the light exactly where you need it is limited"
+
 ---
 
 The E.P. Light EP Floor lamp2023 sits in a crowded market of cheap LED floor lamps that all promise the same thing: bright, adjustable light that doesn't look like a hospital fixture. With 190 ratings averaging 3.8 stars, this one has a split personality — some buyers are thrilled, others are frustrated. Here's what you need to know before you buy.

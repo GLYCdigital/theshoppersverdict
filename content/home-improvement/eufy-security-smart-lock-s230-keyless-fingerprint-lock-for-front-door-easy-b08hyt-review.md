@@ -1,4 +1,5 @@
 ---
+
 title: "eufy Security Smart Lock S230, Keyless Fingerprint Lock for"
 seo_title: "eufy Security Smart Lock S230 Review: Keyless Fingerprint Entry"
 meta_description: "eufy Security Smart Lock S230 review: 4.3-star keyless fingerprint lock. Real-world performance, battery life, and installation insights to help you decide."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08HYTGFLR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GIq89605L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fingerprint reader is genuinely fast — under 0.3 seconds to unlock, and it works reliably with dry or slightly sweaty fingers"
   - "Built-in Wi-Fi means no separate bridge or hub required for remote access and notifications"
   - "Auto-lock feature with adjustable delay timers (30s to 2 minutes) ensures you never leave the door unlocked"
-cons:
+cons: 
   - "No physical keyhole at all — if the battery dies completely and you don't have the backup USB power bank, you're locked out"
   - "App setup can be finicky on 5GHz-only routers; you'll need to connect to 2.4GHz band first"
   - "The keypad is touch-sensitive, not physical buttons — some users report missed presses in cold weather or with gloves"
+
 ---
 
 If you've been burned by smart locks that require a separate hub, a subscription, or a PhD in networking to install, the eufy Security Smart Lock S230 is designed to be the antidote. It's a keyless fingerprint deadbolt that replaces your existing lock in about 20 minutes and connects directly to your Wi-Fi — no bridge, no monthly fee. At 4.3 stars across 215 ratings, it's clearly working for most people. But "most" isn't "all," and there are a few things you need to know before you buy.

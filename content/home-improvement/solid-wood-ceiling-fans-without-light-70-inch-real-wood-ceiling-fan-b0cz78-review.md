@@ -1,4 +1,5 @@
 ---
+
 title: "Solid Wood Ceiling Fans Without Light, 70 Inch Real Wood Cei"
 seo_title: "Solid Wood Ceiling Fans Without Light, 70 Inch Rea Review"
 meta_description: "Our full solid wood ceiling fans without light, 70 inch real wood cei review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZ787BGH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pTwt2gAWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 70-Inch Solid Wood Ceiling Fan: When a Fan Becomes Furniture**

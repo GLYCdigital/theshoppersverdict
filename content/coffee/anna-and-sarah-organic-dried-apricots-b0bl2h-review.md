@@ -1,4 +1,5 @@
 ---
+
 title: "Anna and Sarah Organic Dried Apricots"
 seo_title: "Anna and Sarah Organic Dried Apricots Review: Worth It?"
 meta_description: "Honest Anna and Sarah Organic Dried Apricots review: taste, texture, value, and how they compare to conventional brands. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL2H6LNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xp0nNe83L._SL1121_.jpg"
-pros:
+pros: 
   - "Whole fruit, no added sugar or sulfur dioxide — clean ingredient list"
   - "Soft, moist texture that doesn't require soaking or rehydration"
   - "Resealable pouch preserves freshness over multiple servings"
-cons:
+cons: 
   - "Some batches arrive drier than others — inconsistent moisture levels"
   - "Smaller apricots than typical grocery store Turkish imports"
+
 ---
 
 Let's be direct: most dried apricots you'll find at the grocery store are sulfur-treated, sugar-laden, or both. Anna and Sarah's Organic Dried Apricots skip both. That alone makes them worth a look — but are they worth the premium over conventional bags? I dug through 215 ratings and the product specs to give you the real picture.

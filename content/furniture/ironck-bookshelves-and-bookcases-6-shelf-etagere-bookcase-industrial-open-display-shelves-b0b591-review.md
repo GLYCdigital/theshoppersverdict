@@ -1,4 +1,5 @@
 ---
+
 title: "IRONCK Bookshelves and Bookcases 6-Shelf Etagere Bookcase, I"
 seo_title: "IRONCK Bookshelves and Bookcases 6-Shelf Etagere B Review"
 meta_description: "Our full ironck bookshelves and bookcases 6-shelf etagere bookcase, i review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B591CVHL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rVB8yMHCS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some bookshelves are furniture. This one is a statement. The IRONCK 6-Shelf Etagere Bookcase doesn't hide in corners — the industrial black frame and warm wood-toned shelves demand attention. At roughly 70 inches tall and 15.7 inches deep per shelf, it's sized for serious storage, not just display. And with a 4.8-star average across 240 ratings, it's clearly earning its place in living rooms, home offices, and entryways.

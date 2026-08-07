@@ -1,4 +1,5 @@
 ---
+
 title: "Toysmith Chasing Fireflies Kids Game - The Game of Shine & S"
 seo_title: "Toysmith Chasing Fireflies Kids Game - The Game of Review"
 meta_description: "Our full toysmith chasing fireflies kids game - the game of shine & s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07MXBSJY4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810fP7VydFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Game of Shine & Seek is the rare kids' game that gets kids off the couch and moving without needing a screen, a controller, or a parent to referee every turn.**

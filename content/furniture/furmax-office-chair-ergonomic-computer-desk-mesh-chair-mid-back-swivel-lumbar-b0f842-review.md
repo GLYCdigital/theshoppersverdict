@@ -1,4 +1,5 @@
 ---
+
 title: "Furmax Office Chair Ergonomic Computer Desk Mesh Chair Mid B"
 seo_title: "Furmax Ergonomic Mesh Office Chair Review: Worth It?"
 meta_description: "Honest Furmax office chair review: mesh back, lumbar support, swivel base. Real pros, cons, and who should buy it — 4.2-star verdict."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F842C1N4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fbPPnvLW._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Breathable mesh backrest prevents sweat buildup during long work sessions"
   - "Built-in lumbar support pillow is height-adjustable via a simple strap"
   - "Assembles in under 20 minutes with included hex wrench, no extra tools needed"
-cons:
+cons: 
   - "Seat cushion is firm — not plush — and may feel hard after 4+ hours of continuous sitting"
   - "Armrests are fixed, not height-adjustable, which limits ergonomic customization"
   - "Casters are basic hard plastic that can scratch hardwood floors without a mat"
+
 ---
 
 # Furmax Ergonomic Mesh Chair: The Budget Workhorse That Gets the Job Done

@@ -1,4 +1,5 @@
 ---
+
 title: "Ansionsol Squirrel Baffle"
 seo_title: "Ansionsol Squirrel Baffle Review: Does It Stop Squirrels?"
 meta_description: "Hands-on Ansionsol Squirrel Baffle review: 4.3★ rated. Does it actually block squirrels from feeders? We tested durability, install, and real results."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BVQPZYDP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/512BwX-fSsL._AC_SL1367_.jpg"
-pros:
+pros: 
   - "Tough 22-gauge steel construction—won't bend or crack like plastic baffles"
   - "20-inch dome diameter is wide enough to stop even the most acrobatic squirrels"
   - "Universal mounting bracket fits both 1-inch and 1.25-inch poles without extra hardware"
-cons:
+cons: 
   - "Dome shape can catch wind and wobble on thin poles unless fully tightened"
   - "Installation takes two people—the bracket bolts are awkward to reach one-handed"
+
 ---
 
 **The Squirrel War: A Review of the Ansionsol Squirrel Baffle**

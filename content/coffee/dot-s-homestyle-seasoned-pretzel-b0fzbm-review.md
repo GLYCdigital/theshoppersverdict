@@ -1,4 +1,5 @@
 ---
+
 title: "Dot's Homestyle Seasoned Pretzel"
 seo_title: "Dot's Homestyle Seasoned Pretzel Review: Worth the Hype?"
 meta_description: "Dot's Homestyle Seasoned Pretzel review: bold seasoning, satisfying crunch, but inconsistent bags? We break down the taste, texture, and value."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FZBM5FF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Bold, buttery seasoning blend that clings to every twist — not just dust at the bottom of the bag"
   - "Sturdy, crunchy texture that holds up to dips and travel without going stale"
   - "Distinctive flavor profile (dill, garlic, buttermilk) that stands apart from standard pretzel brands"
-cons:
+cons: 
   - "Seasoning distribution is inconsistent between bags — some are heavily coated, others taste nearly plain"
   - "High sodium and fat content makes portion control difficult; easy to eat half a bag in one sitting"
   - "Price per ounce runs higher than grocery-store pretzel brands, especially for a snack food"
+
 ---
 
 ## The Pretzel That Started a Cult Following

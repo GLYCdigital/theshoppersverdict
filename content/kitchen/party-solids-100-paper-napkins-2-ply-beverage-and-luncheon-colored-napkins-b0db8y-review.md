@@ -1,4 +1,5 @@
 ---
+
 title: "Party Solids 100 Paper Napkins 2 Ply Beverage and Luncheon C"
 seo_title: "Party Solids 100 Paper Napkins 2 Ply Beverage and  Review"
 meta_description: "Our full party solids 100 paper napkins 2 ply beverage and luncheon c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB8Y5JK8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71udBakPDTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most paper napkins are an afterthought. You grab whatever’s cheapest, deal with the flimsy tearing, and move on. The Party Solids 100-count pack aims to change that calculus — and with a 4.7-star average across 235 ratings, it’s clearly doing something right. But is it worth your money, or just another disposable that disappoints mid-barbecue?

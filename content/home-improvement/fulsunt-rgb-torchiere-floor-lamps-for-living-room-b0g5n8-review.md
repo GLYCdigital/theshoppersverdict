@@ -1,4 +1,5 @@
 ---
+
 title: "FULSUNT RGB Torchiere Floor Lamps for Living Room"
 seo_title: "FULSUNT RGB Torchiere Floor Lamp Review (2026): Worth It?"
 meta_description: "Honest FULSUNT RGB torchiere floor lamp review: 16 color modes, dimmable, remote control. See pros, cons, and who should buy this 4.5-star lamp."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G5N8F6PY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lwKrMfxDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "16 color modes plus white temperature presets, all dimmable from warm 2700K to cool 6500K"
   - "RF remote works through walls and doesn't require line-of-sight like IR remotes"
   - "Sturdy weighted base prevents tipping even on carpet with the full 68-inch height"
-cons:
+cons: 
   - "No smart home integration — app-free control means no Alexa/Google Home voice commands"
   - "Lower color rendering index (CRI) noticeable when reading — colors look slightly muted"
+
 ---
 
 Lighting can make or break a room, and torchiere lamps have been doing that job quietly for decades. But the FULSUNT RGB Torchiere isn't your grandfather's halogen updlight. It's a modern LED column that throws 16 colors and multiple white temperatures at your ceiling, all for the price of a decent dinner out. After 225 Amazon ratings averaging 4.5 stars, it's clearly doing something right. Here's the full picture so you can decide if it fits your space.

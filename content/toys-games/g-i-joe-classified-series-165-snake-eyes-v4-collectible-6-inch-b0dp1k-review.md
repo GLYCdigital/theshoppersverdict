@@ -1,4 +1,5 @@
 ---
+
 title: "G.I. Joe Classified Series #165, Snake Eyes V4, Collectible"
 seo_title: "G.I. Joe Classified Snake Eyes V4 Review: Is It Worth It?"
 meta_description: "Our G.I. Joe Classified Series #165 Snake Eyes V4 review covers articulation, accessories, and value. See if this 6-inch collectible earns its 4.7-star rating."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP1KN4W2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Cg4lw3SzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pinless joint construction on arms and legs for seamless, clean visual lines"
   - "Includes both a full-length katana and a shorter wakizashi with multiple carry options"
   - "Updated V4 design with removable tactical vest and holster rig that doesn't restrict torso articulation"
-cons:
+cons: 
   - "Black-on-black color scheme makes some sculpted detail hard to see in-hand"
   - "No alternate unmasked head or faceplate included for display variety"
   - "Stand is a simple flight-style peg, not a proper display base"
+
 ---
 
 If you've been collecting the G.I. Joe Classified Series since wave one, you know the drill: every Snake Eyes release gets snatched up fast. The #165 V4 version — the one from the early 2000s Valor vs. Venom era — is no exception. With a 4.7-star average across 235 ratings, this is clearly hitting the mark for most collectors. But is it a must-buy or a pass? Here's the breakdown.

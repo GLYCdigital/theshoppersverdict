@@ -1,4 +1,5 @@
 ---
+
 title: "HopeRock Indoor Basketball Hoop for Kids, Over The Door Mini"
 seo_title: "HopeRock Over Door Basketball Hoop Review: Worth It?"
 meta_description: "HopeRock indoor basketball hoop review: 4.5-star over-door mini hoop for kids. Real user feedback, setup tips, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSTPF47J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KzBncHg1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Tool-free over-door mount with thick foam padding that protects door frames from scuffs"
   - "Includes 2 foam balls, 2 mini basketballs, and a hand pump — everything needed out of the box"
   - "Breakaway rim and polycarbonate backboard hold up to aggressive kid play without cracking"
-cons:
+cons: 
   - "Foam balls bounce unpredictably on hard floors — expect items knocked off nearby shelves"
   - "Over-door hooks can leave marks on hollow-core doors if not installed with the included protective strips"
+
 ---
 
 If your kid has discovered the joy of launching things at walls, the HopeRock Indoor Basketball Hoop is the smarter alternative to a ruined lampshade. This is a $38 over-the-door mini hoop that promises real basketball action without drilling holes in your trim. With 225 ratings averaging 4.5 stars, it's clearly doing something right. The real question is whether it survives your particular chaos.

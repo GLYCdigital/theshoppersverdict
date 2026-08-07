@@ -1,4 +1,5 @@
 ---
+
 title: "Earth Science Fast Acting Lime - (5lb) Instantly Raise pH of"
 seo_title: "Earth Science Fast Acting Lime Review: Fast pH Fix for Lawns"
 meta_description: "Earth Science Fast Acting Lime 5lb review: Does it really raise soil pH instantly? Real buyer feedback, performance data, and honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJKWZ6F4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nfOJPyHkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works within days, not months — visible pH shift in 3-5 days per multiple buyer reports"
   - "5lb bag covers 2,500 sq ft at the standard 1lb/1,000 sq ft application rate — no guesswork"
   - "Fine powder formulation dissolves quickly in water or tills easily into topsoil"
-cons:
+cons: 
   - "5lb size is small for larger lawns — you'll need multiple bags for anything over 2,500 sq ft"
   - "Powder form can clump if stored in humid conditions — reseal the bag tightly"
   - "Requires a soil test first — applying blind risks over-liming your beds"
+
 ---
 
 Let's be direct: most lime products take six to twelve months to meaningfully shift your soil pH. That's the standard. Earth Science's Fast Acting Lime claims to do it in days. After digging through 225 ratings and the chemistry, here's what actually matters.

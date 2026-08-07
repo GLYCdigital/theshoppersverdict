@@ -1,4 +1,5 @@
 ---
+
 title: "Bates- Weatherproof Electrical Outlet Cover, 1-Gang, Outdoor"
 seo_title: "Bates Weatherproof Outlet Cover Review: 1-Gang Outdoor"
 meta_description: "Bates 1-gang weatherproof outlet cover review: durable die-cast build, true in-use protection, easy install. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY7JRJZ1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o6TcXZniL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum body with powder-coated finish—survives sun, rain, and salt air without rusting or fading"
   - "Clear polycarbonate lid stays transparent even after months of UV exposure, so you can see if a plug is seated"
   - "Fits standard 1-gang boxes (including metal and old-work), and the included foam gasket seals tightly against the wall"
-cons:
+cons: 
   - "Lid hinge pin is plastic—fine for occasional use, but it can wear out if you open and close it daily"
   - "The clear lid scratches fairly easily if you brush it against brick or stucco during installation"
   - "No built-in cord slot for a flat plug; a bulky transformer will keep the lid from closing fully"
+
 ---
 
 Let’s be honest: most outlet covers are an afterthought. You screw them on, forget they exist, and only notice them when they’ve turned yellow or cracked. The Bates Weatherproof Electrical Outlet Cover is not that cover. This is the one you install when you actually care about whether your outdoor receptacle survives a Midwest thunderstorm or a coastal salt breeze.

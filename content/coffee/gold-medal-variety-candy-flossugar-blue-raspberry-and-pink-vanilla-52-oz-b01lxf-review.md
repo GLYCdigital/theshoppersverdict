@@ -1,4 +1,5 @@
 ---
+
 title: "Gold Medal Variety Candy Flossugar (Blue Raspberry and Pink "
 seo_title: "Gold Medal Variety Candy Flossugar (Blue Raspberry Review"
 meta_description: "Our full gold medal variety candy flossugar (blue raspberry and pink  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LXFIYID/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ymyWEN8ZL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be straight with you: this is cotton candy sugar, not a coffee maker. But if you're running a coffee shop, dessert cart, or event stand, you already know the pairing — a fresh-spun cone of cotton candy next to a latte is a money-maker. And this is the sugar that makes it work.

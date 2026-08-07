@@ -1,17 +1,18 @@
 ---
+
 title: "Keurig K155 Office Pro Commercial K-Cup Coffee Maker"
 seo_title: "Keurig K155 Office Pro Review: 4.3★ Commercial Brewer at $355"
 meta_description: "Our full Keurig K155 Office Pro review. 4.3 stars from 4,900+ ratings. Commercial-grade single-serve brewing with a 90oz reservoir. Read the verdict."
 slug: "keurig-k155-office-pro-commercial-coffee-maker-review"
 image_alt: "Keurig K155 Office Pro Single Cup Commercial K-Cup Pod Coffee Maker in Silver"
-keywords:
+keywords: 
   - "Keurig K155 review"
   - "commercial K-Cup coffee maker"
   - "Keurig Office Pro review"
   - "best Keurig for office"
   - "Keurig K155 price"
 verdict_score: 4.3
-faq:
+faq: 
   - question: "Does the Keurig K155 have a 12 oz brew option?"
     answer: "No, the K155 offers 4 oz, 6 oz, 8 oz, and 10 oz cup sizes but lacks a 12 oz setting. Several reviewers, including positive ones, flag this as a notable omission at the $355 price point."
   - question: "How many cups can the K155 brew before refilling?"
@@ -26,16 +27,17 @@ review_count: 4977
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J+8j1upTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Large 90 oz reservoir handles 30+ cups per fill — minimum downtime in busy settings"
   - "Direct water line compatible for true commercial setup"
   - "Heats and brews quickly, keeping waiting to a minimum even during peak usage"
   - "Sturdy commercial-grade construction with visible build quality over home Keurig models"
-cons:
+cons: 
   - "No 12 oz cup option at a $355 price point — surprising omission"
   - "Some units fail within months, especially in heavy-use environments"
   - "Water film buildup requires draining reservoir if machine sits unused for extended periods"
   - "Expensive for the feature set; you're paying for the commercial badge"
+
 ---
 
 ## The $355 Office Coffee Machine That Actually Earns Its Keep

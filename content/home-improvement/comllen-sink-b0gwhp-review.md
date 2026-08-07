@@ -1,4 +1,5 @@
 ---
+
 title: "Comllen Sink"
 seo_title: "Comllen Sink Review: Honest Look at This Kitchen Workhorse"
 meta_description: "Comllen Sink review: 4.4-star rated kitchen sink. We break down build quality, installation quirks, and real buyer feedback to help you decide."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWHPQ2NW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71D7UBEupCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 16-gauge stainless steel construction resists dents and keeps noise down compared to thinner 18-gauge rivals"
   - "Deep 10-inch basin handles stockpots and baking sheets that get stuck in standard 8-inch sinks"
   - "Sound-dampening pads and undercoating already applied — no need to buy aftermarket insulation"
-cons:
+cons: 
   - "Undermount install requires the included mounting clips to be positioned perfectly; misalignment leads to gaps"
   - "Brushed finish shows hard water spots quickly if you have mineral-heavy tap water"
+
 ---
 
 Let’s be blunt about kitchen sinks: most are boring, flimsy, or overpriced. The Comllen Sink actually tries to be none of those things. With 220 ratings holding a 4.4-star average, it’s earned attention — and for most homeowners, it deserves it.

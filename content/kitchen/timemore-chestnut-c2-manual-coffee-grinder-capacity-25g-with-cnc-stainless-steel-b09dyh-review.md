@@ -1,4 +1,5 @@
 ---
+
 title: "TIMEMORE Chestnut C2 Manual Coffee Grinder Capacity 25g with"
 seo_title: "TIMEMORE Chestnut C2 Manual Coffee Grinder Capacit Review"
 meta_description: "Our full timemore chestnut c2 manual coffee grinder capacity 25g with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09DYHFH4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71arLLhAqwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TIMEMORE Chestnut C2 has become the default answer to "what's a good first hand grinder?" on every coffee forum worth reading. After testing it against grinders at three times the price, I understand why.**

@@ -1,4 +1,5 @@
 ---
+
 title: "DecoBasics 3/8 inch  Inset Cabinet Hinges Offset Self Closing Cab"
 seo_title: "DecoBasics 3/8 inch  Inset Cabinet Hinges Review (2026): Self-Closing"
 meta_description: "Honest DecoBasics 3/8 inch  inset cabinet hinges review: offset self-closing hardware tested for fit, finish & durability. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHTHSY92/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s0uur1DYL._AC_SL1457_.jpg"
-pros:
+pros: 
   - True 3/8 inch " offset with a 105° opening angle — fits standard inset frames without binding on face frames
   - "Self-closing action is consistent and adjustable via the tension screw; no slamming even on heavier solid-wood doors"
   - "Zinc alloy body with a smooth, uniform brushed finish that resists fingerprints and doesn't chip during installation"
-cons:
+cons: 
   - Screws included are soft — replace with #6 x 5/8 inch " pan-head screws if you're driving into hardwood frames
   - "No soft-close damping; the self-closing spring pulls the door shut with authority, which may surprise first-time users"
+
 ---
 
 If you're installing inset cabinet doors, you already know the pain: hinges that sit proud, doors that bind, or hardware that squeaks after six months. The DecoBasics 3/8" Inset Cabinet Hinges aim to eliminate that headache. At 4.6 stars across 229 ratings, they're clearly doing something right. Here's the honest breakdown after digging into specs, buyer feedback, and real-world installation scenarios.

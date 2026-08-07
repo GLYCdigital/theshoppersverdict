@@ -1,23 +1,25 @@
 ---
+
 title: "Aurora Professional Grade 12-Sheet Micro-Cut Paper and CD/Cr"
 seo_title: "Aurora 12-Sheet Micro-Cut Shredder Review (2026)"
 meta_description: "Honest Aurora Professional 12-sheet micro-cut shredder review: capacity, CD shredding, noise, and jams. See if it's worth buying for home offices."
 slug: "aurora-professional-grade-12-sheet-micro-cut-paper-and-cd-credit-card-b0cztb-review"
 image_alt: "Aurora Professional Grade 12-sheet micro-cut paper and CD/credit card shredder on a desk"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZTBXYNL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Sz6WbH6L._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "True 12-sheet micro-cut capacity handles stapled and folded docs without stalling"  
   - "Separate CD/DVD and credit card slot saves the main cutter for paper"  
   - "Runs for 20 minutes continuous before needing a cool-down — rare at this price"  
-cons:  
+cons: 
   - "Noisy under load — measures around 65 dB, so don't expect library quiet"  
   - "Small 6-gallon bin fills fast with micro-cut particles; you'll empty it often"
+
 ---
 
 **Is the Aurora Professional Grade 12-sheet shredder a genuine step up from budget shredders, or just another box of plastic with blades?** I've put it through a month of real office abuse — payroll sheets, old tax returns, credit card offers, and a stack of expired debit cards. Here's the honest breakdown.

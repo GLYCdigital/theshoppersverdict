@@ -1,4 +1,5 @@
 ---
+
 title: "Illuminare, Moisturizing Mineral Foundation - 0.5 oz"
 seo_title: "Illuminare, Moisturizing Mineral Foundation - 0.5  Review"
 meta_description: "Our full illuminare, moisturizing mineral foundation - 0.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09JQXJKTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51B6XOzH7sL._SL1350_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.5-star mineral foundation that actually respects dry skin — here's the full breakdown**

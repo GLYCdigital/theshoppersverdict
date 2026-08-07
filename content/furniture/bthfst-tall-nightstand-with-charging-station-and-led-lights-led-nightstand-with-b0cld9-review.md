@@ -1,4 +1,5 @@
 ---
+
 title: "BTHFST Tall Nightstand with Charging Station and LED Lights,"
 seo_title: "BTHFST Tall Nightstand Review: Charging Station + LED Lights"
 meta_description: "Honest BTHFST Tall Nightstand review: charging station, LED lights, build quality. See pros, cons, and who should buy this 4.1-star bedside table."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLD9S11Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LniUOONwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in charging station with 2 USB ports and 1 AC outlet keeps devices organized and off the floor"
   - "LED light strip with multiple color options and remote control adds practical ambient lighting for late-night browsing"
   - "Tall profile (over 23 inches) sits higher than most nightstands, making it easier to reach from bed"
-cons:
+cons: 
   - "Particle board construction feels less premium than solid wood — expect some assembly quirks"
   - "LED lights require a separate USB power source (not included), so budget for an adapter"
   - "Open shelf design offers no dust protection, so decorative items need regular cleaning"
+
 ---
 
 If you're tired of crawling out of bed to find your phone charger or fumbling for a lamp switch at 2 a.m., the BTHFST Tall Nightstand with Charging Station and LED Lights is trying to solve a very real problem. The question is whether the execution matches the promise. After digging through the specs and 204 customer reviews, here's the honest picture.

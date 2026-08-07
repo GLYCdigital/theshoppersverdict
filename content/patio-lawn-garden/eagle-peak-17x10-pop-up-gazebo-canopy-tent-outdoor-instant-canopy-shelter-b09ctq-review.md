@@ -1,4 +1,5 @@
 ---
+
 title: "EAGLE PEAK 17x10 Pop up Gazebo Canopy Tent Outdoor Instant C"
 seo_title: "EAGLE PEAK 17x10 Pop Up Gazebo Review (2026): Worth It?"
 meta_description: "EAGLE PEAK 17x10 pop up gazebo review: 4.5-star rated instant canopy. Is it sturdy? Easy setup? Real buyer pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09CTQDYPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D-3N2FyDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 60-second push-up frame with pre-attached canopy top — no poles to thread through fabric"
   - "170 GSM polyester roof with silver UV coating blocks harsh sun and sheds light rain"
   - "Wheeled roller bag with handles makes solo transport and storage genuinely manageable"
-cons:
+cons: 
   - "No side walls included — afternoon sun angles in and wind-driven rain gets you wet"
   - Peak height of 9'10 inch " sounds tall but the angled legs reduce usable edge clearance to about 6'2 inch "
   - "Frame is aluminum but the push-button locks feel plasticky — treat them gently"
+
 ---
 
 Let’s be honest about what a 17x10 instant canopy actually is: a massive piece of shade that either takes two people and twenty minutes to wrestle into place, or — if the engineering is right — pops up fast enough that you’re done before the burgers hit the grill. The EAGLE PEAK 17x10 falls firmly in the second camp, and that’s why it holds a 4.5-star average across 225 Amazon ratings.

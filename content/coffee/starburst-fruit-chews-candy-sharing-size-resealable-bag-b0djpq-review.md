@@ -1,4 +1,5 @@
 ---
+
 title: "Starburst Fruit Chews Candy Sharing Size Resealable Bag"
 seo_title: "Starburst Fruit Chews Candy Sharing Size Resealabl Review"
 meta_description: "Our full starburst fruit chews candy sharing size resealable bag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJPQSYM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/619fwzjW5jL._SL1030_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: this is a candy review, not a coffee review. The product data says coffee maker, but the product is Starburst Fruit Chews. I review what's actually in front of me, and what's in front of me is 14 ounces of chewy, fruity nostalgia in a resealable bag. Here's the real story.

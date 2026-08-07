@@ -1,4 +1,5 @@
 ---
+
 title: "DURATECH Flex-Head Ratcheting Combination Wrench"
 seo_title: "DURATECH Flex-Head Ratcheting Wrench Review (2026)"
 meta_description: "DURATECH flex-head ratcheting combo wrench review: 72-tooth ratchet, 180° flex head, CR-V steel. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9PWSXF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Li-VM6PfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "72-tooth ratcheting mechanism delivers a tight 5° arc swing, letting you work in confined spaces where standard wrenches won't fit"
   - "180° flex head pivots to reach offset bolts and awkward angles without swapping tools"
   - "Full polish chrome vanadium steel construction resists corrosion and wipes clean easily"
-cons:
+cons: 
   - "Flex head hinge adds bulk at the joint, making it slightly thicker than fixed-head wrenches in tight spots"
   - "No anti-slip laser-etched grip on the beam — smooth handle can get slippery with greasy hands"
   - "Not a full set — sold individually, so buying multiple sizes adds up quickly"
+
 ---
 
 **The one wrench that saves your knuckles**

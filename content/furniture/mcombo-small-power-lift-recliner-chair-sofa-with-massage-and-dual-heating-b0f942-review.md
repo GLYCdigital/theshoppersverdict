@@ -1,4 +1,5 @@
 ---
+
 title: "MCombo Small Power Lift Recliner Chair Sofa with Massage and"
 seo_title: "MCombo Small Power Lift Recliner Chair Sofa with M Review"
 meta_description: "Our full mcombo small power lift recliner chair sofa with massage and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F942MWJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mEGRAYCiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most "lift recliners" look like they belong in a hospital waiting room. The MCombo Small Power Lift Recliner tries to bridge that gap — and for the most part, it succeeds. This is a compact, functional chair that prioritizes mobility assistance over aesthetics. Here's what 225 Amazon buyers (averaging 4.5 stars) actually think.

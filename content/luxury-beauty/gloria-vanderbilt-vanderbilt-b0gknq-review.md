@@ -1,4 +1,5 @@
 ---
+
 title: "Gloria Vanderbilt Vanderbilt"
 seo_title: "Gloria Vanderbilt Vanderbilt Review: Verdict | TSV"
 meta_description: "Our full gloria vanderbilt vanderbilt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKNQ85PC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FKdIM3N6L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what Gloria Vanderbilt Vanderbilt is: a classic. Not classic in the "dusty museum piece" sense, but in the way a well-tailored blazer never goes out of style. With 229 ratings holding a solid 4.6-star average, this fragrance has clearly found its audience. The question is whether that audience includes you.

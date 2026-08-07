@@ -1,4 +1,5 @@
 ---
+
 title: "Feonase Bed Frame with Charging Station, Upholstered Bed Fra"
 seo_title: "Feonase Bed Frame with Charging Station Review (2026)"
 meta_description: "Feonase upholstered bed frame with charging station reviewed: build quality, storage, wingback design, and real buyer feedback. Find out if it's worth it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DSWDMV9L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kUX35zqtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in USB and Type-C charging ports on both sides of the headboard, so you and your partner can charge simultaneously without fighting over outlets"
   - "Sturdy steel slat system supports up to 800 lbs with no box spring required, and slats are spaced tightly enough for memory foam mattresses"
   - "Two spacious under-bed storage drawers on smooth-glide rollers that actually fit queen-size bedding and out-of-season clothing"
-cons:
+cons: 
   - "Some buyers report the upholstered fabric is thin and shows wear or snags quickly, especially around the headboard corners"
   - "Assembly takes two people a solid 60–90 minutes, and the drawer slides require precise alignment to avoid sticking"
+
 ---
 
 **The Feonase Bed Frame with Charging Station: A Feature-Packed Frame That Makes You Earn It**

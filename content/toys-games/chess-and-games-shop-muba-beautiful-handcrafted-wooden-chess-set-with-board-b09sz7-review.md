@@ -1,4 +1,5 @@
 ---
+
 title: "Chess and Games Shop Muba Beautiful Handcrafted Wooden Chess"
 seo_title: "Muba Handcrafted Wooden Chess Set Review: Worth It?"
 meta_description: "Honest Muba handcrafted wooden chess set review: build quality, real-world play, buyer complaints, and who should buy this 4.6-star board."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SZ72968/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ADHm285cL._AC_SL1194_.jpg"
-pros:
+pros: 
   - "Solid hardwood pieces with a satisfying weight — they stand firm and don't topple during aggressive play"
   - "Integrated storage slots under the board keep every piece secure, so nothing rattles or gets lost in transit"
   - "Felted bases on all 32 pieces protect the board surface and glide smoothly for quick moves"
-cons:
+cons: 
   - "The board's folding hinge feels slightly loose out of the box — it works, but it won't survive heavy classroom abuse"
   - "At 15 x 15 inches, the playing surface is compact; serious tournament players will find the squares cramped"
   - "A few buyers report minor finish imperfections on the bishop pieces — cosmetic only, but noticeable up close"
+
 ---
 
 Let me cut through the "beautiful handcrafted" marketing language and tell you what this chess set actually is: a mid-priced wooden board that gets the fundamentals right without pretending to be a tournament-grade heirloom. With 229 ratings averaging 4.6 stars, it's clearly doing something right. Here's what 60 minutes of hands-on testing and a deep dive into buyer feedback revealed.

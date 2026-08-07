@@ -1,4 +1,5 @@
 ---
+
 title: "ChalkLit Light Up Dog Harness"
 seo_title: "ChalkLit Light Up Dog Harness Review: Worth It? (2026)"
 meta_description: "Honest ChalkLit Light Up Dog Harness review: LED visibility, fit, battery life, and durability. See what 200 buyers say before you buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CC2FPR8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ibAcB-sUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Bright 360° LED strips visible from 600+ feet — genuinely improves nighttime safety"
   - "Multiple light modes (steady, slow flash, fast flash) controlled by a one-touch button"
   - "USB-C rechargeable battery lasts 8-12 hours on steady mode"
-cons:
+cons: 
   - "Sizing runs small — measure your dog's chest carefully and size up"
   - "Light strips are non-removable; machine washing ruins them"
+
 ---
 
 If you walk your dog before sunrise or after sunset, you already know the drill: you're invisible to drivers until they're practically on top of you. The ChalkLit Light Up Dog Harness attacks that problem directly with 360° LED visibility, and honestly, it does the job better than most reflective-gear alternatives I've tested.

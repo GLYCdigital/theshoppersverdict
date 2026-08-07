@@ -1,4 +1,5 @@
 ---
+
 title: "Glitzhome Modern Office Computer Desk Chair, Home Executive"
 seo_title: "Glitzhome Office Chair Review: Modern Executive Comfort"
 meta_description: "Glitzhome Modern Office Chair review: 4.4-star rated executive desk chair. Is the high-back comfort worth it? Real pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09B9DLMGN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617526DJZHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Full high-back design with thick foam padding that actually supports the lumbar region during 8+ hour workdays"
   - "Tool-free assembly takes under 15 minutes — all pieces align and click into place without wrestling with bolts"
   - "Sturdy metal base and smooth-rolling caster wheels that glide on both carpet and hardwood without scratching"
-cons:
+cons: 
   - Armrests are fixed in position with no height or angle adjustment — a dealbreaker for taller users over 6'2 inch "
   - "Seat cushion runs firm for the first two weeks; some buyers report it needs a break-in period before it softens"
   - "No tilt-lock mechanism — the chair rocks back but won't lock into a reclined position for breaks"
+
 ---
 
 The Glitzhome Modern Office Chair sits in a crowded market segment: the sub-$200 executive chair that promises ergonomic support without the ergonomic price tag. After digging through 220 ratings and the detailed feedback from long-term owners, here's the honest picture of what this chair does well — and where it cuts corners.

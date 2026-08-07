@@ -1,4 +1,5 @@
 ---
+
 title: "Chip Paint Brushes for Paint, Stains, Varnishes, Glues, Acry"
 seo_title: "Chip Paint Brushes Review: 10-Pack Craft & Detail Brushes"
 meta_description: "Honest review of Chip Paint Brushes for acrylics, stains, varnishes, glue, and resin. See how these 10 detail brushes perform and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07KVMHRGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gZDGV3MnL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Ten assorted sizes cover everything from fine lining to 1.5-inch flat washes — genuinely useful range"
   - "Synthetic bristles hold their shape through acrylics, wood stain, and epoxy resin without shedding"
   - "Handles are comfortable for extended sessions and the price per brush is hard to beat"
-cons:
+cons: 
   - "Bristles can splay if you push hard on rough surfaces like bare wood or masonry"
   - "Not a replacement for premium sable brushes when you need razor-sharp edges for fine art"
+
 ---
 
 If you do any kind of crafting, furniture flipping, or resin work, you know the struggle: buying a "variety pack" of brushes that turns out to be five useless slivers and one decent flat. The Chip Paint Brushes 10-pack tries to fix that with a genuinely useful spread of sizes, and for the most part, it succeeds.

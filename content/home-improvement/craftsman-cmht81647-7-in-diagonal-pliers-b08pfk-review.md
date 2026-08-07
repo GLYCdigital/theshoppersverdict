@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN CMHT81647 7-in. Diagonal Pliers"
 seo_title: "CRAFTSMAN 7-in Diagonal Pliers Review: Worth It?"
 meta_description: "CRAFTSMAN CMHT81647 7-in. diagonal pliers review: laser-hardened edges, comfort grips, real-world cutting test. See pros, cons, who should buy."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08PFKBW7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FCt+cyuJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Laser-hardened cutting edges stay sharp through hundreds of cuts on 18-gauge wire and even finish nails"
   - "Induction-hardened jaws resist deformation when twisting or pulling stubborn fasteners"
   - "Comfortable, cushioned grips reduce hand fatigue during extended wiring jobs"
-cons:
+cons: 
   - "No spring-loaded opening mechanism — you'll work harder during repetitive cutting sessions"
   - "Cutting edge starts to dull noticeably after heavy use on hardened steel wire or nails"
+
 ---
 
 The CRAFTSMAN CMHT81647 7-inch diagonal pliers doesn't try to reinvent the wheel. It just cuts wire — and does it exceptionally well. With a 4.8-star average across 240 ratings, these pliers have clearly found their audience. But are they the right cutters for your toolbox? Here's the real story.

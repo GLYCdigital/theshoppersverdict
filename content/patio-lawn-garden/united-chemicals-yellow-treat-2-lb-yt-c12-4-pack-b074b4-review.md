@@ -1,4 +1,5 @@
 ---
+
 title: "United Chemicals Yellow Treat 2 lb - YT-C12 - 4 PACK"
 seo_title: "United Chemicals Yellow Treat 2 lb - YT-C12 - 4 PA Review"
 meta_description: "Our full united chemicals yellow treat 2 lb - yt-c12 - 4 pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B074B4MJ7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N9TL5+iQL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: if you’re searching for Yellow Treat, you already know the pain. That ugly, straw-colored patch in the middle of your otherwise green lawn. The one your dog visits every single morning. You’ve probably tried reseeding, extra water, maybe even a different “dog spot” product that did nothing. Here’s the real question: does United Chemicals Yellow Treat actually work, or is it another bottle of hope in a plastic jug? I tested it. Here’s the truth.

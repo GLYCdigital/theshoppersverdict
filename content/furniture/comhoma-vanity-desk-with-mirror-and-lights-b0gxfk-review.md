@@ -1,4 +1,5 @@
 ---
+
 title: "COMHOMA Vanity Desk with Mirror and Lights"
 seo_title: "COMHOMA Vanity Desk with Mirror and Lights Review (2026)"
 meta_description: "Hands-on COMHOMA vanity desk review: LED mirror quality, build, storage, and assembly. See who it fits, who should skip it, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXFKJ4MR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81owwSzqxpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-color adjustable LED lighting around the mirror with dimmable brightness — genuinely useful for makeup application, not just decorative"
   - "Solid 15.7-inch depth fits tight bedrooms and apartments while still offering two fabric drawers and a shelved side cabinet"
   - "Power strip with USB and Type-C ports built into the desktop — charges devices without cluttering your surface"
-cons:
+cons: 
   - "Assembly runs 45–60 minutes with 20+ steps; several buyers report misaligned screw holes on the drawer tracks"
   - "Mirror is fixed-height with no tilt adjustment — shorter or taller users may find the angle less than ideal"
   - "Fabric drawers handle lightweight items fine but sag under heavy skincare bottles or multiple hair tools"
+
 ---
 
 If you've been scrolling vanity desks for a while, you've seen the pattern: a flimsy table, a round mirror that's too small, and lights that look great in photos but cast weird shadows in person. The COMHOMA Vanity Desk with Mirror and Lights sidesteps most of those traps — and at 4.3 stars across 215 ratings, buyers largely agree. But it's not a perfect fit for everyone. Here's the real breakdown.

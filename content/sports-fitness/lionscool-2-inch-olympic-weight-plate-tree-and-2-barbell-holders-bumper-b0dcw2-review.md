@@ -1,4 +1,5 @@
 ---
+
 title: "LIONSCOOL 2-Inch Olympic Weight Plate Tree and 2 Barbell Hol"
 seo_title: "LIONSCOOL 2-Inch Olympic Weight Plate Tree and 2 B Review"
 meta_description: "Our full lionscool 2-inch olympic weight plate tree and 2 barbell hol review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DCW2TVZD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f5iP+OMlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the storage solution your garage gym actually needs?** Most plate trees under $150 are flimsy afterthoughts — thin steel, wobble under load, and zero thought given to barbell storage. The LIONSCOOL 2-Inch Olympic Weight Plate Tree tries to fix that with a combined rack design. At 3.9 stars from 195 ratings, it's a mixed bag. Let's break down what you're actually getting.

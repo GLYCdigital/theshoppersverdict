@@ -1,4 +1,5 @@
 ---
+
 title: "Nutrish Purrfect Broths, Tasty Tuna Recipe with Flaked Tuna "
 seo_title: "Nutrish Purrfect Broths, Tasty Tuna Recipe with Fl Review"
 meta_description: "Our full nutrish purrfect broths, tasty tuna recipe with flaked tuna  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1BB3KGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lw84Aq7SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about cat food: most of it looks like canned meatloaf and smells like regret. Nutrish Purrfect Broths Tasty Tuna Recipe takes a different approach — it's essentially a soup for cats, with flaked tuna suspended in a savory broth rather than mashed into a gelatinous loaf. That distinction matters more than you might think.

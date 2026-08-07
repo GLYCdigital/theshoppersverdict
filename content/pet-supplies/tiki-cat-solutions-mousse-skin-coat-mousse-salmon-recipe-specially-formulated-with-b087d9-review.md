@@ -1,4 +1,5 @@
 ---
+
 title: "Tiki Cat Solutions Mousse Skin & Coat Mousse, Salmon Recipe,"
 seo_title: "Tiki Cat Solutions Mousse Skin & Coat Mousse, Salm Review"
 meta_description: "Our full tiki cat solutions mousse skin & coat mousse, salmon recipe, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B087D9GM6R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71VKKd2OhtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the coat-boosting treat your cat will actually eat? Or just another overpriced pouch?**

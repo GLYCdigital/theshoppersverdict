@@ -1,4 +1,5 @@
 ---
+
 title: "Three Dog Bakery Grain-Free â€œWoofâ€"
 seo_title: "Three Dog Bakery Grain-Free â€œWoofâ€ Review: Verdict | T"
 meta_description: "Our full three dog bakery grain-free â€œwoofâ€ review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08JF363H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61guZVAxbKL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most commercial dog treats are 90% filler and 10% apology. The Three Dog Bakery Grain-Free "Woof" treats are not that. With a 4.6-star average across 229 ratings, this soft-baked biscuit has earned its reputation — but it's not perfect, and here's the honest breakdown.

@@ -1,17 +1,18 @@
 ---
+
 title: "Mr. Coffee Black Coffee Maker, 12 Cups, with Auto Pause and Glass Carafe, Perfect for Home and Office Use"
 seo_title: "Mr. Coffee 12-Cup Black Coffee Maker Review — 44,000+ Reviews"
 meta_description: "Our verdict on the Mr. Coffee 12-Cup Coffee Maker: 44,539 real reviews analyzed. Auto pause, glass carafe, simple operation. Is this $40 drip maker all you need?"
 slug: "mr-coffee-black-coffee-maker-12-cups-with-auto-pause-and-glass-review"
 image_alt: "Mr. Coffee Black Coffee Maker, 12 Cups, with Auto Pause and Glass Carafe"
-keywords:
+keywords: 
   - "mr coffee 12 cup review"
   - "best budget coffee maker"
   - "drip coffee machine"
   - "simple coffee brewer"
   - "home office coffee maker"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "Does the Mr. Coffee 12-cup have an auto shut-off?"
     answer: "No — this is the most common complaint. The Mr. Coffee basic model does NOT have an automatic shut-off feature. You need to manually turn it off after brewing. If auto shut-off matters to you, look at Mr. Coffee's slightly more expensive programmable models."
   - question: "How long does it take to brew 12 cups?"
@@ -26,16 +27,17 @@ review_count: 44539
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LB1AbsorL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dead simple — no clock, no timer, no complicated buttons"
   - "Dishwasher-safe glass carafe"
   - "Auto-pause lets you grab a cup mid-brew"
   - "Excellent value at $40"
-cons:
+cons: 
   - "No auto shut-off — must be turned off manually"
   - "No programmable timer"
   - "Build quality is basic — all plastic"
   - "Warming plate can scorch coffee if left on too long"
+
 ---
 
 Let's be honest: You don't need a $300 espresso machine with a touchscreen to get decent coffee. The Mr. Coffee 12-Cup has been the default answer for "I just need coffee" since before most of us were born. With 44,539 ratings and a 4.4-star average, it's one of the most-reviewed coffee makers on Amazon. The real question isn't whether it works — it's whether it's *still* the right choice in 2026.

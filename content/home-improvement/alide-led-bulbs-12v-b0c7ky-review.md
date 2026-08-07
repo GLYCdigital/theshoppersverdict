@@ -1,4 +1,5 @@
 ---
+
 title: "ALIDE LED Bulbs 12V"
 seo_title: "ALIDE LED Bulbs 12V Review: Worth It? (2026)"
 meta_description: "ALIDE LED Bulbs 12V review: Bright, low-heat RV and marine lighting. Real pros, cons, and buyer feedback. See if they beat incandescent bulbs."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7KYPSBP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716XhnQdOUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Plug-and-play replacement for 921/194/T10 bulbs with zero wiring modifications"
   - "Sips power at roughly 1.2W each — a massive drop from the 8-10W incandescent equivalents"
   - "Sturdy aluminum housing with proper heat sinking; no flicker or radio interference reported"
-cons:
+cons: 
   - "Very cool 6000K color temperature feels clinical in cozy living spaces"
   - "Some camper vans with dimmer switches may see slight flicker at low settings"
+
 ---
 
 If you’re still running incandescent bulbs in your RV, boat, or camper van, you’re wasting battery power and replacing glass tubes every other season. The ALIDE LED Bulbs 12V are a $17.98 fix that swaps into existing 921, 194, and T10 sockets with zero wiring drama. But are they actually worth the swap, or just another cheap LED that buzzes and dies? Here’s the real picture after digging through specs, buyer reports, and the 225 verified ratings.

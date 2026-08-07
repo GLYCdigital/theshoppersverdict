@@ -1,4 +1,5 @@
 ---
+
 title: "LIVEBOX Machine Washable Boho Rug - Living Room Rug Thin For"
 seo_title: "LIVEBOX Machine Washable Boho Rug - Living Room Ru Review"
 meta_description: "Our full livebox machine washable boho rug - living room rug thin for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQPBF75G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91zXDwb27IL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 rug that survives kids, pets, and the washing machine — mostly

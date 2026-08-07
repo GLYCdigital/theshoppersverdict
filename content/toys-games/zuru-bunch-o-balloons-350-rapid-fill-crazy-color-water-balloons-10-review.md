@@ -1,13 +1,14 @@
 ---
+
 title: "ZURU BUNCH O BALLOONS - 350 Rapid-Fill Crazy Color Water Balloons (10 Pack) Amazon Exclusive"
 seo_title: "ZURU BUNCH O Review: Verdict (4.6/5) | TSV"
 meta_description: "Honest zuru bunch o balloons review 19,544+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "zuru-bunch-o-balloons-350-rapid-fill-crazy-color-water-balloons-10-review"
 image_alt: "ZURU BUNCH O BALLOONS - 350 Rapid-Fill Crazy Color Water Balloons (10 Pack) Amazon Exclusive"
-keywords:
+keywords: 
   - "zuru bunch o review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the ZURU BUNCH O BALLOONS?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the ZURU BUNCH O BALLOONS?"
@@ -18,10 +19,11 @@ review_count: 19544
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07XYQY7SV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eSMjsg+RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The 60-Second Water Balloon Army: Is the Hype Real?**

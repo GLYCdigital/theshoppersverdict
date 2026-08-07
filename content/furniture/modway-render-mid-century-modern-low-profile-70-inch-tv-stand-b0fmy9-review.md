@@ -1,4 +1,5 @@
 ---
+
 title: "Modway Render Mid-Century Modern Low Profile 70 Inch TV Stan"
 seo_title: "Modway Render Mid-Century Modern Low Profile 70 In Review"
 meta_description: "Our full modway render mid-century modern low profile 70 inch tv stan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FMY9DGRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41hQTWV--vL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Modway Render Review: Does This 70-Inch Low-Profile Stand Deliver Mid-Century Style on a Budget?**

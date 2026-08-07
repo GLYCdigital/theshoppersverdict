@@ -1,4 +1,5 @@
 ---
+
 title: "T-fal Electric Grill"
 seo_title: "T-fal Electric Grill Review: Verdict | TSV"
 meta_description: "Our full t-fal electric grill review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FTTCGZVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cKpza1zKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most electric grills are either flimsy nonstick pans with a heating element or bulky indoor smokers that set off every alarm in the house. The T-fal Electric Grill sits somewhere in the middle, and for the price, it earns its 4.1-star rating — but with caveats you should know before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kellogg's Special K Breakfast Cereal, Family Breakfast, Fibe"
 seo_title: "Kellogg's Special K Breakfast Cereal, Family Break Review"
 meta_description: "Our full kellogg's special k breakfast cereal, family breakfast, fibe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYP91DVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k8noB0WbL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a coffee product, the **Kellogg's Special K Breakfast Cereal, Family Breakfast, Fibe** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

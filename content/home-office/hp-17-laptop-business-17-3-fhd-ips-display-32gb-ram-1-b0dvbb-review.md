@@ -1,7 +1,8 @@
 ---
-title: "HP 17 Laptop Business, 17.3\" FHD IPS Display, 32GB RAM, 1.5T"
-seo_title: "HP 17 Laptop Business, 17.3\" FHD IPS Display, 32GB Review"
-meta_description: "Our full hp 17 laptop business, 17.3\" fhd ips display, 32gb ram, 1.5t review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17 Laptop Business, 17.3\ FHD IPS Display, 32GB RAM, 1.5T"
+seo_title: "HP 17 Laptop Business, 17.3\ FHD IPS Display, 32GB Review"
+meta_description: "Our full hp 17 laptop business, 17.3\ fhd ips display, 32gb ram, 1.5t review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17-laptop-business-17-3-fhd-ips-display-32gb-ram-1-b0dvbb-review"
 image_alt: "HP 17 Laptop Business, 17.3 FHD IPS Display, 32GB RAM, 1.5TB Storage (1TB SSD + 500GB Ext Drive), 6-Core AMD Ryzen 5 Pro"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DVBB2GPM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8194YKKUZnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing noise. A 17.3-inch laptop with 32GB of RAM isn't a casual purchase — it's a workstation decision. Here's what you need to know before clicking buy.

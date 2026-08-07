@@ -1,4 +1,5 @@
 ---
+
 title: "BAZADER RC Cars with LED Lights - Remote Control Car Snake 3 inch"
 seo_title: "BAZADER RC Car Snake 3 Review: 360° Stunts & LED Lights"
 meta_description: "Our BAZADER RC Car Snake 3 review covers 360° rolling, LED lights, and battery life. See if this stunt car is worth buying for kids and adults."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BTBNCLZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71d3MKgSgDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two-way 360° rolling and flipping capability that works reliably on hardwood and short carpet"
   - "Bright LED light bar makes night driving and indoor low-light sessions genuinely fun"
   - "Dual 3.7V rechargeable batteries deliver roughly 40 minutes of runtime per charge cycle"
-cons:
+cons: 
   - "Controller requires 2 AAA batteries not included in the box—annoying if you forget to stock up"
   - "Plastic shell feels light and slightly hollow; aggressive impacts against walls may crack the wheel guards"
+
 ---
 
 Parents, stop scrolling past another generic RC car. The BAZADER RC Car Snake 3 isn't trying to be a speed demon or a precision racer. It's built for one thing: making kids (and let's be honest, adults) giggle as it flips, rolls, and tumbles across the living room floor with a light show that would make a mini golf course proud.

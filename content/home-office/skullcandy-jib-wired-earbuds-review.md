@@ -1,4 +1,5 @@
 ---
+
 title: "Skullcandy Jib Wired Earbuds"
 seo_title: "Skullcandy Jib Wired Earbuds Review: $9 Workhorse (2026)"
 meta_description: "Skullcandy Jib wired earbuds review: 4.4-star rated, $9 budget earbuds tested for office calls, mic quality, and durability. Buy it or skip it?"
@@ -11,13 +12,14 @@ review_count: 20138
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flat tangle-free cable actually survives daily desk abuse and pocket stuffing"
   - "Inline mic with single-button control works for calls and music on both Android and iOS"
   - "Supreme bass tuning makes podcasts and conference calls sound fuller than $9 has any right to"
-cons:
+cons: 
   - "No carrying case included — the earbuds ship loose in a simple plastic bag"
   - "Ear tips are shallow; users with smaller ear canals may need to buy foam tips separately"
+
 ---
 
 Let’s be honest about what $8.88 buys you in the audio world: usually disappointment. The Skullcandy Jib Wired Earbuds are the exception that proves the rule. With over 20,000 Amazon ratings holding a 4.4-star average, these are the budget earbuds that office workers keep buying — and for good reason.

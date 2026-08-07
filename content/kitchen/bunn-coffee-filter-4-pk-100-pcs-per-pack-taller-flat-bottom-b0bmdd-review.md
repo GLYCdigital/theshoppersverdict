@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN Coffee Filter – 4 PK - 100 PCS per Pack – Taller"
 seo_title: "BUNN Coffee Filter 4-Pack Review: Taller Flat-Bottom, 400 Total"
 meta_description: "BUNN Coffee Filter 4-Pack (400 total) review: taller flat-bottom design, fit, strength, and value. See if these filters beat the competition."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BMDD7T6M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DGvP6eajL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Taller basket profile fits BUNN brewers without paper folding over the basket rim"
   - "400 total filters across 4 boxes — solid per-cup value for daily brewing"
   - "Consistent 8-12 cup capacity with minimal tearing or splitting at the seams"
-cons:
+cons: 
   - "No oxygen-barrier packaging — filters absorb kitchen humidity if stored loose"
   - "Paper taste noticeable in first brew if you don't rinse the basket first"
+
 ---
 
 If you own a BUNN coffee maker, you already know the frustration: standard flat-bottom filters sit too short in the basket, letting coffee grounds sneak over the top and into your carafe. BUNN's taller filters solve that specific problem, and they do it without the premium price tag of name-brand alternatives.

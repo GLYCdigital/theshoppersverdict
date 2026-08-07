@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Kickdown Door Stopper, One Touch Adjustable Kickd"
 seo_title: "Heavy Duty Kickdown Door Stopper, One Touch Adjust Review"
 meta_description: "Our full heavy duty kickdown door stopper, one touch adjustable kickd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3P67SMM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XYfhGrnnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about kickdown door stops: most are flimsy stamped metal that bends the first time someone catches a toe on them. This one is different. The Heavy Duty Kickdown Door Stopper is a solidly-built piece of hardware that actually solves the "door swings shut at the worst moment" problem, but it's not without quirks. Here's what 225 Amazon buyers (averaging 4.5 stars) and my own teardown of the specs reveal.

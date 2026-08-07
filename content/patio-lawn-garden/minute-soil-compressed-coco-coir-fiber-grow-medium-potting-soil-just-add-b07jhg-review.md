@@ -1,4 +1,5 @@
 ---
+
 title: "Minute Soil - Compressed Coco Coir Fiber Grow Medium - Potti"
 seo_title: "Minute Soil - Compressed Coco Coir Fiber Grow Medi Review"
 meta_description: "Our full minute soil - compressed coco coir fiber grow medium - potti review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07JHGF2WV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vF14AUcFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a 40-pound bag of soggy potting soil, the Minute Soil compressed coco coir brick is going to feel like a revelation — or at least a serious back-saver. This is a 650-gram block of dehydrated coconut husk fiber that expands to roughly 9 liters of growing medium when you add water. That's the entire pitch: just add water, wait five minutes, and you've got a fluffy, aerated substrate ready for seeds, cuttings, or container plants.

@@ -1,4 +1,5 @@
 ---
+
 title: "DONGULI Air Fryer Basket Oven - 2 Set Large Air Fryer Basket"
 seo_title: "DONGULI Air Fryer Basket Oven Review: 2-Pack Worth It?"
 meta_description: "DONGULI Air Fryer Basket Oven 2-set review: large stainless steel baskets, fits 6-8qt air fryers. Real performance, durability, and value tested."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZS44GLJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/81d4rOqOhkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits both 6-quart and 8-quart air fryers — measured 8.7 x 8.7 inches, so it drops into most round and oval baskets without modification"
   - "Stainless steel construction with riveted handles — no cheap spot welds that snap after three weeks of use"
   - "Silicone edge pads protect the air fryer's non-stick coating from scratches during insertion and removal"
-cons:
+cons: 
   - "Not compatible with square or rectangular air fryer baskets — the round design leaves gaps that reduce effective capacity"
   - "Handles stay warm after extended cook times — you'll still need a mitt for anything over 20 minutes at 400°F"
   - "The 2-pack price-per-unit is solid, but if you only own one air fryer, the second basket sits unused in a cabinet"
+
 ---
 
 ## Two baskets, zero guesswork

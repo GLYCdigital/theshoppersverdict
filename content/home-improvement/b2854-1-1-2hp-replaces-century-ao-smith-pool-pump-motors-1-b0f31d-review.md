@@ -1,4 +1,5 @@
 ---
+
 title: "B2854 1-1/2HP, Replaces Century/AO Smith Pool Pump Motors,1."
 seo_title: "B2854 Pool Pump Motor Review: Honest 1-1/2HP Verdict"
 meta_description: "B2854 1-1/2HP replacement pool pump motor review: fit, noise, lifespan, and real buyer feedback. See if it's worth your money before you buy."
@@ -11,14 +12,15 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0F31DF123/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OiYjoHz8L._SL1500_.jpg"
-pros:
+pros: 
   - "Direct bolt-on replacement for many Century/AO Smith models — same frame size and shaft length, so most DIYers won't need adapter plates"
   - "Square flange 48Y frame with 1.25-inch shaft fits common Pentair, Hayward, and Waterway wet ends without modification"
   - "Includes both 115V and 230V wiring configurations with clear diagram, plus a 1-year warranty that actually covers defects"
-cons:
+cons: 
   - "3.1-star average with 155 ratings tells a real story — roughly 1 in 4 buyers report premature failure within 6-8 months"
   - "Significant noise increase compared to OEM motors, particularly at startup; several buyers describe a 'whine' or 'grind' that gets worse over time"
   - "Capacitor quality is suspect — multiple reports of failed start capacitors arriving DOA or dying within weeks"
+
 ---
 
 # The B2854 Pool Pump Motor: A Gamble That Sometimes Pays Off

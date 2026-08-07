@@ -1,4 +1,5 @@
 ---
+
 title: "NERF Mini Over The Door Basketball Hoop - Nerfoop Indoor Bas"
 seo_title: "NERF Mini Over The Door Basketball Hoop - Nerfoop  Review"
 meta_description: "Our full nerf mini over the door basketball hoop - nerfoop indoor bas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CV9FLYFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KuGSJdfCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The NERF Mini Over The Door Basketball Hoop (Nerfoop) is the kind of product that sounds perfect in theory: instant basketball in any room, no tools, no holes in your walls. In practice, it's a solid budget pick for young kids — but older players will hit its limits fast.**

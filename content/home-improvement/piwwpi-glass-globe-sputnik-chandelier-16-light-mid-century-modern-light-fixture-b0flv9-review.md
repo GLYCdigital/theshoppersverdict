@@ -1,4 +1,5 @@
 ---
+
 title: "PiWWPi Glass Globe Sputnik Chandelier, 16-Light Mid Century "
 seo_title: "PiWWPi Glass Globe Sputnik Chandelier, 16-Light Mi Review"
 meta_description: "Our full piwwpi glass globe sputnik chandelier, 16-light mid century  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLV9KZSC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KNIKhqShL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The PiWWPi Glass Globe Sputnik Chandelier is the lighting equivalent of a statement necklace — it walks into the room before you do. With 16 exposed bulbs radiating from a central hub, this mid-century piece commands attention in a way that most modern fixtures simply don't. At 4.6 stars across 229 ratings, it's clearly winning over buyers, but the real question is whether the installation pain is worth the payoff.

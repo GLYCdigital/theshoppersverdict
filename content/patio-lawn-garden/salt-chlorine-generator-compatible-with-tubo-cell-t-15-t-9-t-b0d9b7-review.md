@@ -1,4 +1,5 @@
 ---
+
 title: "Salt Chlorine Generator - Compatible with Tubo Cell T-15/T-9"
 seo_title: "Salt Chlorine Generator - Compatible with Tubo Cel Review"
 meta_description: "Our full salt chlorine generator - compatible with tubo cell t-15/t-9 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 150
 amazon_rating: 2.4
 amazon_url: "https://www.amazon.com/dp/B0D9B7MG5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61v-hHmeJxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: a 2.4-star average across 150 ratings should stop you cold. But this salt chlorine generator cell isn't a simple "avoid" — it's a calculated gamble that pays off for some and burns others. Here's the breakdown after digging through buyer experiences and the product specs.

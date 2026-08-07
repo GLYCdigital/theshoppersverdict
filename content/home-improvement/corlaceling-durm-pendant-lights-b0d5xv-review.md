@@ -1,4 +1,5 @@
 ---
+
 title: "Corlaceling Durm Pendant Lights"
 seo_title: "Corlaceling Durm Pendant Lights Review: Real Buyer Insights"
 meta_description: "Corlaceling Durm pendant lights review: 4.6/5 from 229 buyers. See real pros, cons, and who should buy these modern drum fixtures."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5XVHTG7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fIRFSDUwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully dimmable with standard wall dimmers — no flicker reported at low settings"
   - "Reversible mounting hardware accommodates both flat and sloped ceilings"
   - "Integrated LED array rated for 50,000+ hours — no bulb replacements to budget for"
-cons:
+cons: 
   - "Hardwired installation required — no plug-in option for renters or quick setups"
   - "Light output leans warm at 2700K — if you prefer daylight tones, this isn't it"
+
 ---
 
 Let's be direct: most drum pendants under $100 are cheap stamped metal with a glare problem. The Corlaceling Durm isn't that. After digging through 229 Amazon ratings and the spec sheet, here's what actually matters before you pull the trigger.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yeshom Telescopic Aluminum Flag Pole Kit 2 Flag 3'x5' US Fla"
 seo_title: "Yeshom Telescopic Aluminum Flag Pole Kit 2 Flag 3' Review"
 meta_description: "Our full yeshom telescopic aluminum flag pole kit 2 flag 3'x5' us fla review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F7LHMS8N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mgYaY4myL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A 20-foot flag pole that doesn't require a crane — but there's a catch.**

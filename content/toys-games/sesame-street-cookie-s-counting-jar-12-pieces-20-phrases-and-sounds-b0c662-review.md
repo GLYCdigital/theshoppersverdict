@@ -1,4 +1,5 @@
 ---
+
 title: "Sesame Street Cookie's Counting Jar, 12-Pieces, 20+ Phrases "
 seo_title: "Sesame Street Cookie's Counting Jar, 12-Pieces, 20 Review"
 meta_description: "Our full sesame street cookie's counting jar, 12-pieces, 20+ phrases  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6622GJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51XHrtgilnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If your toddler is obsessed with Sesame Street (and let's be real, most are), this counting jar is a solid pick — but it's not the educational powerhouse the box claims.**

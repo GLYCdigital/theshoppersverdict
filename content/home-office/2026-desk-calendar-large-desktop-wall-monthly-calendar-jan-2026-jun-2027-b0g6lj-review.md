@@ -1,4 +1,5 @@
 ---
+
 title: "2026 Desk Calendar, Large Desktop/Wall Monthly Calendar (Jan"
 seo_title: "2026 Desk Calendar Review: Large Monthly Layout, Real Paper Quality"
 meta_description: "Our 2026 desk calendar review: large monthly grid, dual hanging options, thick paper. See who it fits, who should skip it, and honest tradeoffs."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6LJTPP6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mk42RFaOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "11.5 x 11.5 inch open size with unusually roomy daily boxes that actually fit appointments and notes"
   - "Covers 18 months (Jan 2026–Jun 2027), so you're not stuck buying a replacement mid-year"
   - "Thick, bleed-resistant paper that holds up to gel pens without ghosting on the reverse side"
-cons:
+cons: 
   - "Spiral binding at the top means the calendar doesn't lay perfectly flat when wall-mounted — the pages can curl"
   - "No pre-printed holiday markers or moon phases; you'll need to add those yourself"
+
 ---
 
 If you've ever tried to squeeze a dentist appointment, a school pickup, and a deadline into one of those cramped 1-inch calendar squares, you know the pain. That's exactly the problem this 2026 desk calendar sets out to solve — and for the most part, it succeeds.

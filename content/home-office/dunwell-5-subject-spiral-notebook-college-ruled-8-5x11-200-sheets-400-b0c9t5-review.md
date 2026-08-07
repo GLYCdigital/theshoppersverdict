@@ -1,4 +1,5 @@
 ---
+
 title: "Dunwell 5-Subject Spiral Notebook College Ruled 8.5x11, 200 inch"
 seo_title: "Dunwell 5-Subject Notebook Review: 200 Sheets, Worth It?"
 meta_description: "Dunwell 5-subject spiral notebook review: 200 college-ruled sheets, 8.5x11. Durable covers, lay-flat design. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C9T5CG8L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t7B1lLoBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "200 college-ruled sheets (400 pages) means a full semester of notes in one notebook — no mid-term replacement needed"
   - "Reinforced spiral binding holds up to daily backpack abuse; pages tear out cleanly along the perforation"
   - "Thick, bleed-resistant paper handles gel pens and mild highlighters without ghosting through to the next page"
-cons:
+cons: 
   - "At 8.5x11 with 200 sheets, it's heavy — expect 1.5+ lbs in a backpack; not ideal for minimalist carry"
   - "The 5-subject divider tabs are sturdy but not removable, so you're locked into the subject split you choose"
   - "Cover is flexible poly, not rigid — it bends in tight backpacks, though the spiral holds pages flat regardless"
+
 ---
 
 The Dunwell 5-Subject Spiral Notebook is the academic equivalent of a Swiss Army knife: it does one thing — hold a semester's worth of notes — but it does it exceptionally well. With 200 college-ruled sheets per notebook (that's 400 pages total), this isn't a throwaway pad. It's a serious tool for students, note-takers, and anyone who's tired of juggling five separate notebooks.

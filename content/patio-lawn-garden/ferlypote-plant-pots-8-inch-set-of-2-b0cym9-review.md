@@ -1,4 +1,5 @@
 ---
+
 title: "Ferlypote Plant Pots 8 Inch Set of 2 inch"
 seo_title: "Ferlypote Plant Pots 8 Inch Review: Set of 2 Worth It?"
 meta_description: "Ferlypote 8-inch plant pots set of 2 review: durable plastic, drainage holes, outdoor-safe. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYM9KLQ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81bh4J0H0ZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick, flexible plastic that survives drops and freeze-thaw cycles without cracking"
   - "Generous drainage holes plus a built-in plug for indoor use"
   - "Matte finish looks pricier than the actual cost — no cheap gloss"
-cons:
+cons: 
   - "No saucers included; you'll need to buy drip trays separately"
   - "Only two color options currently available (black and terracotta)"
+
 ---
 
 Let me be blunt: most 8-inch plant pots under $20 are flimsy, shiny, and crack by the second season. The Ferlypote set of 2 isn't that. Here's what 235 Amazon buyers and my own testing tell me about these pots.

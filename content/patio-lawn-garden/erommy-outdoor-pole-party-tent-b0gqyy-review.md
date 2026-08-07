@@ -1,4 +1,5 @@
 ---
+
 title: "EROMMY Outdoor Pole Party Tent"
 seo_title: "EROMMY Outdoor Pole Party Tent Review: Worth It? (2026)"
 meta_description: "Honest EROMMY Outdoor Pole Party Tent review: coverage, durability, setup ease, and real buyer feedback. See if this canopy is worth your money."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GQYYPSKS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81GIDU4QFnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely waterproof PU-coated canopy that survives moderate rain without soaking through"
   - "Sturdy steel poles with reinforced pin joints hold up in gusty conditions better than cheap alternatives"
   - "Generous 20x10 footprint covers a full banquet table or large seating cluster"
-cons:
+cons: 
   - "No sidewalls included — you'll pay extra to block sun or rain at angles"
   - "Poles require a two-person setup; solo assembly is frustrating and takes 30+ minutes"
+
 ---
 
 You've seen this tent a hundred times at backyard weddings, graduation parties, and church potlucks. The question is whether the EROMMY Outdoor Pole Party Tent delivers for your specific event — or whether you'll be wrestling with sagging fabric and bent poles by hour three.

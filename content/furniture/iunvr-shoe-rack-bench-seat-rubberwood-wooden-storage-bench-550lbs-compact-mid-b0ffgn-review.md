@@ -1,4 +1,5 @@
 ---
+
 title: "IUNVR Shoe Rack Bench Seat Rubberwood Wooden Storage Bench 5"
 seo_title: "IUNVR Shoe Rack Bench Seat Rubberwood Wooden Stora Review"
 meta_description: "Our full iunvr shoe rack bench seat rubberwood wooden storage bench 5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFGNDYK3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kr5Eox5vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The entryway bench that actually earns its floor space

@@ -1,4 +1,5 @@
 ---
+
 title: "24 Faubourg By Hermes For Women"
 seo_title: "24 Faubourg By Hermes Review: Elegant Florals, Real Longevity"
 meta_description: "24 Faubourg by Hermès review: Is this iconic white floral worth it? Performance, sillage, and longevity tested. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWBL6QML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YQZHvY2qL._SL1000_.jpg"
-pros:
+pros: 
   - "Exceptional longevity — 8–10 hours on skin with a single application, confirmed by multiple verified buyers"
   - "Complex, sophisticated white floral bouquet (orange blossom, jasmine, tuberose) that evolves over hours rather than sitting flat"
   - "The iconic rectangular flacon with gold accents doubles as a dresser ornament — genuinely beautiful packaging"
-cons:
+cons: 
   - "Sillage is assertive for the first 2 hours — not a shy scent, potentially overwhelming in tight office spaces"
   - "The dry-down leans powdery and retro; younger shoppers expecting modern gourmand sweetness may find it dated"
+
 ---
 
 # 24 Faubourg By Hermes For Women: A Luxury Review That Cuts Through the Hype

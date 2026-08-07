@@ -1,4 +1,5 @@
 ---
+
 title: "Worx"
 seo_title: "Worx Review: Verdict | TSV"
 meta_description: "Our full worx review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FG2BRJZZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WxviwMp+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Worx line has become a staple in the cordless yard-tool world, and this particular model (B0FG2BRJZZ) is one of their most popular entries. With 210 ratings averaging 4.2 stars, it's clearly doing something right. But is it the right tool for *your* yard? Let's dig into the specifics.

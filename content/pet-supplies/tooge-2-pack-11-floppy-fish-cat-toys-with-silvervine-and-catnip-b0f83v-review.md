@@ -1,7 +1,8 @@
 ---
-title: "TOOGE 2 Pack 11\" Floppy Fish Cat Toys with SilverVine and Ca"
-seo_title: "TOOGE 2 Pack 11\" Floppy Fish Cat Toys with SilverV Review"
-meta_description: "Our full tooge 2 pack 11\" floppy fish cat toys with silvervine and ca review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "TOOGE 2 Pack 11\ Floppy Fish Cat Toys with SilverVine and Ca"
+seo_title: "TOOGE 2 Pack 11\ Floppy Fish Cat Toys with SilverV Review"
+meta_description: "Our full tooge 2 pack 11\ floppy fish cat toys with silvervine and ca review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tooge-2-pack-11-floppy-fish-cat-toys-with-silvervine-and-catnip-b0f83v-review"
 image_alt: "TOOGE 2 Pack 11 Floppy Fish Cat Toys with SilverVine and Catnip for Indoor Cats for Small Dogs Interactive Automatic Flo"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F83VZ5M8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h0pib0Z8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some cats are picky. Yours might turn their nose up at plain catnip, yawn at a laser pointer, and save their energy for your couch. That's exactly the gap TOOGE is aiming at with this 2-pack of 11-inch floppy fish toys, combining SilverVine (also called matatabi) with traditional catnip to lure in even the most indifferent felines.

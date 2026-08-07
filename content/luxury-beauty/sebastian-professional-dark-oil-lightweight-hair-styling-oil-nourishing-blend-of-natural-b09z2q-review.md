@@ -1,4 +1,5 @@
 ---
+
 title: "Sebastian Professional Dark Oil Lightweight Hair Styling Oil"
 seo_title: "Sebastian Professional Dark Oil Lightweight Hair S Review"
 meta_description: "Our full sebastian professional dark oil lightweight hair styling oil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Z2QDG9C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41rZEPOL99L._SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The "Oil" That Doesn't Feel Like Oil

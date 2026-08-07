@@ -1,16 +1,17 @@
 ---
+
 title: "NEO CHAIR Office Desk Gaming Computer Home Chair Ergonomic Executive High Back Support Flip-up Arms Adjustable Height Swivel Rolling Wheels Comfy PU Leather (Brown)"
 seo_title: "NEO CHAIR Office Review: Verdict (4.2/5) | TSV"
 meta_description: "The whole chair feels well made and sturdy, and it's rated to support up to 2,602+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "neo-chair-office-desk-gaming-computer-home-chair-ergonomic-executive-high-back-review"
 image_alt: "NEO CHAIR Office Desk Gaming Computer Home Chair Ergonomic Executive High Back Support Flip-up Arms Adjustable Height Sw"
-keywords:
+keywords: 
   - "neo chair office review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the NEO CHAIR Office Desk?"
     answer: "The whole chair feels well made and sturdy, and it's rated to support up to 300lbs, so unless I really le... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the NEO CHAIR Office Desk?"
@@ -23,12 +24,13 @@ review_count: 2602
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C6N95T1Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wmbPhq5mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The whole chair feels well made and sturdy, and it's rated to support up to 300lbs."
   - "It looks like they have a good level of quality control in place."
   - "Very nice chair at a reasonable price."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The $96 Chair That Asks One Question: Do You Need Arms That Disappear?**

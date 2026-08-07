@@ -1,4 +1,5 @@
 ---
+
 title: "Homeiju Coffee Table for Living Room with Slatted Sides Fram"
 seo_title: "Homeiju Coffee Table for Living Room with Slatted  Review"
 meta_description: "Our full homeiju coffee table for living room with slatted sides fram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9VRGSH2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CSKwKyxpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of the same flat, boxy coffee tables that dominate every furniture store, the Homeiju Coffee Table with Slatted Sides is a breath of fresh air. The vertical slat detailing on all four sides gives it a handcrafted, modern-farmhouse character that immediately elevates a living room. But does the form hold up in function? After digging through 229 ratings and the spec sheet, here's the real story.

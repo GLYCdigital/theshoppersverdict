@@ -1,4 +1,5 @@
 ---
+
 title: "YLXS Motion Sensor Cabinet Light, Wireless USB Rechargeable "
 seo_title: "YLXS Motion Sensor Cabinet Light, Wireless USB Rec Review"
 meta_description: "Our full ylxs motion sensor cabinet light, wireless usb rechargeable  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BYM7TDZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MmNJOXE3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever fumbled in a dark pantry or squinted at spices in a dim cabinet, you already know the problem. The YLXS Motion Sensor Cabinet Light is a wireless, rechargeable LED strip designed to kill that exact annoyance — and for the most part, it does.

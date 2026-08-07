@@ -1,4 +1,5 @@
 ---
+
 title: "DONORO Dog Kennels and Crates for Medium Dogs, Portable Pop"
 seo_title: "DONORO Dog Crate Review: Portable Pop-Up for Medium Dogs"
 meta_description: "Honest DONORO Dog Kennels and Crates review: Is this portable pop-up crate worth it for medium dogs? Real pros, cons, and buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY2Y871L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IjfuSCVjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sets up in under 10 seconds with pop-up spring frame — no tools, no assembly struggle"
   - "Breathable 3D mesh on all sides gives dogs visibility while preventing anxious pacing"
   - "Folds flat to roughly the size of a camping chair for trunk or closet storage"
-cons:
+cons: 
   - "Not chew-proof — determined chewers will tear through the mesh within weeks"
   - "No floor pad included; the thin base offers minimal padding on hard floors"
   - "Carry bag strap is narrow and digs into shoulders on longer walks"
+
 ---
 
 **The 10-Second Setup Crate That Actually Holds Up — Mostly**

@@ -1,4 +1,5 @@
 ---
+
 title: "HP 201A Black Toner Cartridge Printers | Works with Color La"
 seo_title: "HP 201A Black Toner Cartridge Printers | Works wit Review"
 meta_description: "Our full hp 201a black toner cartridge printers | works with color la review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHGVM67Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613Vgf2ArvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Workhorse Black Cartridge That Just Works

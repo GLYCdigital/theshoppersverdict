@@ -1,16 +1,17 @@
 ---
+
 title: "Breville Barista Express Impress Espresso Machine BES876OLT, Olive Tapenade"
 seo_title: "Breville Barista Express Impress Review — Assisted Espres"
 meta_description: "Breville Barista Express Impress review: 1,425 reviews analyzed. Auto-tamping, grind adjustment, integrated grinder. The espresso machine that guides you to "
 slug: "breville-barista-express-impress-espresso-machine-review"
 image_alt: "Breville Barista Express Impress Espresso Machine BES876OLT"
-keywords:
+keywords: 
   - "breville barista express review"
   - "breville barista espresso review"
   - "breville barista express impress espresso machine  review"
   - "best espresso machine"
 verdict_score: 4.1
-faq:
+faq: 
   - question: "What makes the Barista Express Impress different from the regular Barista Express?"
     answer: "The Impress adds assisted grinding and auto-tamping. It measures the dose, adjusts the grind automatically, and tamps to consistent pressure. The regular Express requires manual dosing and tamping."
   - question: "Can the Impress make microfoam for latte art?"
@@ -23,13 +24,14 @@ review_count: 1425
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DP5PRC35/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UvpuPLLaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Auto-tamping system ensures consistent extraction every time"
   - "Guided dose and grind adjustment removes dial-in frustration"
   - "Integrated grinder saves counter space and simplifies the workflow"
-cons:
+cons: 
   - "Customer service roulette — some unresolved complaints about faulty units"
   - "Premium pricing around $800 for a consumer-grade machine"
+
 ---
 
 The Breville Barista Express Impress Espresso Machine BES876OLT is Breville's answer to a simple question: what if an espresso machine could compensate for human inconsistency? With guided grinding, auto-tamping, and digital dose control, it promises pro-level shots without the learning curve. 1,425 reviews tell the story.

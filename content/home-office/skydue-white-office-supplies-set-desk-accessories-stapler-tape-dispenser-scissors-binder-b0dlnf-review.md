@@ -1,4 +1,5 @@
 ---
+
 title: "SKYDUE White Office Supplies Set, Desk Accessories, Stapler,"
 seo_title: "SKYDUE White Office Supplies Set, Desk Accessories Review"
 meta_description: "Our full skydue white office supplies set, desk accessories, stapler, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DLNFPGSH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AhAjyOCWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most desk accessory sets are either cheap plastic junk that breaks in a month or overpriced designer pieces that cost more than your chair. The SKYDUE White Office Supplies Set sits somewhere in the middle — and for most people, that's exactly the right spot.

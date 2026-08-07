@@ -1,4 +1,5 @@
 ---
+
 title: "Dish Drying Mat for Kitchen Counter Drying Mat Dish Drainer"
 seo_title: "Dish Drying Mat Review: Kitchen Counter Drying Mat Drainer"
 meta_description: "Honest Dish Drying Mat review: 4.7-star kitchen counter drying mat. Tested for absorbency, durability, and draining. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCG56MC3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CNT95e1NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, dual-layer construction absorbs standing water quickly and keeps countertops dry"
   - "Non-slip backing stays put even when the mat is fully saturated"
   - "Large enough for a full dinner service or a baby bottle drying station"
-cons:
+cons: 
   - "Synthetic fibers won't biodegrade; replacements end up in landfill"
   - "Lighter-colored mats show tea, coffee, and turmeric stains over time"
   - "Requires a few hours to fully air-dry after heavy use before storing"
+
 ---
 
 Let’s be honest: the dish drainer rack that came with your sink is probably ugly, loud, and always in the way. This mat won’t replace your rack, but it might make you question why you bought the rack in the first place.

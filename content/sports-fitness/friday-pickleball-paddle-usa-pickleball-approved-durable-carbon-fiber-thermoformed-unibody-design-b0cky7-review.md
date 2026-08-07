@@ -1,4 +1,5 @@
 ---
+
 title: "Friday Pickleball Paddle, USA Pickleball Approved, Durable C"
 seo_title: "Friday Pickleball Paddle Review: USA-Approved Carbon Fiber"
 meta_description: "Friday Pickleball Paddle review: USA Pickleball approved, carbon fiber thermoformed unibody. Is this 4.7-star paddle worth it? Real pros, cons, verdict."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKY7D9NH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61z-Kkpe+mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thermoformed unibody construction delivers a noticeably stiffer, more stable face than glued paddles at this price point"
   - "Carbon fiber surface provides excellent spin generation — measured grip on third-shot drops and kitchen resets"
   - "USA Pickleball approved with a 16mm core, making it tournament-legal for sanctioned play"
-cons:
+cons: 
   - "At roughly 8.2 ounces, it runs heavier than advertised — players transitioning from lightweight paddles will feel the difference in extended dinking battles"
   - "The handle is on the thinner side (4.25-inch circumference), which may not suit players who prefer a thicker grip without adding an overgrip"
   - "No edge guard protection — the exposed carbon fiber rim is vulnerable to chips if you regularly scrape the court on digs"
+
 ---
 
 If you've been scrolling through pickleball paddles wondering whether the "thermoformed unibody" buzz is real or just marketing jargon, the Friday Pickleball Paddle is your answer. This is a serious piece of equipment that proves you don't need to drop $200+ to get tournament-grade performance.

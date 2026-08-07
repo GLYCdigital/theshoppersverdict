@@ -1,4 +1,5 @@
 ---
+
 title: "Solar Charger,Solar Panel USB for Camping, Hiking, and Outdo"
 seo_title: "Solar Charger,Solar Panel USB for Camping, Hiking, Review"
 meta_description: "Our full solar charger,solar panel usb for camping, hiking, and outdo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GWTB5NKK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+F3zAVI9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The honest truth about this foldable solar panel

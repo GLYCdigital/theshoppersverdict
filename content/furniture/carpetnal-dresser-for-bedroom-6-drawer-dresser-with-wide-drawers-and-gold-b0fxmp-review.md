@@ -1,4 +1,5 @@
 ---
+
 title: "CARPETNAL Dresser for Bedroom, 6 Drawer Dresser with Wide Dr"
 seo_title: "CARPETNAL 6 Drawer Dresser Review: Wide Drawers, Real Wood?"
 meta_description: "Honest CARPETNAL 6 drawer dresser review: build quality, assembly, storage capacity, and who should buy it. See pros, cons, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXMP8YM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Mur8tDAJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wide, deep drawers that actually fit folded sweaters and jeans stacked flat — not just t-shirts"
   - "Solid MDF construction with a smooth, chip-resistant finish that doesn't look cheap in person"
   - "Assembly is straightforward with labeled parts and clear instructions — most buyers finish in under an hour"
-cons:
+cons: 
   - "Drawers are not soft-close; they slam if you let them go — you'll want to add dampers yourself"
   - "The 'gold' handles are more brushed brass than shiny gold — check the photo if you want a bright metallic look"
   - "No anti-tip wall anchor included in the box, which is a safety miss for a tall piece like this"
+
 ---
 
 Let's be blunt about the CARPETNAL 6 Drawer Dresser: it's a budget-priced storage workhorse that gets the fundamentals right but skips a few refinements. With 210 ratings averaging 4.2 stars, it's clearly earning its keep in real bedrooms. Here's what you need to know before you click buy.

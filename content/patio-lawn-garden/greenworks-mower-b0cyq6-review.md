@@ -1,4 +1,5 @@
 ---
+
 title: "Greenworks Mower"
 seo_title: "Greenworks Mower Review: Verdict | TSV"
 meta_description: "Our full greenworks mower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0CYQ6W4MY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f1lS28rpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a mid-sized lawn and want to ditch gas cans and extension cords, the Greenworks cordless mower looks like the obvious answer. But with a 3.6-star average across 180 ratings, the reality is more complicated. Here's what I found digging through real owner experiences and spec sheets.

@@ -1,4 +1,5 @@
 ---
+
 title: "Fresh Roasted Coffee, Unroasted Coffee"
 seo_title: "Fresh Roasted Unroasted Coffee Review: Worth It? (2026)"
 meta_description: "Honest Fresh Roasted Coffee unroasted beans review: green coffee quality, roast-it-yourself value, and who should buy. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CKT2RCVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ASEhADBpL._SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely fresh green beans — several buyers report roasting within days of harvest, and the sealed bags preserve moisture content properly"
   - "Even bean size and low defect rate — fewer quakers and broken beans than typical commodity green coffee, which means a cleaner cup after roasting"
   - "Versatile roast profile — handles light to medium-dark roasts well without baking or developing a grassy edge, per multiple reviewer reports"
-cons:
+cons: 
   - "No roast date on the bag — only a 'best by' window, which matters less for green coffee but still leaves some guesswork about true age"
   - "Bag size options are inconsistent — the 2-pound and 5-pound sizes ship in different bag styles, and the 5-pounder lacks a resealable zipper"
   - "Origin transparency is limited — the blend label doesn't specify exact farm or cooperative, which matters if you're chasing single-origin traceability"
+
 ---
 
 **Fresh Roasted Coffee, Unroasted Coffee Review: Is Green Coffee Worth the Hassle?**

@@ -1,4 +1,5 @@
 ---
+
 title: "SENIX 22-Inch Self Propelled Gas Lawn Mower"
 seo_title: "SENIX 22-Inch Self Propelled Gas Lawn Mower Review: Verdi"
 meta_description: "Our full senix 22-inch self propelled gas lawn mower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GQ7F8G5S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TDv6yGkjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve been staring at a sea of $500+ mowers and wondering if a sub-$400 SENIX could actually hold up, here’s the short answer: it can—if you’re not asking it to do commercial-grade work. With 190 ratings averaging 3.8 stars, this 22-inch self-propelled gas mower sits firmly in “good value, some compromises” territory. Here’s what you’re really getting.

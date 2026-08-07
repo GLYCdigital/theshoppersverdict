@@ -1,7 +1,8 @@
 ---
-title: "SLOOSH Inflatable Stand Up Paddle Board, 10'6\" Inflatable Pa"
-seo_title: "SLOOSH Inflatable Stand Up Paddle Board, 10'6\" Inf Review"
-meta_description: "Our full sloosh inflatable stand up paddle board, 10'6\" inflatable pa review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SLOOSH Inflatable Stand Up Paddle Board, 10'6\ Inflatable Pa"
+seo_title: "SLOOSH Inflatable Stand Up Paddle Board, 10'6\ Inf Review"
+meta_description: "Our full sloosh inflatable stand up paddle board, 10'6\ inflatable pa review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sloosh-inflatable-stand-up-paddle-board-10-6-inflatable-paddle-boards-with-b0f2tl-review"
 image_alt: "SLOOSH Inflatable Stand Up Paddle Board, 106 Inflatable Paddle Boards with Premium Accessories, Non-Slip EVA Deck, Ultra"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2TLMQ68/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sFxPo5uuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for your first paddle board, you've likely noticed the price range is all over the map — from $200 budget boards that feel like pool toys to $1,200+ carbon-fiber monsters that require a roof rack and a second mortgage. The SLOOSH 10'6" inflatable SUP sits squarely in the middle, but here's the thing: it punches well above its price point. After digging through the specs, construction details, and 229 verified buyer ratings, this board looks like the sweet spot for recreational paddlers who want a real board without the garage clutter.

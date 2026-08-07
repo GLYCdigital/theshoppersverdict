@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Printer LC752PKS 2 Pack of LC-75BK Cartridges Ink -"
 seo_title: "Brother LC75 Ink Cartridges Review: 2-Pack Value Check"
 meta_description: "Are Brother LC75 ink cartridges worth it? Read our honest LC752PKS 2-pack review covering print yield, quality, and real-world performance."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B004J2U12W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Fay7vPSnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine Brother OEM quality—no clogging or printhead issues like aftermarket brands"
   - "Two-cartridge pack delivers roughly 600 pages, a solid value for moderate home printing"
   - "Consistent, crisp black text output that matches Brother's rated specifications"
-cons:
+cons: 
   - "No page-yield indicator on the cartridges themselves—you're guessing until the low-ink warning hits"
   - "Cost per page runs higher than compatible third-party alternatives, so budget buyers may balk"
+
 ---
 
 Let's cut the chase: if you own a Brother laser or inkjet that takes the LC-75 cartridge, you've likely stared at the shelf full of third-party knockoffs and wondered if saving eight bucks is worth the gamble. The Brother LC752PKS two-pack of genuine LC-75BK black cartridges answers that question with a resounding "probably, unless you're feeling lucky."

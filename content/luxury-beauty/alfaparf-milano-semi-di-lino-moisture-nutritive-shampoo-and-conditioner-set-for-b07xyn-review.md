@@ -1,4 +1,5 @@
 ---
+
 title: "ALFAPARF MILANO Semi di Lino Moisture Nutritive Shampoo and"
 seo_title: "ALFAPARF Semi di Lino Moisture Shampoo & Conditioner Review"
 meta_description: "ALFAPARF MILANO Semi di Lino Moisture Nutritive Shampoo & Conditioner reviewed: Does this protein-free duo hydrate dry hair without weighing it down? Real results inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07XYNFPVC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ja5CXj-LL._SL1500_.jpg"
-pros:
+pros: 
   - "Protein-free formula is safe for color-treated and keratin-treated hair — won't strip or cause brittle breakage"
   - "Lino (flaxseed) extract delivers lasting hydration without heavy silicones that build up over time"
   - "Sulfate-free cleansing that still produces a rich, satisfying lather — rare in luxury shampoos"
-cons:
+cons: 
   - "Scent is divisive — some describe it as 'grandma's perfume' or powdery, not the fresh linen the name suggests"
   - "Conditioner is lightweight — those with very coarse or thick hair will likely need a leave-in or mask on top"
+
 ---
 
 **The 4.5-star verdict on ALFAPARF's hydration duo: Luxury that actually hydrates, but know your hair type first.**

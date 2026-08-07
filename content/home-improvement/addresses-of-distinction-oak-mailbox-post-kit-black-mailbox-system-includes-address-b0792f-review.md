@@ -1,4 +1,5 @@
 ---
+
 title: "ADDRESSES OF DISTINCTION Oak Mailbox & Post Kit – Black Ma"
 seo_title: "Oak Mailbox & Post Kit Review: Black Address System"
 meta_description: "Read our ADDRESSES OF DISTINCTION oak mailbox & post kit review. Solid construction, curb appeal, and real buyer feedback—find out if it's worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0792FDKGK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41YksFo3X1L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Solid aluminum post and mounting bracket—won't rust or warp like steel alternatives"
   - "Pre-cut address numbers included, saving a separate hardware store trip"
   - "Weather-resistant finish that holds up through snow, salt, and UV exposure"
-cons:
+cons: 
   - "Assembly requires a drill and masonry bit for concrete—expect 45–60 minutes of work"
   - "Mailbox body is smaller than standard rural boxes; oversized packages won't fit"
+
 ---
 
 Curb appeal is one of those things you don't think about until a visitor drives past your house three times looking for numbers that have faded into the siding. The ADDRESSES OF DISTINCTION Oak Mailbox & Post Kit in black solves that problem with something that looks less like a mailbox and more like a piece of furniture for your front yard. With a 4.5-star average across 225 ratings, it's clearly doing something right. Here's what you actually need to know before handing over your money.

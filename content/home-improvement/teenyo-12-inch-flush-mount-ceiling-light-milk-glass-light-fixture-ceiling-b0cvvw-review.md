@@ -1,4 +1,5 @@
 ---
+
 title: "TEENYO 12-Inch Flush Mount Ceiling Light Milk Glass Light Fi"
 seo_title: "TEENYO 12-Inch Flush Mount Ceiling Light Milk Glas Review"
 meta_description: "Our full teenyo 12-inch flush mount ceiling light milk glass light fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVVWVN72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51f0-r9YrnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

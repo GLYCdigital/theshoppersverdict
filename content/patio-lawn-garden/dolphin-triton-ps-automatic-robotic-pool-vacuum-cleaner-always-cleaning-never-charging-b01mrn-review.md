@@ -1,4 +1,5 @@
 ---
+
 title: "Dolphin Triton PS Automatic Robotic Pool Vacuum Cleaner, Alw"
 seo_title: "Dolphin Triton PS Pool Vacuum Review: Honest 2026 Look"
 meta_description: "Dolphin Triton PS robotic pool vacuum review: 3.9/5 rating. We break down cleaning power, AlwaysClean tech, and common failures to help you decide."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B01MRNQ3GE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FP7BiXqDL._AC_SL1474_.jpg"
-pros:
+pros: 
   - "Active scrubbing brush tackles algae and stubborn film on walls and floor, not just loose debris"
   - "AlwaysClean technology means no charging cycles — just drop it in and let it run for hours"
   - "Filter basket is easy to empty with a quick rinse; no messy bag changes"
-cons:
+cons: 
   - "No remote or app control — you get one cleaning mode, and that's it"
   - "Several owners report premature motor failures within 12-18 months, often past warranty"
   - "Doesn't climb walls — only scrubs them at the waterline, so upper walls need manual attention"
+
 ---
 
 The Dolphin Triton PS isn't trying to be everything. It's a workhorse that does one thing — scrub your pool floor and lower walls — and does it without ever needing a charge. That "AlwaysClean" pitch is genuinely compelling if you're tired of babysitting a robot. But with a 3.9-star average across 195 ratings, the story isn't that simple. Let's break down what you're actually getting.

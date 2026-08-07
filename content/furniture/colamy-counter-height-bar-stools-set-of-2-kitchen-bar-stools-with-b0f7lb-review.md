@@ -1,4 +1,5 @@
 ---
+
 title: "COLAMY Counter Height Bar Stools Set of 2, Kitchen Bar Stool"
 seo_title: "COLAMY Counter Height Bar Stools Review (2026): Worth It?"
 meta_description: "Honest COLAMY Counter Height Bar Stools Set of 2 review: build quality, comfort, assembly issues & who should buy. 3.2/5 rating breakdown."
@@ -11,14 +12,15 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0F7LB14FK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QiCY-RxrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quick 10-minute assembly with included hex wrench — most buyers report no extra tools needed"
   - "Faux leather upholstery is easy to wipe clean; good for households with kids or pets"
   - "Sturdy metal frame rated to 300 lbs; doesn't wobble on hard floors once assembled"
-cons:
+cons: 
   - "Thin 2-inch seat padding compresses significantly after a few weeks — multiple buyers report feeling the wood base"
   - Footrest bar sits low (only 6 inches off floor), awkward for taller users at 5'10 inch " and up
   - "Faux leather can peel at the seams within 4-6 months in humid climates, per several long-term reviews"
+
 ---
 
 **The COLAMY Counter Height Bar Stools: Budget-Friendly, But Your Back Will Know**

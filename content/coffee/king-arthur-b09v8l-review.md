@@ -1,4 +1,5 @@
 ---
+
 title: "King Arthur"
 seo_title: "King Arthur Review: Verdict | TSV"
 meta_description: "Our full king arthur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09V8L1VMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DAi-2S6bL._SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.7-star rating on this King Arthur brewer isn’t hype — but it’s not universal either.** After digging through 235 verified reviews and testing the unit myself, here’s the honest breakdown of what you’re actually getting.

@@ -1,16 +1,17 @@
 ---
+
 title: "MANNKITCHEN Pepper Cannon - Professional Grade Heavy Duty High Output Pepper Mill"
 seo_title: "MANNKITCHEN Pepper Cannon Review: Verdict (4.8/5) | The Shopper's Verdict"
 meta_description: "MANNKITCHEN Pepper Cannon review: 819+ Amazon reviews analyzed. Professional pepper mill with 10x faster output and stainless steel burrs. Real pros, cons, and our verdict."
 slug: "mannkitchen-pepper-cannon-professional-pepper-mill-review"
 image_alt: "MANNKITCHEN Pepper Cannon - Professional Grade Heavy Duty High Output Pepper Mill"
-keywords:
+keywords: 
   - "MANNKITCHEN Pepper Cannon review"
   - "best pepper mill review"
   - "professional pepper grinder"
   - "high output pepper mill"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "How much faster is the Pepper Cannon compared to regular pepper mills?"
     answer: "The manufacturer claims up to 10x faster output than top-rated pepper mills. In practical terms, you can pepper a steak in about 7 cranks instead of 70 with a standard mill."
   - question: "What grind range does the Pepper Cannon offer?"
@@ -23,17 +24,18 @@ review_count: 819
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09T7BWJNP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612tuGb71JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Up to 10x faster than regular pepper mills"
   - "High-carbon stainless steel burrs for consistent grinding"
   - "Wide grind range from cracked to powder"
   - "Solid milled and anodized aluminum body"
   - "Oversized bearing-supported drive shaft"
-cons:
+cons: 
   - "Premium price at over $100 for a pepper mill"
   - "Heavier than standard pepper mills"
   - "Overkill for occasional home cooks"
   - "Potential over-grinding if you are not careful with fast output"
+
 ---
 
 # The $100 Pepper Mill That Actually Earns Its Keep

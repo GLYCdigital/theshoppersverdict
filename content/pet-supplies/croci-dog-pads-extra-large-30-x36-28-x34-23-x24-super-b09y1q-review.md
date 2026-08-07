@@ -1,4 +1,5 @@
 ---
+
 title: "CROCI Dog Pads Extra Large 30 inch x36 inch /28''x34''/23''X24'' Super"
 seo_title: "CROCI Dog Pads Review: Extra Large 30 inch x36 inch  Super Absorbency"
 meta_description: "Honest CROCI Dog Pads Extra Large review: 5-layer absorption, leak-proof design, sizing options. See pros, cons, and who should buy these puppy pads."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09Y1Q6L7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81k1EiNyNcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5-layer construction with super-absorbent polymer locks moisture away from paws quickly"
   - Three size options (23 inch "x24 inch ", 28 inch "x34 inch ", 30 inch "x36 inch ") fit crates, x-pens, and floor setups
   - "Leak-proof plastic backing with rolled edges prevents floor damage on hard surfaces"
-cons:
+cons: 
   - "No adhesive tabs — pads can shift on slick floors without a tray or tape"
   - "Scented version has a noticeable fragrance that some dogs (and owners) dislike"
+
 ---
 
 ## Are These the Last Dog Pads You'll Need to Buy?

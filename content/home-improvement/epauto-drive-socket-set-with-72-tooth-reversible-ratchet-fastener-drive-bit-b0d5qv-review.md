@@ -1,4 +1,5 @@
 ---
+
 title: "Epauto Drive Socket Set With 72 Tooth Reversible Ratchet Fas"
 seo_title: "Epauto Drive Socket Set Review: 72-Tooth Ratchet Tested"
 meta_description: "Epauto socket set with 72-tooth reversible ratchet — build quality, grip, and durability tested. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5QVSTKG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fuxIUPELL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "72-tooth ratchet delivers a tight 5-degree arc swing — fits into engine bays and tight corners where coarse 24-tooth ratchets simply won't go"
   - "Chrome vanadium steel sockets with a satin finish resist rust and wipe clean easily — no oily residue left on your hands"
   - "Laser-etched size markings on both sides of each socket stay legible after months of shop use, unlike stamped alternatives that wear off"
-cons:
+cons: 
   - "No 6-point sockets in metric sizes above 14mm — the larger sizes are 12-point, which can round off stubborn, corroded fasteners"
   - "The molded blow-molded case is functional but not heavy-duty — drop it once on concrete and the latch can crack"
+
 ---
 
 Let me cut to the chase: most socket sets under $40 are disposable junk you'll replace in a year. The Epauto drive socket set with the 72-tooth reversible ratchet isn't that. It's the rare budget set that actually respects your time and your fasteners.

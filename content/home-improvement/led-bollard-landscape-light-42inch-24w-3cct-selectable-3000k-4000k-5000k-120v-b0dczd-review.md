@@ -1,4 +1,5 @@
 ---
+
 title: "LED Bollard Landscape Light, 42inch 24W 3CCT Selectable (300"
 seo_title: "LED Bollard Landscape Light, 42inch 24W 3CCT Selec Review"
 meta_description: "Our full led bollard landscape light, 42inch 24w 3cct selectable (300 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0DCZDHGHZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mFgG5Bh5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 42-inch LED bollard light solves a problem most landscape lighting ignores: actual illumination.**

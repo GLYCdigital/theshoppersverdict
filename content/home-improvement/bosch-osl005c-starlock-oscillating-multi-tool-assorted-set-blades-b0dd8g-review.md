@@ -1,4 +1,5 @@
 ---
+
 title: "BOSCH OSL005C Starlock Oscillating Multi Tool Assorted Set B"
 seo_title: "BOSCH OSL005C Starlock Blade Set Review: 4.7-Star"
 meta_description: "BOSCH OSL005C Starlock blade set review: 13-piece assortment, durability, and real-world cutting performance. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DD8GHY72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IS3pEJeeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "13-piece assortment covers plunge cuts, flush cuts, sanding, and scraping — no need to buy separate kits"
   - "Starlock interface fits Bosch, Fein, Makita, Milwaukee, and DeWalt tools without adapters"
   - "Carbide-edged blades hold up noticeably longer than generic steel blades through nails and hardwood"
-cons:
+cons: 
   - "No storage case included — blades arrive loose in a plastic clamshell, which is annoying on job sites"
   - "Sanding triangles wear faster than the cutting blades; budget for replacements if you sand a lot"
+
 ---
 
 If you've priced out individual Starlock blades recently, you already know the sting. A single decent plunge-cut blade runs $15–$20. That's why the BOSCH OSL005C 13-piece assortment is an interesting proposition: roughly the price of three good blades, but you get cutting, scraping, and sanding covered in one box. The question is whether the blades actually perform or just pad the count.

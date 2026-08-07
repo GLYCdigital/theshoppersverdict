@@ -1,4 +1,5 @@
 ---
+
 title: "Sophia & William Gas Fire Pit Table Outdoor Fire Table"
 seo_title: "Sophia & William Gas Fire Pit Table Outdoor Fire T Review"
 meta_description: "Our full sophia & william gas fire pit table outdoor fire table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CG1BD322/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pXJcU9j1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. There are roughly 4,000 gas fire pit tables on Amazon, and most of them are the same aluminum box with a burner dropped in. The Sophia & William model actually does a few things differently — some good, some you should know about before you hit "Add to Cart."

@@ -1,4 +1,5 @@
 ---
+
 title: "QEROMY Bed Frame - Storage Headboard with Galaxy Aurora Star"
 seo_title: "QEROMY Bed Frame - Storage Headboard with Galaxy A Review"
 meta_description: "Our full qeromy bed frame - storage headboard with galaxy aurora star review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D2L2BP8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y4QNegcWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

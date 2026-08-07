@@ -1,4 +1,5 @@
 ---
+
 title: "8 Pack Tent Stakes Heavy Duty 12 inch Steel Tent Pegs for Ca"
 seo_title: "8 Pack Tent Stakes Review: Heavy Duty 12 Inch Steel Pegs"
 meta_description: "Honest review of 8 Pack Tent Stakes Heavy Duty 12 inch Steel Tent Pegs. Are these rugged pegs worth it? We break down build, grip, and value."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07V4D7B9X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O2WU39AuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 12-inch length with a pointed, hardened steel tip that actually bites into packed soil and clay"
   - "Thick 5mm shaft resists bending even when driven at an angle into rocky ground"
   - "Reflective orange heads make them easy to spot at dusk and prevent tripping over guylines"
-cons:
+cons: 
   - "No carrying case included—the sharp points will puncture a standard gear bag if you're not careful"
   - "Heavier than aluminum or titanium stakes; each peg adds noticeable weight to a backpacking load"
+
 ---
 
 Let me be blunt: most tent stakes are flimsy afterthoughts that bend on the second use. These 12-inch steel pegs from the 8-pack set are not that. At 4.8 stars from 240 ratings, they've clearly earned their reputation, but let's dig into whether they deserve a spot in your gear.

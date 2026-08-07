@@ -1,4 +1,5 @@
 ---
+
 title: "VOLT Max Spread Path Light with LED Bulb"
 seo_title: "VOLT Max Spread Path Light with LED Bulb Review: Verdict "
 meta_description: "Our full volt max spread path light with led bulb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJCLPWWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/417pyz3w8AL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VOLT Max Spread Path Light with LED Bulb Review: Is the Premium Worth It?

@@ -1,4 +1,5 @@
 ---
+
 title: "mushie Stackable Bath Boats Toy | Floating Bathtub Toys for "
 seo_title: "mushie Stackable Bath Boats Toy | Floating Bathtub Review"
 meta_description: "Our full mushie stackable bath boats toy | floating bathtub toys for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D3TTXWCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BSP3LNuWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some bath toys are basically mold farms with a whistle. The mushie Stackable Bath Boats take the opposite approach — three solid silicone boats that nest inside each other, drain completely, and don't have a single hollow crevice for pink slime to colonize. That alone puts them ahead of 90% of what's on the shelf. But do they actually hold up to a toddler's idea of "bath time"? Here's the real story.

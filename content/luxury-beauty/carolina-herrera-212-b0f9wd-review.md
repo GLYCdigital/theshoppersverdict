@@ -1,4 +1,5 @@
 ---
+
 title: "Carolina Herrera 212 inch"
 seo_title: "Carolina Herrera 212 Review: Is This NYC-Inspired Fragrance Worth It?"
 meta_description: "Our honest Carolina Herrera 212 review covers longevity, sillage, and value. See who should buy this iconic urban scent and who should skip it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9WD9PML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oYUxcnjVL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, effervescent opening that mimics the energy of a Manhattan morning without being sharp or synthetic"
   - "Exceptional versatility — transitions seamlessly from office to evening without reapplication"
   - "Sillage is noticeable but never overwhelming; earns compliments without announcing itself from across the room"
-cons:
+cons: 
   - "Longevity tops out around 5–6 hours on skin, which may disappoint those expecting all-day performance"
   - "The floral heart can read slightly dated to noses accustomed to modern gourmand or oud-heavy compositions"
+
 ---
 
 Some fragrances try to bottle an emotion. Carolina Herrera 212 attempts something bolder — bottling a zip code. Named after the Manhattan area code where the designer's flagship once stood, this scent was engineered to capture the kinetic, caffeinated pulse of New York City. The question is whether that concept translates into something you'd actually want to wear, or if it's just clever marketing with a fancy address.

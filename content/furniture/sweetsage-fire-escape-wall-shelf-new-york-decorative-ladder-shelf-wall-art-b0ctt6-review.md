@@ -1,4 +1,5 @@
 ---
+
 title: "SweetSage Fire Escape Wall Shelf - New York Decorative Ladde"
 seo_title: "SweetSage Fire Escape Wall Shelf - New York Decora Review"
 meta_description: "Our full sweetsage fire escape wall shelf - new york decorative ladde review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTT6K1RM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7177bnAz+tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever stared at a blank wall and thought, *“I need something that isn’t just another framed print,”* the SweetSage Fire Escape Wall Shelf is a genuinely clever answer. It’s a decorative ladder-shelf hybrid that mimics the iconic New York fire escape silhouette — three staggered black metal tiers that give you actual display space while reading as wall art. At 4.6 stars across 229 ratings, it’s clearly resonating with people who want form *and* function without committing to a full shelving unit.

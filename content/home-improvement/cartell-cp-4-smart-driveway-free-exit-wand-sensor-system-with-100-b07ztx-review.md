@@ -1,4 +1,5 @@
 ---
+
 title: "Cartell CP-4 Smart Driveway Free Exit Wand Sensor System wit"
 seo_title: "Cartell CP-4 Driveway Exit Wand Review: Smart Sensor Tested"
 meta_description: "Honest Cartell CP-4 Smart Driveway Free Exit Wand Sensor review: real-world range, installation tips, durability concerns, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07ZTXWR4L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5103K982ucL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "True vehicle detection via magnetic sensor — no false triggers from pets, people, or blowing leaves"
   - "Weatherproof housing held up through rain, snow, and summer heat in extended testing"
   - "Simple 4-wire hookup works with most openers, including Chamberlain and LiftMaster models"
-cons:
+cons: 
   - "Installation requires burying cable or surface-mounting conduit — not truly wireless like some competitors"
   - "Detection range is directional; vehicles straddling the wand can occasionally miss triggering"
+
 ---
 
 ## The Free Exit Problem, Solved

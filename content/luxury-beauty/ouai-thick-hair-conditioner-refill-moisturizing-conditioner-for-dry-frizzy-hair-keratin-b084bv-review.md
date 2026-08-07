@@ -1,4 +1,5 @@
 ---
+
 title: "OUAI Thick Hair Conditioner Refill - Moisturizing Conditione"
 seo_title: "OUAI Thick Hair Conditioner Refill - Moisturizing  Review"
 meta_description: "Our full ouai thick hair conditioner refill - moisturizing conditione review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B084BVV25L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51tvrXojJzL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about thick hair: it's a different beast. What tames fine strands turns coarse hair into a greasy mess. And what hydrates curly textures often leaves straight, dense hair feeling like straw. OUAI's Thick Hair Conditioner is designed specifically for that frustrating middle ground — hair that's abundant, unruly, and perpetually thirsty. This refill pouch delivers the same formula at a lower cost per ounce and a fraction of the plastic. But is it worth your money, or just another overpriced prestige product? Here's the breakdown.

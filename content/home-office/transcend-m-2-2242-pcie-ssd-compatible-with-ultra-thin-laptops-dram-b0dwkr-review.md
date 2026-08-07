@@ -1,4 +1,5 @@
 ---
+
 title: "Transcend M.2 2242 PCIe SSD, Compatible with Ultra-Thin Lapt"
 seo_title: "Transcend M.2 2242 PCIe SSD, Compatible with Ultra Review"
 meta_description: "Our full transcend m.2 2242 pcie ssd, compatible with ultra-thin lapt review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DWKR91SR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61asf8DXWaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been hunting for a storage upgrade for a thin-and-light laptop and keep hitting a wall because the drive bay is shorter than standard, this Transcend M.2 2242 PCIe SSD is likely the exact part you've been missing. The 2242 form factor—22mm wide, 42mm long—is the oddball size used in many ultra-portables, mini PCs, and even some gaming handhelds. Most manufacturers only ship 2280 drives, which simply don't fit. This one does.

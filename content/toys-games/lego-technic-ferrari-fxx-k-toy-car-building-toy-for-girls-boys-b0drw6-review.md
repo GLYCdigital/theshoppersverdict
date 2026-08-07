@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Technic Ferrari FXX K Toy Car - Building Toy for Girls "
 seo_title: "LEGO Technic Ferrari FXX K Toy Car - Building Toy  Review"
 meta_description: "Our full lego technic ferrari fxx k toy car - building toy for girls  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DRW6KZKF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x8eW1q1iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Technic Ferrari FXX K is a display-first supercar build that nails the look but skips the steering rack.** If you're shopping for a young builder who expects to push this thing around the living room, you're looking at the wrong set. But if you want a striking desk trophy that showcases LEGO's engineering, this is one of the strongest Technic sets under $100.

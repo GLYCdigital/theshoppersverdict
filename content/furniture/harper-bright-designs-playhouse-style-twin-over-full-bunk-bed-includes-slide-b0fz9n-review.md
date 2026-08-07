@@ -1,4 +1,5 @@
 ---
+
 title: "Harper & Bright Designs Playhouse Style Twin Over Full Bunk"
 seo_title: "Harper & Bright Playhouse Bunk Bed Review (2026)"
 meta_description: "Honest Harper & Bright Designs Playhouse Twin Over Full bunk review: build quality, slide fun, assembly pain points, and whether it's worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FZ9NDWNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gE0-Z7bbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid pine wood frame rated for 200 lbs on top bunk, 300 lbs on bottom — genuinely sturdy for a playhouse-style bed"
   - "Slide is a real crowd-pleaser; kids use it daily, and it's removable if you need the floor space back"
   - "Built-in shelving and playhouse arch give storage and imaginative play value without extra furniture purchases"
-cons:
+cons: 
   - "Assembly is a marathon, not a sprint — expect 4-6 hours with two adults; hardware is plentiful but instructions are occasionally vague"
   - "The ladder is narrow and steep for younger kids; some parents added anti-slip tape or a second handrail"
   - "Slide takes up significant floor footprint — measure your room carefully; this is not for tight spaces"
+
 ---
 
 Let's be blunt: most bunk beds under $500 are wobbly particleboard nightmares that sag by month three. The Harper & Bright Designs Playhouse Style Twin Over Full Bunk is not that. Is it perfect? No. But for the price point, it's punching well above its weight class.

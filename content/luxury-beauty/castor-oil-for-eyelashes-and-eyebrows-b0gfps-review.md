@@ -1,4 +1,5 @@
 ---
+
 title: "Castor Oil for Eyelashes and Eyebrows"
 seo_title: "Castor Oil for Eyelashes & Eyebrows Review (2026): Does It Work?"
 meta_description: "Honest Castor Oil for Eyelashes and Eyebrows review: real results, applicator quality, and whether this 4.3-star serum is worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GFPSKD9G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nPgwpyU6L._SL1500_.jpg"
-pros:
+pros: 
   - "Hexagonal glass bottle with precision wand applicator that deposits a thin, even layer — no messy drips or clumping"
   - "Cold-pressed, hexane-free formula with no added fragrances or fillers — just pure ricinoleic acid-rich oil"
   - "Visible softening and conditioning of brow hairs within 2-3 weeks, per multiple verified buyer reports"
-cons:
+cons: 
   - "The wand is slightly stiff and narrow — full, thick brows may need two passes to coat every hair evenly"
   - "No lash-growth guarantee — this conditions and strengthens existing hairs, it won't sprout new follicles"
+
 ---
 
 ## Does This Castor Oil Actually Deliver, or Is It Just Hype?

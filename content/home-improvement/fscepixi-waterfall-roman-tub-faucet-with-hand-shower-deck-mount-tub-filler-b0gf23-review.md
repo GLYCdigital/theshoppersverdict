@@ -1,4 +1,5 @@
 ---
+
 title: "FSCEPIXI Waterfall Roman Tub Faucet with Hand Shower, Deck M"
 seo_title: "FSCEPIXI Waterfall Roman Tub Faucet Review: Deck Mount"
 meta_description: "Honest FSCEPIXI waterfall Roman tub faucet review: build quality, real user feedback, installation quirks, and who should buy this deck-mount tub filler."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GF23Z173/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61siqPOol-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True waterfall spout delivers a wide, smooth sheet of water — not a gimmicky trickle — at standard residential water pressure"
   - "Solid brass construction with a heavy, premium feel that rivals fixtures at twice the price"
   - "Hand shower with 59-inch hose reaches all corners of a standard alcove tub without stretching"
-cons:
+cons: 
   - "Diverter valve requires a firm pull; some users with limited hand strength may struggle"
   - "Deck mount needs 1-1/8 inch hole and solid access below — not a DIY swap if your current faucet uses a different hole size"
+
 ---
 
 If you're remodeling a master bath and want that spa-hotel look without the spa-hotel invoice, the FSCEPIXI Waterfall Roman Tub Faucet is probably on your shortlist. At 4.5 stars from 225 ratings, it's clearly doing something right. But waterfall faucets are a category full of pretty fixtures that disappoint in practice — thin streams, flimsy handles, cheap plating. Is this one actually different? After digging through the specs and user feedback, here's the honest breakdown.

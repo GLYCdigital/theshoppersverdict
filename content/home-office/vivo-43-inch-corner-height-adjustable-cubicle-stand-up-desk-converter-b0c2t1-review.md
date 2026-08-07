@@ -1,4 +1,5 @@
 ---
+
 title: "VIVO 43 inch Corner Height Adjustable Cubicle Stand Up Desk "
 seo_title: "VIVO 43 inch Corner Height Adjustable Cubicle Stan Review"
 meta_description: "Our full vivo 43 inch corner height adjustable cubicle stand up desk  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2T1JVMB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fuuyj88DL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your cubicle is a 6x6 foot box and your back is staging a protest, the VIVO 43-inch corner stand-up desk converter is aimed directly at you. This is a sit-stand riser purpose-built for L-shaped and corner desks — not another generic rectangular slab that eats half your workspace. At 4.6 stars from 229 Amazon ratings, it's clearly doing something right. But is it right for *your* setup? Let's dig in.

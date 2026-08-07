@@ -1,4 +1,5 @@
 ---
+
 title: "Beelink SER5 MAX Mini PC, AMD Ryzen 7 6800H(up to 4.7GHz), 3 inch"
 seo_title: "Beelink SER5 MAX Review: Ryzen 7 6800H Mini PC Power"
 meta_description: "Beelink SER5 MAX Mini PC review: Ryzen 7 6800H performance, thermals, and value. Is this 4.5-star desktop worth it for work and light gaming?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F627TSF8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tWGREjK8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Radeon 680M integrated graphics outperform most mini PCs — handles 1080p esports titles at 60+ fps without a discrete GPU"
   - "Dual 2.5G Ethernet ports plus Wi-Fi 6 give you serious networking flexibility for NAS setups or failover routing"
   - "Tool-free bottom panel access lets you upgrade the M.2 SSD and SODIMM RAM in under five minutes"
-cons:
+cons: 
   - "Fan can get audible under sustained load — you'll hear it spin up during long renders or gaming sessions"
   - "Included 512GB SSD fills up fast; plan on adding a second M.2 drive if you store media locally"
+
 ---
 
 The Beelink SER5 MAX is the mini PC that makes you question why you ever bought a tower. With AMD's Ryzen 7 6800H and the Radeon 680M integrated graphics, this 4.5-star compact desktop punches well above its size class. At roughly 4.6 inches square and 1.6 inches tall, it's roughly the footprint of a paperback novel — but it delivers performance that rivals desktops twice the price.

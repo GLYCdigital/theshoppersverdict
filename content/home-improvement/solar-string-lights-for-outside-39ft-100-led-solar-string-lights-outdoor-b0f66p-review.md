@@ -1,4 +1,5 @@
 ---
+
 title: "Solar String Lights for Outside, 39Ft 100 LED Solar String L"
 seo_title: "Solar String Lights for Outside, 39Ft 100 LED Sola Review"
 meta_description: "Our full solar string lights for outside, 39ft 100 led solar string l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F66P7VC9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81oV6ahYECL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Solar String Lights for Outside: The 39-Foot Solution That Actually Works

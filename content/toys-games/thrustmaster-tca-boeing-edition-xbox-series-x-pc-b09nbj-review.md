@@ -1,4 +1,5 @@
 ---
+
 title: "Thrustmaster TCA Boeing Edition (Xbox Series X, PC)"
 seo_title: "Thrustmaster TCA Boeing Edition (Xbox Series X, PC Review"
 meta_description: "Our full thrustmaster tca boeing edition (xbox series x, pc) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09NBJXMY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YJ67-pEYL._SL1380_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've flown the 787 in Microsoft Flight Simulator with a cheap joystick, you already know the disconnect: you're piloting a widebody with a plastic stick that feels more like a TV remote. The Thrustmaster TCA Boeing Edition aims to fix that. It's the closest thing to a real Boeing yoke you can bolt to a desk without selling a kidney — but it's not without compromises that matter.

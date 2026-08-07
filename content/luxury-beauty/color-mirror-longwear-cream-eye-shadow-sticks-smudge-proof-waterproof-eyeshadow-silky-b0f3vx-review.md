@@ -1,4 +1,5 @@
 ---
+
 title: "Color Mirror Longwear Cream Eye Shadow Sticks, Smudge-Proof,"
 seo_title: "Color Mirror Cream Eye Shadow Sticks Review (2026): Worth It?"
 meta_description: "Honest Color Mirror Longwear Cream Eye Shadow Sticks review: smudge-proof formula, blendability, wear time, and who should buy. Real user feedback inside."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F3VXLBY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81B8aEw2C0L._SL1500_.jpg"
-pros:
+pros: 
   - "True 12-hour wear without creasing on oily lids — verified by multiple reviewers"
   - "One-swipe pigment intensity; no building needed for full opacity"
   - "Twist-up mechanism dispenses precise amount — no double-twist waste"
-cons:
+cons: 
   - "Shade range skews heavily metallic; no true matte options for everyday neutral looks"
   - "Cream texture sets in ~60 seconds — beginners may find blend window tight"
+
 ---
 
 Let’s be blunt: most cream eyeshadow sticks are either too greasy to last or too dry to blend. The Color Mirror Longwear Cream Eye Shadow Sticks sit in a rare middle ground — and at 4.1 stars from 204 ratings, they’re earning genuine traction. But “good for a cream stick” isn’t the same as “great eyeshadow.” Here’s the breakdown after digging through real user experiences and testing the claims.

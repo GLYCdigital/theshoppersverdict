@@ -1,4 +1,5 @@
 ---
+
 title: "Metabo HPT Pneumatic Siding Nailer + 18V Impact Driver Pro B"
 seo_title: "Metabo HPT Pneumatic Siding Nailer + 18V Impact Dr Review"
 meta_description: "Our full metabo hpt pneumatic siding nailer + 18v impact driver pro b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3B7TSZ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WfydUvJNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're siding a house, a shed, or a garage, the single most important tool in your arsenal is the nailer. Get it wrong and you're looking at popped nails, split trim, or worse — siding that rattles in the wind. The Metabo HPT Pneumatic Siding Nailer + 18V Impact Driver Pro B bundle pairs their proven coil siding nailer with a serious impact driver, and at a bundle price that undercuts buying separately. But there's a catch buried in the box that you need to know before you click "add to cart."

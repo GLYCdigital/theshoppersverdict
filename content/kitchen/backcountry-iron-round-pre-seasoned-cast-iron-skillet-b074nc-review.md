@@ -1,4 +1,5 @@
 ---
+
 title: "Backcountry Iron Round Pre-Seasoned Cast Iron Skillet"
 seo_title: "Backcountry Iron Cast Iron Skillet Review (2026): Worth It?"
 meta_description: "Honest Backcountry Iron pre-seasoned cast iron skillet review: 12-inch cooking performance, seasoning quality, and who should buy it. 4.6/5 rating."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B074NCHVKY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CUmNyCkWL._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Pre-seasoned with vegetable oil — ready to cook out of the box, no tedious initial seasoning required"
   - "12-inch cooking surface with 2-inch depth handles everything from seared steaks to skillet cornbread"
   - "Ergonomic stainless steel handle stays cooler than bare cast iron during stovetop cooking"
-cons:
+cons: 
   - "Weighs roughly 7.5 pounds — not ideal for weak wrists or overhead cabinet storage"
   - "Factory seasoning is decent but thin; expect to build it up over the first month of regular use"
+
 ---
 
 Let me save you some scrolling: if you're looking for a cast iron skillet that won't break the bank but still performs like it costs twice as much, the Backcountry Iron Round Pre-Seasoned Skillet deserves a spot on your shortlist. With 229 ratings averaging 4.6 stars, this isn't some no-name import — it's a purpose-built pan that's earned its keep in real kitchens.

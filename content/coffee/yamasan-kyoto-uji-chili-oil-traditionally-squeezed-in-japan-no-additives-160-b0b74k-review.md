@@ -1,4 +1,5 @@
 ---
+
 title: "YAMASAN KYOTO UJI Chili Oil Traditionally Squeezed in Japan,"
 seo_title: "YAMASAN KYOTO UJI Chili Oil Traditionally Squeezed Review"
 meta_description: "Our full yamasan kyoto uji chili oil traditionally squeezed in japan, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B74K3JMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LUiWSXWkL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 3.4 oz bottle you see in the product image looks unassuming, but this isn't your standard grocery-store chili oil.** YAMASAN KYOTO UJI is made in Kyoto using a traditional "shibori" (squeeze) method, where the oil is cold-pressed rather than heat-extracted. That distinction matters more than you'd think — it changes the entire character of the heat.

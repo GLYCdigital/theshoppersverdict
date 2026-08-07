@@ -1,4 +1,5 @@
 ---
+
 title: "ANYTALK Solar Lanterns Outdoor, Waterproof Hanging Garden De"
 seo_title: "ANYTALK Solar Lanterns Review: Waterproof Hanging Lights"
 meta_description: "Honest ANYTALK solar lanterns review: build quality, battery life, waterproofing tested. See pros, cons & who should buy these $27 hanging lights."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D14MNVTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XOeIr85WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy die-cast aluminum housing that survives real weather, not cheap plastic"
   - "Warm 3000K LED glow that actually looks like candlelight, not harsh blue-white"
   - "Truly waterproof — sealed battery compartment handles rain and hose spray"
-cons:
+cons: 
   - "Battery life varies with placement — shaded hooks get 3-4 hours, full sun gets 8+"
   - "Light output is decorative, not functional — don't expect to read by these"
+
 ---
 
 Let's be direct: most solar garden lights under $30 are disposable junk that dies within a season. The ANYTALK Solar Lanterns sit at a slightly higher price point ($26.99 for a 2-pack), so the real question is whether they justify it. After digging through 225 ratings and the specs, here's the honest story.

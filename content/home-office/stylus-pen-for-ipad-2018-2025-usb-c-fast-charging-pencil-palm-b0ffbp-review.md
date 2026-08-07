@@ -1,4 +1,5 @@
 ---
+
 title: "Stylus Pen for ipad 2018-2025, USB-C Fast Charging Pencil, P"
 seo_title: "Stylus Pen for ipad 2018-2025, USB-C Fast Charging Review"
 meta_description: "Our full stylus pen for ipad 2018-2025, usb-c fast charging pencil, p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFBPGC3Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41ScSIaOpBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Apple Pencil costs $129. This stylus runs about a quarter of that and claims compatibility with every iPad from 2018 through 2025. After testing it against a first-gen Apple Pencil on an iPad Air 5, here's the honest breakdown.

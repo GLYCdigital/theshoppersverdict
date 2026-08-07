@@ -1,4 +1,5 @@
 ---
+
 title: "American Greetings 40 sq. ft. Reversible Paw Patrol Wrapping"
 seo_title: "Paw Patrol Wrapping Paper Review: 40 sq ft Reversible Roll"
 meta_description: "Honest American Greetings Paw Patrol wrapping paper review: 40 sq ft reversible roll, durability, value, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F44J6WJ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xJAjQt9PL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two distinct Paw Patrol designs in one roll — essentially double the value"
   - "40 square feet covers roughly 8-10 medium gifts, better per-foot price than character rolls at big-box stores"
   - "Reversible format means accidental tears or guest-visible mistakes aren't a crisis — flip and re-cut"
-cons:
+cons: 
   - "Paper is noticeably thinner than premium non-character brands; prone to tearing at fold creases"
   - "No grid lines on the back — measuring straight cuts takes a ruler or a steady hand"
+
 ---
 
 Let's be direct: if you're wrapping a Paw Patrol-themed birthday party, you're not buying this because you're a connoisseur of premium wrapping stock. You're buying it because a four-year-old has strong opinions about Chase versus Rubble. The American Greetings 40 sq. ft. Reversible roll handles that job admirably — with a couple of caveats worth knowing before you add it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Coffee Beanery Coffee Pods"
 seo_title: "Coffee Beanery Coffee Pods Review: Worth It? (2026)"
 meta_description: "Coffee Beanery Coffee Pods review: flavor, strength, compatibility, and value. See what 215 Amazon ratings reveal before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BJL6CSL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71agl2HkDuL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich, smooth flavor profile that avoids the bitter aftertaste common in single-serve pods"
   - "Strong aroma that fills the room — noticeably fresher than comparable pod brands"
   - "Compatible with most standard single-serve brewers without leaking or structural issues"
-cons:
+cons: 
   - "Inconsistent strength between flavors — some batches brew noticeably weaker than others"
   - "No strength customization option — you're locked into whatever intensity they chose"
   - "Limited flavor variety compared to larger competitors like Green Mountain or San Francisco Bay"
+
 ---
 
 The single-serve coffee pod market is brutally crowded. For every genuinely good option, there are a dozen generic brands that taste like recycled office coffee. So when Coffee Beanery — a name better known for their brick-and-mortar cafes — entered the pod game, expectations were mixed. After digging through 215 Amazon ratings and the actual product specs, here's the real story.

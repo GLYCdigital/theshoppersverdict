@@ -1,4 +1,5 @@
 ---
+
 title: "Pure Leaf Iced Tea, Raspberry, Real Brewed Tea, 18.5 Fl Oz B"
 seo_title: "Pure Leaf Iced Tea, Raspberry, Real Brewed Tea, 18 Review"
 meta_description: "Our full pure leaf iced tea, raspberry, real brewed tea, 18.5 fl oz b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01AT3DM5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-m9iW9YBL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most bottled iced teas taste like tea-flavored sugar water. Pure Leaf's Raspberry offering is different — and the 4.7-star average across 235 ratings suggests I'm not the only one who notices.

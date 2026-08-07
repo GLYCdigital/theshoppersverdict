@@ -1,4 +1,5 @@
 ---
+
 title: "AMD Ryzen 5 Unlocked Desktop Processor Review"
 seo_title: "AMD Ryzen 5 Unlocked Processor Review (2026): Worth It?"
 meta_description: "AMD Ryzen 5 unlocked desktop processor review: performance, value, and who should buy it. Real buyer feedback with a 4.8/5 rating."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C5MRT4RX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51f0BuTrkML._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Unlocked multiplier on all SKUs means overclocking headroom without paying the 'K' series premium Intel charges"
   - "Stock Wraith cooler is genuinely usable for light workloads, saving you $30-40 on an aftermarket cooler if you're not pushing hard"
   - "Excellent single-core performance for office apps, spreadsheet crunching, and web apps — not just gaming"
-cons:
+cons: 
   - "Stock cooler gets loud under sustained all-core loads; plan on an aftermarket tower cooler if you render video or compile code"
   - "No integrated graphics on most models — you must have a discrete GPU, which adds cost if you're building a basic office box"
   - "AM5 platform requires DDR5 RAM and a newer motherboard, so total platform cost is higher than older AM4 builds"
+
 ---
 
 **Review Body:**

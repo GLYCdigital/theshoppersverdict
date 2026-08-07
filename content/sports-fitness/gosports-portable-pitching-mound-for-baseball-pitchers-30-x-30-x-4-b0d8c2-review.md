@@ -1,4 +1,5 @@
 ---
+
 title: "GoSports Portable Pitching Mound for Baseball Pitchers - 30 "
 seo_title: "GoSports Portable Pitching Mound for Baseball Pitc Review"
 meta_description: "Our full gosports portable pitching mound for baseball pitchers - 30  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D8C26JT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91brm0qJrEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "GoSports Portable Pitching Mound for Baseball Pitchers - 30"
 seo_title: "GoSports Portable Pitching Mound Review: Top Training Tool"

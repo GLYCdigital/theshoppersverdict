@@ -1,4 +1,5 @@
 ---
+
 title: "SpringFlower 2 Bow and Arrow Sets with LED Light-up,2 Foam D"
 seo_title: "SpringFlower 2 Bow and Arrow Sets with LED Light-u Review"
 meta_description: "Our full springflower 2 bow and arrow sets with led light-up,2 foam d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYVL8MMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JrSvrtySL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a kid try to share a single toy bow with a sibling, you know the fight that's coming. SpringFlower solved that before you even open the box: this is a **two-for-one set**, and that alone justifies a look. But the LED arrows? That's the feature that actually makes this worth your money.

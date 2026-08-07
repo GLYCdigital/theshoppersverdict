@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture Beverly 22 inch  x 22 inch  Restaurant Table X-Base wi"
 seo_title: "Flash Furniture Beverly 22x22 Restaurant Table Review"
 meta_description: "Read our honest Flash Furniture Beverly 22x22 restaurant table review. X-base design, commercial durability, real customer feedback, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FB9KVDFN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rz-DsUHWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Commercial-grade laminate top resists scratches, spills, and heat — holds up in daily cafe use"
   - "X-base design provides genuine stability; no wobble even on slightly uneven floors when leveling glides are adjusted"
   - "Assembles in under 20 minutes with basic tools; all hardware included and clearly labeled"
-cons:
+cons: 
   - "22x22 size is snug for two people eating full meals — better suited for drinks, laptops, or light fare"
   - "Tabletop arrives with protective film that's tedious to peel off; some buyers reported adhesive residue requiring extra cleanup"
+
 ---
 
 Let's cut through the noise: most "commercial-grade" furniture on Amazon is just residential furniture wearing a costume. The Flash Furniture Beverly 22" x 22" Restaurant Table with X-Base is one of the exceptions. With a 4.7-star average across 235 ratings, it's earned its reputation through actual use — not marketing copy.

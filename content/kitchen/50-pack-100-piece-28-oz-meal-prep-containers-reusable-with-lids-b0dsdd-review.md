@@ -1,4 +1,5 @@
 ---
+
 title: "50 Pack (100-Piece) 28 oz Meal Prep Containers Reusable with"
 seo_title: "50 Pack 28 oz Meal Prep Containers Review (2026): Worth It?"
 meta_description: "Honest review of 50-pack (100-piece) 28 oz meal prep containers with lids. Durability, leak-resistance, and value tested. Buy it or skip it?"
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSDDJ225/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OxkMGglnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "100 pieces total (50 containers + 50 lids) for roughly the price of a 10-pack from mainstream brands"
   - "Airtight, leak-resistant lids with 4-side snap locking mechanism that survive microwave reheating"
   - "28 oz capacity fits generous single servings of rice + protein + vegetables without bulging"
   - "Freezer-safe and dishwasher-safe top rack without warping or cracking after repeated cycles"
-cons:
+cons: 
   - "Lids require firm pressure to seal fully; elderly users or those with arthritis may struggle"
   - "No compartment dividers — wet and dry foods mix together during transport"
   - "Thin plastic at the rim; over-tightening the lid can cause hairline cracks over time"
+
 ---
 
 ## The 100-Piece Meal Prep Container That Actually Makes Sense

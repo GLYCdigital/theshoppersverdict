@@ -1,4 +1,5 @@
 ---
+
 title: "Fun Memories Floating Shelves for Wall Decor, Rustic Reclaim"
 seo_title: "Fun Memories Floating Shelves Review: Rustic, Solid, Worth It?"
 meta_description: "Read our honest Fun Memories floating shelves review. See build quality, real customer feedback, and if the rustic reclaim style fits your home."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GL7FZV4Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uN9IawcUL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Heavy-duty solid wood construction with a genuine hand-rubbed finish that hides scuffs and fingerprints well."
   - "Hidden mounting bracket system allows for a true floating look with no visible hardware."
   - "Versatile size works well in kitchens, bathrooms, and living rooms without overwhelming the wall."
-cons:
+cons: 
   - "Rustic aesthetic means visible knots, color variations, and rough patches—not for buyers wanting a uniform, polished look."
   - "Installation requires a level and stud finder; the bracket alignment can be finicky if your wall isn't perfectly flat."
+
 ---
 
 Floating shelves are everywhere right now, but most of them are cheap particle board wrapped in a photo of wood grain. The Fun Memories Rustic Reclaim set is not that. This is a solid wood product that actually looks like it was pulled from a barn—because it kind of was.

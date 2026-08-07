@@ -1,4 +1,5 @@
 ---
+
 title: "Kids Sand Box"
 seo_title: "Kids Sand Box Review: Verdict | TSV"
 meta_description: "Our full kids sand box review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CNXJVBJF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OIryLCeoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A sandbox is one of those rare toys that pulls kids away from screens for hours — but only if it survives the first summer. This octagonal wooden sandbox from Amazon is hovering at a solid 4.2 stars across 210 ratings, which tells me it's doing something right. Here's what you're actually getting before you add it to your cart.

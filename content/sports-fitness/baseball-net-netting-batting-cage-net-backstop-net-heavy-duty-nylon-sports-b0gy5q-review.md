@@ -1,4 +1,5 @@
 ---
+
 title: "Baseball Net Netting Batting Cage Net Backstop Net - Heavy D"
 seo_title: "Baseball Net Netting Batting Cage Review: Heavy-Duty Value"
 meta_description: "Honest review of the Heavy-Duty Baseball Net Netting Batting Cage Net. Is it durable enough for backyard practice? We break down pros, cons, and value."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GY5QWGBQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NRZfQ-JjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Knotted 7mm nylon mesh holds up to repeated hard throws and line drives without stretching out of shape"
   - "Reinforced hem with grommets every 12 inches makes tensioning against a frame or fence genuinely easy"
   - "UV-treated polyethylene coating resists sun damage — a real concern for nets left outside all season"
-cons:
+cons: 
   - "No ropes or tie-down straps included; you'll need to supply your own hardware to mount it securely"
   - "At heavier weights, it can sag in the middle if you don't tension it properly across a wide span"
+
 ---
 
 If you've priced out batting cage nets lately, you know the good ones run $150 and up. This Heavy-Duty option undercuts that significantly — but does it hold up? After digging through 229 ratings and the build specs, here's the honest picture.

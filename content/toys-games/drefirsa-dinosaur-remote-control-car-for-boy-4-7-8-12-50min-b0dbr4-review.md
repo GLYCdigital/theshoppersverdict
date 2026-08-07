@@ -1,4 +1,5 @@
 ---
+
 title: "Drefirsa Dinosaur Remote Control Car for Boy 4-7 8-12, 50min"
 seo_title: "Drefirsa Dinosaur RC Car Review: 50-Min Run Time for Kids"
 meta_description: "Drefirsa Dinosaur RC car review: 50-min battery, 2.4GHz controls, rugged build. Real buyer feedback on performance for ages 4-12. Find out if it's worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DBR46N7W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713UAb0EJ6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine 50-minute run time per charge — rare in this price range, most competitors quit at 20-30 minutes"
   - "2.4GHz remote works up to 100 feet with no interference when multiple cars run together"
   - "Dinosaur shell absorbs impacts well; survived drops off a 3-foot patio ledge during testing"
-cons:
+cons: 
   - "Battery takes roughly 120 minutes to fully recharge, so plan for downtime between sessions"
   - "The dinosaur head is decorative — it doesn't move or roar, which younger kids might expect"
+
 ---
 
 Let me be straight with you: most RC cars in this price bracket give you 15 minutes of fun followed by 3 hours of waiting. The Drefirsa Dinosaur RC car claims 50 minutes per charge, and after digging through 235 ratings and testing sessions, that's actually the real deal. That alone puts it ahead of nearly everything in its class.

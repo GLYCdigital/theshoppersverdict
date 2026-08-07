@@ -1,4 +1,5 @@
 ---
+
 title: "FEMILA Outdoor Wall Light Fixture, Exterior Waterproof Wall"
 seo_title: "FEMILA Outdoor Wall Light Review: Waterproof Sconce Tested"
 meta_description: "Honest FEMILA outdoor wall light review: build quality, waterproofing, brightness, and installation. Is this 4.7-star sconce worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9FD9KFF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YNLXmmOmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with powder-coated finish that resists rust and fading, even in coastal salt air"
   - "Sealed gasket and frosted glass diffuser provide genuine IP65 waterproofing — no moisture gets inside the lens"
   - "Tool-free bulb access via hinged door makes swaps and cleaning a two-minute job"
-cons:
+cons: 
   - "Bulbs not included — factor in $8–$15 for a quality LED if you don't have spares"
   - "Mounting plate uses standard 4-inch spacing, so older homes with 3.5-inch boxes need an adapter plate"
+
 ---
 
 Most outdoor light fixtures fall into one of two camps: cheap plastic that yellows within a season, or designer-grade units that cost more than a dinner for two. The FEMILA Outdoor Wall Light sits in a sweet spot that's surprisingly rare — genuine metal construction at a price that won't make you wince. With 235 ratings averaging 4.7 stars, it's clearly earning its keep on porches and patios across the country. Here's the full picture after digging through the specs, the customer feedback, and what actually matters when you're mounting metal to your siding.

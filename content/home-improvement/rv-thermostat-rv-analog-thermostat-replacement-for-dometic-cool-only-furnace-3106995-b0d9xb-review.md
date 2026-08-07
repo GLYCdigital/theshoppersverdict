@@ -1,4 +1,5 @@
 ---
+
 title: "RV Thermostat, RV Analog Thermostat Replacement for Dometic "
 seo_title: "RV Thermostat, RV Analog Thermostat Replacement fo Review"
 meta_description: "Our full rv thermostat, rv analog thermostat replacement for dometic  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D9XBFXHV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51scPfZNOaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your Dometic digital thermostat just died mid-trip — and you're staring at a blank screen or a unit stuck in "wait" mode — you already know the drill. The replacement part from Dometic runs $150+. This aftermarket analog unit costs a fraction of that and does one job: it runs your AC and furnace with zero fuss. After digging through 215 ratings and the technical specs, here's the real story.

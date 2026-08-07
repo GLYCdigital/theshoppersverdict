@@ -1,4 +1,5 @@
 ---
+
 title: "Minka Aire Xtreme H2O - 65-inch Ceiling Fan F896-65-SI, Smok"
 seo_title: "Minka Aire Xtreme H2O - 65-inch Ceiling Fan F896-6 Review"
 meta_description: "Our full minka aire xtreme h2o - 65-inch ceiling fan f896-65-si, smok review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08512DNW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j9UoRsz2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance and Build Quality

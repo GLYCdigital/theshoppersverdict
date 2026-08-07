@@ -1,4 +1,5 @@
 ---
+
 title: "Chess Setï¼ŒFolding Storage Wooden Chess Board Setsï¼Œ3 in 1 inch"
 seo_title: "3-in-1 Folding Wooden Chess Set Review: Checkers & More"
 meta_description: "Honest review of the 3-in-1 folding wooden chess set with storage. See how it plays, holds up, and whether it's worth your money for family game night."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BHX6H96Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Smu9+w9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid folding board with internal storage that keeps all 32 pieces secure during travel"
   - "Three games in one (chess, checkers, backgammon) with reversible board surface"
   - "Pieces have a nice heft and felted bases that glide smoothly without scratching the board"
-cons:
+cons: 
   - "Board surface is thinner than premium sets, so it flexes slightly during aggressive play"
   - "Backgammon setup requires a separate layout guide since the board marking is only on one side"
   - "Storage compartment latch feels a bit flimsy; handle with care when closing"
+
 ---
 
 Let’s be blunt: most sub-$50 chess sets are either cheap plastic junk or wooden boards that warp after three weeks. The 3-in-1 Folding Wooden Chess Set sits somewhere in the middle — and for most families, that's exactly the sweet spot.

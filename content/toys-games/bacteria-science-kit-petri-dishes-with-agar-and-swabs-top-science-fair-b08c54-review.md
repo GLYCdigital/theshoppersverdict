@@ -1,4 +1,5 @@
 ---
+
 title: "Bacteria Science Kit Petri Dishes with Agar and Swabs | Top"
 seo_title: "Bacteria Science Kit Review: Petri Dishes & Agar for Kids"
 meta_description: "Honest review of the Bacteria Science Kit with petri dishes, agar, and swabs. Perfect for science fairs? We tested prep, growth, and value."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08C546HHK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RgGi8uNyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Includes 10 sterile petri dishes, 5g agar powder, and 10 swabs — enough for a full class project or multiple home trials"
   - "Agar sets firmly at room temperature in about 30–40 minutes, no autoclave or pressure cooker needed"
   - "Clear instructions with a printable science fair board template that actually saves time"
-cons:
+cons: 
   - "No gloves or tape included despite the biohazard warnings — you'll need to buy nitrile gloves separately"
   - "Agar powder is unflavored and needs careful boiling; scorch it and you'll get cloudy, unusable plates"
+
 ---
 
 **Is this the kit that turns your kitchen counter into a legit microbiology lab?** For under $20, the Bacteria Science Kit promises real agar plates, sterile swabs, and enough supplies for a proper science fair experiment. After digging through 210 ratings and the specs, here's the honest breakdown.

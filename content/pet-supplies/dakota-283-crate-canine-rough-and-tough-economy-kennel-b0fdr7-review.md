@@ -1,4 +1,5 @@
 ---
+
 title: "Dakota 283 Crate - Canine Rough and Tough Economy Kennel"
 seo_title: "Dakota 283 Crate Review: Durable Economy Kennel Worth It?"
 meta_description: "Dakota 283 Crate review: Is this Rough and Tough economy kennel worth it? We analyze durability, assembly, size fit, and value for chewers."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FDR7BQLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aWAt+IatL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully welded wire frame resists bending and prying—rare at this price point"
   - "Removable ABS plastic pan is chew-resistant and wipes clean in seconds"
   - "Folds flat for transport without tools; assembled unit stays rigid with no rattling"
-cons:
+cons: 
   - "Wire spacing (1.5 inches) is too wide for puppies under 12 pounds or tiny breeds"
   - "Plastic pan sits flush but can slide slightly on slick floors during active dogs"
+
 ---
 
 **The Dakota 283 Crate: The Budget Kennel That Actually Holds Up**

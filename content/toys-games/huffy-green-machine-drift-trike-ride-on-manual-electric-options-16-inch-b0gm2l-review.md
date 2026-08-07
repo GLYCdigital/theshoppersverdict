@@ -1,4 +1,5 @@
 ---
+
 title: "Huffy Green Machine Drift Trike Ride-On, Manual & Electric O"
 seo_title: "Huffy Green Machine Drift Trike Review: Manual & Electric (2026)"
 meta_description: "Honest Huffy Green Machine Drift Trike review: 16-inch ride-on with manual and electric options. See pros, cons, real buyer feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GM2LH8YB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71X3j-0TQJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Low-profile 16-inch front wheel with rear caster wheels delivers genuine, controllable 360-degree drifts on smooth pavement"
   - "Steel frame holds riders up to 140 lbs — sturdy enough for older kids and lighter teens, not just toddlers"
   - "Dual-mode availability (manual push or electric assist) means you can start with the classic version and upgrade later"
-cons:
+cons: 
   - "Assembly requires a Phillips head screwdriver, patience, and about 45 minutes — the handlebar alignment can be finicky"
   - "Plastic rear caster forks wear down after extended use on rough asphalt; replacement parts cost extra"
   - "No brake — stopping relies on your feet or drifting to a stop, which takes getting used to"
+
 ---
 
 The Huffy Green Machine has been the undisputed king of driveway drifting for over a decade. The 2026 update keeps the same low-slung, three-wheeled formula that made the original a suburban legend, but now you've got a choice: classic manual push or a battery-powered assist variant. I've spent time with both versions, and here's the honest breakdown.

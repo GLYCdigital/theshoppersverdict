@@ -1,4 +1,5 @@
 ---
+
 title: "Alise SUS304 Stainless Steel Gate Slide Lock, Thickened Heav"
 seo_title: "Alise SUS304 Gate Slide Lock Review: Heavy-Duty & Rust-Proof"
 meta_description: "Honest Alise SUS304 stainless steel gate slide lock review: build quality, real-world performance, and who should buy this 4.6-star heavy-duty latch."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BF9VJP86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pzdvfRtLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True SUS304 stainless steel construction resists rust and corrosion in outdoor conditions"
   - "Thickened plate and bolt handle substantial force without flexing or bending"
   - "Universal fit works on wood, metal, and vinyl gates with simple surface-mount installation"
-cons:
+cons: 
   - "Striking plate alignment requires careful measuring — minor misalignment causes the bolt to bind"
   - "Sliding mechanism can feel stiff initially; needs lubrication or break-in period"
+
 ---
 
 Most gate latches are flimsy afterthoughts — thin zinc alloy pieces that corrode within a season and bend the first time a gust of wind slams the gate. The Alise SUS304 stainless steel slide lock is not that. This is a properly built piece of hardware that treats a gate latch like it actually has a job to do.

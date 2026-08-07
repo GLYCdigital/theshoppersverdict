@@ -1,4 +1,5 @@
 ---
+
 title: "Ruda Rue Plant 4 inch Pot Herb Live Plant"
 seo_title: "Ruda Rue Plant 4 inch Pot Herb Live Plant Review: Verdict"
 meta_description: "Our full ruda rue plant 4 inch pot herb live plant review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F3N9JRYN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q3twHs4IL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what you're actually buying here. This is a live **Ruta graveolens** — common rue, "herb of grace" — shipped in a standard 4-inch nursery pot. It's not a decorative houseplant, and it's not parsley. It's a Mediterranean perennial with a distinct, sharp, almost medicinal aroma that tells you instantly it's the real thing.

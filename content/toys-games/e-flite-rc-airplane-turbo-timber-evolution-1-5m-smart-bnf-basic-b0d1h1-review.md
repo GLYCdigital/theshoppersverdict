@@ -1,4 +1,5 @@
 ---
+
 title: "E-flite RC Airplane Turbo Timber Evolution 1.5m Smart BNF Ba"
 seo_title: "E-flite Turbo Timber Evolution 1.5m BNF Review: Worth It?"
 meta_description: "E-flite Turbo Timber Evolution 1.5m Smart BNF review: performance, durability, and who should buy. Real pilot feedback on this 4.3-star RC plane."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1H1TR3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+65Mmy6BL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "SAFE Select and Smart Throttle tech make it genuinely flyable for beginners while still satisfying experienced pilots"
   - "Factory-assembled with Spektrum electronics — bind to your DX or NX transmitter and fly in under an hour"
   - "Included floats convert it to water ops without extra parts; 1.5m wingspan handles wind better than smaller trainers"
-cons:
+cons: 
   - "BNF Basic means no battery, charger, or transmitter — a $150+ hidden cost for newcomers"
   - "Stock landing gear is narrow and flexes on rough grass; upgrade to the optional aluminum gear for hard surfaces"
   - "Some reports of the factory-installed pushrods binding at full deflection — check before first flight"
+
 ---
 
 # E-flite RC Airplane Turbo Timber Evolution 1.5m Smart BNF Ba: The Trainer That Grows With You

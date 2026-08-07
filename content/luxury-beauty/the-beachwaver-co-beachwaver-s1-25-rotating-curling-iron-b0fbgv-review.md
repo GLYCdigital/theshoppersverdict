@@ -1,4 +1,5 @@
 ---
+
 title: "The Beachwaver Co. Beachwaver S1.25 Rotating Curling Iron"
 seo_title: "The Beachwaver Co. Beachwaver S1.25 Rotating Curli Review"
 meta_description: "Our full the beachwaver co. beachwaver s1.25 rotating curling iron review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FBGVH9HL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Y4yfWbBQL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a tutorial and thought, *“I could never do that with a regular iron,”* the Beachwaver S1.25 is engineered specifically for you. This is the rotating curling iron that promises salon-style beach waves without the arm workout. After 210 Amazon ratings averaging 4.2 stars, it’s clear this tool has a loyal following — but it’s not without its quirks. Let’s break down whether it’s worth the investment for your specific hair type and skill level.

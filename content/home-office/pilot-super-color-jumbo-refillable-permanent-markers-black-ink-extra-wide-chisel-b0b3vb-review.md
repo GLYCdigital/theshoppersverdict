@@ -1,4 +1,5 @@
 ---
+
 title: "Pilot Super Color Jumbo Refillable Permanent Markers, Black "
 seo_title: "Pilot Super Color Jumbo Refillable Permanent Marke Review"
 meta_description: "Our full pilot super color jumbo refillable permanent markers, black  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B3VBZBKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XOKZ8sW7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line up front:** If you're tired of tossing dried-out markers into the trash every few weeks, the Pilot Super Color Jumbo is the last black permanent marker you'll need to buy for a while. It's built for warehouse workers, shipping clerks, and anyone who needs to mark large surfaces fast. But it's not a detail tool — and that's by design.

@@ -1,4 +1,5 @@
 ---
+
 title: "Canon Original 045 Toner Cartridge,Color Pack 1 MF634Cdw ima"
 seo_title: "Canon 045 Color Toner Pack Review: MF634Cdw, MF632Cdw, LBP612Cdw"
 meta_description: "Honest Canon 045 color toner pack review for MF634Cdw/MF632Cdw. Real yield data, print quality, and cost per page. Is OEM worth it vs third-party?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B071YVMJGG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Z1ruRUhLE._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine OEM toner with Canon's proprietary color calibration — consistent output across all three cartridges"
   - "No chip errors, no reset issues, no warranty headaches — install and print immediately"
   - "Clean, mess-free installation with the side-mounted pull tab design"
-cons:
+cons: 
   - "Price per page is significantly higher than compatible third-party cartridges"
   - "Only 1,200 pages per color cartridge — heavy color printing means frequent replacements"
   - "No black cartridge included in this Color Pack 1; you'll need to buy it separately"
+
 ---
 
 If you own an imageCLASS MF634Cdw, MF632Cdw, or LBP612Cdw, you already know these printers are picky about toner. I've tested both OEM and third-party options, and the Canon 045 Color Pack 1 is the safe bet — but it comes at a premium. Here's what you're actually paying for.

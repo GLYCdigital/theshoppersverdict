@@ -1,4 +1,5 @@
 ---
+
 title: "Aviary Netting Heavy Knotted 2 inch Poultry Net"
 seo_title: "Aviary Netting 2 Inch Poultry Net Review: Heavy Knotted"
 meta_description: "Honest review of heavy knotted 2-inch aviary netting for poultry. Build quality, real-world use, and who should buy it. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084DVV4X7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rMpyY8SGL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Knotted construction holds shape under tension and resists tearing at stress points, unlike welded wire that snaps at joints"
   - "2-inch mesh spacing blocks most predators while remaining visible enough for birds to avoid flying into it"
   - "Works for overhead aviary covers, garden fencing, and temporary coops — one roll handles multiple jobs"
-cons:
+cons: 
   - "Knotted netting is heavy and stiff; cutting it to size requires wire cutters, not scissors"
   - "UV resistance is decent but not indefinite — expect 3-5 years before embrittlement in full sun"
   - "No included fasteners or mounting hardware; you'll need zip ties, staples, or clips separately"
+
 ---
 
 If you’re building a permanent aviary or reinforcing a chicken run, the **Aviary Netting Heavy Knotted 2 inch Poultry Net** is the kind of product that quietly earns its keep. It’s not flashy. It’s not a “smart” gadget. It’s a roll of serious, heavy-duty netting that does one job well: keeping birds in and predators out.

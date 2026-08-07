@@ -1,4 +1,5 @@
 ---
+
 title: "Magnetic Garage Door Windows and Decorations"
 seo_title: "Magnetic Garage Door Windows and Decorations Review: Verd"
 meta_description: "Our full magnetic garage door windows and decorations review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ829GKQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-Ldh8GeLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Magnetic Garage Door Windows: The $35 Curb Appeal Hack That Actually Works

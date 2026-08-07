@@ -1,4 +1,5 @@
 ---
+
 title: "KingCamp Self Inflating Sleeping Pad for Camping, High R Val"
 seo_title: "KingCamp Self Inflating Sleeping Pad for Camping,  Review"
 meta_description: "Our full kingcamp self inflating sleeping pad for camping, high r val review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GT9K5X3Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DKKcEeSZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most self-inflating pads under $100 have a dirty secret: the "self" part is optimistic. You unscrew the valve, wait five minutes, and still end up blowing ten breaths into it while your knees ache. The KingCamp Self Inflating Sleeping Pad sidesteps that frustration with a thick 3-inch open-cell foam core that genuinely inflates on its own — and then some. But this pad isn't for everyone. Let's break down who gets real value from it and who should keep scrolling.

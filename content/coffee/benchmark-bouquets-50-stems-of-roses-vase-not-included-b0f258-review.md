@@ -1,4 +1,5 @@
 ---
+
 title: "Benchmark Bouquets - 50 Stems of Roses (Vase Not Included)"
 seo_title: "Benchmark Bouquets 50 Roses Review: Worth It? (2026)"
 meta_description: "Benchmark Bouquets 50-stem rose review: quality, longevity, and value. Real buyer feedback on this popular bulk rose option. See if it's worth it."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0F2588K33/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EV5238VQL._SL1500_.jpg"
-pros:
+pros: 
   - "50 full stems for roughly the price of a dozen at a florist — the per-stem value is genuinely strong"
   - "Roses arrive with thick, sturdy stems and substantial heads; several buyers noted they lasted 10-14 days with proper care"
   - "Color accuracy is solid — what's pictured is what shows up, no washed-out or muddied tones"
-cons:
+cons: 
   - "Vase not included, and these need a wide-mouth vessel; standard skinny vases won't fit 50 stems without crushing them"
   - "Quality is inconsistent batch-to-batch — some shipments arrive pristine, others have bruised petals or bent necks on 10-15% of stems"
   - "Thorns are not fully removed, so you'll need gloves and a thorn stripper if you're arranging these yourself"
+
 ---
 
 **Benchmark Bouquets 50-Stem Roses Review: Bulk Roses Without the Florist Markup**

@@ -1,4 +1,5 @@
 ---
+
 title: "HP Pro Mini 400 G9 MFF Mini Business Desktop Computer, Intel"
 seo_title: "HP Pro Mini 400 G9 MFF Mini Business Desktop Compu Review"
 meta_description: "Our full hp pro mini 400 g9 mff mini business desktop computer, intel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0CQYPW5L6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61s0yhrzknL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 1-Liter Office Workhorse That Almost Gets It Right**

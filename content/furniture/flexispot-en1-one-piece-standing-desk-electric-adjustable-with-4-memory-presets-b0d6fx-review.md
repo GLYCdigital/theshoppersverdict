@@ -1,4 +1,5 @@
 ---
+
 title: "FLEXISPOT EN1 One-Piece Standing Desk, Electric Adjustable w"
 seo_title: "FLEXISPOT EN1 Standing Desk Review: Solid One-Piece Build"
 meta_description: "FLEXISPOT EN1 one-piece standing desk review: dual motors, 4 presets, 355-lb capacity. Is it worth it? Real pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6FXJYYK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZKB5heBaL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine one-piece desktop – no seam, no sag risk, no alignment issues that plague split-top designs"
   - "Dual motors lift up to 355 lbs smoothly, even with dual monitors and a heavy desktop PC mounted"
   - "Anti-collision system actually works – reverses immediately when it hits a chair arm or low-hanging cabinet"
-cons:
+cons: 
   - "Assembly requires two people – the one-piece top is heavy (60+ lbs) and awkward to maneuver solo"
   - "No USB ports or cable management tray included – budget another $30–50 for a tidy setup"
   - "Footprint is large – the 55” model needs 28” of depth, so measure your room before ordering"
+
 ---
 
 Let’s cut through the noise. The FLEXISPOT EN1 isn't just another sit-stand desk in a sea of wobbly clones. The headline feature here is the **one-piece desktop** – and it matters more than most shoppers realize.

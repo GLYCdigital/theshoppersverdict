@@ -1,4 +1,5 @@
 ---
+
 title: "JassmiPkwy Drawers Dressers G"
 seo_title: "JassmiPkwy Drawers Dressers G Review: Verdict | TSV"
 meta_description: "Our full jassmipkwy drawers dressers g review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GXFW143N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81li0daZkQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the JassmiPkwy Drawers Dressers G Actually Worth Your Money?

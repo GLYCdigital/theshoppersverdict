@@ -1,4 +1,5 @@
 ---
+
 title: "HAHZT Bathroom Light fixtures"
 seo_title: "HAHZT Bathroom Light fixtures Review: Verdict | TSV"
 meta_description: "Our full hahzt bathroom light fixtures review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BHD7JR8S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-1ogxNAxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most bathroom light fixtures under $60 are flimsy stamped metal with plastic shades that yellow within a year. The HAHZT Bathroom Light Fixture isn't that. It's a genuinely solid piece of hardware that punches above its price class, and the 4.7-star average across 235 ratings backs that up.

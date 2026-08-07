@@ -1,4 +1,5 @@
 ---
+
 title: "Sour Punch Assorted Flavor Sour Bites"
 seo_title: "Sour Punch Assorted Flavor Sour Bites Review: Verdict | T"
 meta_description: "Our full sour punch assorted flavor sour bites review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075MX4V5P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wGyr1ogZL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Sour Punch Assorted Flavor Sour Bites Review: The Pucker Without the Pull**

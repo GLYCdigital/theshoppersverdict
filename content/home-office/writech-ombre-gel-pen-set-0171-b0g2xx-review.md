@@ -1,4 +1,5 @@
 ---
+
 title: "WRITECH Ombre Gel Pen Set 0171"
 seo_title: "WRITECH Ombre Gel Pen Set 0171 Review: Verdict | TSV"
 meta_description: "Our full writech ombre gel pen set 0171 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2XXPG5L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ui2w6d2TL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s get this out of the way: the WRITECH Ombre Gel Pen Set 0171 is not a luxury pen. It’s a 12-pack of gradient-barreled gel pens that costs about what you’d pay for a single premium rollerball. And for most people, that’s exactly the point.

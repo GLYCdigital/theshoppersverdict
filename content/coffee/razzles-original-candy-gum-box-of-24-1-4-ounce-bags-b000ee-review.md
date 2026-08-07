@@ -1,4 +1,5 @@
 ---
+
 title: "Razzles Original Candy/Gum, Box of 24 1.4-Ounce Bags"
 seo_title: "Razzles Original Candy/Gum, Box of 24 1.4-Ounce Ba Review"
 meta_description: "Our full razzles original candy/gum, box of 24 1.4-ounce bags review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000EEDJGO/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IRFy7OuqL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You remember Razzles. The candy that *becomes* gum. It's been a novelty since 1966, and this bulk box of 24 individual 1.4-ounce bags delivers exactly what the packaging promises — a fistful of those pastel discs that start as a crunchy, slightly chalky candy and morph into a soft, sweet gum as you chew.

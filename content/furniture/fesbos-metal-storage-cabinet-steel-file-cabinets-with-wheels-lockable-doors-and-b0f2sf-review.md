@@ -1,4 +1,5 @@
 ---
+
 title: "Fesbos Metal Storage Cabinet Steel File Cabinets with Wheels"
 seo_title: "Fesbos Metal Storage Cabinet Review: Steel File Cabinet With Wheels"
 meta_description: "Fesbos steel storage cabinet with wheels review: lockable doors, 4.6-star rating. Is it worth it? We break down build, assembly, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2SFTDVJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5163r8QAjlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel construction with a powder-coated finish that resists scratches and rust"
   - "Four locking casters (two with brakes) make it genuinely mobile — no lifting required"
   - "Adjustable shelves plus a locking door give you flexible, secure storage for both files and gear"
-cons:
+cons: 
   - "Assembly takes 30–45 minutes; the included hex wrench is low quality, so have your own Allen key set ready"
   - "The lock uses two stamped keys that feel flimsy — don't lose them, replacements are a hassle"
   - "Wheels are on the smaller side (about 2 inches), so rolling over thick carpet or door thresholds takes effort"
+
 ---
 
 ## The mobile file cabinet that actually earns its wheels

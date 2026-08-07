@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Milan Shag Collection Area Rug - 10' x 14', Ivory, "
 seo_title: "SAFAVIEH Milan Shag Collection Area Rug - 10' x 14 Review"
 meta_description: "Our full safavieh milan shag collection area rug - 10' x 14', ivory,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH535LTL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1-vE4Bn8dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $1,000 Question: Can a Machine-Made Shag Feel Luxurious?

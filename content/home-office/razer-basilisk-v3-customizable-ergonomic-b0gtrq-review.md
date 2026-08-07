@@ -1,4 +1,5 @@
 ---
+
 title: "Razer Basilisk V3 Customizable Ergonomic"
 seo_title: "Razer Basilisk V3 Customizable Ergonomic Review: Verdict "
 meta_description: "Our full razer basilisk v3 customizable ergonomic review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GTRQHP3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AcT0ZuO3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "ergonomic" mice are either ugly, overpriced, or both. The Razer Basilisk V3 manages to avoid all three traps, and with 229 ratings holding a 4.6-star average, it's clearly earning its keep on desks — not just gaming rigs. Here's the full breakdown.

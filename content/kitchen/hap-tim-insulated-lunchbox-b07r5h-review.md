@@ -1,4 +1,5 @@
 ---
+
 title: "Hap Tim Insulated lunchbox"
 seo_title: "Hap Tim Insulated lunchbox Review: Verdict | TSV"
 meta_description: "Our full hap tim insulated lunchbox review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R5HR9XB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w0Nh9obWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Hap Tim Insulated Lunchbox Review: A $15 Food Jar That Actually Holds Heat**

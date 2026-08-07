@@ -1,4 +1,5 @@
 ---
+
 title: "UniFi AP AC PRO UAP-AC-PRO-5 US UniFi Wireless Dual Band Acc"
 seo_title: "UniFi AP AC PRO UAP-AC-PRO-5 US UniFi Wireless Dua Review"
 meta_description: "Our full unifi ap ac pro uap-ac-pro-5 us unifi wireless dual band acc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B07JPL6WZX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/31y2b2HxA9L._AC_SX355_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the noise. The UniFi AP AC PRO (UAP-AC-PRO-5) has been a staple in offices, warehouses, and coffee shops for years. With a 4.9-star average across 245 Amazon ratings, it's clearly doing something right. But is it the right access point for *your* workspace? Here's what I found after digging into specs, user reports, and real deployment scenarios.

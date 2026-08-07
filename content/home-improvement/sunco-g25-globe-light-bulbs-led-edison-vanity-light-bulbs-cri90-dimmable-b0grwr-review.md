@@ -1,4 +1,5 @@
 ---
+
 title: "Sunco G25 Globe Light Bulbs LED Edison Vanity Light Bulbs, C"
 seo_title: "Sunco G25 Globe Light Bulbs LED Edison Vanity Ligh Review"
 meta_description: "Our full sunco g25 globe light bulbs led edison vanity light bulbs, c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRWR4D15/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WImA-neAS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're standing in front of a bathroom mirror at 6 AM, and the light above you makes your skin look like a faded photocopy. That's the problem the Sunco G25 Globe LED aims to solve — and based on 235 Amazon ratings averaging 4.7 stars, it's solving it for a lot of people.

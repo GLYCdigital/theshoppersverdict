@@ -1,4 +1,5 @@
 ---
+
 title: "K45WW Dishwasher Safe Whisk Attachment Fits 4.5 Quart and 5 "
 seo_title: "K45WW Dishwasher Safe Whisk Attachment Fits 4.5 Qu Review"
 meta_description: "Our full k45ww dishwasher safe whisk attachment fits 4.5 quart and 5  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07QXC55F3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eYophkCxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Safe materials you can trust"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your stand mixer's whisk has seen better days — or you're tired of scrubbing dried meringue out of a wire whip you were told was "dishwasher safe" — this K45WW replacement deserves a hard look. It's a direct fit for 4.5-quart and 5-quart KitchenAid tilt-head mixers (the Classic, Artisan, and Ultra Power models), and it solves the most common complaint with OEM whisks: the price.

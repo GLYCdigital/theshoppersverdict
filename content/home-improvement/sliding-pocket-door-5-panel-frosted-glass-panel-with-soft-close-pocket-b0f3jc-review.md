@@ -1,4 +1,5 @@
 ---
+
 title: "Sliding Pocket Door, 5-Panel Frosted Glass Panel with Soft C"
 seo_title: "Sliding Pocket Door, 5-Panel Frosted Glass Panel w Review"
 meta_description: "Our full sliding pocket door, 5-panel frosted glass panel with soft c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F3JCXFZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81A38dh9fjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut to the chase. A sliding pocket door is one of those purchases that either transforms your space or becomes a weekend-long frustration. This 5-panel frosted glass version sits somewhere in the middle — great product, but you need to know what you're signing up for.

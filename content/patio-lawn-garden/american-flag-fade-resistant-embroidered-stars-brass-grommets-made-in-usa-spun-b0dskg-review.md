@@ -1,4 +1,5 @@
 ---
+
 title: "American Flag Fade Resistant, Embroidered Stars, Brass Gromm"
 seo_title: "American Flag Fade Resistant Review: Embroidered Stars & Brass Grommets"
 meta_description: "Honest review of the fade-resistant American flag with embroidered stars and brass grommets. Build quality, durability, and real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSKG59FL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pywz8OphL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Embroidered stars hold up far better than printed flags — no peeling or cracking after months of sun exposure"
   - "Brass grommets are properly reinforced with double-stitched heading, so the flag won't tear at the pole"
   - "Colors stay true through heavy UV exposure — multiple buyers report 6+ months without noticeable fading"
-cons:
+cons: 
   - "Not a heavyweight flag — lighter fabric means it won't stand as stiff on still days"
   - "Some buyers report loose threads on the embroidery that require a quick trim"
+
 ---
 
 **The Short Version**

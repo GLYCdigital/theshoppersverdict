@@ -1,4 +1,5 @@
 ---
+
 title: "Fasco D1092 1468-3069 RV Air Condenser Motor Replacement, Sl"
 seo_title: "Fasco D1092 RV Condenser Motor Review: Worth It?"
 meta_description: "Fasco D1092 1468-3069 RV air condenser motor replacement — 4.7★ from 235 buyers. Real performance data, fitment notes, and honest tradeoffs."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B13XDQRG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61K9tCDb7fL._SL1500_.jpg"
-pros:
+pros: 
   - "Exact OEM cross-reference for Dometic Duo-Therm Penguin & Brisk Air units — no adapter brackets or shims needed"
   - "Sleeve bearing design runs quieter than the original ball-bearing units on many RVs, per multiple long-term owners"
   - "Shaft measures 3/8-inch diameter with 2.5-inch length on both ends — fits most standard squirrel-cage blower wheels without modification"
-cons:
+cons: 
   - "Sleeve bearings have shorter lifespan than ball bearings in high-vibration mounting orientations; expect 4-6 seasons with heavy continuous use"
   - "No wiring harness included — you're splicing into your existing RV roof unit's pigtail, which adds 20-30 minutes to install if you're not comfortable with basic electrical work"
+
 ---
 
 Your RV's AC unit starts rattling like a coffee can full of bolts at 2 AM in a Walmart parking lot. The blower wheel wobbles, the motor hums but won't spin, and the repair shop wants $400 plus labor. The Fasco D1092 is the part that fixes this — and at a fraction of that cost.

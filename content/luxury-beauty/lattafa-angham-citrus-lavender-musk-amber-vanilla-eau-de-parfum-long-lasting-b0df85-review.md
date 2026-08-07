@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Angham - Citrus, Lavender, Musk, Amber, Vanilla - Ea"
 seo_title: "Lattafa Angham - Citrus, Lavender, Musk, Amber, Va Review"
 meta_description: "Our full lattafa angham - citrus, lavender, musk, amber, vanilla - ea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF85K4N5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41KLl8IF6sL._SL1000_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Lattafa Angham: The $30 Fragrance That Outperforms Designers

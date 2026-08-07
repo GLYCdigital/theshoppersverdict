@@ -1,4 +1,5 @@
 ---
+
 title: "Mattel Universal Pictures' Wicked"
 seo_title: "Mattel Universal Pictures' Wicked Review: Verdict | TSV"
 meta_description: "Our full mattel universal pictures' wicked review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FYRQYCNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618pV-rrdqL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've seen the trailers for *Wicked*, you already know the costumes are the real stars. The question is whether Mattel's officially licensed line captures that magic at a price that makes sense. With a 4.8-star average across 240 ratings, the early consensus says yes — but let me break down exactly what you're getting before you click buy.

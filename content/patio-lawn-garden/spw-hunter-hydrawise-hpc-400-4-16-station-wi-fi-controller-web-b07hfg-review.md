@@ -1,4 +1,5 @@
 ---
+
 title: "SPW Hunter Hydrawise HPC-400 4-16 Station Wi-Fi Controller W"
 seo_title: "SPW Hunter Hydrawise HPC-400 4-16 Station Wi-Fi Co Review"
 meta_description: "Our full spw hunter hydrawise hpc-400 4-16 station wi-fi controller w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07HFGJV8P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41eNRGl-khL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most smart irrigation controllers promise "set it and forget it." The Hunter Hydrawise HPC-400 actually delivers on that promise — but it demands a bit of setup patience and a solid Wi-Fi signal to earn its keep.

@@ -1,4 +1,5 @@
 ---
+
 title: "T-Fal Gourmet Stainless Steel Fry Pan, 12.5 Inch Induction C"
 seo_title: "T-Fal Gourmet Stainless Steel Fry Pan, 12.5 Inch I Review"
 meta_description: "Our full t-fal gourmet stainless steel fry pan, 12.5 inch induction c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSS83839/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rmusln00L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # T-Fal Gourmet Stainless Steel Fry Pan, 12.5 Inch: The Workhorse Your Induction Cooktop Has Been Waiting For

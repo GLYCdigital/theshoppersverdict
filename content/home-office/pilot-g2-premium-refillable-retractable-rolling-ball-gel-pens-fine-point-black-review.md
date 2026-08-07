@@ -1,16 +1,17 @@
 ---
+
 title: "PILOT G2 Premium Refillable & Retractable Rolling Ball Gel Pens, Fine Point, Black Ink, 12 Count (31020)"
 seo_title: "PILOT G2 Premium Review: Verdict (4.8/5) | TSV"
 meta_description: "Honest pilot g2 premium refillable &  review 32,711+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-review"
 image_alt: "PILOT G2 Premium Refillable & Retractable Rolling Ball Gel Pens, Fine Point, Black Ink, 12 Count (31020)"
-keywords:
+keywords: 
   - "pilot g2 premium review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What are the downsides of the PILOT G2 Premium Refillable?"
     answer: "Across the reviews we analyzed, there are no consistently mentioned complaints. Most buyers report being satisfied."
   - question: "Should I buy the PILOT G2 Premium Refillable?"
@@ -21,10 +22,11 @@ review_count: 32711
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713GdY+wh4L._SL1500_.jpg"
-pros:
+pros: 
   - "Solid overall value based on customer feedback"
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 If you've ever had a pen die mid-sentence during a meeting or watched cheap gel ink blob into a mess on standard printer paper, you already understand why the PILOT G2 has become a default choice in offices across America. With over 32,000 Amazon ratings holding a 4.8-star average, this 12-pack of fine point black pens isn't just popular — it's practically infrastructure.

@@ -1,4 +1,5 @@
 ---
+
 title: "Del Monte Canned Fresh Cut Blue Lake French Style Green Bean"
 seo_title: "Del Monte Canned Green Beans Review: French Style, Worth It?"
 meta_description: "Honest Del Monte Canned French Style Green Beans review: texture, sodium, versatility. Find out if this pantry staple earns its 4.7-star rating."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079YHLFDW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91gb4d4I10L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistently tender, thin-cut beans that hold shape without turning mushy — even after reheating"
   - "Bright, fresh-tasting flavor profile with no metallic aftertaste that plagues many canned vegetables"
   - "Ready in under 5 minutes — genuinely convenient for weeknight sides or emergency meal prep"
-cons:
+cons: 
   - "Sodium content runs high at 380mg per serving — roughly 17% of your daily value before you add anything else"
   - "Some cans arrive with dented rims or compromised seals, which raises legitimate food safety questions"
+
 ---
 
 Let me be upfront: I've eaten more canned green beans than I'd care to admit, and most of them taste like the can they came in. The Del Monte French Style Blue Lake beans are different — noticeably different — and that's why they've earned a 4.7-star average across 235 Amazon ratings.

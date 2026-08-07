@@ -1,4 +1,5 @@
 ---
+
 title: "YFO Home Office Desk Chair Computer Chair with Mid Back Supp"
 seo_title: "YFO Home Office Desk Chair Computer Chair with Mid Review"
 meta_description: "Our full yfo home office desk chair computer chair with mid back supp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GC1L16/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Rk536HukL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The $60–$90 office chair market is a graveyard of wobbly gas lifts and faux-leather that peels by month three. So when the YFO Mid Back Desk Chair holds a 4.6-star average across 229 ratings, it earns a second look. The question isn't whether it's a $400 Herman Miller — it's whether it beats the other budget options sitting in your Saved For Later list. Spoiler: it does, with a few caveats worth knowing before you click Buy Now.

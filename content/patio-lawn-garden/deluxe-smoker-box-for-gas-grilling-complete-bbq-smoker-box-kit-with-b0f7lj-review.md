@@ -1,4 +1,5 @@
 ---
+
 title: "Deluxe Smoker Box for Gas Grilling - Complete BBQ Smoker Box"
 seo_title: "Deluxe Smoker Box for Gas Grilling Review (2026)"
 meta_description: "We tested the Deluxe Smoker Box for Gas Grilling. See if this complete BBQ smoker kit delivers real smoke flavor or just hype. Full review inside."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F7LJQLJT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91QwvfccI0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge stainless steel construction holds heat without warping or rusting after repeated use"
   - "Adjustable vent system lets you dial in smoke output — from subtle flavor to heavy billowing smoke"
   - "One-piece welded design with no seams means no leaking wood chips or ash into your burner"
-cons:
+cons: 
   - "Wood chips ignite slowly — expect 10-15 minutes before visible smoke starts, so plan ahead"
   - "Small capacity (roughly 1.5 cups) requires frequent refills for long cooks over 2 hours"
+
 ---
 
 # Deluxe Smoker Box for Gas Grilling — Does It Deliver Real Smoke Flavor?

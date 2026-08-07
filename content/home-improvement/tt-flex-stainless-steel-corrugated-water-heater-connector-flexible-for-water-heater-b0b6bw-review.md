@@ -1,4 +1,5 @@
 ---
+
 title: "TT FLEX Stainless Steel Corrugated Water Heater Connector Fl"
 seo_title: "TT FLEX Stainless Steel Corrugated Water Heater Co Review"
 meta_description: "Our full tt flex stainless steel corrugated water heater connector fl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B6BWRJPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bxwVo0wPS._AC_SL1050_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Designed for comfort during extended use"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A $15 part that saves a $2,000 flood

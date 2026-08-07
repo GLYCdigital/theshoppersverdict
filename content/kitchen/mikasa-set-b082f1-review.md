@@ -1,4 +1,5 @@
 ---
+
 title: "Mikasa Set"
 seo_title: "Mikasa Set Review: Verdict | TSV"
 meta_description: "Our full mikasa set review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B082F1TBCX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/514HWXqi-2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: when a cookware set carries a 4.6-star average from 229 reviews, I expect either exceptional performance or a price that makes compromises forgivable. The Mikasa Set — the one under the B082F1TBCX listing — lands closer to the former, but it's not without a few frustrating quirks worth knowing before you buy.

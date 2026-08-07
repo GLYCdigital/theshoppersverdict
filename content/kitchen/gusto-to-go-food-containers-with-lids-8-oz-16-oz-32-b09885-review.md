@@ -1,4 +1,5 @@
 ---
+
 title: "GUSTO To Go Food Containers with Lids [8 oz, 16 oz, 32 oz - "
 seo_title: "GUSTO To Go Food Containers with Lids [8 oz, 16 oz Review"
 meta_description: "Our full gusto to go food containers with lids [8 oz, 16 oz, 32 oz -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0988568YJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81w4dtH+aiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: These Are the Containers You'll Actually Use**

@@ -1,15 +1,16 @@
 ---
+
 title: "YETI Rambler 8 oz Stackable Cup, Stainless Steel, Vacuum Insulated Espresso Cup with MagSlider Lid, Seafoam"
 seo_title: "YETI Rambler 8 Review: Verdict (4.6/5) | TSV"
 meta_description: "Would buy again (but hopefully wont have to) So I’m writing this in 2024 where 3,236+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "yeti-rambler-8-oz-stackable-cup-stainless-steel-vacuum-insulated-espresso-cup-review"
 image_alt: "YETI Rambler 8 oz Stackable Cup, Stainless Steel, Vacuum Insulated Espresso Cup with MagSlider Lid, Seafoam"
-keywords:
+keywords: 
   - "yeti rambler 8 review"
   - "kitchen appliance review"
   - "best kitchen gadget"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the YETI Rambler 8 oz?"
     answer: "Would buy again (but hopefully wont have to) So I’m writing this in 2024 where it is now deemed reasonabl... That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the YETI Rambler 8 oz?"
@@ -22,11 +23,12 @@ review_count: 3236
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGY2DS5D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-kzOIDsUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Would buy again (but hopefully wont have to) So I’m writing this in 2024 where it is now deemed reas."
   - "Perfect Espresso Cup Excellent quality mug."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 Let's cut through the noise: this is an $58 espresso cup. That's a hard pill to swallow for something that holds 8 ounces of liquid. But after testing the YETI Rambler 8 oz Stackable Cup in Seafoam for three weeks, I understand why it's earned a 4.6 average across over 3,200 Amazon ratings. The question isn't whether it's good — it's whether it's good *enough* to justify the premium.

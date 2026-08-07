@@ -1,4 +1,5 @@
 ---
+
 title: "OJY&DOIIIY Swimbait Jig Heads with Chartreuse Fish Eye, 1/8 "
 seo_title: "OJY&DOIIIY Swimbait Jig Heads with Chartreuse Fish Review"
 meta_description: "Our full ojy&doiiiy swimbait jig heads with chartreuse fish eye, 1/8  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZJRX2HB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ffBBiQqwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $14 Swimbait Jig Head That Punching Above Its Weight — Mostly**

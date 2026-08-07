@@ -1,4 +1,5 @@
 ---
+
 title: "Great Big Roses Natural Compost Extract Fertilizer"
 seo_title: "Great Big Roses Natural Compost Extract Fertilizer Review"
 meta_description: "Our full great big roses natural compost extract fertilizer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07BNX9MBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fzWWbKYfL._AC_SL1254_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you want bigger, more abundant rose blooms without dumping synthetic chemicals on your garden, Great Big Roses Natural Compost Extract is worth serious consideration. This isn't a magic potion — it's a biologically rich compost tea concentrate that feeds the soil so your roses can feed themselves. At 4.6 stars across 229 ratings, it's one of the better-reviewed organic rose amendments on Amazon.

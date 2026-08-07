@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PG-275 XL/CL-276 XL Genuine Ink Value Pack (2 Cartridg"
 seo_title: "Canon PG-275 XL/CL-276 XL Review: Worth It? (2026)"
 meta_description: "Canon PG-275 XL/CL-276 XL genuine ink value pack review: page yields, print quality, cost per page, and whether OEM ink beats third-party."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GHGMRSN9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Genuine Canon ink means zero chip errors or firmware incompatibility issues — a real problem with refilled carts"
   - "XL yields deliver roughly 2x the pages of standard cartridges (600 black / 420 color) for about 30% more cost"
   - "Consistent color accuracy — skin tones and gradients stay true across print jobs, unlike generics that shift hues"
-cons:
+cons: 
   - "Price per page still stings at ~$0.07 for black — third-party alternatives cut that nearly in half"
   - "CL-276 XL color cartridge runs dry noticeably faster if you print photos or graphics-heavy documents"
   - "No shelf-life indicator on the packaging — old stock can underperform if it sat in a warehouse"
+
 ---
 
 Let me be blunt: buying printer ink feels like a scam most days. Third-party cartridges cost half as much but brick your printer with firmware updates. Refilled carts leak. And Canon's own ink? It's priced like printer blood. So when the PG-275 XL/CL-276 XL Value Pack landed at a 4.0-star average across 200 ratings, I wanted to know if the genuine stuff actually justifies the premium.

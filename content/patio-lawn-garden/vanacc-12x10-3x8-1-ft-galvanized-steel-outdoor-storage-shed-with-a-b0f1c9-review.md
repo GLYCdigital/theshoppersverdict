@@ -1,4 +1,5 @@
 ---
+
 title: "VanAcc 12x10.3x8.1 FT Galvanized Steel Outdoor Storage Shed "
 seo_title: "VanAcc 12x10.3x8.1 FT Galvanized Steel Outdoor Sto Review"
 meta_description: "Our full vanacc 12x10.3x8.1 ft galvanized steel outdoor storage shed  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0F1C9WZSG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91oOoutxJmL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VanAcc 12x10.3x8.1 FT Galvanized Steel Outdoor Storage Shed: Big Space, Big Caveats

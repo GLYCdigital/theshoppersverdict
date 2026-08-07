@@ -1,4 +1,5 @@
 ---
+
 title: "Mizuno CRBN1 Fastpitch Softball Bat"
 seo_title: "Mizuno CRBN1 Fastpitch Softball Bat Review: Verdict | TSV"
 meta_description: "Our full mizuno crbn1 fastpitch softball bat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFW2PJ1V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bqQQwDhcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Mizuno CRBN1 isn't the bat every fastpitch player should buy — it's the bat for the hitter who wants pop without selling out swing speed. In a market dominated by the big two (Louisville Slugger and Easton), Mizuno has quietly built a composite that rewards contact hitters and gap-smashers alike. Here's the real breakdown after digging through 229 ratings and buyer experiences.

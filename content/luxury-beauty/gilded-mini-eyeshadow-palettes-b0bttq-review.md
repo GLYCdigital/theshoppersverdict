@@ -1,4 +1,5 @@
 ---
+
 title: "Gilded Mini Eyeshadow Palettes"
 seo_title: "Gilded Mini Eyeshadow Palettes Review: Verdict | TSV"
 meta_description: "Our full gilded mini eyeshadow palettes review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BTTQWPJ4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715sanUbdwL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about mini palettes: most are either overpriced samples or cheap filler with one good shade. The Gilded Mini Eyeshadow Palettes (B0BTTQWPJ4) actually sidestep both traps. With 220 ratings holding a steady 4.4-star average, this is one of those rare luxury-adjacent finds that earns its keep — with a couple of honest caveats.

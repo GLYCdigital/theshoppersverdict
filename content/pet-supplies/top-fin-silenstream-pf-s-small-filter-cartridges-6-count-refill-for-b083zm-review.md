@@ -1,4 +1,5 @@
 ---
+
 title: "Top Fin Silenstream PF-S Small Filter Cartridges (6 Count) R"
 seo_title: "Top Fin Silenstream PF-S Small Filter Cartridges ( Review"
 meta_description: "Our full top fin silenstream pf-s small filter cartridges (6 count) r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083ZM9VNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81F6sgvOI3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Top Fin Silenstream PF-S Small Filter Cartridges (6 Count) Review: Reliable Filtration Without the Guesswork

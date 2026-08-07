@@ -1,23 +1,25 @@
 ---
+
 title: "Frontier Co-op Indian Sarsaparilla Root, Cut and Sifted, Loo"
 seo_title: "Frontier Co-op Indian Sarsaparilla Root Review (2026) | Cut & Sifted"
 meta_description: "Honest Frontier Co-op Indian Sarsaparilla Root review: cut & sifted quality, brewing tips, and who should buy. 4.7-star rating breakdown."
 slug: "frontier-co-op-indian-sarsaparilla-root-cut-and-sifted-loose-sarsaparilla-kosher-b0g345-review"
 image_alt: "Frontier Co-op Indian Sarsaparilla Root cut and sifted in a clear bag with kosher certification label"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3457B5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jFtn0-JVL._SL1500_.jpg"
-pros:  
+pros: 
   - "Consistent 1/8-inch cut that extracts evenly in decoctions or coffee blends"  
   - "Kosher-certified and non-irradiated — clean sourcing you can verify"  
   - "Strong, earthy root beer aroma that holds up in long simmering"  
-cons:  
+cons: 
   - "No brewing instructions on the bag — beginners will need outside guidance"  
   - "Loose cut means sediment unless you strain through a fine mesh or cloth"
+
 ---
 
 Most people buy sarsaparilla root expecting root beer flavor. What they don't expect is how much this Frontier Co-op cut actually *works* as a coffee-adjacent brewing ingredient. At 4.7 stars from 235 ratings, this isn't a novelty item — it's a staple for anyone who likes bitter, botanical depth in their mug.

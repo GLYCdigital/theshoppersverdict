@@ -1,4 +1,5 @@
 ---
+
 title: "Small Rainbow Foil Star Metallic Stickers for Kids Reward, 9"
 seo_title: "Small Rainbow Foil Star Metallic Stickers for Kids Review"
 meta_description: "Our full small rainbow foil star metallic stickers for kids reward, 9 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C1YZFD3X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u7udSyyBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

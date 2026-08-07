@@ -1,4 +1,5 @@
 ---
+
 title: "Westinghouse 165Hz Gaming Monitors"
 seo_title: "Westinghouse 165Hz Gaming Monitors Review: Verdict | TSV"
 meta_description: "Our full westinghouse 165hz gaming monitors review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVPQBNS8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gjJWeaknL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: The budget 165Hz monitor market is crowded with panels that promise speed but deliver washed-out colors and ghosting. The Westinghouse 165Hz gaming monitor sits in that same price bracket, yet with a 4.6/5 average across 229 Amazon ratings, it's clearly doing something right. Here's the real story after digging into specs, user feedback, and what you actually get for your money.

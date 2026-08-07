@@ -1,4 +1,5 @@
 ---
+
 title: "Newport Home Hand Soap, Wild Lavender and Rosemary Mint, 21."
 seo_title: "Newport Home Hand Soap, Wild Lavender and Rosemary Review"
 meta_description: "Our full newport home hand soap, wild lavender and rosemary mint, 21. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DL78V24K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812bQIO-P+L._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## This Is a Hand Soap That Understands Context

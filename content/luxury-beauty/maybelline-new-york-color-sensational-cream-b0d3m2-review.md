@@ -1,4 +1,5 @@
 ---
+
 title: "MAYBELLINE New York Color Sensational Cream"
 seo_title: "MAYBELLINE New York Color Sensational Cream Review: Verdi"
 meta_description: "Our full maybelline new york color sensational cream review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3M2586C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/517ovQ9dyRL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt about the "luxury" label. At drugstore pricing, the Maybelline Color Sensational Cream isn't competing with Tom Ford — but it's laughing all the way to the bank. With 225 Amazon ratings averaging 4.5 stars, this is one of those rare products where the buzz is actually earned. I've tested the formula across multiple shades, and here's the unvarnished truth.

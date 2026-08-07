@@ -1,4 +1,5 @@
 ---
+
 title: "PURRUGS Machine Washable Kitchen Rug, Non-Slip/Skid Kitchen "
 seo_title: "PURRUGS Machine Washable Kitchen Rug, Non-Slip/Ski Review"
 meta_description: "Our full purrugs machine washable kitchen rug, non-slip/skid kitchen  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVLLS615/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Pyg5zICfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "washable" rugs are a lie. You toss them in the machine once, and they come out curled at the edges, the backing peeling like a sunburn. The PURRUGS kitchen rug is one of the few that actually delivers on the promise. After 229 ratings averaging 4.6 stars, it's clear I'm not the only one who noticed.

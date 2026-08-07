@@ -1,4 +1,5 @@
 ---
+
 title: "Arcade1Up Mortal Kombat II Deluxe Arcade Machine"
 seo_title: "Arcade1Up Mortal Kombat II Deluxe Review (2026): Worth It?"
 meta_description: "Arcade1Up Mortal Kombat II Deluxe review: 4.6/5 rating. 17-inch screen, 2 games, riser included. Is this the best home arcade cab? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CTMDT8M7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "17-inch LCD screen is a genuine step up from the 8-inch countercades — text is legible, sprites look crisp"
   - "Two full games (MK II and MK I) plus a light-up marquee and riser included — no hidden add-on costs"
   - "Authentic 6-button fighter layout with proper concave buttons; joysticks are responsive for special moves"
-cons:
+cons: 
   - "No online play or leaderboards — this is strictly offline, which feels dated for a $400+ purchase"
   - "Assembly takes 60-90 minutes and the included instructions have a few confusing steps"
   - "Screen viewing angle is narrow; colors wash out if you're not standing dead-center"
+
 ---
 
 Let's get one thing straight: the Arcade1Up Mortal Kombat II Deluxe isn't just another nostalgia box. At 4.6 stars across 229 Amazon ratings, it's the closest most of us will get to the actual 1993 arcade cabinet without dropping five figures on a refurbished original. But "close" isn't "identical" — and the differences matter.

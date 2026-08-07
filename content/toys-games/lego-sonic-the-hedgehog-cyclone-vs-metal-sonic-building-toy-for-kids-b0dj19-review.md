@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Sonic The Hedgehog Cyclone vs. Metal Sonic - Building T"
 seo_title: "LEGO Sonic The Hedgehog Cyclone vs. Metal Sonic -  Review"
 meta_description: "Our full lego sonic the hedgehog cyclone vs. metal sonic - building t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJ19FPQG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lQUDFBvQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LEGO Sonic Cyclone vs. Metal Sonic set is the showdown fans have been waiting for — but it's not without a few loose screws.**

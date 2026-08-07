@@ -1,4 +1,5 @@
 ---
+
 title: "Living Proof Hydrated Hair Essentials Kit - Includes Travel "
 seo_title: "Living Proof Hydrated Hair Essentials Kit - Includ Review"
 meta_description: "Our full living proof hydrated hair essentials kit - includes travel  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DS6L3MJ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cS4RdkamL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Living Proof Hydrated Hair Essentials Kit: Does Science Beat the Price Tag?

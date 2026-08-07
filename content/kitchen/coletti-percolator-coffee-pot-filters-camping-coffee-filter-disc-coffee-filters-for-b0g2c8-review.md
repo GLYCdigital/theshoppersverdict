@@ -1,4 +1,5 @@
 ---
+
 title: "COLETTI Percolator Coffee Pot Filters – Camping Coffee Fil"
 seo_title: "COLETTI Percolator Coffee Filters Review (2026): Worth It?"
 meta_description: "Honest COLETTI percolator coffee pot filters review: fit, durability, and brew quality tested. See pros, cons, and who should buy these camping coffee discs."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2C8F37N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Z1pgrr8hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Reusable stainless steel mesh holds up to hundreds of brews without tearing or warping"
   - "Universal disc design fits most standard percolator baskets (4-12 cup models)"
   - "Fine 100-micron mesh keeps grounds out of your cup while letting oils through for fuller flavor"
-cons:
+cons: 
   - "Requires thorough rinsing immediately after use or coffee oils stain the mesh"
   - "Not a perfect seal on some off-brand percolators—can let fine silt past the edges"
+
 ---
 
 Let’s be honest: percolator coffee gets a bad rap. Most of that bitterness you remember from campfire mornings isn’t the brewing method—it’s the filter. Paper filters clog, tear, and disintegrate mid-brew. The COLETTI reusable percolator filters aim to fix that with a simple stainless steel disc. After digging through the specs and what 229 buyers had to say, here’s the real story.

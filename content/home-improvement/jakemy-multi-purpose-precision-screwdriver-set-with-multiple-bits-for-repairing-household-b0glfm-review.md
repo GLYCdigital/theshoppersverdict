@@ -1,4 +1,5 @@
 ---
+
 title: "JAKEMY Multi-Purpose Precision Screwdriver Set with Multiple"
 seo_title: "JAKEMY Multi-Purpose Precision Screwdriver Set wit Review"
 meta_description: "Our full jakemy multi-purpose precision screwdriver set with multiple review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GLFMXY7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tfutyZdDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4.5-Star Repair Kit That Actually Earns Its Place in Your Drawer

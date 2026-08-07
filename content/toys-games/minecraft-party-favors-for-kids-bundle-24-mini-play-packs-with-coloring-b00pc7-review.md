@@ -1,4 +1,5 @@
 ---
+
 title: "Minecraft Party Favors for Kids Bundle ~ 24 Mini Play Packs "
 seo_title: "Minecraft Party Favors for Kids Bundle ~ 24 Mini P Review"
 meta_description: "Our full minecraft party favors for kids bundle ~ 24 mini play packs  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00PC7AA74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8172gy9xdSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're planning a Minecraft-themed party, you already know the struggle: find party favors that don't look like cheap afterthoughts. This bundle of 24 mini play packs solves that problem — mostly. As shown in the product image, each box is a compact 6x4x1-inch cardboard pack with the iconic pixelated Creeper face on the front. The design is faithful to the game's aesthetic, not a watered-down knockoff.

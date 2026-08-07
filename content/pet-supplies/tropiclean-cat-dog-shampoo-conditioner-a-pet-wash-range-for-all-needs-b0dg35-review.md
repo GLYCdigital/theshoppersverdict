@@ -1,4 +1,5 @@
 ---
+
 title: "TropiClean Cat & Dog Shampoo & Conditioner, A Pet Wash Range"
 seo_title: "TropiClean Cat & Dog Shampoo & Conditioner, A Pet  Review"
 meta_description: "Our full tropiclean cat & dog shampoo & conditioner, a pet wash range review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DG35G4KQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813RJXFbxqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled a 60-pound dog into a tub only to realize you forgot the conditioner, the TropiClean 2-in-1 Shampoo & Conditioner makes a compelling argument for simplifying your pet care shelf. This isn't a fancy grooming-salon product — it's a workhorse wash designed for pet parents who want clean coats without a chemistry lesson.

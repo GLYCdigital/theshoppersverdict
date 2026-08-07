@@ -1,4 +1,5 @@
 ---
+
 title: "Keurig Water Filter Refill Cartridges, Replacement Water Fil"
 seo_title: "Keurig Water Filter Refill Cartridges, Replacement Review"
 meta_description: "Our full keurig water filter refill cartridges, replacement water fil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004JV8ZUS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61CMm6vwnmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most Keurig owners forget the water filter exists until their coffee starts tasting like the inside of a gym bag. If that’s you, these refill cartridges are the straightforward fix — but only if you understand what they actually do.

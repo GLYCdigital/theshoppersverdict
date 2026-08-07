@@ -1,4 +1,5 @@
 ---
+
 title: "EASY CHEESE American Cheese Snack, 12 - 8 oz Cans"
 seo_title: "EASY CHEESE American Cans Review: 12-Pack Worth It?"
 meta_description: "EASY CHEESE American Cheese Snack 12-pack review: taste, texture, value, and real buyer feedback. Is this pantry staple worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00IO2GM8U/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81vVvYFbabL._SL1500_.jpg"
-pros:
+pros: 
   - "Twelve cans at roughly $2 per can when bought in bulk — about half the price of single-can retail"
   - "Instant cheese sauce straight from the nozzle — no melting, no microwave, no cleanup"
   - "Long shelf life (unopened) makes it a legit emergency pantry item, not just a snack"
-cons:
+cons: 
   - "Processed cheese flavor is unmistakably artificial — this is not a gourmet product and never will be"
   - "Cans require refrigeration after opening and only last a few weeks once opened"
+
 ---
 
 Let's be honest about what this is: EASY CHEESE is not cheese. It's a shelf-stable, sprayable cheese-flavored emulsion that has been a pantry oddity since the 1960s. But if you're here, you already know that. The real question is whether buying it by the dozen makes sense.

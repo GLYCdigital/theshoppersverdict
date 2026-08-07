@@ -1,4 +1,5 @@
 ---
+
 title: "JFLLAJNF Plant Watering Globes-4pcs Self Watering Planter In"
 seo_title: "JFLLAJNF Plant Watering Globes-4pcs Self Watering  Review"
 meta_description: "Our full jfllajnf plant watering globes-4pcs self watering planter in review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CVXDF8YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rzNdse-UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most self-watering gadgets are plastic junk that break in a season. The JFLLAJNF Plant Watering Globes are different — they're actual glass, and that matters more than you'd think.

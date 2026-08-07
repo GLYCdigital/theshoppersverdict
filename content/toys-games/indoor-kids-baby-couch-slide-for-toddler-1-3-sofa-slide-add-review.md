@@ -1,13 +1,14 @@
 ---
+
 title: "Indoor Kids Baby Couch Slide for Toddler 1-3, Sofa Slide Add-on Attachment for Bed Nugget Playgrounds, with Secure Base Guardrail, Gentle Slope Extended Buffer Zone, Fun Car Design, Blue"
 seo_title: "Indoor Kids Baby Review: Verdict (4.4/5) | TSV"
 meta_description: "Lots of fun for a toddler, safe height from a couch, sturdy material, highly 363+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "indoor-kids-baby-couch-slide-for-toddler-1-3-sofa-slide-add-review"
 image_alt: "Indoor Kids Baby Couch Slide for Toddler 1-3, Sofa Slide Add-on Attachment for Bed Nugget Playgrounds, with Secure Base "
-keywords:
+keywords: 
   - "indoor kids baby review"
 verdict_score: 4.2
-faq:
+faq: 
   - question: "What do buyers like most about the Indoor Kids Baby Couch?"
     answer: "Lots of fun for a toddler, safe height from a couch, sturdy material, highly recommend That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Indoor Kids Baby Couch?"
@@ -21,12 +22,13 @@ review_count: 363
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BS24W8H7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81o3cK-t0VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lots of fun for a toddler, safe height from a couch, sturdy material."
   - "It’s pretty sturdy."
   - "We had it a few inches below the recommended height and she wasn’t going down as fast as she would h."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **The $80 question: Does your toddler actually need a slide bolted onto a couch they already climb on?**

@@ -1,4 +1,5 @@
 ---
+
 title: "EDISHINE 64 inch  Corner Shelf Floor Lamp for Living Room, Modern"
 seo_title: "EDISHINE 64 inch  Corner Shelf Floor Lamp Review (2026) | Honest"
 meta_description: "EDISHINE 64 inch  corner shelf floor lamp review: 4.3/5 rated. Tested for stability, light output & assembly. See pros, cons & who should buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DXKKTY24/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81tTO+nS+JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three solid engineered wood shelves support up to ~11 lbs each — real display space, not a gimmick"
   - "Dual-head LED light bar with 3 color temperatures (3000K/4500K/6000K) and foot-switch control"
   - "Corner-fitting triangular footprint maxes out dead space without consuming floor area"
-cons:
+cons: 
   - "Assembly requires a Phillips screwdriver and patience — 20+ screws, no pre-drilled pilot holes on some brackets"
   - "LED light bar is integrated, not replaceable — when it dies (est. 25,000 hrs), you lose the lighting function"
   - "Lamp shade is thin polycarbonate; scratches easily if you're rough during setup"
+
 ---
 
 **Bottom line up front:** The EDISHINE 64" Corner Shelf Floor Lamp is a space-saving hybrid that actually works. It's not a premium piece, but for under $70 (typical street price), it turns a dead corner into lit, usable storage. Here's the honest breakdown after digging through specs and 215 verified ratings.

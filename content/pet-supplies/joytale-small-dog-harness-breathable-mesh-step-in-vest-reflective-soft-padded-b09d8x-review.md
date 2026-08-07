@@ -1,4 +1,5 @@
 ---
+
 title: "Joytale Small Dog Harness, Breathable Mesh Step-in Vest, Ref"
 seo_title: "Joytale Small Dog Harness, Breathable Mesh Step-in Review"
 meta_description: "Our full joytale small dog harness, breathable mesh step-in vest, ref review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09D8XKSQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xpy7-m4CL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about small dog harnesses: most are either too bulky, too flimsy, or a nightmare to put on a wiggly 10-pound terror. The Joytale Small Dog Harness tries to solve all three problems at once. Here's how it actually holds up.

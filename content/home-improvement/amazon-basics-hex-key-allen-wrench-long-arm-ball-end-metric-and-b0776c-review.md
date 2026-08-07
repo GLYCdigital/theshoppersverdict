@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Hex Key Allen Wrench, Long Arm, Ball End, Metr"
 seo_title: "Amazon Basics Hex Key Allen Wrench Review: Metric Set"
 meta_description: "Amazon Basics metric hex key set review: long-arm ball-end design, 4.7-star rating. Is it worth it? We break down build quality, feel, and value."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0776C2D6H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fpec4E0zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ball-end design allows up to 25-degree angled access — essential for recessed or obstructed fasteners"
   - "Long-arm profile delivers serious torque leverage for the price point"
   - "Color-coded, labeled holder keeps metric sizes organized and easy to grab"
-cons:
+cons: 
   - "Chrome vanadium steel is decent but won't match the edge retention of premium S2 or CR-V alloys in high-wear use"
   - "Loose ball-end on smaller sizes can strip soft fasteners if you lean hard off-axis"
+
 ---
 
 If you've ever cursed a recessed socket screw while balancing on a step stool, you already know why the ball-end hex wrench exists. The Amazon Basics Long Arm Ball End Metric set is the budget-friendly answer to a problem that premium brands charge three times as much to solve. With 235 ratings averaging 4.7 stars, this set has clearly found its audience — but is it your next shop purchase or just another drawer filler?

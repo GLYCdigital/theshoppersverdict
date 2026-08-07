@@ -1,23 +1,25 @@
 ---
+
 title: "Cuisinart Elite Griddler Review: 6-in-1 Versatility Tested"
 seo_title: "Cuisinart Elite Griddler Review: 6-in-1 Cooker Worth It?"
 meta_description: "Read our hands-on Cuisinart Elite Griddler review. We test the 6-in-1 grill, griddle, and press. See real pros, cons, and who should buy it."
 slug: "cuisinart-elite-griddler-b0glpk-review"
 image_alt: "Cuisinart Elite Griddler with floating hinge, reversible non-stick plates, and drip tray in brushed stainless steel"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GLPKW5C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516HNu2r6TL._AC_SL1024_.jpg"
-pros:  
+pros: 
   - "Truly flat floating hinge — presses thick sandwiches and roasts evenly without crushing"  
   - "Reversible non-stick plates swap between flat griddle and deep ridged grill in seconds"  
   - "Dual-zone temperature controls let you cook breakfast and dinner at different heats simultaneously"  
-cons:  
+cons: 
   - "Heavy at nearly 15 pounds — not a cabinet-yanker, but a dedicated countertop spot helps"  
   - "Drip tray is shallow; fatty burgers can overflow if you don't empty it mid-cook"
+
 ---
 
 # Cuisinart Elite Griddler Review: The 6-in-1 Workhorse That Earns Counter Space

@@ -1,4 +1,5 @@
 ---
+
 title: "Garvot Plug in Pendant Light Rattan Hanging Lamp, Rattan Pen"
 seo_title: "Garvot Rattan Pendant Light Review: Boho Plug-In Lamp"
 meta_description: "Garvot plug-in rattan pendant light review: boho woven shade, easy no-wire install, 4.7 stars. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRS5DQWY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/71hlLDHJKHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True plug-in design — no electrician needed, installs in under 10 minutes with just a hook or ceiling mount"
   - "Hand-woven rattan shade casts a warm, textured glow that instantly upgrades a plain room"
   - "Adjustable cord length (roughly 6-8 feet of usable drop) fits most ceiling heights"
-cons:
+cons: 
   - "Bulb not included — you'll need to buy a separate Edison or LED bulb (E26 base)"
   - "Cord is visible if you don't route it cleanly, which kills the 'hardwired' look some buyers expect"
   - "Rattan is natural material — expect minor color variation and a slight smell that fades in a few days"
+
 ---
 
 Let's be blunt: most plug-in pendant lights look like a college dorm hack. The Garvot rattan pendant is not that. It's the rare fixture that delivers the boho, organic-modern look you see in designer catalogs without requiring you to cut into your ceiling or hire an electrician. At 4.7 stars from 235 buyers, it's clearly doing something right. Here's the honest breakdown.

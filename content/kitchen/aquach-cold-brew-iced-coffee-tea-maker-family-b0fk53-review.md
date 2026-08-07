@@ -1,4 +1,5 @@
 ---
+
 title: "Aquach Cold Brew Iced Coffee Tea Maker Family"
 seo_title: "Aquach Cold Brew Iced Coffee Tea Maker Review (2026)"
 meta_description: "Aquach Cold Brew Iced Coffee Tea Maker review: 4.6-star rated 68oz pitcher. Tested for strength, clarity, and cleanup. Who should buy, who should skip."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FK53V875/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SC2KeiHUL._AC_SL1056_.jpg"
-pros:
+pros: 
   - "Extra-fine 304 stainless steel mesh filter catches nearly all sediment — no gritty sludge at the bottom of your glass"
   - "68oz (2-liter) capacity actually fits a full week of daily cold brew for one, or a weekend for a family of four"
   - "Airtight silicone-sealed lid keeps coffee fresh for up to 7 days without absorbing fridge odors"
-cons:
+cons: 
   - "Glass pitcher is heavy (about 4.5 lbs full) and requires careful handling — not ideal for clumsy hands or kids"
   - "Coarse-ground coffee can slip through the mesh if you over-grind; you'll need a medium-coarse setting for best results"
   - "No measuring markings on the pitcher — you'll need your own ratios or the included recipe card"
+
 ---
 
 **The Short Version: Is This Worth Your Counter Space?**

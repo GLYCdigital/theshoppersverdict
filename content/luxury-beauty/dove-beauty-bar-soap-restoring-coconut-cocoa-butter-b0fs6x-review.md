@@ -1,4 +1,5 @@
 ---
+
 title: "Dove Beauty Bar Soap Restoring Coconut & Cocoa Butter"
 seo_title: "Dove Beauty Bar Restoring Coconut & Cocoa Butter Review"
 meta_description: "Honest Dove Beauty Bar Restoring review: Does the coconut & cocoa butter formula deliver soft skin? We break down pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS6XM2TB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71unt5QIWkL._SL1500_.jpg"
-pros:
+pros: 
   - "Noticeably softer, more hydrated skin after just a few washes — the cocoa butter and coconut oil actually do something"
   - "Rich, warm scent that lingers subtly on skin without being overpowering or perfumey"
   - "Gentle enough for daily use on sensitive skin; no tight, stripped feeling after rinsing"
-cons:
+cons: 
   - "The bar softens quickly if left in standing water — you'll need a draining soap dish"
   - "Coconut scent is subtle; if you want a strong tropical fragrance, this isn't it"
+
 ---
 
 Let me be direct: a bar of soap that costs a few dollars shouldn't outperform half the body washes in my shower, but here we are. Dove's Restoring Coconut & Cocoa Butter bar has been a quiet workhorse in the skincare aisle for years, and this iteration keeps the formula that earned it a 4.7-star average across 235+ ratings.

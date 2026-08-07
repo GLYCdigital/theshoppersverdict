@@ -1,4 +1,5 @@
 ---
+
 title: "Flash Furniture"
 seo_title: "Flash Furniture Patio Review: Honest 2026 Buyer's Guide"
 meta_description: "Flash Furniture patio set review: 4.3/5 from 215 shoppers. Real pros, cons, and who should buy. Honest verdict before you spend."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C8B8GRML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sB8HWrZjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid steel frame with powder-coated finish resists rust better than most at this price point"
   - "Cushions feature removable, washable covers — a genuinely useful feature for outdoor use"
   - "Assembly takes under 30 minutes with clearly labeled hardware and included tools"
-cons:
+cons: 
   - "Cushions are on the firmer side — not plush enough for marathon lounging sessions"
   - "Frame shows minor scratches if dragged across concrete; lift rather than slide"
   - "Color accuracy varies slightly from product photos, especially in the darker finish options"
+
 ---
 
 **Is this the patio set that actually holds up?** With 215 ratings averaging 4.3 stars, Flash Furniture's outdoor line has clearly found an audience. But as anyone who's bought patio furniture knows, the first summer is always optimistic — the real test comes in year two. Here's what you need to know before adding this to your cart.

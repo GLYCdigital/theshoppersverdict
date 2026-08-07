@@ -1,4 +1,5 @@
 ---
+
 title: "New Zealand Honey Co. Pure Manuka Honey UMF 20+ Squeezy | 50"
 seo_title: "New Zealand Honey Co. Pure Manuka Honey UMF 20+ Sq Review"
 meta_description: "Our full new zealand honey co. pure manuka honey umf 20+ squeezy | 50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP2MHKQM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61N2w7miZyL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's get this out of the way: if you're looking for a cheap drizzle for your oatmeal, this isn't it. The New Zealand Honey Co. Pure Manuka Honey UMF 20+ is a medicinal-grade product with a price tag to match. But for shoppers who understand what UMF 20+ actually means, this squeeze bottle delivers legitimate value.

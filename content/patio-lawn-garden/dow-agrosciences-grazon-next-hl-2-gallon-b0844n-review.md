@@ -1,4 +1,5 @@
 ---
+
 title: "Dow AgroSciences Grazon Next HL 2 Gallon"
 seo_title: "Grazon Next HL Review: Best Pasture Weed Killer?"
 meta_description: "Read our Grazon Next HL 2-gallon review. Does this Dow AgroSciences herbicide deliver pasture-clearing results? Real pros, cons, and buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0844NY4WD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-IQH-rONL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Kills over 100 broadleaf weeds including thistles, ragweed, and horsenettle without harming established grasses"
   - "Rainfast in as little as 4 hours — you don't lose the application to an afternoon shower"
   - "2-gallon jug covers up to 8 acres at the standard 1 pint/acre rate, making it cost-effective for larger properties"
-cons:
+cons: 
   - "Not labeled for use on food plots or gardens — vegetation you want to keep will die too"
   - "2,4-D ester formulation means it's volatile near susceptible crops; don't spray on windy days"
+
 ---
 
 # Dow AgroSciences Grazon Next HL 2-Gallon: The Pasture Cleanup Workhorse

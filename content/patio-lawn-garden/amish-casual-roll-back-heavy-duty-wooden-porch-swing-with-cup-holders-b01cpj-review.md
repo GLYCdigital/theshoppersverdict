@@ -1,4 +1,5 @@
 ---
+
 title: "Amish Casual Roll Back Heavy Duty Wooden Porch Swing with Cup Holders"
 seo_title: "Amish Casual Roll Back Porch Swing Review (2026): Worth It?"
 meta_description: "Honest Amish Casual Roll Back porch swing review: build quality, comfort, cup holders, and weight limits. See if this 4.7-star swing fits your patio."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01CPJATTU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61AAG4qcWBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hardwood construction (not pine or particleboard) with mortise-and-tenon joinery that actually holds up to daily use"
   - "Generous 48-inch seat width fits two adults comfortably without the shoulder-bumping most swings have"
   - "Integrated cup holders are deep enough for standard 12-oz cans but don't interfere with legroom"
-cons:
+cons: 
   - "Assembly requires two people and a power drill — the pre-drilled holes align well, but the included hardware is basic"
   - "The 'roll back' feature has a learning curve; it doesn't glide as smoothly as a traditional curved runner on carpeted porches"
   - "No weatherproofing included — you'll need to apply sealant within the first month or the wood will gray"
+
 ---
 
 **Opening Hook: The Porch Swing That Actually Feels Like Furniture, Not a Kit**

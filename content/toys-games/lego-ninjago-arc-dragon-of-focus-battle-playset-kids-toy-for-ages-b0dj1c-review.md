@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO NINJAGO Arc Dragon of Focus Battle Playset - Kids Toy f"
 seo_title: "LEGO NINJAGO Arc Dragon of Focus Battle Playset -  Review"
 meta_description: "Our full lego ninjago arc dragon of focus battle playset - kids toy f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DJ1CJ6KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817hwqE2jeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kid has been begging for a NINJAGO set that's actually *cool* — not just another mech or spinner — this Arc Dragon delivers. It's the centerpiece of the 2025 NINJAGO Dragons Rising line, and after 240 Amazon ratings averaging 4.8 stars, it's clear this one hits differently.

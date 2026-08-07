@@ -1,4 +1,5 @@
 ---
+
 title: "HOOBRO Kitchen Island with Power Outlet, Kitchen Storage Isl"
 seo_title: "HOOBRO Kitchen Island with Power Outlet, Kitchen S Review"
 meta_description: "Our full hoobro kitchen island with power outlet, kitchen storage isl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4SMPF7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PeK3r4ArL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your kitchen is running out of counter space and outlets, the HOOBRO Kitchen Island with Power Outlet is aiming straight at your problem. This isn't a fancy butcher-block statement piece — it's a working cart designed for apartments, small homes, and anyone who needs more functional surface area without gutting their kitchen. With 225 ratings averaging 4.5 stars, it's clearly earning its keep. Here's the real breakdown.

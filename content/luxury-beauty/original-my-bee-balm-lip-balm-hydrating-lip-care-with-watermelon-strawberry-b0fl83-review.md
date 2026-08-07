@@ -1,4 +1,5 @@
 ---
+
 title: "Original My Bee Balm Lip Balm â€“ Hydrating Lip Care with Wa"
 seo_title: "Original My Bee Balm Lip Balm â€“ Hydrating Lip Ca Review"
 meta_description: "Our full original my bee balm lip balm â€“ hydrating lip care with wa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FL83K44N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nP0JrbnmL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The lip balm aisle is a graveyard of good intentions. Tubes that slide off your nightstand, formulas that evaporate by lunch, and that weird waxy film that makes you want to wipe your mouth. The Original My Bee Balm Lip Balm claims to skip all that. After digging through 225 ratings and the ingredient list, here's the real story.

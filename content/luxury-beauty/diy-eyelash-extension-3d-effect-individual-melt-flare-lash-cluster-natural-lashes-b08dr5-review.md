@@ -1,4 +1,5 @@
 ---
+
 title: "DIY Eyelash Extension, 3D Effect Individual Melt Flare Lash"
 seo_title: "DIY Eyelash Extension Review: 3D Melt Flare Lashes Tested"
 meta_description: "Honest review of DIY 3D Effect Individual Melt Flare Lashes. See how these cluster lashes perform, last, and compare to salon extensions."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08DR5DTQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71f7gJJwIqL._SL1500_.jpg"
-pros:
+pros: 
   - "Melt flare design blends seamlessly with natural lashes — no obvious 'strip lash' line"
   - "Each cluster traps 3-5 individual lashes for a full, wispy 3D effect without clumping"
   - "Lightweight synthetic fibers won't weigh down straight or hooded eyelids"
-cons:
+cons: 
   - "Adhesive not included — requires separate purchase of a quality lash glue"
   - "Learning curve for first-time users; application takes 20-30 minutes initially"
   - "Clusters can shift if you sleep face-down or apply heavy eye creams"
+
 ---
 
 **The Short Version: Salon-Look Lashes Without the $150 Tab**

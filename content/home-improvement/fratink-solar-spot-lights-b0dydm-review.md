@@ -1,4 +1,5 @@
 ---
+
 title: "Fratink Solar Spot Lights"
 seo_title: "Fratink Solar Spot Lights Review: Bright, Durable, Worth It?"
 meta_description: "Fratink Solar Spot Lights review: 4.2-star rated outdoor lighting. Tested for brightness, build, and battery life. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYDM6916/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mv45ED4KL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "IP65 waterproof housing with die-cast aluminum body that survives rain, snow, and direct sun without cracking"
   - "Adjustable 3-head design with 180° rotation on each panel — covers wide areas without buying extra units"
   - "Battery life holds 8-10 hours on a full charge, even in cloudy conditions, per multiple verified buyer reports"
-cons:
+cons: 
   - "Plastic mounting stakes feel flimsy compared to the metal lamp heads — they can bend when pushed into hard soil"
   - "Light output drops noticeably after ~2 years of daily use; replacement batteries are hard to source separately"
+
 ---
 
 ## Fratink Solar Spot Lights: Solid Outdoor Lighting That Won't Break the Bank

@@ -1,23 +1,25 @@
 ---
+
 title: "3 Step Lightweight Folding Ladder for Home"
 seo_title: "3 Step Lightweight Folding Ladder Review: Solid & Compact"
 meta_description: "Honest 3 Step Lightweight Folding Ladder review: sturdy, portable, and easy to store. See real pros, cons, and who should buy it before you spend."
 slug: "3-step-lightweight-folding-ladder-for-home-b0fhq1-review"
 image_alt: "Compact 3-step folding ladder standing upright in a home hallway with a person reaching a high shelf"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 235  
-amazon_rating: 4.7  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 235
+amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FHQ1T94D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eB4BsbLJL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Folds down to a slim profile—roughly the width of a laptop—so it tucks behind doors or in closets"  
   - "Rated for 330 lbs, which is unusually high for a 3-step ladder in this price class"  
   - "Wide, slip-resistant treads with a locking hinge that feels secure when stepping up"  
-cons:  
+cons: 
   - "No built-in tool tray or top platform—just a flat top step, so you'll need a pocket or magnetic holder"  
   - "Rubber feet are grippy but can mark light-colored floors if you drag it instead of lifting"
+
 ---
 
 If you’ve ever balanced on a wobbly kitchen chair to change a lightbulb or grabbed a step stool that flexed under your weight, this 3-step ladder is the upgrade you didn’t know you needed. It’s not flashy, but it solves the exact problem most home ladders fail at: being solid enough to trust, yet light enough to actually use.

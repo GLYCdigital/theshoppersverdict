@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN Tool Organizer, 2-Packs with 14-Compartments, Lid"
 seo_title: "CRAFTSMAN 14-Compartment Tool Organizer 2-Pack Review"
 meta_description: "CRAFTSMAN's 14-compartment tool organizer 2-pack: solid build, clear lid, secure latch. We tested it. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWVBZXT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71pGX93XmmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Two organizers per pack — genuine value, not a single box with marketing spin"
   - "Clear, impact-resistant lid lets you see contents without opening (no more digging)"
   - "Central latch clicks shut with authority; doesn't pop open in a loaded toolbox"
-cons:
+cons: 
   - "Lid's living hinge will eventually fatigue — expect a couple years of heavy use, not a lifetime"
   - "Smaller compartments are tight for bulkier fasteners like 3-inch screws or large anchors"
+
 ---
 
 If you've ever dumped a drawer of mixed screws, anchors, and random fittings onto a bench just to find one 10-24 nut, you already know the pain this organizer solves. The CRAFTSMAN 14-compartment organizer 2-pack is a straightforward fix for that chaos — and at roughly $20 for two boxes, it's the kind of purchase you'll wonder why you didn't make years ago.

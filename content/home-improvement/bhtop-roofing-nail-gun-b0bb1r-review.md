@@ -1,4 +1,5 @@
 ---
+
 title: "BHTOP ROOFING NAIL GUN"
 seo_title: "BHTOP Roofing Nail Gun Review: Honest Verdict (2026)"
 meta_description: "BHTOP roofing nail gun review: performance, jamming issues, build quality. Real buyer feedback on this 3.6-star coil nailer. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0BB1RPD12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61svewZF5hL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Full metal housing and lightweight 7.5 lb design reduce fatigue on long roof days"
   - "Tool-free depth adjustment lets you dial in nail depth without stopping to grab a wrench"
   - "360-degree adjustable exhaust redirects air away from your face and debris away from the work surface"
-cons:
+cons: 
   - "Jamming is the #1 repeated complaint — misfeeds happen on both 15-degree and 30-degree coils, and clearing them takes time"
   - "Requires an air compressor with at least 4.2 CFM @ 90 PSI — underpowered shop compressors will starve it"
   - "No belt hook or carrying case included; you'll spend extra on a case and likely a rebuild kit down the road"
+
 ---
 
 # BHTOP Roofing Nail Gun Review: Budget Coil Nailer With a Catch

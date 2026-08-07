@@ -1,4 +1,5 @@
 ---
+
 title: "Landscape Rock"
 seo_title: "Landscape Rock Review: Verdict | TSV"
 meta_description: "Our full landscape rock review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F2BC98BQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Io9EY1S6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct about landscape rock: it’s not glamorous, but it’s one of those purchases that either transforms your yard or becomes a regret you stare at for years. This particular product, sitting at 4.6 stars across 229 ratings, has clearly done something right. Here’s the honest breakdown.

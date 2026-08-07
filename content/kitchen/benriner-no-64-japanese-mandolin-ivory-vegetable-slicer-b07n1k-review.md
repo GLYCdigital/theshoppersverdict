@@ -1,4 +1,5 @@
 ---
+
 title: "Benriner No. 64 Japanese Mandolin Ivory Vegetable Slicer"
 seo_title: "Benriner No. 64 Mandolin Review: Sharp Japanese Slicer"
 meta_description: "Honest Benriner No. 64 mandolin review: razor-sharp Japanese blades, 3 thickness settings, safety guard. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07N1K6R1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Oz9qZMR8L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Razor-sharp Japanese stainless steel blade that stays keen through heavy use — no dragging or tearing on tomatoes or citrus"
   - "Three adjustable thickness settings (1mm, 2mm, 3mm) give real control for everything from paper-thin radish rounds to heartier potato planks"
   - "Compact 13-inch body with a textured grip handle that feels secure even with wet hands"
-cons:
+cons: 
   - "The included safety guard is flimsy — it doesn't hold smaller items like garlic cloves or shallots securely, and you'll want a cut-resistant glove anyway"
   - "No julienne blade included; this is a straight slicer only, so if you want matchsticks you'll need to buy the separate attachment"
+
 ---
 
 If you've ever wrestled with a dull, flimsy mandoline that squashes a tomato instead of slicing it, the Benriner No. 64 is the product that makes you wonder why you waited so long. This is the slicer that professional kitchens have quietly relied on for decades — not because it's trendy, but because it simply works. And at a price point that undercuts most Western-brand mandolines by half, it's arguably the best value in the category right now.

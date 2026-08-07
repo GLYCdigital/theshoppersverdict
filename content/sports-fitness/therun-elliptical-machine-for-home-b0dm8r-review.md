@@ -1,4 +1,5 @@
 ---
+
 title: "THERUN Elliptical Machine for Home"
 seo_title: "THERUN Elliptical Machine for Home Review: Verdict | TSV"
 meta_description: "Our full therun elliptical machine for home review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DM8RS776/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/614R9HMVXOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The THERUN elliptical sits in a crowded category: budget-friendly magnetic ellipticals that promise gym-quality cardio without the gym membership. After digging through 200 ratings and the spec sheet, here's what actually matters.

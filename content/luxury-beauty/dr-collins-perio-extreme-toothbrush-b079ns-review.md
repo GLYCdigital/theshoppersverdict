@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Collins Perio Extreme Toothbrush"
 seo_title: "Dr. Collins Perio Extreme Toothbrush Review (2026): Worth It?"
 meta_description: "Dr. Collins Perio Extreme Toothbrush review: 4.6-star rated. We tested the ultra-soft bristles, handle grip, and gum health claims. Is it worth $12?"
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079NSV1K5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CYaucz6LL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-soft 0.01mm tapered bristles reach deep into the gumline without irritation — verified by multiple buyers with sensitive gums"
   - "Ergonomic non-slip handle with textured grip works wet or dry, even with toothpaste foam"
   - "Compact 1-inch brush head reaches posterior molars and behind wisdom teeth better than standard heads"
-cons:
+cons: 
   - "Bristles wear down faster than firmer brushes — expect replacement every 4-6 weeks with heavy brushing"
   - "No travel cap included, so the ultra-soft bristles can bend in a toiletry bag"
+
 ---
 
 **Is a $12 toothbrush actually worth it?** That's the question circling the Dr. Collins Perio Extreme, a brush that's carved out a serious following among gum-health obsessives and dental hygienists. With 229 ratings holding steady at 4.6 stars, it's not a gimmick. But it's also not a universal fit — and here's what you need to know before you commit.

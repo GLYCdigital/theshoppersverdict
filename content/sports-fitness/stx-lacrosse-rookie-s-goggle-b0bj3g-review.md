@@ -1,4 +1,5 @@
 ---
+
 title: "STX Lacrosse Rookie-S Goggle"
 seo_title: "STX Lacrosse Rookie-S Goggle Review: Verdict | TSV"
 meta_description: "Our full stx lacrosse rookie-s goggle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJ3GTXZ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FoLfQrqfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a youth lacrosse goggle, you've probably noticed the market splits into two camps: cheap plastic frames that shatter on impact, and pro-level cages that cost more than a new stick. The STX Rookie-S sits in the middle, and after combing through 229 verified buyer experiences, here's the honest breakdown.

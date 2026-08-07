@@ -1,4 +1,5 @@
 ---
+
 title: "NEWBANG 2016 Set Handleset"
 seo_title: "NEWBANG 2016 Set Handleset Review: Verdict | TSV"
 meta_description: "Our full newbang 2016 set handleset review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CBV3975S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uF7ABRf4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: a handleset that costs less than a tank of gas usually feels like it. The NEWBANG 2016 Set Handleset, hovering around the $40 mark, doesn't completely defy that expectation — but it gets closer than you'd think. With 204 ratings averaging 4.1 stars, it's clearly doing something right for budget-conscious homeowners. The question is whether that something includes you.

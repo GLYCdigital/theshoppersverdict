@@ -1,4 +1,5 @@
 ---
+
 title: "Airynee Vanity Desk with Mirror and Light, 9 Drawers Makeup"
 seo_title: "Airynee Vanity Desk Review: 9 Drawers, Lights, Worth It?"
 meta_description: "Honest Airynee vanity desk review: 9 drawers, LED mirror, build quality, assembly, and real buyer feedback. Is this makeup desk worth your money?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DZWTQS3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71axHhm+ECL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Nine functional drawers provide genuinely ample storage for makeup, skincare, and accessories without needing extra organizers"
   - "Built-in LED mirror with adjustable brightness levels eliminates the need for separate vanity lighting"
   - "Sturdy engineered wood construction holds up well under daily use when assembled correctly"
-cons:
+cons: 
   - "Assembly is time-intensive (multiple buyers report 2+ hours) with some alignment issues on drawer tracks"
   - "Lighting is bright white only — no warm tone option, which can feel clinical for some users"
   - "The included stool is basic and lacks padding; most buyers replace it within weeks"
+
 ---
 
 Let's be direct: a vanity with nine drawers and an integrated LED mirror sounds like the dream setup. The Airynee delivers on storage capacity, but the 3.9-star average across 195 ratings tells you there's nuance here. This isn't a "buy it and forget it" piece — it's a "buy it, assemble it carefully, and respect its limits" piece.

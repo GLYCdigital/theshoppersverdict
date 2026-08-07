@@ -1,4 +1,5 @@
 ---
+
 title: "Moen 87014SRS Essie Pull-Down Sprayer Kitchen Faucet in Spot"
 seo_title: "Moen 87014SRS Essie Pull-Down Sprayer Kitchen Fauc Review"
 meta_description: "Our full moen 87014srs essie pull-down sprayer kitchen faucet in spot review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C746GG4C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613n05jqSbL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the Moen Essie Worth Your Kitchen Remodel Budget?

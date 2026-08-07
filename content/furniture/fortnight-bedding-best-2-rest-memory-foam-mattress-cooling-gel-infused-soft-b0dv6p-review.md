@@ -1,4 +1,5 @@
 ---
+
 title: "FORTNIGHT BEDDING Best 2 Rest Memory Foam Mattress Cooling G"
 seo_title: "FORTNIGHT BEDDING Best 2 Rest Mattress Review (2026)"
 meta_description: "Honest FORTNIGHT BEDDING Best 2 Rest Memory Foam Mattress review: cooling gel, firmness, off-gassing, and who should buy it. Real buyer insights."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DV6PDY8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jtGXmF28L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Gel-infused top layer actually sleeps cooler than standard memory foam — multiple buyers confirm reduced night sweats"
   - "Zero motion transfer makes it a solid pick for couples with different sleep schedules"
   - "Compressed roll delivery means it fits through narrow staircases and apartment hallways with zero hassle"
-cons:
+cons: 
   - "Off-gassing smell lingers 2-4 days despite the brand's 'low VOC' claims — plan ventilation time before sleeping on it"
   - "Edge support is noticeably weak; sitting on the corner causes significant sinkage"
+
 ---
 
 # FORTNIGHT BEDDING Best 2 Rest Memory Foam Mattress: Does the Cooling Gel Actually Work?

@@ -1,4 +1,5 @@
 ---
+
 title: "INFINITIPRO BY CONAIR 1 3/4-inch Curling Iron"
 seo_title: "INFINITIPRO BY CONAIR 1 3/4-inch Curling Iron Review: Ver"
 meta_description: "Our full infinitipro by conair 1 3/4-inch curling iron review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GLH6QHSY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Wn6POuNbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise. The INFINITIPRO BY CONAIR 1 3/4-inch curling iron is not a gimmick. It’s a purpose-built tool for one specific job: creating loose, bouncy, salon-style waves on medium to thick hair. And for that job, it delivers.

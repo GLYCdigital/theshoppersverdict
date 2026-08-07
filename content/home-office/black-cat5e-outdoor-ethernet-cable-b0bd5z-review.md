@@ -1,4 +1,5 @@
 ---
+
 title: "Black Cat5e Outdoor Ethernet Cable"
 seo_title: "Black Cat5e Outdoor Ethernet Cable Review: Is It Worth It?"
 meta_description: "Read our honest Black Cat5e Outdoor Ethernet Cable review. See real-world performance, durability, pros, cons, and who should buy it before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BD5ZDMHY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gvFEqkAkL._SL1500_.jpg"
-pros:
+pros: 
   - "Gel-filled waterproof jacket and shielded connectors survive rain, sun, and temperature swings"
   - "True 24 AWG solid copper conductors — not copper-clad aluminum — so signal stays clean over long runs"
   - "Flexible enough to route around corners despite the heavy-duty outdoor jacket"
-cons:
+cons: 
   - "Stiff near the connectors; bending too sharply can stress the boots over time"
   - "No pull tab or spooling aid — untangling a 100-foot coil takes patience"
   - "Not rated for direct burial; you'll need conduit for underground runs"
+
 ---
 
 ## Is This the Last Outdoor Cable You'll Buy?

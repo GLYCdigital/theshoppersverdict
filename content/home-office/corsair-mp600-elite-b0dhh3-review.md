@@ -1,4 +1,5 @@
 ---
+
 title: "Corsair MP600 Elite Review"
 seo_title: "Corsair MP600 Elite Review: Fast NVMe SSD for Creators"
 meta_description: "Read our Corsair MP600 Elite review. Is this Gen4 NVMe SSD worth it for gaming and content creation? Real benchmarks, pros, cons, and buying verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHH3W5LM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61kMIAQZnvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sequential read speeds up to 7,000MB/s — genuinely saturates PCIe Gen4 bandwidth"
   - "Pre-installed aluminum heatsink keeps thermals in check without clearance issues"
   - "Up to 1,500TBW endurance rating on the 2TB model — solid for heavy write workloads"
-cons:
+cons: 
   - "Heatsink version won't fit some compact laptops or PS5 slim with tight clearance"
   - "No DRAM cache — sustained writes can dip on large file transfers"
   - "Price per GB is slightly higher than budget Gen4 rivals like WD SN770 or Crucial P3 Plus"
+
 ---
 
 **Bottom line: The Corsair MP600 Elite is a fast, well-cooled Gen4 NVMe drive that hits the sweet spot for gamers and content creators who want PCIe 4.0 performance without paying Gen5 prices.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Kamenstein Empty Jars"
 seo_title: "Kamenstein Empty Jars Review: Verdict | TSV"
 meta_description: "Our full kamenstein empty jars review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B083LG8NP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61W2N8Ky6+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You can buy a dozen mason jars for the price of one of these. So why do 235 Amazon shoppers give Kamenstein's Empty Jars a 4.7-star average? Because these aren't mason jars. They're the kitchen equivalent of buying a good chef's knife instead of a block set — fewer pieces, but every one earns its place.

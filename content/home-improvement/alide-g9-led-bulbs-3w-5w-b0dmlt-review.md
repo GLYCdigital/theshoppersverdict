@@ -1,4 +1,5 @@
 ---
+
 title: "ALIDE G9 Led Bulbs 3W 5W"
 seo_title: "ALIDE G9 LED Bulbs Review: 3W & 5W Worth It? (2026)"
 meta_description: "Honest ALIDE G9 LED bulbs review: brightness, heat, dimming, lifespan. Are the 3W or 5W right for your fixtures? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMLT9RDQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7142-98RcRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True brightness output — 5W delivers ~550 lumens, noticeably brighter than most G9 LEDs claiming the same wattage"
   - "Stable 360° beam pattern with no dark spots, ideal for open-bottom pendant fixtures and sconces"
   - "Runs genuinely cool even after hours of use, unlike many cheap G9s that overheat in enclosed fixtures"
-cons:
+cons: 
   - "Not dimmable — if your fixture has a dimmer switch, these will flicker or hum"
   - "Short 1-year warranty feels thin given the claimed 25,000-hour lifespan"
   - "3W option may feel underwhelming in larger rooms — it's a task light, not a room light"
+
 ---
 
 If you've ever wrestled with a G9 bi-pin bulb, you know the pain: tiny pins, fragile glass, and a frustrating search for something that actually fits and shines bright. The ALIDE G9 LED bulbs (3W and 5W) aim to end that struggle. With a 4.6-star average from 229 ratings, they've clearly impressed most buyers. But are they the right G9 for *your* fixture? Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "JandCase Night Lights Plug into Wall, Dusk to Dawn Sensor,"
 seo_title: "JandCase Night Lights Plug into Wall, Dusk to Dawn Review"
 meta_description: "Our full jandcase night lights plug into wall, dusk to dawn sensor, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVSKGLF1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iY0lZNXpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most plug-in night lights fall into one of two camps: the cheap ones that buzz and flicker, or the over-engineered ones that cost more than a smart bulb. The JandCase sits somewhere in the middle, and for most people, that's exactly the right spot. With a 4.6-star average across 229 ratings, it's clearly doing something right — but let's talk about whether it's the right something for your hallways, bathrooms, and stairwells.

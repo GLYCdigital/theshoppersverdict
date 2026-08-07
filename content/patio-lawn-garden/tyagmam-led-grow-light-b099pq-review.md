@@ -1,4 +1,5 @@
 ---
+
 title: "TYAGMAM LED Grow Light"
 seo_title: "TYAGMAM LED Grow Light Review: Verdict | TSV"
 meta_description: "Our full tyagmam led grow light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B099PQJZ7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71codSicN9S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TYAGMAM LED Grow Light: The $40 Light That Thinks It's a $100 Panel**  

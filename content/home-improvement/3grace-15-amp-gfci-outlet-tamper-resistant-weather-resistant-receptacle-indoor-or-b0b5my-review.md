@@ -1,4 +1,5 @@
 ---
+
 title: "3GRACE 15 Amp GFCI Outlet, Tamper-Resistant, Weather Resista"
 seo_title: "3GRACE GFCI Outlet Review: Tamper-Resistant & Weather Proof"
 meta_description: "Read our honest 3GRACE 15 Amp GFCI outlet review. Tamper-resistant, weather-resistant design tested for indoor/outdoor use. See pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B5MY4THS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eoBX3T4lL._SL1500_.jpg"
-pros:
+pros: 
   - "True weather-resistant (WR) rating with corrosion-resistant plating for outdoor exposure"
   - "Tamper-resistant shutters meet 2017 NEC requirements — actual safety, not just a label"
   - "Self-testing function runs automatic diagnostics every 3 seconds, catching internal faults early"
-cons:
+cons: 
   - "Recessed test/reset buttons sit flush and can be stiff — gloved hands or tight spaces will test your patience"
   - "No LED indicator light on the face, so you can't tell at a glance if the outlet has tripped"
+
 ---
 
 # 3GRACE 15 Amp GFCI Outlet Review: Does This Budget Receptacle Deliver?

@@ -1,4 +1,5 @@
 ---
+
 title: "Pepperidge Farm Goldfish Crackers, Old Bay Seasoned, 27.3 Ou"
 seo_title: "Pepperidge Farm Goldfish Crackers, Old Bay Seasone Review"
 meta_description: "Our full pepperidge farm goldfish crackers, old bay seasoned, 27.3 ou review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D46BNQ1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71fKMeB2WvL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "Pepperidge Farm Goldfish Crackers, Old Bay Seasoned, 27.3 Ou"
 seo_title: "Goldfish Old Bay Review: Bold Snack or Gimmick?"

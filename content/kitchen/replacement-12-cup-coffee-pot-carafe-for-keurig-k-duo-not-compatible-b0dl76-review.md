@@ -1,4 +1,5 @@
 ---
+
 title: "Replacement 12-Cup Coffee Pot Carafe for Keurig K-Duo [ NOT "
 seo_title: "Replacement 12-Cup Coffee Pot Carafe for Keurig K- Review"
 meta_description: "Our full replacement 12-cup coffee pot carafe for keurig k-duo [ not  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DL763YWB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vlnYWzuKL._AC_SL1080_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've dropped your Keurig K-Duo carafe on a tile floor at 6 AM — and statistics say you probably have — you know the panic of checking Amazon for a replacement. The OEM part runs $30-40 and takes a week. This aftermarket carafe sits at $20-ish, ships fast, and carries a 4.3-star average from 215 buyers. But is it actually a drop-in replacement, or just a glass pitcher that sort of fits? Let's dig in.

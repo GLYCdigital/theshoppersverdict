@@ -1,4 +1,5 @@
 ---
+
 title: "Macally USB Wired Keyboard and Mouse Combo for Mac and PC"
 seo_title: "Macally USB Wired Keyboard and Mouse Combo for Mac Review"
 meta_description: "Our full macally usb wired keyboard and mouse combo for mac and pc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BLT1R3JS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71OXHgesE5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Macally USB Wired Keyboard and Mouse Combo for Mac and PC Review: The No-Fuss Desk Upgrade

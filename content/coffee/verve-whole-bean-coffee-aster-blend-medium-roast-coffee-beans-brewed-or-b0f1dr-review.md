@@ -1,4 +1,5 @@
 ---
+
 title: "Verve Whole Bean Coffee | Aster Blend | Medium Roast Coffee "
 seo_title: "Verve Whole Bean Coffee | Aster Blend | Medium Roa Review"
 meta_description: "Our full verve whole bean coffee | aster blend | medium roast coffee  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F1DRKQ7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pbuGg3biL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Verve Coffee Roasters' Aster Blend is the kind of coffee that makes you rethink what a medium roast can be.** With a 4.3-star average across 215 Amazon ratings, this Santa Cruz roaster has built a loyal following. But is it worth the premium over your supermarket bag? I dug into the flavor profile, the sourcing, and what actual buyers are saying to give you the full picture.

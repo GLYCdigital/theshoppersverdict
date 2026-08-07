@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Friskies Gravy Wet Cat Food Variety Pack, Meaty Bits "
 seo_title: "Purina Friskies Gravy Wet Cat Food Variety Pack, M Review"
 meta_description: "Our full purina friskies gravy wet cat food variety pack, meaty bits  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FV2CXLJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91eveperSCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some cats are food critics. They turn up their nose at a $3 fancy pâté, then inhale whatever fell on the floor. If you've got one of those, the Purina Friskies Gravy Wet Cat Food Variety Pack with Meaty Bits is a smart, budget-friendly gamble. But before you stock the pantry, let's dig into what this pack actually delivers — and where it stumbles.

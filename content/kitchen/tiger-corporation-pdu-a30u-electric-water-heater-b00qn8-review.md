@@ -1,4 +1,5 @@
 ---
+
 title: "Tiger Corporation PDU-A30U Electric Water Heater"
 seo_title: "Tiger Corporation PDU-A30U Electric Water Heater Review: "
 meta_description: "Our full tiger corporation pdu-a30u electric water heater review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00QN8ASSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617kTYB-IUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most electric kettles are disposable junk. You buy one for $25, it tastes like plastic for a month, the lid hinge breaks, and you’re shopping again within two years. The Tiger Corporation PDU-A30U is not that kettle. It’s a Japanese-built workhorse with a stainless steel interior, a 3-liter capacity, and a price tag that reflects the fact that you won’t be replacing it next year.

@@ -1,4 +1,5 @@
 ---
+
 title: "Luokim Standard Cabinet Hinge Frameless Concealed Door Hinge"
 seo_title: "Luokim Standard Cabinet Hinge Frameless Concealed  Review"
 meta_description: "Our full luokim standard cabinet hinge frameless concealed door hinge review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07RB468HG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TOuCBuJFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're refacing kitchen cabinets or building frameless Euro-style boxes, the hinge is the unsung hero. A wobbly door or one that slams shut ruins the whole look. The Luokim Standard Cabinet Hinge — the frameless concealed model with soft-close — has 220 Amazon ratings at 4.4 stars, which tells you it's a solid contender. But is it worth swapping out your current hardware? Here's the real breakdown.

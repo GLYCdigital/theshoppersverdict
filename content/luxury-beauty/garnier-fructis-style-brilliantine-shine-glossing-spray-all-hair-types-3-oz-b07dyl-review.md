@@ -1,4 +1,5 @@
 ---
+
 title: "Garnier Fructis Style Brilliantine Shine Glossing Spray, All"
 seo_title: "Garnier Fructis Style Brilliantine Shine Glossing  Review"
 meta_description: "Our full garnier fructis style brilliantine shine glossing spray, all review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07DYLRG9D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81m6CKvfDyL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ve seen those “glass hair” tutorials. The ones where stylists spray something shiny and suddenly every strand reflects light like a mirror. Garnier Fructis Style Brilliantine Shine Glossing Spray is that product — but does it actually deliver, or is it just another bottle of scented water? After digging through 229 ratings and testing the claims, here’s the honest breakdown.

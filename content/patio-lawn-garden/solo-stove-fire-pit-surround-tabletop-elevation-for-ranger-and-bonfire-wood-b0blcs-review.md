@@ -1,4 +1,5 @@
 ---
+
 title: "Solo Stove Fire Pit Surround Tabletop | Elevation for Ranger"
 seo_title: "Solo Stove Fire Pit Surround Tabletop | Elevation  Review"
 meta_description: "Our full solo stove fire pit surround tabletop | elevation for ranger review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLCSG445/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZoHaw3HgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what this is: the Solo Stove Surround Tabletop is a $200-ish accessory that solves a problem you didn't know you had — until you sit in a low patio chair and realize you're staring at the side of your Ranger instead of the flames. I've tested this with the Ranger specifically (though it fits the Bonfire too), and here's the real story.

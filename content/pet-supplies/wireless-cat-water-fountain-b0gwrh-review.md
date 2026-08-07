@@ -1,4 +1,5 @@
 ---
+
 title: "Wireless Cat Water Fountain"
 seo_title: "Wireless Cat Water Fountain Review: Verdict | TSV"
 meta_description: "Our full wireless cat water fountain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0GWRHY1BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81S-iC9EqdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The cordless cat fountain that actually delivers on its promise — with a few caveats worth knowing before you buy.**

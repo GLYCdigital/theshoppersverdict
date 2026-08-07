@@ -1,4 +1,5 @@
 ---
+
 title: "FORESTER Port-A-Wrap | Stainless Steel Portawrap for Tree Wo"
 seo_title: "FORESTER Port-A-Wrap Review: 7,000-lb Stainless Arborist Tool"
 meta_description: "Honest FORESTER Port-A-Wrap review: stainless steel portawrap for tree work. 7,000-lb capacity, real user feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZRHQF66/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ftK2F2wjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Machined stainless steel body resists rust far better than painted steel alternatives, surviving wet work and humid storage"
   - "7,000 lb working load capacity handles heavy lowering jobs that aluminum portawraps can't manage"
   - "Captive pin design keeps the unit attached to your rigging strap — no fumbling for lost hardware 40 feet up"
-cons:
+cons: 
   - "Weighs noticeably more than aluminum portawraps; climbers doing all-day rigging will feel the difference on the harness"
   - "Stainless-on-stainless friction creates more heat than aluminum — long, fast lowers can smoke the rope if you're not careful"
   - "No built-in capture slot for a carabiner; you'll need additional hardware for redirects or extended use"
+
 ---
 
 If you've ever watched a 400-pound oak limb swing wild because your friction device couldn't hold the line, you know why the FORESTER Port-A-Wrap exists. This stainless steel portawrap isn't the flashiest tool in your rigging bag, but it's the one that keeps you from becoming a statistic. I've spent time with this unit and talked to arborists who run it daily — here's what actually matters.

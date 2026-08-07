@@ -1,4 +1,5 @@
 ---
+
 title: "Shower Faucet Set with 10 Spray Handheld Shower"
 seo_title: "Shower Faucet Set with 10 Spray Handheld Shower Review: V"
 meta_description: "Our full shower faucet set with 10 spray handheld shower review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DMS27XYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61OHbTXp6yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Shower Faucet Set with 10 Spray Handheld Shower: A Solid Upgrade, With One Catch

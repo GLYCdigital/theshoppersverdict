@@ -1,7 +1,8 @@
 ---
-title: "Makita XAD02Z 18V LXT Lithium-Ion Cordless 3/8\" Angle Drill,"
-seo_title: "Makita XAD02Z 18V LXT Lithium-Ion Cordless 3/8\" An Review"
-meta_description: "Our full makita xad02z 18v lxt lithium-ion cordless 3/8\" angle drill, review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Makita XAD02Z 18V LXT Lithium-Ion Cordless 3/8\ Angle Drill,"
+seo_title: "Makita XAD02Z 18V LXT Lithium-Ion Cordless 3/8\ An Review"
+meta_description: "Our full makita xad02z 18v lxt lithium-ion cordless 3/8\ angle drill, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-xad02z-18v-lxt-lithium-ion-cordless-3-8-angle-drill-tool-b0dvgy-review"
 image_alt: "Makita XAD02Z 18V LXT Lithium-Ion Cordless 3/8 Angle Drill, Tool Only"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DVGYW18H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AWZUq8mjL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Makita XAD02Z answers a question most drill owners don't ask until they're wedged between two studs with a standard drill that won't angle: *what happens when a compact driver just isn't compact enough?* This 3/8" angle drill is the tool you reach for when clearance matters more than raw power — and for 229 Amazon reviewers averaging 4.6 stars, it's delivering exactly that.

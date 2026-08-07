@@ -1,4 +1,5 @@
 ---
+
 title: "Jimmy-Resistant Deadlock, Diecast, Brass Color, Angle Strike"
 seo_title: "Jimmy-Resistant Deadlock, Diecast, Brass Color, An Review"
 meta_description: "Our full jimmy-resistant deadlock, diecast, brass color, angle strike review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BKYXDRTM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XX6kh8X-L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a deadlock that actually deters a determined intruder, the Jimmy-Resistant Deadlock in diecast brass is worth a serious look. This isn't your standard builder-grade lockset. The angle strike plate and double-cylinder design tell you immediately this lock was engineered with forced entry in mind, not just convenience.

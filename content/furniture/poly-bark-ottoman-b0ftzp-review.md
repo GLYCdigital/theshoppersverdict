@@ -1,4 +1,5 @@
 ---
+
 title: "Poly & BARK Ottoman"
 seo_title: "Poly & BARK Ottoman Review: Verdict | TSV"
 meta_description: "Our full poly & bark ottoman review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTZPP524/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61UIRK-57fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Poly & BARK Ottoman is one of those pieces that looks simple in photos but reveals its worth in daily use. With a solid 4.6-star average across 229 ratings, it's clearly doing something right. But let's get past the aggregate score and talk about what actually matters when you're putting this in your living room.

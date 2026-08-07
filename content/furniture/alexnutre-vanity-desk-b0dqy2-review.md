@@ -1,4 +1,5 @@
 ---
+
 title: "ALEXNUTRE Vanity Desk"
 seo_title: "ALEXNUTRE Vanity Desk Review: Worth It? Honest 2026 inch"
 meta_description: "Honest ALEXNUTRE Vanity Desk review: build quality, mirror lighting, storage, and assembly. See who should buy it and who should skip it."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQY26YBB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eV6T-C3aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-color adjustable LED mirror lighting with dimmer — genuinely useful for makeup application, not just a gimmick"
   - "Dual power outlets and USB ports built into the desktop, so charging devices doesn't require a separate hub"
   - "Solid MDF construction with a smooth, wipe-clean surface that doesn't wobble during normal use"
-cons:
+cons: 
   - "Assembly takes 45-60 minutes — the instructions are clear, but there are many small screws and the drawer slides require patience"
   - The included stool is functional but basic; taller users (5'8 inch "+) may find the seat height slightly low
   - "Mirror is not height-adjustable — if you're significantly above or below average height, you'll need to add a riser"
+
 ---
 
 The ALEXNUTRE Vanity Desk sits in a crowded category: every brand sells a "LED mirror + storage + charging ports" vanity. What separates this one from the pack? After digging through 204 ratings and the spec sheet, the honest answer is that it nails the fundamentals without breaking new ground. For the price point, it delivers exactly what most shoppers actually need — solid construction, decent lighting, and enough storage to keep a makeup collection organized.

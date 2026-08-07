@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Swimming Pool Fence in one for Ground and Above Pool "
 seo_title: "VINGLI Swimming Pool Fence in one for Ground and A Review"
 meta_description: "Our full vingli swimming pool fence in one for ground and above pool  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DQ87M6QC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81t37us+IdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # VINGLI Swimming Pool Fence: The Universal Safety Net That Actually Works

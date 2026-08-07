@@ -1,4 +1,5 @@
 ---
+
 title: "Supergoop! Mineral Mattescreen (SPF 40) - Mineral, Oil-Free "
 seo_title: "Supergoop! Mineral Mattescreen (SPF 40) - Mineral, Review"
 meta_description: "Our full supergoop! mineral mattescreen (spf 40) - mineral, oil-free  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GX2LDJCM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Supergoop! Mineral Mattescreen (SPF 40) Review: The Primer-Sunscreen Hybrid That Earns Its Keep

@@ -1,4 +1,5 @@
 ---
+
 title: "DDC SPORT Folding Electric Bike for Adults, Peak 800W Motor"
 seo_title: "DDC SPORT Folding E-Bike Review: 800W Power, 25 MPH"
 meta_description: "Honest DDC SPORT folding electric bike review: 800W peak motor, 48V battery, 25 MPH top speed. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GD6D9B7V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HdTw+m9WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 25 mph top speed on throttle alone — this isn't a spec-sheet lie"
   - "Folding frame drops to a compact 38 x 22 x 28 inches, fits in most car trunks"
   - "48V 10.4Ah battery delivers a realistic 25–30 mile range in pedal-assist mode"
-cons:
+cons: 
   - "Assembly requires patience — the front fender and brake calipers need careful alignment"
   - "At 58 pounds, it's foldable but not exactly 'luggage-friendly' for daily commuters"
   - "The mechanical disc brakes are adequate but won't match hydraulic stopping power on steep descents"
+
 ---
 
 Let's cut through the marketing. The DDC SPORT folding e-bike is one of those Amazon listings that looks too good to be true at first glance — 800W peak motor, 25 mph top speed, foldable frame. But with 200 ratings averaging 4.0 stars, there's a real product here, and it has some genuine strengths and a few honest flaws worth knowing before you drop your money.

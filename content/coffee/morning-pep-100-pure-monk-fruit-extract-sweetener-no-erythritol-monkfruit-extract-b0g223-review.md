@@ -1,4 +1,5 @@
 ---
+
 title: "Morning Pep 100% Pure Monk Fruit extract sweetener, No Eryth"
 seo_title: "Morning Pep 100% Pure Monk Fruit extract sweetener Review"
 meta_description: "Our full morning pep 100% pure monk fruit extract sweetener, no eryth review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G2233LY7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qbt9hStmL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been hunting for a sweetener that won't wreck your gut or your blood sugar, you've probably noticed something annoying: most "monk fruit" products on Amazon are 95% erythritol with a whisper of actual monk fruit. Morning Pep flips that script. This is 100% pure monk fruit extract — no erythritol, no dextrose, no maltodextrin, no fillers whatsoever. That alone makes it worth a serious look for anyone who reacts badly to sugar alcohols or follows a keto/carnivore protocol.

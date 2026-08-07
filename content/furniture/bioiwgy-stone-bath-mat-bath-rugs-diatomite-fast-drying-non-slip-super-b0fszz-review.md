@@ -1,4 +1,5 @@
 ---
+
 title: "BIOIWGY Stone Bath Mat, Bath Rugs Diatomite Fast Drying Non"
 seo_title: "BIOIWGY Stone Bath Mat Review: Fast-Drying Diatomite Tested"
 meta_description: "Honest BIOIWGY stone bath mat review: Does this diatomite rug dry fast, resist mold, and stay slip-free? Real pros, cons, and buying advice."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FSZZRVRM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71YjoUUyiQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dries in under a minute — water beads and evaporates instead of soaking into fabric"
   - "Heavyweight diatomaceous earth construction (about 8 lbs) stays put without curling edges"
   - "Includes a bonus sanding block to refresh the surface when absorption slows"
-cons:
+cons: 
   - "Hard, unyielding surface — not for anyone who wants a plush, cushioned step"
   - "Needs a full 24 hours to fully dry before first use; some units arrive with a strong mineral smell"
   - "Can leave a chalky residue on dark shower tiles if not wiped down periodically"
+
 ---
 
 ## The fast-drying stone mat that ditches the soggy towel feeling

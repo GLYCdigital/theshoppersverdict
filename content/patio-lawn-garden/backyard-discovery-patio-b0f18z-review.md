@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery Patio"
 seo_title: "Backyard Discovery Patio Review: Worth It in 2026?"
 meta_description: "Honest Backyard Discovery Patio review: build quality, real-world performance, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F18Z8GY3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UPKSKRjqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut, pre-drilled cedar components with color-coded labels cut assembly time to roughly 4–6 hours for two people"
   - "Sturdy 4x4 cedar posts and reinforced truss brackets handle moderate wind loads without wobble"
   - "Water-resistant stain and rust-proof hardware hold up through multiple seasons of rain and sun"
-cons:
+cons: 
   - "Two-person minimum for assembly — solo setup is genuinely difficult, especially when lifting the roof frame"
   - "Cedar is a softwood; expect minor surface checking (small cracks) after a year of direct sun exposure"
+
 ---
 
 **Is the Backyard Discovery Patio worth your money? After digging through 229 verified owner reviews and the spec sheet, here's the straight story.**

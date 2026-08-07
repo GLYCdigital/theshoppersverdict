@@ -1,4 +1,5 @@
 ---
+
 title: "Green Pixel Theme Balloons Birthday Party Decorations"
 seo_title: "Green Pixel Balloons Review: Best Minecraft Party Decor"
 meta_description: "Honest review of Green Pixel Theme Balloons for birthday parties. See if the 25-piece set is worth it for Minecraft-loving kids."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FQV7HCWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yD+iz0vsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pixel-art creeper and block designs are screen-accurate, not cheap generic prints"
   - "Includes 25 pieces (latex + foil mix) covering arch, ceiling, and table decor"
   - "Foil balloons hold helium for 3-5 days — verified by multiple buyer reports"
-cons:
+cons: 
   - "Green latex balloons arrive deflated and require a pump or lung power — no pump included"
   - "Foil balloons arrive folded; creases sometimes never fully smooth out"
+
 ---
 
 ## Is This the Party Decor Your Gamer Kid Actually Wants?

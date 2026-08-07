@@ -1,4 +1,5 @@
 ---
+
 title: "Bonsaii 1-Sheet P-4 Micro-Cut Shredder, 80-Min Continuous Us"
 seo_title: "Bonsaii P-4 Micro-Cut Shredder Review: 80-Min Run Time"
 meta_description: "Read our honest Bonsaii 1-sheet P-4 micro-cut shredder review. See how the 80-min continuous run time, 4x12mm particle size, and safety features hold up in real use."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GNH2SJGY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51aoTMG3+-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 80-minute continuous run time with thermal overload protection — no 5-minute cool-down cycle like most budget shredders"
   - "Micro-cut 4x12mm particles deliver P-4 security compliance per DIN 66399, suitable for confidential financial documents"
   - "Compact 13.4 x 7.9 x 14.6-inch footprint fits under standard desks while holding 4.4 gallons of shredded material"
-cons:
+cons: 
   - "1-sheet capacity is strictly enforced — attempting 2 sheets triggers immediate paper jams requiring reverse operation"
   - "No casters or wheels included; the 11-pound unit must be manually lifted to empty the pull-out bin"
+
 ---
 
 Let me be direct: most shredders under $50 are disposable junk that overheat after three minutes of use. The Bonsaii P-4 isn't that — but it's also not what the marketing photos suggest. Here's what 220 Amazon reviewers at 4.4 stars actually experienced.

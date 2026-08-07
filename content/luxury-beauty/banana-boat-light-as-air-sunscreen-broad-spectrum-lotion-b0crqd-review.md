@@ -1,4 +1,5 @@
 ---
+
 title: "Banana Boat Light As Air Sunscreen, Broad Spectrum Lotion -"
 seo_title: "Banana Boat Light As Air Sunscreen Review (2026): Worth It?"
 meta_description: "Honest Banana Boat Light As Air Sunscreen review: texture, SPF protection, white cast, and real buyer feedback. Is this lightweight lotion worth it?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRQD4DWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z7QiyuiVS._SL1500_.jpg"
-pros:
+pros: 
   - "Featherlight texture that absorbs in under 60 seconds without greasy residue"
   - "No white cast on deeper skin tones — dries completely clear"
   - "Fragrance-free formula that holds up through sweat and moderate water exposure"
-cons:
+cons: 
   - "Smaller 6oz bottle than standard sunscreens — frequent reapplication drains it fast"
   - "Not water-resistant enough for intense swimming or heavy cardio sessions"
+
 ---
 
 ## The "Sunscreen You Forget You're Wearing" — Does It Deliver?

@@ -1,4 +1,5 @@
 ---
+
 title: "Einhomn Lift Up Storage Bed Frame with Charging Station, Hyd"
 seo_title: "Einhomn Lift Up Storage Bed Frame Review: Hydraulic Lift & USB Charging"
 meta_description: "Einhomn lift up storage bed frame with charging station review: hydraulic lift, wingback design, USB ports. Real pros, cons, and buying verdict."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPC9D4G5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AHs9D0b5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Hydraulic pistons lift the entire mattress platform smoothly — no heavy lifting or separate frame pieces to wrestle with"
   - "Built-in USB and USB-C ports on both sides of the headboard, so you're never fighting your partner for an outlet"
   - "Solid wood slats and center support legs rated for substantial weight — this isn't a flimsy box-frame"
-cons:
+cons: 
   - "Assembly requires two people and a solid hour-plus; the hydraulic mechanism is pre-attached but heavy"
   - "The wingback headboard is upholstered in a fabric that shows dust and pet hair more readily than darker options"
   - "No mattress included, and the lift mechanism adds height — you'll likely need deep-pocket sheets"
+
 ---
 
 **The Einhomn Lift Up Storage Bed Frame is the answer to a very specific problem: you need more storage, but you don't want to sacrifice your bedroom's aesthetic to a clunky platform bed or a separate under-bed bin system.** This frame hides a surprising amount of space under the mattress, and the hydraulic lift makes it actually usable — not a back-breaking chore you'll avoid.

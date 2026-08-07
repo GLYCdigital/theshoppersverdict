@@ -1,4 +1,5 @@
 ---
+
 title: "Bestier Rattan TV Stand with Storage for 85 Inch TV"
 seo_title: "Bestier Rattan TV Stand Review: 85-Inch Storage Unit"
 meta_description: "Honest Bestier rattan TV stand review for 85-inch TVs: build quality, storage capacity, assembly ease, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DH21K42X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hMA+yqIIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Natural rattan doors hide clutter while allowing airflow for electronics"
   - "Top surface and internal shelf genuinely support 85-inch TVs without sag"
   - "Cable management cutouts in the back panel are positioned where you actually need them"
-cons:
+cons: 
   - "Assembly takes 60–90 minutes; door alignment requires patience"
   - "Rattan weave is decorative — not pet-proof or scratch-resistant"
+
 ---
 
 You've finally committed to an 85-inch TV. Now you need something to put it on that doesn't look like a black slab from 2015. The Bestier Rattan TV Stand tries to bridge that gap — natural texture, real storage, and enough width to anchor a massive screen. At 4.4 stars from 220 ratings, it's clearly working for most buyers. Here's the full picture before you click buy.

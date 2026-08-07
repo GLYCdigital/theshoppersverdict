@@ -1,4 +1,5 @@
 ---
+
 title: "AMADA HOMEFURNISHING 28 inch  32 inch  Propane Fire Pit"
 seo_title: "AMADA HOMEFURNISHING Propane Fire Pit Review (2026)"
 meta_description: "Honest AMADA HOMEFURNISHING 28 inch  32 inch  propane fire pit review: 4.6/5 stars. BTU output, build quality, real buyer feedback, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXFYJGWV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DkOs2hC4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "High-BTU output (50,000 BTU) produces visible, satisfying flames even on low setting"
   - "Solid steel construction with weather-resistant finish; multiple buyers report surviving full seasons outdoors"
   - "Includes sturdy lid, carrying cover, and lava rocks — no hidden accessory purchases needed"
-cons:
+cons: 
   - "Assembly requires two people; tank sits inside the base making swaps awkward until you learn the trick"
   - "Piezo igniter can be finicky in windy conditions — keep a lighter handy as backup"
   - "No auto-shutoff timer; you must manually turn off gas flow"
+
 ---
 
 **The Short Version:** If you want a propane fire pit that actually throws heat instead of just looking pretty, the AMADA HOMEFURNISHING 28"/32" is a serious contender. At 50,000 BTU, it cranks. But it's not without quirks — assembly is a two-person job, and the igniter sometimes needs encouragement.

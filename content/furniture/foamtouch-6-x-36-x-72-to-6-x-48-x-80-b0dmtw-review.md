@@ -1,4 +1,5 @@
 ---
+
 title: "FoamTouch 6'' x 36'' x 72'' to 6 inch  x 48 inch  x 80 inch  Bunk Mattress,"
 seo_title: "FoamTouch Bunk Mattress Review: 6-Inch Custom Sizes (2026)"
 meta_description: "Honest FoamTouch 6-inch bunk mattress review: build quality, comfort, sizing options, and real owner feedback. Is it worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMTWQGH2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l32By6scL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Real custom sizing from 36x72 up to 48x80 — fits odd bunk frames without gaps"
   - "6-inch profile strikes a solid balance between support and bunk rail height"
   - "Quilted cover and medium-firm feel at a price well under big-box brands"
-cons:
+cons: 
   - "No handles or compression-tight packaging — moving it into tight stairwells is awkward"
   - "Off-gassing smell lingers 24-48 hours despite the 'low VOC' claim"
   - "Fiberglass-free fire sock shifts if you remove the cover for washing"
+
 ---
 
 Let's be blunt: buying a bunk mattress online is a gamble. Standard sizes rarely fit those weird built-in bunk frames, and you're stuck guessing whether the foam will feel like a brick or a marshmallow. The FoamTouch 6-inch bunk mattress takes a swing at both problems — and mostly connects.

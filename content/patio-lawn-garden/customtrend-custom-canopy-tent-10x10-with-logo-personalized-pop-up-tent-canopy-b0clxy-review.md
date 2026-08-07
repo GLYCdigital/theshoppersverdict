@@ -1,4 +1,5 @@
 ---
+
 title: "CUSTOMTREND Custom Canopy Tent 10x10 with Logo, Personalized"
 seo_title: "CUSTOMTREND 10x10 Custom Canopy Tent Review: Is It Worth It?"
 meta_description: "Honest CUSTOMTREND 10x10 custom canopy tent review: print quality, frame durability, setup ease, and whether personalized branding holds up. Read before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLXY1Y72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TC6+YTkDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-bleed 10x10 print area with sharp, accurate color reproduction — no dead zones or white borders on the canopy top"
   - "Reinforced steel frame with welded tri-leg connectors holds up in gusty conditions where cheaper tents buckle"
   - "Free design proof within 24 hours and actual production in 3-5 days — genuinely fast for a fully custom product"
-cons:
+cons: 
   - "Carry bag is functional but thin — it'll wear through at the seams if you're hauling this weekly to markets"
   - "No sidewalls included; you'll pay nearly half the tent's price again if you want branded walls for wind protection"
+
 ---
 
 **Review Body:**

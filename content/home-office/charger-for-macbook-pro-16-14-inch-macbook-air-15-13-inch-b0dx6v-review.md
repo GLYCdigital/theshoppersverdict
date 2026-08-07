@@ -1,4 +1,5 @@
 ---
+
 title: "Charger for MacBook Pro 16 14 inch MacBook Air 15 13 inch 20 inch"
 seo_title: "Charger for MacBook Pro 16 & Air 15 Review (2026)"
 meta_description: "Honest review of the 20W charger for MacBook Pro 16/14 & Air 15/13. Real-world wattage, compatibility issues, and who should buy it. 4.6★ from 229 ratings."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DX6VJCT7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b+FJ+mp1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 20W USB-C PD output that actually fast-charges iPhone 15/16 and MacBook Air 13 in practice"
   - "Foldable prongs and compact 1.2-inch body — smaller than Apple's 20W brick, easier for travel"
   - "Solid build with reinforced strain relief at cable junction; survived 3-foot drop tests in our testing"
-cons:
+cons: 
   - "Does NOT deliver full-speed charging to MacBook Pro 16 or 14 — 20W is barely enough to slow-drain while in use"
   - "No USB-C cable included in the box — factor $10–15 extra for a quality 100W cable"
   - "Gets noticeably warm (45°C surface) during sustained 20W output; not ideal for bedside overnight charging"
+
 ---
 
 Let's cut through the listing title confusion right now. This charger claims compatibility with MacBook Pro 16, 14, and MacBook Air 15 and 13 — but that's marketing math, not physics. At 20 watts, this compact brick will *charge* all of those laptops, but it won't *power* them the way Apple's 67W or 96W adapters do. Here's the real story after testing.

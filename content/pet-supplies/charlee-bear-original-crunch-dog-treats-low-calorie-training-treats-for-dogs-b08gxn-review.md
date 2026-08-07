@@ -1,4 +1,5 @@
 ---
+
 title: "Charlee Bear Original Crunch Dog Treats, Low Calorie Trainin"
 seo_title: "Charlee Bear Crunch Dog Treats Review: Low-Cal Training Rewards"
 meta_description: "Honest Charlee Bear Original Crunch Dog Treats review: 4.6-star rated, 3-calorie training rewards. See real pros, cons, and if they're right for your pup."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GXN4X6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mkFQH+VfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Only 3 calories per treat — one of the lowest-calorie training rewards on the market"
   - "Crunchy texture that dogs love without being hard enough to risk dental damage"
   - "Made in the USA with simple, recognizable ingredients and no artificial preservatives"
-cons:
+cons: 
   - "Crumbles easily when dropped — you'll be sweeping up crumbs after training sessions"
   - "Small size means larger breeds may need 2-3 treats per reward during training"
   - "No resealable bag closure; you'll need a clip or container to keep them fresh"
+
 ---
 
 **If you've ever calculated how many calories you're actually feeding your dog during a training session, you already know the problem.** Most commercial treats pack 15-25 calories per piece, which means a 20-minute obedience session with a highly motivated pup can quietly add 100+ calories to their daily intake. For a 15-pound dog, that's nearly 10% of their daily caloric needs — in treats alone.

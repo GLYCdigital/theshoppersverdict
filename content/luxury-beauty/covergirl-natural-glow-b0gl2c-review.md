@@ -1,4 +1,5 @@
 ---
+
 title: "COVERGIRL Natural Glow"
 seo_title: "COVERGIRL Natural Glow Review: Honest 2026 Verdict"
 meta_description: "COVERGIRL Natural Glow review: Does this dewy finish deliver? Real buyer feedback, shade range, wear time, and who should skip it. 4.6/5 verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GL2CDX1W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KQkFNqYwL._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable sheer-to-medium coverage that never cakes, even after 8+ hours on oily-combo skin"
   - "Squeeze tube packaging delivers precise control — no pump waste, no messy dipping"
   - "Sits well over sunscreen and primer without pilling, a common fail point in this price tier"
-cons:
+cons: 
   - "Shade range leans warm — fair neutral and deep olive undertones are underserved"
   - "Dewy finish can look greasy on very oily T-zones past the 6-hour mark without powder"
+
 ---
 
 Let's be direct about what COVERGIRL Natural Glow is: a drugstore-priced tinted moisturizer that performs like a mid-range glow product. The 4.6-star average across 229 ratings isn't inflated — this earns its keep. But "natural glow" is doing a lot of work in that name, and whether it works for you depends entirely on your skin type and finish preferences.

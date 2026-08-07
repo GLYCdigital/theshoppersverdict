@@ -1,4 +1,5 @@
 ---
+
 title: "Lifetime 90061 Portable Basketball System, 52 Inch Shatterpr"
 seo_title: "Lifetime 90061 Portable Basketball System, 52 Inch Review"
 meta_description: "Our full lifetime 90061 portable basketball system, 52 inch shatterpr review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C1Z6MNRP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WExDuMQJL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.4-star verdict on the Lifetime 90061 is earned — but this portable hoop has one catch you need to know before checkout.**

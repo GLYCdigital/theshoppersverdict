@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Sonicare 1100 Series Electric Toothbrush - Sonic Too"
 seo_title: "Philips Sonicare 1100 Series Electric Toothbrush - Review"
 meta_description: "Our full philips sonicare 1100 series electric toothbrush - sonic too review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09LD8VXLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dReXZjCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most electric toothbrushes under $50 are gimmicks with vibrating motors that barely outclean a manual brush. The Philips Sonicare 1100 Series is not that. This is the entry point into genuine sonic technology, and for the price, it's the smartest dental investment most people can make this year.

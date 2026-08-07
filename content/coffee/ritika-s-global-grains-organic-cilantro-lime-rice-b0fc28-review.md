@@ -1,4 +1,5 @@
 ---
+
 title: "Ritikaâ€™s Global Grains Organic Cilantro Lime Rice"
 seo_title: "Ritikaâ€™s Global Grains Organic Cilantro Lime Ric Review"
 meta_description: "Our full ritikaâ€™s global grains organic cilantro lime rice review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FC28ZDB9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-J8RQlKVL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: most flavored rice packets taste like someone waved a spice bottle in the general direction of the grains. Ritika’s Global Grains Organic Cilantro Lime Rice is not that. This is the rare convenience product that actually delivers on its flavor promise — and then some.

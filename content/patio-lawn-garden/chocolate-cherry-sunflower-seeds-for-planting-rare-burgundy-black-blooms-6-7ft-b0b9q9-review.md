@@ -1,4 +1,5 @@
 ---
+
 title: "Chocolate Cherry Sunflower Seeds for Planting | Rare Burgund"
 seo_title: "Chocolate Cherry Sunflower Seeds Review: Rare Burgundy Blooms"
 meta_description: "Honest review of Chocolate Cherry Sunflower Seeds: rare burgundy-black blooms, 6-7ft height, germination tips, and real buyer results. Worth planting?"
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B9Q933CN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bLuCdzJNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Striking, rare burgundy-black petals that deepen to near-black at the center — a genuine conversation piece"
   - "Strong 6-7ft stalks that hold up in wind without staking, based on multiple buyer reports"
   - "Generous seed count per packet; most buyers report 85-95% germination rate with proper stratification"
-cons:
+cons: 
   - "Seeds require cold stratification for 2-4 weeks or germination rates drop noticeably — not a direct-sow-and-forget variety"
   - "Color can vary from deep burgundy to lighter maroon depending on soil pH and sunlight; not every bloom matches the product photo exactly"
   - "Branched growth habit means flowers are smaller (4-5 inches) than single-stem sunflowers, which surprises some buyers expecting dinner-plate blooms"
+
 ---
 
 **The Hook: A Sunflower That Actually Looks Like Chocolate**

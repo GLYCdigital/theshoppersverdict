@@ -1,4 +1,5 @@
 ---
+
 title: "Citrus Tree Potting Soil Mix, Special Blend for Indoor Orang"
 seo_title: "Citrus Tree Potting Soil Mix Review: Indoor Orange, Lemon, Lime (2026)"
 meta_description: "Honest review of Citrus Tree Potting Soil Mix for indoor oranges, lemons, limes. Drainage, pH, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C94TC3H9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RkavbBEfL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fast-draining perlite and pine bark blend prevents root rot, even for growers prone to overwatering"
   - "pH balanced specifically for citrus (5.5–6.5 range), so no guesswork on amendments"
   - "Holds moisture evenly without turning into a brick — consistent with 4.5-star buyer consensus"
-cons:
+cons: 
   - "Bag arrives slightly damp; if stored sealed in heat, mold can develop before opening"
   - "No slow-release fertilizer included — you'll need to feed citrus separately within 6–8 weeks"
+
 ---
 
 Let's be blunt: most bagged potting soils are just peat moss with delusions of grandeur. They suffocate citrus roots, hold water like a sponge, and turn your Meyer lemon into a yellowing tragedy within three months. This mix actually understands what a citrus tree needs — and that's why it's earned a 4.5-star average across 225 ratings.

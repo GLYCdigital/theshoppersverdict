@@ -1,4 +1,5 @@
 ---
+
 title: "Cleaning agent for Milk Pipework Miele machines cva 5060/506 inch"
 seo_title: "Miele Milk Pipework Cleaner Review: CVA 5060/506 inch"
 meta_description: "Honest review of Miele milk pipework cleaning agent for CVA 5060/506 machines. Does it work? Real buyer feedback, pros, cons, and verdict inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06ZYHZQTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41txP9Cg95L._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Specifically formulated for Miele CVA 5060/506 milk systems — no guessing about compatibility"
   - "One tablet per cleaning cycle handles both pipework and the milk container, simplifying maintenance"
   - "Effectively removes dried milk residue and eliminates sour odors that regular rinsing misses"
-cons:
+cons: 
   - "Significantly more expensive per use than generic coffee machine descalers"
   - "Only sold in small 6-tablet packs — frequent users will reorder often"
   - "Won't solve clogs if milk has already dried and hardened in the lines — prevention is key"
+
 ---
 
 Let's be honest about what happens inside your Miele CVA 5060's milk system: milk fat and protein residue builds up in those narrow silicone tubes, and plain water rinses won't touch it. After a few weeks, that "fresh latte" starts tasting slightly off, and eventually you're smelling yesterday's milk every time the steam wand finishes. That's exactly the problem this cleaning agent exists to solve.

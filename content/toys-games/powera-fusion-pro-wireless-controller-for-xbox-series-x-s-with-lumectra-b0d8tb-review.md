@@ -1,4 +1,5 @@
 ---
+
 title: "PowerA FUSION Pro Wireless Controller for Xbox Series X|S wi"
 seo_title: "PowerA FUSION Pro Wireless Controller for Xbox Ser Review"
 meta_description: "Our full powera fusion pro wireless controller for xbox series x|s wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0D8TB3W72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rcx2yWUOL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The PowerA FUSION Pro: A Solid Contender That Doesn't Quite Reach the Top Tier

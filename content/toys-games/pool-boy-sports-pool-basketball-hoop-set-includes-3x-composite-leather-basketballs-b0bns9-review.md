@@ -1,4 +1,5 @@
 ---
+
 title: "POOL BOY SPORTS - Pool Basketball Hoop - Set Includes 3X Com"
 seo_title: "POOL BOY SPORTS - Pool Basketball Hoop - Set Inclu Review"
 meta_description: "Our full pool boy sports - pool basketball hoop - set includes 3x com review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0BNS91247/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715dHCgOOvL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook**

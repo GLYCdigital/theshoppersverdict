@@ -1,4 +1,5 @@
 ---
+
 title: "ANYPOWK LED Garage Light - 6000 Lumen 6500K Daylight 60W, Th"
 seo_title: "ANYPOWK LED Garage Light Review: 6000 Lumen Tested"
 meta_description: "ANYPOWK LED garage light review: 6000 lumens, 6500K daylight, 60W. Tested brightness, heat, and install. See real pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D99YP8CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IgA8xVx4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three independently adjustable panels let you aim light exactly where you need it, not just straight down"
   - "True 6500K daylight color temp — makes engine work and detailed tasks visibly easier on the eyes"
   - "Built-in motion sensor activates at 10 feet and turns off after 60 seconds, minimizing energy waste"
-cons:
+cons: 
   - "No included mounting hardware beyond the screw-in adapter — flush-mount installation requires a trip to the hardware store"
   - "Motion sensor sensitivity can't be adjusted; some buyers report false triggers from passing cars"
+
 ---
 
 If your garage currently relies on one sad ceiling bulb that leaves shadows in every corner, the ANYPOWK LED Garage Light is the upgrade you've been putting off. This 60W fixture claims 6000 lumens of 6500K daylight, and in real-world use, it largely delivers. With 220 ratings averaging 4.4 stars, the consensus is clear: this thing is bright. But is it right for your specific space? Let's dig in.

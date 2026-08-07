@@ -1,4 +1,5 @@
 ---
+
 title: "Pentel Energel 0.5 mm Rtx Retractable, 12 Pack of 6 Black & "
 seo_title: "Pentel Energel 0.5 mm Rtx Retractable, 12 Pack of  Review"
 meta_description: "Our full pentel energel 0.5 mm rtx retractable, 12 pack of 6 black &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B093X35J29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91KoyR37M6S._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pentel Energel 0.5mm RTX is the pen that makes you wonder why you ever settled for anything less.** With 240 ratings averaging 4.8 stars, this isn't a niche favorite — it's a mainstream workhorse that office workers, students, and left-handed writers consistently swear by. But is the 12-pack actually worth your money? Let's break down what you're really getting.

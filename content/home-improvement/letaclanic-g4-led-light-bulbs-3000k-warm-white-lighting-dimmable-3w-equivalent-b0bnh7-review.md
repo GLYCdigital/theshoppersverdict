@@ -1,4 +1,5 @@
 ---
+
 title: "Letaclanic G4 LED Light Bulbs 3000K Warm White Lighting Dimm"
 seo_title: "Letaclanic G4 LED Light Bulbs 3000K Warm White Lig Review"
 meta_description: "Our full letaclanic g4 led light bulbs 3000k warm white lighting dimm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BNH7XB9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u1Y2gZGSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Letaclanic G4 LED Light Bulbs 3000K Review: Solid Warm Light, One Big Caveat

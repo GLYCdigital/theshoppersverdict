@@ -1,4 +1,5 @@
 ---
+
 title: "GNMLP2020 Loveseat Recliner Sofa, Small Sofa Couch, PU Leath"
 seo_title: "GNMLP2020 Loveseat Recliner Review: Compact Comfort (2026)"
 meta_description: "Honest GNMLP2020 loveseat recliner review: PU leather durability, recline comfort, assembly ease, and space-saving value for small apartments."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GFMPYZ1P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RGU9SDJjL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine two-person recline with independent footrests — both seats recline fully, not a split-personality compromise"
   - "PU leather surface cleans up with a damp cloth; holds up well against pet claws and everyday spills per multiple long-term owner reports"
   - "Assembles in under 30 minutes with only four bolts — no special tools or second person required"
-cons:
+cons: 
   - "Firm seat cushions from day one; expect a 2-3 week break-in period before they soften to comfortable"
   - "PU leather can get sticky against bare skin in humid climates — keep a throw blanket handy for summer months"
+
 ---
 
 If you're shopping for a compact recliner sofa, you've likely hit the same wall I did: most "loveseat recliners" are either oversized behemoths that swallow a small room, or they're glorified chairs with a middle armrest that makes cuddling impossible. The GNMLP2020 takes a different approach — and for the most part, it works.

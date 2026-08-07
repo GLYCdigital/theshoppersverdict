@@ -1,4 +1,5 @@
 ---
+
 title: "Flower Knows Strawberry Cupid Makeup Palette"
 seo_title: "Flower Knows Strawberry Cupid Makeup Palette Review: Verd"
 meta_description: "Our full flower knows strawberry cupid makeup palette review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F18FXHJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m9lBISufL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me start with the obvious: you're not buying this palette for the shades alone. You're buying the *experience* — the strawberry-embossed pans, the Victorian-inspired gold casing, the way it feels like opening a piece of jewelry rather than a makeup compact. But does the inside justify the $36 price tag? After testing this for three weeks, here's the honest breakdown.

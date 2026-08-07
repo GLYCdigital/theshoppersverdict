@@ -1,4 +1,5 @@
 ---
+
 title: "Makita RP1800 3-1/4 HP* Plunge Router"
 seo_title: "Makita RP1800 3-1/4 HP* Plunge Router Review: Verdict | T"
 meta_description: "Our full makita rp1800 3-1/4 hp* plunge router review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002MUAMFE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61jj0D1OfcL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're serious about joinery, dovetails, or template work, you already know the Makita RP1800 name. It's been a shop staple for years, and with a 4.7-star average across 235 ratings, it's earned that reputation. But at this price point, you're not just buying power — you're buying precision. Here's the honest breakdown.

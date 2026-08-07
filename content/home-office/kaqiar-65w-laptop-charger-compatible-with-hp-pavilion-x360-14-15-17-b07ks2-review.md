@@ -1,4 +1,5 @@
 ---
+
 title: "KAQIAR 65W Laptop Charger Compatible with HP Pavilion x360 1"
 seo_title: "KAQIAR 65W Laptop Charger Compatible with HP Pavil Review"
 meta_description: "Our full kaqiar 65w laptop charger compatible with hp pavilion x360 1 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07KS29ZJ2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wzoDfJHdS._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever paid $80 for an OEM charger at a big-box store, you know the pain. The KAQIAR 65W charger for HP Pavilion x360 sits in a different lane: it's a third-party replacement that costs a fraction of the genuine HP part, and with 229 ratings averaging 4.6 stars, it's clearly doing something right. But is it a smart buy or a fire hazard waiting to happen? Here's the real breakdown.

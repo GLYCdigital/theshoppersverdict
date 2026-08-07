@@ -1,4 +1,5 @@
 ---
+
 title: "Reusable K Cups"
 seo_title: "Reusable K Cups Review: Verdict | TSV"
 meta_description: "Our full reusable k cups review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CHS3BKCJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FF+3Ta6YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the noise: single-use K-Cups cost anywhere from $0.50 to $1.00 per pod. Over a year of daily brewing, that’s $180–$365 down the drain for coffee that’s often stale by the time it reaches your cup. A reusable K Cup breaks that cycle after roughly two weeks of use. But not all reusable pods are created equal — and this one, with its 4.5-star average across 225 ratings, has earned a spot on my shortlist. Here’s the real story.

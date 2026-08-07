@@ -1,4 +1,5 @@
 ---
+
 title: "NUWATT 12 Pack 6 Inch Ultra-Thin Bronze LED Recessed Lightin"
 seo_title: "NUWATT 12 Pack 6 Inch Ultra-Thin Bronze LED Recess Review"
 meta_description: "Our full nuwatt 12 pack 6 inch ultra-thin bronze led recessed lightin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0949NKBFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wbnB5+-fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're rewiring a basement ceiling or swapping out old can lights, the NUWATT 6-inch ultra-thin LED kit gets one thing immediately right: it removes the single biggest headache in recessed lighting retrofits. There's no bulky can housing to wrestle into a joist bay, no insulation clearance dance, no fighting with existing framing. These drop into a cutout and lock in with spring clips. At 4.8 stars across 240 ratings, buyers clearly appreciate that simplicity. But let's get into specifics before you drop money on a 12-pack.

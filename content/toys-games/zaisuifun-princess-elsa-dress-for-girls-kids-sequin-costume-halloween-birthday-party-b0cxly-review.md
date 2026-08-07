@@ -1,4 +1,5 @@
 ---
+
 title: "ZaisuiFun Princess Elsa Dress for Girls Kids Sequin Costume "
 seo_title: "ZaisuiFun Princess Elsa Dress for Girls Kids Sequi Review"
 meta_description: "Our full zaisuifun princess elsa dress for girls kids sequin costume  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXLY3ZVK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716Xbc7MnJL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Frozen Effect, Without the Frozen Price**

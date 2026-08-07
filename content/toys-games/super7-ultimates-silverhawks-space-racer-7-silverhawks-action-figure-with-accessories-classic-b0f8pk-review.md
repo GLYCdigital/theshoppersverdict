@@ -1,7 +1,8 @@
 ---
-title: "Super7 Ultimates SilverHawks Space Racer - 7\" SilverHawks Ac"
-seo_title: "Super7 Ultimates SilverHawks Space Racer - 7\" Silv Review"
-meta_description: "Our full super7 ultimates silverhawks space racer - 7\" silverhawks ac review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Super7 Ultimates SilverHawks Space Racer - 7\ SilverHawks Ac"
+seo_title: "Super7 Ultimates SilverHawks Space Racer - 7\ Silv Review"
+meta_description: "Our full super7 ultimates silverhawks space racer - 7\ silverhawks ac review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "super7-ultimates-silverhawks-space-racer-7-silverhawks-action-figure-with-accessories-classic-b0f8pk-review"
 image_alt: "Super7 Ultimates SilverHawks Space Racer - 7 SilverHawks Action Figure with Accessories Classic Cartoon Collectibles and"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8PKV6NM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716myxOxBML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Super7 Ultimates SilverHawks Space Racer Review: A Heavyweight Throwback That Mostly Delivers**

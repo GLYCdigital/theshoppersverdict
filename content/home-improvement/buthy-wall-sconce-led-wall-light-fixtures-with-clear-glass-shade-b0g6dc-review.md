@@ -1,4 +1,5 @@
 ---
+
 title: "BUTHY Wall Sconce LED Wall Light Fixtures with Clear Glass S"
 seo_title: "BUTHY Wall Sconce LED Light Review: Clear Glass, Modern"
 meta_description: "Hands-on BUTHY Wall Sconce LED light review: build quality, brightness, installation tips, and who should buy. 4.7-star rating analyzed."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6DC4CKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61448y3zVPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in LED module rated for 50,000 hours — no bulb replacements, ever"
   - "Clear glass shade delivers crisp, glare-free light without hotspots"
   - "Slim 4.3-inch profile works in hallways, stairwells, and tight alcoves"
-cons:
+cons: 
   - "Non-replaceable LED means the whole fixture dies when the diode fails"
   - "Hardwired only — no plug-in option for renters or quick installs"
+
 ---
 
 ## The Bottom Line Up Front

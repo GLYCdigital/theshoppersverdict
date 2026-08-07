@@ -1,4 +1,5 @@
 ---
+
 title: "Hazel Quinn 2 Slice Retro Toaster, 6 Browning Levels, 3 Func"
 seo_title: "Hazel Quinn 2 Slice Retro Toaster, 6 Browning Leve Review"
 meta_description: "Our full hazel quinn 2 slice retro toaster, 6 browning levels, 3 func review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CP5DPBTN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wnUZEONDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: most toasters under $50 are the same plastic box with a dial that burns one side and ignores the other. The Hazel Quinn 2 Slice Retro Toaster tries to be different — and for the most part, it pulls it off. With a 4.6-star average across 229 ratings, this isn't an obscure gamble. It's a proven budget pick with retro charm. But is it the right toaster for *your* counter? Here's what I found after digging through specs, customer feedback, and the honest tradeoffs.

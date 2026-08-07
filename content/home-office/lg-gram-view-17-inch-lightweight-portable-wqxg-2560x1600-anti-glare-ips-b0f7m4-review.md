@@ -1,4 +1,5 @@
 ---
+
 title: "LG gram +View 17-inch Lightweight, Portable WQXG (2560x1600)"
 seo_title: "LG gram +View 17-inch Lightweight, Portable WQXG ( Review"
 meta_description: "Our full lg gram +view 17-inch lightweight, portable wqxg (2560x1600) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F7M4YCRN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cImyZlS1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever lugged a 15-inch portable monitor in your bag, you know the pain: they're heavy, bulky, and the bezels eat into the actual screen space. The LG gram +View 17-inch flips that script with a panel that's absurdly light for its size — 670 grams, which is roughly the weight of a small tablet. But does the featherweight design come at a cost? I've spent time with this display, dug through buyer feedback, and I'm here to give you the straight story.

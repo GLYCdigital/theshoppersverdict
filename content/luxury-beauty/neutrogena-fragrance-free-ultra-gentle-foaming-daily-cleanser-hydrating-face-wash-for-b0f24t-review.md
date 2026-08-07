@@ -1,4 +1,5 @@
 ---
+
 title: "Neutrogena Fragrance Free Ultra Gentle Foaming Daily Cleanse"
 seo_title: "Neutrogena Fragrance Free Ultra Gentle Foaming Dai Review"
 meta_description: "Our full neutrogena fragrance free ultra gentle foaming daily cleanse review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F24TG2TM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e0bTrxxsL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.6-star cleanser that actually respects your skin barrier — most of the time.**

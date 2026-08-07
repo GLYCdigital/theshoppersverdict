@@ -1,4 +1,5 @@
 ---
+
 title: "SHIANDAR Rustic Chandeliers Farmhouse Chandelier Lighting fo"
 seo_title: "SHIANDAR Rustic Chandeliers Farmhouse Chandelier L Review"
 meta_description: "Our full shiandar rustic chandeliers farmhouse chandelier lighting fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7C7B71C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61En5k5SN+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SHIANDAR Rustic Chandelier Review: Farmhouse Charm Without the Antique Price Tag

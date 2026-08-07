@@ -1,4 +1,5 @@
 ---
+
 title: "CANPA Multifunction Power Rack with Pull up Bar, Heavy Capac"
 seo_title: "CANPA Power Rack Review: Heavy-Duty Cage for Home Gyms"
 meta_description: "CANPA Multifunction Power Rack review: Is this heavy-capacity cage with pull-up bar worth it? Build quality, safety, real user feedback, and who should buy."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09Z2P7GKR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zchvf8l4L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "2x3-inch heavy-gauge steel frame with reinforced gussets handles serious load without wobble"
   - "Multi-grip pull-up bar (wide, neutral, and close-grip options) adds genuine upper-body versatility"
   - "Safety spotter arms and J-hooks are adjustable in 2-inch increments — solid fail-safe for solo lifters"
-cons:
+cons: 
   - "Assembly is a two-person job and takes 2-3 hours; hardware labeling is minimal"
   - "No weight plate storage pegs included — you'll need to buy or rig your own"
   - "Pull-up bar knurling is aggressive; barehanded sets will tear up your palms"
+
 ---
 
 **The short version:** If you're building a no-nonsense home gym and want a cage that handles heavy squats, bench presses, and pull-ups without costing like a commercial unit, the CANPA Multifunction Power Rack deserves a hard look. It's not perfect — assembly will test your patience — but at this price point, the steel quality and safety features punch well above their weight.

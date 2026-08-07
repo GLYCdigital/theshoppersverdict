@@ -1,23 +1,25 @@
 ---
+
 title: "CAWIU Adjustable Bread Slicer for Homemade Bread, Foldable &"
 seo_title: "CAWIU Adjustable Bread Slicer Review: Foldable Guide (2026)"
 meta_description: "CAWIU adjustable bread slicer review: Does the foldable guide deliver even slices? Tested for crusty loaves, soft bread, and cleanup. Read before buying."
 slug: "cawiu-adjustable-bread-slicer-for-homemade-bread-foldable-compact-bread-cutting-guide-b0dkjs-review"
 image_alt: "CAWIU foldable adjustable bread slicer with serrated knife cutting a homemade loaf on a kitchen counter"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 215  
-amazon_rating: 4.3  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 215
+amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKJSHX9K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DdcKBmuwL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Adjustable thickness from 0.4 to 1.2 inches — dial in everything from thin sandwich slices to thick toast"  
   - "Folds flat for drawer storage; takes up less space than a cutting board"  
   - "Slots fit standard serrated knives (up to 8-inch blades) without binding"  
-cons:  
+cons: 
   - "Plastic guides can flex on very hard crusty loaves — you'll need a firm, steady hand"  
   - "No non-slip base; slides on smooth counters unless you wet the surface or place it on a damp towel"
+
 ---
 
 # CAWIU Adjustable Bread Slicer: Even Slices Without the Bakery Price Tag  

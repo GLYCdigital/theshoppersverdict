@@ -1,4 +1,5 @@
 ---
+
 title: "Pool FROG Mineral Reservoir Series 6100"
 seo_title: "Pool FROG Mineral Reservoir Series 6100 Review: Verdict |"
 meta_description: "Our full pool frog mineral reservoir series 6100 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTB4T79H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710p7CroskL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Pool FROG Mineral Reservoir Series 6100 is one of those products that splits pool owners into two camps: those who swear it's the best money they've spent on their pool, and those who almost gave up on it during the first month. After digging through 225 ratings and the detailed reviews behind that 4.5-star average, here's the real story.

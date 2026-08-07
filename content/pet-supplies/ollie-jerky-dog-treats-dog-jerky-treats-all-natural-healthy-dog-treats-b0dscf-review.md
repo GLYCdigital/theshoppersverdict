@@ -1,4 +1,5 @@
 ---
+
 title: "Ollie Jerky Dog Treats - Dog Jerky Treats All Natural - Heal"
 seo_title: "Ollie Jerky Dog Treats - Dog Jerky Treats All Natu Review"
 meta_description: "Our full ollie jerky dog treats - dog jerky treats all natural - heal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DSCF76ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71T-1bcQgIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know the drill: you flip over a bag of dog treats and the ingredient list reads like a chemistry exam. That's not what Ollie is doing here. The "Heal" jerky formula strips things back to what a treat should be — real meat, minimal processing, no mystery additives. At a 4.4/5 from 220 Amazon ratings, it's clearly resonating with owners who've gotten tired of guessing what's actually in the bag.

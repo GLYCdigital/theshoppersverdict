@@ -1,4 +1,5 @@
 ---
+
 title: "igloohome (New!) Deadbolt Go Smart Lock w/Fingerprint, Digit"
 seo_title: "igloohome (New!) Deadbolt Go Smart Lock w/Fingerpr Review"
 meta_description: "Our full igloohome (new!) deadbolt go smart lock w/fingerprint, digit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GRC9H3G4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zO+PcdJgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening: A smart lock that thinks about guests, not just convenience**

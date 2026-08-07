@@ -1,4 +1,5 @@
 ---
+
 title: "Instinct Raw Boost Shakers Freeze-Dried Powder Cat Food Topp"
 seo_title: "Instinct Raw Boost Shakers Freeze-Dried Powder Cat Review"
 meta_description: "Our full instinct raw boost shakers freeze-dried powder cat food topp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1VWMQH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51l8w9fJELL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most cat food toppers are glorified gravy dust. The Instinct Raw Boost Shakers is different — it's freeze-dried raw chicken ground into a powder that actually sticks to kibble. That's a meaningful distinction for anyone with a cat who licks off the "sauce" and leaves the food.

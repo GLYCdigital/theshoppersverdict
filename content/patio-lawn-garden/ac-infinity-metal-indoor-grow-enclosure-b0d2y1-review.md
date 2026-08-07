@@ -1,4 +1,5 @@
 ---
+
 title: "Ac Infinity Metal indoor grow enclosure"
 seo_title: "AC Infinity Metal Grow Enclosure Review: Worth It? (2026)"
 meta_description: "AC Infinity metal grow enclosure review: sturdy build, light-proof design, but ventilation gaps. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D2Y171X8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+4pJL._AC_.gif"
-pros:
+pros: 
   - "Rigid all-metal frame holds its shape — no sagging or flexing like fabric tents"
   - "Fully light-proof zippers and seams when closed, critical for photoperiod plants"
   - "Interior lining is highly reflective, improving light distribution to lower canopy"
-cons:
+cons: 
   - "Ventilation ports are smaller than standard tent openings, requiring adapter kits for most inline fans"
   - "Assembly takes 20–30 minutes longer than fabric tents due to metal panel tolerances"
   - "No floor tray included — spills and runoff will reach your floor unless you add one"
+
 ---
 
 You've seen the fabric tents. They work, but they wobble, sag, and eventually the zippers give out. AC Infinity built this metal enclosure to answer those complaints — and for the most part, it delivers. But at 4.0 stars from 200 ratings, it's not a slam dunk. Here's the real breakdown.

@@ -1,23 +1,25 @@
 ---
+
 title: "Brother Printer LC30172PK High Yield XL Black Ink Cartridge-"
 seo_title: "Brother LC30172PK XL Black Ink Review: 2-Pack Value"
 meta_description: "Honest Brother LC30172PK high-yield XL black ink 2-pack review: page yields, print quality, cost per page, and compatibility. Is it worth it?"
 slug: "brother-printer-lc30172pk-high-yield-xl-black-ink-cartridge-2-pack-b0g3ph-review"
 image_alt: "Brother LC30172PK high yield XL black ink cartridge 2-pack packaging"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G3PHP13F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J8m--rPzL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine Brother ink with 3,000-page yield per cartridge — nearly double standard LC301 black"  
   - "Consistent, smudge-free output on plain paper, even at high speed"  
   - "Chip resets cleanly; no firmware issues reported with current Brother models"  
-cons:  
+cons: 
   - "Premium price per cartridge vs. generic refills — you're paying for reliability"  
   - "No recycling envelope included in the 2-pack, unlike single-cartridge retail boxes"
+
 ---
 
 You've been burned by third-party ink before. The cartridge that "worked" for two weeks, then started printing banded gray stripes. The chip that bricked your printer's firmware. So when you look at the Brother LC30172PK — a 2-pack of genuine high-yield XL black cartridges at roughly $90 — the first question isn't "Is it good?" It's "Why should I trust it this time?"

@@ -1,4 +1,5 @@
 ---
+
 title: "HAPTIME STEM Learning Toys, Construction Engineering Buildin"
 seo_title: "HAPTIME STEM Toys Review: Construction Engineering Blocks w/ Drill"
 meta_description: "Hands-on HAPTIME STEM building toys review: 224-piece set with toy drill. Tested for durability, safety, and real play value. Find out who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7HW3R2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wjW5EWm4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "224-piece set includes a working toy drill with two interchangeable bits — the drill actually rotates and tightens bolts, not a cheap static prop"
   - "Blocks measure 1.2 inches across, large enough for small hands to grip but small enough to demand real dexterity — great fine motor workout"
   - "Comes with a sturdy plastic storage box with a snap lid; pieces stay organized between play sessions"
-cons:
+cons: 
   - "The drill is powered by 2 AA batteries (not included) and can be loud for adults in the room — not a silent toy"
   - "Small bolts and washers are choking hazards for children under 3; supervision required for the youngest builders"
+
 ---
 
 ## The Hook: Is This Another Plastic Brick Set, or Something Better?

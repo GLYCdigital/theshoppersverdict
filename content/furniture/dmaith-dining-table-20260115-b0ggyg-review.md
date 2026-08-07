@@ -1,4 +1,5 @@
 ---
+
 title: "DMAITH Dining Table 20260115 inch"
 seo_title: "DMAITH Dining Table Review: Honest 2026 Buyer's Guide"
 meta_description: "DMAITH Dining Table 20260115 review: real pros, cons, and buyer feedback. Is this 4-star rated table worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GGYG4SPB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gtVDMYdFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy solid wood construction with reinforced crossbeam support for everyday family use"
   - "Scratch-resistant surface finish that holds up well to hot plates and daily wear"
   - "Straightforward assembly with pre-drilled holes and labeled parts — most buyers finish in under an hour"
-cons:
+cons: 
   - "Legs arrive in two pieces requiring alignment — a few buyers report wobble if bolts aren't perfectly tightened"
   - "Seats only 4-6 comfortably despite appearing larger in product photos; measure your space first"
   - "Finish is matte, not glossy — fingerprints show more readily on darker color options"
+
 ---
 
 # DMAITH Dining Table 20260115 Review: The Family Table That Actually Earns Its Keep

@@ -1,4 +1,5 @@
 ---
+
 title: "Wowag Small Cordless Table Lamp,5000mAh Rechargeable Battery"
 seo_title: "Wowag Small Cordless Table Lamp,5000mAh Rechargeab Review"
 meta_description: "Our full wowag small cordless table lamp,5000mah rechargeable battery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSB9NCM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LWtbJ4CYL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most cordless lamps under $40 are junk. They're either too dim to read by, die after two hours, or feel like they'll crack if you look at them wrong. The Wowag Small Cordless Table Lamp isn't that. It's not perfect, but it earns its 4.2-star rating from 210 buyers — and for the right person, it's genuinely excellent.

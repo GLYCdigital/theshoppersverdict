@@ -1,4 +1,5 @@
 ---
+
 title: "Kodiak Furniture Carson Full Size Futon Frame and Mattress S"
 seo_title: "Kodiak Furniture Carson Full Size Futon Frame and  Review"
 meta_description: "Our full kodiak furniture carson full size futon frame and mattress s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DTXS8S5T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51x1T-11YFL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Kodiak Carson is a futon that takes itself seriously.** Most futon sets in this price range are glorified camp cots with particleboard frames. This one ships with a solid hardwood frame rated for 600 pounds and a real coil mattress — not a foam slab that pancakes after six months. At 3.9 stars across 195 ratings, it's not perfect. But for under $300, it's one of the few futons I'd actually trust a grown adult to sleep on regularly.

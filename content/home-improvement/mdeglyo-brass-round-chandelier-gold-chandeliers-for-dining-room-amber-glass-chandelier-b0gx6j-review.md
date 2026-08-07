@@ -1,4 +1,5 @@
 ---
+
 title: "MDEGLYO Brass Round Chandelier, Gold Chandeliers for Dining "
 seo_title: "MDEGLYO Brass Round Chandelier, Gold Chandeliers f Review"
 meta_description: "Our full mdeglyo brass round chandelier, gold chandeliers for dining  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GX6J4MZC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DVrKPhvPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A 4.9-star gold chandelier that actually earns its rating.** The MDEGLYO brass round chandelier delivers the warm, amber-lit elegance you see in designer catalogs — but at a fraction of the custom-fixture price. After digging through 245 verified ratings, the consensus is clear: this is one of the few affordable brass fixtures that doesn't look cheap in person.

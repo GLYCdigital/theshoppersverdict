@@ -1,4 +1,5 @@
 ---
+
 title: "Roundhill Furniture Athens Contemporary Wood Shelf End Table"
 seo_title: "Roundhill Furniture Athens Contemporary Wood Shelf Review"
 meta_description: "Our full roundhill furniture athens contemporary wood shelf end table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CV49J49K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1CMBmAHeAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Skip the generic "nightstand under $100" roulette. The Roundhill Furniture Athens Contemporary Wood Shelf End Table is the rare budget find that doesn't *feel* budget. With 225 ratings averaging 4.5 stars, it's earned its place in countless living rooms — but let's get specific about whether it earns a spot in yours.

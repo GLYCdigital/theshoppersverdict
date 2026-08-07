@@ -1,4 +1,5 @@
 ---
+
 title: "Chocolove Dark Chocolate Bar 3 Oz Review"
 seo_title: "Chocolove Dark Chocolate Bar 3 Oz Review: Worth It?"
 meta_description: "Chocolove Dark Chocolate Bar 3 Oz review: rich flavor, real ingredients, and fair-trade sourcing. See if this 210-rated bar earns its 4.2 stars."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCFC7GQY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aZtTkze+L._SL1500_.jpg"
-pros:
+pros: 
   - "Uses real cocoa butter and fair-trade cocoa — no artificial flavors or waxy fillers"
   - "3 oz bar is substantial for the price point, with clean snap and smooth melt"
   - "Certified kosher and gluten-free, making it a safe choice for dietary restrictions"
-cons:
+cons: 
   - "Can arrive melted in warm weather if shipped without cold packaging"
   - "Some buyers report inconsistent cacao percentages between batches"
   - "Not for milk chocolate lovers — this is properly dark, not sweet"
+
 ---
 
 **A Coffee Companion That Actually Earns Its Place on Your Counter**

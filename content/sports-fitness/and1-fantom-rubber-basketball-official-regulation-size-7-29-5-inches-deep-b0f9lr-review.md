@@ -1,23 +1,25 @@
 ---
+
 title: "AND1 Fantom Rubber Basketball: Official Regulation Size 7 (2 inch  "
 seo_title: "AND1 Fantom Basketball Review: Size 7 Outdoor Value Pick"
 meta_description: "Honest AND1 Fantom rubber basketball review: grip, durability, bounce on outdoor courts. Is this size 7 ball worth $25? Find out here."
 slug: "and1-fantom-rubber-basketball-official-regulation-size-7-29-5-inches-deep-b0f9lr-review"
 image_alt: "AND1 Fantom official size 7 rubber basketball with deep channels and pebbled texture on outdoor court"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F9LRV13X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KKx-6YKEL._AC_SL1499_.jpg"
-pros:  
+pros: 
   - "Deep channel design improves fingertip control on sweaty outdoor games"  
   - "Tacky rubber compound grips asphalt better than most $20–$30 balls"  
   - "Holds air consistently over 2+ months of weekly outdoor play"  
-cons:  
+cons: 
   - "Surface picks up dust quickly on dirty courts — needs a wipe every few possessions"  
   - "Stiff out of the box; takes 3–4 sessions to break in properly"
+
 ---
 
 You know that feeling when you grab a ball at the park and it just *feels* cheap? The AND1 Fantom is not that ball. For under $30, this regulation size 7 rubber basketball punches well above its price point — but it's not without quirks. Here's the honest breakdown after digging through 220 ratings and real buyer feedback.

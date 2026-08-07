@@ -1,4 +1,5 @@
 ---
+
 title: "Mosser Lee ML1112 Black Sand Soil Cover, 5 lb."
 seo_title: "Mosser Lee ML1112 Black Sand Soil Cover, 5 lb. Review: Ve"
 meta_description: "Our full mosser lee ml1112 black sand soil cover, 5 lb. review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXRVL6S6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61E1Gq2pZAL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Review**

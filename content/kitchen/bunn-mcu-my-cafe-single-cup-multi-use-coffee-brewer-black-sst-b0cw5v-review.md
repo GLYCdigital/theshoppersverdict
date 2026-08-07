@@ -1,4 +1,5 @@
 ---
+
 title: "BUNN MCU My Cafe Single Cup Multi Use Coffee Brewer (Black/S"
 seo_title: "BUNN MCU My Cafe Review: Single Cup Brewer Worth It?"
 meta_description: "Honest BUNN MCU My Cafe single cup coffee brewer review. Multi-use brewing for grounds, K-cups, and pods. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CW5VMT72/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wPHrRhpwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brews loose grounds, K-Cups, and soft pods in one machine — genuine versatility for a single-cup brewer"
   - "BUNN's commercial-grade reputation means the internal heating system holds water at 200°F, so you're not waiting for a cold tank to heat"
   - "Straightforward manual operation with no app, no touchscreen, no firmware — just a switch and a lever"
-cons:
+cons: 
   - "At 3.7 stars, a meaningful chunk of buyers report inconsistent brew temperature and weak coffee when using K-Cups"
   - "No auto shut-off; if you leave it on, it keeps the tank hot indefinitely, which some owners flag as a safety or energy concern"
   - "No auto shut-off; leaving it on keeps the tank hot indefinitely — a real energy and safety concern"
+
 ---
 
 **The BUNN MCU My Cafe is a machine with a split personality.** On one hand, it's a commercial-heritage brewer that handles loose grounds, K-Cups, and soft pods. On the other, it asks you to babysit the brewing process with a manual lever and a spray head that doesn't always cooperate. Here's the real breakdown.

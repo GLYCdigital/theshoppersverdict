@@ -1,4 +1,5 @@
 ---
+
 title: "BRAECNstock iPad 9th/8th/7th Generation Case 2021/2020/2019 inch"
 seo_title: "BRAECNstock iPad 9th Gen Case Review (2021/2020/2019)"
 meta_description: "BRAECNstock iPad 9th/8th/7th gen case review: build quality, pencil holder, kickstand, and auto wake tested. Is it worth $20? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FFMBS82S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IBjhG83mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cutouts and snug fit for the 10.2-inch iPad chassis — no wobble, no blocked ports"
   - "Auto wake/sleep works consistently, which many budget cases get wrong"
   - "Built-in Apple Pencil slot keeps the stylus secure without adding bulk to the profile"
-cons:
+cons: 
   - "Translucent back panel shows fingerprints and smudges quickly; a matte option would be better"
   - "Kickstand is single-angle only — fine for typing, less ideal for media viewing at a distance"
+
 ---
 
 If you own a 10.2-inch iPad (the 9th, 8th, or 7th generation), you already know the dilemma: Apple's own cases cost nearly as much as a decent Bluetooth keyboard, and the cheap no-name options on Amazon are a gamble. The BRAECNstock case sits squarely in the middle — and after 225 ratings averaging 4.5 stars, it's worth understanding why it keeps showing up in "frequently bought together" lists.

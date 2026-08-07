@@ -1,4 +1,5 @@
 ---
+
 title: "PetraTools 3 Gallon Battery Powered Backpack Sprayer in Lawn"
 seo_title: "PetraTools 3 Gallon Battery Powered Backpack Spray Review"
 meta_description: "Our full petratools 3 gallon battery powered backpack sprayer in lawn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C78L44Z1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810ixxaG8NL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The PetraTools 3 Gallon Battery Powered Backpack Sprayer in Lawn** has carved out a solid niche among homeowners who've graduated from pumping a handheld sprayer 40 times per minute but aren't ready for a $700 commercial rig. At 4.3 stars across 215 ratings, it's clearly working for most — but the criticisms are consistent enough that you should know what you're signing up for.

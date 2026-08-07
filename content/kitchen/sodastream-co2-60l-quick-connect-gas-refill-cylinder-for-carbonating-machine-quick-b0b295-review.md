@@ -1,4 +1,5 @@
 ---
+
 title: "Sodastream - CO2 60L quick connect gas refill cylinder for c"
 seo_title: "Sodastream - CO2 60L quick connect gas refill cyli Review"
 meta_description: "Our full sodastream - co2 60l quick connect gas refill cylinder for c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B295Z1ZJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FO94wYHUL._AC_SL1436_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you own a SodaStream, you already know the machine isn't the expense — the CO2 cylinders are. This 60L quick connect refill from SodaStream is the official replacement, and it's the benchmark every third-party cylinder gets compared to. At 4.7 stars across 235 ratings, it's clearly doing something right. Let's break down whether it's worth your money.

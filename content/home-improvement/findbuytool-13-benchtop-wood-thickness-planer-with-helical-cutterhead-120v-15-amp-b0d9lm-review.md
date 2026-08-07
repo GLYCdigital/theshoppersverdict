@@ -1,4 +1,5 @@
 ---
+
 title: "FindBuyTool 13 inch  Benchtop Wood Thickness Planer with Helical"
 seo_title: "FindBuyTool 13 inch  Planer Review: Helical Cutterhead Value"
 meta_description: "FindBuyTool 13 inch  benchtop thickness planer with helical cutterhead: quiet, smooth finish, 15-amp motor. Read our honest review before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9LM34RB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610hrNq+ZqL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Helical cutterhead with indexable carbide inserts delivers a glass-smooth finish on figured woods and eliminates tear-out on reversing grain"
   - "Quieter operation than straight-knife planers — noticeably less whine at full 15-amp load"
   - "Includes a spare set of carbide inserts and the hex wrench needed for rotation — a $40+ value out of the box"
-cons:
+cons: 
   - "Chip ejection is aggressive — you'll want a dust collector or at least a bag; the deflector aims shavings with force"
   - "No depth scale on the side — you'll rely on the crank indicator, which is accurate but requires a second look to read"
+
 ---
 
 If you've been putting off upgrading from a straight-knife planer because helical models from DeWalt or Makita run $600+, the FindBuyTool 13" is the budget argument that changes the conversation. At roughly half the price of the big names, it delivers the two things that matter most: a carbide helical cutterhead and a finish that doesn't need sanding before you can look at it.

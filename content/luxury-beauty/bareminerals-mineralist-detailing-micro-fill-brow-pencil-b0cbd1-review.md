@@ -1,4 +1,5 @@
 ---
+
 title: "bareMinerals Mineralist Detailing Micro-Fill Brow Pencil"
 seo_title: "bareMinerals Mineralist Micro-Fill Brow Pencil Review (2026)"
 meta_description: "Honest bareMinerals Mineralist Detailing Micro-Fill Brow Pencil review: 4.4-star rated, hair-like strokes, clean formula, and real downsides. Is it worth $24?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CBD1TMNM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51uCuX115oL._SL1500_.jpg"
-pros:
+pros: 
   - "Ultra-fine 1.4mm tip delivers hair-like strokes that genuinely mimic natural brow hairs"
   - "Clean, mineral-based formula with squalane and jojoba — no wax buildup or flaking"
   - "Built-in spoolie and twist-up mechanism mean zero sharpening and no product waste"
-cons:
+cons: 
   - "Shade range is limited to 6 options — deeper skin tones may struggle to find a match"
   - "Wax-free formula means shorter wear on oily skin; expect touch-ups by hour 6"
+
 ---
 
 You know that moment when you look in the mirror and your brows look like you *tried* — but not in a drawn-on, instagram-brow way? That's exactly the niche the bareMinerals Mineralist Detailing Micro-Fill Brow Pencil is chasing. With a 4.4-star average across 220+ Amazon ratings, it's clearly doing something right. But at this price point, "something right" isn't enough. Let's dig into whether this clean-beauty brow pencil earns its keep.

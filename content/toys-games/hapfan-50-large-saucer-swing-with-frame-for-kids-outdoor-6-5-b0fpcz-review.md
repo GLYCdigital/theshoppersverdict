@@ -1,4 +1,5 @@
 ---
+
 title: "Hapfan 50 inch  Large Saucer Swing with Frame for Kids Outdoor, 6 inch"
 seo_title: "Hapfan 50 inch  Saucer Swing with Frame Review (2026): Worth It?"
 meta_description: "Hapfan 50 inch  saucer swing with frame review: sturdy build, 6-seat capacity, real buyer feedback. Is this backyard swing worth $200+? Find out."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPCZXYPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61r7LpNS5JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "50-inch woven saucer seat holds up to 6 kids (or 3 adults) without sagging — the triple-stitched fabric and 330-lb weight rating are genuinely tested, not just printed on the box"
   - "A-frame steel construction with anti-tip crossbars stays planted even with aggressive twisting; the whole unit weighs 48 lbs and doesn't shift on level grass"
   - "Assembly takes under 30 minutes with the included hex wrench — no extra tools needed, and the instructions actually match the parts (rare at this price point)"
-cons:
+cons: 
   - "The frame is powder-coated but not rust-proof — if you leave it out in rain or snow, expect surface corrosion within 6-8 months; plan to cover it or bring it in during off-season"
   - "At 7.5 feet tall, the top bar sits low enough that a tall adult (6'+) can clip their head if they walk under it while kids are swinging"
+
 ---
 
 **Bottom Line Up Front:** The Hapfan 50" Large Saucer Swing with Frame is the rare backyard toy that delivers exactly what the listing promises — a genuinely sturdy, multi-child swing that doesn't wobble, tip, or collapse after a season of hard use. At 4.6 stars across 229 ratings, it's not perfect (rust resistance and height are real concerns), but for families with 2+ kids who want one swing that ends the "my turn" arguments, this is the one to beat in the under-$250 range.

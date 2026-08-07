@@ -1,4 +1,5 @@
 ---
+
 title: "Millennium Boat Seat B-100 Green, B-100-GN"
 seo_title: "Millennium Boat Seat B-100 Green, B-100-GN Review: Verdic"
 meta_description: "Our full millennium boat seat b-100 green, b-100-gn review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B00JRHSM98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uj2jWxk7L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’ll know within the first hour on the water whether the Millennium B-100 is worth its asking price. The answer, for most serious anglers, is a resounding yes—but there are nuances worth understanding before you hand over your credit card.

@@ -1,4 +1,5 @@
 ---
+
 title: "VIVOSUN T5 Grow Lights, 5000 Lumens"
 seo_title: "VIVOSUN T5 Grow Lights, 5000 Lumens Review: Verdict | TSV"
 meta_description: "Our full vivosun t5 grow lights, 5000 lumens review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DCDRWRMZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Yuo7b4qvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the LED grow light noise. The VIVOSUN T5 5000-lumen fixture isn't trying to replace a 600W HPS for flowering cannabis. It's aimed at a specific job: getting seeds started, rooting cuttings, and keeping houseplants alive through winter. And for that role, it punches well above its price point.

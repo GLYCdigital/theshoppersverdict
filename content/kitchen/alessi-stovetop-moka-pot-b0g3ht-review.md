@@ -1,4 +1,5 @@
 ---
+
 title: "Alessi Stovetop Moka Pot"
 seo_title: "Alessi Stovetop Moka Pot Review: Design Meets Function"
 meta_description: "Alessi Moka Pot review: Is this iconic stovetop espresso maker worth the premium? We break down build quality, brew performance, and value."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0G3HTG7PJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ubwEPh3VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Mirror-polished 18/10 stainless steel body that won't corrode or react with coffee acids—a genuine upgrade over aluminum"
   - "Ergonomic handle stays cool during brewing thanks to the insulated phenolic resin construction"
   - "Precise Italian engineering delivers consistent espresso crema when you follow the heat-control instructions"
-cons:
+cons: 
   - "Requires a learning curve—the polished finish makes it hard to gauge water level and internal pressure without experience"
   - "Premium price tag commands 2-3x the cost of comparable aluminum moka pots with identical brewing mechanics"
   - "Not induction-compatible; only works on gas, electric coil, or ceramic cooktops"
+
 ---
 
 Let's cut to the chase: the Alessi Moka Pot is the designer-brand espresso maker that costs three times as much as a Bialetti for the same basic brewing physics. But here's the thing—sometimes design and materials genuinely change the experience. This is one of those cases, with caveats.

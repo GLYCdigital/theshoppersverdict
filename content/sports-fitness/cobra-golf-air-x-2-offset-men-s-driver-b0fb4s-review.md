@@ -1,4 +1,5 @@
 ---
+
 title: "Cobra Golf Air-X 2 Offset Men's Driver"
 seo_title: "Cobra Air-X 2 Offset Driver Review: Lightweight Game-Improvement"
 meta_description: "Cobra Air-X 2 Offset driver review: ultralight build, draw bias, and forgiveness. Is this the right driver for slower swing speeds? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FB4S2GWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gGBRT3EWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extremely light total weight (under 290g) promotes faster swing speed for moderate tempo players"
   - "Offset hosel visibly squares the face at address, delivering genuine draw bias that fights slices"
   - "Forgiving face across heel-toe misses, with ball speeds staying respectable on mis-hits"
-cons:
+cons: 
   - "Stock shaft feels whippy for stronger swingers — this is strictly a slower-swing-speed club"
   - "Fixed loft options (only 9.5° and 10.5°) limit adjustability compared to competitors"
   - "Head shape looks slightly closed at address, which may bother players who prefer a neutral look"
+
 ---
 
 Slicing the ball off the tee isn't a character flaw — it's an equipment problem. And Cobra's Air-X 2 Offset is one of the most direct solutions you'll find under $300. This is a driver built with one job: get the ball airborne and curving back toward the fairway. Let's break down whether it's the right fix for your game.

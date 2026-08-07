@@ -1,4 +1,5 @@
 ---
+
 title: "Yoobure Nightstand with Charging Station, LED Night Stand wi"
 seo_title: "Yoobure Nightstand with Charging Station, LED Nigh Review"
 meta_description: "Our full yoobure nightstand with charging station, led night stand wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJ6F1MQH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U-HUG0CtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some nightstands hold your phone. This one charges it, lights up your room, and hides your clutter. The Yoobure Nightstand with Charging Station isn't just another flat-pack box — it's the bedside table that finally acknowledges you live in 2026, not 1996.

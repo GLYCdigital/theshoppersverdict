@@ -1,4 +1,5 @@
 ---
+
 title: "Calphalon"
 seo_title: "Calphalon Cookware Review: Is It Worth It in 2026?"
 meta_description: "Honest Calphalon review: performance, durability, and value. See what 220 buyers say before you spend. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXX4CLV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tXlCES97L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Even heat distribution across the cooking surface — no hot spots, even when searing at high heat"
   - "Hard-anodized construction feels substantial and resists warping, even on induction burners"
   - "Oven-safe lids and riveted handles that stay cool on the stovetop"
-cons:
+cons: 
   - "Nonstick coating degrades faster than pricier competitors if you use metal utensils or high heat"
   - "Heavier than expected — not ideal for cooks with wrist or grip issues"
+
 ---
 
 # Calphalon Cookware Review: Does It Earn Its Place in Your Kitchen?

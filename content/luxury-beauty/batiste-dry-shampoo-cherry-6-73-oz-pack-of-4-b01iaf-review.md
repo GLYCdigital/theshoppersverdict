@@ -1,4 +1,5 @@
 ---
+
 title: "Batiste Dry Shampoo, Cherry 6.73 oz (Pack of 4)"
 seo_title: "Batiste Dry Shampoo Cherry Review (Pack of 4) | 2026 inch"
 meta_description: "Our honest Batiste Dry Shampoo Cherry review: Does the 4-pack deliver fresh volume? We test scent, oil absorption, and white residue. Real buyer verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01IAFG0A0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81TXRFNwhFL._SL1486_.jpg"
-pros:
+pros: 
   - "Cherry scent actually masks oil smell effectively — not a cheap, candy-like fragrance"
   - "Rice starch formula lifts roots without the heavy white cast that plagues cheaper brands"
   - "6.73 oz cans last roughly 2 months with every-other-day use — real value in the 4-pack"
-cons:
+cons: 
   - "Strong fragrance that lingers for hours — sensitive noses may find it overwhelming"
   - "Requires vigorous brushing to fully distribute; lazy application leaves visible powder streaks"
+
 ---
 
 Let's be honest about dry shampoo: most formulas either leave you looking like you dipped your head in flour or smelling like a chemical accident. The Batiste Cherry 4-pack sits in a different lane — and the 4.7-star average across 235 ratings suggests plenty of shoppers agree.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ubiquiti Router"
 seo_title: "Ubiquiti Router Review: Verdict | TSV"
 meta_description: "Our full ubiquiti router review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0848JRKXN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be direct: the Ubiquiti Router (often referred to as the UniFi Security Gateway or a similar model in this series) is not your typical consumer router. It doesn’t have flashy antennas, and it won’t beam Wi-Fi to your laptop out of the box. But if you’re running a home office, a small business, or you simply demand enterprise-grade reliability without the enterprise price tag, this device deserves a hard look.

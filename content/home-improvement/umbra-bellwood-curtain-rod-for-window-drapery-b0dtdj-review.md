@@ -1,4 +1,5 @@
 ---
+
 title: "Umbra Bellwood Curtain Rod for Window Drapery"
 seo_title: "Umbra Bellwood Curtain Rod for Window Drapery Review: Ver"
 meta_description: "Our full umbra bellwood curtain rod for window drapery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTDJY9D3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Hdo28mblL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever wrestled with a flimsy curtain rod that sags in the middle or scratches your wall with exposed screws, the **Umbra Bellwood** is here to change your mind. This isn't the cheapest rod on Amazon, but it's the one that feels like it was actually designed by someone who hangs curtains for a living. With a 4.6-star average across 229 ratings, it's clearly earning its keep in real homes.

@@ -1,4 +1,5 @@
 ---
+
 title: "Southern Living Sunshine Ligustrum 2 Gallon Shrub Plants"
 seo_title: "Southern Living Sunshine Ligustrum 2 Gallon Shrub  Review"
 meta_description: "Our full southern living sunshine ligustrum 2 gallon shrub plants review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B3H2MT5V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81YItDEIb2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same green boxwoods and boring junipers, the Southern Living Sunshine Ligustrum is the shrub that actually stops the scroll. Its chartreuse-gold foliage looks like someone Photoshopped a sunbeam into a hedge — and at 4.3 stars from 215 Amazon ratings, it's clearly earning its keep in real yards. But is it worth the money and the wait? Here's the honest breakdown.

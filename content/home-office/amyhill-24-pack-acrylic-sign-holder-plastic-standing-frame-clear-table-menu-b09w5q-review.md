@@ -1,4 +1,5 @@
 ---
+
 title: "Amyhill 24 Pack Acrylic Sign Holder Plastic Standing Frame C"
 seo_title: "Amyhill 24 Pack Acrylic Sign Holder Review (2026): Worth It?"
 meta_description: "Honest Amyhill 24-pack acrylic sign holder review: durability, clarity, real customer feedback, and who should buy. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09W5QGJWG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dg14j7unL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine acrylic with 3mm thickness — notably more rigid than cheap polystyrene frames that crack on arrival"
   - "Each frame ships with its own protective film on both sides, so they arrive scratch-free and ready to polish"
   - "Tent-style folding design holds 8.5x11 paper securely without clips, magnets, or assembly tools"
-cons:
+cons: 
   - "Plastic hinge on the fold line will eventually fatigue — these are not a permanent display solution"
   - "No lip or stopper on the bottom edge, so lightweight cardstock can slide out if the frame gets bumped"
   - "The 'C' variant is shorter than standard letter-size frames — measure your counter space before buying"
+
 ---
 
 If you've priced acrylic sign holders for your restaurant, retail counter, or office lobby, you know they usually run $5 to $10 *each*. The Amyhill 24-pack undercuts that dramatically, but the real question is whether you're getting a bargain or a pile of cracked plastic. After digging through the specs and 220 ratings, here's the honest picture.

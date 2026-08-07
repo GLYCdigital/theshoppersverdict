@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO 2K Drive"
 seo_title: "LEGO 2K Drive Review: Verdict | TSV"
 meta_description: "Our full lego 2k drive review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FLH9XTPV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ixJDtdaiL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be clear about what LEGO 2K Drive is: it’s not a LEGO game in the traditional Traveller’s Tales sense. There’s no licensed movie tie-in, no witty British narration, and no collect-a-thon hub world. Instead, 2K and Visual Concepts have delivered a proper arcade racer in the vein of *Forza Horizon* — but everything is made of bricks. And honestly, that might be the best decision anyone could have made with this property.

@@ -1,4 +1,5 @@
 ---
+
 title: "uuffoo Cordless Table Lamp Rechargeable 5000mAH Battery Oper"
 seo_title: "uuffoo Cordless Table Lamp Rechargeable 5000mAH Ba Review"
 meta_description: "Our full uuffoo cordless table lamp rechargeable 5000mah battery oper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FGGZP74R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51H70JA7ppL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # uuffoo Cordless Table Lamp Rechargeable 5000mAH Battery Oper: The Portable Light That Actually Delivers

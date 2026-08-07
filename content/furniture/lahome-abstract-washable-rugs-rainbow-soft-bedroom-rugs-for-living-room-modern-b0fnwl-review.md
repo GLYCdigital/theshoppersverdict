@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Abstract Washable Rugs Rainbow Soft Bedroom Rugs for "
 seo_title: "Lahome Abstract Washable Rugs Rainbow Soft Bedroom Review"
 meta_description: "Our full lahome abstract washable rugs rainbow soft bedroom rugs for  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FNWL2YLF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81leRNIAFrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re looking at a rug that promises three things: soft, washable, and stylish. The Lahome Abstract Washable Rug delivers on all three — with a couple of caveats worth knowing before you click “add to cart.”

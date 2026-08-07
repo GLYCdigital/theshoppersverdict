@@ -1,4 +1,5 @@
 ---
+
 title: "Panini Vision X VX5050NJ Bank Check and Document Scanner, 50"
 seo_title: "Panini Vision X VX5050NJ Bank Check and Document S Review"
 meta_description: "Our full panini vision x vx5050nj bank check and document scanner, 50 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B018OQ60AU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/515jXfICMpL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Panini Vision X VX5050NJ occupies a weird spot in the scanner market. It's too expensive for a general office, too specialized for most home users — but if you process checks, deposit tickets, or any MICR-encoded documents, there's nothing else in this class that touches it at this price.

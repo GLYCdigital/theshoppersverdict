@@ -1,4 +1,5 @@
 ---
+
 title: "Chefman Electric Kettle with Tea Infuser Easy Cleaning, Boil"
 seo_title: "Chefman Electric Kettle with Tea Infuser Review (2026)"
 meta_description: "Chefman Electric Kettle with Tea Infuser review: fast boil, easy-clean stainless build, dry protection. Real pros, cons, and verdict for tea lovers."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKCBB3S1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DmKNgfn-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Removable stainless infuser basket allows loose-leaf tea without a separate teapot"
   - "Rapid 1500W boil with auto shut-off and boil-dry protection for countertop safety"
   - "Wide-mouth opening and brushed stainless interior make descaling genuinely easy"
-cons:
+cons: 
   - "No temperature presets — you're boiling to 212°F only, so delicate green teas need manual timing"
   - "Cord length is short (~2 feet), which can force awkward placement near an outlet"
   - "Lid isn't hinged; it lifts off completely and can drip when you set it down"
+
 ---
 
 If you drink tea daily but refuse to own a dedicated tea pot, the Chefman Electric Kettle with Tea Infuser is trying to solve a very specific problem: boiling water and steeping loose-leaf in a single countertop appliance. The question is whether it does both well enough to justify the space.

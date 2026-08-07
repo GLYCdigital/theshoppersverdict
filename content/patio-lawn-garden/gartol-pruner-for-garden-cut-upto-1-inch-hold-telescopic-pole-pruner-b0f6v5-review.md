@@ -1,4 +1,5 @@
 ---
+
 title: "GARTOL Pruner for Garden, Cut Upto 1 Inch & Hold Telescopic"
 seo_title: "GARTOL Telescopic Pruner Review: Cut Up to 1 Inch"
 meta_description: "Honest GARTOL telescopic pruner review: reach up to 8 ft, cut 1-inch branches, hold grip. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6V5YSQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612hsB3h7BL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Telescopic shaft extends to roughly 8 feet, letting you reach high branches without a ladder"
   - "Cut-and-hold mechanism grips the branch after cutting, so it won't drop onto your head or garden bed"
   - "Bypass-style blade delivers clean cuts on live wood up to 1 inch thick without crushing the stem"
-cons:
+cons: 
   - "Heavier than a standard hand pruner when fully extended — arm fatigue sets in on bigger jobs"
   - "The pull-cord mechanism requires two hands to operate, which can be awkward on angled branches"
   - "Not ideal for dead, brittle wood over 1 inch; the hold feature struggles with heavy loads"
+
 ---
 
 If you've ever balanced on a wobbly step stool while reaching for a high branch, the GARTOL Telescopic Pruner is the tool you've been waiting for. This pole pruner extends your reach to about 8 feet, cutting branches up to 1 inch thick — and it holds onto the cut piece so it doesn't crash onto your flower beds. It's not perfect, but for most backyard orchardists and shrub-tamers, it earns its place in the shed.

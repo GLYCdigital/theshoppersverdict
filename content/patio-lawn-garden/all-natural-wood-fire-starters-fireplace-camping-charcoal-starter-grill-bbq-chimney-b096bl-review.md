@@ -1,4 +1,5 @@
 ---
+
 title: "All Natural Wood Fire Starters: Fireplace Camping Charcoal S"
 seo_title: "All Natural Wood Fire Starters Review: Do They Work?"
 meta_description: "Honest review of All Natural Wood Fire Starters for fireplace, camping, charcoal grills. Tested for burn time, smell, and value. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B096BL6RQV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+W2ygjW9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Burns 30-40 minutes per stick — long enough to fully light charcoal without a chimney"
   - "No chemical smell or taste transfer; safe for cooking applications"
   - "Each stick is a single solid piece of wood, not compressed sawdust that crumbles"
-cons:
+cons: 
   - "Requires a lighter or match to ignite; no self-lighting capability"
   - "Packaging is plain and not resealable — plan to store leftover sticks in a dry place"
+
 ---
 
 You've been burned before by fire starters that fizzle out in five minutes or leave a chemical taste on your steak. These all-natural wood fire starters from a brand that clearly gets it right are a different animal entirely. At 4.6 stars across 229 ratings, they've earned their spot in the grilling and fireplace rotation. Here's the unvarnished truth after putting them through real-world use.

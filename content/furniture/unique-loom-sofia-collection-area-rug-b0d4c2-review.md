@@ -1,4 +1,5 @@
 ---
+
 title: "Unique Loom Sofia Collection Area Rug"
 seo_title: "Unique Loom Sofia Collection Area Rug Review: Verdict | T"
 meta_description: "Our full unique loom sofia collection area rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4C27M4R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-0wE6pMTL._AC_SL1491_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Unique Loom Sofia Collection is the rug equivalent of a reliable sedan — it won't turn heads, but it'll get you where you're going without drama. With 220 ratings holding at a solid 4.4 stars, this is a budget-friendly workhorse for people who need function over flair. But before you click buy, here's the unfiltered truth about what you're actually getting.

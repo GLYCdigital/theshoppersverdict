@@ -1,4 +1,5 @@
 ---
+
 title: "Fieldpiece - SC640 Swivel Clamp Meter with Dual Display, Inr"
 seo_title: "Fieldpiece SC640 Swivel Clamp Meter Review: Worth It?"
 meta_description: "Fieldpiece SC640 swivel clamp meter review: dual display, inrush current, LED jaw light. Is it worth the premium? Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00KLYJGJQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616TTC50sNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Swivel jaw rotates 180° for reading conductors in tight panels without breaking your wrist"
   - "Dual display shows voltage and current simultaneously — no more juggling between modes"
   - "Inrush current capture with 100ms sampling catches locked-rotor and startup spikes reliably"
-cons:
+cons: 
   - "No magnetic hanger included — you'll need to buy one separately or set it down on the job"
   - "Backlight button placement is awkward if you wear gloves; requires a deliberate press"
+
 ---
 
 Most clamp meters make you choose between a compact body and a jaw that actually fits around fat conductors. The Fieldpiece SC640 tries to solve that with a head that swivels a full 180 degrees. It's not a gimmick — it changes how you work in tight breaker panels, but it comes with a few tradeoffs worth knowing before you spend your money.

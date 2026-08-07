@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Electric Standing Desk with Drawers, Small Gaming Tab"
 seo_title: "ErGear Electric Standing Desk Review: Compact With Drawers"
 meta_description: "Honest ErGear Electric Standing Desk review: compact 40-inch frame, dual drawers, quiet motor. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GDVPB616/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LZAFuVemL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in dual drawers save floor space—no separate filing cabinet needed in tight rooms"
   - "Quiet dual-motor lift handles heavy dual-monitor setups without wobble at standing height"
   - "Compact 40-inch width fits small apartments, dorm corners, and narrow office nooks"
-cons:
+cons: 
   - "Drawers are shallow—won't fit hanging file folders or bulky office supplies"
   - "No memory presets on the controller; you'll hold the button to adjust height each time"
+
 ---
 
 Let's be blunt: most compact standing desks force you to choose between storage and adjustability. The ErGear Electric Standing Desk with Drawers tries to give you both in a 40-inch footprint. At 4.6 stars across 229 ratings, it's clearly doing something right. But is it the right desk for your setup? Here's what I found digging through the specs, the feedback, and the fine print.

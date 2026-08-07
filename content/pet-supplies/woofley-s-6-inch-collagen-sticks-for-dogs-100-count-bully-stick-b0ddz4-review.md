@@ -1,4 +1,5 @@
 ---
+
 title: "Woofley's 6 Inch Collagen Sticks for Dogs - (100 Count) Bull"
 seo_title: "Woofley's 6 Inch Collagen Sticks for Dogs - (100 C Review"
 meta_description: "Our full woofley's 6 inch collagen sticks for dogs - (100 count) bull review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DDZ4VBV9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819z1brHxSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct about what these are: 100 collagen sticks, roughly the size and shape of a classic bully stick, but made from beef collagen rather than pizzle. If your dog is a serial chewer and you're bleeding money on single-serve treats, the bulk math here is the first thing that grabs you.

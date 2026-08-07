@@ -1,4 +1,5 @@
 ---
+
 title: "Saie Dew Blush"
 seo_title: "Saie Dew Blush Review: Verdict | TSV"
 meta_description: "Our full saie dew blush review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4CFT4JP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61NmPmkYVrL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Saie Dew Blush has quietly become one of the most talked-about clean beauty launches in the liquid blush category. With 225 Amazon ratings averaging 4.5 stars, it's clearly landing with a specific type of shopper — but it's not for everyone. Here's the full breakdown.

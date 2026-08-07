@@ -1,4 +1,5 @@
 ---
+
 title: "Kodiak Futons Full Size Futon in Espresso Finish with Storag"
 seo_title: "Kodiak Futons Full Size Futon in Espresso Finish w Review"
 meta_description: "Our full kodiak futons full size futon in espresso finish with storag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07XDW8SHM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91JMc-cyO9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kodiak Futons Full Size in Espresso is the rare futon that doesn't look like a college dorm afterthought. It's got real wood construction, a clean espresso stain, and two storage drawers that actually work. But is it worth your money for a guest room, apartment, or man cave? Here's the honest breakdown after digging through 225 ratings and the spec sheet.

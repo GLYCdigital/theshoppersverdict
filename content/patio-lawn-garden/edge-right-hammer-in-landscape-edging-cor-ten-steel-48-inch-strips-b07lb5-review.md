@@ -1,4 +1,5 @@
 ---
+
 title: "Edge Right - Hammer-in Landscape Edging - Cor-Ten Steel - 48 inch"
 seo_title: "Edge Right Cor-Ten Steel Edging Review: Worth It? (2026)"
 meta_description: "Honest Edge Right hammer-in landscape edging review: Cor-Ten steel durability, install tips, rust concerns, and real buyer feedback. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07LB5KLVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ZW-80XmOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "1/8-inch thick Cor-Ten steel won't bend or warp like thinner plastic or aluminum edging"
   - "Weathers to a natural rust patina that actually looks intentional, not like a failure"
   - "Hammer-in stakes are pre-attached — no separate anchoring hardware to lose"
-cons:
+cons: 
   - "Rust stains can bleed onto concrete or pavers during the first few months"
   - "Sharp factory-cut edges — heavy gloves are mandatory during installation"
   - "48-inch sections are shorter than they look; a 50-foot bed needs 13 strips"
+
 ---
 
 Let me be direct: most landscape edging is plastic junk that cracks by year two or thin aluminum that bends if you look at it wrong. The Edge Right Cor-Ten Steel system is a different animal entirely. At 1/8-inch thick, this is real steel — the kind of material that makes you wonder why you ever settled for less.

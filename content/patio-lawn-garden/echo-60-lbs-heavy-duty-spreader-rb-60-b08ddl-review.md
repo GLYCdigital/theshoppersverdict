@@ -1,4 +1,5 @@
 ---
+
 title: "Echo 60 lbs. Heavy-Duty Spreader RB-60 inch"
 seo_title: "Echo RB-60 Spreader Review: 60-Lb Heavy-Duty Honest Look"
 meta_description: "Echo RB-60 heavy-duty spreader review: 60-lb capacity, build quality, real-world performance. See pros, cons, and who should buy this 4.5-star spreader."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DDL5BDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51sOnogtSXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Pneumatic 13-inch tires with tread grip handle slopes and uneven terrain far better than plastic-wheel spreaders"
   - "All-metal gear train and stainless steel hardware hold up season after season — no plastic internals to strip"
   - "60-pound hopper capacity means fewer refill trips on acre-plus lots"
-cons:
+cons: 
   - "Assembly takes 30-45 minutes and the instruction diagrams are small and occasionally confusing"
   - "At roughly 35 pounds empty, it's noticeably heavier to lift in and out of a truck bed or shed"
   - "The spread pattern dial is smooth but not marked with numbered stops — you'll need to dial in your own settings by trial"
+
 ---
 
 Let me be blunt: most homeowner spreaders are glorified plastic toys that crack by the second season. The Echo RB-60 is not that. This is a legit piece of equipment that sits in the gap between big-box store throwaways and commercial-grade units costing three times as much.

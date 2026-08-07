@@ -1,4 +1,5 @@
 ---
+
 title: "GAOY Gel Top Coat for Long Lasting UV Gel Nail Art DIY, No W"
 seo_title: "GAOY Gel Top Coat for Long Lasting UV Gel Nail Art Review"
 meta_description: "Our full gaoy gel top coat for long lasting uv gel nail art diy, no w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CXM6YLT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/615pX0xF72L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You can spend $20 on a boutique gel top coat and still get shrinkage at the nail tips by day three. Or you can buy the GAOY Gel Top Coat — a $9 bottle that 235 Amazon reviewers have pushed to a 4.7-star average — and get a finish that genuinely holds up. I tested it over three manicures, including one brutal week of gardening and keyboard pounding. Here's the real story.

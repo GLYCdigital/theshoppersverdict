@@ -1,4 +1,5 @@
 ---
+
 title: "OLIXIS Dining Chairs Set of 4, Mid-Century Modern Dining Cha"
 seo_title: "OLIXIS Dining Chairs Set of 4, Mid-Century Modern  Review"
 meta_description: "Our full olixis dining chairs set of 4, mid-century modern dining cha review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWGRG9FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SPENG5+PL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most dining chair sets under $200 look fine in the product photos and feel like cardboard in person. The OLIXIS Mid-Century Modern set of four sits in a slightly different category — not premium, but not flimsy. With a 4.6 average across 229 ratings, it's clearly doing something right. The question is whether it's right for *your* dining room.

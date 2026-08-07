@@ -1,4 +1,5 @@
 ---
+
 title: "Carbide Burr Set Compatible with Dremel Rotary Tool 10Pcs Di"
 seo_title: "Carbide Burr Set for Dremel Review: 10-Piece Die Grinder Bits"
 meta_description: "Honest review of the 10-piece carbide burr set for Dremel rotary tools. Covers performance, durability, and which shapes actually earn their place in your shop."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09F34DVPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71l3Nm+43QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine tungsten carbide cuts through hardened steel and cast iron without dulling like HSS bits"
   - "Double-cut flutes on most shapes give smoother finish and less chatter than single-cut alternatives"
   - "1/8-inch shanks fit Dremel collets and most die grinders with a simple chuck swap"
-cons:
+cons: 
   - "No storage case included — loose bits in a ziplock will rattle and chip if you're not careful"
   - "Shank length is short (about 1 inch), limiting reach in deep or angled workpieces"
+
 ---
 
 If you've ever watched a high-speed steel burr scream and skate across a piece of hardened steel, you know the frustration. This 10-piece carbide set from the generic-but-capable Di brand sidesteps that problem entirely. For around the price of two individual carbide burrs at a big-box store, you get ten shapes that actually cut — and keep cutting.

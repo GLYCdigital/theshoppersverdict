@@ -1,4 +1,5 @@
 ---
+
 title: "Dr. Squatch Men's Cologne - Natural Cologne made with sustai"
 seo_title: "Dr. Squatch Men's Cologne Review: Natural, Long-Lasting Scent"
 meta_description: "Honest Dr. Squatch men's cologne review: natural ingredients, projection, and longevity tested. See if this sustainably sourced scent is worth it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BV7DDSPX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81chwzvKMmL._SL1500_.jpg"
-pros:
+pros: 
   - "Uses natural essential oils and sustainably sourced ingredients — no phthalates or synthetic dyes"
   - "Strong sillage that lasts 6-8 hours on skin, 12+ on clothing"
   - "Comes in a heavy glass bottle with a magnetic cap — feels far more premium than the price point"
-cons:
+cons: 
   - "Scent is polarizing — the woodsy, smoky profile isn't a safe blind buy"
   - "Projection is aggressive for the first hour; one spray may be enough for office wear"
+
 ---
 
 # Dr. Squatch Men's Cologne Review: Does Natural Actually Perform?

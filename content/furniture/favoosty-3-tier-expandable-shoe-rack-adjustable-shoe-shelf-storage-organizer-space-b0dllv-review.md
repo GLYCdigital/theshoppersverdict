@@ -1,4 +1,5 @@
 ---
+
 title: "FAVOOSTY 3-Tier Expandable Shoe Rack, Adjustable Shoe Shelf"
 seo_title: "FAVOOSTY 3-Tier Expandable Shoe Rack Review (2026): Is It Worth It?"
 meta_description: "Honest FAVOOSTY 3-Tier Expandable Shoe Rack review: adjustable width, build quality, real buyer feedback, and who should buy it. Read before you order."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLLV4QP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rMcciKpyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Expandable width (roughly 20–30 inches) adapts to tight entryways, closets, or under-window spaces without tools"
   - "Three fixed-height tiers stack up to 9–12 pairs of everyday shoes while keeping a slim ~12-inch depth footprint"
   - "Sturdy enough for heavy boots and sneakers thanks to reinforced metal frame and non-slip shelf pads"
-cons:
+cons: 
   - "Height is not adjustable — taller boots or heels over 6 inches won't fit on the top tiers"
   - "Some buyers report the expansion lock can slip under heavy loads if not fully clicked into place"
   - "No side rails on the shelves, so smaller shoes or sandals can slide off when you pull a pair out"
+
 ---
 
 Shoe storage is one of those things you don't think about until your entryway looks like a yard sale. The FAVOOSTY 3-Tier Expandable Shoe Rack tries to solve that with a deceptively simple trick: shelves that stretch sideways to fit your space. At 4.4 stars from 220 ratings, it's clearly working for a lot of people — but is it the right fix for *your* chaos? Here's the real story.

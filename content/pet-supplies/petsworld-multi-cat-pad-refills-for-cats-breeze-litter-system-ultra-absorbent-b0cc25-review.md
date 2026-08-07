@@ -1,4 +1,5 @@
 ---
+
 title: "PETSWORLD Multi Cat Pad Refills for Cats Breeze Litter Syste"
 seo_title: "PETSWORLD Multi Cat Pad Refills for Cats Breeze Li Review"
 meta_description: "Our full petsworld multi cat pad refills for cats breeze litter syste review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CC253RV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71JsRYDhEpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** If you own a Breeze litter system and more than one cat, these pads will save you money without sacrificing odor control. But they're not a perfect clone of the originals.

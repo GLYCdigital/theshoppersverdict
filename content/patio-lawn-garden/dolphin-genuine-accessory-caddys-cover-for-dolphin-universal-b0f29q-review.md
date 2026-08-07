@@ -1,4 +1,5 @@
 ---
+
 title: "Dolphin Genuine Accessory Caddys Cover for Dolphin Universal"
 seo_title: "Dolphin Caddys Cover Review: Genuine Fit, Real Protection"
 meta_description: "Dolphin Genuine Accessory Caddys Cover review: durable pool robot protection, precise fit, UV-resistant. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F29QT4CS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61p48q87TaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precise cut for the Dolphin Caddys — corners and handle openings align perfectly, no wrestling to get it on"
   - "Heavy-duty 600D polyester with a weatherproof backing that sheds rain and blocks UV fading"
   - "Stitched seams and reinforced grommets hold up to wind gusts without tearing at stress points"
-cons:
+cons: 
   - "No drawstring or elastic hem at the bottom — high winds can catch it and lift the cover off the caddy"
   - "Fits the Genuine Dolphin Caddys only; third-party caddies with different dimensions will likely be loose or tight"
+
 ---
 
 If you've dropped $300+ on a Dolphin robotic pool cleaner, you already know the caddy is what keeps the unit, cable, and accessories organized between swims. But that caddy sits outside, baking in UV rays and getting hammered by rain — which is exactly where the Dolphin Genuine Accessory Caddys Cover comes in. At 4.7 stars across 235 ratings, it's clearly doing something right. Here's the real story after digging into what buyers actually say.

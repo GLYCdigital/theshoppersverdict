@@ -1,23 +1,25 @@
 ---
+
 title: "Alex Costa Molding Paste by Forte Series Low Shine Hair Past"
 seo_title: "Alex Costa Molding Paste Review: Low Shine, Strong Hold"
 meta_description: "Honest Alex Costa Molding Paste review: strong hold, low shine, easy washout. See pros, cons, and who should buy this Forte Series hair paste."
 slug: "alex-costa-molding-paste-by-forte-series-low-shine-hair-paste-for-b08rrw-review"
 image_alt: "Alex Costa Molding Paste by Forte Series in matte black jar with low shine hair styling product"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08RRWV837/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/516NmRPYpFL._SL1500_.jpg"
-pros:  
+pros: 
   - "Strong, flexible hold that lasts 8+ hours without stiffness"  
   - "Low shine finish looks natural, not greasy or wet"  
   - "Washes out completely with one shampoo pass"  
-cons:  
+cons: 
   - "Scooping out the dense paste takes effort—warm it up first"  
   - "Not ideal for very fine or thin hair; can weigh it down"
+
 ---
 
 If you've watched any Alex Costa video, you know the guy doesn't recommend junk. The Forte Series Molding Paste is his namesake product, and at 4.4 stars across 220 ratings, it's clearly doing something right. But is it the right paste for *your* hair? I tested it for two weeks—here's the unvarnished truth.

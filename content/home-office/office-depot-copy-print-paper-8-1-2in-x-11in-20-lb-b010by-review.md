@@ -1,4 +1,5 @@
 ---
+
 title: "Office Depot Copy Print Paper, 8 1/2in. x 11in., 20 Lb, Brig"
 seo_title: "Office Depot Copy Print Paper, 8 1/2in. x 11in., 2 Review"
 meta_description: "Our full office depot copy print paper, 8 1/2in. x 11in., 20 lb, brig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B010BYJKWS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vEvVrS3cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Review Body:**

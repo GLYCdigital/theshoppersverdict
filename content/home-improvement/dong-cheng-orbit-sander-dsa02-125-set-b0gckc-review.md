@@ -1,4 +1,5 @@
 ---
+
 title: "Dong Cheng Orbit Sander DSA02-125 Set"
 seo_title: "Dong Cheng Orbit Sander DSA02-125 Review: 4.6-Star Value Pick"
 meta_description: "Dong Cheng Orbit Sander DSA02-125 Set review: 125mm random orbital, 4.6 stars from 229 buyers. Pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GCKCBXJ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71knM+iORyL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 125mm random orbit action with 12,000 OPM that leaves a swirl-free finish on hardwoods"
   - "Complete kit — includes 10 sanding discs, dust bag, backing pad, and wrench — ready to use out of the box"
   - "Comfortable ergonomic grip with low vibration, even during extended sanding sessions"
-cons:
+cons: 
   - "Dust bag fills quickly and needs frequent emptying; hook-and-loop backing could be stickier"
   - "No variable speed dial — you get one speed, which limits fine finishing work on softwoods"
+
 ---
 
 # Dong Cheng Orbit Sander DSA02-125 Set: Budget Sander That Punches Above Its Weight

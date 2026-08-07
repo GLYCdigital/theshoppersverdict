@@ -1,4 +1,5 @@
 ---
+
 title: "ABCCANOPY Patio Umbrella - Outdoor Half Umbrellas"
 seo_title: "ABCCANOPY Half Patio Umbrella Review: Worthy Buy?"
 meta_description: "ABCCANOPY half patio umbrella review: 4.4★ rating, wall-mounted design, durability concerns. Is it right for your space? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G56BX3TD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zAXaS5NgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Half-umbrella design tucks flat against walls, freeing up floor space in narrow balconies or beside doors"
   - "Crank-and-tilt mechanism operates smoothly, letting you angle shade without fighting the hardware"
   - "Ribbed canopy with vented top handles gusty conditions better than most umbrellas in this price class"
-cons:
+cons: 
   - "Wall-mounting hardware feels basic; several buyers report needing to source heavier-duty brackets for brick or stucco"
   - "Fabric is midweight polyester — fine for dappled shade, but don't expect it to shrug off a full afternoon of intense UV without fading"
+
 ---
 
 If your patio situation is "I have a wall, but no floor space," the ABCCANOPY half umbrella is one of the more practical solutions you'll find under $100. This isn't a center-pole umbrella pretending to be something else. It's a genuine half-arc design that mounts flush against a wall or fence, extending shade outward without eating into your usable square footage. For narrow balconies, beside sliding glass doors, or over a bistro set squeezed against the house, that geometry is the whole ballgame.

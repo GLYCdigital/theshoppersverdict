@@ -1,4 +1,5 @@
 ---
+
 title: "Cordless Weed Wacker for Dewalt 20V MAX Battery, 4-in-1 Elec"
 seo_title: "Cordless Weed Wacker for Dewalt 20V MAX Review (2026)"
 meta_description: "Honest review of the 4-in-1 cordless weed wacker for Dewalt 20V MAX batteries. Covers build quality, runtime, and real-world trimming performance."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DPW1BWYR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71J3nZo5pmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Uses your existing Dewalt 20V MAX batteries — no new charger or battery system required"
   - "4-in-1 design (trimmer, edger, brush cutter, pole saw) saves money vs. buying separate tools"
   - "Lightweight at roughly 6-7 lbs, reducing arm fatigue during longer trimming sessions"
-cons:
+cons: 
   - "Power drops noticeably with non-Dewalt batteries; runtime can be as short as 20 minutes on a 2Ah pack"
   - "Auto-feed string head is finicky — several users report it jams or feeds too much line"
   - "Attachment changes require a tool (not quick-release), which slows down switching between modes"
+
 ---
 
 **The Short Version: A Budget-Friendly Dewalt Battery Adapter That Demands Patience**

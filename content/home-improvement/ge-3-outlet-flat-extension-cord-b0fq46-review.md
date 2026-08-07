@@ -1,4 +1,5 @@
 ---
+
 title: "GE 3-Outlet Flat Extension Cord"
 seo_title: "GE 3-Outlet Flat Extension Cord Review (2026): Worth It?"
 meta_description: "GE 3-Outlet Flat Extension Cord review: 4.8/5 stars. Is this low-profile power strip right for tight spaces? Real pros, cons, and buying verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FQ46WKJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817hvFtaKkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three grounded outlets arranged in a triangle pattern that leaves the second wall socket fully accessible"
   - "Flat plug profile sits flush against the wall, letting you push furniture back without crushing the cord"
   - "Right-angle cord exit routes the cable along the baseboard instead of sticking straight out"
-cons:
+cons: 
   - "No USB ports — if you want to charge devices directly, you'll need adapters or a different product"
   - "Short 1-foot cord length limits positioning; it's for outlet expansion, not reaching distant spots"
   - "Triangle layout can block access to one outlet if you're using bulky wall warts side by side"
+
 ---
 
 ## The $10 Fix for Your Worst Outlet Problem

@@ -1,4 +1,5 @@
 ---
+
 title: "ORICO NVMe SSD PCIe 4.0- Up to 7400MB/s, M.2 2280 PCIe 4.0X4"
 seo_title: "ORICO NVMe SSD PCIe 4.0- Up to 7400MB/s, M.2 2280  Review"
 meta_description: "Our full orico nvme ssd pcie 4.0- up to 7400mb/s, m.2 2280 pcie 4.0x4 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQNHHGNT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FpVEJ1DLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: most NVMe drives in this price bracket promise 7,000MB/s and deliver 4,000. The ORICO PCIe 4.0 drive actually delivers. In my testing with a Ryzen 7000-series platform, CrystalDiskMark showed sequential reads of 7,108MB/s and writes of 6,542MB/s — within 4% of the advertised 7,400MB/s. That's not marketing math; that's real bandwidth.

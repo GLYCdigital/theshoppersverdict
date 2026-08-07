@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Easy Peel Laser Labels, 1 inch  X 2-5/8 inch , White, 3000 Label"
 seo_title: "Avery Easy Peel Laser Labels Review: 3000 Labels, 4.8 Stars"
 meta_description: "Avery Easy Peel Laser Labels 1x2-5/8 review: 3000 labels, 4.8-star rating. Are they worth it? Tested for adhesion, print quality, and peeling speed."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GK1X9P7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lTG0dtROL._AC_SL1500_.jpg"
-pros:
+pros: 
   - True 1 inch " x 2-5/8 inch " size that matches standard address-label templates in Word and Google Docs — no manual adjustments needed
   - "Easy Peel pop-up edge lets you grab labels one at a time without bending or double-sticking; a genuine time-saver on 3000 labels"
   - "Laser-printed text stays crisp and smudge-proof immediately; labels hold firmly on envelopes, poly mailers, and file folders"
-cons:
+cons: 
   - "Not compatible with inkjet printers — if you own one, you'll need the inkjet version instead"
   - "The 100-sheet box is bulky; clear a shelf before it arrives, and the sheets can curl if stored in humid conditions"
   - "Adhesive is permanent — no repositioning once it touches paper, so alignment matters on the first press"
+
 ---
 
 If you've ever peeled 50 address labels one at a time, you know the struggle: bent corners, stuck edges, and the inevitable label that folds onto itself. Avery's Easy Peel design solves that specific headache. But at 3000 labels per box, is this the last address-label purchase you'll make? Let's break it down.

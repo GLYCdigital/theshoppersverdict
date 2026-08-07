@@ -1,4 +1,5 @@
 ---
+
 title: "COVAODQ Snack Cart with Wheels 4-Tier Adjustable Fruit Rack"
 seo_title: "COVAODQ Snack Cart Review: 4-Tier Adjustable Fruit Rack"
 meta_description: "Honest COVAODQ 4-tier snack cart review: adjustable shelves, wheels, and real-world storage limits. See who should buy this rolling fruit rack."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DB5FRPB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91g5FbhxGyL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely adjustable shelves — you can set 2, 3, or 4 tiers based on what you're storing, so tall bottles and short fruit bowls coexist"
   - "Smooth-rolling casters with locks on two wheels; the cart glides on tile and hardwood without wobbling"
   - "Sturdy steel frame holds a full watermelon or a stack of canned goods without bowing"
-cons:
+cons: 
   - "Assembly takes 20-30 minutes and the included hex wrench is soft metal — use your own Allen key to avoid stripping"
   - "No side rails on the wire shelves — small items like cherry tomatoes or loose snack bags can slip through the gaps"
   - "Wheels are 2-inch casters, so it's not ideal for thick carpet; it will catch and drag"
+
 ---
 
 ## Is This Rolling Snack Cart Worth Your Kitchen Space?

@@ -1,4 +1,5 @@
 ---
+
 title: "Furologee Nightstands Set 2 inch"
 seo_title: "Furologee Nightstands Set 2 Review: Worth It? (2026)"
 meta_description: "Furologee Nightstands Set 2 review: 4.4-star rated bedside tables. Real pros, cons, and who should buy. Check build quality and sizing before you order."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CZLPJNM2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714a8tHZeML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fabric drawer pulls double as hidden storage — soft-close glides feel far more premium than the price suggests"
   - "The 23.6-inch height hits the sweet spot for most standard beds, and the wood-grain finish resists fingerprints and smudges"
   - "Set of two includes both sizes (one with open shelf, one with cabinet door) so you can mix layouts per side"
-cons:
+cons: 
   - "Assembly requires patience — roughly 45 minutes per unit, and the cam-lock hardware is finicky if you overtighten"
   - "The 'wood' is engineered MDF with a photo-print grain; looks great from 3 feet but won't fool a close inspection"
+
 ---
 
 Let me be direct: you're not buying heirloom furniture at this price point. You're buying a pair of nightstands that look far more expensive than they are, arrive in two boxes, and require a Saturday-morning screwdriver session. If that's your expectation, the Furologee Set 2 delivers — and then some.

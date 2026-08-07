@@ -1,4 +1,5 @@
 ---
+
 title: "Prepac Console Table"
 seo_title: "Prepac Console Table Review: Verdict | TSV"
 meta_description: "Our full prepac console table review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DTJBLHM6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y9Z72HWqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Prepac Console Table sits in that awkward middle ground of furniture: not cheap enough to ignore defects, not expensive enough to demand perfection. At 3.9 stars from 195 ratings, buyers are split — some call it a steal, others curse the assembly. Here's the unvarnished truth.

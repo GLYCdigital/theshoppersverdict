@@ -1,24 +1,26 @@
 ---
+
 title: "Devil Dog Pet Co - Bully Sticks for Dogs - Low Odor Grass Fe"
 seo_title: "Devil Dog Pet Co Bully Sticks Review: Low Odor & Grass-Fed (2026)"
 meta_description: "Honest Devil Dog Pet Co bully sticks review: low-odor, grass-fed, digestible chews. See pros, cons, and if they're worth the price for aggressive chewers."
 slug: "devil-dog-pet-co-bully-sticks-for-dogs-low-odor-grass-fed-b0dk5w-review"
 image_alt: "Devil Dog Pet Co grass-fed bully sticks for dogs in a resealable bag, showing natural color and texture"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 225  
-amazon_rating: 4.5  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 225
+amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK5WJZ8V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nXiTEt5dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Genuinely low odor—almost no barnyard smell even after hours of chewing"  
   - "Single-ingredient, grass-fed beef pizzle with no additives or preservatives"  
   - "Long-lasting for moderate chewers; most dogs take 45–90 minutes per stick"  
-cons:  
+cons: 
   - "Too hard for puppies or senior dogs with dental issues—risk of cracked teeth"  
   - "Price per ounce runs high compared to rawhide alternatives, though quality justifies it"  
   - "Some bags arrive with sticks of wildly varying thickness; thinner ones snap faster"
+
 ---
 
 **The Devil Dog Pet Co. Bully Stick: The Low-Odor Chew That Actually Delivers**

@@ -1,4 +1,5 @@
 ---
+
 title: "3.0 Cuft Fireproof Safe for Home Use, Digital Home Safes Fir"
 seo_title: "3.0 Cuft Fireproof Safe Review: Honest Look at Digital Home Safe"
 meta_description: "3.0 Cuft fireproof safe review: real-world testing, build quality, and buyer feedback. See if this digital home safe is worth your money."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DM1KMWPP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610uSgnSyFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 3.0 cubic foot interior capacity fits documents, laptops, and multiple handguns with room to spare"
   - "Pre-drilled mounting holes and included hardware make bolting to floor or wall straightforward"
   - "Digital keypad responds quickly and backup key access works even with dead batteries"
-cons:
+cons: 
   - "Fire rating is unverified — no independent UL or ETL certification listed, so claims should be taken with caution"
   - "Several buyers report the electronic lock failing within the first year, requiring use of the backup key"
   - "Interior shelving is thin gauge steel that can bend under heavy loads"
+
 ---
 
 **The 3.0 Cuft Fireproof Safe: Big Capacity, Bigger Questions**

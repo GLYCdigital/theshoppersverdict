@@ -1,4 +1,5 @@
 ---
+
 title: "French's Classic Yellow Mustard Dispensing Pouch with Fitmen"
 seo_title: "French's Mustard Dispensing Pouch Review: Smart Buy?"
 meta_description: "French's Classic Yellow Mustard Dispensing Pouch with Fitmen reviewed: 4.8/5 rating, 240 reviews. Is this 20-oz pouch worth it? Find out pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C344D8DB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61izOt1BdNL._SL1500_.jpg"
-pros:
+pros: 
   - "Flip-top dispensing cap delivers precise, dripless portions — no more crusty bottle necks"
   - "20-ounce pouch takes up about 60% less shelf space than a traditional squeeze bottle"
   - "Pouch empties nearly 100% clean; no wasted mustard stuck at the bottom"
-cons:
+cons: 
   - "Pouch requires two hands to dispense — you need to squeeze the body while holding the cap"
   - "Once opened, the pouch doesn't stand upright on its own; it flops over if not fully squeezed flat"
+
 ---
 
 You wouldn't think a mustard container could be revolutionary. Then you use one that doesn't leave a crusty yellow ring around the cap, doesn't require shaking like a paint can, and actually lets you get every last drop out. That's the pitch for French's Classic Yellow Mustard Dispensing Pouch with the Fitmen cap — and at 4.8 stars from 240 Amazon ratings, shoppers are clearly buying what it's selling.

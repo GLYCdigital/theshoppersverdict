@@ -1,4 +1,5 @@
 ---
+
 title: "GOFLAME Round Drop Leaf Dining Table for 2-4 People, 36â€"
 seo_title: "GOFLAME Drop Leaf Dining Table Review: Smart Small-Space Pick"
 meta_description: "Honest GOFLAME round drop leaf dining table review: build quality, real dimensions, stability concerns, and who should buy this 36-inch space-saver."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GR9X3HCP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61c7blViffL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Drop leaf mechanism is genuinely functional — converts from 36-inch round to a compact console in seconds without tools"
   - "Solid MDF construction with a smooth, scratch-resistant finish that holds up to daily use"
   - "Fits four people comfortably with leaves up, yet tucks into a 6-inch-wide footprint when stored"
-cons:
+cons: 
   - "Assembly instructions are minimal and occasionally confusing — budget 45-60 minutes and have a second person help"
   - "Legs lack adjustable levelers, so uneven floors will make it wobble; a furniture pad or shim solves it"
   - "The locking latch for the leaves feels a bit flimsy — it works, but don't expect furniture-grade hardware"
+
 ---
 
 The GOFLAME Round Drop Leaf Dining Table is the furniture equivalent of a Swiss Army knife. It's a 36-inch round table that seats four comfortably, but fold down the leaves and it becomes a slim console that hugs your wall. For apartment dwellers, studio residents, or anyone whose dining room doubles as a home office, that dual personality is the entire point.

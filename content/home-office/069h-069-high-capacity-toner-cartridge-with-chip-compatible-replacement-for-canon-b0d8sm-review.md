@@ -1,4 +1,5 @@
 ---
+
 title: "069H 069 High Capacity Toner Cartridge (with Chip) Compatibl"
 seo_title: "069H High Capacity Toner Cartridge Review: Real Deal or Risk?"
 meta_description: "Honest 069H 069 high capacity toner cartridge review. Covers print quality, chip compatibility, page yield, and whether this Canon replacement is worth your money."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D8SMJY38/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ecFWx103L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine high-capacity yield — roughly double the standard 069 cartridge, so high-volume users print longer between swaps"
   - "Onboard chip is pre-installed and recognized by most Canon models without firmware issues, based on buyer reports"
   - "Significantly cheaper per page than OEM cartridges, making it a budget-friendly choice for home offices and small teams"
-cons:
+cons: 
   - "Inconsistent quality control — several buyers report leaking toner or defective chips out of the box"
   - "Print density runs lighter than OEM on some units; text looks grayish rather than crisp black on certain printers"
   - "No brand warranty or support — if you get a dud, you're dealing with third-party seller returns, not Canon"
+
 ---
 
 **The 069H toner cartridge is a gamble — sometimes it pays off big, sometimes you're cleaning toner dust off your desk.** At 3.8 stars from 190 ratings, the numbers tell you this is a split decision. Here's what you need to know before adding it to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market, Tomatoes Crushed Fire Roasted Org"
 seo_title: "365 Fire Roasted Crushed Tomatoes Review: Worth It?"
 meta_description: "Honest 365 by Whole Foods fire roasted crushed tomatoes review: flavor, texture, can size, and how it stacks up for sauces and soups."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF9LX2Y5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fggHJmzuL._SL1500_.jpg"
-pros:
+pros: 
   - "Deep, smoky char flavor that actually comes through in finished dishes — not just a gimmick"
   - "28-ounce can is a full pound heavier than standard 14.5-ounce cans, so one can handles most family recipes"
   - "Organic certification with no added sugar, salt, or citric acid — clean ingredient list"
-cons:
+cons: 
   - "Texture is more watery than true crushed tomatoes — closer to a thick puree that can thin out sauces"
   - "Smoke flavor can overpower delicate dishes if you're not careful with quantity"
+
 ---
 
 Some products claim "fire roasted" and deliver a whisper of smoke. This one delivers a campfire punch. The 365 by Whole Foods Market Organic Fire Roasted Crushed Tomatoes have earned their 4.7-star rating across 235 reviews — and after digging into what buyers actually say, the praise is consistent: real char flavor, clean ingredients, and a can size that actually makes sense for cooking.

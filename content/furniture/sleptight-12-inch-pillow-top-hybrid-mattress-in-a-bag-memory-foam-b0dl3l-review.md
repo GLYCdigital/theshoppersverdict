@@ -1,4 +1,5 @@
 ---
+
 title: "Sleptight 12-Inch Pillow Top Hybrid Mattress in a Bag - Memo"
 seo_title: "Sleptight 12-Inch Pillow Top Hybrid Mattress in a  Review"
 meta_description: "Our full sleptight 12-inch pillow top hybrid mattress in a bag - memo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL3LWNXB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z-Xbvkl2L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Sleptight 12-Inch Pillow Top Hybrid Mattress in a Bag — The Full Review**

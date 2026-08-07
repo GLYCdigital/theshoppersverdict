@@ -1,4 +1,5 @@
 ---
+
 title: "Roylvan Under Desk Elliptical Exercise Machine, Electric & P"
 seo_title: "Roylvan Under Desk Elliptical Exercise Machine, El Review"
 meta_description: "Our full roylvan under desk elliptical exercise machine, electric & p review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FPXH2BDX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dD9FmtkiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Versatile and adjustable for different needs"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the truth about the Roylvan Under Desk Elliptical. If you've been eyeing those pedal machines to burn a few extra hundred calories while answering emails, this one has a legitimate twist worth your attention — it's electric. That changes the game in a specific way.

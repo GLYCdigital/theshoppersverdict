@@ -1,4 +1,5 @@
 ---
+
 title: "WB31M20 WB31M19 Porcelain Drip Pans by Blutoget - Compatible"
 seo_title: "WB31M20 WB31M19 Porcelain Drip Pans by Blutoget -  Review"
 meta_description: "Our full wb31m20 wb31m19 porcelain drip pans by blutoget - compatible review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08R9F7S9M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7164LRUjaDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your GE or Hotpoint range has burners that look like they’ve been through a grease fire war, you already know the drill: OEM drip pans cost $15–$20 *each*, and the cheap generics fit like a drunk sock. The Blutoget WB31M20/WB31M19 pair sits in the middle — and after digging through 225 ratings and the spec sheet, here’s the honest breakdown.

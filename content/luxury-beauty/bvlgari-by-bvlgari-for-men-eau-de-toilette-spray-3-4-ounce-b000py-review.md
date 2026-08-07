@@ -1,4 +1,5 @@
 ---
+
 title: "Bvlgari By Bvlgari For Men Eau-de-toilette Spray, 3.4 Ounce"
 seo_title: "Bvlgari By Bvlgari For Men Review: Classic EDT (2026)"
 meta_description: "Bvlgari By Bvlgari For Men EDT review: crisp citrus-woody scent, 3.4 oz bottle, 4.4-star rating. Longevity, sillage, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B000PY54RU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vM9p2C3uL._SL1500_.jpg"
-pros:
+pros: 
   - "Bright, soapy-clean opening with Calabrian bergamot and orange blossom that reads as fresh without being sharp or juvenile"
   - "Versatile year-round wearer — office-safe, date-appropriate, and doesn't project aggressively"
   - "3.4 oz bottle with magnetic-style cap and heavy glass construction that feels substantial in hand"
-cons:
+cons: 
   - "Longevity is modest — expect 4-6 hours on skin before it becomes a close-wear skin scent"
   - "Not a groundbreaking or complex fragrance; formula has remained essentially unchanged since 1995"
+
 ---
 
 **The 30-Second Hook**

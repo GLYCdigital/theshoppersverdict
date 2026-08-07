@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Body Wash 9"
 seo_title: "Old Spice Body Wash 9 Review: Verdict | TSV"
 meta_description: "Our full old spice body wash 9 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G4BRBF1Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ttx4-7KKL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Bottom Line Up Front:** Old Spice Body Wash 9 isn't just another reformulation of the classic scent. It's a deliberate attempt to move the brand upmarket, and for the most part, it works. But "premium" comes with tradeoffs — and not everyone will love the direction.

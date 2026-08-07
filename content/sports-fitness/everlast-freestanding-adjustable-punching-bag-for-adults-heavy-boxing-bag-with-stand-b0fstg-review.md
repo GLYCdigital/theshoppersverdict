@@ -1,4 +1,5 @@
 ---
+
 title: "Everlast Freestanding Adjustable Punching Bag for Adults | H"
 seo_title: "Everlast Freestanding Punching Bag Review: Heavy Bag Stand (2026)"
 meta_description: "Honest Everlast freestanding adjustable punching bag review: stability, height range, and durability tested. Is this heavy bag stand worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FSTG1GSK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ISPKNsqUL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Height adjusts from 5' to 6' — fits everyone from teens to tall adults without ceiling mounting"
   - "Weighted base with fillable bladder stays planted for straight punches; hooks and upper cuts cause some slide"
   - "Genuine Everlast build quality — reinforced vinyl shell and dense foam core take repeated hard shots"
-cons:
+cons: 
   - "Base requires ~80 lbs of sand or water to feel stable; empty it tips over on first punch"
   - "Height adjustment dial loosens slightly with hard hooks — needs periodic re-tightening mid-session"
+
 ---
 
 If you've priced ceiling-mounted heavy bags lately, you already know the headache: drilling into joists, renting a ladder, and praying your landlord doesn't notice. The Everlast Freestanding Adjustable Punching Bag sidesteps all that with a weighted base and a height range that actually fits adults. But freestanding bags always promise more stability than they deliver. Does this one break the pattern? After 210 ratings averaging 4.2 stars, the consensus is clear: it's the best compromise you'll find under $200 — if you set it up properly.

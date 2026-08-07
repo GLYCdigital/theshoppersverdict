@@ -1,4 +1,5 @@
 ---
+
 title: "Reedâ€™s Individually Wrapped Candy Rolls | Six Rolls | Trad"
 seo_title: "Reedâ€™s Individually Wrapped Candy Rolls | Six Ro Review"
 meta_description: "Our full reedâ€™s individually wrapped candy rolls | six rolls | trad review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BYHDHL97/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71heCNDHThL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here’s the thing about Reed’s candy rolls: they’re not trying to reinvent the wheel. This is old-school hard candy, the kind your grandparents kept in a crystal dish by the sofa. And for coffee drinkers, that’s exactly the point.

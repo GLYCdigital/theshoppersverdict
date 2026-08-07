@@ -1,4 +1,5 @@
 ---
+
 title: "FHI Heat - UNbrush Detangling Brush Combo Pack — Original"
 seo_title: "FHI Heat UNbrush Detangling Brush Review: Combo Pack Tested"
 meta_description: "We tested the FHI Heat UNbrush Detangling Brush Combo Pack. See how this 4.7-star detangler handles wet and dry hair, plus real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4YKD2ZV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DdQCDff0L._SL1500_.jpg"
-pros:
+pros: 
   - "Flexible two-tier bristles glide through thick, curly, or color-treated hair without pulling or snapping strands"
   - "Works equally well on wet and dry hair, eliminating the need for a separate shower brush"
   - "Combo pack gives you a full-size brush plus a travel mini — practical value for the price"
-cons:
+cons: 
   - "The flexible bristles can feel too soft for those who prefer a firm scalp massage while brushing"
   - "Not ideal for very fine, thin hair that needs tension to smooth flyaways"
+
 ---
 
 Let me be blunt: most "detangling" brushes are just wider-toothed combs with better marketing. The FHI Heat UNbrush is different, and after 235 ratings holding a 4.7-star average, it's worth understanding why.

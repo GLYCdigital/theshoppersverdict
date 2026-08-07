@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT DPG22 White Type II"
 seo_title: "DEWALT DPG22 White Type II Review: Pros, Cons & Fit"
 meta_description: "DEWALT DPG22 White Type II safety glasses review: coverage, comfort, and anti-fog performance. See if they're worth the price for your job site."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0F81BZ95T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Full wrap-around coverage with integrated side shields that block debris from angles most glasses miss"
   - "Shatter-resistant polycarbonate lens meets ANSI Z87.1+ high-impact standards — legit protection, not costume gear"
   - "Lightweight at just over an ounce, so you forget they're on after a full day on the job"
-cons:
+cons: 
   - "Anti-fog coating fades after a few months of heavy use, especially in humid conditions"
   - "Temple arms run narrow — if you've got a wide head, expect pressure points after hour three"
+
 ---
 
 Let me be blunt: most safety glasses under $15 are disposable junk that fog up the second you start sweating. The DEWALT DPG22 White Type II sits in a strange middle ground — better than the bargain-bin stuff, but not quite premium. Here's the real breakdown after digging through 200 ratings and the spec sheet.

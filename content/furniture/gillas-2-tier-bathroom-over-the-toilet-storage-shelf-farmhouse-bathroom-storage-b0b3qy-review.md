@@ -1,4 +1,5 @@
 ---
+
 title: "GILLAS 2 Tier Bathroom Over The Toilet Storage Shelf, Farmho"
 seo_title: "GILLAS 2-Tier Over Toilet Shelf Review: Farmhouse Style, Real Storage"
 meta_description: "Honest GILLAS 2-tier over-the-toilet storage shelf review: farmhouse look, real material limits, and who should buy. Read before you spend."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0B3QYJNJH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RksExfKnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine farmhouse aesthetic with real wood-grain top and matte black metal frame — looks far more expensive than the price point"
   - Fits standard toilets precisely: "27.5 inch  width spans most tank widths, and the 4.5 inch  clearance between shelf and tank leaves room for lids and handles"
   - "Assembly is genuinely tool-free — the interlocking metal frame and pre-drilled wooden shelves align within 15 minutes"
-cons:
+cons: 
   - "Particle board with melamine coating, not solid wood — any water pooling on the surface can cause swelling and peeling within months"
   - The 2-tier design means only about 11 inch " of vertical storage per shelf; tall shampoo bottles or oversized lotion pumps won't fit
   - "No anti-tip hardware included — if you load the top shelf heavily and have curious kids or pets, this needs anchoring to the wall"
+
 ---
 
 **The farmhouse look without the farmhouse price tag — but is it built to last in a humid bathroom?**

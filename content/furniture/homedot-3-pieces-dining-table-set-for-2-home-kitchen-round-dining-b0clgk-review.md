@@ -1,4 +1,5 @@
 ---
+
 title: "Homedot 3 Pieces Dining Table Set for 2, Home Kitchen Round "
 seo_title: "Homedot 3 Pieces Dining Table Set for 2, Home Kitc Review"
 meta_description: "Our full homedot 3 pieces dining table set for 2, home kitchen round  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CLGKHGYM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81cBVW+uGxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about small-space dining: most "space-saving" sets still eat your floor plan for lunch. The Homedot 3-piece round set actually delivers on its compact promise, but it comes with tradeoffs you need to know before you click buy.

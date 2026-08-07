@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Woodhurst 14 Series Shower Faucet Set, Matte Black Sho"
 seo_title: "Delta Woodhurst 14 Series Shower Faucet Review (2026)"
 meta_description: "Delta Woodhurst 14 Series shower faucet set in matte black: our honest review covers flow rate, install ease, finish durability, and value."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09ZDQC4BN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51psniRndpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Diamond Seal technology eliminates the need for rubber washers, preventing the most common leak point in shower valves"
   - "Included pressure-balancing valve maintains steady water temperature when other fixtures in the house are running"
   - "Matte black finish is electroplated, not painted — resists chipping and fingerprint smudges far better than budget alternatives"
-cons:
+cons: 
   - "Valve body is brass but the trim plate is plastic — feels less premium during installation than the price suggests"
   - "Shower head flow is capped at 1.75 GPM; those accustomed to a drenching rainfall experience may find it underwhelming"
   - "Handle travel is only about 90 degrees, which limits fine temperature adjustments compared to 180-degree valves"
+
 ---
 
 The Delta Woodhurst 14 Series isn't the flashiest shower faucet on the market, but it's the one you'll likely forget about — and that's the highest compliment you can pay a plumbing fixture. With 225 ratings averaging 4.5 stars, this matte black set has quietly become a favorite for bathroom remodels. After digging through the specs and what real buyers are saying, here's what you need to know before spending your money.

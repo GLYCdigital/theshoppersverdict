@@ -1,4 +1,5 @@
 ---
+
 title: "Free N Swing - 7 User / 5 Station Swing Set, Outdoor for Kid"
 seo_title: "Free N Swing 7-User Swing Set Review: Worth It? (2026)"
 meta_description: "Honest Free N Swing 7-user swing set review: build quality, assembly time, safety, and real buyer feedback. Is this 5-station set right for your backyard?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07YP8ZLRF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RGy7PUXBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Galvanized steel frame with powder coating resists rust far better than the painted tubular frames on cheaper sets"
   - "Five distinct stations — two belt swings, a trapeze bar, a glider, and a rope ladder — genuinely accommodate multiple kids simultaneously"
   - "Weight capacity of 800 lbs distributed across stations means even older kids (up to 110 lbs per swing) can use it without wobble"
-cons:
+cons: 
   - "Assembly is a legitimate 4-6 hour project for two adults — the instruction manual is diagram-heavy and occasionally unclear"
   - "The included ground stakes are insufficient for soft or sandy soil; you'll want to buy auger anchors separately if your yard isn't firm"
   - "Glider seat is plastic and shows UV fading after one full summer of direct sun exposure"
+
 ---
 
 **Is this the backyard centerpiece your kids will actually use — or a weekend project that ends up as an expensive clothesline? Here's the honest breakdown after digging through 225 buyer reviews, the spec sheet, and the real-world complaints.**

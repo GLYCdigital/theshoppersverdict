@@ -1,4 +1,5 @@
 ---
+
 title: "Skittles Singles To Go drink mix"
 seo_title: "Skittles Singles To Go drink mix Review: Verdict | TSV"
 meta_description: "Our full skittles singles to go drink mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPR79BPF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZW85zuSmL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: flavored drink mixes are a dime a dozen. But when a product carries the Skittles name and still pulls a 4.7-star average from 235 ratings, that's worth investigating. I've tested every variant of powdered drink enhancer from the grocery aisle to the deep-cut imports, and here's the real story on Skittles Singles To Go.

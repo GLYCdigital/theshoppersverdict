@@ -1,4 +1,5 @@
 ---
+
 title: "Cesar Simply Crafted"
 seo_title: "Cesar Simply Crafted Review: Real Meat Dog Food Trays (2026)"
 meta_description: "Honest Cesar Simply Crafted review: 4.6/5 rating. Real meat recipes, single-serve trays, picky eater results, and downsides you should know."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGXCQFXK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814DStIf8iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real meat is the first ingredient — chicken or beef appears before any fillers"
   - "Convenient single-serve trays with easy-peel lids; no can opener or leftovers to store"
   - "Noticeably improves appetite in picky eaters and senior dogs with dental issues"
-cons:
+cons: 
   - "Smaller portions than standard cans — a 30-lb dog needs 2+ trays per meal"
   - "Price per ounce runs higher than bulk canned options from competitors"
+
 ---
 
 If you've got a picky eater who turns their nose up at half the wet foods on the shelf, Cesar Simply Crafted deserves a closer look. This isn't the mushy, mystery-meat loaf your grandparents fed their beagle. The "Simply Crafted" line trades the usual gravy-heavy formulas for what looks and smells like actual food—shredded chicken and beef in a light broth, not a pâté brick.

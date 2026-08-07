@@ -1,4 +1,5 @@
 ---
+
 title: "Fenmzee Small Bedside Table Lamp for Bedroom - Inline Contro"
 seo_title: "Fenmzee Small Bedside Table Lamp Review (2026): Inline Control"
 meta_description: "Honest Fenmzee small bedside table lamp review: 3000K warm light, inline switch, compact build. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZCZHFM7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8110mZR+aQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 3000K warm white output — no harsh blue cast, ideal for winding down"
   - "Inline rocker switch on the cord means you can reach it without fumbling in the dark"
   - "Compact footprint (roughly 5-inch base) fits tight nightstands, shelves, or dorm desks"
-cons:
+cons: 
   - "No dimming or brightness adjustment — it's one fixed light level only"
   - "Bulb is integrated LED; when it eventually dies, you replace the whole lamp, not just a bulb"
   - "Cord is on the shorter side (about 5 feet), so placement near an outlet is mandatory"
+
 ---
 
 Let’s be honest: most bedside lamps are either too big, too bright, or too fiddly. The Fenmzee Small Bedside Table Lamp tries to solve all three with a compact body, a warm 3000K LED, and an old-school inline switch. After digging through the specs and what 229 buyers are saying, here’s the real story.

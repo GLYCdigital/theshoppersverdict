@@ -1,4 +1,5 @@
 ---
+
 title: "Toys for Boys Age 1 2 3 4 5,Dancing Robot Sensory Toy Car wi"
 seo_title: "Toys for Boys Age 1 2 3 4 5,Dancing Robot Sensory  Review"
 meta_description: "Our full toys for boys age 1 2 3 4 5,dancing robot sensory toy car wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CWCZCDDT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71uGW7CHz-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This Dancing Robot Actually Worth Your Money?

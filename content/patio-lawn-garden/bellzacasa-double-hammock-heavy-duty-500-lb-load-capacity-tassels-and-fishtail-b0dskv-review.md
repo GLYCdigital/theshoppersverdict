@@ -1,4 +1,5 @@
 ---
+
 title: "Bellzacasa Double Hammock, Heavy Duty 500 lb Load Capacity T"
 seo_title: "Bellzacasa Double Hammock Review: 500 lb Capacity, Worth It?"
 meta_description: "Bellzacasa Double Hammock review: 500 lb capacity, tassels, fishtail design. Real buyer feedback, durability concerns, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DSKVQKJX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EXrMlc9SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 500 lb capacity with reinforced triple-stitched seams and heavy-duty 210T polyester fabric"
   - "Two-person spreader bar design actually keeps the hammock open — no banana-boat rolling"
   - "Complete hanging hardware kit included (carabiners, ropes, tree straps) — no extra purchases needed"
-cons:
+cons: 
   - "Spreader bars add significant weight and bulk; not ideal for backpacking or frequent relocation"
   - "Tassels and fishtail detailing are decorative but fray after a few months of outdoor exposure"
+
 ---
 
 Let's be direct: most double hammocks under $50 are glorified pool floats with rope. The Bellzacasa Double Hammock is not that. With a 4.6-star average across 229 ratings, this one's earned its place in the backyard conversation. Here's the real story after digging through buyer feedback and spec sheets.

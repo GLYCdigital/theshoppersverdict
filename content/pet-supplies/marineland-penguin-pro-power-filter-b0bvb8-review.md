@@ -1,4 +1,5 @@
 ---
+
 title: "Marineland Penguin PRO Power Filter"
 seo_title: "Marineland Penguin PRO Power Filter Review: Verdict | TSV"
 meta_description: "Our full marineland penguin pro power filter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BVB8W99Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's talk about the Marineland Penguin PRO Power Filter. It's one of those pieces of equipment that's been around forever, and for good reason—but it's not without its quirks. With a 4.3-star average from over 200 shoppers, the consensus is solid, but let's dig into whether it's the right filter for *your* tank.

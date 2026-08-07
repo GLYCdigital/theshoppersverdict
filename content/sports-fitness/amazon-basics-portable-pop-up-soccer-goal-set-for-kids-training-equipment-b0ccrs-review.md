@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Portable Pop Up Soccer Goal Set for Kids, Trai"
 seo_title: "Amazon Basics Pop Up Soccer Goal Set Review (2026) | Honest"
 meta_description: "Amazon Basics Portable Pop Up Soccer Goal Set review: durable, lightweight, instant setup. See pros, cons, and who should buy this kids' training gear."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CCRSLSR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mqhjZD7qL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Spring-steel frame pops open in under 5 seconds — no assembly tools required"
   - "Includes two full-size 6.5 x 3.5 ft goals plus ground stakes and a zippered carry bag"
   - "Fiberglass poles handle repeated folding without bending or snapping"
-cons:
+cons: 
   - "Lightweight frame can shift on hard surfaces without stakes — use included anchors on grass"
   - "Carrying bag straps are thin; long carries can dig into shoulders"
+
 ---
 
 ### The 30-Second Verdict

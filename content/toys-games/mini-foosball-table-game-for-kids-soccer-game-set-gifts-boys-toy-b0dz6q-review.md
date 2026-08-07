@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Foosball Table Game for Kids Soccer Game Set Gifts Boys"
 seo_title: "Mini Foosball Table Game for Kids Soccer Game Set  Review"
 meta_description: "Our full mini foosball table game for kids soccer game set gifts boys review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZ6QMSCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719rqgKCbkL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A Mini Foosball Table That Actually Plays Like the Real Thing

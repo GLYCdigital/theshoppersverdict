@@ -1,4 +1,5 @@
 ---
+
 title: "Issey Miyake L'Eau d'Issey Pour Homme Eau de Toilette - Frag"
 seo_title: "Issey Miyake L'Eau d'Issey Pour Homme Eau de Toile Review"
 meta_description: "Our full issey miyake l'eau d'issey pour homme eau de toilette - frag review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F85GLLJD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5105B4XtR6L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 90s icon that still smells like nothing else

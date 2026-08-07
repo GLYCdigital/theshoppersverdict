@@ -1,4 +1,5 @@
 ---
+
 title: "Green Toys Helicopter, Blue/Green"
 seo_title: "Green Toys Helicopter Review: Safe, Durable & Eco-Friendly"
 meta_description: "Green Toys Helicopter review: Is this eco-friendly toy worth it? Real buyer feedback, durability test, safety notes, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00IL7IFOM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sqt-36A5L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made from 100% recycled plastic milk jugs — no BPA, phthalates, or external coatings to chip or peel"
   - "Rotor spins freely and survives aggressive toddler play — no small parts to break off"
   - "Dishwasher-safe and easy to clean, which parents consistently rave about"
-cons:
+cons: 
   - "No sound effects or lights — the rotor spin is the only moving feature, so tech-loving kids may lose interest faster"
   - "Wheels don't roll independently — they're fixed, so this is a hold-and-fly toy, not a push-along car"
+
 ---
 
 ## The Helicopter That Survives Your Toddler (and the Dishwasher)

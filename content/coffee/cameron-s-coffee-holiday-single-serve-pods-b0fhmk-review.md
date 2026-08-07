@@ -1,4 +1,5 @@
 ---
+
 title: "Cameron's Coffee Holiday Single Serve Pods"
 seo_title: "Cameron's Holiday Coffee Pods Review (2026): Worth It?"
 meta_description: "Honest Cameron's Coffee Holiday Single Serve Pods review: flavor, strength, value. See if these seasonal pods beat the big brands before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FHMKKC7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RYLIgl2ML._SL1500_.jpg"
-pros:
+pros: 
   - "100% Arabica beans roasted in small batches — noticeably smoother than mass-market pods"
   - "Seasonal flavors taste like actual coffee, not syrupy dessert drinks"
   - "Compostable pods — a legit eco win over plastic K-Cups"
-cons:
+cons: 
   - "Flavors rotate by season, so if you find one you love, stock up or it's gone"
   - "Lighter body than dark-roast lovers might expect — medium roast dominates the lineup"
+
 ---
 
 Let's be honest about holiday coffee: most seasonal pods taste like someone melted a candy cane into a vat of Folgers. Cameron's Coffee Holiday Single Serve Pods aren't that. This Minnesota roaster has been at it since 1918, and their small-batch approach shows up where it matters — in the cup.

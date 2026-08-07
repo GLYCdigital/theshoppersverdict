@@ -1,7 +1,8 @@
 ---
-title: "Tru-Ray 12\" x 18\" Construction Paper, White, 50 Sheets/Pack,"
-seo_title: "Tru-Ray 12\" x 18\" Construction Paper, White, 50 Sh Review"
-meta_description: "Our full tru-ray 12\" x 18\" construction paper, white, 50 sheets/pack, review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tru-Ray 12\ x 18\ Construction Paper, White, 50 Sheets/Pack,"
+seo_title: "Tru-Ray 12\ x 18\ Construction Paper, White, 50 Sh Review"
+meta_description: "Our full tru-ray 12\ x 18\ construction paper, white, 50 sheets/pack, review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tru-ray-12-x-18-construction-paper-white-50-sheets-pack-5-b0dqsj-review"
 image_alt: "Tru-Ray 12 x 18 Construction Paper, White, 50 Sheets/Pack, 5 Packs/Bundle (PAC103058-5)"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DQSJ37LZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hL5UjvzGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Tru-Ray has been the gold standard in construction paper since 1924, and this 12" x 18" white pack continues that legacy — but it's not without its quirks. With a 4.1-star average from 204 ratings, let's break down whether this oversized paper deserves a spot in your craft room or classroom.

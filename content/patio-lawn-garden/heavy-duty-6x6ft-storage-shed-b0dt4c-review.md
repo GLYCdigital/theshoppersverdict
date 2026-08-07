@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty 6x6ft Storage Shed"
 seo_title: "Heavy Duty 6x6ft Storage Shed Review: Verdict | TSV"
 meta_description: "Our full heavy duty 6x6ft storage shed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 250
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0DT4CWRFR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cX-GkJg8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 5.0-star average with 250 ratings usually makes me suspicious. Nobody's that happy. But after digging into the specs and real owner feedback on this Heavy Duty 6x6ft Storage Shed, the enthusiasm checks out. This is a genuinely well-built small shed that nails the fundamentals without overcomplicating them.

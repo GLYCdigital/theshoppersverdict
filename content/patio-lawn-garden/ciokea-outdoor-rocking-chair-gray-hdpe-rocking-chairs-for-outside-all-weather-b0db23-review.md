@@ -1,4 +1,5 @@
 ---
+
 title: "Ciokea Outdoor Rocking Chair, Gray HDPE Rocking Chairs for O"
 seo_title: "Ciokea Outdoor Rocking Chair Review: HDPE Gray All-Weather"
 meta_description: "Ciokea outdoor rocking chair review: gray HDPE all-weather build, real comfort, easy assembly. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DB23X7CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618x7K8h2NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine HDPE lumber won't split, warp, or fade — survives direct sun and snow without cracking"
   - "Smooth, silent rocking motion with curved runners that won't gouge deck boards"
   - "Tool-free assembly in under 15 minutes — interlocking panels and pre-drilled holes"
-cons:
+cons: 
   - "No lumbar support; the flat back is better for short sits than long reading sessions"
   - "Gray color shows pollen and bird droppings quickly — you'll hose it weekly"
   - Seat sits low (17 inch " from ground); tall users over 6' may find it awkward to rise
+
 ---
 
 **The Short Version: Is the Ciokea Rocking Chair Worth Your Patio Space?**

@@ -1,4 +1,5 @@
 ---
+
 title: "DC47-00016A Dryer Thermal Fuse Kit by Techecook - DC47-00016 inch"
 seo_title: "DC47-00016A Thermal Fuse Kit Review: Worth It? (2026)"
 meta_description: "Techecook DC47-00016A dryer thermal fuse kit review: compatibility, install tips, and real owner feedback. Is this $10 fix worth it? Read before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08TLW6G73/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/617vo4WO-cL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exact OEM-equivalent match for Samsung and Kenmore dryers — no adapter or modification needed"
   - "Includes both the thermal fuse AND the high-limit thermostat, plus three wire connectors, saving a second order"
   - "Correct 2-pin gold terminal configuration that eliminates the common 'wrong connector' headache"
-cons:
+cons: 
   - "No installation instruction manual included — only a QR code link, which frustrates less handy buyers"
   - "Some units shipped with slightly bent mounting tabs requiring careful straightening before install"
+
 ---
 
 Your dryer died mid-cycle, and the repair tech quoted you $220. Here's the part he'd charge you $85 for, sitting on Amazon for a fraction of that. The Techecook DC47-00016A kit replaces the two most common failure points in Samsung and Kenmore dryers: the thermal fuse and the high-limit thermostat.

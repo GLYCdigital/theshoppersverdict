@@ -1,4 +1,5 @@
 ---
+
 title: "enrybia Flag Pole Light Solar Powered 4640 Lumens Brightest"
 seo_title: "enrybia Flag Pole Light Review: 4640 Lumens Solar Power"
 meta_description: "Our honest enrybia flag pole light review: 4640 lumens, solar-powered, 4.3-star rated. Does it light your flag all night? Find out."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CRK74B5M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618o15gOv7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely impressive 4640-lumen output that actually lights the full flag at night, not just a spotlight circle on the ground"
   - "Universal mounting hardware fits poles from 0.75 to 2.5 inches, including telescoping and sectional poles"
   - "Detachable solar panel with 10-foot cable gives flexibility for shaded installation spots"
-cons:
+cons: 
   - "Full brightness only lasts 6-8 hours on a good summer charge; winter performance drops significantly"
   - "Mounting clamp uses set screws that can mar aluminum poles if over-tightened"
   - "No remote control — you're locked to the light sensor's dusk-to-dawn schedule"
+
 ---
 
 **The Short Version**

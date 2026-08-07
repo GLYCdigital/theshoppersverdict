@@ -1,4 +1,5 @@
 ---
+
 title: "Osmo Genius Starter Kit for Kids Ages 6â€“10 | 7 Educational"
 seo_title: "Osmo Genius Starter Kit for Kids Ages 6â€“10 | 7 E Review"
 meta_description: "Our full osmo genius starter kit for kids ages 6â€“10 | 7 educational review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXYNYN27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81zDdp5DKfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Promotes learning and development"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The iPad accessory that actually earns its screen time

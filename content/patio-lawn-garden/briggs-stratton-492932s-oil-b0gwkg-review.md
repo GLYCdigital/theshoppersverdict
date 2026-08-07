@@ -1,4 +1,5 @@
 ---
+
 title: "Briggs & Stratton 492932S Oil Review"
 seo_title: "Briggs & Stratton 492932S Oil Review: Real User Results"
 meta_description: "Briggs & Stratton 492932S Oil review: 4.8-star rated small engine oil. See performance, pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWKG74BX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TvhVFjBwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Formulated with advanced additive package that reduces oil consumption in high-heat mower operation"
   - "32 oz bottle fills most push mower crankcases with minimal waste — no measuring jug needed"
   - "Works across a wide temperature range (0°F to 100°F+), so it's a solid year-round choice for most climates"
-cons:
+cons: 
   - "Not a synthetic blend — conventional base oil means shorter change intervals for heavy commercial use"
   - "The 32 oz size is too large for small trimmers or blowers that need only 3-4 oz per change"
+
 ---
 
 # Briggs & Stratton 492932S Oil: The Real Story Behind That 4.8-Star Rating

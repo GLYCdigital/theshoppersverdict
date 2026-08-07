@@ -1,4 +1,5 @@
 ---
+
 title: "Elite Gourmet EHC113M Personal Single-Serve Compact Coffee M"
 seo_title: "Elite Gourmet EHC113M Review: Compact Single-Serve Coffee Maker"
 meta_description: "Honest Elite Gourmet EHC113M review: compact 14oz single-serve coffee maker. Performance, durability, real buyer feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FVXZJCPD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k1Y7D7pdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 14oz capacity brews directly into the included mug, eliminating carafe washing"
   - "Reusable mesh filter means zero ongoing pod costs—just ground coffee"
   - "Compact 5-inch footprint fits tight counter corners, dorms, and RVs"
-cons:
+cons: 
   - "Single-wall construction means coffee cools fast; preheat the mug for hotter brew"
   - "No auto-shutoff timer—must remember to flip the switch off after brewing"
+
 ---
 
 If you live alone, work from a dorm room, or just want one decent cup without firing up a 12-cup machine, the Elite Gourmet EHC113M is the kind of no-nonsense appliance that quietly earns its counter space. It's not flashy, but at roughly the size of a large travel mug, it solves a very specific problem: brewing a single 14-ounce cup directly into the included mug, using whatever ground coffee you already own.

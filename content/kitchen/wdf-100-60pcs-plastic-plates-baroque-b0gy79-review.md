@@ -1,4 +1,5 @@
 ---
+
 title: "WDF 100/60PCS plastic plates Baroque"
 seo_title: "WDF 100/60PCS plastic plates Baroque Review: Verdict | TS"
 meta_description: "Our full wdf 100/60pcs plastic plates baroque review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GY79HJBH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61j-2WCDFnL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about plastic plates: most of them scream "budget event" the second someone picks one up. The WDF Baroque set tries to change that equation, and after digging through what 235 Amazon reviewers are saying (4.7 stars, by the way), it mostly succeeds — with a few caveats worth knowing before you add to cart.

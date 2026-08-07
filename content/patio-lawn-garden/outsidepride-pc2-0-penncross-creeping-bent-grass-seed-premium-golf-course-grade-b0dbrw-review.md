@@ -1,4 +1,5 @@
 ---
+
 title: "Outsidepride PC2.0 (Penncross) Creeping Bent Grass Seed â€“ "
 seo_title: "Outsidepride PC2.0 (Penncross) Creeping Bent Grass Review"
 meta_description: "Our full outsidepride pc2.0 (penncross) creeping bent grass seed â€“  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DBRWWPR7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41TIe08jpnL._AC_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Performance and Real-World Results

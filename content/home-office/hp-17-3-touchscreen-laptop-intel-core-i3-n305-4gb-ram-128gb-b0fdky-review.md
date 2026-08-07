@@ -1,7 +1,8 @@
 ---
-title: "HP 17.3\" Touchscreen Laptop, Intel Core i3-N305, 4GB RAM, 12"
-seo_title: "HP 17.3\" Touchscreen Laptop, Intel Core i3-N305, 4 Review"
-meta_description: "Our full hp 17.3\" touchscreen laptop, intel core i3-n305, 4gb ram, 12 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17.3\ Touchscreen Laptop, Intel Core i3-N305, 4GB RAM, 12"
+seo_title: "HP 17.3\ Touchscreen Laptop, Intel Core i3-N305, 4 Review"
+meta_description: "Our full hp 17.3\ touchscreen laptop, intel core i3-n305, 4gb ram, 12 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17-3-touchscreen-laptop-intel-core-i3-n305-4gb-ram-128gb-b0fdky-review"
 image_alt: "HP 17.3 Touchscreen Laptop, Intel Core i3-N305, 4GB RAM, 128GB SSD, Numeric Keypad, Webcam, HDMI, Wi-Fi 6, Windows 11 Pr"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FDKY4MC6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712Oh4hTlNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a big-screen laptop under $400, you've likely seen this HP 17.3" touchscreen model floating around Amazon. With a 4.4-star average from 220 ratings, it's clearly doing something right — but let's talk about what it actually is, because the spec sheet hides some realities you need to know before checkout.

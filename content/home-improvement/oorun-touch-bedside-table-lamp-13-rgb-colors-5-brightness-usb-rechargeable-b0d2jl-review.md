@@ -1,4 +1,5 @@
 ---
+
 title: "OORUN Touch Bedside Table Lamp,13 RGB Colors & 5 Brightness,"
 seo_title: "OORUN Touch Bedside Table Lamp,13 RGB Colors & 5 B Review"
 meta_description: "Our full oorun touch bedside table lamp,13 rgb colors & 5 brightness, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D2JLR6JR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BBIUuQgXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be blunt: most bedside lamps under $30 are either dim, cheaply built, or both. The OORUN Touch Bedside Table Lamp tries to break that pattern by packing 13 RGB colors, 5 brightness levels, and USB-C rechargeability into a compact, minimalist cylinder. At 4.2 stars across 210 ratings, it’s clearly doing something right — but also something wrong. Here’s the real breakdown.

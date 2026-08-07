@@ -1,4 +1,5 @@
 ---
+
 title: "GelPro Designer Comfort Kitchen Mat"
 seo_title: "GelPro Designer Comfort Kitchen Mat Review: Verdict | TSV"
 meta_description: "Our full gelpro designer comfort kitchen mat review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLX7RKWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Gwn8vflrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is the GelPro Designer Mat Actually Worth It?  

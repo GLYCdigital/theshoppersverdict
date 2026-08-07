@@ -1,4 +1,5 @@
 ---
+
 title: "BCW Current Comic Boards and Bags Combo | 100 Polypropylene"
 seo_title: "BCW Comic Bags Review: 100-Pack Boards & Poly Bags"
 meta_description: "Read our honest BCW Current Comic Boards and Bags Combo review. 100 polypropylene bags with backing boards tested for fit, durability, and value."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002W25OGE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717wUw1nB3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Archival-grade 2 mil polypropylene bags offer crystal clarity without the PVC off-gassing that yellows older comics"
   - "Boards are 24pt thickness—sturdy enough to prevent bending but slim enough to fit 100 comics in a standard short box"
   - Consistent size: "bags fit modern 'Current' comics (6.625 inch  x 10.375 inch ) perfectly with minimal excess fold-over"
-cons:
+cons: 
   - "Some batches arrive with a faint chemical smell that dissipates after a few days of airing out"
   - "Boards are white, not acid-free buffered—fine for short-term storage but serious collectors may want upgrade boards"
   - "The 100-count combo sells out frequently; you may pay a premium from third-party sellers when Amazon stock runs dry"
+
 ---
 
 If you've been stacking your recent pulls in a shoebox or—worse—rubber-banding them together, stop what you're doing and pay attention. The BCW Current Comic Boards and Bags Combo is the unglamorous workhorse that keeps $4.99 floppies from becoming $0.50 dollar-bin fodder. At 4.7 stars across 235 ratings, it's clearly doing something right. Here's what that something is.

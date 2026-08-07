@@ -1,4 +1,5 @@
 ---
+
 title: "AVELORA Dog Water Bottle,Portable pet Water Bottle with Food"
 seo_title: "AVELORA Dog Water Bottle Review: Leak-Proof & Portable"
 meta_description: "Honest AVELORA dog water bottle review: leak-proof design, built-in food container, and one-hand operation. See if it's worth buying for your pup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B097Y2S12G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91ZkTWgksvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "One-hand operation with a lockable trigger — no fumbling with caps mid-walk"
   - "Integrated food compartment with a screw-on base actually seals; kibble stays dry"
   - "Durable BPA-free Tritan plastic that survives drops on pavement without cracking"
-cons:
+cons: 
   - "At 700ml, it's bulky for small breeds — a Chihuahua doesn't need this much water"
   - "The food container adds length; it won't fit in standard cupholders"
+
 ---
 
 Let's be honest: most dog water bottles are glorified squeeze bottles with a promise they can't keep. The AVELORA Portable Dog Water Bottle with Food Container actually tries to solve two problems at once — hydration and snacks — and for the most part, it delivers.

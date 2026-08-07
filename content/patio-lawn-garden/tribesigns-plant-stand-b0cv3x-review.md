@@ -1,4 +1,5 @@
 ---
+
 title: "Tribesigns Plant Stand"
 seo_title: "Tribesigns Plant Stand Review: Verdict | TSV"
 meta_description: "Our full tribesigns plant stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CV3XKHXV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HKDKMR0IL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever watched a $30 plant stand tip over in the first gust of wind, you know the drill: flimsy metal legs, warped particleboard, and a pile of shattered terracotta. The Tribesigns Plant Stand doesn’t do that. With a 4.7-star average across 235 ratings, this is the rare outdoor display that actually earns its spot on your patio.

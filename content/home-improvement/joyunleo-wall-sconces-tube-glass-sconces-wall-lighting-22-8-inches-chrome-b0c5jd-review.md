@@ -1,4 +1,5 @@
 ---
+
 title: "Joyunleo Wall Sconces Tube Glass Sconces Wall Lighting 22.8 "
 seo_title: "Joyunleo Wall Sconces Tube Glass Sconces Wall Ligh Review"
 meta_description: "Our full joyunleo wall sconces tube glass sconces wall lighting 22.8  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C5JD28ZG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gUXmR7-aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Joyunleo Wall Sconces Review: The 22.8-Inch Tube Glass Lighting That Actually Looks Expensive**

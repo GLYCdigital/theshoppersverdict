@@ -1,4 +1,5 @@
 ---
+
 title: "Royal Canin Breed Health Nutrition Dachshund Adult Loaf in S"
 seo_title: "Royal Canin Breed Health Nutrition Dachshund Adult Review"
 meta_description: "Our full royal canin breed health nutrition dachshund adult loaf in s review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B084DX8KQ3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71g+ck8vwcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you own a Dachshund, you already know the breed's trademark long spine is both adorable and a liability. This Royal Canin wet loaf is one of the few foods engineered specifically around that anatomy — not just marketed at it. At 4.7 stars across 235 ratings, it's clearly doing something right. But at this price, you need to know exactly what you're paying for.

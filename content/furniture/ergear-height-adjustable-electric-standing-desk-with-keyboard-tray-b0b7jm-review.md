@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Height Adjustable Electric Standing Desk with Keyboar"
 seo_title: "ErGear Electric Standing Desk Review: Worth It? (2026)"
 meta_description: "ErGear electric standing desk review: dual motors, keyboard tray, 4.4-star rating. Is it stable and worth the price? Read our honest verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B7JMYG8R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716vz9jswXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor lift handles heavy loads smoothly, rated for 176 lbs without wobble at standing height"
   - "Built-in keyboard tray with mouse pad slides independently — a rare feature at this price point"
   - "Three programmable height presets plus USB charging ports in the control panel"
-cons:
+cons: 
   - Keyboard tray reduces leg clearance; tall users (6'2 inch "+) may find knee room tight
   - "Assembly takes 45–60 minutes and the included hex key strips easily under torque"
+
 ---
 
 **The ErGear Height Adjustable Electric Standing Desk with Keyboard Tray** is the desk equivalent of ordering the combo meal — you get the electric lift, the accessories, and the cable management all in one box. But does the convenience justify the price tag, or are you paying for features you'll never use? Having dug through 220 Amazon ratings and the spec sheet, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "Beelink SER8 Mini PC AMD Ryzen 7 8745HS(UP to 4.9GHz), 32GB"
 seo_title: "Beelink SER8 Mini PC Review: Ryzen 7 Power, 32GB RAM"
 meta_description: "Beelink SER8 Mini PC with Ryzen 7 8745HS and 32GB RAM reviewed. Real performance, thermals, and value. See if this compact desktop fits your workflow."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DPMRPSMG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hBD2iSWOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Ryzen 7 8745HS delivers genuine desktop-class multi-core performance in a 0.7L chassis"
   - "32GB DDR5 RAM and fast NVMe storage handle heavy multitasking without stutter"
   - "Quad-display output via dual HDMI 2.1 and dual USB4 ports for serious productivity setups"
-cons:
+cons: 
   - "AMD Radeon 780M iGPU struggles with AAA gaming at 1080p; expect 30-40fps on low settings"
   - "Sustained all-core loads push fan noise to 45dB+ — audible in quiet office environments"
   - "No SD card slot and only one M.2 slot; storage expansion is limited"
+
 ---
 
 Let’s cut through the marketing. The Beelink SER8 with the Ryzen 7 8745HS isn't trying to be a gaming rig. It's a compact desktop aimed at professionals, developers, and anyone drowning in browser tabs and spreadsheet monsters. At 3.6 stars across 180 ratings, the feedback is mixed — but the complaints center on thermal management and gaming expectations, not core performance. Here's what you need to know before you spend.

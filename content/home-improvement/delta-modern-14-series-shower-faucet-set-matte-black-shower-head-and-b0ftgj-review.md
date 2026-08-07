@@ -1,4 +1,5 @@
 ---
+
 title: "Delta Modern 14 Series Shower Faucet Set, Matte Black Shower"
 seo_title: "Delta Modern 14 Series Shower Faucet Set Review (2026)"
 meta_description: "Delta Modern 14 Series matte black shower faucet set review: build quality, spray performance, and installation honesty. Is it worth $262? Read before buying."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTGJ6QFJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/51cRVj+BAaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full trim kit includes shower head, handheld, hose, and valve cover — no hidden parts to buy separately"
   - "Matte black finish is electroplated, not painted, so it resists chipping and fingerprints far better than budget finishes"
   - "Pressure-balancing valve keeps water temperature steady when someone flushes a toilet or runs the washing machine"
-cons:
+cons: 
   - "Valve body (rough-in) is NOT included — you must buy it separately, which adds $60–$90 to the real cost"
   - "Handheld hose is only 60 inches, which feels short if your shower is deeper than standard and you want to reach your feet comfortably"
   - "Some buyers report the diverter toggle requires a firm push; it's not a smooth slide like higher-end Delta models"
+
 ---
 
 # Delta Modern 14 Series Shower Faucet Set, Matte Black: The $262 Question

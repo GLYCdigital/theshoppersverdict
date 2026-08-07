@@ -1,4 +1,5 @@
 ---
+
 title: "GoolRC Flysky Noble NB4+ 2.4GHz 8CH Radio Transmitter with F"
 seo_title: "GoolRC Flysky Noble NB4+ Review: 8CH Radio Transmitter"
 meta_description: "GoolRC Flysky Noble NB4+ 2.4GHz 8CH radio transmitter review: ergonomics, range, and value for RC hobbyists. Is it worth the price?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CW5QXFZ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wtzb+WlrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-color 3.5-inch touchscreen with intuitive UI that rivals transmitters costing twice as much"
   - "Low-latency 2.4GHz protocol with 8-channel support and built-in gyro for steering assist"
   - "Includes FGr4S receiver with telemetry — a $40+ value bundled in the box"
-cons:
+cons: 
   - "Battery life is average at 3-4 hours of heavy use; plan for a spare or charging mid-session"
   - "Learning curve on custom mixes and firmware updates; manual is sparse in places"
+
 ---
 
 The RC transmitter market has a dirty secret: you often pay $300+ for a radio that feels like a toy. The GoolRC Flysky Noble NB4+ flips that script. At its price point, this 8-channel radio delivers a color touchscreen, telemetry, and a receiver bundle that punches so far above its weight class that I had to double-check the spec sheet. With 240 ratings averaging 4.8 stars, I'm hardly alone in that assessment.

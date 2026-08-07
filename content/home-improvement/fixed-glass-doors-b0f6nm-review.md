@@ -1,4 +1,5 @@
 ---
+
 title: "Fixed Glass Doors"
 seo_title: "Fixed Glass Doors Review: Honest Buyer's Guide (2026)"
 meta_description: "Our fixed glass doors review covers real-world performance, durability, and fit. See what 215 Amazon buyers say before you spend. Read our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F6NMDGKX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cJh67MXrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tempered safety glass with a clean, modern aluminum frame that looks far more expensive than it costs"
   - "Hardware included and pre-drilled—most buyers report a straightforward install in under two hours"
   - "Works as a room divider, shower enclosure, or office partition thanks to multiple size options"
-cons:
+cons: 
   - "No threshold or bottom seal included—you'll need to source one separately for wet areas"
   - "Frame is a fixed size with minimal adjustability, so exact opening measurements are critical"
+
 ---
 
 Some products make you squint at the listing photos and wonder what you're actually getting. Fixed glass doors are the opposite—what you see is genuinely what you get. After digging through 215 Amazon ratings and the real customer experiences behind that 4.3-star average, here's the honest breakdown before you drop your money.

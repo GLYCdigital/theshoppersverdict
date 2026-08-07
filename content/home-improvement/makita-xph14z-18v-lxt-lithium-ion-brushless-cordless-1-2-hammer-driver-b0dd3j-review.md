@@ -1,7 +1,8 @@
 ---
-title: "Makita XPH14Z 18V LXTÂ® Lithium-Ion Brushless Cordless 1/2\" "
+
+title: "Makita XPH14Z 18V LXTÂ® Lithium-Ion Brushless Cordless 1/2\ "
 seo_title: "Makita XPH14Z 18V LXTÂ® Lithium-Ion Brushless Cord Review"
-meta_description: "Our full makita xph14z 18v lxtâ® lithium-ion brushless cordless 1/2\"  review. Read Amazon customer insights, pros, cons, and our verdict."
+meta_description: "Our full makita xph14z 18v lxtâ® lithium-ion brushless cordless 1/2\  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "makita-xph14z-18v-lxt-lithium-ion-brushless-cordless-1-2-hammer-driver-b0dd3j-review"
 image_alt: "Makita XPH14Z 18V LXTÂ® Lithium-Ion Brushless Cordless 1/2 Hammer Driver-Drill, Tool Only"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DD3JPG4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51K8-5IjWfL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’re already invested in Makita’s 18V LXT platform, the XPH14Z is the upgraded hammer drill you’ve been waiting for. It replaces the beloved XPH12Z with a brushless motor, more torque, and a compact body that doesn’t punish your wrist on overhead work. But if you’re starting from scratch with no batteries, the bare-tool price tag is only the beginning of your investment.

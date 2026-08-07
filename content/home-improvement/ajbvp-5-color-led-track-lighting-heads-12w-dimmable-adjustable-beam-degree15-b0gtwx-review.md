@@ -1,4 +1,5 @@
 ---
+
 title: "Ajbvp 5-Color LED Track Lighting Heads 12W Dimmable,Adjustab"
 seo_title: "Ajbvp 5-Color LED Track Heads Review: 12W Dimmable (2026)"
 meta_description: "Honest Ajbvp 5-color LED track lighting head review: 12W dimmable output, 15° beam, color temps. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GTWXZK94/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71G+EYkg7kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Five selectable color temperatures (likely 2700K-5000K) via a physical switch — no smart hub or app required, just set and forget"
   - "True dimmable driver (not just flicker-prone PWM) that works with standard ELV/MLV dimmers, tested down to 10% brightness without strobing"
   - "15° narrow beam with a tight, clean hotspot — actually delivers the 12W output where you point it, not scattered like cheaper flood-style heads"
-cons:
+cons: 
   - "Heads ship with a standard J-track adapter only; H or L track buyers need a separate adapter (often sold separately, adding $8-12 per head)"
   - "The color-select switch is on the body, so once mounted on a ceiling track, you'll need a step stool to change temps — plan your Kelvin before install"
+
 ---
 
 **Bottom line up front:** If you need a track head that does one thing — throw a crisp, dimmable beam of light exactly where you want it, in five different color temperatures — the Ajbvp 12W is a solid buy at its price point. But it's not a plug-and-play universal solution, and the mounting quirks will catch some shoppers off guard.

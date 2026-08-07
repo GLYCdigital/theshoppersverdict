@@ -1,4 +1,5 @@
 ---
+
 title: "A6 Calculator"
 seo_title: "A6 Calculator Review: Compact Solar Powered Desktop Unit"
 meta_description: "Read our honest A6 calculator review. Compact solar-powered desktop design, large display, and real buyer feedback. Is it worth your money?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B092VB22PQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wHOCyk-WL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solar-powered with battery backup — works reliably even in dim lighting without the cost of replacing cells"
   - "Large, tilted LCD display with 12-digit capacity that's genuinely readable from a normal sitting position"
   - "Solid ABS plastic body with responsive keys that don't wobble or stick, even after heavy daily use"
-cons:
+cons: 
   - "Keys are smaller than full-size desktop calculators — a real issue if you have large fingers or wear heavy gloves"
   - "No backlight, so it's nearly useless in low-light conditions despite the solar panel"
+
 ---
 
 Some products are exciting. Calculators are not. But the A6 Calculator has quietly racked up 220 ratings at a 4.4-star average, which means it's doing something right where it matters — basic arithmetic that doesn't make you want to throw it across the room.

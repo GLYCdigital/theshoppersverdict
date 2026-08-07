@@ -1,4 +1,5 @@
 ---
+
 title: "Sigaitwei Farmhouse Chandelier"
 seo_title: "Sigaitwei Farmhouse Chandelier Review: Verdict | TSV"
 meta_description: "Our full sigaitwei farmhouse chandelier review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPPHTC29/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KW7ECVLXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been scrolling past the same generic drum shades and LED globes, the Sigaitwei Farmhouse Chandelier at least makes you stop. It's a rustic-industrial take on the classic wagon-wheel fixture — five exposed E26 sockets arranged around a central hub, framed by a dark steel ring and capped with natural pine wood slats. The look is specific: think reclaimed barnwood meets black pipe. And at a 4.6-star average across 229 ratings, it's clearly resonating with people who want character without commissioning a custom piece.

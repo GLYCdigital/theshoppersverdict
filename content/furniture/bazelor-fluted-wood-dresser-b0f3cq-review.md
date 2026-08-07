@@ -1,4 +1,5 @@
 ---
+
 title: "BAZELOR Fluted Wood Dresser"
 seo_title: "BAZELOR Fluted Wood Dresser Review: Honest 2026 Verdict"
 meta_description: "BAZELOR Fluted Wood Dresser review: 4.3/5 stars from 215 ratings. Solid build, wavy detail, real tradeoffs. Is it worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F3CQ3BBW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8117vdaMk0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fluted front panel is actual carved wood, not cheap MDF veneer — adds genuine texture and depth"
   - "Six full-extension drawers with soft-close glides handle heavy loads without sagging"
   - "Assembly takes under an hour with cam locks; all hardware labeled and included"
-cons:
+cons: 
   - "Darker wood tones show fingerprints and dust quickly — plan on regular wiping"
   - "Top drawer sits shallow at 5 inches deep; bulky sweaters need the lower drawers"
+
 ---
 
 The fluted dresser trend has flooded Amazon with lookalikes that are really just printed particleboard wrapped in a photo of wood grain. The BAZELOR Fluted Wood Dresser is not that. As shown in the product image, the wavy front panel has actual depth — you can see shadows shift across the ridges as you walk past it. That's real carving, and it's the main reason this piece earns its 4.3-star average across 215 ratings.

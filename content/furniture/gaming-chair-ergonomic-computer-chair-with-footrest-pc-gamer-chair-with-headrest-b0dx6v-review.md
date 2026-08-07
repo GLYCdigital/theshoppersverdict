@@ -1,24 +1,26 @@
 ---
+
 title: "Gaming Chair, Ergonomic Computer Chair with Footrest, PC Gam"
 seo_title: "Gaming Chair Ergonomic Review: Footrest & Headrest (2026)"
 meta_description: "Honest review of the ergonomic gaming chair with footrest, headrest, and lumbar support. See pros, cons, and who should buy it before you spend."
 slug: "gaming-chair-ergonomic-computer-chair-with-footrest-pc-gamer-chair-with-headrest-b0dx6v-review"
 image_alt: "Ergonomic gaming chair with footrest, headrest, and lumbar pillow in black upholstery"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DX6VP8H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CnQuuIJRL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Flip-out footrest actually extends full leg support — rare at this price point"  
   - "Adjustable lumbar and headrest pillows attach with straps, not cheap clips"  
   - "Tilt mechanism with lockable recline up to 135 degrees feels solid"  
-cons:  
+cons: 
   - "Assembly takes 45–60 minutes; bolts aren't labeled clearly"  
   - "Seat cushion runs firm for the first two weeks — break-in required"  
   - "Armrests adjust up/down only, no 4D movement"
+
 ---
 
 Skip this if you want a racing-style throne that looks aggressive but falls apart in six months. This chair does the opposite: it's a workhorse with a gamer aesthetic, and the footrest is the real deal.

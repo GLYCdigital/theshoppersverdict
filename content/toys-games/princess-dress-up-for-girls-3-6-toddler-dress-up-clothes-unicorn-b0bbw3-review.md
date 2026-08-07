@@ -1,4 +1,5 @@
 ---
+
 title: "Princess Dress Up for Girls 3-6, Toddler Dress Up Clothes, U"
 seo_title: "Princess Dress Up for Girls 3-6, Toddler Dress Up  Review"
 meta_description: "Our full princess dress up for girls 3-6, toddler dress up clothes, u review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BBW3W7TW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OQlyuR0xL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Verdict: A Princess Dress-Up Set That Actually Gets Worn

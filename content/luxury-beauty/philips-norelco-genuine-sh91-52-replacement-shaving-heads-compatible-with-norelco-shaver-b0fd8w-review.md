@@ -1,4 +1,5 @@
 ---
+
 title: "Philips Norelco Genuine SH91/52 Replacement Shaving Heads Co"
 seo_title: "Philips Norelco Genuine SH91/52 Replacement Shavin Review"
 meta_description: "Our full philips norelco genuine sh91/52 replacement shaving heads co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8WKY69/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PbgZHCFbL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about electric shavers: they don't die slowly. They degrade imperceptibly — one morning you're getting a clean shave, and three weeks later you're pressing harder, going over the same patch twice, and wondering why your neck feels like sandpaper. If you're there, the problem isn't your razor. It's your shaving heads. And the Philips Norelco SH91/52 is exactly the fix you're looking for.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cable Matters All-In-One Modular Ethernet Crimping Tool Cat"
 seo_title: "Cable Matters Ethernet Crimping Tool Review: Is It Worth It?"
 meta_description: "Cable Matters All-In-One Modular Ethernet Crimping Tool Cat review: Build quality, crimping performance, and whether it beats cheaper crimpers."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH3TDJ4B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vyBKil0NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Three-in-one design (crimper, stripper, cutter) saves tool swaps on a ladder"
   - "Ratchet mechanism delivers consistent, even crimps without hand fatigue"
   - "Die set includes RJ45, RJ11, and RJ12 — covers phone and network cable"
-cons:
+cons: 
   - "Stripper blade is aggressive; easy to nick inner conductors if you're heavy-handed"
   - "No built-in cable tester — you'll need a separate one to verify your terminations"
+
 ---
 
 **The honest take on a tool that either pays for itself in one afternoon or collects dust in a drawer.**

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT 20V MAX Brushless Cordless Edger - Bare Tool (DCED400B)"
 seo_title: "DEWALT 20V MAX Cordless Edger Review: DCED400B (2026)"
 meta_description: "DEWALT 20V MAX Brushless Cordless Edger DCED400B review: performance, battery life, dust issues, and who should buy it. Honest verdict after 215 ratings."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09Y9KQ8CT/?tag=tsvglyc-40 inch"
 amazon_image: "https://m.media-amazon.com/images/I/41OGyBr6oVL._SL1000_.jpg"
-pros:
+pros: 
   - "Brushless motor delivers gas-like torque without the pull-start hassle"
   - "Tool-free depth adjustment and pivoting head make curb work genuinely easy"
   - "Fits existing 20V MAX batteries if you're already in the DEWALT ecosystem"
-cons:
+cons: 
   - "Bare tool only — no battery or charger included, so factor in that cost"
   - "Gets heavy on longer edging runs; the weight distribution tires your arms"
   - "Some units arrive with a slightly misaligned guard that needs a quick fix"
+
 ---
 
 If you're already holding DEWALT 20V MAX batteries, this edger is the missing piece in your lawn toolkit. If you're not, the DCED400B has a steeper entry price than you might expect — and that's the first thing to understand.

@@ -1,4 +1,5 @@
 ---
+
 title: "The Doux Wash and Go Foam"
 seo_title: "The Doux Wash and Go Foam Review: Verdict | TSV"
 meta_description: "Our full the doux wash and go foam review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DNRM59CG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Mousse That Made Curl People Rethink Wash Day

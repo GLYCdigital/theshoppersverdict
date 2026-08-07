@@ -1,4 +1,5 @@
 ---
+
 title: "Husky Liners Weatherbeater Floor Mats | Fits 2009 - 2024 Ram"
 seo_title: "Husky Liners Weatherbeater Floor Mats | Fits 2009  Review"
 meta_description: "Our full husky liners weatherbeater floor mats | fits 2009 - 2024 ram review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008M1WB7E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sBC35RQ5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for fitness enthusiasts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you drive a Ram truck through actual weather — not just pavement princess duties — your factory carpet mats are already a lost cause. The Husky Liners Weatherbeater set is the pragmatic fix, but it comes with tradeoffs you need to know before you click buy.

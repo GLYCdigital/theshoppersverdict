@@ -1,4 +1,5 @@
 ---
+
 title: "Black Radiance Pressed Powder"
 seo_title: "Black Radiance Pressed Powder Review (2026): Deep Skin Pro"
 meta_description: "Black Radiance Pressed Powder review: honest take on shade range, oil control & wear time for deep skin tones. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CT6VVHN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81b829LGo2L._SL1500_.jpg"
-pros:
+pros: 
   - "True deep-shade range that doesn't run ashy — 12+ options spanning golden, red, and neutral undertones"
   - "Buildable medium-to-full coverage that controls oil for 6+ hours without flashback in photos"
   - "Compact includes a decent mirror and sponge; formula blends easily with both brushes and damp beauty sponges"
-cons:
+cons: 
   - "Packaging feels budget-plastic despite the luxury positioning — hinge is prone to cracking with daily drops"
   - "Can emphasize dry patches if you skip moisturizer; best suited for normal-to-oily skin types"
+
 ---
 
 ## Is This the Setting Powder Deep Skin Tones Have Been Waiting For?

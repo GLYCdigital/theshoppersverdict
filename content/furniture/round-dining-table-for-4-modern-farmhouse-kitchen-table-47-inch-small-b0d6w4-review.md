@@ -1,4 +1,5 @@
 ---
+
 title: "Round Dining Table for 4, Modern Farmhouse Kitchen Table, 47"
 seo_title: "Round Dining Table for 4, Modern Farmhouse Kitchen Review"
 meta_description: "Our full round dining table for 4, modern farmhouse kitchen table, 47 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D6W4HDTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R4TmIL5AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## A 47-Inch Round Table That Actually Fits Four Adults

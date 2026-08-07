@@ -1,4 +1,5 @@
 ---
+
 title: "Anovo Flag Pole Holder, Flag Pole Brackets Mount Outside Hou"
 seo_title: "Anovo Flag Pole Holder Review: Heavy-Duty Wall Mount Bracket"
 meta_description: "Honest Anovo flag pole holder review: heavy-duty wall mount bracket for house siding, brick, and wood. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCHWZHSZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71H8rYULVgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits both 1-inch and 1.25-inch diameter poles with rubber inserts that grip without scratching"
   - "Triple-mounting-hole design with 4-inch screw spacing distributes weight across siding or brick"
   - "Anti-rattle construction — rubber gasket plus locking collar means no clanging in wind"
-cons:
+cons: 
   - "Screws and anchors included are basic; replace with stainless steel for coastal environments"
   - "Not designed for poles over 6 feet — longer poles need a second bracket for stability"
+
 ---
 
 Some flag pole holders are cheap stamped metal that rust after one season. The Anovo flag pole holder isn't that. It's a machined aluminum bracket with a powder-coated finish that actually looks intentional on your house, not like an afterthought bolted to the siding. At 4.7 stars across 235 ratings, it's clearly earning its keep — but let's get into whether it's the right mount for *your* setup.

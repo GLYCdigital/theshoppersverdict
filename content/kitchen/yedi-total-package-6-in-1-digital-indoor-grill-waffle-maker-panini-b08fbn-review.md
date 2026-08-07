@@ -1,4 +1,5 @@
 ---
+
 title: "Yedi Total Package 6-in-1 Digital Indoor Grill, Waffle Maker"
 seo_title: "Yedi Total Package 6-in-1 Digital Indoor Grill, Wa Review"
 meta_description: "Our full yedi total package 6-in-1 digital indoor grill, waffle maker review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08FBN3QFC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Tn4Xql2CL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Yedi Total Package 6-in-1 is the kitchen equivalent of a Swiss Army knife — and for once, the multi-tool approach actually works. With 215 ratings averaging 4.3 stars, this isn't a gimmick appliance that ends up in a garage sale. It's a legitimate countertop workhorse that swaps between six cooking functions: grill, griddle, waffle maker, sandwich press, Panini press, and a combination mode that lets you cook two things simultaneously.

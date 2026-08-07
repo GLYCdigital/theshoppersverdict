@@ -1,4 +1,5 @@
 ---
+
 title: "Aeitto Ice Makers Countertop, 9 Ice Cubes Release in 6 Mins,"
 seo_title: "Aeitto Ice Maker Review: Fast Countertop Ice in 6 Minutes"
 meta_description: "Aeitto countertop ice maker review: 9 cubes in 6 minutes, 26 lbs daily output. Honest pros, cons, and who should buy this portable machine."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F6CQMTL7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61PemxSYFkL._SL1500_.jpg"
-pros:
+pros: 
   - "First batch of 9 bullet-shaped cubes ready in 6 minutes — genuinely fast for the price tier"
   - "Compact footprint (roughly the size of a bread box) fits tight countertops without dominating"
   - "Self-cleaning function and transparent lid let you monitor water levels at a glance"
-cons:
+cons: 
   - "Ice capacity caps around 26 lbs/day; heavy entertainers will outpace it quickly"
   - "No compressor means cubes melt faster and the machine needs 1–2 hour rest periods between uses"
   - "Unit can be loud — several owners report a persistent hum that's noticeable in open kitchens"
+
 ---
 
 ## The 6-Minute Ice Machine That's Almost Great

@@ -1,4 +1,5 @@
 ---
+
 title: "AeroPress Flow Control Filter Cap, Stops Drip for Full Contr"
 seo_title: "AeroPress Flow Control Filter Cap Review: Stops Drip"
 meta_description: "AeroPress Flow Control Filter Cap review: Does the $20 accessory stop drips and boost control? Tested for fit, brew quality, and value."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BXCRVZ52/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/61oLjq2PvjL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Eliminates passive drip during steeping — no more coffee pooling in your mug before you press"
   - "Simple one-piece silicone design that fits all standard AeroPress models (Original and Clear)"
   - "Durable food-grade silicone that won't warp, crack, or retain odors after months of daily use"
-cons:
+cons: 
   - "Requires a learning curve — you must invert the press or use the 'dry cap' method to avoid spills"
   - "Adds slight resistance to the press — you'll need more downward force than with the standard cap"
   - "Not compatible with the AeroPress Go's shorter chamber without an adapter"
+
 ---
 
 **The AeroPress Flow Control Filter Cap review: a $20 fix for the one thing that annoyed every AeroPress owner.**

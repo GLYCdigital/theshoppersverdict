@@ -1,4 +1,5 @@
 ---
+
 title: "8PCS Cereal Bowl, Ohola Unbreakable Wheat Straw Cereal Bowls"
 seo_title: "Ohola Wheat Straw Cereal Bowls Review: 8-PC Set"
 meta_description: "Ohola wheat straw cereal bowls review: 8-piece unbreakable set, microwave & dishwasher safe. Real pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D923DNCC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-fmWg74YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely unbreakable — wheat straw composite survives drops that shatter ceramic and chip melamine"
   - "Lightweight at roughly 8 oz per bowl, making them manageable for kids and seniors"
   - "Stacks neatly without scratching thanks to smooth, non-porous surface"
-cons:
+cons: 
   - "Not suitable for oven use or high-heat reheating — microwave-safe but can't handle broiling or baking"
   - "Wheat straw material may absorb oils from fatty foods over time, requiring thorough washing"
   - "Slightly smaller than standard cereal bowls at about 5.5 inches diameter — portion sizes look larger"
+
 ---
 
 # Ohola Wheat Straw Cereal Bowls Review: Tough Enough for Real Kitchens?

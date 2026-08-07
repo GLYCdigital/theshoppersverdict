@@ -1,4 +1,5 @@
 ---
+
 title: "MaxGear Acrylic Sign Holder 8.5 X 11 Wall Mount Sign Holder "
 seo_title: "MaxGear Acrylic Sign Holder 8.5 X 11 Wall Mount Si Review"
 meta_description: "Our full maxgear acrylic sign holder 8.5 x 11 wall mount sign holder  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1533X7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bNulaHXVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Does this wall-mounted acrylic holder actually look professional, or does it scream "cheap office supply"?**

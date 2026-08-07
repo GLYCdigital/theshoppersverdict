@@ -1,4 +1,5 @@
 ---
+
 title: "Kidde Carbon Monoxide Detector, Propane, Natural, Methane, &"
 seo_title: "Kidde Carbon Monoxide Detector, Propane, Natural,  Review"
 meta_description: "Our full kidde carbon monoxide detector, propane, natural, methane, & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G82LQPSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qAcXzl4AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most homes have a carbon monoxide detector. Most don't have an explosive gas detector. The Kidde plug-in unit that combines both is the kind of product that makes you wonder why it isn't standard equipment — especially if you cook with gas, heat with propane, or own a garage where a fuel leak could go unnoticed.

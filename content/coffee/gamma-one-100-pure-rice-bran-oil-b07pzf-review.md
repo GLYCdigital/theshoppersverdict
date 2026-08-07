@@ -1,4 +1,5 @@
 ---
+
 title: "Gamma One 100% Pure Rice Bran Oil"
 seo_title: "Gamma One Rice Bran Oil Review: Best for Coffee? (2026)"
 meta_description: "Gamma One 100% Pure Rice Bran Oil review: 4.7-star rated, 235 reviews. We test it for coffee roasting, seasoning, and health benefits. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PZF8S9Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UZGvm+3VL._SL1500_.jpg"
-pros:
+pros: 
   - "High smoke point (450°F) makes it ideal for roasting green coffee beans without burning"
   - "Neutral flavor profile won't mask the origin notes of single-origin beans"
   - "Contains naturally occurring gamma-oryzanol, an antioxidant that supports heart health"
-cons:
+cons: 
   - "Plastic bottle packaging — pour spout can drip if you're not careful"
   - "Some users report the 32oz size runs out quickly if you're roasting weekly"
+
 ---
 
 Let's be honest — you clicked on this because you're wondering if rice bran oil has any business in your coffee routine. It does. Here's why.

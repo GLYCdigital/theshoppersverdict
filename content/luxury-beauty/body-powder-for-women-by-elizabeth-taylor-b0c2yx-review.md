@@ -1,4 +1,5 @@
 ---
+
 title: "Body Powder for Women by Elizabeth Taylor"
 seo_title: "Body Powder for Women by Elizabeth Taylor Review (2026)"
 meta_description: "Our honest Elizabeth Taylor Body Powder review: scent, silky texture, packaging, and value. See if this luxury dusting powder is worth it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2YX9YMW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KM8aCAIvL._SL1500_.jpg"
-pros:
+pros: 
   - "Generous 7-ounce jar delivers months of daily use"
   - "Silky, finely-milled texture that doesn't cake or chalk up"
   - "Classic, elegant scent that lingers subtly for hours"
-cons:
+cons: 
   - "Puff is thin and can dispense too much powder at once"
   - "Scent strength may be too light for those who prefer bold fragrances"
+
 ---
 
 Some products scream luxury. This one whispers it. The Elizabeth Taylor Body Powder sits on your vanity like a piece of vintage Hollywood — white and gold, unapologetically glamorous. But does it perform as well as it looks? After digging through 229 ratings and testing the formula's reputation, here's the honest breakdown.

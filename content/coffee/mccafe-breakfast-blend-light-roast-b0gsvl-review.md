@@ -1,4 +1,5 @@
 ---
+
 title: "McCafe Breakfast Blend, Light Roast"
 seo_title: "McCafe Breakfast Blend, Light Roast Review: Verdict | TSV"
 meta_description: "Our full mccafe breakfast blend, light roast review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSVL249M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about McCafe Breakfast Blend: it doesn't try to be what it isn't. This is not a single-origin Ethiopian Yirgacheffe with notes of blueberry and jasmine. It's not a small-batch artisan roast that costs $22 for 12 ounces. What it *is* is a genuinely pleasant, smooth, no-drama light roast that tastes like the coffee you actually want to drink at 6:45 AM when you're still deciding if you're a person yet.

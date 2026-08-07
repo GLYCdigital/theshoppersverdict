@@ -1,4 +1,5 @@
 ---
+
 title: "Fairview GR-9984 RV Camper LP Propane 2-Stage Automatic Chan"
 seo_title: "Fairview GR-9984 Propane Regulator Review: RV Must-Have"
 meta_description: "Fairview GR-9984 RV propane regulator review: 2-stage automatic changeover, build quality, real-world performance, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CJL6M1S4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qGYqcqVGL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True two-stage regulation delivers stable appliance pressure even as tank temp drops"
   - "Automatic changeover with clear indicator window — no more guessing which tank is empty"
   - "Brass body with weather-resistant coating holds up to road grime and rain"
-cons:
+cons: 
   - "Pigtail hoses sold separately — adds $20–30 to total install cost"
   - "Indicator window can frost over in sub-freezing conditions, obscuring the red flag"
   - "Mounting bracket bolt holes don't line up perfectly on some RV frames"
+
 ---
 
 If you've ever been halfway through a shower in an RV park when the water goes icy cold, you know the pain of a dead propane tank. The Fairview GR-9984 aims to end that misery with automatic changeover — and for most buyers, it delivers exactly that. Here's the full breakdown after digging through 220 ratings and the technical specs.

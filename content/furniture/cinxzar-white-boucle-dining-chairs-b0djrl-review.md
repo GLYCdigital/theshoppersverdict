@@ -1,4 +1,5 @@
 ---
+
 title: "Cinxzar White Boucle Dining Chairs"
 seo_title: "Cinxzar White Boucle Dining Chairs Review (2026): Worth It?"
 meta_description: "Honest Cinxzar white boucle dining chair review: comfort, build quality, stain resistance, and whether these trendy chairs fit your dining room."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJRLY53J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dn8QzLIWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick 10cm high-density foam seat cushion holds its shape even after months of daily use"
   - "Wraparound curved backrest provides genuine lumbar support, not just a decorative swoop"
   - "Pre-attached floor glides protect hardwood and tile from scratches on all four legs"
-cons:
+cons: 
   - "White boucle fabric shows stains and dark denim transfer readily — treat with fabric protector before first use"
   - "Assembly requires an Allen wrench (included) and takes 20-30 minutes per chair; holes don't always align perfectly"
+
 ---
 
 The white boucle chair trend has flooded Amazon with lookalikes, but the Cinxzar version stands apart for one reason: it actually feels substantial. At 22 pounds per chair, these aren't the hollow, wobbly knockoffs you'll regret by week three. After digging through 220 ratings and the construction specs, here's what real buyers are experiencing.

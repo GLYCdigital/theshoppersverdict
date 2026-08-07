@@ -1,4 +1,5 @@
 ---
+
 title: "Bergen Marzipan M-1 Assorted Fruit 8 ounce"
 seo_title: "Bergen Marzipan M-1 Assorted Fruit Review (2026): Worth It?"
 meta_description: "Bergen Marzipan M-1 Assorted Fruit 8 oz review: taste, texture, value. See what 210 Amazon buyers say before you buy this almond confection."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D84G51CJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cX3HehFoL._SL1500_.jpg"
-pros:
+pros: 
   - "Authentic almond flavor with a smooth, pliable texture that doesn't dry out or crumble"
   - "8-ounce box contains roughly 14-16 individually wrapped pieces — good value for the price point"
   - "Beautifully detailed fruit shapes (apples, pears, peaches) that look almost too real to eat"
-cons:
+cons: 
   - "Sugar coating on the fruit pieces can be overly sweet for those expecting a more bitter almond profile"
   - "The shapes are molded but not individually detailed — some pieces look rushed and identical"
+
 ---
 
 Let me be upfront: I didn't expect to be reviewing marzipan on a coffee gear site. But here's the thing — if you're the type who takes your espresso seriously, you already know that a great almond note in your cup pairs perfectly with a bite of quality marzipan. And the Bergen Marzipan M-1 Assorted Fruit 8-ounce box is exactly the kind of confection that belongs next to your grinder.

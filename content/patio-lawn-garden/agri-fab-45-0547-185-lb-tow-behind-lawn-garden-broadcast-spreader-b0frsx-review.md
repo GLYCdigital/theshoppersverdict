@@ -1,23 +1,25 @@
 ---
+
 title: "Agri-Fab 45-0547 185 lb. Tow-Behind Lawn & Garden Broadcast"
 seo_title: "Agri-Fab 45-0547 Tow-Behind Spreader Review (2026)"
 meta_description: "Honest Agri-Fab 45-0547 185 lb. tow-behind broadcast spreader review: build quality, real-world coverage, and who should buy it."
 slug: "agri-fab-45-0547-185-lb-tow-behind-lawn-garden-broadcast-spreader-b0frsx-review"
 image_alt: "Agri-Fab 45-0547 185 lb. tow-behind broadcast spreader hitched to a lawn tractor"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 190  
-amazon_rating: 3.8  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 190
+amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0FRSXD663/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71koa9IDmwL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "185-lb. hopper capacity cuts refill stops dramatically on acre-plus lawns"  
   - "Pneumatic 13-inch tires with turf tread roll smoothly over uneven ground"  
   - "Adjustable flow lever and spread pattern dial offer real calibration control"  
-cons:  
+cons: 
   - "Assembly requires basic tools and patience; some holes misalign on early units"  
   - "Plastic hopper feels less rugged than steel alternatives at this price point"
+
 ---
 
 If you’re spreading fertilizer across anything bigger than a postage-stamp lawn, a hand-crank walk-behind spreader turns a 20-minute job into a backache marathon. The Agri-Fab 45-0547 185 lb. tow-behind broadcast spreader promises to fix that by hitching to your lawn tractor and letting the machine do the heavy lifting. It’s a solid concept, and for the most part, it delivers — but it’s not without a few quirks that might make you pause before pulling the trigger.

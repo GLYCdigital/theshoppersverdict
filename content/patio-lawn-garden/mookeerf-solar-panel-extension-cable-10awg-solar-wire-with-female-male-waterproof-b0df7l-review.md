@@ -1,4 +1,5 @@
 ---
+
 title: "MOOKEERF Solar Panel Extension Cable - 10AWG Solar Wire with"
 seo_title: "MOOKEERF Solar Panel Extension Cable - 10AWG Solar Review"
 meta_description: "Our full mookeerf solar panel extension cable - 10awg solar wire with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF7LNBKV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wO2T9koeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tried to move a solar panel more than six feet from its charge controller, you already know the pain: undersized wire, voltage drop, and those cheap connectors that corrode after one rainy season. The MOOKERF 10AWG Solar Panel Extension Cable is the no-nonsense fix for that problem. Here's what you actually get for your money.

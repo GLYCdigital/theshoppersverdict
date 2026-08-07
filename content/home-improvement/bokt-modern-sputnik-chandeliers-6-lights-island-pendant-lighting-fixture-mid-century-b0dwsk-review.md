@@ -1,4 +1,5 @@
 ---
+
 title: "BOKT Modern Sputnik Chandeliers 6-Lights Island Pendant Ligh"
 seo_title: "BOKT Sputnik Chandelier Review: 6-Light Island Pendant (2026)"
 meta_description: "Honest BOKT Modern Sputnik 6-light chandelier review: build quality, installation, brightness, and who should buy this mid-century island pendant."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DWSKFMPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ksx64OMEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True mid-century look with matte black finish that hides fingerprints well"
   - "Six E26 sockets allow you to customize brightness and color temperature"
   - "Compatible with sloped ceilings and dimmable switches if you use dimmable bulbs"
-cons:
+cons: 
   - "Bulbs not included — factor in $30–$60 extra for six decent LED bulbs"
   - "Gold accent ring on socket base can look slightly brassy next to premium fixtures"
   - "Assembly requires two people; arms are delicate until fully tightened"
+
 ---
 
 Sputnik chandeliers are having a moment, and the BOKT 6-light version is one of the more popular options on Amazon — 220 ratings, 4.4 stars. But popularity alone doesn't tell you whether this thing will look cheap in your dining room or hold up after a year of dusting. Here's the real breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Double Espresso Coffee Pods"
 seo_title: "Double Espresso Coffee Pods Review: Worth It? (2026)"
 meta_description: "Honest Double Espresso Coffee Pods review: intensity, crema, and compatibility tested. See if these pods beat name brands before you buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DR17PK59/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/414YvrINJUL._SL1000_.jpg"
-pros:
+pros: 
   - "Thick, lasting crema that rivals café pulls — even on cheap machines"
   - "True ristretto-style intensity without the bitter ashiness of most dark roasts"
   - "Aluminum capsules are fully recyclable and fit standard Nespresso OriginalLine machines"
-cons:
+cons: 
   - "No intensity rating printed on the box — you'll have to dial in your water ratio by trial"
   - "Lighter body than true Italian roasters; lacks that heavy, syrupy mouthfeel"
   - "Price per pod creeps up if you buy the smaller 20-count; bulk packs are the only sane option"
+
 ---
 
 ## The Short Version

@@ -1,4 +1,5 @@
 ---
+
 title: "NSdirect 36 inches Round Coffee Table, Rustic Wooden Surface"
 seo_title: "NSdirect 36 inches Round Coffee Table, Rustic Wood Review"
 meta_description: "Our full nsdirect 36 inches round coffee table, rustic wooden surface review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08BKH3S4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91hc7v2t29L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about round coffee tables: they’re either charming conversation pieces or awkward space-wasters that make you stretch awkwardly for your mug. The NSdirect 36-inch round table lands firmly in the first camp, and after digging through 225 ratings averaging 4.5 stars, I can tell you exactly why it works — and where it might not.

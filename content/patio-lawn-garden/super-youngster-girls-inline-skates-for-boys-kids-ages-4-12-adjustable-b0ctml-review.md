@@ -1,4 +1,5 @@
 ---
+
 title: "SUPER YOUNGSTER Girls Inline Skates for Boys Kids Ages 4-12,"
 seo_title: "SUPER YOUNGSTER Girls Inline Skates for Boys Kids  Review"
 meta_description: "Our full super youngster girls inline skates for boys kids ages 4-12, review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CTMLQT96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fmu-pjb+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most kids' inline skates under $60 are plastic toys with wheels bolted on. The SUPER YOUNGSTER skates—despite the awkward brand name—are not that. With a 4.9-star average across 245 ratings, these have quietly become one of the best-selling adjustable skates for the 4-12 set. Here's the real story after digging through specs, materials, and what actual buyers are saying.

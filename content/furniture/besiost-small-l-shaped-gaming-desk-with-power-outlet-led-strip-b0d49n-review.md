@@ -1,4 +1,5 @@
 ---
+
 title: "Besiost Small L Shaped Gaming Desk with Power Outlet & LED S"
 seo_title: "Besiost L Shaped Gaming Desk Review: Power & LED in One"
 meta_description: "Honest Besiost Small L Shaped Gaming Desk review: power outlet, LED strips, build quality & real user feedback. Is it worth your money? Find out."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D49NDGPG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/811IFWasgbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in power outlet and USB ports integrated into the desktop—no ugly power strip dangling off the side"
   - "Carbon fiber texture surface resists scratches and wipes clean easily, a step above standard melamine"
   - "Compact L-shape fits corner spaces as small as 45 inches wide without sacrificing monitor room"
-cons:
+cons: 
   - "LED strips are non-addressable—single color zone only, so no rainbow wave effects if that matters to you"
   - "Assembly requires two people despite the 'easy setup' claims; the corner bracket alignment is finicky"
+
 ---
 
 Let me cut through the noise on this one. The Besiost Small L Shaped Gaming Desk with Power Outlet & LED is exactly what it says on the box—a compact corner desk for gamers who don't have a sprawling battlestation. At 4.4 stars from 220 ratings, it's solidly above average. But is it the right desk for *your* setup? Here's what you need to know before you click buy.

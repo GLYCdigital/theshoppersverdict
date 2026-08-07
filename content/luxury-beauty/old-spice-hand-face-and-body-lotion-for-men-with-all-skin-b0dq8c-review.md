@@ -1,4 +1,5 @@
 ---
+
 title: "Old Spice Hand, Face and Body Lotion for Men with All Skin T"
 seo_title: "Old Spice Hand, Face and Body Lotion for Men with  Review"
 meta_description: "Our full old spice hand, face and body lotion for men with all skin t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQ8C8G25/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x8APrRy3L._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most men's lotions fall into one of two traps: they either smell like a chemical factory explosion or they leave you feeling like you've been dipped in cooking oil. The Old Spice Hand, Face and Body Lotion manages to sidestep both pitfalls—mostly. After spending two weeks with this 3-in-1 moisturizer, here's what I've learned about whether it's worth your bathroom counter space.

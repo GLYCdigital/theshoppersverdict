@@ -1,4 +1,5 @@
 ---
+
 title: "AllFuel HST 6 inch  x 48 inch  304 Stainless Steel All Fuel Class-A Do"
 seo_title: "AllFuel HST 6x48 Class-A Chimney Pipe Review: Worth It?"
 meta_description: "AllFuel HST 6 inch  x 48 inch  stainless Class-A chimney pipe review: build quality, real-world performance, and if it's right for your wood stove."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08TGN7S2N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Name5uGhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True double-wall 304 stainless construction with 1-inch air gap — runs cooler at clearance points than single-wall, saving you framing space"
   - "Interlocking male/female joints with included band clamps make vertical runs straightforward for a DIY installer"
   - "UL listed for all fuel types (wood, oil, coal, gas) — one pipe system covers any future appliance swap"
-cons:
+cons: 
   - "No inner liner included — you're paying for the pipe only, and some local inspectors require a separate insulated liner kit"
   - "At 48 inches, it's a heavy section (roughly 18-20 lbs) — plan for a second set of hands or a pipe support on tall runs"
   - "Price per foot runs higher than budget single-wall; the premium is for the double-wall safety rating"
+
 ---
 
 If you're replacing a rusted-out chimney or running a new wood stove vent, you're staring down a decision that affects your home's safety, not just its heating efficiency. The AllFuel HST 6" x 48" Class-A pipe is the section that most often shows up in "best double-wall chimney pipe" searches — and with 229 ratings averaging 4.6 stars, it's earned a reputation. Here's what that reputation is actually based on.

@@ -1,4 +1,5 @@
 ---
+
 title: "Yotache Magnetic Thermal Insulated Door Curtain"
 seo_title: "Yotache Magnetic Thermal Insulated Door Curtain Review: V"
 meta_description: "Our full yotache magnetic thermal insulated door curtain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPVPL44F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XgQjMrfzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Yotache Magnetic Thermal Insulated Door Curtain Review: Does It Actually Stop Drafts?

@@ -1,4 +1,5 @@
 ---
+
 title: "Bicystar 16 Inch Kids Balance Bike for 5-8 Year Old, BMX Kid"
 seo_title: "Bicystar 16 inch  Kids Balance Bike Review: BMX-Style Fun for 5-8 inch"
 meta_description: "Read our honest Bicystar 16 inch kids balance bike review for ages 5-8. BMX-style build, steel frame, and real-world performance tested. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D78T77XM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XEZpXkl9L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Steel BMX-style frame handles rough terrain and curb hops better than typical aluminum balance bikes in this size"
   - "Pneumatic 16-inch knobby tires provide real traction on grass, gravel, and dirt — not just smooth pavement"
   - "Adjustable seat and handlebar height grows with kids from about 45 to 57 inches tall"
-cons:
+cons: 
   - "At roughly 17 pounds, it's noticeably heavier than featherweight aluminum competitors — smaller 5-year-olds may struggle to lift it"
   - "No hand brake included; kids must use foot braking, which takes longer to master on downhill slopes"
   - "Assembly requires a wrench and about 20 minutes; the included tools are functional but cheap"
+
 ---
 
 Most balance bikes for this age group are glorified scooters with a seat. The Bicystar 16-inch BMX-style model is different — it's built like an actual bike, minus the pedals. And that distinction matters more than you'd think.

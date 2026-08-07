@@ -1,4 +1,5 @@
 ---
+
 title: "BRINJOY Kids Vanity Set"
 seo_title: "BRINJOY Kids Vanity Set Review: Worth It? (2026)"
 meta_description: "Honest BRINJOY Kids Vanity Set review: 4.4-star rated. See real pros, cons, and who should buy this charming playroom piece."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXHSBXY1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61EC1hbF9uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy MDF construction with rounded corners — holds up to daily play without wobbling"
   - "Three storage drawers actually work smoothly with metal runners — no sticky plastic slides"
   - "The LED light-up mirror (battery-powered) is a genuine crowd-pleaser for dress-up sessions"
-cons:
+cons: 
   - "Assembly requires patience — roughly 45-60 minutes with two people; hardware is adequate but not premium"
   - "Stool is lightweight (around 5 lbs) and can tip if a child leans back — needs supervision for younger kids"
   - "LED mirror eats batteries quickly with regular use; consider rechargeable AAAs"
+
 ---
 
 Let's be direct: most kids' vanity sets are flimsy plastic junk that collapses within a month. The BRINJOY Kids Vanity Set is not that. With a 4.4-star average across 220 ratings, this solid MDF piece actually earns its place in a playroom. Here's the full breakdown before you spend your money.

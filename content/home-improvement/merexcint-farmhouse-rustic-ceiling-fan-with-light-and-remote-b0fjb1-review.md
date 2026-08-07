@@ -1,4 +1,5 @@
 ---
+
 title: "Merexcint Farmhouse Rustic Ceiling Fan with Light and Remote"
 seo_title: "Merexcint Farmhouse Rustic Ceiling Fan with Light  Review"
 meta_description: "Our full merexcint farmhouse rustic ceiling fan with light and remote review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FJB1MWXC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71tO9vYy86L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this $150 farmhouse fan actually worth your ceiling space? After digging through 215 verified buyer experiences, here's the real story on the Merexcint.**

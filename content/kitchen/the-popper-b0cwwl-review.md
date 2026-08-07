@@ -1,4 +1,5 @@
 ---
+
 title: "The Popper"
 seo_title: "The Popper Review: Verdict | TSV"
 meta_description: "Our full the popper review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CWWL6JLD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XFGJQzFRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Popcorn is one of those foods where the gap between "good" and "meh" is huge. Microwave bags taste like cardboard with fake butter. Stovetop requires babysitting a pot and cleaning oil spatter. The Popper promises movie-theater results without the mess. After testing it for two weeks and reading through the 204 ratings on Amazon, here's the real picture.

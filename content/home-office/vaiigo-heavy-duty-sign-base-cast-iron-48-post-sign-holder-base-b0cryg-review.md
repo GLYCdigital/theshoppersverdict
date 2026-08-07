@@ -1,7 +1,8 @@
 ---
-title: "VAIIGO Heavy Duty Sign Base - Cast Iron 48\" Post, Sign Holde"
-seo_title: "VAIIGO Heavy Duty Sign Base - Cast Iron 48\" Post,  Review"
-meta_description: "Our full vaiigo heavy duty sign base - cast iron 48\" post, sign holde review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "VAIIGO Heavy Duty Sign Base - Cast Iron 48\ Post, Sign Holde"
+seo_title: "VAIIGO Heavy Duty Sign Base - Cast Iron 48\ Post,  Review"
+meta_description: "Our full vaiigo heavy duty sign base - cast iron 48\ post, sign holde review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "vaiigo-heavy-duty-sign-base-cast-iron-48-post-sign-holder-base-b0cryg-review"
 image_alt: "VAIIGO Heavy Duty Sign Base - Cast Iron 48 Post, Sign Holder Base, Movable Sign Stand for Warning & Notice Signs"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRYGML77/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51zKtxqsQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched an A-frame sign cartwheel across a lobby when someone brushes past it, you know the value of a proper sign base. The VAIIGO Heavy Duty Sign Base with its cast iron construction and 48-inch post is built to solve exactly that problem — and for the most part, it does.

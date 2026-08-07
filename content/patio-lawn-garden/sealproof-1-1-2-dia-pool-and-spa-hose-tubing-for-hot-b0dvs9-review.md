@@ -1,7 +1,8 @@
 ---
-title: "Sealproof 1-1/2\" Dia Pool and Spa Hose Tubing for Hot Tubs a"
-seo_title: "Sealproof 1-1/2\" Dia Pool and Spa Hose Tubing for  Review"
-meta_description: "Our full sealproof 1-1/2\" dia pool and spa hose tubing for hot tubs a review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Sealproof 1-1/2\ Dia Pool and Spa Hose Tubing for Hot Tubs a"
+seo_title: "Sealproof 1-1/2\ Dia Pool and Spa Hose Tubing for  Review"
+meta_description: "Our full sealproof 1-1/2\ dia pool and spa hose tubing for hot tubs a review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "sealproof-1-1-2-dia-pool-and-spa-hose-tubing-for-hot-b0dvs9-review"
 image_alt: "Sealproof 1-1/2 Dia Pool and Spa Hose Tubing for Hot Tubs and Swimming Pools"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVS9KTVD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91195gaXtoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your hot tub is leaking, blowing air locks, or just smells like stagnant water, the culprit is usually that cheap corrugated hose the manufacturer installed. The Sealproof 1-1/2" pool and spa hose is the upgrade that fixes all three — and at a price that makes replacing it a no-brainer. Here's the honest breakdown after digging through the specs, the 225 ratings, and what buyers actually report.

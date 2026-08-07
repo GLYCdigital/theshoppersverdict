@@ -1,4 +1,5 @@
 ---
+
 title: "Vallecloud Self Closing Cabinet Hinges for Flush Mount Kitch"
 seo_title: "Vallecloud Self Closing Cabinet Hinges for Flush M Review"
 meta_description: "Our full vallecloud self closing cabinet hinges for flush mount kitch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CLXN25HV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812lycup+kL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're staring at a cabinet door that swings open every time you walk past, or worse, slams shut hard enough to rattle the dishes, you've probably searched "self closing cabinet hinges" and landed here. The Vallecloud flush mount set is one of the more popular options on Amazon — 4.7 stars across 235 ratings — and for good reason. But before you buy, there are a few things you need to know about what these hinges actually are and aren't.

@@ -1,4 +1,5 @@
 ---
+
 title: "Easter Care Package Blue Box Filled with Candy Chocolates Sn"
 seo_title: "Easter Care Package Review: Candy, Chocolates & Snacks"
 meta_description: "Honest Easter Care Package Blue Box review: candy, chocolates, cookies & snacks. See what's inside, who it's for, and if it's worth the buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F4Q3B9MD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KLqFxLl4L._SL1500_.jpg"
-pros:
+pros: 
   - "Substantial 40+ piece assortment across candy, chocolate, cookies, and savory snacks — not just sugar filler"
   - "Premium blue gift box with sturdy construction and tissue lining that arrives presentable, no re-wrapping needed"
   - "Good mix of familiar national brands and specialty chocolates, giving it a curated feel without the boutique markup"
-cons:
+cons: 
   - "No allergen breakdown printed on the box itself — recipients with nut or dairy allergies need to check individual wrappers"
   - "Chocolate pieces can arrive slightly softened in warm-weather shipping, though they re-harden without quality loss"
+
 ---
 
 You're staring at a product listing for an Easter gift box that promises candy, chocolates, snacks, and cookies. The photos show a pretty blue box tied with ribbon. But what's actually inside? And is this the kind of thing you send to your college kid, your grandmother, or your office buddy?

@@ -1,4 +1,5 @@
 ---
+
 title: "Goldie Locks Ultra Hydrating Hair Mask - Frizz Control and D"
 seo_title: "Goldie Locks Ultra Hydrating Hair Mask - Frizz Con Review"
 meta_description: "Our full goldie locks ultra hydrating hair mask - frizz control and d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWPPMJ9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51lQL0Ss1fL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Goldie Locks Ultra Hydrating Hair Mask: The $40 Question

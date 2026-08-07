@@ -1,4 +1,5 @@
 ---
+
 title: "Utility Sink Free Standing Single Bowl Kitchen Sink with Col"
 seo_title: "Utility Sink Free Standing Single Bowl Kitchen Sin Review"
 meta_description: "Our full utility sink free standing single bowl kitchen sink with col review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GTLXC8T3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Qhzhyxu4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be straight about why you're looking at this sink: you need to wash paintbrushes, muddy boots, or a fish you just caught — and you don't want that mess in the kitchen sink where you prep food. The freestanding single bowl utility sink with cold and hot water taps solves exactly that. And at 4.3 stars across 215 ratings, it's clearly working for a lot of people. But there's a catch hiding in the box that you need to know about before you click buy.

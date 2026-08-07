@@ -1,4 +1,5 @@
 ---
+
 title: "Guitar for Kids"
 seo_title: "Guitar for Kids Review: Is This Toy Guitar Worth It? (2026)"
 meta_description: "Honest Guitar for Kids review: build quality, sound, and playability. See what 215 Amazon buyers say before you buy this toy guitar."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CYH822ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NoqytY8SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lightweight 1.5 lb body and 30-inch scale make it comfortable for kids aged 4-8 to hold and strum"
   - "Real steel strings with low action — actually tunable, not a plastic toy that sounds like a kazoo"
   - "Reinforced neck joint holds tuning longer than most budget kids' guitars we've tested"
-cons:
+cons: 
   - "Factory strings are thin and slightly tinny; plan on a $5 replacement set within a few months"
   - "No strap buttons included — you'll need to drill or use adhesive hooks for a strap"
+
 ---
 
 **Opening Hook: The $40 Question**

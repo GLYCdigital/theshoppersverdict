@@ -1,4 +1,5 @@
 ---
+
 title: "EPFamily Ceramic Planter Pot, Round Plant Pot for Plants, La"
 seo_title: "EPFamily Ceramic Planter Pot Review: Durable Round Plant Pot"
 meta_description: "EPFamily ceramic planter pot review: a 4.6-star round plant pot with drainage. See if this sturdy, glazed flower pot is worth your money."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7W9QWDF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81AHutSIBDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Thick, heavy ceramic shell resists tipping in wind and holds up to outdoor freeze-thaw cycles without cracking"
   - "True glazed finish inside and out — won't wick moisture through the walls, so your soil stays evenly damp"
   - "Oversized drainage hole (about 1 inch) comes with a mesh plug, making it ready for indoor or patio use out of the box"
-cons:
+cons: 
   - "No saucer included — you'll need to buy a separate tray or use it on a surface that can handle runoff"
   - "At roughly 6-7 pounds for the 10-inch size, shipping weight makes it a poor choice if you need lightweight, movable containers"
+
 ---
 
 If you've ever watched a cheap plastic pot crack after one hard frost or blow across the deck in a gust, you know why the EPFamily Ceramic Planter Pot has earned its 4.6-star average across 229 ratings. This is a serious piece of home goods — thick-walled, fully glazed, and built like a small fortress for your root systems.

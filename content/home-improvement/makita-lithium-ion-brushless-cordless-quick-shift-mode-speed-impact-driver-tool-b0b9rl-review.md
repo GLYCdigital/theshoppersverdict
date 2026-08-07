@@ -1,4 +1,5 @@
 ---
+
 title: "Makita Lithium-Ion Brushless Cordless Quick-Shift Mode Speed"
 seo_title: "Makita Lithium-Ion Brushless Cordless Quick-Shift  Review"
 meta_description: "Our full makita lithium-ion brushless cordless quick-shift mode speed review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B9RL7S27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GWS2QozmL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Quick-Shift Feature Is the Real Deal — Not Just Marketing Fluff

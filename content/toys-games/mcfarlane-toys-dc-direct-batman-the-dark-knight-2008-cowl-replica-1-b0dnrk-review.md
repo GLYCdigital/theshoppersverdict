@@ -1,4 +1,5 @@
 ---
+
 title: "McFarlane Toys - DC Direct Batman: The Dark Knight (2008) Co"
 seo_title: "McFarlane Toys - DC Direct Batman: The Dark Knight Review"
 meta_description: "Our full mcfarlane toys - dc direct batman: the dark knight (2008) co review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DNRKPRFM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61TmtmIkGeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Dark Knight cowl isn't just a collectible — it's a test of patience.** At 4.8 stars from 240 buyers, McFarlane's DC Direct replica clearly nails something right. But before you drop serious money on this piece of Gotham history, let's talk about what's actually in the box, what the 4.8 rating hides, and whether this belongs on your shelf or in your return pile.

@@ -1,4 +1,5 @@
 ---
+
 title: "21 Inch Vintage Leather Duffel Travel Gym Sports Overnight W"
 seo_title: "Vintage Leather Duffel Review: 21-Inch Travel Gym Bag"
 meta_description: "Honest 21-inch vintage leather duffel review: build quality, capacity, real owner feedback. Is this $60 travel gym bag worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00GT5NIF4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71IfjyoVguL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-grain leather construction that develops a rich patina over time, not bonded leather that peels"
   - "Reinforced double-stitched seams and solid brass zippers hold up under heavy gym loads"
   - "Fits a 15-inch laptop, gym clothes, and toiletries in the main compartment plus two end pockets"
-cons:
+cons: 
   - "Leather is stiff for the first few weeks and needs breaking in before it softens"
   - "No dedicated shoe compartment — dirty sneakers will touch your clean clothes"
   - "Shoulder strap padding is thin; heavier loads dig into your shoulder"
+
 ---
 
 # 21 Inch Vintage Leather Duffel Review: Old-School Looks, Modern Utility

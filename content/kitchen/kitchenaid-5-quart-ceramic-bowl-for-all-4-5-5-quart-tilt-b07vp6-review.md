@@ -1,4 +1,5 @@
 ---
+
 title: "KitchenAid 5 Quart Ceramic Bowl for all 4.5-5 Quart Tilt-Hea"
 seo_title: "KitchenAid 5 Quart Ceramic Bowl for all 4.5-5 Quar Review"
 meta_description: "Our full kitchenaid 5 quart ceramic bowl for all 4.5-5 quart tilt-hea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07VP6GJTD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5112I+BgSaL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The KitchenAid 5 Quart Ceramic Bowl: The Upgrade Your Mixer Actually Deserves**

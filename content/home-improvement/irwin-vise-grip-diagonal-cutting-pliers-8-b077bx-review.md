@@ -1,4 +1,5 @@
 ---
+
 title: "IRWIN VISE-GRIP Diagonal Cutting Pliers, 8"
 seo_title: "IRWIN VISE-GRIP Diagonal Cutting Pliers, 8 Review: Verdic"
 meta_description: "Our full irwin vise-grip diagonal cutting pliers, 8 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B077BXT8VV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51GIBQsVbZL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: diagonal cutters are the kind of tool you grab without thinking — until they fail you mid-cut. The IRWIN VISE-GRIP 8-inch model doesn't fail. After putting it through fence repair, electrical work, and general shop abuse, here's the full picture.

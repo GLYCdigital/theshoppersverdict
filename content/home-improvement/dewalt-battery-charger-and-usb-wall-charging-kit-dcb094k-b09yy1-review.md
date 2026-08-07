@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Battery Charger and USB Wall Charging Kit (DCB094K)"
 seo_title: "DEWALT DCB094K Charger Review: Fast, Compact, Versatile"
 meta_description: "Read our honest DEWALT DCB094K charger review. Compact dual-port design charges 20V batteries and USB devices fast. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09YY1WTHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Fm2kcMeOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Charges 20V MAX batteries roughly 2x faster than the standard DCB104 charger"
   - "Compact footprint fits in a tool bag without hogging space — smaller than a typical brick charger"
   - "Dual USB-A ports deliver 2.1A total, enough to fast-charge a phone while the battery charges"
-cons:
+cons: 
   - "No 12V barrel plug or car adapter — wall outlet only, which limits job-site versatility"
   - "USB ports are standard USB-A, not USB-C, so newer devices need their own cable"
   - "Won't charge 60V FlexVolt batteries at full speed — those still need a dedicated FlexVolt charger"
+
 ---
 
 If you're still shuttling one DEWALT battery between a drill and a charger, the DCB094K is the upgrade that quietly fixes your workflow. This isn't a revolutionary product — it's a "why didn't they do this sooner" product. It combines a fast 20V MAX charger with dual USB ports in a package small enough to forget it's in your bag. At 4.7 stars from 235 ratings, buyers clearly agree. But is it right for you? Let's dig in.

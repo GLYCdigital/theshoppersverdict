@@ -1,4 +1,5 @@
 ---
+
 title: "Checkered Chef Cooling Rack for Cooking and Baking - Set of 2 Stainless Steel"
 seo_title: "Checkered Chef Cooling Rack Review: Set of 2 | Must-Read"
 meta_description: "Checkered Chef Cooling Rack set of 2 stainless steel review. See if these oven-safe wire racks are worth buying for baking & roasting. Real pros & cons."
@@ -11,6 +12,7 @@ review_count: 0
 amazon_rating: 4.0
 amazon_url: ""
 amazon_image: ""
+
 ---
 
 **The Real Story: Are These Racks Worth Your Kitchen Drawer Space?**

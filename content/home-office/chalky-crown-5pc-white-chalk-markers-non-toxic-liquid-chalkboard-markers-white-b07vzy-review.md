@@ -1,4 +1,5 @@
 ---
+
 title: "CHALKY CROWN 5pc White Chalk Markers - Non-Toxic Liquid Chal"
 seo_title: "CHALKY CROWN White Chalk Markers Review: 5pc Non-Toxic Set"
 meta_description: "Honest CHALKY CROWN white chalk markers review: 5pc non-toxic liquid chalk set tested for glass, boards, and windows. Real pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VZYP22K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ZSUzs-lLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Writes on glass, plastic, and non-porous surfaces with crisp opacity — no ghosting after dry-erase removal"
   - "Chisel tip gives both 1mm fine lines and 6mm broad strokes, so one marker handles lettering and filling"
   - "Low-odor, water-based formula that wipes off with a damp cloth; no harsh solvent smell in an office"
-cons:
+cons: 
   - "Pigment settles fast — you must shake aggressively for 20+ seconds or the first marks come out watery"
   - "Not for porous chalkboards; on real chalk paint the ink absorbs and leaves permanent staining"
+
 ---
 
 You know that feeling when you buy a pack of whiteboard markers and the first one you uncap is already dried out? The CHALKY CROWN 5-pack doesn't do that to you. At 4.6 stars across 229 ratings, this is one of those quiet office workhorses that earns its place in your drawer — but it has a quirk or two you should know about before you click buy.

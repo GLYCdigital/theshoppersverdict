@@ -1,4 +1,5 @@
 ---
+
 title: "Stainless Steel Universal Griddle Pan"
 seo_title: "Stainless Steel Universal Griddle Pan Review: Verdict | T"
 meta_description: "Our full stainless steel universal griddle pan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DZXKSGRB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y9ie3MBCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The problem with most griddle pans is that they're either too flimsy to hold heat or too specific to fit your grill. The Stainless Steel Universal Griddle Pan tries to solve both problems at once. After digging through 215 ratings and the construction specs, here's the real story for patio cooks.

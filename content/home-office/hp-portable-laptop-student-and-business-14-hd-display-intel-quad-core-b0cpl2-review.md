@@ -1,7 +1,8 @@
 ---
-title: "HP Portable Laptop, Student and Business, 14\" HD Display, In"
-seo_title: "HP Portable Laptop, Student and Business, 14\" HD D Review"
-meta_description: "Our full hp portable laptop, student and business, 14\" hd display, in review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP Portable Laptop, Student and Business, 14\ HD Display, In"
+seo_title: "HP Portable Laptop, Student and Business, 14\ HD D Review"
+meta_description: "Our full hp portable laptop, student and business, 14\ hd display, in review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-portable-laptop-student-and-business-14-hd-display-intel-quad-core-b0cpl2-review"
 image_alt: "HP Portable Laptop, Student and Business, 14 HD Display, Intel Quad-Core N4120, 8GB DDR4 RAM, 64GB eMMC, 1 Year Office 3"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CPL25J3W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IpRGnny7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: this HP 14" laptop is not a powerhouse, and it's not trying to be. It's a focused, affordable tool aimed squarely at students and business users who need a dependable daily driver without the premium price tag. After digging through 210 ratings and the spec sheet, here's the real story.

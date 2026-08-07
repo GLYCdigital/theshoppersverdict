@@ -1,4 +1,5 @@
 ---
+
 title: "Polar Seltzer Water"
 seo_title: "Polar Seltzer Water Review: Verdict | TSV"
 meta_description: "Our full polar seltzer water review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D529R69L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812AM5q9vTL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest with ourselves for a second. This is a coffee gear review, and Polar Seltzer Water is not coffee. But if you're like the 225 Amazon reviewers who rated this 4.5 stars, you've probably realized that a cold, aggressively carbonated seltzer is exactly what gets you through the afternoon when that third cup of joe is a terrible idea.

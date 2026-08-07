@@ -1,4 +1,5 @@
 ---
+
 title: "Sprinkler for Yard"
 seo_title: "Sprinkler for Yard Review: Verdict | TSV"
 meta_description: "Our full sprinkler for yard review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F4R7L132/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aKRrNJnlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever dragged a cheap plastic sprinkler around your yard only to watch it throw water two feet and then crack by August, you know the drill. This one aims higher — literally and figuratively. The Sprinkler for Yard (model B0F4R7L132) has earned a solid 4.2 out of 5 from 210 Amazon shoppers, and after digging into the specs and user feedback, here's the real story.

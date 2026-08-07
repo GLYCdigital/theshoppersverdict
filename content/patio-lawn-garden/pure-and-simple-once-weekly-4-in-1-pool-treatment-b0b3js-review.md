@@ -1,4 +1,5 @@
 ---
+
 title: "Pure and Simple Once Weekly 4-in-1 Pool Treatment"
 seo_title: "Pure and Simple Once Weekly 4-in-1 Pool Treatment Review:"
 meta_description: "Our full pure and simple once weekly 4-in-1 pool treatment review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0B3JSXGZQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81wWNaWNowL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: Does One Tablet a Week Actually Work?**

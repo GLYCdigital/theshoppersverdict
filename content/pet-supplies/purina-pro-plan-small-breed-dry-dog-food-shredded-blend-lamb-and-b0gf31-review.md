@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Small Breed Dry Dog Food Shredded Blend Lamb"
 seo_title: "Purina Pro Plan Small Breed Dry Dog Food Shredded  Review"
 meta_description: "Our full purina pro plan small breed dry dog food shredded blend lamb review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GF319XLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710bJljcFxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some small-breed dog foods feel like an afterthought — just the regular formula crushed into smaller pieces. The Purina Pro Plan Small Breed Shredded Blend Lamb is different, and it starts with the texture. This isn't uniform kibble. As shown in the product image, you get a mix of crunchy bites and soft, shredded lamb pieces that gives the food a varied mouthfeel your dog will actually notice. For a picky eater, that contrast can make the difference between a clean bowl and a wasted meal.

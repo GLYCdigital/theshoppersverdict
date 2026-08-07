@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO Womens NFL Team Color Moccasin Slippers"
 seo_title: "FOCO NFL Moccasin Slippers Review: Cozy Team Pride"
 meta_description: "FOCO Women's NFL Team Color Moccasin Slippers review: plush comfort, team colors, sizing quirks. See if these 4.6-star slippers fit your game-day needs."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08Y9GLLBL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711uorSUzoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine team colors and embroidered NFL logo that won't peel or crack after washing"
   - "Plush faux fur lining runs warm enough for winter but breathes for year-round wear"
   - "Durable rubber sole with tread pattern — actually grippy on hardwood and tile"
-cons:
+cons: 
   - "Runs a full size large; women report needing to size down, especially in wide widths"
   - "Lack of arch support makes them unsuitable for long standing or walking sessions"
   - "Synthetic upper can make feet sweat in warmer months despite the breathable lining"
+
 ---
 
 # FOCO Women's NFL Team Color Moccasin Slippers: The Real Fan's Review

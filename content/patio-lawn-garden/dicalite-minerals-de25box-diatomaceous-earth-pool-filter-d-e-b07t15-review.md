@@ -1,4 +1,5 @@
 ---
+
 title: "Dicalite Minerals DE25BOX Diatomaceous Earth Pool Filter D.E"
 seo_title: "Dicalite Minerals DE25BOX D.E. Review: Pool Filter Power"
 meta_description: "Dicalite DE25BOX diatomaceous earth pool filter review: 25-lb box, 4.8-star rated. Does it keep pools crystal clear? Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07T15GXTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61bVwnr9T9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "25-pound box delivers 5-7 full DE filter charges for a typical 25,000-gallon pool, so you're not reordering mid-season"
   - "Millions of microscopic fossilized diatoms trap particles down to 2-5 microns — finer than standard sand filters"
   - "Maintains good flow rates without caking, meaning fewer backwashes and longer filter runs between cleanings"
-cons:
+cons: 
   - "Powder is extremely fine and dusty — pouring it without a mask or in wind will coat everything nearby"
   - "Not food-grade; pool-grade DE has different particle sizing and should never be used for filtration of drinking water or other applications"
   - "Box is heavy and lacks a resealable closure — you'll want a sealed storage container after opening"
+
 ---
 
 If you own a DE pool filter, you already know the drill: that powdery white stuff is the only thing standing between your pool and a green algae swamp. The Dicalite Minerals DE25BOX is the 25-pound workhorse that keeps 240+ Amazon buyers satisfied enough to rate it 4.8 out of 5 stars. But is it the right DE for your specific filter? Here's the unvarnished breakdown.

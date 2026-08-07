@@ -1,4 +1,5 @@
 ---
+
 title: "Morebes Vintage Plant Floral Rug"
 seo_title: "Morebes Vintage Plant Floral Rug Review: Verdict | TSV"
 meta_description: "Our full morebes vintage plant floral rug review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D73KRD6V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MBdsCBTHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most rugs under $100 are a gamble. The Morebes Vintage Plant Floral Rug isn't a gamble — it's a calculated bet that pays off for most buyers, and the 4.7-star average across 235 ratings backs that up. But it's not a luxury rug, and pretending otherwise would be dishonest.

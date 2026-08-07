@@ -1,4 +1,5 @@
 ---
+
 title: "aiyun Quick Change Torx Head Screwdriver Bit 11-Piece Set 1/"
 seo_title: "aiyun Quick Change Torx Bit Set Review: 11-Piece, 1/4 Hex"
 meta_description: "Honest aiyun 11-piece quick change Torx screwdriver bit set review. Tested durability, fit, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08F7G7VLH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71p3IsTcu0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Includes T10 through T40 plus a 50mm power bit for recessed fasteners — covers virtually all automotive and household Torx applications"
   - "S2 alloy steel construction with heat treatment holds up to high torque without stripping"
   - "Quick-change 1/4-inch hex shank locks securely into any impact driver or drill chuck"
-cons:
+cons: 
   - "No bit holder sleeve included — bits rattle loose in the plastic case during transport"
   - "Case hinge feels flimsy; repeated opening may eventually crack the latch"
+
 ---
 
 You're mid-project, staring at a stubborn T25 Torx screw buried in a door hinge, and your cheap single bit just rounded off. Again. The aiyun 11-piece Quick Change Torx set is the kind of purchase that solves that problem before it starts — but let's be clear about what you're actually getting.

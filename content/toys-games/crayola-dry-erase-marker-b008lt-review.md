@@ -1,23 +1,25 @@
 ---
+
 title: "Crayola Dry Erase Marker"
 seo_title: "Crayola Dry Erase Marker Review: Real Parent Feedback"
 meta_description: "Honest Crayola Dry Erase Marker review: 3.9-star rating, 195 reviews. See what parents love, what fades fast, and who should buy."
 slug: "crayola-dry-erase-marker-b008lt-review"
 image_alt: "Crayola Dry Erase Markers in assorted colors with caps off showing bullet tips"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 195  
-amazon_rating: 3.9  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 195
+amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B008LT8GLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712zGllFDbL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Vibrant colors actually pop on whiteboards — better than generic store brands"  
   - "Bullet tip is durable enough for young kids who press hard"  
   - "Wipes off clean with a dry cloth if you let it dry completely"  
-cons:  
+cons: 
   - "Ink runs out fast — several reviewers report a marker dying within one or two drawing sessions"  
   - "Caps can be tough for small hands to snap back on, leading to dried-out markers"
+
 ---
 
 Here’s the thing about Crayola Dry Erase Markers: they’re not the cheapest, not the fanciest, and definitely not the longest-lasting option on the shelf. But if you’ve got a preschooler who’s discovered the magic of whiteboards, these might still be the right call. Let me break down what you’re actually getting for your money.

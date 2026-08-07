@@ -1,4 +1,5 @@
 ---
+
 title: "Garden Elements Folding Patio & Lawn Chairs – Steel Frame"
 seo_title: "Garden Elements Folding Patio Chairs Review (2026) | Steel Frame"
 meta_description: "Honest Garden Elements Folding Patio & Lawn Chairs review: steel frame, woven fabric, comfort & durability tested. See pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C4L9GL36/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8196lG4i29L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely sturdy 0.9mm steel frame that doesn't wobble, even on uneven grass"
   - "Textilene-style woven mesh fabric breathes well and dries fast after rain"
   - "Folds flat to about 4 inches — easy to stash in a trunk or shed corner"
-cons:
+cons: 
   - "No armrests — you'll feel the absence during long sits with a drink in hand"
   - "Assembly requires a Phillips screwdriver and about 15 minutes of patience"
   - "Blue fabric shows light pollen and dust; a quick hose-down fixes it"
+
 ---
 
 **Bottom line: These are the folding chairs you grab when you want something sturdier than a camp chair but don't want to drop $150 on a premium set. They're not luxury, but they're honest workhorses.**

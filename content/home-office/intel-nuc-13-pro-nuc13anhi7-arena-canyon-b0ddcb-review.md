@@ -1,4 +1,5 @@
 ---
+
 title: "Intel NUC 13 PRO NUC13ANHi7 Arena Canyon"
 seo_title: "Intel NUC 13 PRO NUC13ANHi7 Arena Canyon Review: Verdict "
 meta_description: "Our full intel nuc 13 pro nuc13anhi7 arena canyon review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DDCB9VM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BFsl78XiL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The 4x4-inch desktop that punches like a tower

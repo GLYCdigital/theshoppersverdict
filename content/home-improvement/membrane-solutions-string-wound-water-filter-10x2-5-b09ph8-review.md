@@ -1,4 +1,5 @@
 ---
+
 title: "Membrane Solutions String Wound Water Filter 10x2.5"
 seo_title: "Membrane Solutions String Wound Water Filter 10x2. Review"
 meta_description: "Our full membrane solutions string wound water filter 10x2.5 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09PH8F53M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71TUG99bnBL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what a string-wound filter actually does, because half the people buying this expect it to improve taste or remove chemicals. It won't. The Membrane Solutions 10x2.5 is a sediment trap, plain and simple — and it's a genuinely good one.

@@ -1,4 +1,5 @@
 ---
+
 title: "Hanging Egg Chair with Stand - Egg Swing Chair Outdoor Indoo"
 seo_title: "Hanging Egg Chair with Stand - Egg Swing Chair Out Review"
 meta_description: "Our full hanging egg chair with stand - egg swing chair outdoor indoo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DWHNJHGS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v9d+omEKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Egg chairs are everywhere right now — you've seen them on Instagram, in your neighbor's backyard, and on every furniture site that exists. The problem is most of them are either flimsy, require permanent ceiling mounting, or cost as much as a used car. This hanging egg chair with stand sits in the sweet spot: free-standing, weatherproof, and priced like something a real person would actually buy. With 240 ratings holding a 4.8 average, it's clearly doing something right. Here's the full story.

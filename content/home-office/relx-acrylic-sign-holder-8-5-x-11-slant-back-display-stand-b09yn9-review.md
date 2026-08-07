@@ -1,4 +1,5 @@
 ---
+
 title: "Relx Acrylic Sign Holder - 8.5 x 11, Slant Back Display Stan"
 seo_title: "Relx Acrylic Sign Holder - 8.5 x 11, Slant Back Di Review"
 meta_description: "Our full relx acrylic sign holder - 8.5 x 11, slant back display stan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YN9J32N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71x32rUxXOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most acrylic sign holders under $25 are flimsy, scratch-prone pieces of plastic that wobble the moment someone breathes on them. The Relx 8.5x11 slant-back stand isn't that. It's also not a miracle product. Here's what you're actually getting for $22.94.

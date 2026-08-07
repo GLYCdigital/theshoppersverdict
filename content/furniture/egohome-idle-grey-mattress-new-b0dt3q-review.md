@@ -1,4 +1,5 @@
 ---
+
 title: "EGOHOME IDLE Grey Mattress NEW"
 seo_title: "EGOHOME IDLE Mattress Review: Honest 2026 Verdict"
 meta_description: "EGOHOME IDLE Grey Mattress review: 4.4-star rated hybrid comfort. Real pros, cons, and who should buy. Honest testing insights before you spend."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DT3QJC9Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81NGqQvTuuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Zoned pocket coil system provides targeted lumbar support without sagging at edges"
   - "Breathable grey knit cover with gel-infused foam layer runs noticeably cool for hot sleepers"
   - "Compressed roll-pack delivery fits through narrow staircases and standard doorways"
-cons:
+cons: 
   - "Off-gassing smell lingers 48-72 hours even after full expansion, which some buyers find off-putting"
   - "Firmness skews medium-firm rather than the plush 'hotel feel' the marketing suggests"
   - "No handles on the sides makes rotating and repositioning the 70+ lb queen mattress awkward"
+
 ---
 
 Let's be blunt: the mattress market is oversaturated with brands promising five-star sleep for pennies. The EGOHOME IDLE Grey Mattress enters that crowded field with a 4.4-star average from 220 ratings — respectable, but not outstanding. The real question is whether it earns your bedroom space. After digging into construction details and buyer experiences, here's what actually matters.

@@ -1,4 +1,5 @@
 ---
+
 title: "LIFE SAVERS Hard Candy 5 Flavors, 50-Ounce Party Size Bag LI"
 seo_title: "LIFE SAVERS Hard Candy 5 Flavors, 50-Ounce Party S Review"
 meta_description: "Our full life savers hard candy 5 flavors, 50-ounce party size bag li review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZ55X6GW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hHf4gCPeL._SL1000_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LIFE SAVERS Hard Candy 5 Flavors, 50-Ounce Party Size Bag: The Bulk Candy You Actually Want

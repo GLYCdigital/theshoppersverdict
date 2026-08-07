@@ -1,4 +1,5 @@
 ---
+
 title: "Apollo Exports International Adjustable Railing Planter"
 seo_title: "Apollo Exports Adjustable Railing Planter Review (2026)"
 meta_description: "Honest Apollo Exports adjustable railing planter review: fit, durability, rust risk, and real buyer feedback. See if it beats the cheap wire baskets."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07Q6H5HFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/510HrSKCfdL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Fits railings from 0.5 to 3.5 inches wide — no tools or drilling required, just a thumb screw"
   - "Double-slot design lets you stack two planters vertically on the same railing for a fuller look"
   - "Deep 8-inch basin holds enough soil for trailing annuals or herbs without daily watering"
-cons:
+cons: 
   - "Thin powder-coated steel flexes under heavy wet soil — you'll want to reinforce the bottom bracket"
   - "Cocoa liner is cosmetic only; it rots within a season and holds moisture against the metal"
+
 ---
 
 **The 4.2/5 Railing Planter That Actually Fits — If You Respect Its Limits**

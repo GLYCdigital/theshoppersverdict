@@ -1,4 +1,5 @@
 ---
+
 title: "ApexDesk Elite Pro Series Electric Height Adjustable Stand u"
 seo_title: "ApexDesk Elite Pro Review: Electric Sit-Stand Desk Worth It?"
 meta_description: "ApexDesk Elite Pro Series electric height adjustable desk review: 4.7★ rating, dual motors, 300lb capacity—honest pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7136QYP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+lsFJTDNL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dual-motor lift system handles up to 300 lbs with smooth, quiet operation—no wobble at max height"
   - "Solid steel frame with 10-year warranty; anti-collision technology stops the desk if it hits an obstacle"
   - "Programmable 4-height memory presets make switching between sitting and standing effortless"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes despite claims of simpler setup; cable tray is fiddly to position"
   - "Controller lacks USB ports—minor annoyance if you wanted built-in charging"
   - "Legs are wide at the base; may not fit under some existing desk pedestals or cabinets"
+
 ---
 
 ## The ApexDesk Elite Pro Series: A Serious Sit-Stand Desk That Means Business

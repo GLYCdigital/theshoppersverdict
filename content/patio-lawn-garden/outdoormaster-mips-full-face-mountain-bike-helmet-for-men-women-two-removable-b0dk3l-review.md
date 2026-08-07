@@ -1,4 +1,5 @@
 ---
+
 title: "OutdoorMaster MIPS Full Face Mountain Bike Helmet for Men & "
 seo_title: "OutdoorMaster MIPS Full Face Mountain Bike Helmet  Review"
 meta_description: "Our full outdoormaster mips full face mountain bike helmet for men &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DK3L8PWZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ExKSPC1uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: a full-face helmet with MIPS for under $100 usually means corners cut somewhere. The OutdoorMaster MIPS Full Face Helmet doesn't cut the corners that matter — but it does make a few compromises you need to know about before clicking buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Makeup Vanity Desk with Lights, 3 Lighting Colors, White Van"
 seo_title: "Makeup Vanity Desk with Lights, 3 Lighting Colors, Review"
 meta_description: "Our full makeup vanity desk with lights, 3 lighting colors, white van review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRY9Z3TS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717PiLbg0QL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Makeup Vanity Desk with Lights Review: Is This White Vanity Set Worth Your Money?

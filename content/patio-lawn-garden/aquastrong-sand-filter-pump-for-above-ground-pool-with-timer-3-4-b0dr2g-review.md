@@ -1,4 +1,5 @@
 ---
+
 title: "AQUASTRONG Sand Filter Pump for Above Ground Pool with Timer"
 seo_title: "AQUASTRONG Sand Filter Pump Review: 3.3/5 Rating"
 meta_description: "AQUASTRONG sand filter pump review: timer convenience, weak pump performance, and leak complaints. See if this above-ground pool filter is worth it."
@@ -11,14 +12,15 @@ review_count: 150
 amazon_rating: 2.8
 amazon_url: "https://www.amazon.com/dp/B0DR2GYXY6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717tuSEXjSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in digital timer lets you schedule filtration cycles without buying a separate outlet timer"
   - "Six-way multiport valve with pressure gauge included — typically found only on pricier units"
   - "Clear lid on the pump strainer basket makes debris checks quick"
-cons:
+cons: 
   - "Pump motor struggles with head pressure — several buyers report weak flow even on clean filters"
   - "Multiple reports of lid gasket leaks and hose fitting cracks within first month"
   - "Instruction manual is vague on sand quantity and assembly torque specs"
+
 ---
 
 The AQUASTRONG sand filter pump looks great on paper — a digital timer, six-way valve, and a price point that undercuts the big names. But a 2.8-star average across 150 ratings tells a different story. Let's dig into whether this pump saves you money or just costs you headaches.

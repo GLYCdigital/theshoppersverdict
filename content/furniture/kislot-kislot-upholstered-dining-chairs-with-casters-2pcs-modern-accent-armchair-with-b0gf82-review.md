@@ -1,4 +1,5 @@
 ---
+
 title: "KISLOT KISLOT Upholstered Dining Chairs with Casters 2PCS Mo"
 seo_title: "KISLOT KISLOT Upholstered Dining Chairs with Caste Review"
 meta_description: "Our full kislot kislot upholstered dining chairs with casters 2pcs mo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GF82N3B3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71n08sEjfPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Rolling chairs that solve one problem and create another

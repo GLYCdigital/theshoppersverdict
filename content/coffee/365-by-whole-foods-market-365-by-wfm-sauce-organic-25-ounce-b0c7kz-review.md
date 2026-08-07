@@ -1,4 +1,5 @@
 ---
+
 title: "365 by Whole Foods Market 365 By Wfm Sauce Organic 25 Ounce"
 seo_title: "365 by Whole Foods Organic Sauce Review: Worth It?"
 meta_description: "Is 365 by Whole Foods organic sauce worth buying? Read our honest review covering ingredients, taste, value, and who it's best for."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7KZBH64/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51r-DaCuHTL._SL1000_.jpg"
-pros:
+pros: 
   - "Certified organic tomatoes as the first ingredient — no fillers, no artificial anything"
   - "25-ounce jar is a practical size that covers a full pasta night for a family of four with leftovers"
   - "Clean, short ingredient list that matches what you'd make at home"
-cons:
+cons: 
   - "Flavor profile leans sweet rather than savory — basil and oregano are subtle, not bold"
   - "Glass jar is heavy and fragile for shipping; several reviewers report breakage in transit"
   - "No salt added means you'll need to season aggressively if you're used to jarred sauces from Rao's or Prego"
+
 ---
 
 Let's skip the pretense. You're looking at a 25-ounce jar of organic pasta sauce from Whole Foods' house brand, and you're wondering if it's worth your money when you could grab something at the grocery store for three bucks. I've dug through the specs, the 229 ratings, and the customer feedback. Here's the real story.

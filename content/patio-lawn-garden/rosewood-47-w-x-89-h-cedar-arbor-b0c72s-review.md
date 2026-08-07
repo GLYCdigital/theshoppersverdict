@@ -1,7 +1,8 @@
 ---
-title: "Rosewood 47\" W x 89\" H Cedar Arbor"
-seo_title: "Rosewood 47\" W x 89\" H Cedar Arbor Review: Verdict | TSV"
-meta_description: "Our full rosewood 47\" w x 89\" h cedar arbor review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Rosewood 47\ W x 89\ H Cedar Arbor"
+seo_title: "Rosewood 47\ W x 89\ H Cedar Arbor Review: Verdict | TSV"
+meta_description: "Our full rosewood 47\ w x 89\ h cedar arbor review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "rosewood-47-w-x-89-h-cedar-arbor-b0c72s-review"
 image_alt: "Rosewood 47 W x 89 H Cedar Arbor"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C72S2VRW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A15Odo7YQtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A garden arbor is one of those purchases where you get exactly what you pay for — and often less. The Rosewood 47" W x 89" H Cedar Arbor sits in the mid-range, and based on 229 ratings averaging 4.6 stars, it's doing something right. I dug through the buyer feedback, the materials, and the assembly process to tell you whether this is the gateway your garden needs or a weekend project you'll regret.

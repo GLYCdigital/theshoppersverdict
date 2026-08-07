@@ -1,4 +1,5 @@
 ---
+
 title: "D'CENT Hardware Wallet – Biometric Cold Wallet for Crypto"
 seo_title: "D'CENT Biometric Cold Wallet Review (2026): 4.4★ Verdict"
 meta_description: "D'CENT Biometric Cold Wallet review: fingerprint security, 10,000+ coin support, and real tradeoffs. Is it worth $239? Our honest verdict inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGXQLZL9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41hy2eZv8mL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fingerprint sensor adds real biometric security layer without needing a computer connection"
   - "Supports over 10,000+ coins/tokens including all major chains (BTC, ETH, SOL, XRP, ADA)"
   - "CC EAL5+ secure element chip isolates private keys from the main processor"
-cons:
+cons: 
   - "Battery life is mediocre — you'll charge it every 2–3 weeks with moderate use"
   - "No USB-C cable included in the box, only micro-USB (dated in 2026)"
   - "Setup requires the mobile app — no full desktop-only workflow for new users"
+
 ---
 
 **Is a $239 hardware wallet actually worth it in 2026?** That's the question you're wrestling with if you're staring at the D'CENT Biometric Cold Wallet. With 220 Amazon ratings averaging 4.4 stars, it's clearly doing something right. But "something right" and "right for you" are different things. Let me break down what this device actually does before you drop that kind of money.

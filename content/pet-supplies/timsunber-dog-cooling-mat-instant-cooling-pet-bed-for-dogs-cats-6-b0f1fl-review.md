@@ -1,4 +1,5 @@
 ---
+
 title: "TIMSUNBER Dog Cooling Mat - Instant Cooling Pet Bed for Dogs"
 seo_title: "TIMSUNBER Dog Cooling Mat - Instant Cooling Pet Be Review"
 meta_description: "Our full timsunber dog cooling mat - instant cooling pet bed for dogs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F1FLWZ9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91TrVSLnv8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Summer heat hits dogs harder than people. Their cooling systems are less efficient, and a 90-degree day can turn a car ride or outdoor nap into a genuine health risk. That's the problem the TIMSUNBER Dog Cooling Mat tries to solve — with a gel-filled pad that claims to drop your dog's body temperature without plugs, ice packs, or water.

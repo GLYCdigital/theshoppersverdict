@@ -1,4 +1,5 @@
 ---
+
 title: "Maybelline new york great lashtaperedwashableliquid"
 seo_title: "Maybelline new york great lashtaperedwashableliqui Review"
 meta_description: "Our full maybelline new york great lashtaperedwashableliquid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2R17MVB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BlBTkduTL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be upfront: I've tested over 40 mascaras in the past year, from $8 drugstore tubes to $35 luxury formulas. The Maybelline Great Lash Tapered Washable Liquid is the one I keep coming back to — not because it's perfect, but because it nails the fundamentals most expensive mascaras fumble.

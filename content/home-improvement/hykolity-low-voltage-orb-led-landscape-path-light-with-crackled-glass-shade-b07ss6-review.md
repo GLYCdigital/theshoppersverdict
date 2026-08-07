@@ -1,4 +1,5 @@
 ---
+
 title: "hykolity Low Voltage ORB LED Landscape Path Light with Crack"
 seo_title: "hykolity Low Voltage ORB LED Landscape Path Light  Review"
 meta_description: "Our full hykolity low voltage orb led landscape path light with crack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SS6TNFZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WhzDBdB8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality materials for lasting performance"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $30 Path Light That Doesn't Look Like It Costs $30

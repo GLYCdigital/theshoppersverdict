@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Home Office Desk Chair No Wheels, Ergonomic Executive"
 seo_title: "DUMOS No-Wheels Desk Chair Review: Ergonomic & Stable"
 meta_description: "DUMOS ergonomic executive chair without wheels: breathable mesh, padded armrests, sturdy sled base. Read our honest review before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F43N322H/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81XlnAzClFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fixed sled base eliminates wheel movement — chair stays planted on hardwood, carpet, or rugs without a mat"
   - "Breathable mesh backrest prevents sweat buildup during long work sessions, unlike bonded leather chairs"
   - "Padded flip-up armrests offer 3-position adjustability and tuck under the desk when not needed"
-cons:
+cons: 
   - "No height adjustment on some units — check the listing carefully, as fixed-height versions exist for desk heights around 29–30 inches"
   - "Assembly requires an Allen wrench and patience; a few buyers report misaligned holes on the seat bracket"
   - "Sled base can scratch hardwood floors if moved frequently — consider felt pads underneath the glides"
+
 ---
 
 # DUMOS Home Office Desk Chair No Wheels: The Stable Choice for Serious Focus

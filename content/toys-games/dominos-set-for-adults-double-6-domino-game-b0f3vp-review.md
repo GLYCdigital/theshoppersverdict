@@ -1,4 +1,5 @@
 ---
+
 title: "Dominos Set for Adults, Double 6 Domino Game"
 seo_title: "Dominos Set for Adults Review: Double 6 Game Worth It?"
 meta_description: "Honest review of the Double 6 Dominos Set for Adults — build quality, playability, and whether it's worth your money. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3VP3VV6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ji93ftLqL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, weighty tiles with deep, engraved pips that won't wear off with repeated shuffling"
   - "Comes with a sturdy wooden storage box that doubles as a tile rack for gameplay"
   - "Includes multiple game variations and scoring rules — more than the standard block game"
-cons:
+cons: 
   - "Box lid slides rather than hinges — can slide off if you're not careful during transport"
   - "Pips are white-on-black only; some players prefer colored dots for easier matching at a glance"
+
 ---
 
 Let me get right to it: most domino sets under $25 are flimsy plastic junk that slide around the table and feel like toys. This Double 6 set for adults is not that. With a 4.6-star average across 229 ratings, it's clearly doing something right — and after digging into the materials, construction, and what actual buyers are saying, I can tell you exactly what that something is.

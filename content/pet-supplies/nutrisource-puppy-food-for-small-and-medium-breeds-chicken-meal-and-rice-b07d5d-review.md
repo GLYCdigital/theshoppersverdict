@@ -1,4 +1,5 @@
 ---
+
 title: "NutriSource Puppy Food for Small and Medium Breeds, Chicken "
 seo_title: "NutriSource Puppy Food for Small and Medium Breeds Review"
 meta_description: "Our full nutrisource puppy food for small and medium breeds, chicken  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07D5DD4QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iALNfFs0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Raising a puppy is a minefield of decisions, and food is the biggest one. You want something that fuels their zoomies without turning their stomach into a drum solo. NutriSource’s Puppy Food for Small and Medium Breeds (Chicken & Rice) is a contender that has built a solid reputation, holding a 4.6 out of 5 stars across 229 ratings. But is it just another bag of brown bits, or does it actually deliver? I dug into the ingredient panel, the customer feedback, and the real-world implications to give you the straight answer.

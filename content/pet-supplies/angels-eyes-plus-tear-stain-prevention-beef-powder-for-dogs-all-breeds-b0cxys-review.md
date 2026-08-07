@@ -1,4 +1,5 @@
 ---
+
 title: "Angels' Eyes Plus Tear Stain Prevention Beef Powder for Dogs"
 seo_title: "Angels' Eyes Plus Tear Stain Powder Review (2026): Does It Work?"
 meta_description: "Honest Angels' Eyes Plus Tear Stain Prevention Beef Powder review: Does this 4.0-star supplement actually stop dog tear stains? Ingredients, results, and who should buy."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CXYSGXC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cAIIf2lVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Beef flavor masks the active ingredient well — most dogs eat it willingly, unlike the chicken version"
   - "Visible results in 3-4 weeks for porphyrin-based stains (the reddish-brown kind under eyes)"
   - "Powder format is easier to dose precisely than chews for small breed dogs under 15 lbs"
-cons:
+cons: 
   - "Must be given daily forever — stop for a week and stains return; this is a maintenance drug, not a cure"
   - "Contains an antibiotic (tylosin) — long-term daily use raises gut microbiome concerns in sensitive dogs"
   - "Does nothing for non-porphyrin stains (black, crusty, or allergy-induced tear tracks)"
+
 ---
 
 **The honest truth about tear stain powders: they work, but only if you understand what you're buying.**

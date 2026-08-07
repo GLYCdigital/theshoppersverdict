@@ -1,4 +1,5 @@
 ---
+
 title: "Hulaha Little Girls Princess Dress Halloween Party Costume f"
 seo_title: "Hulaha Princess Dress Review: Halloween Costume for Girls"
 meta_description: "Honest Hulaha princess dress review: fabric quality, sizing, durability, and real parent feedback. Is this $30 Halloween costume worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKYQ13YD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vJdXvtjZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Multi-layer tulle skirt holds its shape through a full night of dancing and running — doesn't flatten or droop"
   - "Soft, tag-free lining at the neckline prevents the itch complaints most costume dresses trigger"
   - "Elastic waistband stretches to fit comfortably over regular clothes if the weather turns cold"
-cons:
+cons: 
   - "Sleeves run snug for kids with broader shoulders — size up if your daughter falls between sizes"
   - "Sequins on the bodice shed slightly during first wear; catch the loose ones before heading out"
+
 ---
 
 Princess dresses are a dime a dozen on Amazon. Most look great in the listing photos and fall apart by the second wear. The Hulaha Little Girls Princess Dress is different — but it's not perfect. Here's the honest breakdown after digging through 235 ratings and real parent feedback.

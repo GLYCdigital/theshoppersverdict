@@ -1,4 +1,5 @@
 ---
+
 title: "Immortal NYC Hair Styling Pomade - Strong Hold, Natural Wate"
 seo_title: "Immortal NYC Hair Styling Pomade - Strong Hold, Na Review"
 meta_description: "Our full immortal nyc hair styling pomade - strong hold, natural wate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CH41J3X2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bLjix6wXL._SL1024_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $20 question: Can a water-based pomade actually deliver a barbershop-grade strong hold without turning your hair into a crunchy helmet?** Immortal NYC claims yes, and with a 4.5-star average across 225 ratings, plenty of buyers agree. I tested it for two weeks to see if the hype holds up.

@@ -1,4 +1,5 @@
 ---
+
 title: "Ed Hardy Love & Luck for Men"
 seo_title: "Ed Hardy Love & Luck for Men Review: Worth the Hype?"
 meta_description: "Ed Hardy Love & Luck for Men review: Longevity, sillage, and value. See if this bold fruity-amber fragrance earns its 4.7-star rating before you buy."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09ZQCBY43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61WEH5CUOnL._SL1000_.jpg"
-pros:
+pros: 
   - "Bold, sweet fruity-amber profile that projects strongly for the first 2–3 hours"
   - "Exceptional value per ounce compared to designer niche fragrances"
   - "Compliment-getter — multiple reviews cite strangers asking what they're wearing"
-cons:
+cons: 
   - "Longevity drops to a skin scent after 5–6 hours; not an all-day fragrance"
   - "The bottle design is loud — Ed Hardy's signature skull branding isn't for subtle tastes"
   - "Sweetness can feel cloying in high heat or office settings if oversprayed"
+
 ---
 
 Let's cut through the noise: Ed Hardy Love & Luck for Men is a fragrance that knows exactly what it is — and that's a bold, sweet, crowd-pleasing scent with a price tag that makes you do a double-take. The 4.7-star rating across 235 reviews isn't an accident; it's the result of a formula that delivers way above its price point.

@@ -1,4 +1,5 @@
 ---
+
 title: "DONOW Smith Machine with Weight Stacks, Multi Function Home"
 seo_title: "DONOW Smith Machine Review: Multi-Function Home Gym (2026)"
 meta_description: "Honest DONOW Smith Machine with Weight Stacks review: build quality, real-world performance, and who should buy this multi-function home gym system."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G648QHF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R36sMqjSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated weight stack (up to 200 lbs) eliminates the need to load/unload plates — just pin and go"
   - "Compact footprint (~6.5 ft x 4.5 ft) fits in most home gyms while still offering full-body workout capacity"
   - "Dual cable crossover system with adjustable pulleys adds functional training options most Smith machines lack"
-cons:
+cons: 
   - "Assembly is a serious project — plan 4–6 hours with two people; instructions are occasionally vague"
   - "Weight stack increments jump by 10 lbs, which can be too coarse for lateral raises or rear delt work"
   - "Seat pad is on the firmer side; longer sessions may leave you wanting more cushioning"
+
 ---
 
 ## The Smith machine that actually earns its floor space

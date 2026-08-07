@@ -1,4 +1,5 @@
 ---
+
 title: "TPOB Play Barber Hair Clippers for Men 7500 RPM with Rubber "
 seo_title: "TPOB Play Barber Hair Clippers for Men 7500 RPM wi Review"
 meta_description: "Our full tpob play barber hair clippers for men 7500 rpm with rubber  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBKVLZX4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71m0U1m9W2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 Clipper That Thinks It's a $150 Pro Tool

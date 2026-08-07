@@ -1,4 +1,5 @@
 ---
+
 title: "Rain Gutter Downspout Extensions,Rain Gutter Downspout Splas"
 seo_title: "Rain Gutter Downspout Extensions,Rain Gutter Downs Review"
 meta_description: "Our full rain gutter downspout extensions,rain gutter downspout splas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D22XSKML/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LiUBFkvbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Your downspout dumps a surprising amount of water in one concentrated spot every time it rains. Over a season, that constant hammering carves trenches in your mulch, splashes mud up your siding, and — worst case — seeps toward your foundation. This downspout extension set claims to fix that for less than the cost of a pizza. After digging through 220 buyer ratings and the product specs, here's what you need to know before clicking buy.

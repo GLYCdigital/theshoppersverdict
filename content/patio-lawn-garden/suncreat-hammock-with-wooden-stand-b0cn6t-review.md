@@ -1,4 +1,5 @@
 ---
+
 title: "SUNCREAT Hammock with Wooden Stand"
 seo_title: "SUNCREAT Hammock with Wooden Stand Review: Verdict | TSV"
 meta_description: "Our full suncreat hammock with wooden stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN6TMD32/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71CpeYWHfSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most hammocks with stands under $200 are flimsy metal tubes that buckle after one season. The SUNCREAT takes a different route — a solid wood A-frame design — and for most backyard loungers, that's the right call. But it's not perfect, and you should know exactly what you're getting before you click buy.

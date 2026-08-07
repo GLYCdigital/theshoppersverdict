@@ -1,4 +1,5 @@
 ---
+
 title: "Aoxun 8 Piece Patio Furniture Set with 44 inch  Fire Pit Table Wi"
 seo_title: "Aoxun 8-Piece Patio Set with Fire Pit Review (2026)"
 meta_description: "Honest Aoxun 8-piece patio furniture set review: 44 inch  fire pit table, wicker durability, assembly, and comfort. Is it worth $1,000+? Find out."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F4QT5SMP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91-NF0+F5RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "The 44-inch fire pit table doubles as a dining surface with a removable lid, adding real versatility for a set this size."
   - "Full 8-piece layout (6 chairs, 2 ottomans, fire table) seats six comfortably without feeling cramped — rare at this price point."
   - "All-weather PE rattan wicker over a powder-coated steel frame holds up through rain and sun; cushions use quick-dry foam."
-cons:
+cons: 
   - "Assembly is a solid 2-3 hour job with two people; some buyers report misaligned bolt holes on the table base."
   - "Fire pit heat output is modest — fine for ambiance, not for serious warmth below 55°F. A 58,000 BTU burner is the ceiling here."
   - "Cushions are on the firmer side and not truly waterproof; covers are recommended if your patio is exposed."
+
 ---
 
 **Is the Aoxun 8-piece patio set the backyard centerpiece you’ve been shopping for, or just another wicker set that’ll fray by fall?** After digging through 204 verified ratings at 4.1 stars, here’s the truth: this set earns its keep for most buyers, but a few quirks could decide if it’s right for you.

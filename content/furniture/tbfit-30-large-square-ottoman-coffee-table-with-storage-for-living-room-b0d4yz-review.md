@@ -1,7 +1,8 @@
 ---
-title: "Tbfit 30\" Large Square Ottoman Coffee Table with Storage for"
-seo_title: "Tbfit 30\" Large Square Ottoman Coffee Table with S Review"
-meta_description: "Our full tbfit 30\" large square ottoman coffee table with storage for review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Tbfit 30\ Large Square Ottoman Coffee Table with Storage for"
+seo_title: "Tbfit 30\ Large Square Ottoman Coffee Table with S Review"
+meta_description: "Our full tbfit 30\ large square ottoman coffee table with storage for review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "tbfit-30-large-square-ottoman-coffee-table-with-storage-for-living-room-b0d4yz-review"
 image_alt: "Tbfit 30 Large Square Ottoman Coffee Table with Storage for Living Room"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4YZP7QP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HoqTaZLJL._AC_SL1024_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut through the product photos. You’re looking at a 30-inch square ottoman that doubles as a coffee table and a storage bin. At 4.4 stars from 220 ratings, it’s clearly doing something right — but the real question is whether it fits *your* living room, not the staged one in the listing.

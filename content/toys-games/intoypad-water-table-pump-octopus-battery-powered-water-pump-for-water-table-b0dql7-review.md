@@ -1,4 +1,5 @@
 ---
+
 title: "Intoypad Water Table Pump, Octopus Battery Powered Water Pum"
 seo_title: "Intoypad Water Table Pump Review: Honest 3.6-Star Look"
 meta_description: "Intoypad octopus water table pump review: battery-powered, splash-proof, but mixed reviews. See if this $20 toy pump is worth it for your water table."
@@ -11,14 +12,15 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0DQL7MPX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Y9+uji8WL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Suction cup base holds firmly to most water table surfaces, keeping the pump from floating away mid-play"
   - "Runs on 2 AA batteries — no cords, no charging, no tripping hazards near water"
   - "Octopus design with soft tentacle arms attaches to table edges, aiming water flow where kids actually play"
-cons:
+cons: 
   - "Battery life is roughly 4–5 hours of continuous use — plan on swapping batteries weekly with daily play"
   - "Water output is modest; it's a trickle-fountain, not a pressurized spray, so older kids may lose interest fast"
   - "Some units arrive with weak suction or a noisy impeller — quality control is inconsistent at this price point"
+
 ---
 
 Let's be honest: a 3.6-star average on Amazon with 180 ratings tells you this isn't a slam-dunk purchase. The Intoypad Octopus Water Table Pump is a clever idea — a battery-powered fountain that clips onto your kid's water table to add moving water without hoses or outlets — but execution matters, and that's where this little octopus gets tangled.

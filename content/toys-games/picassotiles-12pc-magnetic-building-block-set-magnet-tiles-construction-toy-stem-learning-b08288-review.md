@@ -1,4 +1,5 @@
 ---
+
 title: "PicassoTiles 12pc Magnetic Building Block Set Magnet Tiles C"
 seo_title: "PicassoTiles 12pc Magnetic Building Block Set Magn Review"
 meta_description: "Our full picassotiles 12pc magnetic building block set magnet tiles c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B082882KZN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DLCak6dEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
   - "Promotes learning and development"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're looking at the PicassoTiles 12pc set, you're probably shopping for a toddler or preschooler's first magnetic tile experience. Here's the honest breakdown before you hit buy.

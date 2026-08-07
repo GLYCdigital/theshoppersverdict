@@ -1,4 +1,5 @@
 ---
+
 title: "hygger Quiet <30dB Aquarium Air Pump, Adjustable Low Decibel"
 seo_title: "hygger Quiet <30dB Aquarium Air Pump, Adjustable L Review"
 meta_description: "Our full hygger quiet <30db aquarium air pump, adjustable low decibel review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09KN3KXM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61hMYvsVTiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The hygger Quiet <30dB Aquarium Air Pump solves the most annoying problem in fishkeeping: the constant hum that makes you want to unplug the tank at 2 AM.**

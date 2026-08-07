@@ -1,4 +1,5 @@
 ---
+
 title: "kadision LED Wall Pack Light with 0-90Â° Adjustable Head Dus"
 seo_title: "kadision LED Wall Pack Light with 0-90Â° Adjustabl Review"
 meta_description: "Our full kadision led wall pack light with 0-90â° adjustable head dus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B078TDTXDY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yI-2zZ2rL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Versatile and adjustable for different needs"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most wall pack lights are stubborn. You bolt them to the building, and the beam goes wherever the manufacturer decided it should go — usually straight out, lighting up nothing but your neighbor's fence. That's exactly the problem the kadision LED Wall Pack Light with 0-90° Adjustable Head solves. For $52.99, you get a fixture that actually points where you need it, and it's been holding a solid 4.5-star average across 225 ratings. Here's the real story.

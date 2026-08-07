@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Adirondack Collection Area Rug - 10' x 14', Ivory &"
 seo_title: "SAFAVIEH Adirondack Collection Area Rug - 10' x 14 Review"
 meta_description: "Our full safavieh adirondack collection area rug - 10' x 14', ivory & review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C6YNFMVQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i+qYHHibL._AC_SL1248_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 A 10×14 rug is a commitment. You're not just buying floor covering — you're defining the entire visual weight of your living room. The SAFAVIEH Adirondack in Ivory & Black makes that commitment boldly. After digging through 210 Amazon ratings and analyzing the spec sheet, here's what you need to know before dropping serious money on this statement piece.

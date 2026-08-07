@@ -1,4 +1,5 @@
 ---
+
 title: "Konlite 4 FT Linear LED Shop Light, 300W, 42,000LM HighBay L"
 seo_title: "Konlite 4 FT Linear LED Shop Light, 300W, 42,000LM Review"
 meta_description: "Our full konlite 4 ft linear led shop light, 300w, 42,000lm highbay l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08QGC653K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Ruk6le-AL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your workshop currently uses those flickering fluorescent tubes or a pair of 500W halogen work lights, the Konlite 4FT Linear LED High Bay is the upgrade that'll make you wonder why you waited. This is a serious commercial-grade fixture — 42,000 raw lumens, 300 watts, and a 140 lumens-per-watt efficiency that beats most of what Home Depot stocks on their residential shelves.

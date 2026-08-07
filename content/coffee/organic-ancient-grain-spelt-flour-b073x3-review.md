@@ -1,4 +1,5 @@
 ---
+
 title: "Organic Ancient Grain Spelt Flour"
 seo_title: "Organic Ancient Grain Spelt Flour Review: Verdict | TSV"
 meta_description: "Our full organic ancient grain spelt flour review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B073X3MS2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61-Pe7uvPOL._SL1200_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Here's the thing about spelt flour: most brands mill it so coarsely that your banana bread tastes like it was baked with sawdust. This one doesn't. And that's why 225 Amazon shoppers have pushed it to a 4.5-star average — it behaves more like conventional flour than any ancient grain I've tested.

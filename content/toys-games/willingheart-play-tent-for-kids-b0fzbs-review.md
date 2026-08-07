@@ -1,4 +1,5 @@
 ---
+
 title: "WillingHeart Play Tent for Kids"
 seo_title: "WillingHeart Play Tent for Kids Review: Verdict | TSV"
 meta_description: "Our full willingheart play tent for kids review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZBSDNJV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81u2xxUlpsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about kids' play tents: most are either flimsy fabric draped over a collapsible frame that collapses the moment a toddler dives in, or they're a 45-minute assembly project involving poles, connectors, and a relationship-testing instruction booklet. The WillingHeart Play Tent sidesteps both traps with a genuinely simple pop-up design. As shown in the product image, it's a spacious dome-style tent with a roll-up front flap and mesh windows on two sides.

@@ -1,4 +1,5 @@
 ---
+
 title: "BTaT White Dinner Plates, 10.5 inch, Set of 12, White Plates"
 seo_title: "BTaT White Dinner Plates Review: 10.5 Inch Set of 12 inch"
 meta_description: "Honest BTaT white dinner plates review: 10.5-inch set of 12 with 4.4-star rating. Durability, chip resistance, and real buyer feedback analyzed."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3BDM9JS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sDbt+MTpL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuinely chip-resistant porcelain that survives daily use and dishwasher cycles"
   - "12-piece set at a price point that beats most restaurant-supply stores"
   - "Classic 10.5-inch dinner plate size fits standard cabinets and dish racks"
-cons:
+cons: 
   - "White glaze shows utensil marks and knife scratches over time"
   - "No microwave-safe labeling on the plate itself — verify before high-heat use"
   - "Stacking can be noisy; plates are heavy at roughly 1.5 lbs each"
+
 ---
 
 # BTaT White Dinner Plates, 10.5 inch, Set of 12

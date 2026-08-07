@@ -1,4 +1,5 @@
 ---
+
 title: "Furmax Ribbed Office Chair High Back PU Leather Executive Co"
 seo_title: "Furmax Ribbed Office Chair Review: Worth It? (2026)"
 meta_description: "Honest Furmax ribbed office chair review: PU leather comfort, adjustability, and real durability concerns from 195 Amazon ratings. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B079HMZQJ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610wpWUUMNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine comfort for the price — thick seat cushion and supportive high back that holds up during 6-8 hour workdays"
   - "Visually striking ribbed PU leather design that looks far more expensive than the sub-$150 price point"
   - "Quiet, smooth-rolling casters that work well on both carpet and hard floors without scratching"
-cons:
+cons: 
   - "PU leather begins peeling and cracking within 6-12 months of daily use — a near-universal complaint among long-term owners"
   - Armrests are fixed and positioned too low for taller users (over 5'10 inch "), causing shoulder strain during extended typing sessions
   - "Assembly instructions are minimal and the screw holes on some units arrive misaligned, requiring extra effort to attach the backrest"
+
 ---
 
 **The Furmax Ribbed Office Chair proves that a good-looking chair under $150 isn't a myth — but it's also not a forever chair. Here's who should buy it and who should walk away.**

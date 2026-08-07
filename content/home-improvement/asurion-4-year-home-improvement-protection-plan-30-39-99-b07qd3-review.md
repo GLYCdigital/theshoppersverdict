@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 4 Year Home Improvement Protection Plan ($30 - $39.9 inch"
 seo_title: "ASURION 4-Year Home Improvement Protection Plan Review"
 meta_description: "ASURION 4-year home improvement protection plan review: coverage details, claims process, real customer feedback. Is it worth $30-$40? Find out."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07QD3HBFS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/5179luWipKL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures on tools, appliances, and smart home devices up to $600 purchase price"
   - "No deductibles or hidden fees — claims filed online or by phone with replacement or repair at ASURION's discretion"
   - "24/7 claims support and transferable coverage if you sell the item within the protection period"
-cons:
+cons: 
   - "Doesn't cover pre-existing damage, cosmetic issues, or consumables like batteries and drill bits"
   - "You must register the plan within 30 days of purchase or Amazon order date — easy to miss the window"
   - "Replacement may be a refurbished unit, not a brand-new product, depending on availability"
+
 ---
 
 Let me be blunt: you're not buying this for the box. You're buying peace of mind for that $300 circular saw or $450 smart thermostat that's going to see real abuse. The ASURION 4-Year Home Improvement Protection Plan runs $30–$40 depending on the item's price bracket, and at 4.5 stars across 225 ratings, it's one of the most-recommended extended warranties on Amazon. Here's what you're actually getting.

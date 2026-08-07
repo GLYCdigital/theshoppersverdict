@@ -1,4 +1,5 @@
 ---
+
 title: "Oster Toaster"
 seo_title: "Oster Toaster Review: Verdict | TSV"
 meta_description: "Our full oster toaster review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FC4NGV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Db6NdikSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've bought a toaster in the last decade, you know the drill: it's a one-trick appliance that either burns your sourdough or warms it into a sad, floppy mess. The Oster Toaster (model B08FC4) sits in that crowded 2-slice market with a 4.5-star average across 225 ratings, and after digging into what buyers actually say, there's a clear reason it holds that score.

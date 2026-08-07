@@ -1,4 +1,5 @@
 ---
+
 title: "SLEEPING LAMB 2 Tier Shoe Rack"
 seo_title: "SLEEPING LAMB 2 Tier Shoe Rack Review: Verdict | TSV"
 meta_description: "Our full sleeping lamb 2 tier shoe rack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C1L4B5CR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61tMFsEa67L._AC_SL1151_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most shoe racks under $40 are flimsy metal tubes that wobble the moment you lean on them. The **SLEEPING LAMB 2 Tier Shoe Rack** is not that. With a 4.6-star average across 229 ratings, this compact organizer has earned its place in crowded entryways — but it’s not without tradeoffs. Here’s the breakdown you actually need.

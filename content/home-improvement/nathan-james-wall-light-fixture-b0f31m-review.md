@@ -1,4 +1,5 @@
 ---
+
 title: "Nathan James Wall Light Fixture"
 seo_title: "Nathan James Wall Light Fixture Review: Verdict | TSV"
 meta_description: "Our full nathan james wall light fixture review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F31M13RQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712r0nfo19L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for wall sconces, you've likely hit the same wall I have: most options are either cheap boob-lights from the 90s or designer pieces that cost more than your monthly grocery bill. The Nathan James Wall Light Fixture sits in that sweet spot — modern, minimal, and priced for actual humans. But does it hold up beyond the product photos? I dug into the specs, the build, and what 220 ratings actually say.

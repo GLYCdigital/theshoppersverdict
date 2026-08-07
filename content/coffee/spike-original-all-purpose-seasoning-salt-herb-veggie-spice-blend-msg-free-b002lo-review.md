@@ -1,4 +1,5 @@
 ---
+
 title: "Spike Original All-Purpose Seasoning Salt, Herb, Veggie & Sp"
 seo_title: "Spike Original All-Purpose Seasoning Salt, Herb, V Review"
 meta_description: "Our full spike original all-purpose seasoning salt, herb, veggie & sp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B002LO5SFA/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LY4J82xqL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Spike Original All-Purpose Seasoning Salt Review: The 39-Ingredient Blend That Actually Earns Its Hype**

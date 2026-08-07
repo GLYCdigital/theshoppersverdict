@@ -1,4 +1,5 @@
 ---
+
 title: "Chuckit! Kick Fetch Ball Dog Toy"
 seo_title: "Chuckit! Kick Fetch Ball Review: Big Bounces, Real Durability"
 meta_description: "Chuckit! Kick Fetch Ball review: is this extra-large fetch toy worth it for high-energy dogs? Tested on bounce, durability, and real-world play."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C4XFLDWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sqMmcOaxL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Golf-ball-style dimples create unpredictable bounces that keep dogs engaged longer than smooth balls"
   - "Kick-friendly design with a 7-inch diameter — no bending over to pick up a slobbery ball"
   - "Floats in water with a bright orange color that stays visible in grass and ponds"
-cons:
+cons: 
   - "Too large for small breeds or puppies — this is strictly a medium-to-large dog toy"
   - "Not indestructible; determined chewers will puncture it, especially the seam area"
+
 ---
 
 Some toys are bought by owners. Others are bought by dogs. The **Chuckit! Kick Fetch Ball** falls firmly into the second category — it's the toy your dog will drag to your feet, drop on your lap, and stare at until you kick it. And honestly, once you've kicked it, you'll understand why.

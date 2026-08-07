@@ -1,4 +1,5 @@
 ---
+
 title: "Tombow 62149 Mono Adhesive Dots Applicator Refills, 3-Pack. "
 seo_title: "Tombow 62149 Mono Adhesive Dots Applicator Refills Review"
 meta_description: "Our full tombow 62149 mono adhesive dots applicator refills, 3-pack.  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00AK7ESXI/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81LW1lwbEIS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Tombow Mono system has been a scrapbooking and papercraft staple for decades, and the 62149 refill pack is the reason why. If you already own a Mono applicator, these three cartridges will keep you sticking for months. If you don't, this pack is your excuse to grab the applicator body — because the refills are where the real value lives.

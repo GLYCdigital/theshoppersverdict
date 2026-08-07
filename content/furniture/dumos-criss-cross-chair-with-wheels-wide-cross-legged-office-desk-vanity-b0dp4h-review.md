@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Criss Cross Chair with Wheels, Wide Cross Legged Offic"
 seo_title: "DUMOS Criss Cross Chair Review: Worth It? (2026)"
 meta_description: "Our DUMOS criss cross chair review covers comfort, wheel mobility, and build quality. Is this wide cross-legged office chair worth buying? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP4HLQ6Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nbxn83VDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Extra-wide 22-inch seat accommodates cross-legged sitting without thigh pressure"
   - "Smooth-rolling caster wheels with locking mechanism for stability during work"
   - "Breathable mesh backrest prevents sweat buildup during long sitting sessions"
-cons:
+cons: 
   - "Assembly required — expect 20-30 minutes with included hex wrench"
   - "No adjustable lumbar support for users with pre-existing back issues"
   - "Height range (17-21 inches) may be too low for taller users or high desks"
+
 ---
 
 If you've ever tried to sit cross-legged in a standard office chair, you know the struggle: thighs pressed against hard armrests, knees digging into the seat edge, your spine curved like a question mark. The DUMOS Criss Cross Chair with Wheels exists specifically to solve that problem — and for the most part, it delivers.

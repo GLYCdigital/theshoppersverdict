@@ -1,4 +1,5 @@
 ---
+
 title: "Little Giant 115 Volt, GPH Oil-less Stainless Steel and Bron"
 seo_title: "Little Giant 115 Volt, GPH Oil-less Stainless Stee Review"
 meta_description: "Our full little giant 115 volt, gph oil-less stainless steel and bron review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CNV6HGM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KSw8KtpdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Little Giant 115V Oil-less Pump: Built for Clean Water, Not Quiet Rooms**

@@ -1,24 +1,26 @@
 ---
+
 title: "Delta Faucet Review: Worth It or Overhyped?"
 seo_title: "Delta Faucet Review: Pros, Cons & Real Buyer Insights"
 meta_description: "Read our honest Delta faucet review with pros, cons, and real buyer feedback. Is the 4.2-star rating justified? Find out before you buy."
 slug: "delta-b0fh6z-review"
 image_alt: "Delta faucet product image showing chrome finish and pull-down spray head"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 210  
-amazon_rating: 4.2  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 210
+amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FH6ZLKGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/511Fs3SCHQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Magnetic docking keeps the pull-down spray head firmly in place — no drooping nozzles"  
   - "Touch-Clean spray holes resist hard-water buildup, cutting descaling frequency in half"  
   - "Shielded ball valve design holds temperature steady, even when kitchen sink pressure dips"  
-cons:  
+cons: 
   - "Installation requires 1-1/8-inch minimum deck hole — older sinks with 1-inch holes need drilling"  
   - "Spray head hose can kink if not routed carefully through the faucet body during install"  
   - "No soap dispenser included; the fourth deck hole sits empty unless you buy one separately"
+
 ---
 
 # Delta Faucet Review: The 4.2-Star Workhorse That Earns Its Keep

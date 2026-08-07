@@ -1,4 +1,5 @@
 ---
+
 title: "Capstone Games: Ark Nova: Marine Worlds Strategy Board Game"
 seo_title: "Ark Nova Marine Worlds Review: Worth It? (2026)"
 meta_description: "Ark Nova Marine Worlds expansion review: new sea animals, projects, and maps. Does it fix base game issues? Honest buyer's guide."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CL268SV4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61sNZXpG0SL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adds 8 new sea animal cards and 5 sea-focused project cards that actually change your zoo-building strategy, not just pad the deck"
   - "New double-sided player boards with variable setup that increase replayability without adding rule complexity"
   - "Includes a solo mode expansion with 5 new automa cards — solo players get meaningful new content, not an afterthought"
-cons:
+cons: 
   - "Not a standalone game — you must own the base Ark Nova, which is a $60+ investment on top of this $30 expansion"
   - "The new 'sea' mechanic is token-based, and the tokens are small and easy to lose on busy tables; a storage tray would've helped"
+
 ---
 
 **Review Body:**

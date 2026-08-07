@@ -1,4 +1,5 @@
 ---
+
 title: "MAYBELLINE Define-A-Line Eyeliner, Brownish Black (Pack of 2"
 seo_title: "MAYBELLINE Define-A-Line Eyeliner, Brownish Black  Review"
 meta_description: "Our full maybelline define-a-line eyeliner, brownish black (pack of 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B078JDYPYT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ypRGMlBLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever stood in the drugstore aisle staring at a wall of eyeliners, wondering why something this simple has to be this complicated, this Maybelline two-pack is the answer you've been looking for. The Define-A-Line pencil has been a quiet workhorse for years, and the brownish black shade is the one that keeps disappearing off shelves — for good reason.

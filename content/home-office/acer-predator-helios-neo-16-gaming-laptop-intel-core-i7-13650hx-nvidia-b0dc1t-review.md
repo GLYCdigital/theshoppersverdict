@@ -1,4 +1,5 @@
 ---
+
 title: "Acer Predator Helios Neo 16 Gaming Laptop | Intel Core i7-13 inch"
 seo_title: "Acer Predator Helios Neo 16 Review: Power Meets Heat"
 meta_description: "Honest Acer Predator Helios Neo 16 review: i7-13650HX performance, RTX 4060 gaming, battery life, and fan noise. Is it worth $1,300? Read before buying."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DC1T54WJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71nz3cIcFOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Blazing i7-13650HX with 14 cores sustains high clocks under heavy loads without thermal throttling"
   - "165Hz 2560x1600 display with 500 nits brightness — excellent for both gaming and spreadsheet work"
   - "Full-size keyboard with per-key RGB and a dedicated PredatorSense button for instant performance tuning"
-cons:
+cons: 
   - "Fan noise hits 55dB under load — audible in quiet offices, drowns out video calls"
   - "Battery life struggles to reach 4 hours on mixed use; the 330W power brick is a brick"
   - "Plastic lid flexes noticeably; the 5.5-pound chassis feels less premium than the $1,300+ price implies"
+
 ---
 
 ## The 16-inch gaming laptop that wants to be your office workhorse

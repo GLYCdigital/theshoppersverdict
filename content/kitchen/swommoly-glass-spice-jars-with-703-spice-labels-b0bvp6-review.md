@@ -1,4 +1,5 @@
 ---
+
 title: "SWOMMOLY Glass Spice Jars with 703 Spice Labels"
 seo_title: "SWOMMOLY Glass Spice Jars with 703 Spice Labels Review: V"
 meta_description: "Our full swommoly glass spice jars with 703 spice labels review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BVP62C2Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xdzxEz2UL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## Is This the Spice Organization System That Actually Ends the Chaos?

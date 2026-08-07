@@ -1,4 +1,5 @@
 ---
+
 title: "trueCABLE Cat6 Direct Burial, Gel Filled, Waterproof, CMX, 2"
 seo_title: "trueCABLE Cat6 Direct Burial, Gel Filled, Waterpro Review"
 meta_description: "Our full truecable cat6 direct burial, gel filled, waterproof, cmx, 2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BW6GZT4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71A3aTv+VGL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're running network cable underground from your house to a shed, garage, or security camera, you've probably stared at a wall of options and wondered which one won't turn to mush in three years. The trueCABLE Cat6 Direct Burial, Gel Filled, Waterproof, CMX cable is built specifically for that job — but it comes with tradeoffs you should know about before you bury it.

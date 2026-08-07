@@ -1,4 +1,5 @@
 ---
+
 title: "Toschi Amarena Black Cherries in Syrup"
 seo_title: "Toschi Amarena Black Cherries in Syrup Review: Verdict | "
 meta_description: "Our full toschi amarena black cherries in syrup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01LKM7HHU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dARd9d+kL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Verdict

@@ -1,4 +1,5 @@
 ---
+
 title: "Aletheiawu Room Divider Panel, Folding Privacy Screen Made o"
 seo_title: "Aletheiawu Room Divider Review: Rattan Privacy Screen (2026)"
 meta_description: "Honest Aletheiawu hand-woven rattan room divider review. Is this 4.2-star folding privacy screen worth it? Pros, cons, who should buy."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DTK6C499/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yCMaTM-gL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine hand-woven rattan panels — not printed or faux texture — give real depth and natural variation"
   - "Hinged panels fold flat for storage and require zero tools for setup"
   - "Lightweight enough to move room to room but sturdy when locked in an L-shape or straight line"
-cons:
+cons: 
   - "No rubber feet or floor stoppers included — panels can slide on hardwood or tile floors"
   - "Rattan weave has natural gaps; it blocks sight lines but not all light or sound"
   - "Height may feel short for taller users or for concealing ceiling-height shelving units"
+
 ---
 
 **Aletheiawu Room Divider Panel Review: Real Rattan, Real Privacy, Real Tradeoffs**

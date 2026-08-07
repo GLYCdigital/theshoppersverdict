@@ -1,4 +1,5 @@
 ---
+
 title: "Fingerprint Door Lock, Smart Door Knob with Biometric Lock,"
 seo_title: "Fingerprint Door Lock Review: Smart Knob for Home Security"
 meta_description: "Honest review of the biometric smart door knob with fingerprint entry. Read pros, cons, and real buyer feedback before you buy."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FR8VCQ1B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51b2YYmdhQL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Fingerprint read is fast and accurate — most buyers report under one-second unlock"
   - "Solid zinc alloy construction with a sturdy feel, not flimsy plastic"
   - Installation takes under 30 minutes with just a screwdriver — fits standard 2-3/8 inch " or 2-3/4 inch " backset doors
-cons:
+cons: 
   - "No Wi-Fi or app connectivity — this is a standalone lock, not a smart home device"
   - "Some users report false rejects when fingers are wet or dirty; keep a backup key handy"
   - "Battery life is decent but not stellar — expect 4-6 months with heavy use, and the low-battery warning can be easy to miss"
+
 ---
 
 **The Short Version:** If you want keyless entry without turning your door into a smart-home project, this fingerprint knob delivers. It’s not flashy, it doesn’t connect to your phone, and that’s exactly why some shoppers will love it. But it’s not perfect, and there are a few quirks worth knowing before you buy.

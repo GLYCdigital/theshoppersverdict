@@ -1,4 +1,5 @@
 ---
+
 title: "Blütezeit Automatic Sliding Gate Opener Rack Driven"
 seo_title: "Blütezeit Sliding Gate Opener Review: Rack Driven (2026)"
 meta_description: "Blütezeit rack-driven sliding gate opener review: install tips, real-world performance, durability concerns, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D482KYXF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UMyDyc+iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rack-driven design delivers consistent, reliable torque even in wet or icy conditions where friction-wheel openers slip"
   - "Complete kit includes control board, two remotes, keypad, and photo eyes — no hidden accessory purchases needed"
   - "Quiet 24V DC motor with soft start/stop that won't rattle your gate or wake the neighbors"
-cons:
+cons: 
   - "Mounting bracket requires precise concrete anchor placement; misalignment causes rack binding and premature wear"
   - "Instruction manual is translated poorly — expect to watch YouTube videos for wiring specifics"
   - "No backup battery included; power outage leaves your gate stuck until electricity returns"
+
 ---
 
 **Bottom line: The Blütezeit rack-driven opener is a solid mid-tier choice for residential sliding gates up to 1,000 pounds — if you're comfortable with a challenging DIY install.**

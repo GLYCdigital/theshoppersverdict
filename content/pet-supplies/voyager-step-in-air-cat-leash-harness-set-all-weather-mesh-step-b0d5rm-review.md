@@ -1,4 +1,5 @@
 ---
+
 title: "Voyager Step-in Air Cat Leash Harness Set - All Weather Mesh"
 seo_title: "Voyager Step-in Air Cat Leash Harness Set - All We Review"
 meta_description: "Our full voyager step-in air cat leash harness set - all weather mesh review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5RML62Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U6qGwif0L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Escape-Artist Test: Does This Harness Actually Hold Your Cat?

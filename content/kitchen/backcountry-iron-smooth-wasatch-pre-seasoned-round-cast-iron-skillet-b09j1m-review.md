@@ -1,4 +1,5 @@
 ---
+
 title: "Backcountry Iron Smooth Wasatch Pre-Seasoned Round Cast Iron"
 seo_title: "Backcountry Iron Wasatch Cast Iron Review (2026): Worth It?"
 meta_description: "Backcountry Iron Smooth Wasatch pre-seasoned cast iron skillet review: smooth cooking surface, camp-ready build, and honest downsides. Is it worth $60?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J1MWG6P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sC7gGuGgL._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Truly smooth cooking surface out of the box — no sanding required, unlike most budget cast iron"
   - "Pre-seasoned with flaxseed oil that takes eggs and fish without sticking after minimal use"
   - "Lightweight for cast iron at 4.8 lbs for the 10.25-inch pan — easy to handle one-handed"
-cons:
+cons: 
   - "Seasoning layer is thin and can flake if you use metal utensils aggressively or overheat empty"
   - "Handle stays hot with no silicone sleeve included — you'll need a separate holder"
   - "Small pour spouts on both sides make drips more likely than a single-spout design"
+
 ---
 
 The cast iron market is flooded with rough, sandpaper-textured skillets that need hours of elbow grease before they're usable. The Backcountry Iron Smooth Wasatch skips that entirely. Out of the box, this 10.25-inch round pan has a surface smooth enough to make a Lodge owner jealous — and that's the whole point.

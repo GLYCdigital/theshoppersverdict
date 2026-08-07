@@ -1,4 +1,5 @@
 ---
+
 title: "EPOGG Portable Tetherball Set, Tetherball Ball and Rope with"
 seo_title: "EPOGG Portable Tetherball Set Review: Heavy-Duty & Portable"
 meta_description: "EPOGG Portable Tetherball Set review: heavy-duty base, adjustable rope, easy setup. See real pros, cons, and if it's worth buying."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWPSSZ6B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61O84PywJ7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Water/sand-fillable base provides genuine stability once filled — no metal stake required, works on concrete or grass"
   - "Full-length adjustable rope lets you lower the ball for kids (ages 5+) or raise it for adult play without tools"
   - "Complete kit includes ball, rope, pump needle, and base — no hidden extras to buy"
-cons:
+cons: 
   - "Base must be filled with 40+ lbs of water or sand to stay put; empty base blows over in any breeze"
   - "Ball is on the firmer side; younger children may find it stings bare hands on hard hits"
+
 ---
 
 **Is this the backyard tetherball setup that finally stays upright?** Most portable tetherball sets are a compromise — either they tip over on the first solid hit or the pole bends after a month. The EPOGG Portable Tetherball Set tries to solve both problems with a heavy-duty, fillable base instead of the flimsy ground stake design. Here's how it actually holds up.

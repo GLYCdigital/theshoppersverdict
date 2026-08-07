@@ -1,4 +1,5 @@
 ---
+
 title: "Greymond Upholstered Wall Mounted Headboard, Peel and Stick"
 seo_title: "Greymond Peel and Stick Headboard Review: Is It Worth It?"
 meta_description: "Honest Greymond upholstered wall mounted headboard review. See how this peel-and-stick panel performs, where it falls short, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSJ9DMN7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/716ityY5qCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True peel-and-stick installation — no tools, no wall damage, removable without residue"
   - "Solid 1.5-inch foam padding that actually cushions, not just decorative fabric"
   - "Terry fabric texture is soft and grippy, works for both sleeping and sitting up in bed"
-cons:
+cons: 
   - "Sticky strips are one-shot — misalign it and you're wrestling the panel off the wall"
   - "Only one size option, so it won't fit king or California king beds without looking undersized"
+
 ---
 
 **The 10-Minute Headboard That Actually Stays Put**

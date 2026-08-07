@@ -1,4 +1,5 @@
 ---
+
 title: "Dell Inspiron 77 All in One"
 seo_title: "Dell Inspiron 77 All in One Review: Worth It? (2026)"
 meta_description: "Dell Inspiron 77 All in One review: 4.3/5 from 215 buyers. Real performance, display quality, upgrade limits, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C43KW167/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iR3kh+JQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Immersive 27-inch FHD display with slim bezels — great for multitasking and media"
   - "Clean, cable-free design that genuinely saves desk space"
   - "Solid everyday performance for office work, browsing, and streaming"
-cons:
+cons: 
   - "RAM is soldered — you can't upgrade it after purchase"
   - "Integrated graphics only; don't expect any serious gaming or video editing"
   - "Base model storage is tight at 256GB SSD"
+
 ---
 
 The Dell Inspiron All-in-One is the desk-clearing solution for people who hate cable spaghetti and tower cases. But is it the right choice for your workspace — or are you paying a premium for aesthetics over practicality? After digging through 215 verified buyer ratings and the spec sheet, here's the honest breakdown.

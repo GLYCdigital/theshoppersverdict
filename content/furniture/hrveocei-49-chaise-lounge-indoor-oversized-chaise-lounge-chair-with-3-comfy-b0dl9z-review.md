@@ -1,7 +1,8 @@
 ---
-title: "HRVEOCEI 49\" Chaise Lounge Indoor, Oversized Chaise Lounge C"
-seo_title: "HRVEOCEI 49\" Chaise Lounge Indoor, Oversized Chais Review"
-meta_description: "Our full hrveocei 49\" chaise lounge indoor, oversized chaise lounge c review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HRVEOCEI 49\ Chaise Lounge Indoor, Oversized Chaise Lounge C"
+seo_title: "HRVEOCEI 49\ Chaise Lounge Indoor, Oversized Chais Review"
+meta_description: "Our full hrveocei 49\ chaise lounge indoor, oversized chaise lounge c review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hrveocei-49-chaise-lounge-indoor-oversized-chaise-lounge-chair-with-3-comfy-b0dl9z-review"
 image_alt: "HRVEOCEI 49 Chaise Lounge Indoor, Oversized Chaise Lounge Chair with 3 Comfy Pillows for Living Room Bedroom, Wide Arms "
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DL9Z3SS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81H7iLCuyJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most chaise lounges under $200 are built for people who are 5'8" and hopeful. The HRVEOCEI 49" Oversized Chaise Lounge is not that. At 49 inches of actual lying surface, this thing accommodates a 6'2" frame with room to spare. That alone puts it in a different category.

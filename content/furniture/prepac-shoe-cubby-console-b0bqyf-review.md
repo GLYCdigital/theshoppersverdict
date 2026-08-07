@@ -1,4 +1,5 @@
 ---
+
 title: "Prepac Shoe Cubby Console"
 seo_title: "Prepac Shoe Cubby Console Review: Verdict | TSV"
 meta_description: "Our full prepac shoe cubby console review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BQYF28SM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71K3qVmvplL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Prepac Shoe Cubby Console Review: Is This the Storage Solution Your Entryway Needs?

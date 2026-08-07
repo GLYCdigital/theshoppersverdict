@@ -1,4 +1,5 @@
 ---
+
 title: "Fitgriff® Workout Gloves (Padded) for Men & Women - Fingerl"
 seo_title: "Fitgriff Workout Gloves Review: Padded Fingerless Gym Gloves"
 meta_description: "Honest Fitgriff padded fingerless gym gloves review: grip, padding, durability tested. See pros, cons & who should buy before you spend."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDXYXQSN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yiXwDN4GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dense 5mm gel padding concentrated exactly where the bar sits — protects palms without the bulky 'pancake' feel"
   - "Silicone gripper dots on the palm and fingers hold slick chrome bars even when your hands start sweating"
   - "Reinforced double-stitching at the thumb crotch and pull-on loops survive months of heavy deadlifts"
-cons:
+cons: 
   - "Fingerless design leaves the upper knuckles exposed — expect calluses there if you do heavy barbell work"
   - "Sizing runs small for wide hands; measure your palm circumference before ordering"
+
 ---
 
 If you’ve ever finished a heavy deadlift session with torn calluses or a palm that feels like it’s on fire, you already know why padded gloves exist. The Fitgriff Workout Gloves are a solid mid-tier option that sits comfortably between cheap drugstore gloves and premium $40+ brands. After 225 ratings averaging 4.5 stars, the consensus is clear — these do the job, with a few caveats worth knowing before you add them to your cart.

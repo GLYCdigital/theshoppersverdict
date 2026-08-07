@@ -1,4 +1,5 @@
 ---
+
 title: "BonaKemi Bona Traffic HD Satin 128 Oz"
 seo_title: "Bona Traffic HD Satin Review: Pro-Grade Hardwood Finish"
 meta_description: "Read our honest Bona Traffic HD Satin 128oz review. Is this pro-grade waterborne polyurethane worth $150+? Real performance data, durability, and application tips."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09T74QGJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41EDo+FvESL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Exceptional abrasion resistance with a genuine satin sheen that hides dust between cleanings"
   - "Self-leveling formula reduces roller marks and bubbles even in one-coat applications"
   - "Cures fast enough to allow light foot traffic in 4-6 hours and full recoating next day"
-cons:
+cons: 
   - "Premium price — expect to pay 2-3x more than consumer-grade polyurethanes"
   - "Requires careful environmental control; temperature and humidity swings cause blushing"
+
 ---
 
 **The $150 floor finish that professionals swear by — here's why.**

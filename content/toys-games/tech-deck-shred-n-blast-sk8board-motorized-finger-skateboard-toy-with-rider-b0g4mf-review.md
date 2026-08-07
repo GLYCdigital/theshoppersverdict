@@ -1,4 +1,5 @@
 ---
+
 title: "TECH DECK Shred N' Blast Sk8board, Motorized Finger Skateboa"
 seo_title: "TECH DECK Shred N' Blast Sk8board, Motorized Finge Review"
 meta_description: "Our full tech deck shred n' blast sk8board, motorized finger skateboa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G4MFVXKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/819CeuWFxAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TECH DECK Shred N' Blast isn't your older brother's finger skateboard.** This thing has a real motor, a rider, and enough torque to scoot across your kitchen floor without a single finger flick. If you grew up snapping Tech Decks in half trying to land kickflips, this is a different animal entirely — and that's mostly a good thing.

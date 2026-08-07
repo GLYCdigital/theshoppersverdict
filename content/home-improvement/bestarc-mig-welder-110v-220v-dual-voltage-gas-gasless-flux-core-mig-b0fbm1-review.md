@@ -1,4 +1,5 @@
 ---
+
 title: "bestarc MIG Welder, 110V/220V Dual Voltage Gas/Gasless Flux"
 seo_title: "bestarc MIG Welder Review: 110V/220V Dual Voltage Gas & Gasless"
 meta_description: "Honest bestarc MIG welder review: 110V/220V dual voltage, gas/gasless flux core. Real pros, cons, and who should buy it. Rated 4.6/5 by 229 buyers."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBM137MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iMW5wDdrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dual voltage operation (110V/220V) without manual rewiring — auto-switching saves time and prevents setup errors"
   - "Synergic control automatically sets voltage/wire speed based on material thickness, making it genuinely beginner-friendly"
   - "Handles 0.023–0.035 inch wire with both gas MIG and gasless flux core — real versatility for different projects"
-cons:
+cons: 
   - "The included 6.6 ft torch is short for larger projects; expect to buy an extension or reposition the unit frequently"
   - "No spot welding or pulse modes at this price point, which limits advanced fabrication work"
   - "Some users report the ground clamp is undersized for heavy-duty repeated use"
+
 ---
 
 # bestarc MIG Welder Review: Is This Dual Voltage Machine Worth Your Money?

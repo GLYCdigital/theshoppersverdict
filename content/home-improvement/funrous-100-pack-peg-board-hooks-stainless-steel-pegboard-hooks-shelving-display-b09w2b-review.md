@@ -1,4 +1,5 @@
 ---
+
 title: "Funrous 100 Pack Peg Board Hooks Stainless Steel Pegboard Ho"
 seo_title: "Funrous 100 Pack Peg Board Hooks Review: Worth It? (2026)"
 meta_description: "Honest Funrous 100-pack stainless steel pegboard hooks review. Tested for strength, fit, and rust resistance. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09W2BR4BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814LZF-xrXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine stainless steel construction at a price that undercuts big-box store singles"
   - "Four hook types in one bulk pack — straight, double, J-hook, and crossbar — covers most garage and workshop needs"
   - "Bent wire ends grip pegboard holes snugly; no rattling or accidental pull-outs reported in testing"
-cons:
+cons: 
   - "Wire gauge is lighter than commercial-duty hooks — don't hang 50-pound tools on the straight hooks"
   - "Some hooks arrived with slightly uneven bends at the tips, requiring manual adjustment with pliers"
+
 ---
 
 # Funrous 100 Pack Peg Board Hooks Review: A Bulk Solution That Actually Holds Up

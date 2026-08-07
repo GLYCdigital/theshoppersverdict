@@ -1,4 +1,5 @@
 ---
+
 title: "BHCLIGHT 66Ft 200 LED Fairy Lights Plug in, Waterproof Perfo"
 seo_title: "BHCLIGHT 66Ft 200 LED Fairy Lights Review (2026)"
 meta_description: "Honest BHCLIGHT 66Ft 200 LED fairy lights review: waterproof, plug-in, 8 modes. See real pros, cons, and who should buy these patio string lights."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBWZXSNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hN2Gh+ybL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 66-foot continuous run with 200 warm-white LEDs spaced every 4 inches — no dark gaps between bulbs"
   - "IP65 waterproof rating with sealed connectors, so it survives rain, snow, and direct hose-downs"
   - "8 lighting modes including steady, twinkle, and chase — controlled by a small inline button, no app needed"
-cons:
+cons: 
   - "Bulbs are non-replaceable; if one solder joint fails, the entire strand goes dark"
   - "Only 11.5 feet of lead wire from plug to first bulb — limits where you can mount the outlet"
   - "Inline controller is a small plastic box that can be awkward to hide on a clean install"
+
 ---
 
 If you've bought cheap string lights before, you know the drill: 30 feet of wire, 50 bulbs, and a promise of "waterproof" that dies in the first drizzle. The BHCLIGHT 66Ft 200 LED set is not that. This is a 66-foot continuous run with 200 LEDs spaced every four inches — meaning you get actual, unbroken light coverage across a full deck or pergola, not a few glowing dots scattered across a long wire.

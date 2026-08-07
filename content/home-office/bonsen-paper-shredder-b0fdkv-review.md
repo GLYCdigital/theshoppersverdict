@@ -1,4 +1,5 @@
 ---
+
 title: "BONSEN Paper Shredder"
 seo_title: "BONSEN Paper Shredder Review: Cheap, Quiet, and Reliable?"
 meta_description: "Honest BONSEN Paper Shredder review: 4.5/5 stars from 225 buyers. Tested for jam resistance, noise, and build quality. See who should buy it and who should skip."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FDJRTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61IkN0JHhEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Delivers P-4 cross-cut security (confetti-sized particles) at a price point where most competitors only offer P-3 strip cuts"
   - "Runs noticeably quieter than typical budget shredders — measured around 55-60 dB, which is conversation-level noise"
   - "Thermal overload protection actually works; it shuts down before the motor burns out, then resets after cooling"
-cons:
+cons: 
   - "8-sheet advertised capacity is optimistic; 6 sheets of standard 20-lb paper is the realistic sweet spot to avoid jams"
   - "Waste bin is small at 5.3 gallons — you'll be emptying it frequently if you shred daily"
   - "No auto-oiling mechanism; you'll need to manually lubricate the blades every few weeks to maintain performance"
+
 ---
 
 # BONSEN Paper Shredder Review: The Budget Shredder That Actually Shreds

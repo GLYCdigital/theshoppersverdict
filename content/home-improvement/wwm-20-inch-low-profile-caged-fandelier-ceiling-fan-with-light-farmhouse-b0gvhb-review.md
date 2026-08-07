@@ -1,4 +1,5 @@
 ---
+
 title: "WWM 20 Inch Low Profile Caged Fandelier Ceiling Fan with Lig"
 seo_title: "WWM 20 Inch Low Profile Caged Fandelier Ceiling Fa Review"
 meta_description: "Our full wwm 20 inch low profile caged fandelier ceiling fan with lig review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GVHBYH79/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hbxxueIOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about ceiling fans: most look like they belong in a 1990s office building. The WWM 20 Inch Low Profile Caged Fandelier is not that. It's a farmhouse-style statement piece that actually moves air — and at 4.5 stars across 225 ratings, buyers are mostly thrilled. But there are a few things you should know before you buy.

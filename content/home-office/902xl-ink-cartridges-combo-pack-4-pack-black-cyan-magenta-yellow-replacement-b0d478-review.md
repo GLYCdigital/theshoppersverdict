@@ -1,4 +1,5 @@
 ---
+
 title: "902XL Ink Cartridges Combo Pack 4-Pack (Black/Cyan/Magenta/Y"
 seo_title: "902XL Ink Cartridges 4-Pack Review: Worth It? | 2026 inch"
 meta_description: "Honest 902XL ink cartridge combo pack review — yield, print quality, and compatibility issues. See if this 4-pack beats OEM prices."
@@ -11,14 +12,15 @@ review_count: 160
 amazon_rating: 3.2
 amazon_url: "https://www.amazon.com/dp/B0D4781R5Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gXGmxCAgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine page yield matches OEM 902XL specs — roughly 2,000 pages for black, 1,600 for color"
   - "Individual cartridges are sealed and include the chip, so installation is tool-free and quick"
   - "Costs roughly 40–50% less than buying four separate OEM cartridges at full retail"
-cons:
+cons: 
   - "Inconsistent quality control — several buyers report leaking cartridges or chips that fail within weeks"
   - "Color accuracy drifts slightly warm, especially in photo prints on glossy paper"
   - "No documentation or manufacturer support contact included in the box — troubleshooting is on you"
+
 ---
 
 **The short version:** If you own an HP OfficeJet or DeskJet that takes 902XL cartridges, this 4-pack will save you real money upfront. But the 3.2-star average tells the real story — roughly a third of buyers hit problems ranging from dud chips to ink that never flows. This is a budget gamble, not a no-brainer.

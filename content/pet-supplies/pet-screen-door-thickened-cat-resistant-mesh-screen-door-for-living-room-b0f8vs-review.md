@@ -1,4 +1,5 @@
 ---
+
 title: "Pet Screen Door Thickened Cat Resistant Mesh Screen Door for"
 seo_title: "Pet Screen Door Thickened Cat Resistant Mesh Scree Review"
 meta_description: "Our full pet screen door thickened cat resistant mesh screen door for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F8VST7BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71XRnbdZo1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've replaced a screen door twice this year because your cat treats it like a scratching post, this thickened mesh panel is worth a hard look. But it's not a universal fix — here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Backyard Discovery Caraway Cottage White Cedar Wood Kids Out"
 seo_title: "Backyard Discovery Caraway Cottage Review: Worth It? (2026)"
 meta_description: "Honest Backyard Discovery Caraway Cottage review: white cedar playhouse quality, assembly, longevity. Is it worth $400+? Real buyer verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DK28M7WW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NkT1jNmfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Precision-cut white cedar resists rot and splinters far better than the pine used in most sub-$300 playhouses"
   - "Real working shutters, Dutch door, and front porch add play value that plastic houses simply can't match"
   - "Pre-drilled panels and color-coded lumber make assembly manageable for two moderately handy adults in a weekend"
-cons:
+cons: 
   - "No floor included — you'll need to build a level base or the door will bind within months"
   - "Hardware is adequate but not premium; replace the included hinge screws if you live in a high-wind area"
+
 ---
 
 **The Short Version: This is the playhouse that actually looks like a real house — and holds up like one, too.**

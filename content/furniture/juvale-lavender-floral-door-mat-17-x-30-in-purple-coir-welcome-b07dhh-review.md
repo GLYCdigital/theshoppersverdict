@@ -1,4 +1,5 @@
 ---
+
 title: "Juvale Lavender Floral Door Mat - 17 x 30 in, Purple Coir - "
 seo_title: "Juvale Lavender Floral Door Mat - 17 x 30 in, Purp Review"
 meta_description: "Our full juvale lavender floral door mat - 17 x 30 in, purple coir -  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DHH3JL2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81OCTGYyw-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of generic "Welcome" mats that look identical to your neighbor's, the Juvale Lavender Floral Door Mat at least tries something different. This 17x30-inch coir mat swaps the predictable brown rectangle for a purple floral design that actually pops. But does it perform where it matters — scraping dirt, surviving weather, and looking good while doing it? After digging through 235 ratings and testing the materials, here's the real story.

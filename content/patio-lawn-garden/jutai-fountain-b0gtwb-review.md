@@ -1,4 +1,5 @@
 ---
+
 title: "Jutai fountain"
 seo_title: "Jutai fountain Review: Verdict | TSV"
 meta_description: "Our full jutai fountain review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GTWBGZ9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h-wmxAxeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most patio fountains under $200 are resin shells that crack by the second winter. The Jutai fountain isn't that. It's fiberglass — the same material used in commercial water features — and that single choice changes the calculus on whether this belongs in your yard.

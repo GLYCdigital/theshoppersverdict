@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness Complete Health Stew Adult Canned Wet Dog Food, Gra"
 seo_title: "Wellness Complete Health Stew Adult Canned Wet Dog Review"
 meta_description: "Our full wellness complete health stew adult canned wet dog food, gra review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003VIWN12/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hGxHiOYJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Solid Mid-Tier Wet Food That Earns Its 4.4 Stars**

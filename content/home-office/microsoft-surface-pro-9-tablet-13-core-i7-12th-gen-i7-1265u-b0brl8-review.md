@@ -1,7 +1,8 @@
 ---
-title: "Microsoft Surface Pro 9 Tablet - 13\" - Core i7 12th Gen i7-1"
-seo_title: "Microsoft Surface Pro 9 Tablet - 13\" - Core i7 12t Review"
-meta_description: "Our full microsoft surface pro 9 tablet - 13\" - core i7 12th gen i7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Microsoft Surface Pro 9 Tablet - 13\ - Core i7 12th Gen i7-1"
+seo_title: "Microsoft Surface Pro 9 Tablet - 13\ - Core i7 12t Review"
+meta_description: "Our full microsoft surface pro 9 tablet - 13\ - core i7 12th gen i7-1 review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "microsoft-surface-pro-9-tablet-13-core-i7-12th-gen-i7-1265u-b0brl8-review"
 image_alt: "Microsoft Surface Pro 9 Tablet - 13 - Core i7 12th Gen i7-1265U Deca-core (10 Core) - 16 GB RAM - 512 GB SSD - Windows 1"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BRL8BCTB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51bsktOph-L._AC_SL1280_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Microsoft Surface Pro 9 Review: Still the Benchmark for Windows Tablets

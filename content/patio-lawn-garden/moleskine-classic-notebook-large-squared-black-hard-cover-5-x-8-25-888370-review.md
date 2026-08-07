@@ -1,4 +1,5 @@
 ---
+
 title: "Moleskine Classic Notebook, Large, Squared, Black, Hard Cove"
 seo_title: "Moleskine Classic Notebook, Large, Squared, Black, Review"
 meta_description: "Our full moleskine classic notebook, large, squared, black, hard cove review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/8883701135/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71y9XfQoUaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **What You Actually Get**

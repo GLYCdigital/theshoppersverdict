@@ -1,4 +1,5 @@
 ---
+
 title: "Disney Princess Necklace Activity Case – Jewelry Making Ki"
 seo_title: "Disney Princess Necklace Activity Case Review: Worth It?"
 meta_description: "Honest Disney Princess Necklace Activity Case review: bead quality, charm selection, case durability, and who this jewelry kit suits best."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0747ZGTTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71mFPKO8+tL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy hard-shell case with clear compartments keeps beads sorted and survives drops"
   - "Genuine Disney Princess charms (Ariel, Cinderella, Rapunzel) that kids actually recognize"
   - "Enough beads and string for 10+ full necklace projects, not just a one-and-done craft"
-cons:
+cons: 
   - "Elastic cord is thin and snaps if pulled hard — younger kids will need supervision"
   - "Some bead holes are tight; a 4-year-old's fine motor skills may struggle threading"
+
 ---
 
 If you've ever stepped on a rogue plastic bead at 2 a.m., you know the danger of open-ended jewelry kits. The Disney Princess Necklace Activity Case tries to solve that with an all-in-one hard shell box, and for the most part, it delivers. This isn't a fancy artisan bead set — it's a solid, character-driven craft kit that keeps little hands busy and actually stores itself. Here's the real breakdown after digging through 235 ratings and the product specs.

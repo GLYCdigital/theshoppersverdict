@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA L Shape Computer Desk, 58'' Office With LED Light and"
 seo_title: "SEDETA L Shape Computer Desk, 58'' Office With LED Review"
 meta_description: "Our full sedeta l shape computer desk, 58'' office with led light and review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBVB7FG3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kjhl+ViXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SEDETA L-Shape Desk Review: The Corner Desk That Actually Gets It Right

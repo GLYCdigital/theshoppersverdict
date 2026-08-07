@@ -1,4 +1,5 @@
 ---
+
 title: "Yves Saint Laurent Y for Men Eau De Parfum 3.3"
 seo_title: "Yves Saint Laurent Y for Men Eau De Parfum 3.3 Review: Ve"
 meta_description: "Our full yves saint laurent y for men eau de parfum 3.3 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHP2HW4F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81grEN5hQcL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $130 question: Does YSL Y Eau De Parfum actually deserve the hype, or is it another overpriced designer fragrance coasting on a celebrity name?**

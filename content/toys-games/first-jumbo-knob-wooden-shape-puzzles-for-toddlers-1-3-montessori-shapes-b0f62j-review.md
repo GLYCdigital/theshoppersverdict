@@ -1,4 +1,5 @@
 ---
+
 title: "First Jumbo Knob Wooden Shape Puzzles for Toddlers 1-3,Monte"
 seo_title: "First Jumbo Knob Wooden Shape Puzzles Review (2026): Best for Toddlers?"
 meta_description: "Honest review of First Jumbo Knob Wooden Shape Puzzles for Toddlers 1-3. See why 235 buyers rate it 4.7 stars—plus the one flaw to know before buying."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F62JN2NF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/6108VWbZTGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jumbo knobs are genuinely easy for 12-month-old hands to grip—no frustration, just success"
   - "Solid pine construction with rounded edges that survived multiple drop tests from a highchair"
   - "Pieces are thick enough (about 0.5 inch) for little fingers to grasp without pinching"
-cons:
+cons: 
   - "Paint finish is matte and can show tooth marks if your toddler is a dedicated chewer"
   - "Only 4 shapes included—older 2-3 year olds may outgrow it faster than expected"
+
 ---
 
 **The First Jumbo Knob Wooden Shape Puzzle is the rare toddler toy that actually respects its audience.** Most "first puzzles" are either too flimsy to survive a 14-month-old or too complex to hold their attention. This one sits in a sweet spot—and the 4.7-star average across 235 ratings suggests other parents agree.

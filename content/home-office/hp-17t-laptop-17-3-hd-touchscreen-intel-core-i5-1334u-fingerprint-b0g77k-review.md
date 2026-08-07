@@ -1,7 +1,8 @@
 ---
-title: "HP 17t Laptop, 17.3\" HD+ Touchscreen, Intel Core i5-1334U, F"
-seo_title: "HP 17t Laptop, 17.3\" HD+ Touchscreen, Intel Core i Review"
-meta_description: "Our full hp 17t laptop, 17.3\" hd+ touchscreen, intel core i5-1334u, f review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "HP 17t Laptop, 17.3\ HD+ Touchscreen, Intel Core i5-1334U, F"
+seo_title: "HP 17t Laptop, 17.3\ HD+ Touchscreen, Intel Core i Review"
+meta_description: "Our full hp 17t laptop, 17.3\ hd+ touchscreen, intel core i5-1334u, f review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "hp-17t-laptop-17-3-hd-touchscreen-intel-core-i5-1334u-fingerprint-b0g77k-review"
 image_alt: "HP 17t Laptop, 17.3 HD+ Touchscreen, Intel Core i5-1334U, Fingerprint Reader, Webcam, HDMI, Backlit KB, Wi-Fi 6, Windows"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G77KZ2KV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RU7kH4dzL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Big-Screen Budget Workhorse: Honest Thoughts on the HP 17t

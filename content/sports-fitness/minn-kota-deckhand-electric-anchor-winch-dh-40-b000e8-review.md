@@ -1,4 +1,5 @@
 ---
+
 title: "Minn Kota Deckhand Electric Anchor Winch â€“ DH-40"
 seo_title: "Minn Kota Deckhand Electric Anchor Winch â€“ DH-40 Review"
 meta_description: "Our full minn kota deckhand electric anchor winch â€“ dh-40 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B000E8HXA8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71k4p-EPxIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: hauling up a wet, muddy anchor by hand at 6 a.m. is the fastest way to ruin a fishing trip. The Minn Kota Deckhand DH-40 exists to eliminate that chore, and after digging through 225 Amazon ratings and real owner reports, here's what you actually need to know before spending your money.

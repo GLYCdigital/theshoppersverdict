@@ -1,4 +1,5 @@
 ---
+
 title: "DeerValley Symmetry One Piece Toilet, Dual Flush 1.1/1.6 GPF"
 seo_title: "DeerValley Symmetry One Piece Toilet Review: Dual Flush"
 meta_description: "DeerValley Symmetry one piece toilet review: dual flush 1.1/1.6 GPF, sleek design, easy cleaning. Real pros, cons, and buying advice."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TSMP2JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Jran9ysvS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully skirted one-piece design eliminates the hard-to-clean crevice between tank and bowl"
   - "Dual flush 1.1/1.6 GPF is genuinely effective on solid waste — no double flushing reported in most reviews"
   - "Quick-release seat hinges make swapping or deep-cleaning the seat a 10-second job"
-cons:
+cons: 
   - "Heavy at roughly 90 pounds — definitely a two-person install, and shipping damage is a real risk"
   - "No soft-close seat included; the standard seat slams if you let it go"
+
 ---
 
 Let’s be blunt: most toilets under $400 look like they were designed by an accountant. The DeerValley Symmetry is different — it’s a one-piece, fully skirted toilet that looks like it belongs in a $20,000 bathroom remodel, not a mid-range Amazon purchase. But looks only matter if the flush works. After digging through 220 ratings and the spec sheet, here’s the real story.

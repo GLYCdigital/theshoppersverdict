@@ -1,4 +1,5 @@
 ---
+
 title: "Flieks Beds"
 seo_title: "Flieks Beds Review: Honest Look at Quality & Value"
 meta_description: "Flieks Beds review: 4.5-star rated furniture. We break down build quality, comfort, assembly, and value. See who should buy and who should skip."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G5Y85QNR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814pozX2QIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy steel frame with reinforced center support handles heavier sleepers without sagging"
   - "Tool-free assembly takes under 30 minutes according to most verified buyers"
   - "No box spring needed — integrated slats work with memory foam and hybrid mattresses"
-cons:
+cons: 
   - "Low-profile design leaves only 7 inches of under-bed clearance, limiting storage options"
   - "Headboard sold separately on some models — check the listing carefully before ordering"
+
 ---
 
 Let's be direct: bed frames are rarely exciting, but they're essential. The Flieks Beds platform frame has quietly earned a 4.5-star rating across 225 Amazon reviews, which tells me it's doing something right. After digging through the verified buyer feedback and examining the specs, here's what you actually need to know before spending your money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery 8160 Easy Peel Address Labels for Inkjet Printers"
 seo_title: "Avery 8160 Easy Peel Labels Review (2026): Worth It?"
 meta_description: "Honest Avery 8160 Easy Peel address labels review: print quality, peel design, smudge resistance, and real buyer feedback. See who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B6QRY1ZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ieLwjnQrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pop-up edge design lets you peel labels one-handed without bending or tearing the sheet"
   - "True inkjet coating resists smudging even when addressed with heavy black ink"
   - "Templates integrate seamlessly with Word, Google Docs, and Avery's free Design & Print software"
-cons:
+cons: 
   - "Labels are permanent adhesive — no repositioning once they touch the envelope"
   - "Not compatible with laser printers or high-heat copiers despite similar sizing"
+
 ---
 
 If you mail anything more than a birthday card a couple times a year, you already know the pain: labels that stick to your fingers, sheets that curl, and print jobs that smear into an unreadable mess. The Avery 8160 Easy Peel labels have been the default answer for over a decade, and the current iteration holds up. But is it actually worth the premium over generic store brands? I ran a full box through my Brother inkjet to find out.

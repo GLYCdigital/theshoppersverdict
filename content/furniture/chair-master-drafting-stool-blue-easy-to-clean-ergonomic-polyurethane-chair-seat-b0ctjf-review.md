@@ -1,4 +1,5 @@
 ---
+
 title: "Chair Master Drafting Stool Blue- Easy to Clean! Ergonomic P"
 seo_title: "Chair Master Drafting Stool Blue Review: Ergonomic & Easy-Clean"
 meta_description: "Chair Master Drafting Stool Blue review: Is this ergonomic polyurethane seat worth it? Tested for comfort, cleanability & value. Verdict: 4.6/5."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CTJF7Q27/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71AhmeYa3sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Polyurethane seat wipes clean with a damp cloth — no fabric staining or odor absorption"
   - Pneumatic gas lift with 360° swivel handles drafting heights from ~24 inch " to 33 inch " smoothly
   - "Sturdy 5-point chrome base with dual-wheel casters rolls quietly on tile and low-pile carpet"
-cons:
+cons: 
   - "No lumbar support — the backrest is minimal and best for short tasks, not 8-hour sessions"
   - "Assembly requires a hex wrench (included) and about 15 minutes of your patience; bolts can strip if over-torqued"
   - "Blue finish is vibrant but shows scuffs from work boots — a quick wipe fixes it, but it's not invisible"
+
 ---
 
 The Chair Master Drafting Stool Blue isn't trying to be your throne for marathon work sessions. It's a purpose-built tool for people who need to sit higher, reach a drafting table, counter, or workbench, and don't want to babysit a fabric seat that absorbs every coffee spill. And for that job, it's genuinely good.

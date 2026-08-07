@@ -1,4 +1,5 @@
 ---
+
 title: "Laurel and Vine Specked White Textured Ceramic Decorative Bo"
 seo_title: "Laurel and Vine Specked White Textured Ceramic Dec Review"
 meta_description: "Our full laurel and vine specked white textured ceramic decorative bo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSHMD3GX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ebJ1QRCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Laurel and Vine Specked White Textured Ceramic Decorative Bowl: A Closer Look

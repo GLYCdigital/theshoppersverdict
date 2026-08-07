@@ -1,4 +1,5 @@
 ---
+
 title: "AO Smith 4.5 inch x10 inch  20 Micron Sediment Water Filter Replacemen"
 seo_title: "AO Smith 4.5x10 20 Micron Sediment Filter Review (2026)"
 meta_description: "Honest AO Smith 4.5x10 20 micron sediment water filter review: performance, lifespan, fitment, and real buyer feedback. Is it worth it?"
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07R3G84YK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71dfulaKQ0L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 20-micron depth filtration catches fine sand and rust without choking water flow"
   - "Reinforced polypropylene core prevents collapse under higher pressure differentials"
   - "Fits standard 4.5x10 housings from Aqua-Pure, Culligan, and most whole-house systems"
-cons:
+cons: 
   - "No branded packaging — arrives in a plain white box with minimal labeling"
   - "Lifespan varies wildly depending on incoming water turbidity; heavy-sediment wells may need monthly swaps"
+
 ---
 
 Let’s be blunt: most sediment filters are cheap, forgettable cylinders of pleated plastic that clog, collapse, or leak within weeks. The AO Smith 4.5”x10” 20-micron cartridge, on the other hand, has quietly racked up a 4.8-star average across 240 ratings. That kind of consistency doesn’t happen by accident. Here’s the full breakdown after digging through specs, buyer reports, and the fine print.

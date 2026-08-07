@@ -1,4 +1,5 @@
 ---
+
 title: "A-Tech | DDR4 2133MHz PC4-17000 Non-ECC Unbuffered DIMM | Ki"
 seo_title: "A-Tech DDR4 2133MHz RAM Review: Budget Upgrade Worth It?"
 meta_description: "A-Tech DDR4 2133MHz PC4-17000 RAM review: performance, compatibility, and value. See if this budget memory kit is the right upgrade for your office PC."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Q3PPTX8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+Ux6QbeXL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Plug-and-play compatibility with older Intel 6th/7th gen and AMD AM4 platforms at native 2133MHz speeds"
   - "Heat spreader keeps temps reasonable even in cramped office prebuilts with poor airflow"
   - "Lifetime warranty and responsive US-based support for a sub-$50 part"
-cons:
+cons: 
   - "2133MHz is entry-level speed—don't expect to run XMP profiles above 2400MHz reliably"
   - "Not ideal for Ryzen builds that benefit from faster 3200MHz+ memory"
+
 ---
 
 Let me cut through the jargon: if you're shopping for DDR4 RAM at 2133MHz in 2026, you're either upgrading an aging office PC or resurrecting a hand-me-down desktop. The A-Tech DDR4 PC4-17000 module won't win any speed records, but at $42.61 for what appears to be a single 8GB stick (verify capacity before ordering), it fills a specific niche that faster, pricier kits ignore.

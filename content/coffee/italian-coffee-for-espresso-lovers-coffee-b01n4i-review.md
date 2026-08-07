@@ -1,4 +1,5 @@
 ---
+
 title: "ITALIAN COFFEE FOR ESPRESSO LOVERS COFFEE"
 seo_title: "ITALIAN COFFEE FOR ESPRESSO LOVERS COFFEE Review: Verdict"
 meta_description: "Our full italian coffee for espresso lovers coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01N4IUYAZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EYujyJ2zL._SL1080_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most coffee sold on Amazon with "Italian" in the name is rebranded commodity beans with a stock photo of the Colosseum. This one is different — but not without caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "Captiva Designs Extra Large Charcoal BBQ Grill"
 seo_title: "Captiva Designs Extra Large Charcoal BBQ Grill Review (2026)"
 meta_description: "Honest Captiva Designs Extra Large Charcoal Grill review: 4.4★ rating, huge 1,300 sq in cooking space, build quality, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2R54TBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GmHItHbeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Massive 1,300+ sq in total cooking surface across three adjustable grates — fits 40+ burgers or two full briskets"
   - "Heavy-duty 22-gauge steel body with high-temp powder coat that actually resists rust through multiple seasons"
   - "Dual dampers and adjustable charcoal pan give real temperature control, not just on/off like most kettle grills"
-cons:
+cons: 
   - "Assembly is a two-person, 90-minute job — instructions are mostly diagrams with minimal text"
   - "Wheels are functional but small (6-inch); rolling over grass or gravel takes real effort when loaded"
   - "No built-in thermometer on the lid — you'll need a separate probe for accurate temps"
+
 ---
 
 Let me be blunt: most "extra large" charcoal grills are just big boxes with wheels. The Captiva Designs Extra Large Charcoal BBQ Grill is actually engineered differently, and that's why it's holding a solid 4.4-star average across 220 ratings. Here's what you're really getting.

@@ -1,4 +1,5 @@
 ---
+
 title: "FiveWillowise Round Leather Ottoman with Storage, Storage Ot"
 seo_title: "FiveWillowise Round Leather Ottoman Review: Storage & Style"
 meta_description: "Read our FiveWillowise round leather ottoman review. Lift-top storage, faux leather build, 4.6/5 rating. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DXPY16SD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/810YkZ8kSGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Lift-top mechanism reveals deep storage that fits throws, books, or kids' toys — not just decorative space"
   - "Faux leather upholstery is wipe-clean and holds up against daily footrest abuse"
   - "Round silhouette with tufted top looks more expensive than the price point suggests"
-cons:
+cons: 
   - "Faux leather can feel warm and slightly sticky against bare legs in hot climates"
   - "Assembly requires attaching legs yourself; some buyers report the included hex wrench strips easily"
   - "At roughly 30 pounds, it's light enough to slide but not so light it scoots every time you sit"
+
 ---
 
 Most ottomans are furniture afterthoughts — something to rest your feet on while you watch TV. The FiveWillowise Round Leather Ottoman with Storage tries to be more: a footrest, a coffee table, and a hidden storage bin all rolled into one. At 4.6 stars across 229 ratings, it's clearly doing something right. Here's what you need to know before you click buy.

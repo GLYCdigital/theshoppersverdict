@@ -1,4 +1,5 @@
 ---
+
 title: "CeraVe Hydrating Anti Dandruff Shampoo, 1% Pyrithione Zinc D"
 seo_title: "CeraVe Anti Dandruff Shampoo Review: 1% Pyrithione Zinc"
 meta_description: "Honest CeraVe Hydrating Anti Dandruff Shampoo review. Does 1% pyrithione zinc clear flakes without stripping hair? Real buyer feedback, pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSGR2L7J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61m8HE4tYlL._SL1500_.jpg"
-pros:
+pros: 
   - "Sulfate-free formula with 1% pyrithione zinc that actually controls flakes without the squeaky-clean tightness most dandruff shampoos cause"
   - "Contains three essential ceramides and niacinamide, so it doubles as a gentle scalp treatment for dry, compromised skin"
   - "Fragrance-free and non-comedogenic — safe for color-treated hair and sensitive scalps"
-cons:
+cons: 
   - "Thicker consistency than typical dandruff shampoos; requires thorough rinsing to avoid buildup on fine hair"
   - "Not a heavy-duty flake remover for severe seborrheic dermatitis — better suited for maintenance than acute flare-ups"
+
 ---
 
 ## The Dandruff Shampoo That Doesn't Strip Your Scalp Dry

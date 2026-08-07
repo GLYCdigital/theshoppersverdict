@@ -1,4 +1,5 @@
 ---
+
 title: "Best Choice Products Round Mid-Century Modern Dining Table,"
 seo_title: "Best Choice Products Round Dining Table Review (2026)"
 meta_description: "Best Choice Products Round Mid-Century Modern Dining Table review: space-saving design, build quality, real owner feedback, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP1VRX7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71b0L2jHNRL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuinely space-efficient 42-inch round top seats four comfortably without dominating a small dining room"
   - "Sturdy solid wood legs with cross-bracing — no wobble reported even on uneven floors"
   - "Easy 20-minute assembly with clearly labeled parts and included hex wrench"
-cons:
+cons: 
   - "Tabletop scratches fairly easily — owners recommend felt pads under decor and dishes"
   - "No leaf or extension option; it's a fixed 42-inch round, so six-person dinners are a squeeze"
+
 ---
 
 If you're shopping for a small dining table, you've probably seen a dozen "mid-century modern" options that all look identical in the product photos. The Best Choice Products Round table stands apart for one reason: it's actually small enough to work in tight spaces without feeling like a card table. At 42 inches in diameter, it's the Goldilocks size — big enough for four place settings, compact enough that you won't be shimmying sideways past it to reach the kitchen.

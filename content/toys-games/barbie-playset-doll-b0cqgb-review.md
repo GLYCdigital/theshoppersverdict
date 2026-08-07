@@ -1,4 +1,5 @@
 ---
+
 title: "Barbie Playset Doll"
 seo_title: "Barbie Playset Doll Review: 4.8-Star Toy Worth It?"
 meta_description: "Honest Barbie Playset Doll review: build quality, play value, accessories, and who should buy. See real pros, cons, and the verdict."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQGB1LNY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717dcEma0aL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Articulated joints at elbows, wrists, and knees — poses naturally for play or display"
   - "Snap-on playset pieces click securely; no frustrating tiny connectors to lose"
   - "Hair is heat-styled and tangle-resistant, surviving brushings from rough kids"
-cons:
+cons: 
   - "Playset footprint is compact — larger dolls or extra accessories won't fit inside"
   - "Only one outfit included; additional fashion packs sold separately add up"
   - "Articulated knees can feel stiff out of the box for younger hands"
+
 ---
 
 **Is this just another Barbie, or does the playset actually deliver?** I’ve unboxed dozens of dolls over the years, and this one earned its 4.8-star rating for a reason — but not without a few caveats worth knowing before you buy.

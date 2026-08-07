@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Classic 8-inch Full Tang High Carbon Stainless"
 seo_title: "Amazon Basics 8-Inch Chef Knife Review: Full Tang Value (2026)"
 meta_description: "Amazon Basics 8-inch full tang chef knife review: high carbon stainless steel, ergonomic handle, real performance. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WW6VGHX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51A7jub2akL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full tang construction with triple-riveted handle provides exceptional balance and durability at a budget price point"
   - "High carbon stainless steel blade holds a sharp edge noticeably longer than typical $20-30 kitchen knives"
   - "Ergonomic handle design with textured grip works well for both pinch grips and handle grips during extended prep sessions"
-cons:
+cons: 
   - "Blade arrives sharp but not razor-edged out of box — expect to hone it before first serious use"
   - "No included blade guard or sheath; safe storage requires a knife block or magnetic strip you'll need to buy separately"
+
 ---
 
 Let's be direct about what this knife is: a $20-ish workhorse that punches far above its price tag. The Amazon Basics Classic 8-inch Full Tang chef knife has earned its 4.7-star rating across 235 reviews for a simple reason — it does the job without asking questions. But is it the right knife for *your* kitchen? Here's the real breakdown.

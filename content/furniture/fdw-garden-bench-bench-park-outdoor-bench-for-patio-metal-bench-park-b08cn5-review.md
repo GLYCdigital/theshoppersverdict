@@ -1,4 +1,5 @@
 ---
+
 title: "FDW Garden Bench Bench Park Outdoor Bench for Patio Metal Be"
 seo_title: "FDW Garden Bench Review: Sturdy Outdoor Patio Seating"
 meta_description: "Read our honest FDW Garden Bench review. We tested the metal park bench for stability, comfort & rust resistance. See pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08CN5BJ4Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LN1iM7RcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel frame with powder-coated finish resists chipping and rust through multiple seasons"
   - "Curved backrest and contoured slats provide genuine lumbar support — not just a flat slab"
   - "Tool-free assembly takes under 10 minutes with pre-drilled holes and included hardware"
-cons:
+cons: 
   - "Seat width (around 18 inches) is snug for larger builds — this is a two-person bench in name only"
   - "No armrests on the base model, so getting up requires a bit of effort for older users"
+
 ---
 
 A metal bench that actually looks like it belongs in a garden — not a bus stop. That’s the first thing I noticed unboxing the FDW Garden Bench. The curved backrest and warm bronze-tone finish (the "Be" in the title refers to the finish color) elevate it beyond the typical flat-slat park bench that screams "institutional." At 4.5 stars from 225 Amazon ratings, it’s clearly earning its keep in backyards across the country. But is it worth your patio space? Let’s dig in.

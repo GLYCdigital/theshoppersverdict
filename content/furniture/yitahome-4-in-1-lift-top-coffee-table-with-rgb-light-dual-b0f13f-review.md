@@ -1,4 +1,5 @@
 ---
+
 title: "YITAHOME 4-in-1 Lift Top Coffee Table with RGB Light & Dual "
 seo_title: "YITAHOME 4-in-1 Lift Top Coffee Table with RGB Lig Review"
 meta_description: "Our full yitahome 4-in-1 lift top coffee table with rgb light & dual  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F13FXTSF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/715MMSAnDIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **This is a coffee table that does four jobs at once.** If you've been scrolling through endless "lift top" options on Amazon and felt they all looked like hospital furniture, the YITAHOME 4-in-1 is the first one that actually looks like it belongs in a living room, not a dorm. But the real question — is it a gimmick or a genuinely useful piece of furniture? After digging through 225 ratings and the spec sheet, here's the honest breakdown.

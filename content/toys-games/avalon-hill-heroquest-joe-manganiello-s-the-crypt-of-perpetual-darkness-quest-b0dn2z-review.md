@@ -1,4 +1,5 @@
 ---
+
 title: "Avalon Hill HeroQuest Joe Manganielloâ€™s The Crypt of Perpe"
 seo_title: "HeroQuest Crypt of Perpetual Darkness Review: Is It Worth It?"
 meta_description: "Our honest HeroQuest Joe Manganiello Crypt of Perpetual Darkness review covers the quest book, miniatures, and whether this expansion is worth your money."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN2ZLCN8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ng4axfH8L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Manganiello's 14-quest campaign adds real narrative depth, with branching choices that actually change subsequent missions"
   - "Includes 30+ new detailed miniatures, including the massive Crypt Beast boss figure that dwarfs the base game's monsters"
   - "New mechanics like light/darkness tokens and cursed items integrate cleanly without overcomplicating the classic ruleset"
-cons:
+cons: 
   - "Requires the HeroQuest base game to play — this is a pure expansion, not a standalone product"
   - "Quest book assumes players have mastered core rules; no tutorial or refresher section for returning players"
   - "Some cursed item cards feel swingy, potentially punishing newer players more than experienced ones"
+
 ---
 
 **Is this the expansion that finally makes HeroQuest feel like a real campaign?**

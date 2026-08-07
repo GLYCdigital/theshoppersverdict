@@ -1,4 +1,5 @@
 ---
+
 title: "Real Techniques Glow Round Base"
 seo_title: "Real Techniques Glow Round Base Review: Verdict | TSV"
 meta_description: "Our full real techniques glow round base review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GNM2V67F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Gxtyx1r6L._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Real Techniques Glow Round Base has 235 Amazon ratings holding steady at 4.7 stars. That's a strong signal, but the real question is whether this sponge justifies the luxury price tag. I tested it for two weeks with three different foundations. Here's the honest breakdown.

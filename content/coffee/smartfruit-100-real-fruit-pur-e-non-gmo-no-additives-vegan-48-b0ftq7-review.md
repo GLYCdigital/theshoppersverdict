@@ -1,4 +1,5 @@
 ---
+
 title: "Smartfruit - 100% Real Fruit PurÃ©e, Non-GMO, No Additives, "
 seo_title: "Smartfruit - 100% Real Fruit PurÃ©e, Non-GMO, No A Review"
 meta_description: "Our full smartfruit - 100% real fruit purã©e, non-gmo, no additives,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FTQ7ZBQR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-EMgbNqBL._SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about what this is before we get into the weeds: Smartfruit is a pouch of mashed fruit. That's it. No sugar, no preservatives, no "natural flavors" (which are anything but natural), no citric acid to fake freshness. Just fruit that's been picked, puréed, and sealed. For anyone who's ever read the ingredient list on a commercial smoothie pack and felt mildly insulted, this is the antidote.

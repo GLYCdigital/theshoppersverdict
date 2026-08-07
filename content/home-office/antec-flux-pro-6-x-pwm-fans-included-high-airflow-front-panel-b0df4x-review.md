@@ -1,4 +1,5 @@
 ---
+
 title: "Antec Flux Pro, 6 x PWM Fans Included, High-Airflow Front Pa"
 seo_title: "Antec Flux Pro Review: 6 PWM Fans, High-Airflow Design (2026)"
 meta_description: "Antec Flux Pro review: Does this high-airflow case with 6 PWM fans deliver? Real-world cooling tests, build quality, and honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DF4X6BGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Bs3SBtJ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six PWM fans included out of the box — no extra fan purchases needed for most builds, saving $60-80 vs. buying separately"
   - "Full mesh front panel with removable dust filters keeps airflow high while protecting against dust buildup"
   - "Tool-less drive bays and swing-out tempered glass side panel make component access genuinely painless"
-cons:
+cons: 
   - "Cable management space behind the motherboard tray is tight at only 22mm — plan your routing carefully"
   - "Front I/O panel lacks USB-C port, a noticeable omission at this price point in 2026"
+
 ---
 
 # Antec Flux Pro Review: Does Six Fans Equal Six Times the Cooling?

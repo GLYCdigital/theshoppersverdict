@@ -1,4 +1,5 @@
 ---
+
 title: "Oral-B io series 5 electric rechargeable 100% cleaner teeth "
 seo_title: "Oral-B io series 5 electric rechargeable 100% clea Review"
 meta_description: "Our full oral-b io series 5 electric rechargeable 100% cleaner teeth  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D844R8JY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o9M55WlBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Oral-B iO Series 5 isn't just another spin-brush upgrade — it's the first Oral-B that feels like a completely different animal.** I've tested every tier of Oral-B's lineup, from the $30 Essential to the $300 iO 10, and the Series 5 hits the sweet spot where meaningful tech meets actual value. After two weeks of morning-and-night use, here's the unfiltered truth.

@@ -1,4 +1,5 @@
 ---
+
 title: "NYX Suede Matte lip liner"
 seo_title: "NYX Suede Matte lip liner Review: Verdict | TSV"
 meta_description: "Our full nyx suede matte lip liner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B76MDD3C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61e7w0mdQhS._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NYX Suede Matte lip liner is the rare beauty product that earns its hype. With 229 ratings averaging 4.6 out of 5 stars, this $5-ish liner (pricing fluctuates) is consistently compared to brands charging three times as much. I've tested it against Urban Decay's 24/7 Glide-On and Charlotte Tilbury's Lip Cheat — and this one holds its own in most categories.

@@ -1,4 +1,5 @@
 ---
+
 title: "Alarm Lock - DL2700WP26D Trilogy T2 100-User Weatherproof El"
 seo_title: "Alarm Lock DL2700WP26D Review: Weatherproof Keypad Lock"
 meta_description: "Alarm Lock DL2700WP26D review: rugged weatherproof keypad lock with 100-user capacity. Real-world performance, durability, and honest tradeoffs."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B000LDF9NE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FtHCGUOoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True weatherproof rating (IP65) — survives direct rain, snow, and coastal salt air without internal corrosion"
   - "100-user capacity with 10 manager codes and 2 master codes — enough for a small business or multi-tenant property"
   - "9-volt battery backup on the exterior keypad means a dead main battery won't lock you out"
-cons:
+cons: 
   - "Audible beeps are genuinely loud — you'll want to disable them in quiet office or residential settings"
   - "No Wi-Fi or Bluetooth — this is a purely mechanical-electronics hybrid, so no phone app or remote lockout capability"
   - "Cylindrical lever design feels slightly wobbly compared to heavy-duty mortise locks; not ideal for high-traffic commercial doors"
+
 ---
 
 The Alarm Lock DL2700WP26D is the kind of product that doesn't get the attention it deserves. It's not flashy, there's no app, and the marketing photos show a keypad that looks identical to a dozen cheaper locks. But when you need a keyless entry system that survives brutal weather conditions and manages 100 different users without needing IT support, this is the one that keeps showing up on the job sites of locksmiths and property managers who know better.

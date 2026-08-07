@@ -1,4 +1,5 @@
 ---
+
 title: "Pfister LG534-LPMC LG534LPMC Kitchen Faucet, Polished Chrome"
 seo_title: "Pfister LG534-LPMC LG534LPMC Kitchen Faucet, Polis Review"
 meta_description: "Our full pfister lg534-lpmc lg534lpmc kitchen faucet, polished chrome review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DMJK3C1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51AeAjBI-bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Pfister LG534-LPMC in polished chrome is a solid, no-nonsense kitchen faucet that nails the basics without pretending to be something it isn't.** It's not a touchless smart faucet, it's not a pot-filler, and it doesn't come with a side sprayer. What it is, is a well-built, single-handle pull-down that does the job — and does it quietly well.

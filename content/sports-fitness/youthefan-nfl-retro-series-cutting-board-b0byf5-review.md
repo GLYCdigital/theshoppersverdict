@@ -1,4 +1,5 @@
 ---
+
 title: "YouTheFan NFL Retro Series Cutting Board"
 seo_title: "YouTheFan NFL Retro Series Cutting Board Review: Verdict "
 meta_description: "Our full youthefan nfl retro series cutting board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BYF5BHCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91fDYHuoOxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most "team spirit" kitchen gear is junk you'd hide in a drawer when company comes over. Cheap plastic, peeling decals, and logos that look like they were ironed on at a flea market. The YouTheFan NFL Retro Series Cutting Board isn't that. And at 4.8 stars across 240 ratings, it's clearly winning over the tailgate-and-cook crowd.

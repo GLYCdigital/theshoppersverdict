@@ -1,4 +1,5 @@
 ---
+
 title: "LIDYUK Narrow Side Tables with Drawer"
 seo_title: "LIDYUK Narrow Side Tables with Drawer Review: Verdict | T"
 meta_description: "Our full lidyuk narrow side tables with drawer review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QLX5FX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+bTQbSxDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # LIDYUK Narrow Side Tables with Drawer Review: The Slim Space-Saver That Actually Works

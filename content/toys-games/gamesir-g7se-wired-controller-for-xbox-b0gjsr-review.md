@@ -1,4 +1,5 @@
 ---
+
 title: "GameSir G7SE Wired Controller for Xbox"
 seo_title: "GameSir G7SE Review: Hall Effect Xbox Controller Worth It?"
 meta_description: "GameSir G7SE wired Xbox controller review: Hall effect sticks, back paddles, and trigger stops. Is it worth switching from the official pad? Find out."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GJSR8G4T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71-wtZ5RihL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall effect joysticks eliminate stick drift permanently — a genuine durability upgrade over stock Xbox controllers"
   - "Two rear paddles and trigger stop switches give competitive advantages without the $150+ Elite price tag"
   - "3.5mm audio jack plus dedicated mic mute button, which the official controller lacks"
-cons:
+cons: 
   - "Wired-only design means cable management is a constant factor; the included 3m cable is braided but stiff"
   - "Software calibration requires the GameSir Nexus app on PC — no mobile or console-based tuning options"
   - "Paddle placement sits higher than the Elite's, which can take a week of muscle memory adjustment"
+
 ---
 
 Wired controllers are having a moment, and the GameSir G7SE is a big reason why. For roughly half the price of an Xbox Elite Series 2, you're getting Hall effect sticks that physically cannot develop drift, rear paddles, and trigger stops. The 4.4-star rating across 220 reviews isn't a fluke — this controller punches well above its price class.

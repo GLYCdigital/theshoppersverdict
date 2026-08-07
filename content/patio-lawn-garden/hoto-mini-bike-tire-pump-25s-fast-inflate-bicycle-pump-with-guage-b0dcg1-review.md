@@ -1,4 +1,5 @@
 ---
+
 title: "HOTO Mini Bike Tire Pump, 25s Fast Inflate Bicycle Pump with"
 seo_title: "HOTO Mini Bike Tire Pump, 25s Fast Inflate Bicycle Review"
 meta_description: "Our full hoto mini bike tire pump, 25s fast inflate bicycle pump with review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DCG1JGKN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xeRf1-jCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most mini bike pumps are garbage. They take 200 pumps to add 10 PSI, the gauge is a joke, and they're built like a cheap toy. The HOTO Mini Bike Tire Pump is different — and after 225 Amazon ratings averaging 4.5 stars, I'm not the only one saying it.

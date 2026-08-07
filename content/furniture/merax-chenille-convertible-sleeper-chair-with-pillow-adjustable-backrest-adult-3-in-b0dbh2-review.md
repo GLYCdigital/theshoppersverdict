@@ -1,4 +1,5 @@
 ---
+
 title: "Merax Chenille Convertible Sleeper Chair with Pillow & Adjus"
 seo_title: "Merax Chenille Convertible Sleeper Chair with Pill Review"
 meta_description: "Our full merax chenille convertible sleeper chair with pillow & adjus review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DBH2WKW7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EEG1rmfLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Merax Chenille Convertible Sleeper Chair is the furniture equivalent of a Swiss Army knife — it's a chair, a lounger, and a bed in one compact unit. But does one piece of furniture do all three jobs well, or does it compromise on everything? After digging into the specs and what owners actually report, here's the honest breakdown.

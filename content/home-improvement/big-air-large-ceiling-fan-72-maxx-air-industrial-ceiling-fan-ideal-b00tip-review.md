@@ -1,7 +1,8 @@
 ---
-title: "Big Air Large Ceiling Fan 72\" | MAXX AIR Industrial Ceiling"
-seo_title: "Big Air 72\" Ceiling Fan Review: MAXX AIR Industrial Power"
-meta_description: "Our in-depth Big Air 72\" MAXX AIR ceiling fan review covers airflow, noise, build quality, and whether this industrial fan fits your space."
+
+title: "Big Air Large Ceiling Fan 72\ | MAXX AIR Industrial Ceiling"
+seo_title: "Big Air 72\ Ceiling Fan Review: MAXX AIR Industrial Power"
+meta_description: "Our in-depth Big Air 72\ MAXX AIR ceiling fan review covers airflow, noise, build quality, and whether this industrial fan fits your space."
 slug: "big-air-large-ceiling-fan-72-maxx-air-industrial-ceiling-fan-ideal-b00tip-review"
 image_alt: "Big Air 72 inch MAXX AIR industrial ceiling fan mounted in a large commercial garage space"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B00TIPBUXY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61f4zXHrhtL._SL1500_.jpg"
-pros:
+pros: 
   - "Massive 72-inch blade span moves serious air in spaces up to 1,000 sq ft without multiple smaller units"
   - "Heavy-duty all-metal construction with sealed ball bearings that holds up in dusty, humid shop environments"
   - "Three-speed reversible motor lets you switch from summer downdraft to winter updraft recirculation"
-cons:
+cons: 
   - "Installation is a two-person job — the motor housing alone weighs 40+ lbs and requires a rated ceiling mount"
   - "At low speed it's quiet, but high speed generates noticeable wind noise — not ideal for open-office settings"
+
 ---
 
 # Big Air 72" Ceiling Fan Review: Does MAXX AIR Deliver Industrial-Grade Cooling?

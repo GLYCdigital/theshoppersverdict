@@ -1,4 +1,5 @@
 ---
+
 title: "Wide Brackets"
 seo_title: "Wide Brackets Review: Verdict | TSV"
 meta_description: "Our full wide brackets review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DK7PY61C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LQVsqYPzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever loaded a shelf with cast-iron cookware and watched it bow, you know the problem isn't the wood — it's the bracket. Most shelf brackets fail because their mounting plate is too narrow, concentrating all the weight on one or two screws. That's the gap these wide brackets are designed to fill, and based on the 225 ratings averaging 4.5 stars, they're doing it well.

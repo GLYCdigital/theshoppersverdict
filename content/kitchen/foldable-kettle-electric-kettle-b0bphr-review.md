@@ -1,4 +1,5 @@
 ---
+
 title: "Foldable kettle, electric kettle"
 seo_title: "Foldable Electric Kettle Review: Travel-Smart Boiling"
 meta_description: "Our foldable electric kettle review covers real-world testing, silicone durability, travel fit, and whether this space-saving kettle is worth your money."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BPHRBYLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SHFHHuQFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Folds down to roughly 3 inches tall, freeing serious luggage space"
   - "Dual-voltage (110-220V) with a US plug, so it works on most international trips"
   - "Boils 0.8L in about 4 minutes — fast enough for coffee or tea on the go"
-cons:
+cons: 
   - "Silicone retains a faint plastic taste for the first several boils"
   - "No auto-shutoff at a precise temperature, just boil-and-stop"
   - "Small capacity (0.8L) means you're refilling for more than one mug"
+
 ---
 
 **Bottom line up front:** If you're a frequent traveler, RV camper, or dorm-dweller who's tired of hotel-room coffee that tastes like regret, this foldable electric kettle earns its space in your bag. At 4.3 stars from 215 ratings, it's not perfect — but for a niche product, it does its job remarkably well.

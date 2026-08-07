@@ -1,4 +1,5 @@
 ---
+
 title: "Cooler Master Elite 301 | N Series ATX |Micro-ATX PC Case To"
 seo_title: "Cooler Master Elite 301 Review: Budget ATX Case With Tempered Glass"
 meta_description: "Cooler Master Elite 301 review: Is this budget ATX/micro-ATX tower worth it? We break down airflow, build quality, and cable management for shoppers."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D8FNX3RR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/911wEbEHiQL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Tool-less tempered glass side panel with swing-open hinge — no screws to lose"
   - "Fine-mesh front and top panels provide unrestricted airflow for the price point"
   - "Accommodates GPUs up to 365mm and CPU coolers up to 166mm — fits most modern builds"
-cons:
+cons: 
   - "Only one pre-installed 120mm fan — you'll need to budget for additional fans"
   - "Cable management space behind the motherboard tray is tight (roughly 20mm)"
   - "Front panel I/O lacks USB-C — a miss for newer motherboards"
+
 ---
 
 ## The Budget Case That Gets the Basics Right (and One Thing Wrong)

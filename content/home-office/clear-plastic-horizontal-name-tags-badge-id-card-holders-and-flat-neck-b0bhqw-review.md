@@ -1,4 +1,5 @@
 ---
+
 title: "Clear Plastic Horizontal Name Tags Badge ID Card Holders and"
 seo_title: "Clear Plastic Name Tag Holders Review: Worth It? (2026)"
 meta_description: "Honest review of Clear Plastic Horizontal Name Tag Holders. Durable, scratch-resistant, with secure clips. See pros, cons, and if they're right for your office."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BHQWPVHQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81d6e0xbvaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Scratch-resistant PET plastic stays crystal clear even after months of daily use"
   - "Horizontal orientation fits standard CR80 cards without bending or trimming"
   - "Dual attachment options (clip and flat lanyard) with reinforced stitching at stress points"
-cons:
+cons: 
   - "Lanyard material feels thinner than premium alternatives and may fray with rough handling"
   - "Clip is stiff out of the box — requires deliberate thumb pressure to open fully"
+
 ---
 
 Let me be direct: most badge holders are disposable junk you replace every three months when the plastic yellows or the lanyard snaps. These clear horizontal holders from the B0BHQWPVHQ listing are not that. After digging through 229 ratings and the product specs, here's the real story.

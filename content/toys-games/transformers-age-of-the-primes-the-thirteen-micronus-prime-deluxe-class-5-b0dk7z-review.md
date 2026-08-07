@@ -1,4 +1,5 @@
 ---
+
 title: "Transformers Age of the Primes The Thirteen Micronus Prime, "
 seo_title: "Transformers Age of the Primes The Thirteen Micron Review"
 meta_description: "Our full transformers age of the primes the thirteen micronus prime,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK7Z7R3L/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717EWKfrZoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Thirteen are finally getting their due.** Hasbro's Age of the Primes line has been steadily rolling out the original Primes, and Micronus Prime — the smallest of the Thirteen, who combines with other Primes as their "spark" — is one of the most anticipated releases. After spending a week with this Deluxe Class figure, here's the honest breakdown.

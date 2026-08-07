@@ -1,4 +1,5 @@
 ---
+
 title: "InStep Take 2 Kids Bike Trailer, Double Seat, Universal Coup"
 seo_title: "InStep Take 2 Kids Bike Trailer, Double Seat, Univ Review"
 meta_description: "Our full instep take 2 kids bike trailer, double seat, universal coup review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B002QAVQ14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/812-DMgGcZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're a cycling parent, you already know the dilemma: a cheap trailer that rattles apart by August, or a $600 carbon-fiber beast that costs more than your bike. The InStep Take 2 sits in that sweet spot between them, and with 229 ratings holding a 4.6-star average, it's clearly earning its keep in real driveways. But is it the right trailer for *your* kids? Let's dig in.

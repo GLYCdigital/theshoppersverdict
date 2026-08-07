@@ -1,7 +1,8 @@
 ---
-title: "GIGABYTE M32UC SA - 32\" UHD | 144Hz | VA | Curved | Height &"
-seo_title: "GIGABYTE M32UC SA - 32\" UHD | 144Hz | VA | Curved  Review"
-meta_description: "Our full gigabyte m32uc sa - 32\" uhd | 144hz | va | curved | height & review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "GIGABYTE M32UC SA - 32\ UHD | 144Hz | VA | Curved | Height &"
+seo_title: "GIGABYTE M32UC SA - 32\ UHD | 144Hz | VA | Curved  Review"
+meta_description: "Our full gigabyte m32uc sa - 32\ uhd | 144hz | va | curved | height & review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "gigabyte-m32uc-sa-32-uhd-144hz-va-curved-height-tilt-b0dd4k-review"
 image_alt: "GIGABYTE M32UC SA - 32 UHD | 144Hz | VA | Curved | Height & Tilt"
 verdict_score: 3.7
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0DD4K7NZT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71PqY4-jbHL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The GIGABYTE M32UC SA is the kind of monitor that looks perfect on paper: 32 inches, 4K UHD, 144Hz, a 1500R curve, and an adjustable stand. It's a spec sheet that screams "buy me." But after spending time with it, I can tell you the reality is more nuanced — and that's exactly why it sits at a 3.9-star average across 195 Amazon ratings. It's not a bad monitor, but it's a specific tool for specific buyers.

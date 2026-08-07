@@ -1,4 +1,5 @@
 ---
+
 title: "TOOLUXE Heavy Duty Tire Repair Kit"
 seo_title: "TOOLUXE Heavy Duty Tire Repair Kit Review: Verdict | TSV"
 meta_description: "Our full tooluxe heavy duty tire repair kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FL2LMX8B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71u2GTlZgML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Flat tire on a dark highway at 9 PM. That's when you'll know if the tire repair kit you bought was worth the money — or just another piece of cheap Chinese hardware cluttering your trunk. The TOOLUXE Heavy Duty Tire Repair Kit is designed to be the former, and based on its 4.5-star average across 225 ratings, it's largely succeeding.

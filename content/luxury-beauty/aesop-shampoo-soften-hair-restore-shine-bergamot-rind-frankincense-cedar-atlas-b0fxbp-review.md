@@ -1,4 +1,5 @@
 ---
+
 title: "Aesop Shampoo | Soften Hair, Restore Shine | Bergamot Rind,"
 seo_title: "Aesop Shampoo Review: Bergamot Rind, Frankincense & Cedar"
 meta_description: "Honest Aesop Shampoo review: Does the Bergamot Rind formula soften hair and restore shine? Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FXBP5KRL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LR3f04bBL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional fragrance blend — Bergamot Rind with Frankincense and Cedar Atlas lingers subtly without being overpowering"
   - "Gentle sulfate-free lather that cleanses effectively without stripping natural oils or causing scalp irritation"
   - "Concentrated formula — a small amount goes a long way, making the premium price more justifiable over time"
-cons:
+cons: 
   - "Significant price point — expect to pay luxury-brand pricing for a 500mL bottle, which may feel steep for daily use"
   - "Lighter lather than drugstore shampoos — those accustomed to thick, foamy suds may initially feel it isn't 'working'"
   - "Not ideal for very oily scalps — the moisturizing formula prioritizes softness over deep clarifying"
+
 ---
 
 # Aesop Shampoo Review: Is the Bergamot Rind Formula Worth the Luxury Price?

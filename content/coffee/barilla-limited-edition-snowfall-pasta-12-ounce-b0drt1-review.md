@@ -1,4 +1,5 @@
 ---
+
 title: "Barilla, Limited Edition Snowfall Pasta, 12 Ounce"
 seo_title: "Barilla Snowfall Pasta Review: Festive 12oz Limited Edition"
 meta_description: "Barilla Snowfall Pasta review: A festive snowflake-shaped limited edition that cooks well and looks great. See if this 12oz holiday pasta is worth it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRT11VH3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710zSPiOlAL._SL1500_.jpg"
-pros:
+pros: 
   - "Snowflake shape holds onto thick sauces and butter sauces exceptionally well, with the nooks and crannies trapping flavor"
   - "Holds its shape through boiling and stirring — no broken pieces or mushy results after 10-12 minutes"
   - "Festive presentation that turns an ordinary weeknight dinner into something special without extra effort"
-cons:
+cons: 
   - "Limited availability — once the holiday season sells through, it's gone until next year"
   - "12-ounce box is smaller than standard 16-ounce pasta boxes, so plan for about 4 servings instead of 6"
+
 ---
 
 **The Holiday Pasta That's Worth Hunting For**

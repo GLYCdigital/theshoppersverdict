@@ -1,4 +1,5 @@
 ---
+
 title: "QiMH Table Lamp for Living Room, Farmhouse Lamps Set of 2 wi"
 seo_title: "QiMH Table Lamp for Living Room, Farmhouse Lamps S Review"
 meta_description: "Our full qimh table lamp for living room, farmhouse lamps set of 2 wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F74NZY48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81R+VS2B+VL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've seen a hundred farmhouse lamp sets on Amazon. Most of them are hollow resin with faux-wood paint that chips by month three. The QiMH set of two is not that. At 4.6 stars across 229 ratings, this one earned its score through actual construction choices — not just a trendy silhouette.

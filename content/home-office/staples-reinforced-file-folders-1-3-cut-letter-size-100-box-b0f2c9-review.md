@@ -1,4 +1,5 @@
 ---
+
 title: "Staples Reinforced File Folders, 1/3 Cut, Letter Size, 100/B"
 seo_title: "Staples Reinforced File Folders, 1/3 Cut, Letter S Review"
 meta_description: "Our full staples reinforced file folders, 1/3 cut, letter size, 100/b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F2C9KPF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ftt7YniDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a standard file folder split down its top edge after six months of use, you know why this 100-pack from Staples deserves a closer look. The reinforced tab and top edge are the headline feature here, and they address the exact spot where cheap folders fail. At 4.8 stars from 240 ratings, this is one of those quiet workhorse products that offices burn through without thinking — which is precisely why the details matter.

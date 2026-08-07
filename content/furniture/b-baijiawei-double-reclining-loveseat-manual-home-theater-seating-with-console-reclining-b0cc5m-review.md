@@ -1,4 +1,5 @@
 ---
+
 title: "B BAIJIAWEI Double Reclining Loveseat - Manual Home Theater"
 seo_title: "B BAIJIAWEI Double Reclining Loveseat Review (2026)"
 meta_description: "Honest B BAIJIAWEI double reclining loveseat review: comfort, build quality, and real buyer feedback. See if this manual home theater seat is worth it."
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0CC5MH9C2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s6lzLVyRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine full recline with footrest extension — not a shallow lean-back like some budget loveseats"
   - "Center console with two cupholders and storage that actually fits remotes and small snacks"
   - "PU leather is surprisingly durable for the price point and wipes clean easily"
-cons:
+cons: 
   - "Manual recline mechanism requires real effort — not ideal for anyone with limited upper body strength"
   - "Assembly takes 45-60 minutes and the instructions are mostly diagrams with minimal text"
   - "Seat cushions are firm initially and need a few weeks to break in"
+
 ---
 
 **A Budget-Friendly Home Theater Seat That Gets the Basics Right — With Some Tradeoffs**

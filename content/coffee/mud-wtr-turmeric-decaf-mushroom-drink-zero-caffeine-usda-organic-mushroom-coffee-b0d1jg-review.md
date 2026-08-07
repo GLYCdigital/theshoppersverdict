@@ -1,4 +1,5 @@
 ---
+
 title: "MUD\\WTR Turmeric Decaf Mushroom Drink | Zero Caffeine | USDA"
 seo_title: "MUD\\WTR Turmeric Decaf Mushroom Drink | Zero Caffe Review"
 meta_description: "Our full mud\\wtr turmeric decaf mushroom drink | zero caffeine | usda review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D1JGJJDB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WG0brUwyL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The zero-caffeine mushroom drink that actually tastes like something — but will that something be for you?**

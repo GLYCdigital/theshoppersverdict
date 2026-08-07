@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Grocery, Tomato Sauce"
 seo_title: "Amazon Grocery Tomato Sauce Review: Worth It? | 2026 inch"
 meta_description: "Our Amazon Grocery Tomato Sauce review covers taste, texture, and value. See if this pantry staple lives up to its 4.7-star rating before you buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSVD5QM1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KDBIQe0OL._SL1500_.jpg"
-pros:
+pros: 
   - "Clean ingredient list — just tomatoes, onion, garlic, and spices with no added sugar or artificial preservatives"
   - "Thick, rich texture that clings to pasta and reduces quickly without turning watery"
   - "Consistent 4.7-star rating across 235 reviews with strong repeat-purchase loyalty"
-cons:
+cons: 
   - "Slightly higher sodium content (480mg per half-cup) than some competing sauces, which may matter for low-salt diets"
   - "No expiration date printed on the label — only a lot code, which makes stock rotation confusing"
+
 ---
 
 Let me be straight with you: I've tested more tomato sauces than I care to count, and most of them taste like sweetened ketchup pretending to be Italian. The Amazon Grocery Tomato Sauce isn't that. It's a shelf-stable pantry workhorse that actually earns its keep in the kitchen.

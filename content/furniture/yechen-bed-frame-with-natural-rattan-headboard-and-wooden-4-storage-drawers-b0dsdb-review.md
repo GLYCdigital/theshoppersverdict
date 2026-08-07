@@ -1,4 +1,5 @@
 ---
+
 title: "Yechen Bed Frame with Natural Rattan Headboard and Wooden 4 "
 seo_title: "Yechen Bed Frame with Natural Rattan Headboard and Review"
 meta_description: "Our full yechen bed frame with natural rattan headboard and wooden 4  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DSDBHCV5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81x2n89UfZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

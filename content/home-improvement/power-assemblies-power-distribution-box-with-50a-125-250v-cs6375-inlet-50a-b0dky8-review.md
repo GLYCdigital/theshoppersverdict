@@ -1,4 +1,5 @@
 ---
+
 title: "Power Assemblies Power Distribution Box with 50A 125/250V CS"
 seo_title: "Power Assemblies Power Distribution Box with 50A 1 Review"
 meta_description: "Our full power assemblies power distribution box with 50a 125/250v cs review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DKY82PJS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61JXgZtbwdL._SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you've ever watched a $40 plastic distribution box melt after one season of generator power, you understand why this Power Assemblies unit exists.** This is the box you buy when you're done replacing the cheap ones. With a 4.9-star average across 245 ratings, it's clearly resonating with people who run real power in the field. Here's what actually matters.

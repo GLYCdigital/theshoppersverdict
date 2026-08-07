@@ -1,4 +1,5 @@
 ---
+
 title: "KOTTO Solder Fume Extractor"
 seo_title: "KOTTO Solder Fume Extractor Review: Verdict | TSV"
 meta_description: "Our full kotto solder fume extractor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DHZK9J5Y/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mkHR8MNXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've soldered for more than an hour without extraction, you know that acrid rosin smoke isn't just annoying — it's a genuine health concern. The KOTTO Solder Fume Extractor aims to solve that problem without demanding a dedicated ventilation system or a three-figure budget. Here's the real story after digging through the specs and what 225 Amazon buyers are saying.

@@ -1,4 +1,5 @@
 ---
+
 title: "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Holder"
 seo_title: "Cisily Sponge Holder Review: Sink Caddy for 2026 inch"
 meta_description: "Honest review of the Cisily Sponge Holder for Kitchen Sink. Does this $14 sink caddy hold brushes and sponges well? Find out pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 12796
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fits over most standard faucets without tools — no drilling or adhesive that fails after a month"
   - "Vented design actually lets sponges and brushes dry out, preventing that sour, bacteria-laden smell"
   - "High brush holder keeps tall bottle brushes and scrub brushes upright instead of leaning in a puddle"
-cons:
+cons: 
   - "Not compatible with pull-down or pull-out sprayer faucets — the sprayer head physically blocks installation"
   - "Slots are sized for standard sponges; thick, heavy-duty scrub pads can be a tight squeeze"
   - "Plastic construction feels light; aggressive scrubbing near the caddy could knock it off the faucet neck"
+
 ---
 
 **Is the Cisily Sponge Holder just another $14 gadget that'll end up in a drawer? Not quite. Here's the honest breakdown.**

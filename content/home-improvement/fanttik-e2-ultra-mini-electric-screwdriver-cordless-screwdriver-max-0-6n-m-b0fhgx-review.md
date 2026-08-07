@@ -1,4 +1,5 @@
 ---
+
 title: "Fanttik E2 Ultra Mini Electric Screwdriver, Cordless Screwdr"
 seo_title: "Fanttik E2 Ultra Review: Mini Screwdriver That Delivers"
 meta_description: "Fanttik E2 Ultra mini electric screwdriver review: torque, battery life, build quality, and real-world testing. Is it worth your money?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FHGXG6X8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FSFvKzivL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "0.6 N·m max torque handles stripped screws and stubborn electronics without needing a manual driver"
   - "Slim pen-style body with magnetic bit holder and built-in LED — actually pocketable for daily carry"
   - "USB-C charging with claimed 1000+ screws per charge; real-world runtime matches the spec"
-cons:
+cons: 
   - "Only 24 bits included — you'll likely need extra security bits (Torx, tri-wing) for modern gadgets"
   - "No clutch or torque adjustment; the auto-stop can overshoot on soft materials like plastic"
   - "Bit storage is in the cap, which rattles slightly during use — minor but noticeable"
+
 ---
 
 **Opening Hook**  

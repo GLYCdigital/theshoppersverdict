@@ -1,4 +1,5 @@
 ---
+
 title: "Pond Champs Lake and Pond Dye - One Gallon of Professional L"
 seo_title: "Pond Champs Lake and Pond Dye - One Gallon of Prof Review"
 meta_description: "Our full pond champs lake and pond dye - one gallon of professional l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6SSPY86/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iSnClmsFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've got a pond that looks more like swamp water than a backyard feature. Before you drop money on aeration systems or expensive UV filters, the cheapest first step is often a dye. Pond Champs Lake and Pond Dye is one of the most popular options on Amazon — 229 ratings, 4.6 stars. Here's the honest breakdown of whether it actually works.

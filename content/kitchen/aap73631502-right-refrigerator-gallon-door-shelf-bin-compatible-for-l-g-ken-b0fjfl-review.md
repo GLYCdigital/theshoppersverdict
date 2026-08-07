@@ -1,4 +1,5 @@
 ---
+
 title: "AAP73631502 Right Refrigerator Gallon Door Shelf Bin Compati"
 seo_title: "AAP73631502 Refrigerator Door Shelf Bin Review (2026)"
 meta_description: "Honest AAP73631502 right refrigerator gallon door shelf bin review — fit, build quality, and whether it's worth replacing OEM. Real buyer feedback inside."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJFLP27Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61G4BK4oN8L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Precise OEM-style fit for LG and Kenmore models — snaps in without modification"
   - "Sturdy gallon-sized capacity handles full milk jugs without flexing"
   - "Clear plastic finish matches existing door bins visually"
-cons:
+cons: 
   - "Compatibility is model-specific — verify your fridge model before ordering"
   - "Some buyers report slight color mismatch on older, yellowed fridges"
   - "No gasket or rubber lining — items can slide if door is slammed"
+
 ---
 
 Let’s be honest: nobody wakes up excited to shop for a refrigerator door shelf bin. You’re here because a hinge cracked, the plastic snapped after years of abuse, or you just bought a used fridge missing a piece. The AAP73631502 replacement bin is the kind of product that either saves you $80–$120 versus an OEM part or wastes your time if it doesn’t fit. Here’s what 220 buyers found.

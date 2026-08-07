@@ -1,4 +1,5 @@
 ---
+
 title: "Purist Multifunction Handshower Kit"
 seo_title: "Purist Multifunction Handshower Kit Review: Verdict | TSV"
 meta_description: "Our full purist multifunction handshower kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D9WTWXD3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Dr2AgwUAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Purist Multifunction Handshower Kit sits in that awkward middle ground: not cheap enough to be a disposable impulse buy, not expensive enough to promise luxury. At 3.9 stars from 195 ratings, it's a solid "good but not great" product. Here's what you need to know before you buy.

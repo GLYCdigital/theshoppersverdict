@@ -1,4 +1,5 @@
 ---
+
 title: "ROYHOME Boho Washable Rugs Area Rugs, Non-Slip Modern Rugs f"
 seo_title: "ROYHOME Boho Washable Rugs Area Rugs, Non-Slip Mod Review"
 meta_description: "Our full royhome boho washable rugs area rugs, non-slip modern rugs f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DPF933SC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nDtOAbAlL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You know that moment when a rug looks great in the listing photo but feels like sandpaper in person? The ROYHOME Boho Washable Rug isn't that. It's also not the plush, sink-your-toes-in centerpiece you might hope for. At 4.2 stars from 210 ratings, it sits squarely in "solid everyday workhorse" territory. Here's the real breakdown.

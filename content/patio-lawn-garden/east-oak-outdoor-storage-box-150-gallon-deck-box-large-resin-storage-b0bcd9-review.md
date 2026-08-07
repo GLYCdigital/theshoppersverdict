@@ -1,4 +1,5 @@
 ---
+
 title: "EAST OAK Outdoor Storage Box, 150 Gallon Deck Box, Large Res"
 seo_title: "EAST OAK 150 Gallon Deck Box Review: Is It Worth It?"
 meta_description: "EAST OAK 150-gallon outdoor storage box review: build quality, real-world capacity, weather resistance, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BCD93K3B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51yF6MM4-HL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine 150-gallon capacity fits 4-5 standard patio chairs or a full set of outdoor cushions plus accessories"
   - "Reinforced lid supports up to 440 lbs — doubles as a bench or side table without flexing"
   - "Water-resistant resin build with drainage holes in the base prevents mold and mildew buildup"
-cons:
+cons: 
   - "Assembly requires two people and about 45 minutes; the screw holes don't always align perfectly"
   - "Not fully waterproof — heavy rain can seep through the lid seam if you don't seat it firmly"
+
 ---
 
 You've seen those flimsy deck boxes that buckle when someone sits on them. This isn't one of those. The EAST OAK 150-gallon outdoor storage box is the heavy-duty option in the mid-range resin category, and it earns its 4.2-star rating with 210 reviews by doing one thing well: holding a lot without falling apart. But it's not without quirks. Here's what you need to know before you click buy.

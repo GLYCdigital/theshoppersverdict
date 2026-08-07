@@ -1,4 +1,5 @@
 ---
+
 title: "Square Silicone Air Fryer Liners for 4.5 to 8 QT, Set of 2, "
 seo_title: "Square Silicone Air Fryer Liners for 4.5 to 8 QT,  Review"
 meta_description: "Our full square silicone air fryer liners for 4.5 to 8 qt, set of 2,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHFX49JX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MIPQ6Dd9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most air fryer liners are either flimsy parchment that curls into your food or cheap silicone that fits like a wrinkled bedsheet. This set from Square Silicone actually addresses both problems—but it's not perfect. Here's the full story after digging through 220 ratings and the specs.

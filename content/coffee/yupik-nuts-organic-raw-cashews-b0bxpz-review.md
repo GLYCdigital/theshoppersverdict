@@ -1,4 +1,5 @@
 ---
+
 title: "Yupik Nuts Organic Raw Cashews"
 seo_title: "Yupik Nuts Organic Raw Cashews Review: Verdict | TSV"
 meta_description: "Our full yupik nuts organic raw cashews review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BXPZMFPC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61H3hehuBCL._SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Skip the roasted aisle. This is the raw cashew that belongs in your pantry.**

@@ -1,4 +1,5 @@
 ---
+
 title: "IT Cosmetics CC+ Cream - Natural Full Coverage Foundation Wi"
 seo_title: "IT Cosmetics CC+ Cream - Natural Full Coverage Fou Review"
 meta_description: "Our full it cosmetics cc+ cream - natural full coverage foundation wi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01MQX0C4S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51G-ZyvrbFL._SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The "CC Cream" That's Actually Full Coverage

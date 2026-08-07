@@ -1,16 +1,17 @@
 ---
+
 title: "Cubiker 40 x 24 Inch Standing Desk, Stand up Height Adjustable Home Office Electric Table, Sit Stand Desk with Splice Board, Black Frame & Black Desktop"
 seo_title: "Cubiker 40 x Review: Verdict (4.6/5) | TSV"
 meta_description: "Good quality product The assembly was a 4,335+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "cubiker-40-x-24-inch-standing-desk-stand-up-height-adjustable-home-review"
 image_alt: "Cubiker 40 x 24 Inch Standing Desk, Stand up Height Adjustable Home Office Electric Table, Sit Stand Desk with Splice Bo"
-keywords:
+keywords: 
   - "cubiker 40 x review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Cubiker 40 x 24?"
     answer: "Good quality product The assembly was a breeze That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the downsides of the Cubiker 40 x 24?"
@@ -24,12 +25,13 @@ review_count: 4335
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLC8LL7T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WRpLUuapL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good quality product The assembly was a breeze."
   - "Super cheap for the quality compared to competitors."
   - "Assembly was straightforward and easy to follow."
-cons:
+cons: 
   - "Minor drawbacks noted by some users"
+
 ---
 
 **Is the Cubiker 40x24 the cheapest electric standing desk that doesn't feel like a toy?** At $54.99 with a 4.6-star average from 4,335 ratings, it's aggressively priced. But cheap standing desks usually wobble like a palm tree in a storm. This one doesn't — mostly. Here's the honest breakdown after digging through buyer feedback and spec sheets.

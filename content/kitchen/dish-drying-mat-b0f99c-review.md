@@ -1,4 +1,5 @@
 ---
+
 title: "dish drying mat"
 seo_title: "Dish Drying Mat Review (2026): Is It Worth It? | Expert Verdict"
 meta_description: "Our dish drying mat review covers absorbency, durability, and real buyer feedback. See pros, cons, and whether this 3.3-star mat deserves your counter space."
@@ -11,14 +12,15 @@ review_count: 165
 amazon_rating: 3.3
 amazon_url: "https://www.amazon.com/dp/B0F99CWZY9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616Xa3l7lUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick, quilted cotton surface absorbs water quickly without dripping onto the counter"
   - "Machine-washable and dryer-safe for easy cleaning between uses"
   - "Large surface area accommodates a full load of dishes, glasses, and utensils"
-cons:
+cons: 
   - "Thin waterproof backing can crack or peel after several months of regular use"
   - "Edges curl up over time, especially after machine drying on high heat"
   - "Light colors show stains and mildew spots quickly if not hung to dry between uses"
+
 ---
 
 # Dish Drying Mat Review: A 3.3-Star Reality Check

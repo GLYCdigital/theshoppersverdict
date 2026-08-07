@@ -1,4 +1,5 @@
 ---
+
 title: "ADORNEVE Loft Bed Twin Size with L-Shaped Desk, LED Lights,C"
 seo_title: "ADORNEVE Loft Bed Twin Review: Desk, LED Lights & Charging (2026)"
 meta_description: "Honest ADORNEVE Loft Bed Twin review: L-shaped desk, LED lights, charging ports. Build quality, assembly time, and who should buy it. 4.5-star rated."
@@ -11,15 +12,16 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFLZ5KL8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81sudNqgMbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED strip lighting with remote — 16 colors and brightness control, not just a gimmick"
   - "L-shaped desk provides genuinely usable workspace (roughly 47 inches of contiguous surface) without eating the whole room"
   - "USB and Type-C charging ports built into the headboard area — kids can charge devices overnight without dangling cords"
   - "Sturdy steel frame with 400+ lb weight capacity; holds up to average-sized adults, not just kids"
-cons:
+cons: 
   - "Assembly is a marathon, not a sprint — expect 3–5 hours with two people, and the instructions are occasionally vague"
   - "The ladder is fixed at one position; you can't swap sides after assembly without disassembling half the bed"
   - "LED strip is attached with adhesive — it can peel over time in humid climates; consider adding small clips"
+
 ---
 
 ## This Loft Bed Actually Solves the Small-Room Problem

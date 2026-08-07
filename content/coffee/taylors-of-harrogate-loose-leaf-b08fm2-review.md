@@ -1,4 +1,5 @@
 ---
+
 title: "Taylors of Harrogate Loose Leaf"
 seo_title: "Taylors of Harrogate Loose Leaf Review: Verdict | TSV"
 meta_description: "Our full taylors of harrogate loose leaf review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08FM2X4QF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cp3Jit8FL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "premium" loose-leaf teas you find on Amazon are overpriced, under-aromatic, and taste like they were dried in a warehouse in 2019. Taylors of Harrogate's Yorkshire Tea loose leaf is not that. This is the same blend that's been a UK kitchen staple for decades, sold in bulk format for people who actually drink tea daily — not for Instagram brewing ceremonies.

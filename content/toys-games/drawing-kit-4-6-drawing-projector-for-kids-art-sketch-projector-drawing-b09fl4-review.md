@@ -1,4 +1,5 @@
 ---
+
 title: "Drawing Kit 4-6, Drawing Projector for Kids, Art Sketch Proj"
 seo_title: "Drawing Projector for Kids Review: Art Sketch Kit for Ages 4-6 inch"
 meta_description: "Honest review of the Drawing Projector for Kids ages 4-6. See how this art sketch kit performs, what kids love, and where it falls short before you buy."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09FL4Z3FY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719FRSK3WeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Projector arm adjusts to multiple angles, so kids can trace on a flat desk or an inclined surface without neck strain"
   - "Comes with 24 built-in image slides covering animals, vehicles, and simple shapes — enough variety to hold attention beyond the first session"
   - "Battery-powered operation (3 AA, not included) means no cords or wall outlet dependency — works in the car, at a restaurant, or on the living room floor"
-cons:
+cons: 
   - "The projected image is dim in anything but low-light conditions; bright afternoon sunlight makes the tracing lines nearly invisible"
   - "Slide insertion is finicky — a 4-year-old will likely need adult help loading and swapping images without bending the thin plastic"
   - "The stylus and included paper are basic; you'll want to buy thicker sketch paper because standard printer paper buckles under the included markers"
+
 ---
 
 If you've got a 4-to-6-year-old who loves to draw but gets frustrated when their creations don't look like the picture in their head, this projector kit is the confidence builder you've been looking for. The concept is simple: pop in a slide, the projector casts the image onto the drawing surface, and your kid traces over the lines. It turns "I can't draw" into "Look what I made!" in about ten minutes.

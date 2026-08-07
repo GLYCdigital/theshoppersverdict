@@ -1,7 +1,8 @@
 ---
-title: "Nourison Home 22\" Ceramic Table Lamp"
-seo_title: "Nourison Home 22\" Ceramic Table Lamp Review: Verdict | TS"
-meta_description: "Our full nourison home 22\" ceramic table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "Nourison Home 22\ Ceramic Table Lamp"
+seo_title: "Nourison Home 22\ Ceramic Table Lamp Review: Verdict | TS"
+meta_description: "Our full nourison home 22\ ceramic table lamp review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "nourison-home-22-ceramic-table-lamp-b0dtqk-review"
 image_alt: "Nourison Home 22 Ceramic Table Lamp"
 verdict_score: 4.2
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTQK52C5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rFb87loCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Nourison Home 22" Ceramic Table Lamp: The $72 Lamp That Looks Like a Designer Find

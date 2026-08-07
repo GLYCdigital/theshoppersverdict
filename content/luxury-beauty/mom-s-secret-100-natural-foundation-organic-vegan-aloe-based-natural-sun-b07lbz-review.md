@@ -1,4 +1,5 @@
 ---
+
 title: "Mom's Secret 100% Natural Foundation, Organic, Vegan, Aloe B"
 seo_title: "Mom's Secret 100% Natural Foundation, Organic, Veg Review"
 meta_description: "Our full mom's secret 100% natural foundation, organic, vegan, aloe b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07LBZVSYB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Xkz9KFwTL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most "clean beauty" foundations are either glorified tinted moisturizers or chalky messes that cling to dry patches. Mom's Secret 100% Natural Foundation sits in a rare middle ground — it actually performs like a foundation while keeping a botanical ingredient list that reads like a skincare label.

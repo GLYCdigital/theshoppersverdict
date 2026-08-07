@@ -1,4 +1,5 @@
 ---
+
 title: "Burt's Bees Nourishing Lip Balm"
 seo_title: "Burt's Bees Nourishing Lip Balm Review (2026): Worth It?"
 meta_description: "Honest Burt's Bees Nourishing Lip Balm review: performance, ingredients, and real buyer feedback. Is this 4.7-star lip balm worth your money? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00OD36IMY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+5afosHAL._SL1500_.jpg"
-pros:
+pros: 
   - "Deeply moisturizing cocoa butter and shea butter base that actually lasts through several hours of wear"
   - "Clean ingredient list with no parabens, phthalates, or synthetic fragrances — just plant-based oils and waxes"
   - "Smooth, non-greasy finish that works as a base under lipstick or alone for everyday hydration"
-cons:
+cons: 
   - "Tube format requires squeezing and can crack at the base if you're aggressive with it (common complaint)"
   - "Scent is mild but slightly waxy — not the sweet vanilla or fruity profiles some competing balms offer"
   - "Not a medicated treatment; won't fix severely cracked or chapped lips that need lanolin or menthol"
+
 ---
 
 Let's cut to it: this is the lip balm that's been sitting in your grandma's purse, your coworker's desk drawer, and probably your gym bag for the last decade. **Burt's Bees Nourishing Lip Balm** has earned its 4.7-star rating across 235 Amazon reviews for one simple reason — it does exactly what it claims, without pretending to be something it's not.

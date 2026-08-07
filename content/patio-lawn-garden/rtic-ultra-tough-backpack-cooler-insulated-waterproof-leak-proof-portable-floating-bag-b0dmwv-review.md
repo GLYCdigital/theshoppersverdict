@@ -1,4 +1,5 @@
 ---
+
 title: "RTIC Ultra-Tough Backpack Cooler, Insulated, Waterproof, Lea"
 seo_title: "RTIC Ultra-Tough Backpack Cooler, Insulated, Water Review"
 meta_description: "Our full rtic ultra-tough backpack cooler, insulated, waterproof, lea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DMWVFC98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718u6XtI0dL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Space-saving and portable design"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **RTIC Ultra-Tough Backpack Cooler: The Real Story Behind the 4.5 Stars**

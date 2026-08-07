@@ -1,4 +1,5 @@
 ---
+
 title: "BYYVOO Abstract Washable Hallway Runner Rug Machine Washable"
 seo_title: "BYYVOO Washable Hallway Runner Rug Review (2026)"
 meta_description: "Honest BYYVOO washable hallway runner rug review: non-slip, machine washable, abstract design. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYDR412J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91AJ8FAr6JL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True machine-washable construction with low-pile design that dries fast and comes out of the dryer looking fresh"
   - "Non-slip TPR backing holds firmly on hardwood and tile without curling at the edges"
   - "Abstract print hides dirt and pet hair between cleanings — a practical choice for high-traffic zones"
-cons:
+cons: 
   - "Thin underfoot — not suitable if you want plush cushioning for standing long periods"
   - "Limited to flat-weave aesthetics; the print can look slightly muted in low-light hallways"
+
 ---
 
 ## Is This Runner Actually Worth Your Hallway Space?

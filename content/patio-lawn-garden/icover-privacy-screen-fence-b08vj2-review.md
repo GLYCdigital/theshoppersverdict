@@ -1,4 +1,5 @@
 ---
+
 title: "iCover Privacy Screen Fence"
 seo_title: "iCover Privacy Screen Fence Review: Verdict | TSV"
 meta_description: "Our full icover privacy screen fence review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08VJ2KPPL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yFTU+DkHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your neighbor's balcony is close enough to count the pores on their nose, you've probably already spent an embarrassing amount of time thinking about privacy screens. The iCover Privacy Screen Fence is one of the highest-rated options on Amazon — 4.5 stars from 225 shoppers — and after digging into the specs and customer feedback, here's what you actually need to know before clicking buy.

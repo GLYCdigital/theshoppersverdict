@@ -1,4 +1,5 @@
 ---
+
 title: "Shenmoyl Crystal Wall Sconce, Rechargeable Battery Powered W"
 seo_title: "Shenmoyl Crystal Wall Sconce, Rechargeable Battery Review"
 meta_description: "Our full shenmoyl crystal wall sconce, rechargeable battery powered w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DW3X1YT8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712qnnte-mL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about what a battery-powered wall sconce actually is: a compromise. You're trading hardwired permanence for the freedom to put light anywhere. The Shenmoyl Crystal Wall Sconce leans into that tradeoff hard — and mostly wins.

@@ -1,4 +1,5 @@
 ---
+
 title: "Jiva Organic Cloves Whole - Non-GMO, Non Irradiated - Dried "
 seo_title: "Jiva Organic Cloves Whole - Non-GMO, Non Irradiate Review"
 meta_description: "Our full jiva organic cloves whole - non-gmo, non irradiated - dried  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BL3DQV8F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zv1pRySmL._SL1437_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve ever bought a jar of cloves from a grocery store and found them tasting like dusty cardboard by week two, Jiva’s whole cloves are the corrective you didn’t know you needed. These aren’t the sad, pale buds that sit on shelves for months. As shown in the product image, they’re dark, oily, and visibly intact — the kind of cloves that make your kitchen smell like a spice market the second you open the pouch.

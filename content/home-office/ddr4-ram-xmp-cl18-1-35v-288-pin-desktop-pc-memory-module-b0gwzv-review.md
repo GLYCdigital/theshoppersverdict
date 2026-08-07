@@ -1,4 +1,5 @@
 ---
+
 title: "DDR4 RAM XMP CL18 1.35V 288-pin Desktop PC Memory Module wit"
 seo_title: "DDR4 RAM XMP CL18 1.35V Review: Is It Worth Buying? (2026)"
 meta_description: "Honest DDR4 RAM XMP CL18 1.35V 288-pin review. See real performance, compatibility, and value before you buy. 4.5/5 rated, 225+ reviews analyzed."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GWZVQFBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nc5IJbWIL._AC_SL1437_.jpg"
-pros:
+pros: 
   - "XMP 2.0 profile hits advertised 3600MT/s CL18 at 1.35V with zero manual tuning on most AM4 and Intel 12th-gen+ boards"
   - "Aluminum heat spreader keeps modules under 50°C even in poorly ventilated cases during extended gaming sessions"
   - "Single-rank Samsung or Hynix dies (depending on batch) that overclock headroom to 3800MT/s with tightened timings if you're willing to tinker"
-cons:
+cons: 
   - "No RGB or aesthetic options — this is a plain, functional stick that won't win any build contests"
   - "XMP stability varies on older Ryzen 1000/2000 series boards; you may need to drop to 3200MT/s manually"
   - "Lack of product branding means warranty support goes through the seller, not a dedicated manufacturer RMA line"
+
 ---
 
 Let's cut through the noise. You're looking at a bare-bones DDR4 stick with "XMP CL18 1.35V" in the title and no brand name screaming at you. That's either a red flag or a smart buy, depending on what's actually under that aluminum heat spreader.

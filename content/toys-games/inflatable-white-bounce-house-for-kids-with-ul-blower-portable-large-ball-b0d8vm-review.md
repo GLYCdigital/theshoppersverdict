@@ -1,4 +1,5 @@
 ---
+
 title: "Inflatable White Bounce House for Kids with UL Blower-Portab"
 seo_title: "Inflatable White Bounce House Review: Is It Worth It? (2026)"
 meta_description: "Read our honest Inflatable White Bounce House for Kids review. Covers durability, blower power, setup time, and safety. See if it's right for your backyard."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D8VMV47V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71h2pKNsRCL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Reinforced seams and commercial-grade PVC material hold up to daily use without punctures"
   - "UL-listed blower maintains consistent airflow, keeping the structure fully inflated even with multiple kids inside"
   - "Setup takes under 5 minutes with the included stakes and sandbags; no tools required"
-cons:
+cons: 
   - "White fabric shows grass stains and dirt quickly — plan to clean it after every use"
   - "Blower cord is only 10 feet, so you'll likely need an extension cord for most backyard layouts"
+
 ---
 
 Let’s be blunt: most inflatable bounce houses under $200 are flimsy, underpowered, and deflate the moment a third kid hops in. This white bounce house with its UL-listed blower is trying to be the exception. After digging through the 220 ratings and the 4.4-star average, here’s the real story.

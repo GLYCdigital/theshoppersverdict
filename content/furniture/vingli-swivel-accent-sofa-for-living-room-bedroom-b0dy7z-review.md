@@ -1,4 +1,5 @@
 ---
+
 title: "VINGLI Swivel Accent Sofa for Living Room, Bedroom"
 seo_title: "VINGLI Swivel Accent Sofa for Living Room, Bedroom Review"
 meta_description: "Our full vingli swivel accent sofa for living room, bedroom review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DY7ZXYJ9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81v4baAkAIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Opening Hook: The Swivel Factor**

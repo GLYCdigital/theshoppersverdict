@@ -1,4 +1,5 @@
 ---
+
 title: "ASURION 3 Year Home Improvement Protection Plan ($800 - $899 inch"
 seo_title: "ASURION 3 Year Home Improvement Protection Plan Review"
 meta_description: "Honest ASURION 3 Year Home Improvement Protection Plan review covering coverage limits, claim process, exclusions, and whether it's worth the cost."
@@ -11,14 +12,15 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07P5HMPM8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DKa7ArsgL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Covers mechanical and electrical failures from day one, including pre-existing conditions at time of purchase"
   - "Claim process is straightforward with 24/7 phone and online filing; most claims approved within 48 hours"
   - "Transferable if you sell the covered item, which adds resale value"
-cons:
+cons: 
   - "Doesn't cover cosmetic damage, normal wear and tear, or consumable parts like batteries and filters"
   - "Reimbursement caps at the original purchase price, so you won't get more than you paid"
   - "Some buyers report longer wait times for in-home repair appointments compared to manufacturer warranties"
+
 ---
 
 You're staring at a $900 price tag for a protection plan and wondering if it's a safety net or a money pit. Here's the unvarnished truth: the ASURION 3 Year Home Improvement Protection Plan is one of the most comprehensive third-party warranties you can bolt onto pricey tools and appliances—but it's not for everyone.

@@ -1,4 +1,5 @@
 ---
+
 title: "Axial RC Truck 1/10 SCX10 III Base Camp 4X4 Rock Crawler Bru"
 seo_title: "Axial SCX10 III Base Camp Review: Best 1/10 Crawler?"
 meta_description: "Our Axial SCX10 III Base Camp 4X4 review: real-world crawling performance, build quality, and value for beginners and pros alike."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN3DDDK6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bh5Zq0TBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Factory-installed 2-speed transmission with overdrive front axle — a $100+ upgrade value out of the box"
   - "AR45 portal axles deliver 4.7 inches of ground clearance without sacrificing low center of gravity"
   - "Steel C-channel frame rails and aluminum skid plate handle hard abuse without flexing"
-cons:
+cons: 
   - "RTR electronics are entry-level; the brushed motor lacks low-speed torque control for technical crawling"
   - "Body clips are notoriously stubborn — you'll want a magnetic mount conversion within the first month"
   - "Stock tires are decent but too hard for slick rock; budget for better rubber if you crawl wet granite"
+
 ---
 
 The Axial SCX10 III Base Camp sits in an odd spot in the 1/10 crawler market. It's not the cheapest RTR you can buy, and it's not the most premium either. But after 235 Amazon ratings averaging 4.7 stars, the market has spoken. I've spent weeks with this rig on everything from backyard log piles to proper rock gardens, and here's the honest breakdown.

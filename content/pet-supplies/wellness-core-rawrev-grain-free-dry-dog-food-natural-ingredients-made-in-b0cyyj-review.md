@@ -1,4 +1,5 @@
 ---
+
 title: "Wellness CORE RawRev Grain-Free Dry Dog Food, Natural Ingred"
 seo_title: "Wellness CORE RawRev Grain-Free Dry Dog Food, Natu Review"
 meta_description: "Our full wellness core rawrev grain-free dry dog food, natural ingred review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYYJB3KD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cGlGNV3lL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If your dog turns up their nose at ordinary kibble but you're not ready to commit to a full raw diet, Wellness CORE RawRev sits in a smart middle ground.** It's a high-protein grain-free kibble with freeze-dried raw turkey pieces mixed right in. The idea is simple: give dogs the convenience of dry food with the nutritional punch of raw. At 4.4 stars across 220 ratings, most owners report it delivers — but there are a few things worth knowing before you buy.

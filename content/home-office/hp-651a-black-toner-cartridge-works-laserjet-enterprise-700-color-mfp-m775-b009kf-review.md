@@ -1,4 +1,5 @@
 ---
+
 title: "HP 651A Black Toner Cartridge | Works LaserJet Enterprise 70"
 seo_title: "HP 651A Black Toner Cartridge | Works LaserJet Ent Review"
 meta_description: "Our full hp 651a black toner cartridge | works laserjet enterprise 70 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B009KFSUUS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612dWVxkULL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about office toner: you're not buying this for fun. You're buying it because the printer in the corner of your office just flashed a warning, and the pile of contracts on your desk isn't going to print itself. The HP 651A black toner cartridge is the OEM option for the LaserJet Enterprise 70 series, and it's the cartridge that keeps busy offices running. Here's what you actually need to know before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "WD_BLACK SN850 NVMe SSD"
 seo_title: "WD_BLACK SN850 NVMe SSD Review: Verdict | TSV"
 meta_description: "Our full wd_black sn850 nvme ssd review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGT6BF4D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RQtAID8sL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # WD_BLACK SN850 NVMe SSD: The 4.8-Star Drive That Actually Earns Its Hype

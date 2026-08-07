@@ -1,4 +1,5 @@
 ---
+
 title: "Bones Coffee Company Sample Packs Medium Roast Coffee Bevera"
 seo_title: "Bones Coffee Sample Packs Review: Medium Roast Flavors"
 meta_description: "Bones Coffee sample packs medium roast review: bold flavors, real ingredient quality, and which 2-oz bags are worth your money. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FL8QXN46/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719IcMgUTiL._SL1200_.jpg"
-pros:
+pros: 
   - "2-ounce sample bags let you test 8+ flavors without committing to a full 12-ounce bag that might end up in the back of your cupboard"
   - "Real ingredient flavoring — maple, caramel, and chocolate notes come from actual syrups and spices, not artificial chemical aftertaste"
   - "Medium roast base is smooth enough to drink black but holds up well to milk and sweetener"
-cons:
+cons: 
   - "Sample bags are single-use pouches — no resealable zipper, so you need your own container if you don't finish a bag in one sitting"
   - "Flavor intensity varies significantly between blends — some taste bold and obvious, others are more subtle and might disappoint if you expect a punch"
+
 ---
 
 Let me be upfront: I've tested dozens of flavored coffee sample packs, and most of them taste like someone sprayed perfume on cheap beans. The Bones Coffee Company Medium Roast Sample Pack is different — but it's not perfect either. Here's what 229 Amazon reviewers and my own testing actually revealed.

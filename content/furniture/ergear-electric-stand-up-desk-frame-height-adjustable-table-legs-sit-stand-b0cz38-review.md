@@ -1,4 +1,5 @@
 ---
+
 title: "ErGear Electric Stand up Desk Frame Height Adjustable Table"
 seo_title: "ErGear Electric Stand Up Desk Frame Review (2026): Worth It?"
 meta_description: "ErGear electric stand up desk frame review: dual-motor stability, 275-lb capacity, 3 memory presets. Honest pros, cons & who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZ38SG5X/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51SL7JBow1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual-motor design lifts up to 275 lbs smoothly, even with heavy dual-monitor setups and a desktop attached"
   - "Three programmable height presets let you switch between sitting and standing positions with a single button tap"
   - "Anti-collision detection stops the desk automatically if it hits an obstacle, protecting your gear and the frame"
-cons:
+cons: 
   - "Frame only — you must supply your own desktop, which adds hidden cost and assembly complexity for first-time buyers"
   - "Cable management tray is sold separately, so you'll spend extra to keep wires organized"
   - "Assembly requires two people for the heaviest parts; the frame ships at around 60 lbs and can be awkward solo"
+
 ---
 
 The ErGear Electric Stand Up Desk Frame is the rare product that delivers exactly what it promises: a rock-solid, whisper-quiet lift mechanism that turns any flat surface into a full sit-stand workstation. If you already own a desktop you love, this frame is the smartest upgrade you can make to your home office. If you're starting from scratch, it's still a compelling option — just budget for a tabletop.

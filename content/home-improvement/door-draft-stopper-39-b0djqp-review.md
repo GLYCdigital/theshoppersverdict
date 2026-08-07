@@ -1,4 +1,5 @@
 ---
+
 title: "Door Draft Stopper, 39â€"
 seo_title: "Door Draft Stopper 39 Inch Review: Does It Block Cold Air?"
 meta_description: "Honest review of the 39-inch door draft stopper. Does it block drafts, noise, and light? Read pros, cons, and real buyer feedback before buying."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJQPT2KM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41BQ30y6VVL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Full 39-inch coverage seals standard interior and exterior doors completely, with no gap at the corners"
   - "Flexible fabric shell conforms to uneven floor surfaces, unlike rigid plastic alternatives"
   - "Slip-on design requires zero tools or adhesive — installs in under a minute"
-cons:
+cons: 
   - "Smooth bottom slides on carpet but can shift on hard floors if the door is opened frequently"
   - "Not a permanent solution; the fabric compresses over months of heavy use and needs readjustment"
+
 ---
 
 **A 39-inch strip of fabric shouldn’t be this divisive — yet here we are.**

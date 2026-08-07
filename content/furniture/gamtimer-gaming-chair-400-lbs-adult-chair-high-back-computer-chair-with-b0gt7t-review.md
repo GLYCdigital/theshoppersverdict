@@ -1,24 +1,26 @@
 ---
+
 title: "Gamtimer Gaming Chair, 400 lbs Adult Chair, High Back Comput"
 seo_title: "Gamtimer Gaming Chair Review: 400 Lb Capacity, High Back"
 meta_description: "Honest Gamtimer Gaming Chair review: 400 lb capacity, high back, 4.0-star Amazon rating. Is it worth it? Pros, cons, and verdict inside."
 slug: "gamtimer-gaming-chair-400-lbs-adult-chair-high-back-computer-chair-with-b0gt7t-review"
 image_alt: "Gamtimer gaming chair with high backrest and heavy-duty frame supporting up to 400 lbs"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 200  
-amazon_rating: 4.0  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 200
+amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT7T1XNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ask4HinsL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "400 lb weight capacity — genuinely rare in this price bracket, with reinforced steel frame and wider seat base"  
   - "High backrest (about 33 inches tall) provides solid neck and shoulder support for taller users (6'2 inch+)"  
   - "Assembly takes under 30 minutes — tools and clear instructions included, no frustrating guesswork"  
-cons:  
+cons: 
   - "Seat cushion runs firm for the first two weeks — several buyers report it needs a break-in period"  
   - "Armrests are fixed (no height or angle adjustment), which limits custom ergonomic positioning"  
   - "Synthetic leather can feel sticky in warm rooms; breathability isn't its strong suit"
+
 ---
 
 **The 400-lb Gaming Chair That Doesn't Nickel-and-Dime You — Gamtimer Review**

@@ -1,4 +1,5 @@
 ---
+
 title: "8BitDo Lite 2 Bluetooth Gamepad for Switch, Switch Lite, And"
 seo_title: "8BitDo Lite 2 Review: Compact Switch Pro Controller Alternative"
 meta_description: "8BitDo Lite 2 Bluetooth Gamepad review: a compact, travel-friendly Switch controller with gyro and turbo. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B3F7632V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/613GRhGoVJL._SL1500_.jpg"
-pros:
+pros: 
   - "True 2.4GHz wireless mode for Switch with no adapter needed—just pair and play"
   - "Gyro aiming works in both Switch and Android modes, a rarity at this price point"
   - "D-pad is genuinely excellent for 2D platformers and fighting games, better than the Pro Controller's"
-cons:
+cons: 
   - "No analog triggers—feels cheap for racing games and makes fine throttle control impossible"
   - "Smaller than a standard Pro Controller; larger hands will cramp during long sessions"
+
 ---
 
 If you’ve ever stuffed a full-size Pro Controller into a backpack for a flight, you know the pain. The 8BitDo Lite 2 is engineered for exactly that scenario—but the compromises it makes to get there are worth understanding before you hit buy.

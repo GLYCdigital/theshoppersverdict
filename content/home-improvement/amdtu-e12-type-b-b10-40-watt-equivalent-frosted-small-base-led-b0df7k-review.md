@@ -1,4 +1,5 @@
 ---
+
 title: "AMDTU E12 Type B B10 40 Watt Equivalent Frosted Small Base L"
 seo_title: "AMDTU E12 B10 LED Bulb Review: 40W Equivalent Frosted"
 meta_description: "Honest AMDTU E12 B10 LED bulb review: 4.6/5 rated, 40W equivalent, frosted finish. Real pros, cons, and who should buy. Read before you purchase."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DF7KW9WC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DSCK9NYzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True candelabra base fit — seats securely in vintage sconces and chandeliers without wobble or adapter shims"
   - "Frosted glass diffuses light evenly with no hot spots or visible filament glare, ideal for exposed-bulb fixtures"
   - "Runs noticeably cool even after hours of use — safe for enclosed fixtures and tight glass globes"
-cons:
+cons: 
   - "Not dimmable — buyers with dimmer switches will need to look elsewhere or replace the switch"
   - "Color temperature skews slightly warm/cool depending on batch — some units measure closer to 2800K than the stated 3000K"
+
 ---
 
 Let's be blunt: most E12 candelabra bulbs on Amazon are cheap, flickery junk. The AMDTU B10 isn't. With a 4.6-star average across 229 ratings, this little frosted bulb has earned its place in my chandelier — and probably yours too. Here's the full breakdown.

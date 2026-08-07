@@ -1,4 +1,5 @@
 ---
+
 title: "Franklin Sports Pickleball, Tennis + Padel Ball Hopper Tubes"
 seo_title: "Franklin Sports Ball Hopper Tubes Review: Pickleball & Tennis"
 meta_description: "Franklin Sports Pickleball, Tennis + Padel Ball Hopper Tubes review: Durable tube-style hopper for courtside storage. Real pros, cons & verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DL4PR1Z7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61XypY9VebL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Telescoping tube design collapses to under half its extended length for trunk storage"
   - "Vented side slots let balls air dry inside the tube — no trapped moisture smell"
   - "Dual-purpose base works as both a pickup mechanism and a stable standing holder"
-cons:
+cons: 
   - "Tube capacity is stated per sport — you won't fit 15 pickleballs and 15 tennis balls simultaneously"
   - "Pickup mechanism requires a firm push; younger players may struggle with the press-down motion"
   - "No shoulder strap included, so carrying it full between courts is a two-hand job"
+
 ---
 
 If you play more than one racket sport, you've probably got a mixed bag of balls rolling around your trunk. The Franklin Sports Pickleball, Tennis + Padel Ball Hopper Tubes tries to solve that with one collapsible tube that claims to handle all three. At 4.4 stars from 220 ratings, it's clearly doing something right — but let's dig into whether it's actually the right hopper for how you practice.

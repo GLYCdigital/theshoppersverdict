@@ -1,4 +1,5 @@
 ---
+
 title: "deerdance LED Barn Light, Dusk to Dawn Outdoor Lighting with"
 seo_title: "deerdance LED Barn Light Review: Dusk to Dawn, 10000LM"
 meta_description: "deerdance LED barn light review: 80W, 10000 lumens, dusk-to-dawn photocell. See real pros, cons, and who should buy this $35.99 outdoor fixture."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3XTJQ2B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61+CcZmxrxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dusk-to-dawn photocell with zero wiring headaches — no timer or smart hub required"
   - "10,000 lumens at 5000K actually lights up a full driveway, not just a patch under the fixture"
   - "Die-cast aluminum housing with tempered glass — feels substantial, not like cheap plastic"
-cons:
+cons: 
   - "Photocell sensitivity is fixed — can't adjust threshold, so early morning fog may trigger it"
   - "Mounting bracket requires a standard 4-inch junction box; won't fit older 3-inch boxes without an adapter"
+
 ---
 
 Let me be blunt: most barn lights under $50 are either dim enough to be decorative or built so flimsy they rust within a season. The deerdance LED Barn Light sidesteps both traps, and at $35.99, it's punching well above its price point.

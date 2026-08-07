@@ -1,4 +1,5 @@
 ---
+
 title: "Microplane Home Series Cheese Grater"
 seo_title: "Microplane Home Series Cheese Grater Review: Verdict | TS"
 meta_description: "Our full microplane home series cheese grater review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09MV934BK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Df+49td1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: If you grate cheese more than twice a month, this is the last grater you'll buy. Here's why.**

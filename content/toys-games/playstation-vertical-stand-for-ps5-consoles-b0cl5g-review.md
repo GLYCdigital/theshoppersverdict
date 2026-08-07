@@ -1,4 +1,5 @@
 ---
+
 title: "PlayStation Vertical Stand for PS5Â® Consoles"
 seo_title: "PlayStation Vertical Stand for PS5Â® Consoles Review: Ver"
 meta_description: "Our full playstation vertical stand for ps5â® consoles review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CL5GJDVY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Pkj1KaP+L._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: the PS5 is a massive console. When Sony shipped it, the included plastic base did the bare minimum to keep it upright — and plenty of owners have watched their $500 machine wobble dangerously close to a desk edge. The **PlayStation Vertical Stand for PS5** is Sony's official fix. At 4.7 stars from 235 ratings, it's clearly doing something right. But is it worth your money when a $15 third-party stand exists? Let's dig in.

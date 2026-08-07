@@ -1,4 +1,5 @@
 ---
+
 title: "Cleveland Golf Retreve HB Soft 2 Putter"
 seo_title: "Cleveland Retreve HB Soft 2 Putter Review (2026): Honest Verdict"
 meta_description: "Cleveland Retreve HB Soft 2 Putter review: 4.6/5 rating. Does the ball-retrieving design help your game? Real testing, pros, cons & who should buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFVLCX98/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HuhdCApOL._AC_SL1001_.jpg"
-pros:
+pros: 
   - "Patented ball-retrieval slot on the sole works smoothly — no bending over to fish balls out of the cup"
   - "HB Soft 2 insert delivers a consistently soft, muted feel that golfers with firmer putters will immediately notice"
   - "Stroke-balanced mallet design keeps the face square through impact; 229 ratings at 4.6 stars confirms broad satisfaction"
-cons:
+cons: 
   - "The retrieval slot adds noticeable head weight — some players may find it clumsy on fast greens or for delicate lag putts"
   - "Alignment aid is minimal (single sightline) — if you prefer a triple-track or plumber's-neck visual, this isn't it"
+
 ---
 
 Let me be blunt: most putters are just sticks with a flat face. The Cleveland Retreve HB Soft 2 is different — it has a ball-retrieval slot built into the sole, which sounds gimmicky until you use it. And at 4.6 stars from 229 Amazon ratings, it's clearly not a novelty act.

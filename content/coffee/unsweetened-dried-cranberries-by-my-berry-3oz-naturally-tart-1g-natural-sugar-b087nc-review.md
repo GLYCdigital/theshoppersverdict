@@ -1,4 +1,5 @@
 ---
+
 title: "Unsweetened Dried Cranberries by My Berry | 3oz | Naturally "
 seo_title: "Unsweetened Dried Cranberries by My Berry | 3oz |  Review"
 meta_description: "Our full unsweetened dried cranberries by my berry | 3oz | naturally  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B087NCVRGF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bd92I+-+L._SL1433_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most dried cranberry products on Amazon are basically candy wearing a health halo. Ocean Spray's original Craisins pack 29 grams of added sugar per half-cup. That's why My Berry's 3oz pouch stands out: the label says "unsweetened" and the nutrition panel backs it up with 1g of naturally occurring sugar per serving. That's not a marketing trick — that's the entire cranberry, dried, with nothing else in the ingredient list.

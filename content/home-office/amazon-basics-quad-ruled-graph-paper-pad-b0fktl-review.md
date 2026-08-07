@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics- Quad Ruled- Graph Paper Pad"
 seo_title: "Amazon Basics Quad Ruled Graph Paper Pad Review (2026)"
 meta_description: "Honest Amazon Basics Quad Ruled Graph Paper Pad review: 4.6/5 rating, paper quality, ink bleed tests, perforation strength, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKTLX9TM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714c99F7YJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True 5x5 grid with crisp blue lines that hold up under heavy erasing without smudging"
   - "Perforated sheets tear cleanly along the full length — no jagged edges or ripped corners"
   - "Paper weight handles gel pens and fine-tip markers with minimal ghosting through the page"
-cons:
+cons: 
   - "Cover is thin cardstock that curls at the corners within a week of regular bag carry"
   - "No micro-perforation on the top binding — you must tear from the side, which can be awkward mid-page"
+
 ---
 
 Graph paper is one of those things you don't think about until you're stuck with a pad that bleeds ink, tears crooked, or has grid lines that vanish under a decent eraser. The Amazon Basics Quad Ruled Graph Paper Pad sits firmly in the "surprisingly good for the price" camp — but it's not without quirks.

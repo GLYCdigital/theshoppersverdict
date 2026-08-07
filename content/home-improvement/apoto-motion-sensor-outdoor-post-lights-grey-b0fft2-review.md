@@ -1,4 +1,5 @@
 ---
+
 title: "APOTO Motion Sensor Outdoor Post Lights,Grey"
 seo_title: "APOTO Motion Sensor Outdoor Post Lights Review (2026)"
 meta_description: "Honest APOTO motion sensor outdoor post light review: build quality, brightness, sensor range, and real buyer feedback. See who should buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FFT2M9C4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/7146CHXjXtL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True dual-head design with independent 270° motion sensors covering a wide approach angle"
   - "Durable die-cast aluminum housing with IP65 weatherproofing — built for year-round outdoor exposure"
   - "Two adjustable color temperature settings (3000K warm / 5000K daylight) selected via a switch on the housing"
-cons:
+cons: 
   - "Motion sensor sensitivity is not adjustable — some buyers report it triggering on small animals or passing cars"
   - "Requires hardwiring; no battery or solar option, so installation is a project, not a plug-in"
+
 ---
 
 If you're tired of fumbling for keys in the dark or want a security light that doesn't scream "warehouse," the APOTO Motion Sensor Outdoor Post Light is worth a serious look. This isn't a decorative lantern pretending to be functional — it's a proper security fixture with the aesthetics to pass as a landscape light. At 4.2 stars across 210 ratings, the consensus is clear: this light works, but with a few caveats you need to know before buying.

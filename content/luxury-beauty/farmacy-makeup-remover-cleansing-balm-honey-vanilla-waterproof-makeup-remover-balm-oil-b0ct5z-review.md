@@ -1,4 +1,5 @@
 ---
+
 title: "Farmacy Makeup Remover Cleansing Balm - Honey Vanilla Waterp"
 seo_title: "Farmacy Cleansing Balm Review: Honey Vanilla Waterproof Remover"
 meta_description: "Honest Farmacy Makeup Remover Cleansing Balm review: Does the Honey Vanilla Waterp formula melt waterproof makeup? Find out pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT5Z8C3J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rCS1RLWjL._SL1500_.jpg"
-pros:
+pros: 
   - "Melts stubborn waterproof mascara and long-wear lipstick in under 60 seconds without harsh rubbing"
   - "Honey vanilla scent is natural and subtle, not artificial — comes from actual honey extract and vanilla fruit water"
   - "Transforms from solid balm to silky milk on contact with water; rinses clean with zero greasy residue"
-cons:
+cons: 
   - "Price point sits firmly in luxury territory — you'll pay premium for the honey vanilla experience"
   - "Jar packaging requires clean, dry fingers or a spatula; introduces bacteria risk if you're not careful"
+
 ---
 
 You know that sinking feeling when you're scrubbing your eyes raw at midnight, fighting a losing battle against waterproof mascara? The Farmacy Makeup Remover Cleansing Balm in Honey Vanilla Waterp exists to eliminate that ritual entirely. This isn't just another cleansing balm — it's the one that actually dissolves stubborn, long-wear makeup while making your skin feel like you just finished a spa facial.

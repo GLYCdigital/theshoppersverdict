@@ -1,4 +1,5 @@
 ---
+
 title: "CRAFTSMAN V20 RP Cordless Drill and Impact Driver, Brushless"
 seo_title: "CRAFTSMAN V20 RP Drill & Impact Driver Review (2026)"
 meta_description: "Honest CRAFTSMAN V20 RP brushless drill and impact driver combo review: power, battery life, ergonomics, and real-world tradeoffs. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B92GRBW8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71vfI1AJCHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brushless motors deliver noticeably more runtime and torque than the brushed V20 line—about 30% longer per charge in real use"
   - "The impact driver's 3-speed selector with a precision mode is genuinely useful for cabinet work and trim without stripping screws"
   - "Comes with two 2.0Ah batteries and a charger in the kit, so you can work continuously while one pack charges"
-cons:
+cons: 
   - "The included 2.0Ah batteries are on the smaller side—heavy users will want to buy a 4.0Ah or 5.0Ah pack separately"
   - "No belt clip included for either tool, which is an odd omission for a kit aimed at pros and serious DIYers"
   - "The plastic case is functional but not as rugged as what you get with higher-priced competitors like Milwaukee or DeWalt"
+
 ---
 
 **The CRAFTSMAN V20 RP combo isn't trying to reinvent the cordless drill. It's trying to give you genuinely useful brushless performance without the premium price tag. And for the most part, it succeeds.**

@@ -1,4 +1,5 @@
 ---
+
 title: "Command Small Clear Wire Toggle Hooks, 10 Wall Hook and 12 S"
 seo_title: "Command Clear Wire Toggle Hooks Review: 10 Hooks + 12 Strips"
 meta_description: "Honest Command Small Clear Wire Toggle Hooks review: 4.4-star rated, damage-free wall hooks. See real performance, limits, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B076ZTFGGC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71xsBQidxXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Holds 2.5 lbs per hook reliably when installed per instructions — verified by many buyer reports"
   - "Clear plastic design blends invisibly against white trim and painted walls"
   - "The 10-hook/12-strip bundle means you get spares for mistakes or future use"
-cons:
+cons: 
   - "Not for textured walls — the strip backing won't grip popcorn or heavily stippled surfaces"
   - "2.5 lb limit is firm; exceeding it leads to sudden, noisy failures"
   - "No wire hook swivel — the fixed angle can feel limiting for some hanging orientations"
+
 ---
 
 If you're tired of patching drywall holes every time you rearrange a room, these Command hooks deserve a close look. The Small Clear Wire Toggle Hooks solve a specific problem: hanging things with a wire loop (think string lights, small wreaths, bird feeders) without drilling. At 4.4 stars from 220 ratings, they're not perfect — but they're the best damage-free option I've found in this niche.

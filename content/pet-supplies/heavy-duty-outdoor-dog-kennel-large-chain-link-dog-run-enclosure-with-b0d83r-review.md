@@ -1,4 +1,5 @@
 ---
+
 title: "Heavy Duty Outdoor Dog Kennel - Large Chain Link Dog Run Enc"
 seo_title: "Heavy Duty Outdoor Dog Kennel - Large Chain Link D Review"
 meta_description: "Our full heavy duty outdoor dog kennel - large chain link dog run enc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D83RYB5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81hiLYJNVxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a pet supplies product, the **Heavy Duty Outdoor Dog Kennel - Large Chain Link Dog Run Enc** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

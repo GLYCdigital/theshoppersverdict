@@ -1,4 +1,5 @@
 ---
+
 title: "Charger for MacBook Air 13.6 15 inch Mac Book Pro 14 inch M5 inch"
 seo_title: "Charger for MacBook Air 13.6 & Pro 14 Review (2026)"
 meta_description: "Honest review of the M5 MacBook charger: USB-C 65W output, build quality, heat, and cable durability. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5YH77VF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ATvfRzQiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "65W USB-C PD output actually fast-charges both the M5 MacBook Air and 14-inch Pro — verified by multiple buyers"
   - "Compact folding-prong design is noticeably smaller than Apple's brick, making it genuinely travel-friendly"
   - "Stays cool under sustained load; several reviewers noted it runs cooler than the OEM charger during heavy use"
-cons:
+cons: 
   - "Cable is only 5 feet and non-detachable — short for desk setups where the outlet is under the desk"
   - "Some units shipped with a loose USB-C port that required wiggling to maintain connection (reported by ~5% of reviewers)"
+
 ---
 
 Let me cut through the listing photos and give you the straight story on this third-party 65W charger for the M5 MacBook lineup. At $30–$40 (check current pricing), it's positioned as the budget alternative to Apple's $79 brick. But is it worth shaving $40 off your wallet? Here's what 215 buyers and my own spec analysis reveal.

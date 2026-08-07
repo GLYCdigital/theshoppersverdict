@@ -1,4 +1,5 @@
 ---
+
 title: "Julep Long-Lasting Waterproof Gel Eyeliner Pencil"
 seo_title: "Julep Long-Lasting Waterproof Gel Eyeliner Pencil Review:"
 meta_description: "Our full julep long-lasting waterproof gel eyeliner pencil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07B46FXBG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51QI9xnfatL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The eyeliner that actually stays put — mostly

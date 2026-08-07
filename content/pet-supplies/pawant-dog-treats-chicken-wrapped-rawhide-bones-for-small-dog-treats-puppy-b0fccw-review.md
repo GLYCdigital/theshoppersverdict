@@ -1,4 +1,5 @@
 ---
+
 title: "Pawant Dog Treats Chicken Wrapped Rawhide Bones for Small Do"
 seo_title: "Pawant Dog Treats Chicken Wrapped Rawhide Bones fo Review"
 meta_description: "Our full pawant dog treats chicken wrapped rawhide bones for small do review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCCWCC5C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RJfk54+AL._AC_SL1300_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you've got a small-breed dog that demolishes soft treats in 30 seconds flat, these Pawant chicken-wrapped rawhide bones hit a sweet spot — they're substantial enough to occupy a determined chewer without being so hard that tiny teeth struggle. At 4.5 stars from 225 ratings, the consensus is clear: these are a solid value for small dogs who need a longer-lasting chew.

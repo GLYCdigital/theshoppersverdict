@@ -1,4 +1,5 @@
 ---
+
 title: "Detex EAX500 Battery Powered Door or Wall Mount Exit Alarm,"
 seo_title: "Detex EAX500 Exit Alarm Review: Honest 2026 Verdict"
 meta_description: "Detex EAX500 exit alarm review: loud 95dB siren, battery-powered, wall or door mount. Real pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00CYSLJ5G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51IrngFpSmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "95dB siren is genuinely loud — audible through closed doors and across a warehouse floor"
   - "Runs 2-3 years on a single 9V battery with no wiring or electrician required"
   - "Tamper switch triggers the alarm if someone tries to remove the unit from the wall"
-cons:
+cons: 
   - "Alarm continues for 5 minutes once triggered — no quick way to silence it without the key"
   - "Key override is a small, easy-to-lose barrel key; replacement keys require ordering from Detex"
   - "Housing is plastic, not metal — fine for most uses but not built for heavy abuse"
+
 ---
 
 If you've ever watched a security camera feed of someone propping open a fire door and wandering off, you know the problem. The Detex EAX500 doesn't solve that problem with cameras or cloud subscriptions. It solves it with a 95-decibel siren and a simple principle: when that door opens, the whole building knows.

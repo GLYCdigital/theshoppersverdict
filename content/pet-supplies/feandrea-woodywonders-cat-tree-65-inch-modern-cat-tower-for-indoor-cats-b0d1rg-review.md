@@ -1,4 +1,5 @@
 ---
+
 title: "Feandrea WoodyWonders Cat Tree, 65-Inch Modern Cat Tower for"
 seo_title: "Feandrea WoodyWonders Cat Tree Review (65-Inch, 2026)"
 meta_description: "Honest Feandrea WoodyWonders 65-inch cat tree review: stability, materials, assembly, and whether this modern tower suits large breeds or multi-cat homes."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1RGP3NN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71EJKysbPiL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine engineered wood frame (not particleboard) — holds up to 30 lbs per perch without wobble"
   - "Dual 0.7-inch thick sisal rope posts survived six months of daily scratching in my testing"
   - "Reversible ramp and hideaway cave give senior cats ground-level access while kittens use the upper tiers"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes — the 25-step manual is clear but tedious, and you'll need a drill for the cam locks"
   - "The top perch's 360° swivel is stiff for the first week; some cats under 8 lbs can't rotate it alone"
   - "No replacement parts sold separately — if a sisal post frays, you're buying a whole new unit"
+
 ---
 
 If you've ever watched a 15-pound Maine Coon tip a $40 cat tree onto its side, you know the frustration. The Feandrea WoodyWonders 65-inch tower is engineered for that exact scenario. At 65 inches tall with a 22-inch square base, this isn't a flimsy scratching post — it's a furniture-grade piece designed to anchor itself against enthusiastic climbing.

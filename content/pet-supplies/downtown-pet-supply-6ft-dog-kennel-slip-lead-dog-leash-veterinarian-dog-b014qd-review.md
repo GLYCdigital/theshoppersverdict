@@ -1,4 +1,5 @@
 ---
+
 title: "Downtown Pet Supply - 6ft Dog Kennel Slip Lead Dog Leash - V"
 seo_title: "Downtown Pet Supply Slip Lead Review: 6ft Kennel Leash"
 meta_description: "Honest Downtown Pet Supply 6ft slip lead review: build quality, sizing, real-world use. See why 225+ buyers rate it 4.5 stars and who should skip it."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B014QD6082/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/814MhYdAmbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Braided nylon core with heat-sealed ends resists fraying and chewing far better than typical flat webbing leads"
   - "Slip-loop design with metal stopper ring gives instant control for training or emergency corrections"
   - "6-foot length and 1/2-inch width work for dogs from 25 to 100+ pounds without excessive bulk"
-cons:
+cons: 
   - "No hardware snap — this lead requires the loop to stay around the neck; not for casual strolling"
   - "Sizing runs small for giant breeds; a 120-pound dog may find the neck loop too snug at the smallest setting"
+
 ---
 
 If you've ever watched a vet tech walk a fractious German Shepherd down a clinic hallway, you've seen the tool this leash is copying. The Downtown Pet Supply 6ft Kennel Slip Lead is a working dog's leash — no snaps, no padding, no fuss. It's a loop of braided nylon that tightens when your dog pulls and releases when they relax. Simple, effective, and for the right owner, genuinely indispensable.

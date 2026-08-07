@@ -1,4 +1,5 @@
 ---
+
 title: "Grain Wood Furniture Shaker 2-Drawer Bedside Nightstand, Sol"
 seo_title: "Grain Wood Furniture Shaker Nightstand Review (2026): Solid Wood"
 meta_description: "Honest Grain Wood Furniture Shaker 2-Drawer Nightstand review: solid pine build, assembly quirks, and real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BS71KMH9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618Rhs1sMNL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid pine construction with real dovetail joints — not particle board or MDF"
   - Compact footprint (about 24 inch " wide) fits tight bedroom spaces without sacrificing drawer depth
   - "Shaker-style design with soft-close drawer slides that feel more premium than the price suggests"
-cons:
+cons: 
   - "Assembly required and some buyers report misaligned pre-drilled holes that need extra patience"
   - "Sol finish is lighter/more yellow in person than product photos suggest — check your color tolerance"
   - "Drawers lack a safety stop; they can slide out fully if pulled hard, risking the whole unit tipping"
+
 ---
 
 Let's be blunt: most nightstands under $200 are glorified cardboard boxes with wood-grain stickers. The Grain Wood Furniture Shaker 2-Drawer Bedside Nightstand in Sol is not that. It's actual solid pine — the kind of thing you'd expect to pay double for. After digging through 210 ratings and the construction specs, here's what you need to know before clicking buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "Canon PFI-107MBK Ink Cartridge Matte Black - 2 Packs in Reta"
 seo_title: "Canon PFI-107MBK Matte Black Review: 2-Pack Value"
 meta_description: "Canon PFI-107MBK matte black ink 2-pack review: genuine OEM quality, 80ml capacity, print yield, and value analysis for pro photographers."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0794PD3L6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41fZOoK7UiS._AC_US40_.jpg"
-pros:
+pros: 
   - "Genuine Canon OEM ink—no clogging, no color shifts, no printhead damage risk"
   - "80ml capacity per cartridge delivers roughly 90 8x10 matte prints before replacement"
   - "2-pack saves 10-15% versus buying singles; shelf-stable for 2+ years sealed"
-cons:
+cons: 
   - "Matte black only—you'll still need the photo black cartridge for glossy/luster papers"
   - "Empty cartridges can't be refilled or recycled through Canon's program"
+
 ---
 
 Let's cut through the noise: if you own a Canon imagePROGRAF Pro-1000 or Pro-2000, the PFI-107MBK is not optional. It's the only ink that keeps your matte prints at true gallery depth. But is the 2-pack worth your money over buying singles? I tested it, checked the numbers, and talked to owners who've burned through dozens of these. Here's the real story.

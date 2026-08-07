@@ -1,4 +1,5 @@
 ---
+
 title: "ghd Bodyguard Heat Protectant â€• Heat Protect Hair Spray, L"
 seo_title: "ghd Bodyguard Heat Protectant â€• Heat Protect Hai Review"
 meta_description: "Our full ghd bodyguard heat protectant â€• heat protect hair spray, l review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D7411R2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Nma8yQ6KL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're about to drop $30+ on a heat protectant spray. Here's what you need to know before you click buy.

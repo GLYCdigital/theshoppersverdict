@@ -1,4 +1,5 @@
 ---
+
 title: "Robelle 2604B Pool Stabilizer for Pools"
 seo_title: "Robelle 2604B Pool Stabilizer for Pools Review: Verdict |"
 meta_description: "Our full robelle 2604b pool stabilizer for pools review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZSJ1KTW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61zTEGTtiSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're chasing a green pool all summer, the problem isn't always chlorine — it's that the sun is eating your chlorine before it can do its job. That's the gap the Robelle 2604B Pool Stabilizer is designed to fill. This is cyanuric acid (CYA) in granular form, and at 4.6 stars across 229 ratings, it's clearly doing something right for pool owners.

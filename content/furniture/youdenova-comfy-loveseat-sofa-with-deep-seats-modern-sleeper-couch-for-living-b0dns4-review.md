@@ -1,4 +1,5 @@
 ---
+
 title: "YOUDENOVA Comfy Loveseat Sofa with Deep Seats, Modern Sleepe"
 seo_title: "YOUDENOVA Comfy Loveseat Sofa with Deep Seats, Mod Review"
 meta_description: "Our full youdenova comfy loveseat sofa with deep seats, modern sleepe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DNS4N7MW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Rla5LsKPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # YOUDENOVA Comfy Loveseat: Deep Seats That Actually Deliver

@@ -1,4 +1,5 @@
 ---
+
 title: "C3 3 inch  Stabilized Chlorine Tablets for Swimming Pool and Spa — Review"
 seo_title: "C3 3 inch  Stabilized Chlorine Tablets Review: Pool & Spa Tested"
 meta_description: "Honest C3 3 inch  stabilized chlorine tablets review: 4.6/5 rating, 229 reviews. See how they perform, dissolve rate, and if they're right for your pool."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNS7Q4JF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51nBFMzrvPL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Individually wrapped tablets prevent moisture absorption and chlorine gas buildup in storage"
   - "Slow-dissolve formula holds steady chlorine levels for 5–7 days in most pools"
   - "No calcium buildup or cloudiness — clean dissolution with minimal residue"
-cons:
+cons: 
   - "Not suitable for small above-ground pools under 5,000 gallons — dosing gets tricky"
   - "Cyanuric acid accumulates over time; regular partial drains needed if used exclusively"
+
 ---
 
 If you've ever wrestled with a bucket of fused-together chlorine tablets, you already know why the individually wrapped C3 3" tablets catch your eye. But does the convenience justify the price? After digging through 229 ratings and the chemistry involved, here's the straight story.

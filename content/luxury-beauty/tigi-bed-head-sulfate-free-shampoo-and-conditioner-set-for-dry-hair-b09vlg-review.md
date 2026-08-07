@@ -1,4 +1,5 @@
 ---
+
 title: "TIGI Bed Head Sulfate Free Shampoo and Conditioner Set for D"
 seo_title: "TIGI Bed Head Sulfate Free Shampoo and Conditioner Review"
 meta_description: "Our full tigi bed head sulfate free shampoo and conditioner set for d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09VLG4BRX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KDuTaJlCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've got dry, color-treated, or curly hair, you've probably heard the mantra: ditch the sulfates. The problem? Many sulfate-free shampoos feel like you're washing with watered-down dish soap — no lather, no clean sensation. TIGI Bed Head's sulfate-free duo aims to fix that, and with 215 ratings averaging 4.3 stars, it's clearly connecting with a lot of frustrated shoppers. But is it the hydration hero it claims to be, or just another pretty bottle?

@@ -1,4 +1,5 @@
 ---
+
 title: "Peet's Coffee"
 seo_title: "Peet's Coffee Review: Verdict | TSV"
 meta_description: "Our full peet's coffee review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F85K6BLK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81yRcoJUeXL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most coffee reviews read like the brand wrote them. I'm not doing that. Peet's has been roasting since 1966, and this $44 offering has earned a 4.5-star rating from 225 Amazon shoppers. But is it actually good, or just familiar? Here's the real breakdown.

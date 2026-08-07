@@ -1,4 +1,5 @@
 ---
+
 title: "Dash & Albert Malta Machine Washable Rug, Stripe Pattern"
 seo_title: "Dash & Albert Malta Rug Review: Washable Stripe Rug"
 meta_description: "Honest Dash & Albert Malta Machine Washable Rug review: flat-weave stripe design, real-world durability, and whether the 4.6-star rating holds up."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GGCX4PJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91utUzynikL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flat-woven cotton construction that lies flat immediately — no curling corners or memory creases from the box"
   - "Machine washable on a standard cycle without the rubber backing that typically disintegrates after a few washes"
   - "Substantial 0.25-inch thickness that feels more like a woven textile than a flimsy printed mat"
-cons:
+cons: 
   - "No non-slip backing — you'll need a separate rug pad on hardwood or tile, which adds to the total cost"
   - "Cotton flat-weave shows vacuum marks and foot traffic patterns more visibly than low-pile synthetic rugs"
+
 ---
 
 Here's the thing about most "washable" rugs: they're printed polyester mats with a rubber grip layer that peels, cracks, and ends up in a landfill within a year. The Dash & Albert Malta takes a different approach — it's a genuine flat-woven cotton rug, the kind of construction that's been used for centuries, just with a modern twist: you can throw it in the washing machine.

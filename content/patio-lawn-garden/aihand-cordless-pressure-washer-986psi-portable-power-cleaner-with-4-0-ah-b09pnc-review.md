@@ -1,4 +1,5 @@
 ---
+
 title: "Aihand Cordless Pressure Washer, 986PSI Portable Power Clean"
 seo_title: "Aihand Cordless Pressure Washer Review: 986PSI Power Clean"
 meta_description: "Aihand 986PSI cordless pressure washer review: battery life, real cleaning power, and whether this portable unit beats a hose. Honest verdict inside."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B09PNC9DWL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71U1xmHYaOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True portability — no extension cord or hose required, works anywhere you can carry it"
   - "986PSI is genuinely useful for bikes, patio furniture, and light car washing"
   - "4.0Ah battery delivers ~15-20 minutes of continuous runtime, enough for most small jobs"
-cons:
+cons: 
   - "Battery charges in 4+ hours, so you'll want a second pack for bigger tasks"
   - "Not for heavy grime — moldy concrete or caked-on mud will defeat it"
+
 ---
 
 **The Short Version**

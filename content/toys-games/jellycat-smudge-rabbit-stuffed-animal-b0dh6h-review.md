@@ -1,4 +1,5 @@
 ---
+
 title: "Jellycat Smudge Rabbit Stuffed Animal"
 seo_title: "Jellycat Smudge Rabbit Stuffed Animal Review: Verdict | T"
 meta_description: "Our full jellycat smudge rabbit stuffed animal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DH6H2YYS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KZPRLd4yL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Jellycat Smudge Rabbit is the plush toy equivalent of a cashmere sweater — absurdly soft, slightly overpriced, and something you'll never regret buying.**

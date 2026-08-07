@@ -1,4 +1,5 @@
 ---
+
 title: "Astro Pneumatic Tool 78835 Exhaust Pipe Stretcher Kit"
 seo_title: "Astro Pneumatic 78835 Exhaust Pipe Stretcher Review"
 meta_description: "Honest Astro Pneumatic 78835 exhaust pipe stretcher review. See how this 10-piece kit handles pipe repairs, fits, and whether it's worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BRGRZ885/?tag=tsvglyc-20"
 amazon_image: "https://m.media-mazon.com/images/I/71fno1lm1yL._AC_SL1500_.jpg"
-pros:
+pros: 
   - Includes 10 heat-treated dies covering 1.5 inch " to 2.75 inch " sizes, so you're covered for most passenger exhaust work without buying add-ons
   - "Cold-stretches pipe without needing a torch, saving time and eliminating fire risk near fuel lines"
   - "Solid forged construction holds up to repeated hammer blows without warping or mushrooming"
-cons:
+cons: 
   - "Requires a heavy hammer or press to work — this is a brute-force tool, not a precision instrument"
   - "Smaller dies can gouge thin-wall pipe if you swing too hard; technique matters"
+
 ---
 
 If you've ever wrestled a rusty exhaust pipe that just won't slip over the muffler inlet, you know the drill: heat it, swear at it, beat it, repeat. The Astro Pneumatic Tool 78835 Exhaust Pipe Stretcher Kit attacks that problem from a smarter angle — it cold-stretches the pipe itself so parts mate properly instead of you fighting a tapered fit. With 225 ratings averaging 4.5 stars, this kit has clearly earned its place in serious home garages and pro shops.

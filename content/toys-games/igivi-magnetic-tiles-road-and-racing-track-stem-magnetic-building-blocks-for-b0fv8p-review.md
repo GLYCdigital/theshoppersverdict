@@ -1,4 +1,5 @@
 ---
+
 title: "IGIVI Magnetic Tiles Road and Racing Track, STEM Magnetic Bu"
 seo_title: "IGIVI Magnetic Tiles Road & Racing Track Review: STEM Fun"
 meta_description: "IGIVI Magnetic Tiles Road and Racing Track review: 4.7-star STEM building set. See build quality, magnet strength, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FV8PH9H3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ocVjqzOsL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Magnet strength is noticeably stronger than generic brands — towers and ramps hold together even when kids knock them mid-build"
   - "Includes 4 friction-drive cars that actually roll smoothly on the track pieces, not just decoration"
   - "Road plates are double-sided (smooth on one side, textured on the other), effectively doubling build options"
-cons:
+cons: 
   - "Cars are small and plastic — durable enough for normal play, but aggressive toddlers can crack the wheel axles"
   - "Base set doesn't include enough straight track pieces for long circuits; you'll want a second pack for bigger layouts"
+
 ---
 
 **The short version:** This isn't a basic magnetic tile set. The IGIVI Road and Racing Track combines standard magnetic building squares with dedicated road plates and friction cars, creating a hybrid that keeps kids building *and* racing. At 4.7 stars from 235 ratings, it's clearly doing something right. Here's the honest breakdown.

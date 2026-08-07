@@ -1,4 +1,5 @@
 ---
+
 title: "HTH Swimming Pool Care Algae Guard, Swimming Pool Chemical, "
 seo_title: "HTH Swimming Pool Care Algae Guard, Swimming Pool  Review"
 meta_description: "Our full hth swimming pool care algae guard, swimming pool chemical,  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4W4964T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71eXh23mwgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Algae is the single most frustrating problem in pool ownership. You brush, you shock, you vacuum, and a week later that green tint is back. HTH's Algae Guard claims to break that cycle with a single dose that protects for up to 60 days. After digging through 229 ratings and the chemistry behind it, here's what actually matters.

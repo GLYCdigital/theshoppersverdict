@@ -1,4 +1,5 @@
 ---
+
 title: "Southworth 984C Parchment Specialty Paper Ivory 24 lb. 8 1/2"
 seo_title: "Southworth 984C Parchment Specialty Paper Ivory 24 Review"
 meta_description: "Our full southworth 984c parchment specialty paper ivory 24 lb. 8 1/2 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00006IE2D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/611apD6DxIL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The 4.8-star Southworth 984C Parchment Paper is the closest thing to printing on actual vellum without paying bespoke stationery prices.** If you've ever held a real certificate or a heritage wedding invitation and wondered how they got that aged, textured look, it's this paper — a 24 lb. cotton-blend sheet with an embedded watermark and a subtle, toothy finish that catches light like old-world parchment.

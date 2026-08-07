@@ -1,4 +1,5 @@
 ---
+
 title: "PowerBlock Elite USA 90 Pound Adjustable Dumbbells, Sold in "
 seo_title: "PowerBlock Elite USA 90 Pound Adjustable Dumbbells Review"
 meta_description: "Our full powerblock elite usa 90 pound adjustable dumbbells, sold in  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BSR6JN85/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81mlw5pxakL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be direct: the PowerBlock Elite USA 90s are the most practical adjustable dumbbells you can buy for a home gym — but they're not without quirks. With 235 ratings averaging 4.7 stars, the consensus is clear, yet there are specific tradeoffs you need to know before dropping this kind of money.

@@ -1,4 +1,5 @@
 ---
+
 title: "Akargol RC Boat with LED - Remote Control Boat for Pools and"
 seo_title: "Akargol RC Boat with LED Review: Pool Fun or Frustration?"
 meta_description: "Akargol RC Boat with LED review: speed, battery life, and pool performance tested. See if this remote control boat is worth the buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BPJ8D3H4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WrNra6mBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Bright LED lights are genuinely visible at dusk and make the boat easy to track in murky pool water"
   - "Self-righting hull design flips it back over automatically when it capsizes — a lifesaver for kids"
   - "Dual propeller system delivers surprising speed for a sub-$50 toy boat, easily keeping pace with pool noodles and floats"
-cons:
+cons: 
   - "Battery life runs about 20 minutes per charge, which feels short when kids are in the zone — plan for downtime"
   - "Remote control requires line-of-sight; the signal drops if you walk around a pool umbrella or stand behind a lounger"
+
 ---
 
 # Akargol RC Boat with LED: Honest Review After Pool Testing

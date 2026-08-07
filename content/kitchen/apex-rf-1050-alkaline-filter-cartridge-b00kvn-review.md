@@ -1,4 +1,5 @@
 ---
+
 title: "APEX RF-1050 Alkaline Filter Cartridge"
 seo_title: "APEX RF-1050 Alkaline Filter Review: Worth It? (2026)"
 meta_description: "Honest APEX RF-1050 alkaline filter cartridge review: real performance, lifespan, water taste, and installation tips. See if this mineral filter is right for your home."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00KVNZ4PW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61mvsdcD3bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Adds beneficial minerals (calcium, magnesium, potassium) back into water after RO filtration, improving taste and pH"
   - "Universal 10-inch standard size fits virtually any standard RO system or whole-house housing — no proprietary locking mechanism"
   - "Delivers noticeable pH boost from ~6.5 to 8.5-9.5 at 1 GPM flow rate, verified by multiple reviewers with test strips"
-cons:
+cons: 
   - "No built-in shutoff valve or bypass — water continues flowing through spent media, so you must track replacement by date, not taste"
   - "Initial flush required (5-10 gallons) or you'll get black carbon dust in your first glasses of water"
   - "Not a standalone filter — must be paired with an RO system or carbon filter upstream; doesn't remove contaminants on its own"
+
 ---
 
 # APEX RF-1050 Alkaline Filter Cartridge Review: The Right Way to Fix Flat RO Water

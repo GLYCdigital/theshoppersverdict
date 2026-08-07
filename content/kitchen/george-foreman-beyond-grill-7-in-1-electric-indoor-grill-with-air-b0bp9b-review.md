@@ -1,4 +1,5 @@
 ---
+
 title: "George Foreman Beyond Grillâ„¢ 7-in-1 Electric Indoor Grill "
 seo_title: "George Foreman Beyond Grillâ„¢ 7-in-1 Electric Ind Review"
 meta_description: "Our full george foreman beyond grillâ„¢ 7-in-1 electric indoor grill  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BP9BVJTY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61wez0GZi4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The George Foreman name has been synonymous with indoor grilling since the lean, mean fat-reducing days of the late '90s. But the Beyond Grill 7-in-1 is a different animal entirely. This isn't just a contact grill that squishes your burgers — it's a full countertop cooking station that claims to replace your air fryer, toaster oven, and dehydrator. The 4.6-star rating across 229 reviews suggests it mostly delivers. Here's the real breakdown.

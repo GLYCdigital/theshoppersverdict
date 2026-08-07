@@ -1,4 +1,5 @@
 ---
+
 title: "COVERGIRL Professional 3-in-1 Waterproof Mascara, Very Black"
 seo_title: "COVERGIRL 3-in-1 Waterproof Mascara Review (2026): Does It Hold Up?"
 meta_description: "Honest COVERGIRL Professional 3-in-1 Waterproof Mascara review: lash-building power, smudge resistance, and removal struggles. See if it's worth your money."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM2LSPF3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71LsPvdrZqL._SL1500_.jpg"
-pros:
+pros: 
   - "Three-in-one formula genuinely delivers volume, length, and curl — no layering multiple mascaras needed"
   - "True waterproof performance that survives sweat, tears, and rain without smudging or flaking"
   - "Wand design separates lashes cleanly, minimizing clumping even on the second and third coats"
-cons:
+cons: 
   - "Waterproof formula is notoriously stubborn to remove — you'll need an oil-based makeup remover, not just facial cleanser"
   - "Can feel stiff and brittle on lashes by end of day, especially if you apply more than two coats"
+
 ---
 
 Let's be direct: a 4.3-star rating with 215 reviews tells you this mascara works for most people, but it's not without compromises. Here's the real breakdown.

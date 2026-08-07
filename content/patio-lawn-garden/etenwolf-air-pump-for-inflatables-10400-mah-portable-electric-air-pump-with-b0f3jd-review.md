@@ -1,4 +1,5 @@
 ---
+
 title: "ETENWOLF Air Pump for Inflatables, 10400 mAh Portable Electr"
 seo_title: "ETENWOLF Air Pump Review: 10400 mAh Portable Inflator"
 meta_description: "Honest ETENWOLF 10400 mAh air pump review: fast inflation for pools, SUPs & air mattresses. Battery life, noise level & real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F3JDWGQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61yyw19CVWL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "10400 mAh battery handles 8+ standard pool floats or 2-3 large SUP boards on a single charge"
   - "Three nozzle sizes plus a dedicated deflate port cover common valve types without adapters"
   - "Digital pressure gauge reads in PSI and BAR, with auto-stop at your preset target"
-cons:
+cons: 
   - "Weighs 1.6 lbs — noticeable if you're carrying it in a backpack to a lakeside spot"
   - "At full power, it's loud enough to need ear protection for extended use (measured ~82 dB)"
   - "No car charger cable included — USB-C only, so you'll need a power bank or outlet for top-ups"
+
 ---
 
 If you've ever wrestled a half-deflated paddle board to the water's edge, lungs burning and patience gone, you already know why a portable inflator earns its spot in your gear bag. The ETENWOLF Air Pump with its 10400 mAh battery is aimed squarely at that frustration. After digging through the specs and what 215 Amazon buyers are actually saying, here's the real picture.

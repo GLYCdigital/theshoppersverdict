@@ -1,4 +1,5 @@
 ---
+
 title: "Cosilyt 1/10 Inch Ultra Thin Front Door Mat Rug Indoor Entra"
 seo_title: "Cosilyt Ultra Thin Door Mat Review: Worth It? (2026)"
 meta_description: "Honest Cosilyt 1/10 inch ultra thin door mat review. Tested for grip, durability & cleaning. See pros, cons & who should buy it before you order."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09NTMQYM4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81O9dtBAvcL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "At just 1/10 inch thick, it sits flush under standard doors — no catching, no bump, no trimming required"
   - "Non-slip rubber backing holds firmly on tile, hardwood, and laminate without curling at the edges"
   - "Machine washable and dries flat quickly; owners report it holds color after repeated wash cycles"
-cons:
+cons: 
   - "Ultra-thin profile means it won't trap heavy dirt or absorb big water spills like a thicker mat will"
   - "Some buyers note the darker colors show lint and dust quickly, requiring frequent vacuuming"
+
 ---
 
 The 1/10-inch door mat is a category most shoppers don't even know exists — until they're sick of their entry door scraping over a thick rubber mat every single day. The Cosilyt Ultra Thin Front Door Mat solves that specific annoyance, and with a 4.6-star average across 229 ratings, it's clearly doing something right. But "thin" comes with tradeoffs, and you need to know them before you buy.

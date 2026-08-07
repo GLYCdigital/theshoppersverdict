@@ -1,4 +1,5 @@
 ---
+
 title: "Honda EU3200i 3200 Watt Inverter Generator, Super Quiet 120V"
 seo_title: "Honda EU3200i 3200 Watt Inverter Generator, Super  Review"
 meta_description: "Our full honda eu3200i 3200 watt inverter generator, super quiet 120v review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B72HH4S7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71zKtSMyZ1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Honda EU3200i is the generator people buy when they're done replacing cheap ones. It's not the cheapest 3200-watt option by a long shot — but after 229 Amazon ratings averaging 4.6 stars, the consensus is clear: this is the one that actually lasts.

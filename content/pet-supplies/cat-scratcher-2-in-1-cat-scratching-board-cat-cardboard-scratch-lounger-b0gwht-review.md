@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Scratcher, 2 in 1 Cat Scratching Board, Cat Cardboard, S"
 seo_title: "2 in 1 Cat Scratcher Review: Cardboard Lounge for Cats"
 meta_description: "Honest review of the 2 in 1 Cat Scratcher Board. Is this $28 cardboard lounge worth it? We test durability, cat appeal, and value."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWHT58MX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61q4b+N1L+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Curved corrugated cardboard surface doubles as a scratch pad and a lounge bed, giving two functions in one footprint"
   - "Lightweight design (under 2 lbs) makes it easy to move from room to room or toss when fully worn"
   - "Integrated dangling ball toy adds play value without needing batteries or extra attachments"
-cons:
+cons: 
   - "Cardboard construction means it won't survive aggressive diggers or heavy clawing for more than a few months"
   - "Small size (roughly 15 x 10 inches) is best for kittens and small-to-medium cats, not large breeds"
   - "Loose cardboard bits will scatter on your floor — expect some cleanup duty"
+
 ---
 
 If you've ever bought a cat scratcher that your feline completely ignored, you know the struggle. The 2 in 1 Cat Scratching Board tries to solve that by combining two things cats actually use: a scratching surface and a lounging spot. At $27.99 with a 4.6-star rating across 229 reviews, it's clearly working for a lot of households. But is it the right scratcher for your cat? Let's dig in.

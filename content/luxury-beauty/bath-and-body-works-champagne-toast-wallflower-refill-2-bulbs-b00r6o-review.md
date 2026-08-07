@@ -1,4 +1,5 @@
 ---
+
 title: "Bath and Body Works Champagne Toast Wallflower refill 2 Bulb"
 seo_title: "Champagne Toast Wallflower Refill Review: Worth It? (2026)"
 meta_description: "Honest review of Bath & Body Works Champagne Toast Wallflower refills: scent throw, longevity, value, and how to get the most from your plug-in."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00R6OC1XW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bs2sN-Q+L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Two bulbs per pack means roughly 60 days of continuous fragrance at standard settings"
   - "Champagne Toast is BBW's most consistent crowd-pleaser — sweet, fruity, and never cloying"
   - "Works with any Wallflower plug-in, including older units, so no need to upgrade hardware"
-cons:
+cons: 
   - "Fragrance strength diminishes noticeably in the final week of each bulb's life"
   - "Scent is sweeter than the name suggests — don't expect dry champagne notes"
+
 ---
 
 Let's be honest about what a Wallflower refill actually is: a plastic screw-top bulb holding roughly 1.2 ounces of fragrance oil, designed to wick into a plug-in warmer that disperses scent continuously. The Champagne Toast version comes two bulbs per pack, and if you've ever owned a Bath & Body Works plug-in, you know exactly what you're getting. But is it worth your money? Here's the real breakdown.

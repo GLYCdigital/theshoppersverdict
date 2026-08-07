@@ -1,4 +1,5 @@
 ---
+
 title: "Glass Board"
 seo_title: "Glass Board Review: Verdict | TSV"
 meta_description: "Our full glass board review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CLRC8K7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61shavNcu1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Glass boards have been having a moment in modern offices, and this one from Amazon's B0CLRC listing is among the most-purchased options — 204 ratings at 4.1 stars. The question is whether it actually delivers the sleek, ghost-free experience the category promises, or if you're just paying for aesthetics. I've dug through the customer feedback and spec details to give you the straight answer.**

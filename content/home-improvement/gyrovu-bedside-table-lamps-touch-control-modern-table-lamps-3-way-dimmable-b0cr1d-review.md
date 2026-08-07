@@ -1,4 +1,5 @@
 ---
+
 title: "GyroVu Bedside Table Lamps,Touch Control Modern Table Lamps "
 seo_title: "GyroVu Bedside Table Lamps,Touch Control Modern Ta Review"
 meta_description: "Our full gyrovu bedside table lamps,touch control modern table lamps  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CR1DR3PN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711weWWwaoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **GyroVu Bedside Table Lamps Review: Touch Control That Actually Works**

@@ -1,16 +1,17 @@
 ---
+
 title: "HUANUO 32 x 21 inch Small Electric Standing Desk with 2 Drawers, C-Clamp Mount Compatible, Height Adjustable Sit Stand Desk, Home Office Stand Up Desk with 4 Memory Height Settings, Walnut"
 seo_title: "HUANUO 32 x 21 inch Small Electric Standing Desk w Review"
 meta_description: "Our full huanuo 32 x 21 inch small electric standing desk with 2 drawers, c-clamp mount compatible, height adjustable sit stand desk, home office stand up de"
 slug: "huanuo-32-x-21-inch-small-electric-standing-desk-with-2-drawers-review"
 image_alt: "HUANUO 32 x 21 inch Small Electric Standing Desk with 2 Drawers, C-Clamp Mount Compatible, Height Adjustable Sit Stand D"
-keywords:
+keywords: 
   - "huanuo 32 x review"
   - "home office review"
   - "office chair"
   - "desk accessory"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do users like most about the HUANUO 32 x 21 inch Small Electric Standing Desk with 2 Drawers, C-Clamp Mount Compatible, Height Adjustable Sit Stand Desk, Home Office Stand Up Desk with 4 Memory Height Settings, Walnut?"
     answer: "Users consistently praise the good overall value. Many reviews highlight this as the standout feature."
   - question: "What are the common complaints about this product?"
@@ -23,11 +24,12 @@ review_count: 72
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G5N8XYLY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZKBfi989L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Good overall value"
   - "Does what it's supposed to do"
-cons:
+cons: 
   - "May not suit everyone's needs"
+
 ---
 
 **The compact sit-stand desk that actually earns its footprint**

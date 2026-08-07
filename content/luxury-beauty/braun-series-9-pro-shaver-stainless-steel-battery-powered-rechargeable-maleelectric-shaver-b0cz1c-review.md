@@ -1,4 +1,5 @@
 ---
+
 title: "Braun Series 9 Pro+ Shaver Stainless Steel Battery Powered R"
 seo_title: "Braun Series 9 Pro+ Review: Is It Worth the Luxury Price?"
 meta_description: "Our honest Braun Series 9 Pro+ shaver review covers the 4.5-star rated foil shaver's performance, battery life, and drawbacks. Is it worth $300+?"
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZ1C9XLM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71R3syECDoL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "5-blade SyncroSystem cuts dense, coarse hair in 2-3 passes without tugging or razor burn"
   - "AutoSense technology reads hair density 160 times per minute and adjusts power in real time"
   - "Wet/dry design with 60-minute runtime and 5-minute quick charge for travel flexibility"
-cons:
+cons: 
   - "Premium price tag over $300 with cleaning station; replacement heads cost $60+"
   - "No USB-C charging — proprietary plug only, which is frustrating for travel"
   - "Cleaning station is loud and uses expensive cartridges (~$15/month)"
+
 ---
 
 **The $350 Question: Does Braun's Flagship Shaver Justify the Hype?**

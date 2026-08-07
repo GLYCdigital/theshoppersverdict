@@ -1,4 +1,5 @@
 ---
+
 title: "CLOUDY BAY 05 Step Lights"
 seo_title: "CLOUDY BAY 05 Step Lights Review: Worth It in 2026?"
 meta_description: "CLOUDY BAY 05 Step Lights review: 4.5-star rated outdoor step lighting. See real pros, cons, brightness, and if it's worth $99.99."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9F7GBBV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wM1WSR9cL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Die-cast aluminum housing with tempered glass lens — feels premium, survives weather"
   - "Warm 3000K LEDs provide genuine visibility on steps, not just accent glow"
   - "Low-voltage 12V AC/DC design works with standard landscape transformers"
-cons:
+cons: 
   - "Mounting screws are soft — replace with stainless steel before install"
   - "Requires existing low-voltage wiring; no plug-and-play option included"
+
 ---
 
 Let's be direct: most step lights under $100 are plastic junk that yellow within a season. The CLOUDY BAY 05 set isn't that. At $99.99 for five fixtures, you're paying for die-cast aluminum, tempered glass, and a 3000K warm white that actually illuminates treads instead of just decorating them. But there's a catch, and it involves your existing wiring.

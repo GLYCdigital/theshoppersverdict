@@ -1,4 +1,5 @@
 ---
+
 title: "Amada Farmhouse Drawer Dresser for Bedroom, Wood Dresser"
 seo_title: "Amada Farmhouse Dresser Review: Solid Wood, Real Value"
 meta_description: "Honest Amada farmhouse dresser review: 6 spacious drawers, solid wood build, easy assembly. See pros, cons, real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GL1XHPPN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818m3mMZBaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Six full-size drawers with smooth metal glides that hold up under daily use"
   - "Solid wood frame and drawer fronts, not particleboard pretending to be hardwood"
   - "Farmhouse styling with X-beaded drawer fronts that works in modern or rustic rooms"
-cons:
+cons: 
   - "Assembly takes 60-90 minutes — the drawer alignment step requires patience"
   - "Top surface scuffs more easily than the rest of the piece; use a runner or pad"
+
 ---
 
 Let's be direct: most dressers under $300 are engineered wood wrapped in a veneer that chips within a year. The Amada Farmhouse Drawer Dresser isn't that. It's a genuinely solid piece that earns its 4.4-star rating from 220+ buyers — and it has a few quirks you should know about before you click buy.

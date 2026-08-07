@@ -1,4 +1,5 @@
 ---
+
 title: "BookFactory Chemistry Lab Notebook - (8.5 inch  X 11 inch ) - Scientif"
 seo_title: "BookFactory Chemistry Lab Notebook Review: Worth It? (2026)"
 meta_description: "Honest BookFactory Chemistry Lab Notebook review: 4.6-star rated, carbonless pages, scientific grid. Is it worth your money? Real pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06XCRSJZ7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61En4ZMESSL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "100+ numbered pages with scientific grid ruling that aligns perfectly for tables, graphs, and chemical structures"
   - "Carbonless copy pages (duplicate option) so you can tear out the top sheet and keep a permanent record — huge for lab compliance"
   - "Durable waterproof cover and heavy-duty spiral binding that survives actual lab conditions, not just desk use"
-cons:
+cons: 
   - "Paper is thinner than standard lab notebooks — some bleed-through with heavy ink or marker"
   - "No pre-printed table of contents or signature line on every page (you'll hand-write those if your institution requires them)"
+
 ---
 
 If you've ever lost a semester's worth of titration data because your notebook fell apart halfway through, you already know why lab notebooks are not a place to cheap out. The BookFactory Chemistry Lab Notebook is one of the most popular choices on Amazon, sitting at a 4.6-star average across 229 ratings. But popularity alone doesn't make it right for your workflow. Here's what you actually need to know before you buy.

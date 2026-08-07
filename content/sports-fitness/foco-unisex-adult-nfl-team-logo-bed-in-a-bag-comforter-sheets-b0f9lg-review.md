@@ -1,4 +1,5 @@
 ---
+
 title: "FOCO Unisex-Adult NFL Team Logo Bed in a Bag Comforter Sheet"
 seo_title: "FOCO NFL Bed in a Bag Review: Team Bedding That Delivers"
 meta_description: "Honest FOCO NFL Bed in a Bag review: fabric quality, print durability, sizing, and whether this team bedding is worth your money."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9LG58ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/915XVBAV5OL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full 4-piece set (comforter, fitted sheet, flat sheet, pillow sham) at a price that beats buying pieces separately"
   - "Double-brushed microfiber fabric that's noticeably softer after first wash, per multiple verified buyers"
   - "Screen-printed team logos hold up through repeated washing without cracking or peeling"
-cons:
+cons: 
   - "Comforter fill is on the lighter side — not ideal if you sleep cold or want a heavy winter-weight blanket"
   - "Limited to Twin/Full and Queen sizes; no King option for couples who spread out"
+
 ---
 
 Let's be honest: most licensed sports bedding looks like it was designed by someone who's never actually slept in a bed. The FOCO NFL Team Logo Bed in a Bag is different — not dramatically, not revolutionarily, but in the ways that actually matter. After digging through 225 ratings and the specific complaints and praise from verified buyers, here's what you need to know before you commit your bedroom to your team.

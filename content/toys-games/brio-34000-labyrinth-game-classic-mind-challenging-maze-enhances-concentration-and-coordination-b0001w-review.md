@@ -1,4 +1,5 @@
 ---
+
 title: "BRIO 34000 Labyrinth Game - Classic Mind-Challenging Maze |"
 seo_title: "BRIO 34000 Labyrinth Review: Classic Wooden Maze Game"
 meta_description: "BRIO 34000 Labyrinth review: Does this classic wooden maze game deliver? We tested build quality, tilt controls, and whether it's worth buying."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0001WGISK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jAOn05-bL._AC_SL1314_.jpg"
-pros:
+pros: 
   - "Two precision knobs allow smooth, independent tilting control on both axes — far better than cheap one-hand versions"
   - "Solid beechwood frame and board with a durable painted maze surface that holds up to years of play"
   - "Classic 3-hole target design (small, medium, large) gives clear progression from beginner to expert"
-cons:
+cons: 
   - "The silver ball is small and easy to lose — replacements aren't sold separately by BRIO"
   - "No rubber feet or grip pad on the base, so it can slide on smooth tables during intense play"
   - "Simpler maze layout than modern labyrinth variants — advanced players may master it quickly"
+
 ---
 
 If you grew up in the 90s, you probably remember a wooden maze game with two knobs and a steel ball that taunted you from the coffee table. The BRIO 34000 Labyrinth is that exact game — and it's still one of the best-built versions you can buy.

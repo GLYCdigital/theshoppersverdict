@@ -1,4 +1,5 @@
 ---
+
 title: "Sloosh Mower Bubble Machine Toy"
 seo_title: "Sloosh Mower Bubble Machine Toy Review: Verdict | TSV"
 meta_description: "Our full sloosh mower bubble machine toy review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BZVRSFPK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91K3VGf3fsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s cut to it: The Sloosh Mower Bubble Machine is a toy that does exactly what it promises — but the question is whether that promise is worth $20-something of your money. I tested this with a 3-year-old and a 6-year-old over two weeks, on grass, pavement, and a deck. Here’s the real story.

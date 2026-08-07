@@ -1,4 +1,5 @@
 ---
+
 title: "WEN Miter Saw Stand"
 seo_title: "WEN Miter Saw Stand Review: Verdict | TSV"
 meta_description: "Our full wen miter saw stand review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1G9MH9Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Ht6NUfUDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever balanced a 10-foot 2x4 on a sawhorse while trying to make a clean miter cut, you already know why the WEN Miter Saw Stand exists. This isn't a luxury accessory — it's the difference between fighting your workpiece and letting the tool do the work.

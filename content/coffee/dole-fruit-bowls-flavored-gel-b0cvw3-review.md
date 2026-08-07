@@ -1,4 +1,5 @@
 ---
+
 title: "Dole Fruit Bowls Flavored Gel"
 seo_title: "Dole Fruit Bowls Flavored Gel Review: Worth It? (2026)"
 meta_description: "Dole Fruit Bowls Flavored Gel review: Convenient snack cups with real fruit. See pros, cons, and whether these 4.3-star gel cups are worth buying."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CVW37WD4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713dwO1naIL._SL1500_.jpg"
-pros:
+pros: 
   - "Fruit stays firm and fresh-tasting in the gel — no mushy texture"
   - "No added sugar version available; sweetened only with fruit juice"
   - "Single-serve cups are genuinely portable — no can opener or draining needed"
-cons:
+cons: 
   - "Gel consistency is thinner than traditional gelatin desserts — some may find it watery"
   - "Small portion size (about 4 oz) — not a full snack for adults"
   - "Flavor intensity varies by fruit type; peach and pear are milder than pineapple"
+
 ---
 
 Let's be straight about what these are: Dole Fruit Bowls Flavored Gel are single-serve plastic cups of diced fruit suspended in a lightly flavored gel. No spoon required if you're eating on the go, no draining, no mess. That's the pitch. Is it worth your money? I dug through 215 ratings — sitting at a solid 4.3 stars — and tested these against the obvious alternatives to give you the real answer.

@@ -1,4 +1,5 @@
 ---
+
 title: "Holiday Joy - Crystal Clear Torpedo Tip Candelabra Replaceme"
 seo_title: "Holiday Joy - Crystal Clear Torpedo Tip Candelabra Review"
 meta_description: "Our full holiday joy - crystal clear torpedo tip candelabra replaceme review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07KPZM776/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71crl7EP5jL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Problem With Candelabra Bulbs

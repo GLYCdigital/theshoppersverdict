@@ -1,4 +1,5 @@
 ---
+
 title: "KEVIN.MURPHY DOO.OVER - Dry Powder Finishing Hair Spray - Fo"
 seo_title: "KEVIN.MURPHY DOO.OVER - Dry Powder Finishing Hair  Review"
 meta_description: "Our full kevin.murphy doo.over - dry powder finishing hair spray - fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FR8CZRYQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61d31G3DsAL._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most finishing sprays promise volume and deliver helmet-head. The KEVIN.MURPHY DOO.OVER Dry Powder Finishing Spray is different — it's a dry powder that gives you that just-left-the-salon lift without the crunch. But at this price, is it worth it? Here's the honest breakdown.

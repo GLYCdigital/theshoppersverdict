@@ -1,4 +1,5 @@
 ---
+
 title: "SouLight Oven Light Bulb â€“ 40 Watt Appliance Replacement B"
 seo_title: "SouLight Oven Light Bulb â€“ 40 Watt Appliance Rep Review"
 meta_description: "Our full soulight oven light bulb â€“ 40 watt appliance replacement b review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07N6955M6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81MVi0bXJaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: you’re not here because you’re excited about a light bulb. You’re here because your oven went dark mid-Thanksgiving prep, or you’re tired of squinting at casseroles through a dim, greasy window. The SouLight 40W Appliance Replacement Bulb promises a simple fix. After digging through 220 ratings and the product specs, here’s the real story.

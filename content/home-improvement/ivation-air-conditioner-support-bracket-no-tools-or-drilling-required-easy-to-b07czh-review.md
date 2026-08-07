@@ -1,4 +1,5 @@
 ---
+
 title: "Ivation Air Conditioner Support Bracket, No Tools or Drillin"
 seo_title: "Ivation Air Conditioner Support Bracket, No Tools  Review"
 meta_description: "Our full ivation air conditioner support bracket, no tools or drillin review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07CZH178M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61lMRZ71b5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Easy and convenient to use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most window AC brackets fall into two categories: the permanent metal ones that require drilling into your siding, and the flimsy foam blocks that pretend to offer support. The Ivation Air Conditioner Support Bracket sits in a third space — a no-tools, no-drill design that claims to hold your AC securely using tension alone. After digging through 225 ratings and the engineering behind it, here's the real story.

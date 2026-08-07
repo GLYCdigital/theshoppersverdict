@@ -1,4 +1,5 @@
 ---
+
 title: "Al Haramain Amber Oud Black Edition Eau de Perfume Spray for"
 seo_title: "Al Haramain Amber Oud Black Edition Review: Is It Worth It?"
 meta_description: "Al Haramain Amber Oud Black Edition review: unisex luxury perfume with 4.3/5 stars. See how it performs, longevity, and if it's worth the price."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DK2FDTJM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41zA4wsEPhL._SL1024_.jpg"
-pros:
+pros: 
   - "Genuine oud accord that doesn't smell synthetic or screechy — rare at this price point"
   - "8-10 hour longevity on skin with 2+ days on clothing; projects well for first 3 hours"
   - "Unisex formulation that leans slightly masculine but works confidently on women"
-cons:
+cons: 
   - "Opening 10-15 minutes can be sharp and medicinal — needs patience before dry down"
   - "Not a safe blind buy if you're unfamiliar with animalic oud profiles"
+
 ---
 
 ## The Middle Eastern Perfume House That Doesn't Play Games

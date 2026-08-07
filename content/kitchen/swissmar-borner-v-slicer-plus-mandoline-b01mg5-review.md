@@ -1,4 +1,5 @@
 ---
+
 title: "Swissmar Borner V-Slicer Plus Mandoline"
 seo_title: "Swissmar Borner V-Slicer Plus Mandoline Review: Verdict |"
 meta_description: "Our full swissmar borner v-slicer plus mandoline review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01MG5LW7N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71opFh9yh3L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a cooking show and wondered how the chef gets those perfect, uniform matchstick carrots or paper-thin cucumber ribbons, the Swissmar Borner V-Slicer Plus is the answer. This German-engineered mandoline has been a professional kitchen staple for decades, and the Plus version adds enough versatility to replace several single-purpose gadgets on your counter.

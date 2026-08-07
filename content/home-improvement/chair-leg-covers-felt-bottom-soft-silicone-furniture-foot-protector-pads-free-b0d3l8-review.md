@@ -1,4 +1,5 @@
 ---
+
 title: "Chair Leg Covers, Felt Bottom Soft Silicone Furniture Foot P"
 seo_title: "Chair Leg Covers Felt Bottom Review: Do They Protect Floors?"
 meta_description: "Honest chair leg covers review: felt-bottom silicone pads tested for grip, durability, and floor protection. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3L83P1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WCyt6xAgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Felt bottom slides smoothly on hardwood while silicone body grips the leg firmly — no slipping off mid-chair-scoot"
   - "Rounded cup design fits tapered and slightly angled legs up to about 1.5 inches across without cracking"
   - "Quiets chair drag dramatically on tile and laminate — noticeable difference within one push"
-cons:
+cons: 
   - "Silicone can pick up hair and dust quickly; felt bottom needs occasional wiping to stay smooth"
   - "Not ideal for very heavy furniture like recliners — thin walls can deform under sustained weight"
+
 ---
 
 Somewhere between the screech of a dragged chair and the thud of a dropped one, there's a quieter problem: those little rubber caps that just won't stay put. These Chair Leg Covers with a felt bottom try to solve both halves of that equation, and for the most part, they pull it off.

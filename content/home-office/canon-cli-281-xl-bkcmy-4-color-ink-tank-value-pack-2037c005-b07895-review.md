@@ -1,4 +1,5 @@
 ---
+
 title: "Canon CLI-281 XL BKCMY 4-Color Ink Tank Value Pack (2037C005 inch"
 seo_title: "Canon CLI-281 XL Ink Tank Value Pack Review: 4-Color Set"
 meta_description: "Canon CLI-281 XL BKCMY value pack review: page yields, print quality, cost per page, and compatibility. Is this 4-color set worth it? Find out."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07895578F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41pnLAOY4WL._AC_US40_.jpg"
-pros:
+pros: 
   - "XL cartridges deliver roughly 2x the page yield of standard CLI-281 tanks — 447 pages for black, 510 per color"
   - "Genuine Canon pigment-based black ink resists smudging on plain paper and produces crisp text"
   - "Buying all four colors as a value pack typically saves 15-20% versus purchasing individually"
-cons:
+cons: 
   - "No photo black or gray cartridge included — this is a standard dye/CMYK set only"
   - "High cost per page compared to third-party or MegaTank systems if you print heavily"
   - "Some users report cartridges arrive with less ink than expected due to printhead priming on first install"
+
 ---
 
 If you own a Canon PIXMA printer that takes CLI-281 cartridges, you already know the sting of replacing ink. The **Canon CLI-281 XL BKCMY 4-Color Ink Tank Value Pack (2037C005)** bundles all four high-yield tanks — pigment black, cyan, magenta, and yellow — in one box. At a 4.8-star average from 240 ratings, it's clearly doing something right. But is the premium for genuine Canon ink justified, or are you paying for the logo? Let's break it down.

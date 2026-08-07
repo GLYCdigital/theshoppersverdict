@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE F10 LAT 618 Residential F10LAT618 Latitude Lever Pas"
 seo_title: "SCHLAGE F10 LAT 618 Residential F10LAT618 Latitude Review"
 meta_description: "Our full schlage f10 lat 618 residential f10lat618 latitude lever pas review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJ9JK6BT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51mmZp2ObXL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # SCHLAGE F10 LAT 618 Review: The Quiet Workhorse of Interior Doors

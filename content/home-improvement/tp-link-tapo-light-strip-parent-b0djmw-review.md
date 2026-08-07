@@ -1,4 +1,5 @@
 ---
+
 title: "TP-Link Tapo Light Strip Parent"
 seo_title: "TP-Link Tapo Light Strip Parent Review: Verdict | TSV"
 meta_description: "Our full tp-link tapo light strip parent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DJMW8CXX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/813l+uyAt1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** The TP-Link Tapo Light Strip Parent is a 16.4-foot smart RGB LED strip that delivers solid color accuracy, Matter compatibility, and app control at a price that undercuts Philips Hue by a wide margin. It's not perfect — the adhesive is weak and the control box is chunky — but for most people looking to add bias lighting or accent glow, this is the smart buy.

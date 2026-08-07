@@ -1,4 +1,5 @@
 ---
+
 title: "Tiki CAT 759066 8-Pack Puka Puka Chicken Cat Food, 6-Ounce"
 seo_title: "Tiki CAT 759066 8-Pack Puka Puka Chicken Cat Food, Review"
 meta_description: "Our full tiki cat 759066 8-pack puka puka chicken cat food, 6-ounce review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXCF39MK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gaOvElYxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's cut through the marketing. Tiki Cat's Puka Puka Chicken line has a loyal following for one reason: it's about as close to "just chicken" as commercial cat food gets. As shown in the product image, each 6-ounce can is packed with shredded white meat chicken in a light broth — no gravy thickeners, no pea protein, no synthetic binders. The ingredient list is refreshingly short: chicken, chicken broth, and sunflower seed oil. That's it. For cats with sensitive stomachs or poultry allergies to other proteins, this simplicity is the whole point.

@@ -1,4 +1,5 @@
 ---
+
 title: "Godinger Dublin Cocktail Shaker, Martini Shaker, 17oz"
 seo_title: "Godinger Dublin Cocktail Shaker, Martini Shaker, 1 Review"
 meta_description: "Our full godinger dublin cocktail shaker, martini shaker, 17oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNTWXPN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61D4HYZ7KZL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $25 Shaker That Looks Like It Costs Three Times More

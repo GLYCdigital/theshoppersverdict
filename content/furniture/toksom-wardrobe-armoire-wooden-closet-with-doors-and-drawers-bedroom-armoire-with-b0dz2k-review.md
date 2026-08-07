@@ -1,4 +1,5 @@
 ---
+
 title: "TOKSOM Wardrobe Armoire Wooden Closet with Doors and Drawers"
 seo_title: "TOKSOM Wardrobe Armoire Wooden Closet with Doors a Review"
 meta_description: "Our full toksom wardrobe armoire wooden closet with doors and drawers review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DZ2KRSW1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The TOKSOM Wardrobe Armoire: A Space-Saving Solution That Punches Above Its Price Point**

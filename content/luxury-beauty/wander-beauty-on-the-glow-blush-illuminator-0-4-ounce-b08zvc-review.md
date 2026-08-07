@@ -1,4 +1,5 @@
 ---
+
 title: "Wander Beauty On-the-Glow Blush & Illuminator (0.4 Ounce)"
 seo_title: "Wander Beauty On-the-Glow Blush & Illuminator (0.4 Review"
 meta_description: "Our full wander beauty on-the-glow blush & illuminator (0.4 ounce) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08ZVC3NLZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61i2Nj48wTL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me cut through the noise: this is one of those rare beauty products that actually does what its name promises. The Wander Beauty On-the-Glow Blush & Illuminator isn't a gimmick — it's a legitimately smart 2-in-1 that earns its 4.7-star rating across 235 Amazon reviews. Here's what you need to know before you buy.

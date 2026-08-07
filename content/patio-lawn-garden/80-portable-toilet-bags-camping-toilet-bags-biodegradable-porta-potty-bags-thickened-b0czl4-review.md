@@ -1,4 +1,5 @@
 ---
+
 title: "80 Portable Toilet Bags, Camping Toilet Bags, Biodegradable"
 seo_title: "80 Portable Toilet Bags Review: Biodegradable & Durable"
 meta_description: "Honest review of 80 biodegradable portable toilet bags. Are they thick enough? Do they leak? Real buyer feedback, pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZL4WCQL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GU2xcTrKL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-duty material holds up under pressure without tearing, even with sharp objects in the waste"
   - "Gelling powder in each bag locks in liquids and neutralizes odor effectively"
   - "Genuinely biodegradable construction — no guilt leaving the campsite cleaner than you found it"
-cons:
+cons: 
   - "Top tie closure requires a double knot to feel truly secure — single knot can slip"
   - "Pleasant scent is mild, not strong enough to mask heavy odor in enclosed spaces"
+
 ---
 
 Let's be honest about what you're buying here: 80 biodegradable toilet bags that turn a portable camping toilet from a smelly chore into a manageable part of your outdoor routine. At 4.6 stars from 229 ratings, these bags have earned their reputation. But they're not magic — they're plastic-adjacent sacks that need to hold your waste without leaking, tearing, or announcing their contents to the whole campsite.

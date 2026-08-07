@@ -1,4 +1,5 @@
 ---
+
 title: "WhiteFang Skateboards for Beginners, Complete Skateboard 31 "
 seo_title: "WhiteFang Skateboards for Beginners, Complete Skat Review"
 meta_description: "Our full whitefang skateboards for beginners, complete skateboard 31  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BYDCRCW2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NWLjd-f9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Easy to set up and maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most complete skateboards under $60 are toys with delaminated decks and bearings that grind to a halt after a week. The WhiteFang 31" beginner board isn't that. After 229 ratings averaging 4.6 stars, this is one of the few budget completes that actually respects the rider.

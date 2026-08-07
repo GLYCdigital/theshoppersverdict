@@ -1,4 +1,5 @@
 ---
+
 title: "Fire-Maple Fixed Star X2 Camping Stove Propane Backpacking C"
 seo_title: "Fire-Maple Fixed Star X2 Review: 4.6-Star Cooking System"
 meta_description: "Fire-Maple Fixed Star X2 review: 4.6-star backpacking stove with 4500W output. Tested performance, real pros & cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CFPRL38D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qq0CY6t1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4500W output boils 1L in under 3 minutes — genuinely fast for a canister-top system"
   - "Integrated 750ml pot with heat exchanger wraps around the burner for wind resistance"
   - "Collapses to 5.5 inches tall, weighing 13.4oz — fits inside a daypack pocket"
-cons:
+cons: 
   - "Proprietary pot-and-stove mating means you can't swap in your own cookware efficiently"
   - "Piezo igniter is finicky in cold weather; carry a lighter as backup"
   - "Canister sits exposed on uneven ground — needs a flat surface or the optional stabilizer"
+
 ---
 
 **The Fire-Maple Fixed Star X2 isn't just another canister stove.** It's a fully integrated cooking system that challenges the dominance of Jetboil and MSR — at a price that typically undercuts both. With 229 Amazon ratings averaging 4.6 stars, it's clearly earning its keep on trails. But does it deserve a spot in your pack? Here's the honest breakdown.

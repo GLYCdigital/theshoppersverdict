@@ -1,4 +1,5 @@
 ---
+
 title: "Forsalund Mid-Century Modern Counter Height Bar Stools with"
 seo_title: "Forsalund Counter Height Bar Stools Review: Worth It?"
 meta_description: "Honest Forsalund mid-century counter height bar stools review: build quality, comfort, real buyer feedback, and who should buy these boucle stools."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6BJD73Z/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ux3XgrK1L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid rubberwood legs with mid-century tapered profile — genuinely stable, not wobbly"
   - "Boucle upholstery is thick and tightly woven; resists pilling better than most at this price"
   - "Generous 17.7-inch seat depth fits taller users comfortably"
-cons:
+cons: 
   - "Assembly requires aligning bolts blind — plan for 25–30 minutes per stool"
   - "Light-colored boucle shows stains quickly; consider a fabric protector"
   - "No footrest padding — barefoot users may find the metal bar cold"
+
 ---
 
 You've scrolled past 47 bar stools tonight. Most look identical — cheap faux leather, skinny legs, and assembly instructions written by someone who hates you. The Forsalund Mid-Century Counter Height Stool breaks that pattern. It's the one that makes you stop, look twice, and wonder if it's actually as good as the photos suggest. At 4.6 stars across 229 ratings, it's not a fluke. Here's what you're really getting.

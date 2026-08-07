@@ -1,4 +1,5 @@
 ---
+
 title: "Lahome Vintage Floral Rug Washable Non-Slip Soft Rug Living "
 seo_title: "Lahome Vintage Floral Rug Washable Non-Slip Soft R Review"
 meta_description: "Our full lahome vintage floral rug washable non-slip soft rug living  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D9VFDTP7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81gjbumthRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **A floral rug that actually survives real life? Let's dig in.**

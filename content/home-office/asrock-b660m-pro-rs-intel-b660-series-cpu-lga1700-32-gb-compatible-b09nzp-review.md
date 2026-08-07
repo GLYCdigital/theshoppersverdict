@@ -1,4 +1,5 @@
 ---
+
 title: "ASRock B660M Pro RS Intel B660 Series CPU (LGA1700) 32 GB Co"
 seo_title: "ASRock B660M Pro RS Review: LGA1700 Value Pick"
 meta_description: "ASRock B660M Pro RS review: DDR4 support, LGA1700, PCIe 4.0. Is it the right budget board for your 12th-gen build? Read our honest verdict."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09NZPD6WD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8107uOIZKJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full-speed PCIe 4.0 support for GPU and primary M.2 slot, rare at this price point"
   - "DDR4 memory support keeps total build cost down vs. pricier DDR5 boards"
   - "Two M.2 slots with dedicated heatsinks on the primary slot for sustained SSD performance"
-cons:
+cons: 
   - "No Wi-Fi or Bluetooth built in — you'll need a USB adapter or PCIe card for wireless"
   - "VRM heatsinks are adequate but minimal; sustained all-core loads on an i7 can run warm"
   - "Only two fan headers, so cable management for multi-fan cases gets tight"
+
 ---
 
 If you're building a budget 12th-gen Intel rig and the motherboard is the last thing you want to overspend on, the ASRock B660M Pro RS deserves a hard look. This micro-ATX board packs the essentials—PCIe 4.0, dual M.2 slots, and DDR4 support—without the premium markup of Z690 boards you don't need unless you're overclocking. It's not flashy, but it's honest. Here's the full breakdown.

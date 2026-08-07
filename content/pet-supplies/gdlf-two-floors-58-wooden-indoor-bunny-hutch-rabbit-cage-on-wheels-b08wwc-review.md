@@ -1,4 +1,5 @@
 ---
+
 title: "GDLF Two Floors 58 inch  Wooden Indoor Bunny Hutch Rabbit Cage on"
 seo_title: "GDLF 58 inch  Two-Story Wooden Bunny Hutch Review (2026)"
 meta_description: "Honest GDLF 58 inch  two-floor wooden rabbit cage review: spacious, sturdy, on wheels, but assembly takes time. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08WWC5959/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71czxG-h4rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "58 inches wide with two full levels — genuinely roomy for a pair of dwarf breeds or one medium rabbit"
   - "Solid pine wood frame with waterproof coating; holds up against chewing and daily urine exposure"
   - "Four locking casters make it easy to move from room to room without lifting"
-cons:
+cons: 
   - "Assembly is a two-hour project; the included instructions are mostly diagrams and some holes don't align perfectly"
   - "The wire floor grate on the upper level can irritate sensitive feet — you'll want to add a mat or fleece liner"
   - "Removable plastic trays are shallow; a heavy drinker can overflow them, requiring daily checks"
+
 ---
 
 If you're shopping for a rabbit cage, you already know the drill: most options are either too small, too flimsy, or built like a prison cell. The GDLF Two Floors 58" Wooden Hutch tries to split the difference — and for the most part, it lands on the right side of the fence.

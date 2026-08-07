@@ -1,4 +1,5 @@
 ---
+
 title: "DUMOS Ice Makers Countertop with Handle Ice Machine, Fast in"
 seo_title: "DUMOS Countertop Ice Maker Review: Fast Ice in 6 Minutes"
 meta_description: "Honest DUMOS countertop ice maker review: 6-minute ice, handle design, real pros & cons from 195 Amazon ratings. Is it worth buying?"
@@ -11,14 +12,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0F98ZSQ2G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612D+5-MyhL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First batch of 9 bullet-shaped cubes lands in about 6-8 minutes — genuinely fast for a sub-$100 unit"
   - "Integrated handle on the top makes it genuinely portable; easy to move from kitchen to patio without a second hand"
   - "Transparent top window lets you watch ice production without lifting the lid and losing cold air"
-cons:
+cons: 
   - "Holds only 1.5 lbs of ice at a time — roughly 12-15 cubes per cycle, which empties fast with multiple drinkers"
   - "No self-cleaning function; mineral buildup inside the reservoir requires manual descaling every few weeks"
   - "Noise level sits around 50-55 dB during the freezing cycle — noticeable in an open-plan living space"
+
 ---
 
 **The DUMOS countertop ice maker is a study in tradeoffs.** It delivers exactly what the headline promises — ice in about six minutes — but that speed comes with a capacity ceiling that will frustrate some households. After digging through 195 Amazon ratings and the spec sheet, here's what you're actually getting.

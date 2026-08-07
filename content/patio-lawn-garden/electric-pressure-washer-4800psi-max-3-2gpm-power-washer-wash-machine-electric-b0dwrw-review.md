@@ -1,4 +1,5 @@
 ---
+
 title: "Electric Pressure Washer 4800PSI-Max 3.2GPM Power Washer Was"
 seo_title: "Electric Pressure Washer 4800PSI Review: Real Power or Hype?"
 meta_description: "Our honest Electric Pressure Washer 4800PSI-Max 3.2GPM review: real cleaning power, build quality, and whether it beats gas models. Buyer's guide."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWRWNPDD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61gF3MX0CwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "4800PSI max rating (with 3.2GPM flow) genuinely strips years of grime from concrete and siding without the noise/fumes of gas"
   - "Includes 5 quick-connect nozzles (0°, 15°, 25°, 40°, soap) plus turbo nozzle — covers everything from stripping paint to rinsing cars"
   - "35-foot hose and 20-foot power cord give a real 55-foot working radius; no dragging the unit around a typical driveway"
-cons:
+cons: 
   - "Max PSI is peak rating, not sustained output — continuous cleaning settles closer to 3200-3500PSI, so don't expect gas-level pressure the whole time"
   - "No onboard hose reel or storage for the 35-foot hose; you'll coil it by hand or buy a hanger"
+
 ---
 
 Look, I've tested enough pressure washers to know that "4800PSI" on an electric unit usually means the marketing department got drunk with the spec sheet. But this one? It's closer to the real deal than most. With a 4.2-star average across 210 ratings, it's earning its keep on driveways from Ohio to Arizona. Let's break down whether the numbers translate to actual cleaning power.

@@ -1,4 +1,5 @@
 ---
+
 title: "Washable Kitchen Runner Rug for Family: Easy-to-Clean Runner"
 seo_title: "Washable Kitchen Runner Rug for Family: Easy-to-Cl Review"
 meta_description: "Our full washable kitchen runner rug for family: easy-to-clean runner review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRFBNDLX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WWoRcTy4L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Weather-resistant construction for outdoor use"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest about hallway and kitchen rugs: they take a beating. Coffee splatters, muddy boots, pet hair, cereal crushed into the fibers. Most runners end up looking like a crime scene within two months, and the “washable” ones often fall apart in the wash. So when this washable kitchen runner rug arrived, I put it through the wringer — literally.

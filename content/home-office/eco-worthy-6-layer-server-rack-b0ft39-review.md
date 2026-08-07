@@ -1,4 +1,5 @@
 ---
+
 title: "ECO-WORTHY 6-Layer Server Rack"
 seo_title: "ECO-WORTHY 6-Layer Server Rack Review: Worth It? (2026)"
 meta_description: "Honest ECO-WORTHY 6-Layer Server Rack review: build quality, real-world use, and who should buy this 4.4-star rated rack. See pros, cons, and verdict."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FT396DQK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ALcrBkXhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Six-layer design provides ample vertical storage for network gear without consuming excessive floor space"
   - "Open-frame construction promotes airflow, keeping switches and modems cooler than enclosed cabinets"
   - "Tool-free assembly with clearly labeled parts — most buyers report building it in under 30 minutes"
-cons:
+cons: 
   - "Maximum weight capacity per shelf is modest; heavy UPS units or large servers may require reinforcement"
   - "No casters included — you'll need to purchase wheels separately if you want mobility"
   - "Some buyers report the included screws strip easily if over-tightened with a power drill"
+
 ---
 
 If you've ever tangled with a pile of network cables behind your desk, you know the pain. The ECO-WORTHY 6-Layer Server Rack aims to bring order to that chaos — and for most buyers, it delivers. With a 4.4-star average across 220 ratings, this open-frame rack has carved out a solid niche for home lab enthusiasts and small office managers who need organization without the price tag of a full enclosed cabinet.

@@ -1,4 +1,5 @@
 ---
+
 title: "Under Cabinet Range Hood with Push Button Controls, Permanen"
 seo_title: "Under Cabinet Range Hood with Push Button Controls Review"
 meta_description: "Our full under cabinet range hood with push button controls, permanen review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BFZRLLKH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61S6w2YsFAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A Workhorse Hood That Won't Break the Bank**

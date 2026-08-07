@@ -1,4 +1,5 @@
 ---
+
 title: "Ruvup Retractable Air Hose Reel-Metal"
 seo_title: "Ruvup Retractable Air Hose Reel-Metal Review: Verdict | T"
 meta_description: "Our full ruvup retractable air hose reel-metal review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DL3Q6F6W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711r1R4ljiL._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a home improvement product, the **Ruvup Retractable Air Hose Reel-Metal** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

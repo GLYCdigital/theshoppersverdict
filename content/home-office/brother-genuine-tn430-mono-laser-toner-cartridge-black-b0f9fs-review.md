@@ -1,4 +1,5 @@
 ---
+
 title: "Brother Genuine TN430 Mono Laser Toner Cartridge , Black"
 seo_title: "Brother TN430 Toner Review: Honest 2026 Buyer's Guide"
 meta_description: "Brother Genuine TN430 toner review: real-world print tests, page yield claims vs. actual output, compatibility, and value. Is OEM worth it? Find out."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9FSF5ZH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eg7mu7lRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 3,000-page yield at 5% coverage — matches Brother's spec, verified by multiple long-term users"
   - "Lock-tight seal and drum protection strips prevent the toner-dust mess common with third-party cartridges"
   - "Crisp, dense black output on plain paper — no banding, streaking, or gray-cast text even at 600 DPI"
-cons:
+cons: 
   - "Price per page runs ~4–5 cents, nearly double what compatible cartridges cost — you're paying for reliability"
   - "No yield indicator chip feedback — the printer reports empty based on drum rotation, not actual toner level, so you may get 'low toner' warnings with a still-usable cartridge"
+
 ---
 
 **The boring cartridge that just works — and why that matters**

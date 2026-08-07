@@ -1,4 +1,5 @@
 ---
+
 title: "Neenah White Index Cardstock, 300 Sheets, 110 lb/199 gsm, 94"
 seo_title: "Neenah White Index Cardstock, 300 Sheets, 110 lb/1 Review"
 meta_description: "Our full neenah white index cardstock, 300 sheets, 110 lb/199 gsm, 94 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BQFV7QZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61LaNi8s0dL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever watched a 65 lb cardstock sheet flop over in your hands and wondered why it's called "card" stock, the Neenah White Index Cardstock is the answer. At 110 lb (199 gsm), this paper has genuine heft — it stands up on its own, holds a crease, and doesn't buckle when you hit it with a heavy ink layer.

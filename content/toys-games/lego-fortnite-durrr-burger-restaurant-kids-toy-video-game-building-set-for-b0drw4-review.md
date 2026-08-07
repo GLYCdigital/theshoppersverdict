@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO Fortnite Durrr Burger Restaurant Kids Toy - Video Game "
 seo_title: "LEGO Fortnite Durrr Burger Restaurant Kids Toy - V Review"
 meta_description: "Our full lego fortnite durrr burger restaurant kids toy - video game  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DRW49G7P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91rZxAzhP6L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've dropped into Fortnite's Greasy Grove, you know the Durrr Burger — that towering mascot with the vacant stare and the world's most questionable fast-food ethics. LEGO's take on it isn't just a nostalgia grab; it's a genuinely well-designed set that bridges the gap between video game iconography and brick-built play.

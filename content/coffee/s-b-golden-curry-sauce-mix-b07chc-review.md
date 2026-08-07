@@ -1,4 +1,5 @@
 ---
+
 title: "S&B Golden Curry Sauce Mix"
 seo_title: "S&B Golden Curry Sauce Mix Review: Verdict | TSV"
 meta_description: "Our full s&b golden curry sauce mix review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07CHC2FGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pU9d36ngS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 I'll be straight with you: I've tested dozens of instant curry roux blocks over the years, and S&B Golden Curry is the one I keep coming back to. But that doesn't mean it's perfect for everyone. Here's the honest breakdown.

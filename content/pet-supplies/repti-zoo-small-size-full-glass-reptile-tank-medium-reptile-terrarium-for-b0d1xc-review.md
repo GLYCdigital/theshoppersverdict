@@ -1,4 +1,5 @@
 ---
+
 title: "REPTI ZOO Small Size Full Glass Reptile Tank, Medium Reptile"
 seo_title: "REPTI ZOO Small Size Full Glass Reptile Tank, Medi Review"
 meta_description: "Our full repti zoo small size full glass reptile tank, medium reptile review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D1XCMQN6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612gcJmhzWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line:** If you're keeping a juvenile gecko, small snake, or invertebrate, this REPTI ZOO tank does 90% of what a $200 terrarium does at a fraction of the price — but you'll need to work around a couple of design shortcuts.

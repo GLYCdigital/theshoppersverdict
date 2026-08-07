@@ -1,4 +1,5 @@
 ---
+
 title: "NUTS U.S. - California Sun Dried Fancy Apricots"
 seo_title: "NUTS U.S. - California Sun Dried Fancy Apricots Review: V"
 meta_description: "Our full nuts u.s. - california sun dried fancy apricots review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07MLMNHSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61vx0VHVHAL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version:** If you're looking for a dried apricot that tastes like an actual apricot — not a sugar-coated fruit leather imposter — NUTS U.S. delivers. These are whole, pitted California Blenheim apricots, sun-dried the old-fashioned way. They're soft, chewy, and intensely fruity. But at 4.2 stars from 210 ratings, there are a few consistency issues worth knowing before you click buy.

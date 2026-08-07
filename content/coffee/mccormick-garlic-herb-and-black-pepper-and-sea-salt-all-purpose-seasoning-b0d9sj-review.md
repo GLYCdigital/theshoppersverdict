@@ -1,4 +1,5 @@
 ---
+
 title: "McCormick Garlic, Herb and Black Pepper and Sea Salt All Pur"
 seo_title: "McCormick Garlic, Herb and Black Pepper and Sea Sa Review"
 meta_description: "Our full mccormick garlic, herb and black pepper and sea salt all pur review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D9SJFC18/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91Q930r1WLL._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be clear about what this isn't: It's not a coffee maker. But it's the kind of product that makes your morning cup — and everything else — taste better. McCormick's Garlic, Herb, Black Pepper and Sea Salt All Purpose Seasoning is riding high at 4.8 stars from 240 ratings, and after testing it across a week of meals, I get why.

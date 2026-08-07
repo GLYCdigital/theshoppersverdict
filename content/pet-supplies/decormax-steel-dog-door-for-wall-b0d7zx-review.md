@@ -1,4 +1,5 @@
 ---
+
 title: "Decormax Steel Dog Door for Wall"
 seo_title: "Decormax Steel Dog Door Review: Solid Wall-Mount Option"
 meta_description: "Honest Decormax Steel Dog Door review: build quality, installation, real buyer feedback. See pros, cons, and who should buy this wall-mounted pet door."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D7ZXNS44/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Heavy-gauge steel frame and tunnel provide genuine security — far sturdier than plastic alternatives in the same price range"
   - "Double-flap weather seal does an excellent job blocking drafts; buyers in cold climates report noticeable temperature retention"
   - Adjustable tunnel depth (4.5 inch "–7 inch ") fits both standard 2x4 and 2x6 wall construction without custom framing
-cons:
+cons: 
   - "Installation requires precise cutting — the included template helps, but the steel frame leaves zero room for error"
   - "Locking mechanism is a simple slide bolt, not a true security lock; determined dogs can learn to nudge it open"
   - "No interior cover plate included; the exposed steel frame on the inside can look industrial in finished living spaces"
+
 ---
 
 If you're looking at the Decormax Steel Dog Door, you've probably already discovered the dirty secret of the pet door market: most of them are glorified plastic flaps that a determined raccoon (or a 60-pound dog) can tear through in minutes. The Decormax takes a different approach — this is a wall-mounted unit built around a heavy-gauge steel frame that actually feels like it belongs in a house, not a pet store clearance bin.

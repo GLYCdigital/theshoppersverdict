@@ -1,4 +1,5 @@
 ---
+
 title: "Mikolo Anubis-2.0 Smith Machine with Weight Stack, 3Ã—3 All-"
 seo_title: "Mikolo Anubis-2.0 Smith Machine with Weight Stack, Review"
 meta_description: "Our full mikolo anubis-2.0 smith machine with weight stack, 3ã—3 all- review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GW8QDVT3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71otznIeL-L._AC_SL1400_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Promotes learning and development"
   - "Effective for achieving fitness goals"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've been shopping home Smith machines, you've likely run into the same problem I did: most units under $1,500 are flimsy compromises. They wobble at the top of a heavy squat, the safety stops feel like an afterthought, and the "weight stack" turns out to be a plate-loaded system with a cheap cable. The Mikolo Anubis-2.0 is not that machine. This is the rare budget-adjacent Smith that actually feels like commercial gym gear.

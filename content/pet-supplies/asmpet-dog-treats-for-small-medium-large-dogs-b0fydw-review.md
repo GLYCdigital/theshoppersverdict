@@ -1,4 +1,5 @@
 ---
+
 title: "ASMPET Dog Treats for Small Medium Large Dogs"
 seo_title: "ASMPET Dog Treats Review: Worth It for Your Pup?"
 meta_description: "ASMPET Dog Treats for small, medium, large dogs review: ingredients, value, picky eater results, and honest downsides before you buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FYDWN6NX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+ca1TPl5L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Soft-baked texture works for senior dogs and puppies with dental issues"
   - "One formula sized for all breeds — no need to buy separate bags"
   - "Visible real meat chunks in every piece, not just flavor dust"
-cons:
+cons: 
   - "Bag reseal isn't strong; treats can dry out if you don't transfer them"
   - "Some picky eaters may reject the smell — it's potent, not subtle"
+
 ---
 
 You've bought dog treats before that promised "real meat" and delivered sawdust-flavored kibble bits. The ASMPET Dog Treats claim to be different. Are they? I've dug through the specs, the 220 Amazon ratings, and the customer feedback that matters. Here's what you need to know before you add this to your cart.

@@ -1,4 +1,5 @@
 ---
+
 title: "Avery Durable View 3 Ring Binder, Slant Rings, White, 12-Pac"
 seo_title: "Avery Durable View Binder Review: 12-Pack Slant Ring Value"
 meta_description: "Avery Durable View 3-ring binders in a 12-pack: honest review of slant rings, durability, and value. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GT5TGNCS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81RN8ro+-gS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Slant rings hold 25% more paper than standard round rings and make page-turning noticeably easier"
   - "Clear view pockets on spine and front cover let you customize without sticky labels"
   - "At 12 binders per pack, the per-unit cost undercuts most single-binder retail prices"
-cons:
+cons: 
   - "White covers show scuffs and dirt quickly in high-traffic use"
   - "Vinyl material has a slight chemical smell when first unpacked"
+
 ---
 
 Let's be honest about binders: most are boring, flimsy, and fall apart after a semester. The Avery Durable View 3-Ring Binder 12-pack isn't trying to be exciting — it's trying to be the last box of binders you buy for a while. And for most people, it succeeds.

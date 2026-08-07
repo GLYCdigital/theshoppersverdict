@@ -1,4 +1,5 @@
 ---
+
 title: "Brisket Blanket™ - BBQ Blanket for Resting Meat | Heavy Du"
 seo_title: "Brisket Blanket Review: Heavy-Duty BBQ Resting Blanket"
 meta_description: "Read our Brisket Blanket review: heavy-duty insulated BBQ blanket for resting meat. See pros, cons, and if it's worth buying for your smoker."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSJXP9VR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/818UbUCBm6L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Insulated core holds resting temp for 4+ hours, confirmed by multiple reviewers with probe data"
   - "Reversible design with waterproof outer layer and food-safe inner lining that wipes clean"
   - "Heavy-duty construction with reinforced stitching rated for briskets up to 20 lbs"
-cons:
+cons: 
   - "No integrated thermometer port — you'll need to tuck probes through the edge seal"
   - "Bulkier than a standard towel wrap; takes up noticeable cooler space if you use one"
+
 ---
 
 You've just pulled a perfect brisket off the smoker at 203°F. The bark is set, the smoke ring is deep. Now you're about to make the mistake that ruins more barbecue than any temperature spike: letting that meat crash during the rest. A beach towel and a cooler work in a pinch, but they don't hold heat. They just slow the loss. The Brisket Blanket is built to do what a towel can't — hold your meat in a narrow temperature band for hours while the collagen finishes rendering.

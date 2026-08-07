@@ -1,4 +1,5 @@
 ---
+
 title: "True HEPA Filter Replacement"
 seo_title: "True HEPA Filter Replacement Review: Verdict | TSV"
 meta_description: "Our full true hepa filter replacement review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CFYQHY2W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HwzeTdlUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **If you own a canister-style air purifier, this filter replacement is the difference between "clean air" on paper and clean air in your lungs.** Most third-party filters cut corners on media density or frame rigidity. This one doesn't — and that's exactly why it's holding a 4.4-star average across 220 verified purchases.

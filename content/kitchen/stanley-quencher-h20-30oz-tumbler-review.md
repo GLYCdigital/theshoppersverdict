@@ -1,4 +1,5 @@
 ---
+
 title: "STANLEY Quencher H2.0 Tumbler"
 seo_title: "STANLEY Quencher H2.0 Tumbler Review: 30oz, 4.7 Stars"
 meta_description: "STANLEY Quencher H2.0 Tumbler review: 30oz capacity, 40°F cold for 11 hours, leak-resistant lid. Is the viral hype real? Honest pros, cons & verdict."
@@ -11,13 +12,14 @@ review_count: 92925
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51-U5dEbEBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Keeps ice intact for 11+ hours and drinks cold for up to 2 days — verified by thousands of user tests, not just marketing claims"
   - "Ergonomic handle and tapered base fit standard car cup holders (most 30oz tumblers don't)"
   - "Advanced lid with rotating position, reusable straw, and a seal that survives being knocked over in a bag"
-cons:
+cons: 
   - "Hand-wash only — the dishwasher will ruin the vacuum seal and exterior finish over time"
   - "The straw is exposed when the lid is closed; this is splash-resistant, not leak-proof, so don't toss it in a bag sideways"
+
 ---
 
 You've seen it everywhere — in gyms, offices, and glued to the hands of influencers. The STANLEY Quencher H2.0 has become the most recognizable tumbler of the decade, with nearly 93,000 Amazon ratings averaging 4.7 stars. The question isn't whether it's popular; it's whether the hype justifies your $25. After digging through hundreds of verified buyer experiences, here's the honest breakdown.

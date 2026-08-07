@@ -1,4 +1,5 @@
 ---
+
 title: "OttLite Creative Curves LED Desk Lamp with 2.1A USB Charging"
 seo_title: "OttLite Creative Curves LED Desk Lamp with 2.1A US Review"
 meta_description: "Our full ottlite creative curves led desk lamp with 2.1a usb charging review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01D1MX22G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61aQgwgvHDL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # OttLite Creative Curves LED Desk Lamp: A Serious Tool, Not Just a Lamp

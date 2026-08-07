@@ -1,4 +1,5 @@
 ---
+
 title: "Erinde 10 Color Eyeshadow Palette"
 seo_title: "Erinde 10 Color Eyeshadow Palette Review: Worth It? (2026)"
 meta_description: "Honest Erinde 10 Color Eyeshadow Palette review: pigmentation, fallout, blendability, and real buyer feedback. Is this budget palette worth your money?"
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BTSGHGTT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71abnhCQvXL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent pigmentation across all 10 shades — no duds in the pan"
   - "Velvety, blendable mattes that don't go patchy even on bare lids"
   - "Compact 0.35 oz / 10g total weight — travel-friendly without flimsy packaging"
-cons:
+cons: 
   - "Shimmer shades apply best with a finger or damp brush; dry brushes pick up less product"
   - "No mirror in the palette — annoying for on-the-go touch-ups"
   - "Limited shade range skews warm-neutral; cool-toned users will need another option"
+
 ---
 
 **The Erinde 10 Color Eyeshadow Palette: A $20 Palette That Thinks It's Luxury**

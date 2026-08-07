@@ -1,4 +1,5 @@
 ---
+
 title: "Amarine Made Boat Hatch 24 inch  X 14 inch , 180 Degree Lid Hinge Boat"
 seo_title: "Amarine Made Boat Hatch 24x14 Review: 180° Lid Hinge"
 meta_description: "Amarine Made 24x14 boat hatch review: 180° hinge, UV-stable construction, real buyer feedback. Is this $52 deck hatch worth it? Find out before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ4FMJKC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81+FnLA65jL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "True 180-degree lid opening for full, unobstructed access to the compartment below"
   - "UV-stabilized plastic resists fading and brittleness in direct sun exposure"
   - "Includes a pre-installed gasket seal that keeps water out even in heavy spray"
-cons:
+cons: 
   - "Fasteners are not included — you'll need to supply your own screws or bolts"
   - "Lid has no locking mechanism, so it's not theft-deterrent on unsecured boats"
   - "Cutout dimensions require careful measuring; the flange is narrower than some competing hatches"
+
 ---
 
 Let's be direct about what this is: a $52 plastic deck hatch. It's not a piece of marine-grade hardware from a custom shop. But for the price, the Amarine Made 24" x 14" with a 180-degree lid hinge earns its keep on pontoon boats, bass boats, and utility trailers. I've dug through 229 ratings and the buyer feedback to give you the real story.

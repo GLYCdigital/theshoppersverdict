@@ -1,4 +1,5 @@
 ---
+
 title: "Garrett ACE 400 Metal Detector Bundle – Made in the USA"
 seo_title: "Garrett ACE 400 Metal Detector Bundle Review: Worth It?"
 meta_description: "Garrett ACE 400 Metal Detector Bundle review: digital target ID, DD coil, and accessory kit. Is this US-made detector worth the price? Find out."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07RDZTPWD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81npdoI+mgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Digital Target ID with 0-99 scale plus 10-segment visual display — accurate enough to skip pull tabs without digging"
   - DD search coil (8.5 inch " x 11 inch ") provides better ground coverage and edge-to-edge detection than the older concentric coils
   - "Five search modes including custom mode give real flexibility for coin shooting, relic hunting, or beach work"
-cons:
+cons: 
   - "Iron Audio feature is a toggle, not automatic — novices may forget to use it and miss good targets masked by iron"
   - "No wireless headphones in the box; you'll need a separate transmitter if you want to go cable-free"
   - "Fixed 10 kHz frequency means it's not ideal for very small gold nuggets — this is a coin and relic machine"
+
 ---
 
 **Bottom line up front:** The Garrett ACE 400 is the most capable detector in the ACE lineup, and this bundle package adds enough accessories that you won't need to buy anything else for your first season. If you're a coin shooter or relic hunter who wants a serious upgrade from a $100 toy detector without jumping to a $1,000 machine, this is your sweet spot. The 4.7-star average across 235 ratings tells the real story — this thing delivers.

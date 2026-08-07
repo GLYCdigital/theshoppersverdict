@@ -1,4 +1,5 @@
 ---
+
 title: "Covergirl Trublend Matte Made Liquid Foundation"
 seo_title: "Covergirl Trublend Matte Made Foundation Review (2026)"
 meta_description: "Honest Covergirl Trublend Matte Made Foundation review: coverage, wear time, shade range, and who it's best for. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07YKCC28C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RvzYfG91L._SL1500_.jpg"
-pros:
+pros: 
   - "Buildable medium-to-full coverage that doesn't cake or settle into fine lines, even after 10+ hour wear"
   - "Genuinely matte finish that controls oil without looking flat or mask-like — rare at this price point"
   - "40 shades with undertone variety (warm, neutral, cool) that actually match real skin tones"
-cons:
+cons: 
   - "Can emphasize dry patches if skin isn't prepped with moisturizer — needs a hydrating primer underneath"
   - "Transfer-resistant but not fully waterproof; smudges if you sweat heavily or rub your face"
+
 ---
 
 **The $12 Foundation That Outperforms Department Store Formulas**

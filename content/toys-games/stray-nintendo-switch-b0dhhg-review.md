@@ -1,4 +1,5 @@
 ---
+
 title: "Stray - Nintendo Switch"
 seo_title: "Stray - Nintendo Switch Review: Verdict | TSV"
 meta_description: "Our full stray - nintendo switch review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHHG1W89/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71i8NG4LEZL._SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You don't need me to tell you Stray is a good game. It swept awards in 2022, sold millions, and made everyone on the internet want to be a cat. The real question is whether this Switch port — which arrived nearly three years after the original — does the game justice on Nintendo's aging hardware. Short answer: mostly yes, with a few compromises you should know about before you click buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "UNIFULL Collapsible Foot Spa Bath with Heat, Touch Screen, R"
 seo_title: "UNIFULL Collapsible Foot Spa Bath with Heat, Touch Review"
 meta_description: "Our full unifull collapsible foot spa bath with heat, touch screen, r review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CPY21KP4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71O3qVCsaWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about foot spas: most of them are bulky plastic monsters that you wrestle out of a closet, fill with a kettle, and then awkwardly tip into the shower afterward. The UNIFULL Collapsible Foot Spa tries to solve the storage problem first and the soaking problem second. So does it actually work, or is it just a clever folding trick hiding a weak heater? I've been testing it for three weeks, and here's the real deal.

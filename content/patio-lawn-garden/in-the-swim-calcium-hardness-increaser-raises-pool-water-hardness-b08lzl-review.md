@@ -1,4 +1,5 @@
 ---
+
 title: "In The Swim Calcium Hardness Increaser - Raises Pool Water H"
 seo_title: "In The Swim Calcium Hardness Increaser - Raises Po Review"
 meta_description: "Our full in the swim calcium hardness increaser - raises pool water h review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08LZLHBGB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61uaDa-MPAL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Soft water is a silent pool killer. If your calcium hardness dips below 200 ppm, that water starts pulling calcium straight out of your plaster, tile grout, and gunite — leaving etching, pitting, and a rough surface that stains easily. The In The Swim Calcium Hardness Increaser is the most straightforward fix I've tested for this problem, and with a 4.7-star average across 235 ratings, I'm not the only one who thinks so.

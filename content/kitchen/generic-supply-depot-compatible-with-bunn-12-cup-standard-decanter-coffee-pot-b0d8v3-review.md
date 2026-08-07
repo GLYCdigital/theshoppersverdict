@@ -1,4 +1,5 @@
 ---
+
 title: "Generic Supply Depot Compatible with BUNN 12 Cup Standard De"
 seo_title: "Generic Supply Depot Compatible with BUNN 12 Cup S Review"
 meta_description: "Our full generic supply depot compatible with bunn 12 cup standard de review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8V35HB5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61h2ZYLAXUL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $22 Test: Can a Third-Party Decanter Survive a BUNN?**

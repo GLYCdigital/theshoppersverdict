@@ -1,4 +1,5 @@
 ---
+
 title: "TORCHSTAR LED Emergency Lighting, Commercial Emergency Light"
 seo_title: "TORCHSTAR LED Emergency Lighting, Commercial Emerg Review"
 meta_description: "Our full torchstar led emergency lighting, commercial emergency light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFZ8RXRQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WxSFdNRLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about emergency lighting: nobody buys it because they want to. You buy it because code requires it, an inspector demands it, or you've lived through a blackout and realized your hallway is a death trap. The TORCHSTAR LED Emergency Light sits in that unglamorous but critical category, and with a 4.6-star average across 229 ratings, it's clearly doing something right. Here's the full breakdown.

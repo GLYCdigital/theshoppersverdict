@@ -1,4 +1,5 @@
 ---
+
 title: "Gizoon"
 seo_title: "Gizoon Review: Honest Look at This 4.2-Star Furniture Pick"
 meta_description: "Gizoon furniture review: real pros, cons, and buyer feedback. See if this 4.2-star rated piece fits your space before you buy."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DGL12RWX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91bK4i79L3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy build with solid wood legs that don't wobble on carpet or hardwood"
   - "Assembly takes under 20 minutes with included hex wrench and clear instructions"
   - "Fabric resists stains and pet hair — a practical choice for high-traffic rooms"
-cons:
+cons: 
   - "Seat cushion is firmer than expected; not ideal for all-day lounging"
   - "Color options look slightly different in person than on screen — order a swatch first"
+
 ---
 
 **Gizoon Review: A Solid 4.2-Star Performer with a Few Caveats**

@@ -1,4 +1,5 @@
 ---
+
 title: "LIANGLOME Solar Fence Lights Outdoor"
 seo_title: "LIANGLOME Solar Fence Lights Outdoor Review: Verdict | TS"
 meta_description: "Our full lianglome solar fence lights outdoor review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GR8Y4FSM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618S2VU7JrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The LIANGLOME solar fence light is a solid pick for homeowners who want subtle, decorative lighting without running wires. But it’s not the brightest or most durable option on the market — and that’s okay if you set expectations right.**

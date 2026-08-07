@@ -1,4 +1,5 @@
 ---
+
 title: "Mini Books"
 seo_title: "Mini Books Review: Verdict | TSV"
 meta_description: "Our full mini books review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D47JJ6TT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714c8IVzahL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Some products are one-trick ponies. These Mini Books are the opposite — they're a blank canvas that works differently depending on who's holding them. At 4.6 stars from 229 Amazon ratings, the consensus is clear: people love these tiny titles. But before you hit buy, let's talk about what they actually are, because "mini books" covers a lot of ground.

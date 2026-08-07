@@ -1,4 +1,5 @@
 ---
+
 title: "RARJSM Nude Gel Polish Neutral Color Skin Tone Gel Nail Poli"
 seo_title: "RARJSM Nude Gel Polish Neutral Color Skin Tone Gel Review"
 meta_description: "Our full rarjsm nude gel polish neutral color skin tone gel nail poli review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CP99M81B/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51FTH5ZGMoL._SL1300_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Nude gel polish is a category full of misses — shades that pull too pink, too yellow, or turn milky white on the nail. The RARJSM Neutral Color Skin Tone gel polish (15ml, B0CP99M81B) avoids that trap, and that's precisely why it holds a 4.5-star average across 225 Amazon ratings. This is a genuinely neutral nude that adapts to a wide range of skin tones rather than fighting them.

@@ -1,4 +1,5 @@
 ---
+
 title: "LifePlus Chest Freezer 3.5 Cubic Feet with Removable Storage"
 seo_title: "LifePlus Chest Freezer 3.5 Cubic Feet with Removab Review"
 meta_description: "Our full lifeplus chest freezer 3.5 cubic feet with removable storage review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FNVZT6CL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71GFnzh8juL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **LifePlus Chest Freezer 3.5 Cubic Feet Review: The Compact Freezer That Actually Fits a Month of Meals**

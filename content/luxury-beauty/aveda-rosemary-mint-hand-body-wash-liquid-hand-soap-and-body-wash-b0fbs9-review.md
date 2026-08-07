@@ -1,4 +1,5 @@
 ---
+
 title: "Aveda Rosemary Mint Hand & Body Wash | Liquid Hand Soap and"
 seo_title: "Aveda Rosemary Mint Hand & Body Wash Review (2026): Worth It?"
 meta_description: "Honest Aveda Rosemary Mint Hand & Body Wash review: lather, scent, skin feel, and value. See if this luxury cleanser earns its price tag."
@@ -11,14 +12,15 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FBS9MQV8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL.gif"
-pros:
+pros: 
   - "Genuine aromatherapy-level scent that lingers subtly on skin for hours"
   - "Sulfate-free formula cleanses without stripping or leaving tight-feeling skin"
   - "Dual-purpose versatility — one bottle that works equally well at sink and in shower"
-cons:
+cons: 
   - "Premium price point that runs 2–3x typical drugstore body wash"
   - "Pump dispenser can be finicky with the thicker gel texture"
   - "Mint cooling sensation may be too intense for sensitive facial use"
+
 ---
 
 Some products promise a spa experience. This one actually delivers — provided you're willing to pay for it. The Aveda Rosemary Mint Hand & Body Wash has carved out a loyal following among shoppers who want their daily cleansing ritual to feel less like a chore and more like a moment. After digging through 200+ verified ratings and testing the formulation myself, here's the honest breakdown.

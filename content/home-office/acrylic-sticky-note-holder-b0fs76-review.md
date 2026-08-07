@@ -1,4 +1,5 @@
 ---
+
 title: "Acrylic Sticky Note Holder"
 seo_title: "Acrylic Sticky Note Holder Review: Is It Worth It? (2026)"
 meta_description: "Honest Acrylic Sticky Note Holder review: build quality, real-world desk use, and drawbacks. See if this 4.7-star organizer fits your workspace."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FS76DWN4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61X-4KzoiaL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick 3mm acrylic that resists cracking and doesn't yellow over time"
   - "Generous tray fits both 3x3 and 3x5 sticky notes without bending corners"
   - "Weighted base with non-slip pads keeps it anchored during one-handed pulls"
-cons:
+cons: 
   - "Clear acrylic shows dust and fingerprints quickly — daily wiping needed"
   - "Tray depth is shallow; tall stacks of notes can slide forward if overfilled"
+
 ---
 
 Let me be direct: you don't need a dedicated holder for sticky notes. A drawer works, or your desk surface. But if you're the type who has three pads scattered across your workspace and still loses the one with your password on it, this acrylic holder earns its place.

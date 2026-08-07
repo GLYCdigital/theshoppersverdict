@@ -1,4 +1,5 @@
 ---
+
 title: "Rollo Direct Thermal Shipping Labels - 500 4x6 Thermal Label"
 seo_title: "Rollo Direct Thermal Shipping Labels - 500 4x6 The Review"
 meta_description: "Our full rollo direct thermal shipping labels - 500 4x6 thermal label review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01M63UE67/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Zd-dFw1NL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're printing shipping labels every day. You've probably learned the hard way that not all thermal labels are created equal — some jam, some fade, some peel off halfway to the customer's door. The Rollo Direct Thermal Shipping Labels (500-pack, 4x6) sits in that sweet spot between budget-friendly and reliable. Here's the honest breakdown after digging through specs, user feedback, and real-world performance.

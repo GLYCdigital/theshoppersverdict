@@ -1,4 +1,5 @@
 ---
+
 title: "Lattafa Qaed Al Fursan for Unisex Eau de Parfum Spray 3 Ounc"
 seo_title: "Lattafa Qaed Al Fursan for Unisex Eau de Parfum Sp Review"
 meta_description: "Our full lattafa qaed al fursan for unisex eau de parfum spray 3 ounc review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRD321K4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/610gW07MmzL._SL1024_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Lattafa Qaed Al Fursan Review: The $30 Fragrance That Thinks It's $150**

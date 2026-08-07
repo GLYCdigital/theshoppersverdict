@@ -1,24 +1,26 @@
 ---
+
 title: "Delta Trinsic Matte Black Bathroom Faucet 3 Hole, 8 Inch Wid"
 seo_title: "Delta Trinsic Matte Black Faucet Review: 8-Inch Widespread (2026)"
 meta_description: "Delta Trinsic Matte Black 3-hole 8-inch widespread faucet review: build quality, installation, finish durability, and real buyer feedback. Is it worth it?"
 slug: "delta-trinsic-matte-black-bathroom-faucet-3-hole-8-inch-widespread-bathroom-b0g2c1-review"
 image_alt: "Delta Trinsic matte black 3-hole 8-inch widespread bathroom faucet with metal lever handles"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2C1L18N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:  
+pros: 
   - "True matte black finish that resists fingerprints and water spots far better than expected"  
   - "Solid all-metal construction with a premium, substantial feel at the handles and spout"  
   - "8-inch widespread design fits standard 3-hole setups without extra valve plates or adapters"  
-cons:  
+cons: 
   - "Installation is more involved than a centerset — you'll need access below the sink for all three pieces"  
   - "Matte black finish, while durable, will show hard water mineral buildup if you have aggressive water"  
   - "No pop-up drain assembly included — factor in an extra $20–40 for a matching drain"
+
 ---
 
 # Delta Trinsic Matte Black Bathroom Faucet: The Widespread That Actually Gets the Finish Right

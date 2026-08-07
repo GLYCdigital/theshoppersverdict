@@ -1,4 +1,5 @@
 ---
+
 title: "AGEMORE Cotton Flannel Double Sleeping Bag for Camping, Back"
 seo_title: "AGEMORE Cotton Flannel Double Sleeping Bag Review (2026)"
 meta_description: "AGEMORE cotton flannel double sleeping bag review: roomy queen-size, soft interior, but bulky. Is it right for your camping style? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08J6TDV71/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71hUqZv4DrL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cotton flannel lining — soft, breathable, and far more comfortable than the polyester fleece most budget bags use"
   - True queen-size dimensions (roughly 87 inch " x 59 inch " unzipped) accommodate two average adults without fighting for space
   - "Fully unzips flat to become a 2-person blanket or oversized comforter, doubling its utility"
-cons:
+cons: 
   - "Packs down to roughly the size of a large duffel — this is not a backpacking bag, and you'll need a car or trailer for transport"
   - "Cotton lining absorbs moisture; on humid nights or if you sweat, it stays damp longer than synthetics"
+
 ---
 
 If you've ever spent a night in a cheap rectangular sleeping bag that feels like a plastic-lined mummy sack, you know the problem: it's either sweltering, crinkly, or both. The AGEMORE Cotton Flannel Double Sleeping Bag tackles that head-on by doing something surprisingly rare in the budget camping world — using real cotton flannel where your skin actually touches. And at 4.6 stars across 229 ratings, it's not just a gimmick.

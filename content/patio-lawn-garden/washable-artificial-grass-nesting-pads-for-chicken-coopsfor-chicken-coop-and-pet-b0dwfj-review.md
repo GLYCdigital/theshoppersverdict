@@ -1,4 +1,5 @@
 ---
+
 title: "Washable Artificial Grass Nesting Pads-for Chicken Coopsfor "
 seo_title: "Washable Artificial Grass Nesting Pads-for Chicken Review"
 meta_description: "Our full washable artificial grass nesting pads-for chicken coopsfor  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DWFJ7W5N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91WwsxIPUPL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever peeled a dozen cracked eggs out of a straw-filled nesting box at 6 a.m., you already know the appeal of these artificial grass pads. The premise is simple: swap out messy bedding for a washable, reusable surface that mimics grass. At 4.1 stars from 204 buyers, they're not perfect — but for the right flock, they might just eliminate half your coop chores.

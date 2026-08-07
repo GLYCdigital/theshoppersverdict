@@ -1,4 +1,5 @@
 ---
+
 title: "SAFAVIEH Courtyard Collection"
 seo_title: "SAFAVIEH Courtyard Collection Review: Verdict | TSV"
 meta_description: "Our full safavieh courtyard collection review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FB4696BC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/919nC3SgqwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're shopping for indoor-outdoor furniture that doesn't look like it belongs on a cruise ship deck, the SAFAVIEH Courtyard Collection deserves a hard look. With 220 ratings averaging 4.4 stars, it's clearly doing something right. But let's talk about what that actually means for your patio.

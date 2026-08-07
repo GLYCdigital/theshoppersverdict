@@ -1,4 +1,5 @@
 ---
+
 title: "JULLISON 4 Inch Field Selectable 5CCT LED Motion Sensor Ceil"
 seo_title: "JULLISON 4 Inch Field Selectable 5CCT LED Motion S Review"
 meta_description: "Our full jullison 4 inch field selectable 5cct led motion sensor ceil review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4CQVJM3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41SjLaz8v+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The JULLISON 4-Inch Selectable LED: A Smart Fixture That Respects Your Time

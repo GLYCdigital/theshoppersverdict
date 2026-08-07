@@ -1,4 +1,5 @@
 ---
+
 title: "HiTauing PF-S Filter Cartridges"
 seo_title: "HiTauing PF-S Filter Cartridges Review: Verdict | TSV"
 meta_description: "Our full hitauing pf-s filter cartridges review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FFSC849K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+KWbgs3sL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Buying replacement filters for a pet fountain is a chore — you want it to fit, work, and not cost more than the fountain itself.** The HiTauing PF-S cartridges claim to do all three. After digging through 229 ratings and testing compatibility across the most common PF-S fountains, here’s what actually matters.

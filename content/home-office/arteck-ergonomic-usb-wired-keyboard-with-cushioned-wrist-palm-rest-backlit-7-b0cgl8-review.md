@@ -1,4 +1,5 @@
 ---
+
 title: "Arteck Ergonomic USB Wired Keyboard with Cushioned Wrist & Palm Rest Backlit Review"
 seo_title: "Arteck Ergonomic USB Keyboard Review: Worth It? (2026)"
 meta_description: "Arteck Ergonomic USB Wired Keyboard with cushioned wrist rest & backlit keys — tested for comfort, build, and typing feel. Read our honest 4.2/5 review."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CGL8X4H6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91YuRloDPeL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine cushioned wrist rest with memory foam feel — not a hard plastic bump"
   - "Backlit keys with adjustable brightness levels for low-light work"
   - "Plug-and-play USB connection with zero setup or driver hassle"
-cons:
+cons: 
   - "Fixed wrist rest — you can't detach it if you prefer a flat keyboard"
   - "Keycaps feel slightly wobbly on the larger keys (spacebar, enter)"
   - "No USB passthrough port, so you lose a port on your PC or hub"
+
 ---
 
 If you type for a living — or just spend your evenings answering emails — you already know the drill: an hour in, your wrists start complaining, and by 5 PM you're shaking out your hands like you've been kneading dough. The Arteck Ergonomic USB Wired Keyboard with Cushioned Wrist & Palm Rest is trying to solve that problem for under $30. Here's whether it actually works.

@@ -1,4 +1,5 @@
 ---
+
 title: "DJiEX Gaming Monitor Review"
 seo_title: "DJiEX Gaming Monitor Review: Budget 4K Display Tested"
 meta_description: "DJiEX Gaming Monitor review: Is this $85 budget display worth it? Real specs, honest pros/cons, and who should buy it. Read before you click add to cart."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVDFZY4M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71RTUbCILpL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Native 1080p resolution with 100Hz refresh rate at a sub-$90 price point"
   - "Multiple input options (HDMI, VGA) make it compatible with older PCs and consoles"
   - "Built-in speakers eliminate the need for separate desktop audio for basic use"
-cons:
+cons: 
   - "Stand offers limited tilt adjustment with no height or swivel options"
   - "Color accuracy out of the box leans slightly cool — needs manual calibration for photo work"
+
 ---
 
 # DJiEX Gaming Monitor Review: Surprisingly Capable at $85

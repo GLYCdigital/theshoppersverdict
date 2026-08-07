@@ -1,4 +1,5 @@
 ---
+
 title: "Breakfast Cereal"
 seo_title: "Breakfast Cereal Review: Is This Coffee Gear Worth It?"
 meta_description: "Our Breakfast Cereal review covers build quality, real-world performance, and who should buy. See pros, cons, and verdict before you spend."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDMG8KFD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81jE-TMnE+L._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent 200°F brew temperature delivers full extraction without bitterness"
   - "40-ounce carafe is genuinely double-walled — coffee stays hot 2+ hours"
   - "Programmable timer with 24-hour advance setting actually works reliably"
-cons:
+cons: 
   - "Water reservoir is fixed — no removable tank for easy filling"
   - "Brew basket sits at an awkward angle; grounds can spill during cleanup"
   - "No auto-shutoff on the warming plate — you must remember to turn it off"
+
 ---
 
 Look, the name is weird. "Breakfast Cereal" is a bizarre brand for a coffee maker — but once you get past the packaging, this machine quietly outperforms brewers twice its price. With 229 ratings hovering at 4.6 stars, it's not a fluke. Here's what you're actually getting.

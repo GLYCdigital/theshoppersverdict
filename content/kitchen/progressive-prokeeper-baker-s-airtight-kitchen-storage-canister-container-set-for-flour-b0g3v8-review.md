@@ -1,4 +1,5 @@
 ---
+
 title: "Progressive ProKeeper Baker's Airtight Kitchen Storage Canis"
 seo_title: "Progressive ProKeeper Baker's Airtight Kitchen Sto Review"
 meta_description: "Our full progressive prokeeper baker's airtight kitchen storage canis review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G3V8SQ9W/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61xwiz2RNgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The baker's storage set that actually earns its name

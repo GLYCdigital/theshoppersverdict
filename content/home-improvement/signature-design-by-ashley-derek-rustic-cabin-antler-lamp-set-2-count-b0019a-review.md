@@ -1,4 +1,5 @@
 ---
+
 title: "Signature Design by Ashley Derek Rustic Cabin Antler Lamp Se"
 seo_title: "Signature Design by Ashley Derek Rustic Cabin Antl Review"
 meta_description: "Our full signature design by ashley derek rustic cabin antler lamp se review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0019AFE7E/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61dz23eU8bL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Two Lamps, One Strong Cabin Statement: The Ashley Derek Antler Set

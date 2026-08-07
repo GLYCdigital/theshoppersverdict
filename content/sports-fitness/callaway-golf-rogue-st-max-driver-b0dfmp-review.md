@@ -1,4 +1,5 @@
 ---
+
 title: "Callaway Golf Rogue ST Max Driver"
 seo_title: "Callaway Rogue ST Max Driver Review: Real Shots, Real Verdict"
 meta_description: "Callaway Rogue ST Max Driver review: 4.3-star rated. Tested for forgiveness, speed, and feel. See who should buy it and who should pass."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFMP9KB7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oscD0xdsL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Jailbreak Speed Frame and A.I.-designed face deliver genuine ball speed on off-center hits — not just marketing talk"
   - "High-MOI head (around 5,000 g-cm²) keeps mis-hits playable; toe and heel shots still carry respectable distance"
   - "Adjustable hosel (1.5° loft range) plus sliding back weight lets you fine-tune draw bias and launch angle"
-cons:
+cons: 
   - "Stock shaft options (Project X HZRDUS and Mitsubishi Tensei) skew stiff-heavy — slower swing speeds will need aftermarket shafts"
   - "Sound at impact is loud and metallic; if you prefer a muted, thuddy feel, this will take getting used to"
   - "Premium price point around $500-$600 — previous generation Rogue ST can be had for significantly less with similar performance"
+
 ---
 
 **Opening Hook: The Forgiveness King That Actually Delivers**

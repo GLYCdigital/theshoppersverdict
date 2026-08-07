@@ -1,4 +1,5 @@
 ---
+
 title: "DJI Part 08 5880mAh TB30 Intelligent Flight Battery for Matr"
 seo_title: "DJI TB30 Battery Review: Worth It for Matrice 30?"
 meta_description: "Honest DJI TB30 Intelligent Flight Battery review for Matrice 30. Real pros, cons, flight times & buyer feedback. Is it worth $500+? Read before buying."
@@ -11,14 +12,15 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0BGKPY887/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pvXddS34L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Genuine DJI OEM battery with proper thermal management and self-heating function for cold-weather ops"
   - "41-minute max flight time is real in hover tests — matches spec sheet when conditions are right"
   - "IP55 rating means you can fly in light rain and dust without bricking a $600 battery"
-cons:
+cons: 
   - "3.4-star average from 170 ratings is a red flag — multiple reports of swelling cells after 30-50 cycles"
   - "No charging hub included at this price point — you're paying premium and still need to buy accessories separately"
   - "Firmware compatibility issues reported with older Matrice 30 Enterprise units"
+
 ---
 
 The DJI TB30 is the only battery that belongs in a Matrice 30. That's both its greatest strength and its biggest problem. You're locked into DJI's ecosystem, and at roughly $600 per pack (check current pricing — it fluctuates), you want this thing to last. The 3.4-star average from 170 ratings tells you real owners aren't fully satisfied. Here's the honest breakdown.

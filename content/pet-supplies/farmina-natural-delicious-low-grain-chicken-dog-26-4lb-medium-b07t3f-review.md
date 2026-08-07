@@ -1,4 +1,5 @@
 ---
+
 title: "Farmina, Natural & Delicious Low-Grain Chicken Dog 26.4lb, M"
 seo_title: "Farmina Low-Grain Chicken Dog Food Review (26.4lb)"
 meta_description: "Honest Farmina Natural & Delicious Low-Grain Chicken Dog review: ingredients, portion sizes, picky eater results, and who should buy this 26.4lb bag."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07T3FPXT5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81QD60BCwUS._AC_SL1500_.jpg"
-pros:
+pros: 
   - "First ingredient is deboned chicken (26%) with a second animal protein source, making it genuinely meat-forward rather than grain-heavy filler"
   - "Low-glycemic ingredients like spelt and oats support steady energy without the corn/wheat/soy that triggers many dogs' sensitivities"
   - "Kibble size is calibrated for medium breeds — about 0.5-inch discs that actually require chewing, slowing down gulpers"
-cons:
+cons: 
   - "The 26.4lb bag costs notably more per pound than mass-market kibble; budget shoppers will feel the difference at checkout"
   - "Contains dehydrated chicken and herring — if your dog has a fish allergy, this isn't the single-protein solution the name implies"
+
 ---
 
 If you've been staring at ingredient lists wondering why your dog's food lists corn as the first three items, Farmina's Natural & Delicious Low-Grain line is the corrective. This 26.4lb bag (designed for medium breeds — think Beagles to Border Collies) sits in that frustrating middle ground: more expensive than grocery-store kibble but less than a full veterinary prescription diet. Here's what that extra money actually buys you.

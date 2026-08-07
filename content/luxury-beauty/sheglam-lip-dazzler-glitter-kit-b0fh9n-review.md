@@ -1,4 +1,5 @@
 ---
+
 title: "SHEGLAM Lip Dazzler Glitter Kit"
 seo_title: "SHEGLAM Lip Dazzler Glitter Kit Review: Verdict | TSV"
 meta_description: "Our full sheglam lip dazzler glitter kit review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FH9NR5YG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61T21o1Y1wL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've seen the viral TikTok videos of lips looking like crushed diamonds in a wet gloss, you already know the SHEGLAM Lip Dazzler Glitter Kit. The question is whether the reality matches the filtered hype. After digging through 210 Amazon ratings and testing the formula's claims, here's the honest breakdown.

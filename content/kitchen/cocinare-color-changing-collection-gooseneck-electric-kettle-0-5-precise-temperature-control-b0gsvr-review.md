@@ -1,4 +1,5 @@
 ---
+
 title: "Cocinare Color-changing Collection Gooseneck Electric Kettle"
 seo_title: "Cocinare Gooseneck Kettle Review: Color-Changing Pour-Over Power"
 meta_description: "Cocinare gooseneck kettle review: color-changing display, 0.5L capacity, precise temp control. Is it worth it for pour-over lovers? Read our honest take."
@@ -11,15 +12,16 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSVR22QJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fOpF7F8uL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Temperature presets for green, white, and black tea (80°C, 85°C, 100°C) plus manual 40–100°C range in 1°C increments"
   - "Color-changing base LED shifts from red to blue as water heats — genuinely useful at a glance, not just a gimmick"
   - "Hold-temp mode keeps water at target temperature for 60 minutes, ideal for multiple pour-over rounds"
   - "Narrow 4mm gooseneck spout delivers slow, controlled flow without drips or sputtering"
-cons:
+cons: 
   - "0.5L capacity is small — roughly two 8oz cups per boil, which means refilling mid-session for multiple guests"
   - "No 240V option; US-only plug limits international use"
   - "Base and kettle finish show fingerprints quickly; matte options would have been smarter"
+
 ---
 
 The Cocinare Color-changing Collection Gooseneck Electric Kettle isn't the first electric gooseneck to hit the market — but it might be the first one that makes temperature control feel obvious instead of technical. If you're tired of boiling water and guessing whether it's cooled to the right temperature for your pour-over, this kettle eliminates the guesswork with a visual language anyone can read.

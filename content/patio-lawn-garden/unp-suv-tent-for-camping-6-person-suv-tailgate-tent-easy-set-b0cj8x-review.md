@@ -1,4 +1,5 @@
 ---
+
 title: "UNP SUV Tent for Camping, 6-Person SUV Tailgate Tent - Easy "
 seo_title: "UNP SUV Tent for Camping, 6-Person SUV Tailgate Te Review"
 meta_description: "Our full unp suv tent for camping, 6-person suv tailgate tent - easy  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CJ8XB45R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81-DRqfIM+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're shopping for a patio, lawn & garden product, the **UNP SUV Tent for Camping, 6-Person SUV Tailgate Tent - Easy ** has likely crossed your radar. This review covers what you need to know before making a purchase decision.

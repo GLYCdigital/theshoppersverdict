@@ -1,4 +1,5 @@
 ---
+
 title: "Coleman Kompact 20°F/30°F/40°F Sleeping Bag, Cool-Weather"
 seo_title: "Coleman Kompact Sleeping Bag Review: Cool-Weather Value"
 meta_description: "Coleman Kompact sleeping bag review: 20°F/30°F/40°F options, Thermolock draft tube, and cotton flannel liner. Is it worth it? Honest verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTTS888V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51WRezlfe2L._AC_SL1200_.jpg"
-pros:
+pros: 
   - "Compression stuff sack shrinks the bag to roughly half its loose size for easy trunk or pack storage"
   - "Thermolock draft tube along the zipper blocks cold air seepage at the seam—a feature usually found on pricier bags"
   - "Cotton flannel liner feels soft against skin and breathes better than synthetic-only shells at this price point"
-cons:
+cons: 
   - "Temperature ratings are optimistic; the 20°F bag realistically keeps you comfortable to about 30°F for most sleepers"
   - "No integrated pillow strap, so a loose pillow slides around inside the bag during the night"
+
 ---
 
 Let’s cut through the marketing. The Coleman Kompact is not a mountaineering expedition bag, and Coleman doesn’t pretend it is. What you’re getting is a solid, compressible cool-weather bag that does exactly what the name says—compacts down for easy hauling—without breaking your budget. With 229 ratings averaging 4.6 stars, it’s clearly hitting a nerve with casual campers. The question is whether it hits yours.

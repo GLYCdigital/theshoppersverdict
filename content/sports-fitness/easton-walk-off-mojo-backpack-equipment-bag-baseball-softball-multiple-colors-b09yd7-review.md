@@ -1,4 +1,5 @@
 ---
+
 title: "Easton WALK-OFF MOJO Backpack Equipment Bag Review"
 seo_title: "Easton WALK-OFF MOJO Backpack Review: Best Baseball Bag?"
 meta_description: "Easton WALK-OFF MOJO Backpack Equipment Bag review: 4.7★ rated baseball/softball bag. Storage, durability, real buyer feedback. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09YD7DDSW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51LvoeZChkL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Fits a full-size bat in the dedicated side sleeve while still fitting under most bleacher benches"
   - "Padded laptop/tablet sleeve in the back panel protects electronics during travel"
   - "Water-resistant base panel handles wet grass and dugout dirt without soaking through"
-cons:
+cons: 
   - "Single bat sleeve — two-bat players will need to use the main compartment or carry a separate bat pack"
   - "No dedicated cleat pocket, so dirty spikes go in the main compartment or you buy a separate shoe bag"
   - "Shoulder straps lack heavy padding — loaded with gear, it digs in on longer walks from the parking lot"
+
 ---
 
 Let's be honest about what a baseball backpack actually has to do. It needs to swallow a glove, batting gloves, a helmet, a water bottle, maybe a change of clothes — and it has to survive being thrown on a dugout floor, kicked under a bench, and dragged through rain-soaked grass. The Easton WALK-OFF MOJO Backpack attempts all that at a price that won't make you wince. After digging through 235 Amazon ratings and the spec sheet, here's the real story.

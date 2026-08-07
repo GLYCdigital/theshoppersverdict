@@ -1,4 +1,5 @@
 ---
+
 title: "HP Portable Laptop (Include 1 Year Microsoft 365), 14â€™â€™ "
 seo_title: "HP Portable Laptop (Include 1 Year Microsoft 365), Review"
 meta_description: "Our full hp portable laptop (include 1 year microsoft 365), 14â€™â€™  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CHHMH36M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61DVg3ECW-L._AC_SL1235_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $400 question: Is this HP actually worth it, or are you paying for the logo?

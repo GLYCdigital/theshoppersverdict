@@ -1,4 +1,5 @@
 ---
+
 title: "Wampat Modern TV Stand for Living Room, Bedroom - 2 in 1 Ent"
 seo_title: "Wampat Modern TV Stand for Living Room, Bedroom -  Review"
 meta_description: "Our full wampat modern tv stand for living room, bedroom - 2 in 1 ent review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D13XMNHJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81EXfwSwZuL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most TV stands under $150 are wobbly particleboard nightmares that sag within a year. The Wampat 2-in-1 isn't that — but it's not a heirloom piece either. Here's what 229 buyers (averaging 4.6 stars) actually discovered after living with it.

@@ -1,4 +1,5 @@
 ---
+
 title: "The Republic of Tea - Cardamon Cinnamon Herbal Tea, Naturall"
 seo_title: "The Republic of Tea - Cardamon Cinnamon Herbal Tea Review"
 meta_description: "Our full the republic of tea - cardamon cinnamon herbal tea, naturall review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G27CRSPS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51Y0cNkhf+L._SL1000_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is this the spiced tea your coffee maker has been waiting for?** Look, this isn't coffee gear in the traditional sense — no grinders or portafilters here. But if you're a home brewer who rotates between a morning pour-over and an afternoon caffeine-free steep, The Republic of Tea's Cardamon Cinnamon Herbal Tea earns a permanent spot on your shelf. I tested a full tin over two weeks, and here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Everlast Elite 2 Boxing Gloves"
 seo_title: "Everlast Elite 2 Boxing Gloves Review: Real Test Results"
 meta_description: "Everlast Elite 2 boxing gloves reviewed: 4.7-star rated training gloves tested for fit, wrist support, and durability. See who they suit and who should skip."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GFGPM2GK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FMBVgyVQL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Genuine full-grain leather shell that holds up to heavy bag work without scuffing or peeling after 3+ months"
   - "Dense multi-layer foam padding provides solid knuckle protection without the marshmallow-soft feel of cheap gloves"
   - "Curved hand compartment with secure hook-and-loop strap locks the wrist at 90 degrees — no readjusting mid-round"
-cons:
+cons: 
   - "Runs snug; boxers with wider palms or thick hand wraps should size up or break in over several sessions"
   - "Ventilation is adequate but not exceptional — palms get warm during 45+ minute sessions in hot gyms"
+
 ---
 
 The Everlast Elite 2 gloves sit in that awkward middle zone of boxing gear: not the cheap $30 starter pair, not the $200 pro-level customs. At this price point, most gloves cut corners somewhere. So when 235 Amazon reviewers pushed this to a 4.7 average, I wanted to know if the Elite 2 actually delivers or just looks good in photos.

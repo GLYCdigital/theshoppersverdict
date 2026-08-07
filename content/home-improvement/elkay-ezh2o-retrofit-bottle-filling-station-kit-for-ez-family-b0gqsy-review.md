@@ -1,4 +1,5 @@
 ---
+
 title: "Elkay ezH2O RetroFit Bottle Filling Station Kit for EZ Famil"
 seo_title: "Elkay ezH2O RetroFit Kit Review: Worth It? (2026)"
 meta_description: "Honest Elkay ezH2O RetroFit Bottle Filling Station review: install ease, build quality, and whether it beats buying a new fountain. Real buyer feedback included."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GQSY8HV7/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51HGcImy7sL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Genuinely simple install on existing Elkay EZ coolers — most buyers finish in under 30 minutes with basic tools"
   - "Compatible with both filtered and non-filtered EZ series units, so you don't need to replace the entire fountain"
   - "Includes the ezH2O activation sensor and mounting hardware — no hidden parts to source separately"
-cons:
+cons: 
   - "Requires an existing Elkay EZ fountain — this is not a universal retrofit for other brands"
   - "Does not include a filter; filtered models need the separate RCTLKIT-1 replacement cartridge"
   - "Some buyers report the plastic mounting bracket feels lighter than expected for the price point"
+
 ---
 
 **The Short Version:** If you already own an Elkay EZ-series drinking fountain, this retrofit kit turns it into a modern bottle filler without the $1,200+ cost of replacing the whole unit. It's a smart upgrade for schools, offices, and gyms — but it's not for everyone.

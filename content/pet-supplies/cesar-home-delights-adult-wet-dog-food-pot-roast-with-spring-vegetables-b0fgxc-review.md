@@ -1,4 +1,5 @@
 ---
+
 title: "Cesar Home Delights Adult Wet Dog Food, Pot Roast with Sprin"
 seo_title: "Cesar Home Delights Pot Roast Dog Food Review (2026)"
 meta_description: "Honest Cesar Home Delights wet dog food review: Pot Roast with Spring Vegetables. Texture, ingredients, picky eaters & value. Is it worth it?"
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGXC3QNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81r55ajm7GL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Real shredded meat texture with visible carrots and green beans — not a mystery loaf"
   - "Small 3.5 oz trays portion control perfectly for small breeds without waste"
   - "High moisture content (78%) supports hydration for dogs who don't drink enough"
-cons:
+cons: 
   - "Tray format creates more packaging waste than cans; no resealable lid"
   - "Contains carrageenan — a controversial thickener some owners avoid"
   - "Priced per ounce higher than larger wet food cans from competing brands"
+
 ---
 
 Let me be straight with you: most wet dog food looks like someone already ate it. Cesar's Home Delights line actually looks like food — shreds of meat, visible carrot pieces, green beans. That visual difference matters more than you'd think, because it's usually the first thing a picky eater notices.

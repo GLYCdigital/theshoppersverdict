@@ -1,4 +1,5 @@
 ---
+
 title: "Cinnamon Hearts | 1 Pound Bag | Spicy Cinnamon Candy | Heart"
 seo_title: "Cinnamon Hearts Candy Review: 1-Lb Bag, Spicy & Bold"
 meta_description: "Honest Cinnamon Hearts review: 1-pound bag of spicy red heart candies. See what 210 buyers say about heat level, freshness, and value."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9CC16HF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CxAcrlS+L._SL1500_.jpg"
-pros:
+pros: 
   - "Bold, genuine heat that lingers — not a weak 'cinnamon-flavored' candy"
   - "Full pound (16 oz) bag delivers roughly 200+ pieces, strong value"
   - "Firm, snappy texture that holds up without getting sticky or soft"
-cons:
+cons: 
   - "Heat level will overwhelm casual candy eaters — this is genuinely spicy"
   - "Bag lacks a resealable zipper; hard to keep fresh after opening"
+
 ---
 
 Some candies pretend to be cinnamon. These aren't playing around. The Cinnamon Hearts 1-pound bag delivers a serious, tongue-tingling burn that separates casual cinnamon fans from people who actually crave the heat. With a 4.2-star average across 210 ratings, this is a candy that has found its audience — and knows exactly who it's for.

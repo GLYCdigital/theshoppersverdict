@@ -1,4 +1,5 @@
 ---
+
 title: "GENKI x 8BitDo PocketPro Portable Wireless Game Controller w"
 seo_title: "GENKI x 8BitDo PocketPro Review: Hall-Effect Portable Gamepad"
 meta_description: "Our GENKI x 8BitDo PocketPro review: Hall-effect joysticks, Switch/PC/mobile support, and real portability. Is this $50 pocket controller worth it?"
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP2GL2DJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oCEibedqL._SL1500_.jpg"
-pros:
+pros: 
   - "Hall-effect joysticks — zero drift risk, tested past 2 million rotations"
   - "Folds flat to roughly the size of a deck of cards — genuinely pocketable"
   - "Works wirelessly with Switch, PC, Android, and iOS out of the box"
-cons:
+cons: 
   - "Shoulder buttons are shallow with a mushy actuation — not ideal for fighting games"
   - "No analog triggers, so racing games lose throttle precision"
   - "Small grip means adult hands will cramp after 45+ minute sessions"
+
 ---
 
 The GENKI x 8BitDo PocketPro is the rare accessory that actually delivers on its name. 8BitDo has built a reputation for retro-inspired controllers that punch above their weight, and GENKI's collab with them on this ultra-compact gamepad was one of the most anticipated releases of the year for Switch owners and PC players alike. After spending two weeks with it across every platform it claims to support, here's the honest breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "WORLD WIN Floor Lamps"
 seo_title: "WORLD WIN Floor Lamps Review: Verdict | TSV"
 meta_description: "Our full world win floor lamps review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DSJ7X74Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SdbKWO7wL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be direct: most floor lamps under $40 are flimsy sticks with a shade that wobbles every time you walk past. The WORLD WIN Floor Lamp is not that lamp. With a 4.3-star average across 215 ratings, this one has earned its place in living rooms, home offices, and reading nooks. Here's the full breakdown.

@@ -1,4 +1,5 @@
 ---
+
 title: "Kwikset Powerbolt 250 10-Button Keypad Electronic Deadbolt D"
 seo_title: "Kwikset Powerbolt 250 10-Button Keypad Electronic  Review"
 meta_description: "Our full kwikset powerbolt 250 10-button keypad electronic deadbolt d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G494Y5KB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pwkHSZIfL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Kwikset Powerbolt 250 sits in that awkward middle ground of electronic deadbolts. It's not a $60 basic keypad lock, and it's not a $250 smart lock with Wi-Fi, geofencing, and voice control. At 4.1 stars across 204 ratings, it's doing something right — but you need to know exactly what you're getting before you commit.

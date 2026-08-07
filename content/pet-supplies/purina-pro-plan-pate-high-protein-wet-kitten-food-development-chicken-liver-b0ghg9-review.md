@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Pate, High Protein Wet Kitten Food, Developm"
 seo_title: "Purina Pro Plan Pate, High Protein Wet Kitten Food Review"
 meta_description: "Our full purina pro plan pate, high protein wet kitten food, developm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHG9DJWP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V7B+H3lSL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Purina Pro Plan Pate, High Protein Wet Kitten Food, Development: A Deep Dive

@@ -1,4 +1,5 @@
 ---
+
 title: "Clarins Skin Illusion Longwear Full Coverage Foundation|Lumi"
 seo_title: "Clarins Skin Illusion Foundation Review: Luminous 24H Finish"
 meta_description: "Clarins Skin Illusion Longwear Full Coverage Foundation|Lumi review: Does the luminous matte formula live up to 24H claims? Real coverage, wear, shade tips."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRDPW9G2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BzwySNjrL._SL1500_.jpg"
-pros:
+pros: 
   - "Luminous matte finish that genuinely lasts 10-12 hours without oxidizing or settling into fine lines"
   - "Full coverage from a single pump — buildable without caking, even on dry patches"
   - "Skin-care infused formula (clarins anti-pollution complex) that doesn't break out sensitive skin"
-cons:
+cons: 
   - "Limited shade range — 12 shades, heavily skewed toward light-medium; deeper tones are poorly represented"
   - "Pump dispenser can clog mid-bottle, wasting product; have a backup plan"
+
 ---
 
 Let's be direct about the Clarins Skin Illusion Longwear Full Coverage Foundation|Lumi: this is a foundation that promises "luminous matte" — a contradiction most brands fumble — and largely delivers. At 4.3 stars across 215 Amazon ratings, it's not a cult classic, but it's earned its place in the rotation for a specific type of user. Here's the unfiltered breakdown.

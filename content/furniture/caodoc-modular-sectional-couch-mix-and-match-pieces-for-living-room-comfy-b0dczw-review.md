@@ -1,4 +1,5 @@
 ---
+
 title: "CAODOC Modular Sectional Couch, Mix and Match Pieces for Liv"
 seo_title: "CAODOC Modular Sectional Couch Review: Mix & Match Pieces"
 meta_description: "Honest CAODOC Modular Sectional Couch review: configurable pieces, easy assembly, and real buyer feedback. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DCZWJ6XQ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/815qHIvKNvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Multiple independent seating units allow full rearrangement from L-shape to loveseat to chaise config"
   - "Tight-weave polyester fabric holds up to daily use and wipes clean with a damp cloth"
   - "Assembly requires no tools — interlocking brackets click together in under 20 minutes"
-cons:
+cons: 
   - "Seat cushions are firmer than expected; not ideal for those who want a sink-in cloud feel"
   - "Back cushions arrive compressed and need 24–48 hours to fully puff out to advertised shape"
+
 ---
 
 ## The Modular Couch That Actually Adapts to Your Room

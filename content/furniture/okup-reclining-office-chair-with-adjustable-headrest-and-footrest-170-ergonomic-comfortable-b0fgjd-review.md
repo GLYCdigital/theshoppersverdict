@@ -1,4 +1,5 @@
 ---
+
 title: "OKUP Reclining Office Chair with Adjustable Headrest and Foo"
 seo_title: "OKUP Reclining Office Chair with Adjustable Headre Review"
 meta_description: "Our full okup reclining office chair with adjustable headrest and foo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FGJDFS7K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gHcAl+ijL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: a reclining office chair with an adjustable headrest and footrest at this price point is usually a gimmick. The OKUP 170-degree recliner is actually a legitimate option for specific buyers — with real caveats.

@@ -1,4 +1,5 @@
 ---
+
 title: "PELLOR Wood Tree Swing Seat Hanging Swing Seat for Adult Kid"
 seo_title: "PELLOR Wood Tree Swing Seat Hanging Swing Seat for Review"
 meta_description: "Our full pellor wood tree swing seat hanging swing seat for adult kid review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ3JBMV3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B1HEBaYxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about backyard swings: most cheap ones are plastic junk that crack by August. The PELLOR Wood Tree Swing Seat at $34.28 sits in that awkward middle zone — cheap enough to impulse-buy, expensive enough to make you wonder if it's worth it. Here's the real story after digging through 210 Amazon ratings.

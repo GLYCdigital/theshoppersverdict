@@ -1,4 +1,5 @@
 ---
+
 title: "SUPERJARE Boho TV Stand, Entertainment Center with Adjustabl"
 seo_title: "SUPERJARE Boho TV Stand, Entertainment Center with Review"
 meta_description: "Our full superjare boho tv stand, entertainment center with adjustabl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQBNVJZB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ISQuP0UxL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Quality materials for lasting performance"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Image Alt:** SUPERJARE boho TV stand with rattan door panels, adjustable interior shelf, and four wooden legs in a modern living room setting

@@ -1,4 +1,5 @@
 ---
+
 title: "Mr. Coffee 12-Cup Coffee Maker Review: Still Worth It in 2026?"
 seo_title: "Mr. Coffee 12-Cup Coffee Maker Review 2026: Best Budget Drip Coffee Maker?"
 meta_description: "Our full Mr. Coffee 12-Cup Coffee Maker review. Real customer insights on this budget-friendly classic. See pros, cons, and our verdict on the $40 no-frills coffee maker."
@@ -11,33 +12,34 @@ image_alt: "Mr. Coffee Black Coffee Maker, 12 Cups, with glass carafe and Auto P
 amazon_rating: 4.4
 review_count: 44539
 verdict_score: 8.5
-categories:
+categories: 
   - kitchen
   - coffee
-tags:
+tags: 
   - Mr. Coffee
   - coffee maker
   - drip coffee maker
   - budget coffee maker
   - B002YI2IG0
-pros:
+pros: 
   - "Incredible value — classic drip coffee maker at just $40"
   - "Grab-A-Cup Auto Pause stops dripping when you pull the carafe mid-brew"
   - "Dead-simple one-button operation — no clock programming, no timers"
   - "Durable mechanical switch and simple construction built to last"
   - "Dishwasher-safe glass carafe for easy cleanup"
-cons:
+cons: 
   - "No auto shut-off — you must remember to flip the switch manually"
   - "No programmable timer for morning brew scheduling"
   - "Single-hole water dispersion may not extract grounds as evenly as pricier machines"
   - "Thin glass carafe requires gentle handling"
-faq:
+faq: 
   - question: "Does the Mr. Coffee 12-Cup have an auto shut-off?"
     answer: "No, this model uses a simple mechanical switch with no auto shut-off or programmable timer. You must flip the switch off manually."
   - question: "Is the Mr. Coffee 12-Cup dishwasher safe?"
     answer: "The glass carafe is dishwasher safe. The warming plate and base should be wiped clean with a damp cloth."
   - question: "How long does a Mr. Coffee 12-Cup last?"
     answer: "With basic care, many owners report 5-10 years of daily use. The simple mechanical design has fewer components that can fail compared to digital models."
+
 
 ---
 

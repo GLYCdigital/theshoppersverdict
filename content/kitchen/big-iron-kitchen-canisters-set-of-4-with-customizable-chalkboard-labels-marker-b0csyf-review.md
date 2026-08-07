@@ -1,4 +1,5 @@
 ---
+
 title: "Big Iron Kitchen Canisters - Set of 4 with Customizable Chalkboard Labels"
 seo_title: "Big Iron Kitchen Canisters Review: Set of 4 with Chalkboard Labels"
 meta_description: "Honest Big Iron Kitchen Canisters review: sturdy metal build, customizable chalkboard labels, and real buyer feedback. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CSYFVSJL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HJds0mn-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Heavy-gauge steel construction with a powder-coated finish that resists chips and fingerprints"
   - "Chalkboard labels come pre-printed with 40 common pantry staples plus a blank set and working chalk marker"
   - "Airtight swing-latch lids keep flour, sugar, and coffee genuinely fresh — not just decorative"
-cons:
+cons: 
   - "No size markings on the base; you'll need to measure to know which canister holds what (capacities range roughly 1.6L to 3.2L)"
   - "Chalk marker smudges if you brush against it; labels are removable but not dishwasher-safe"
+
 ---
 
 If you've ever bought a "vintage-style" canister set that turned out to be thin, rattly tin that dents if you look at it wrong, the Big Iron Kitchen Canisters will surprise you. These aren't decorative placeholders — they're genuinely functional storage that happens to look good on a counter. At 4.7 stars from 235 ratings, the consensus is clear, but let's dig into whether they're worth your counter space.

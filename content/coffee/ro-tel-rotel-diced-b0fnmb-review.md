@@ -1,4 +1,5 @@
 ---
+
 title: "RO*TEL Rotel Diced"
 seo_title: "RO*TEL Rotel Diced Review: Verdict | TSV"
 meta_description: "Our full ro*tel rotel diced review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FNMB33GC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81VFqpaE5TS._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## What You're Actually Getting

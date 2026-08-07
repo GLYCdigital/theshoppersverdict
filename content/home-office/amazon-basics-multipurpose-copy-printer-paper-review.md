@@ -1,4 +1,5 @@
 ---
+
 title: "Amazon Basics Multipurpose Copy Printer Paper"
 seo_title: "Amazon Basics Printer Paper Review: Is It Worth It?"
 meta_description: "Amazon Basics multipurpose copy paper review: 4.8-star rated, 500-sheet ream under $7. Is it worth buying for home or office? Read our verdict."
@@ -11,13 +12,14 @@ review_count: 219605
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gOCTFCCwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Brightness rating of 92 makes text crisp and documents look professional without paying for premium stock"
   - "Consistent 20-lb weight feeds reliably through laser, inkjet, and high-volume copiers without jamming"
   - "Acid-free construction prevents yellowing, so archived documents stay legible for years"
-cons:
+cons: 
   - "Only 96 brightness — noticeably duller than 98+ sheets if you're printing photos or presentation graphics"
   - "Single ream packaging means you'll be ordering frequently if you print more than 500 pages a week"
+
 ---
 
 Some products are exciting. Printer paper is not one of them. But here's the thing: when you print 200 pages of client contracts and every single sheet feeds without jamming, dries without smudging, and holds ink without bleeding through, you stop taking paper for granted.

@@ -1,4 +1,5 @@
 ---
+
 title: "CHEERHUNTING Outdoor Dog Bed, Waterproof, Washable, Large Si"
 seo_title: "CHEERHUNTING Outdoor Dog Bed Review: Waterproof & Washable"
 meta_description: "Honest CHEERHUNTING outdoor dog bed review: waterproof, washable, large size. Real pros, cons, and buying advice from 210 Amazon ratings."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07QBZRYFH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KatTtC+oL._AC_SL1206_.jpg"
-pros:
+pros: 
   - "Truly waterproof Oxford fabric holds up to rain, mud, and hose-downs without soaking through"
   - "Removable, machine-washable cover makes deep cleaning simple — no wrestling with the whole bed"
   - Generous large size (approx. 36 inch " x 24 inch ") fits medium and large breeds like Labs, Goldens, and German Shepherds
-cons:
+cons: 
   - "The filling is not removable, so the inner pad must air dry separately after washing the cover"
   - "Some owners report the non-slip bottom shifts on smooth deck surfaces when their dog jumps on and off"
+
 ---
 
 **The CHEERHUNTING Outdoor Dog Bed solves a specific problem: you want your dog comfortable outside, but you're tired of dragging in a soaked, muddy mess every time it rains.**

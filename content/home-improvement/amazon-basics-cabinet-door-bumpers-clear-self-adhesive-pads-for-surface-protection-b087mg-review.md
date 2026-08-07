@@ -1,23 +1,25 @@
 ---
+
 title: "Amazon Basics Cabinet Door Bumpers, Clear Self Adhesive Pads"
 seo_title: "Amazon Basics Cabinet Door Bumpers Review: Clear Pads"
 meta_description: "Amazon Basics Cabinet Door Bumpers review: do clear self-adhesive pads stop slamming? Tested for stickiness, durability, and value. See pros, cons, and verdict."
 slug: "amazon-basics-cabinet-door-bumpers-clear-self-adhesive-pads-for-surface-protection-b087mg-review"
 image_alt: "Clear self-adhesive cabinet door bumpers in various sizes on a white cabinet door"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 229  
-amazon_rating: 4.6  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 229
+amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B087MG3G76/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71ld2ilp1UL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:  
+pros: 
   - "Genuinely clear pads — nearly invisible on white or light wood cabinets, unlike the foggy rubber discs most brands sell"  
   - "Strong 3M adhesive holds on textured and painted surfaces; multiple buyers report zero peel-off after six months"  
   - "Comes with 60 pads in three sizes (7/16 inch, 5/16 inch, 1/4 inch), so you can cover an entire kitchen plus bathroom vanities"  
-cons:  
+cons: 
   - "Smaller 1/4 inch pads feel thin — they stop the rattle but won't cushion a heavy drawer that slams hard"  
   - "Adhesive sticks permanently; removal leaves residue if you ever rearrange cabinets (use a hair dryer to soften)"
+
 ---
 
 If you've been living with that hollow *clack* every time a cabinet door closes, you know it's not just annoying — it's your cabinet faces slowly getting chipped. The Amazon Basics Cabinet Door Bumpers are the $7 fix that 229 buyers have rated 4.6 stars. I've tested dozens of these little discs over the years, and these clear ones finally do what they claim.

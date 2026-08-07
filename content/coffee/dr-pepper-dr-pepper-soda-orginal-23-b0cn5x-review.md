@@ -1,4 +1,5 @@
 ---
+
 title: "Dr Pepper Dr. Pepper Soda orginal 23 inch"
 seo_title: "Dr Pepper Soda Review: Is the 23-Flavor Icon Worth It?"
 meta_description: "Dr Pepper Soda review: 4.8/5 stars from 240 shoppers. Taste, carbonation, packaging, and buying advice. Find out if this 23-flavor classic delivers."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CN5XGRLP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jjJfPrAWL._SL1500_.jpg"
-pros:
+pros: 
   - "Consistent carbonation that holds up even after partial refrigeration"
   - "The 23-flavor blend delivers a balanced sweetness without the syrupy aftertaste of other colas"
   - "Packaging arrives intact thanks to solid Amazon logistics handling"
-cons:
+cons: 
   - "No caffeine-free option in this listing — you're committed to the full-caffeine formula"
   - "If you prefer glass bottles or cans, this comes in plastic 20oz bottles only"
+
 ---
 
 Let's be honest: you don't need me to tell you what Dr Pepper tastes like. You've had it at a diner, from a soda fountain, or in a cold can from a gas station. What you actually need to know is whether this specific Amazon listing is worth your money — and whether you're getting the same product you'd grab off a convenience store shelf.

@@ -1,4 +1,5 @@
 ---
+
 title: "sarben Outdoor Rug for Patio - Waterproof Plastic Straw Camp"
 seo_title: "sarben Outdoor Rug for Patio - Waterproof Plastic  Review"
 meta_description: "Our full sarben outdoor rug for patio - waterproof plastic straw camp review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DBPK9CTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91IcFs5r5vL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Weather-resistant construction for outdoor use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 title: "sarben Outdoor Rug for Patio - Waterproof Plastic Straw Camp"
 seo_title: "sarben Outdoor Rug Review: Waterproof Patio & Camping Mat"

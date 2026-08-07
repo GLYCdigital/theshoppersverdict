@@ -1,4 +1,5 @@
 ---
+
 title: "Pandery COB LED Strip,16.4ft LED Strip Lights,CRI90+ Touch D"
 seo_title: "Pandery COB LED Strip,16.4ft LED Strip Lights,CRI9 Review"
 meta_description: "Our full pandery cob led strip,16.4ft led strip lights,cri90+ touch d review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CLKKJ8M5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71khSFjmvRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The COB upgrade that fixes LED strip's biggest flaw

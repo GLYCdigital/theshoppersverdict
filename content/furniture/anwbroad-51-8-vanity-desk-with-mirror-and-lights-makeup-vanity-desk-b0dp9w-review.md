@@ -1,4 +1,5 @@
 ---
+
 title: "ANWBROAD 51.8 inch  Vanity Desk with Mirror and Lights Makeup Van"
 seo_title: "ANWBROAD 51.8 inch  Vanity Desk Review: Worth It? (2026)"
 meta_description: "ANWBROAD 51.8 inch  vanity desk with lighted mirror review: build quality, lighting, storage, and assembly. See if this 4.2-star makeup desk fits your space."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP9WJX3F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71KNj4YUDdL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Three-color adjustable LED lighting with dimmer — genuinely useful for matching makeup to different environments"
   - "51.8-inch surface fits a full makeup organizer plus a laptop, so it doubles as a work desk"
   - "Sturdy steel frame and thick MDF boards hold up well; several reviewers noted zero wobble after months of use"
-cons:
+cons: 
   - "Assembly takes 45–60 minutes with roughly 40 screws — the instructions are picture-only and occasionally confusing"
   - Mirror is not height-adjustable; taller users (5'7 inch "+) may find themselves hunching slightly
   - "The included stool, if bundled, is narrow and thinly padded — plan on replacing it or buying a separate seat"
+
 ---
 
 **Is this the vanity that finally earns a permanent spot in your bedroom?** The ANWBROAD 51.8" Vanity Desk with Mirror and Lights is aimed squarely at anyone who wants a Hollywood-style setup without Hollywood prices. With 210 ratings averaging 4.2 stars, it's clearly doing something right — but as with any furniture purchase, the devil is in the details. Here's what you actually need to know before you hit "add to cart."

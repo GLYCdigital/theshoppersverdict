@@ -1,4 +1,5 @@
 ---
+
 title: "IRIS USA Gate, Plastic Pet Gate"
 seo_title: "IRIS USA Gate, Plastic Pet Gate Review: Verdict | TSV"
 meta_description: "Our full iris usa gate, plastic pet gate review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F9B7HGDZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711sjHA3ZIL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're tired of tripping over a gate every time you carry laundry through a doorway, the IRIS USA Plastic Pet Gate deserves a hard look. With 204 ratings averaging 4.1 stars, this is a budget-friendly pressure-mount gate that gets the fundamentals right — but it has real limitations you need to know before adding it to your cart.

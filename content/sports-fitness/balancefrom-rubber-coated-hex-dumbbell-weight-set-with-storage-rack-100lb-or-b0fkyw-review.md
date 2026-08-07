@@ -1,4 +1,5 @@
 ---
+
 title: "BalanceFrom Rubber Coated Hex Dumbbell Weight Set with Stora"
 seo_title: "BalanceFrom Rubber Coated Hex Dumbbell Set Review (2026)"
 meta_description: "Honest BalanceFrom rubber coated hex dumbbell set review: build quality, grip comfort, storage rack, and who should buy it. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FKYW8RTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81fU1Ud6-zL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rubber coating is thick and odor-free — no chemical smell out of the box, unlike many budget sets"
   - "Storage rack actually fits all pairs without wobble; welded frame feels sturdier than price suggests"
   - "Hex shape prevents rolling, and the knurled chrome handles give a secure grip even with sweaty palms"
-cons:
+cons: 
   - "Rubber coating scuffs if you drop weights on concrete — cosmetic only, but noticeable on lighter colors"
   - "Rack assembly requires a hex wrench (included), and alignment holes aren't perfectly drilled on some units"
+
 ---
 
 Let's cut through the noise: a dumbbell set with a rack is the single most practical home gym purchase most people will make. No machines, no cables, no gimmicks. Just iron, rubber, and a place to put it when you're done. The BalanceFrom Rubber Coated Hex set (available in 100lb and 200lb configurations) does exactly that — and for the price, it does it very well. Here's the full picture after digging through specs and 229 buyer reviews.

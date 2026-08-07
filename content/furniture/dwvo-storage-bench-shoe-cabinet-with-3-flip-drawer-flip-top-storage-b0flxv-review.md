@@ -1,4 +1,5 @@
 ---
+
 title: "DWVO Storage Bench, Shoe Cabinet with 3 Flip Drawer & Flip-T"
 seo_title: "DWVO Storage Bench Shoe Cabinet Review: 3 Flip Drawers (2026)"
 meta_description: "DWVO storage bench with 3 flip drawers and flip-top seat: honest review of build quality, capacity, assembly, and who should buy it. 4.6/5 rating."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FLXV86PH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81aBbbeNfWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Flip-top seat reveals a hidden storage compartment underneath — doubles capacity beyond the three shoe drawers"
   - "Three flip-down drawers each hold roughly 3-4 pairs of shoes or boots, keeping the floor clear without taking up a full closet's worth of space"
   - "Assembled footprint is compact enough for narrow entryways or mudrooms — roughly 2 feet wide and 1 foot deep"
-cons:
+cons: 
   - "Particle board construction means you'll want to avoid heavy weight on the seat — it's a bench for putting on shoes, not a place for two adults to sit"
   - "Flip drawers don't slide fully out; you have to reach into the opening, which makes accessing shoes at the very back slightly awkward"
   - "Assembly takes about 45-60 minutes with cam locks and dowels — doable but not a five-minute job"
+
 ---
 
 The DWVO Storage Bench is the kind of product that makes you wonder why every entryway doesn't have one. It's a compact seat, a shoe rack, and a hidden storage bin all in one piece of furniture. At 4.6 stars across 229 ratings, it's clearly doing something right. The question is whether it's right for *your* space.

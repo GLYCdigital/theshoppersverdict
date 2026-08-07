@@ -1,4 +1,5 @@
 ---
+
 title: "Caribou Coffee, Medium Roast Naturally Decaffeinated Ground"
 seo_title: "Caribou Coffee Decaf Ground Review: Worth It? (2026)"
 meta_description: "Caribou Coffee Medium Roast decaf ground review: taste, value, and brew quality. See if this 4.7-star decaf deserves your morning cup."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CM3QY3YW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bKcrBVXqL._SL1500_.jpg"
-pros:
+pros: 
   - "Swiss Water Process removes caffeine without chemical solvents, preserving a clean, bright flavor profile"
   - "Balanced medium roast with genuine maple and berry notes — not the flat, cardboard taste most decafs deliver"
   - "Pre-ground to a consistent drip size, works well in standard brewers and pour-over without over-extraction"
-cons:
+cons: 
   - "Bag is not resealable — you'll want your own clip or canister to keep grounds fresh past week one"
   - "Lighter body than the company's darker blends; heavy-cream drinkers may find it thin"
+
 ---
 
 Most decaf coffees taste like punishment. You drink them because you want the ritual without the jitters, but you end up with something that smells like burnt toast and tastes like warm dishwater. Caribou's Medium Roast Naturally Decaffeinated ground coffee is not that coffee. After two weeks of brewing this as my daily driver, I can tell you it's the rare decaf that actually holds its own against the caffeinated stuff.

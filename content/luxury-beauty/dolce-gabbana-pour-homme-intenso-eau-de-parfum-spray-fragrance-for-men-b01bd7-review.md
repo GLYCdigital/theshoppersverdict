@@ -1,4 +1,5 @@
 ---
+
 title: "Dolce & Gabbana Pour Homme Intenso, Eau De Parfum Spray, Fra"
 seo_title: "Dolce & Gabbana Pour Homme Intenso Review: Worth It? (2026)"
 meta_description: "Dolce & Gabbana Pour Homme Intenso EDP review: performance, projection, and longevity tested. Is this 4.5-star luxury fragrance worth the price?"
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BD7PVTS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61nHFHznTlL._SL1500_.jpg"
-pros:
+pros: 
   - "Exceptional 8–10 hour longevity with strong sillage — two sprays last a full workday"
   - "Tobacco and leather notes create a sophisticated, mature scent that avoids the generic designer crowd-pleaser trap"
   - "Versatile enough for evening events and cooler months without feeling dated or overpowering"
-cons:
+cons: 
   - "Extremely potent — overspraying (3+ sprays) becomes cloying in enclosed spaces or warm weather"
   - "Price per ounce runs high even for designer EDP; no travel size option available at most retailers"
+
 ---
 
 You can spot the difference before the bottle even leaves your hand. The Dolce & Gabbana Pour Homme Intenso Eau de Parfum trades the bright citrus of the original for a darker, smokier profile — and that shift is exactly what makes it worth your attention.

@@ -1,4 +1,5 @@
 ---
+
 title: "Breville BES003 Temp Control Milk Jug Espresso Accessory for"
 seo_title: "Breville BES003 Milk Jug Review: Worth It for Latte Art?"
 meta_description: "Breville BES003 Temp Control Milk Jug review: 4.4-star rated 13oz stainless steel pitcher. Does it justify the price? We test performance, durability, and latte art results."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01A9C4PT0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/712UQZC3N7L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Built-in temperature gauge hits 140°F sweet spot for milk steaming — no more guessing"
   - "Wide 13oz capacity with a deep, angled spout that actually produces clean latte art pours"
   - "Sturdy 18/10 stainless steel construction with a comfortable, stay-cool handle"
-cons:
+cons: 
   - "Measurement markings are stamped into the interior and fade quickly with repeated washing"
   - "The temperature probe juts into the pour path — you'll need to tilt more aggressively to avoid drips"
+
 ---
 
 Let's cut through the noise: the Breville BES003 is a $20-ish milk pitcher that promises café-grade temp control without a thermometer. Does it deliver? After 40+ lattes across three weeks, here's the honest breakdown.

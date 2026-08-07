@@ -1,4 +1,5 @@
 ---
+
 title: "Monument Grills Larger Convertible 4-Burner Natural Gas Gril"
 seo_title: "Monument Grills Larger Convertible 4-Burner Natura Review"
 meta_description: "Our full monument grills larger convertible 4-burner natural gas gril review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BF9NJVXS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Qe8EBvx+L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Safe materials you can trust"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "convertible" gas grills are a marketing gimmick. They ship as propane and expect you to buy a $40 conversion kit, then void your warranty when you fiddle with the orifices. The Monument Grills Larger Convertible 4-Burner flips that script — it arrives ready for natural gas, which is rare at this price point, and it's why this grill has earned a 4.5-star average from 225 buyers.

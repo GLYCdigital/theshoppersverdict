@@ -1,4 +1,5 @@
 ---
+
 title: "Dog Food Mat, Silicone Dog and Cat Mat for Food and Water Bo"
 seo_title: "Dog Food Mat Silicone Review: Worth It? (2026)"
 meta_description: "Honest Dog Food Mat silicone review: absorbs spills, protects floors, easy to clean. See pros, cons, and real buyer feedback before you buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DB3D3Z1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Itx06qWwL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Raised lip design traps water and kibble effectively, keeping floors dry"
   - "100% food-grade silicone — no chemical smell, safe for pets"
   - "Wipes clean in seconds; no scrubbing or dishwasher hassle"
-cons:
+cons: 
   - "Thin material can curl at corners if bowls are heavy"
   - "Not large enough for giant breed bowls or messy eaters who fling food"
+
 ---
 
 **The Short Version**

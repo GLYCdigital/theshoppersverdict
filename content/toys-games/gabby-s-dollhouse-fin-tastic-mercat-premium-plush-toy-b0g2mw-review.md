@@ -1,4 +1,5 @@
 ---
+
 title: "Gabby’s Dollhouse Fin-Tastic Mercat Premium Plush Toy Review"
 seo_title: "Gabby’s Dollhouse Fin-Tastic Mercat Plush Review (2026)"
 meta_description: "Honest review of the Gabby’s Dollhouse Fin-Tastic Mercat plush: softness, size, durability, and who it’s best for. See real buyer feedback before buying."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G2MW2J43/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41HyN6lzPcL._AC_SY355_.jpg"
-pros:
+pros: 
   - "Exceptionally soft premium fabric that holds up to repeated hugging and play"
   - "Accurate to the show's character with detailed embroidered face and shimmery mermaid tail"
   - "Generous size for the price point — substantial lap-friendly plush"
-cons:
+cons: 
   - "Tail fabric shows light wear with aggressive play (surface pilling possible)"
   - "Not machine-washable — spot clean only, which frustrates some parents"
+
 ---
 
 If your kid is obsessed with Gabby’s Dollhouse — and let’s be honest, most preschoolers are — the Fin-Tastic Mercat plush is one of those rare licensed toys that actually delivers on the hype. With a 4.8-star average across 240 ratings, this isn’t a $15 impulse buy that ends up in the donate pile by February. Here’s the real story.

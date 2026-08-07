@@ -1,4 +1,5 @@
 ---
+
 title: "CABDM Drawer Pulls Matte Black Cabinet Cup Pulls Kitchen Har"
 seo_title: "CABDM Drawer Pulls Review: Matte Black Cup Pulls Worth It?"
 meta_description: "Honest CABDM matte black cup pulls review: build quality, sizing, installation tips, and real buyer feedback. See if these cabinet handles fit your remodel."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DGXLJRDC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/718Fc8jnMRL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid zinc alloy construction with a consistent, scratch-resistant matte black finish"
   - "Multiple size options (3-inch, 5-inch, 6.4-inch) let you match existing cabinet hole spacing"
   - "Includes mounting screws and a template — rare at this price point"
-cons:
+cons: 
   - "Matte black coating can chip if you over-torque screws during installation"
   - "Slightly narrower grip than some competing cup pulls — feels tight for larger hands"
+
 ---
 
 Let me be blunt: most budget cabinet hardware is junk. Thin stamped metal, finish that flakes off in six months, screws that strip the moment you look at them. The CABDM matte black cup pulls aren't that. But they're not premium hardware either — and knowing the difference before you order saves you a return trip.

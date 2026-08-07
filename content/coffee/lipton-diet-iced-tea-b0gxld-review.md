@@ -1,4 +1,5 @@
 ---
+
 title: "Lipton Diet Iced tea"
 seo_title: "Lipton Diet Iced tea Review: Verdict | TSV"
 meta_description: "Our full lipton diet iced tea review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GXLDMKBC/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81N-ffxnj1L._SL1500_.jpg"
-pros:
+pros: 
   - "Rich flavor profile from quality ingredients"
   - "Easy brewing process for daily enjoyment"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're staring at a box of powdered tea mix and wondering if it's worth the cabinet space. Here's the short version: Lipton Diet Iced Tea delivers exactly what it promises — a brisk, unsweetened-style black tea with a whisper of lemon that dissolves in cold water in about ten seconds. But it's not without quirks, and the sweetener choice will make or break this for you.

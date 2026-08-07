@@ -1,4 +1,5 @@
 ---
+
 title: "T-SUNUS Solar Spotlights Landscape"
 seo_title: "T-SUNUS Solar Spotlights Landscape Review: Verdict | TSV"
 meta_description: "Our full t-sunus solar spotlights landscape review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09Y1S663M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71DoKxI3ewL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $40 solution to "my yard looks like a black hole at night"

@@ -1,4 +1,5 @@
 ---
+
 title: "Zinus Wood Platform"
 seo_title: "Zinus Wood Platform Review: Verdict | TSV"
 meta_description: "Our full zinus wood platform review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D8V6WDZF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/618GSv9SKoL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've spent any time scrolling bed frames on Amazon, you know the platform bed market is a minefield of wobbly metal tubes and particleboard that crumbles by month three. The Zinus Wood Platform, sitting at a solid 4.6 out of 5 from 229 verified buyers, has become the quiet workhorse of the budget bedroom. But is it actually worth your money, or is that rating just another case of Amazon review inflation?

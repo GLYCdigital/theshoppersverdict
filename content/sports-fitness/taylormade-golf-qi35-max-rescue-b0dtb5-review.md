@@ -1,4 +1,5 @@
 ---
+
 title: "TaylorMade Golf Qi35 Max Rescue"
 seo_title: "TaylorMade Golf Qi35 Max Rescue Review: Verdict | TSV"
 meta_description: "Our full taylormade golf qi35 max rescue review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DTB59MDH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51pagJA6N2L._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **You've seen the "Qi" branding everywhere — but does the Max Rescue actually fix your long-iron problem? After 240 Amazon ratings averaging 4.8 stars, the consensus is loud: this is the most forgiving hybrid TaylorMade has made in years. Here's the honest breakdown.**

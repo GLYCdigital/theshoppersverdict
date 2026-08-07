@@ -1,4 +1,5 @@
 ---
+
 title: "MECO Stakmore School House Wooden Folding Chairs with Padded"
 seo_title: "MECO Stakmore School House Wooden Folding Chairs w Review"
 meta_description: "Our full meco stakmore school house wooden folding chairs with padded review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GPQV5MQS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Q4-mjfGDL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The MECO Stakmore School House chair solves the oldest problem in folding furniture: how do you make something portable that doesn't feel like a punishment to sit on? Most folding chairs are either feather-light aluminum that wobbles, or heavy wooden behemoths that take up half your garage. These sit squarely in the middle — and for most buyers, that's exactly the sweet spot.

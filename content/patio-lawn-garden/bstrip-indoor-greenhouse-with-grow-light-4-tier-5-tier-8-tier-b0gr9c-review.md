@@ -1,24 +1,26 @@
 ---
+
 title: "Bstrip Indoor Greenhouse with Grow Light, 4-Tier, 5-Tier & 8 inch  "
 seo_title: "Bstrip Indoor Greenhouse with Grow Light Review (2026)"
 meta_description: "Honest Bstrip Indoor Greenhouse with Grow Light review: 4.4-star rated. See pros, cons, real buyer feedback, and who should buy this 4/5/8-tier unit."
 slug: "bstrip-indoor-greenhouse-with-grow-light-4-tier-5-tier-8-tier-b0gr9c-review"
 image_alt: "Bstrip indoor greenhouse with grow light, four-tier metal frame with transparent shelves and LED bars"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GR9CB2LB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BpHdCozAL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Full-spectrum LED grow lights on each tier — seedlings don't stretch or lean toward windows"  
   - "Tool-free snap-together assembly takes under 15 minutes; no wobbly joints"  
   - "Clear PVC shelves let light pass through to lower levels, so every plant gets usable lumens"  
-cons:  
+cons: 
   - "Grow light timer is basic (8h on/16h off only) — no dimming or custom schedules"  
   - "8-tier version feels top-heavy with heavy pots; anchor it to a wall if you have kids or pets"  
   - "Zipper cover is thin; it tears if you're rough pulling it open daily"
+
 ---
 
 **Who actually needs a grow-light greenhouse in their living room?** Not the person with a sunny south-facing bay window. But if you're starting seeds in February, overwintering herbs, or trying to keep tropicals alive through a gray winter, this Bstrip unit earns its floor space. With 220 ratings averaging 4.4 stars, it's clearly doing something right — and a few things imperfectly.

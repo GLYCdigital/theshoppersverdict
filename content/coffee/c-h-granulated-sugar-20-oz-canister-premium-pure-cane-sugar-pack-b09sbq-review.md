@@ -1,4 +1,5 @@
 ---
+
 title: "C&HÂ® Granulated Sugar, 20 oz Canister Premium Pure Cane Sug"
 seo_title: "C&H Granulated Sugar 20 oz Canister Review: Pure Cane"
 meta_description: "C&H pure cane granulated sugar 20 oz canister review: dissolves fast, resealable lid, 4.5-star rated. See who should buy it and who should skip."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09SBQ3CNZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710RAdjZxsL._SL1281_.jpg"
-pros:
+pros: 
   - "Fine crystal size dissolves almost instantly in iced coffee and cold brew — no gritty sediment at the bottom of the glass"
   - "Resealable flip-top canister pours cleanly without clumping, even in humid kitchens"
   - "100% pure cane sugar with no GMO or beet sugar blending — consistent sweetness batch to batch"
-cons:
+cons: 
   - "20 oz canister is small for heavy coffee drinkers — expect to reorder every 2-3 weeks if you sweeten 2+ cups daily"
   - "Canister is plastic, not airtight; over months it can absorb kitchen odors and harden slightly"
+
 ---
 
 Sugar isn't the sexiest purchase in your coffee routine, but it's the one you notice when it's wrong. Lumpy, beet-tasting, or slow-to-dissolve sugar ruins a perfectly good pour-over. C&H's 20 oz canister of pure cane granulated sugar avoids all those failures — and at 4.5 stars across 225 ratings, it's clearly earning its place in cabinets.

@@ -1,4 +1,5 @@
 ---
+
 title: "FibroPool Pool Vacuum Head - 14.4 inch  Weighted Flexible Design"
 seo_title: "FibroPool Pool Vacuum Head Review: Weighted 14.4 inch  Design"
 meta_description: "Honest FibroPool 14.4 inch  weighted pool vacuum head review. Tested on inground & above-ground pools. See pros, cons, and who should buy."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01JYX4WPW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61RJb9JYFWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "14.4-inch wide head covers more surface per pass than standard 12-inch heads, cutting vacuum time noticeably"
   - "Built-in weight keeps the head hugging the pool floor without constant downward pressure on the pole"
   - "Flexible body absorbs impact against walls and steps without cracking or chipping plaster"
-cons:
+cons: 
   - "Weight can make it feel sluggish on vertical walls — you'll need to angle the pole to keep it climbing"
   - "Wheels are hard plastic and can leave light marks on soft vinyl liners if you press down hard"
+
 ---
 
 If you've ever wrestled a vacuum head that floats to the surface the second you relax your grip, you already know why the FibroPool 14.4" Weighted Flexible Design is worth a hard look. At 4.5 stars from 225 ratings, this isn't an obscure accessory — it's a workhorse that pool owners actually talk about. The question is whether it fits your specific setup.

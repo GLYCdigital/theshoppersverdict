@@ -1,4 +1,5 @@
 ---
+
 title: "American Girl, Truly Me #125 Doll & Dance All Day Set, with"
 seo_title: "American Girl Truly Me #125 Doll & Dance Set Review"
 meta_description: "Honest American Girl Truly Me #125 Doll & Dance All Day Set review: build quality, outfit details, who it's for, and who should skip it."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F1Q8KHV1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81P4IW7zDOL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "18-inch doll with realistic, rooted light brown hair that holds styling well"
   - "Dance All Day outfit includes a leotard, wrap skirt, leg warmers, and ballet flats — not just a single dress"
   - "Articulated limbs allow for posing in dance positions, not just stiff standing"
-cons:
+cons: 
   - "No extra outfit included beyond the dance set — kids who want variety will need to buy separately"
   - "Shoes are snug and difficult for small hands to remove independently"
   - "Hair requires gentle brushing; aggressive play leads to frizz at the crown"
+
 ---
 
 Let's cut through the hype. The American Girl Truly Me #125 Doll with the Dance All Day Set is a $100+ investment, and you want to know if it's worth it before you click buy. I've analyzed the specs, combed through 240 verified ratings, and broken down what the 4.8-star average actually means for your specific kid.

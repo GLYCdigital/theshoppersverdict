@@ -1,4 +1,5 @@
 ---
+
 title: "Kobalt 80-volt 2.5-Amp Hours Rechargeable Lithium Ion Cordle"
 seo_title: "Kobalt 80-volt 2.5-Amp Hours Rechargeable Lithium  Review"
 meta_description: "Our full kobalt 80-volt 2.5-amp hours rechargeable lithium ion cordle review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07L2KGDS2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41+kaIu3A1S._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Bottom line: The Kobalt 80V 2.5Ah battery is the workhorse of the Kobalt cordless lineup — if you already own 80V tools. If you're starting fresh, the 2.5Ah capacity might leave you wanting more runtime.**

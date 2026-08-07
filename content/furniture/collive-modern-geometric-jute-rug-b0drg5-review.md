@@ -1,5 +1,6 @@
 ---
 
+
 title: "Collive Modern Geometric Jute Rug"
 seo_title: "Collive Modern Geometric Jute Rug Review: Honest Take"
 meta_description: "Collive geometric jute rug review: durability, shedding, and style. Is this 4.5-star natural fiber rug worth it? Real buyer insights inside."
@@ -12,13 +13,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRG577FP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81iCBYlg2fL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dense 1/2-inch pile that handles heavy foot traffic without flattening — rare for natural fiber rugs under $150 inch"
   - "Geometric pattern is woven, not printed, so it won't fade or wear off in high-contact zones"
   - "Lay-flat edges with no curling corners, even after vacuuming and weeks of use"
-cons:
+cons: 
   - "Shedding is real for the first 3-4 weeks — expect to vacuum twice weekly and sweep the perimeter daily"
   - "Jute fibers feel rough on bare feet; this is not a 'curl up on the floor' rug, it's a visual anchor"
+
 
 ---
 

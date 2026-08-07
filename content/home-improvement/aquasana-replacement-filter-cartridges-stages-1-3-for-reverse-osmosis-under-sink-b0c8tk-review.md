@@ -1,4 +1,5 @@
 ---
+
 title: "Aquasana Replacement Filter Cartridges (Stages 1 & 3) for Re"
 seo_title: "Aquasana Replacement Filters (Stages 1 & 3) Review: Worth It?"
 meta_description: "Honest Aquasana replacement filter cartridges (Stages 1 & 3) review. Performance, lifespan, cost per gallon, and real buyer feedback. Is it worth the upgrade?"
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8TKZ2WS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HjCbvjylL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Easy 1/4-turn twist-and-lock installation — no tools needed, takes under 5 minutes per cartridge"
   - "Consistent water flow rate with no noticeable pressure drop compared to OEM cartridges"
   - "Clear 6-month lifespan indicator printed on the housing helps track replacement timing"
-cons:
+cons: 
   - "Only comes as a 2-pack (Stages 1 and 3) — you still need to buy the Stage 2 RO membrane separately"
   - "Price per cartridge runs higher than generic alternatives, though build quality justifies some premium"
+
 ---
 
 **The Hidden Cost of Clean Water: Why This Filter Pack Matters**

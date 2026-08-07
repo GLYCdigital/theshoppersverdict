@@ -1,7 +1,8 @@
 ---
-title: "ONBRILL 71\" Tall Pantry Storage Cabinet With Microwave Stand"
-seo_title: "ONBRILL 71\" Tall Pantry Storage Cabinet With Micro Review"
-meta_description: "Our full onbrill 71\" tall pantry storage cabinet with microwave stand review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "ONBRILL 71\ Tall Pantry Storage Cabinet With Microwave Stand"
+seo_title: "ONBRILL 71\ Tall Pantry Storage Cabinet With Micro Review"
+meta_description: "Our full onbrill 71\ tall pantry storage cabinet with microwave stand review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "onbrill-71-tall-pantry-storage-cabinet-with-microwave-stand-door-shelf-freestanding-b0dj76-review"
 image_alt: "ONBRILL 71 Tall Pantry Storage Cabinet With Microwave Stand & Door Shelf, Freestanding Hutch With 6 Doors and Adjustable"
 verdict_score: 4.2
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJ76T8SM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71oIwU4HQtL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest: most tall pantry cabinets under $200 are wobbly, particleboard nightmares that sag under the weight of a single can of soup. The ONBRILL 71" Tall Pantry Storage Cabinet with Microwave Stand aims to break that mold. After digging through 215 ratings and the spec sheet, here's the real story.

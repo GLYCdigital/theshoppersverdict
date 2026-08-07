@@ -1,4 +1,5 @@
 ---
+
 title: "Acan 100FT Christmas Lights, 300 LED Outdoor String Lights,"
 seo_title: "Acan 100FT Christmas Lights Review: 300 LED Outdoor String"
 meta_description: "Honest Acan 100FT Christmas Lights review: 300 LEDs, 8 modes, waterproof. Real buyer feedback on durability, brightness, and value."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CQNF7BMV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71wvcgLFeEL._AC_SL1158_.jpg"
-pros:
+pros: 
   - "Full 100-foot run with 300 LEDs — covers a two-story roofline or large patio in one string"
   - "8 lighting modes including steady, fade, and chasing patterns via inline controller"
   - "IP65 weatherproof rating with thick 2.3mm wire that handles winter wind and ice"
-cons:
+cons: 
   - "Warm white only — no color or cool white option for buyers who want a modern tone"
   - "Controller memory resets to default mode after power loss; must re-select each time"
   - "Light output is decorative, not task-level — dimmer than commercial C9 strings"
+
 ---
 
 A 100-foot string of lights is a commitment. You're either covering a serious roofline, wrapping a massive tree, or outlining a deck that actually gets used. The Acan 100FT Christmas Lights with 300 LEDs is built for exactly that scale — and for most homeowners, it delivers more than enough glow without a second extension cord.

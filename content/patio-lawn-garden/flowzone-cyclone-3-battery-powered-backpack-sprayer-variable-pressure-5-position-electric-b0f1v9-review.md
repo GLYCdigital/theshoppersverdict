@@ -1,4 +1,5 @@
 ---
+
 title: "FlowZone Cyclone 3 Battery Powered Backpack Sprayer - Variab"
 seo_title: "FlowZone Cyclone 3 Backpack Sprayer Review: Is It Worth It?"
 meta_description: "FlowZone Cyclone 3 backpack sprayer review: variable pressure, 5-position wand, battery life tested. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1V9N5MV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711ZLiD+k9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Variable pressure dial (0–90 PSI) gives real control from fine mist to jet stream"
   - "5-position brass wand tip tackles everything from seedlings to fence lines"
   - "Battery runs 2–3 full tanks on a charge — enough for a half-acre lot"
-cons:
+cons: 
   - "Pump noise is noticeable — not silent, but not lawnmower loud either"
   - "Straps lack padding; heavy loads dig in on long jobs"
   - "No battery level indicator — you'll get caught flat mid-spray"
+
 ---
 
 If you've ever pumped a manual backpack sprayer until your arm cramped, the FlowZone Cyclone 3 will feel like a revelation. This electric unit swaps the hand pump for a 12V motor and a dial that adjusts pressure from a gentle 0 PSI up to a solid 90. It's not the cheapest option on Amazon, but it's priced right for homeowners who spray more than a couple of tanks a season.

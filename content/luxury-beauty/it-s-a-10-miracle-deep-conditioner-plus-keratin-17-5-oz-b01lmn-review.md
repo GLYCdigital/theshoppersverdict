@@ -1,4 +1,5 @@
 ---
+
 title: "It's a 10 Miracle Deep Conditioner Plus Keratin 17.5 oz"
 seo_title: "It's a 10 Miracle Deep Conditioner Plus Keratin 17 Review"
 meta_description: "Our full it's a 10 miracle deep conditioner plus keratin 17.5 oz review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LMNPGIE/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61KO3Ieye9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # It's a 10 Miracle Deep Conditioner Plus Keratin: The 10-Minute Fix Your Hair's Been Begging For

@@ -1,23 +1,25 @@
 ---
+
 title: "Colombina Delicate Fruit Filled Drops Individually wrapped h"
 seo_title: "Colombina Fruit Drops Review: Bulk Hard Candy Worth It?"
 meta_description: "Read our honest Colombina Delicate Fruit Filled Drops review. Flavor, texture, and value breakdown with real buyer feedback. Is this bulk candy worth it?"
 slug: "colombina-delicate-fruit-filled-drops-individually-wrapped-hard-candy-in-a-bulk-b0d2fw-review"
 image_alt: "Colombina Delicate Fruit Filled Drops individually wrapped hard candies in bulk packaging"
-verdict_score: 4.2  
-date: 2026-08-06  
-price: null  
-review_count: 220  
-amazon_rating: 4.4  
+verdict_score: 4.2
+date: 2026-08-06
+price: null
+review_count: 220
+amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2FWHKX5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91OgoUAu3ML._SL1500_.jpg"
-pros:  
+pros: 
   - "Genuine fruit juice filling in every drop—not artificial syrup"  
   - "Individually wrapped, so they survive in a purse or glovebox without sticking"  
   - "Bulk bag at roughly 200 pieces—good per-candy value"  
-cons:  
+cons: 
   - "Some pieces arrive cracked from shipping, which exposes the filling and makes them sticky"  
   - "Flavor intensity varies notably between batches—cherry pops, lemon fades fast"
+
 ---
 
 If you’ve ever bought a bulk bag of fruit candy and ended up with a clump of sugar shards glued together by syrup, you know the disappointment. The Colombina Delicate Fruit Filled Drops avoid that trap with a simple design choice: each piece is individually wrapped. That alone makes them worth a look for anyone who keeps candy in a bag, desk drawer, or car console. But do the drops themselves deliver? After digging through 220 Amazon ratings (4.4 stars average) and testing a bag myself, here’s the honest picture.

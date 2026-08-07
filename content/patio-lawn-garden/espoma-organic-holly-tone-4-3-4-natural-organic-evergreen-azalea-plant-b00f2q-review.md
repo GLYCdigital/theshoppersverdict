@@ -1,4 +1,5 @@
 ---
+
 title: "Espoma Organic Holly-Tone 4-3-4 Natural & Organic Evergreen"
 seo_title: "Espoma Holly-Tone Review: Best Acidic Fertilizer for Evergreens"
 meta_description: "Read our honest Espoma Holly-Tone 4-3-4 review. See how this organic fertilizer boosts azaleas, blueberries, and evergreens—plus real buyer feedback."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00F2QOZ1M/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81poX9CWQzL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Immediate greening on azaleas, rhododendrons, and blueberries within 2–3 weeks"
   - "Won't burn roots even if you over-apply slightly—safe for established shrubs"
   - "Adds organic matter to soil while feeding, improving long-term soil structure"
-cons:
+cons: 
   - "Strong earthy odor for first 24–48 hours after application—noticeable near patios"
   - "Not suitable for alkaline-loving plants like lilacs or most vegetables"
+
 ---
 
 **Espoma Organic Holly-Tone 4-3-4 Natural & Organic Evergreen Review: The Acid-Lover's Standard**

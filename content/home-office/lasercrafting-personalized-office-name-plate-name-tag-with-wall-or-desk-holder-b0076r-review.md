@@ -1,4 +1,5 @@
 ---
+
 title: "Lasercrafting Personalized Office Name Plate/Name Tag With W"
 seo_title: "Lasercrafting Personalized Office Name Plate/Name  Review"
 meta_description: "Our full lasercrafting personalized office name plate/name tag with w review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0076RR4EU/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PzcxMywbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The short version:** If you're tired of cheap plastic name tags that look like they came from a conference swag bag, this Lasercrafting plate is a legit upgrade. It's the kind of sign that makes your desk look like you actually care about your workspace — and at 4.8 stars across 240 ratings, buyers consistently agree.

@@ -1,23 +1,25 @@
 ---
+
 title: "Great Eastern GE-52523 Sonic The Hedgehog 11 inch  Metal Sonic St"
 seo_title: "Great Eastern GE-52523 Metal Sonic Stuffed Plush Review"
 meta_description: "Great Eastern GE-52523 Metal Sonic plush review: 11 inch  size, build quality, and buyer feedback. Is this hedgehog worth your money? Find out here."
 slug: "great-eastern-ge-52523-sonic-the-hedgehog-11-metal-sonic-stuffed-plush-b01gwa-review"
 image_alt: "Great Eastern GE-52523 11-inch Metal Sonic stuffed plush toy on white background"
-verdict_score: 4.6  
-date: 2026-08-06  
-price: null  
-review_count: 240  
-amazon_rating: 4.8  
+verdict_score: 4.6
+date: 2026-08-06
+price: null
+review_count: 240
+amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01GWAISTG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71aufsbTeVL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Bright, screen-accurate colors with crisp printed details that don't fade after washing"  
   - "Sturdy, dense stuffing holds shape even after aggressive play from kids"  
   - "Zipper on the back allows easy battery access for the 2 AA light-up chest core"  
-cons:  
+cons: 
   - "Chest light is the only feature — no sound effects or motion, so older collectors may want more"  
   - "Batteries not included; you'll need a small Phillips screwdriver for the battery door"
+
 ---
 
 If you've got a Sonic fan in your life — or you're one yourself — you've probably seen a wall of cheap, flimsy plush toys that look vaguely like the Blue Blur but fall apart by Tuesday. The Great Eastern GE-52523 Metal Sonic plush is not that. At 11 inches tall, it's the rare licensed toy that actually respects the source material while holding up to real-world abuse.

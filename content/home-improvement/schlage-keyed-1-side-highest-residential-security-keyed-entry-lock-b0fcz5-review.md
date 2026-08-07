@@ -1,4 +1,5 @@
 ---
+
 title: "SCHLAGE Keyed 1 Side, Highest Residential Security, Keyed En"
 seo_title: "SCHLAGE Keyed 1 Side, Highest Residential Security Review"
 meta_description: "Our full schlage keyed 1 side, highest residential security, keyed en review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FCZ575H5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51jFcT9lTML._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You’re not buying a lock. You’re buying the difference between a burglar spending 30 seconds at your door versus 10 minutes. The SCHLAGE Keyed 1 Side deadbolt sits at the top of Schlage’s residential security line, and it earns that position — but it’s not for everyone. Let me tell you exactly who should buy it and who should walk away.

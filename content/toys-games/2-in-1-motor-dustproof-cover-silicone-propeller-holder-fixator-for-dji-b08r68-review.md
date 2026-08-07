@@ -1,4 +1,5 @@
 ---
+
 title: "(2-in-1) Motor Dustproof Cover + Silicone Propeller Holder F"
 seo_title: "2-in-1 Motor Dustproof Cover & Propeller Holder Review"
 meta_description: "Honest review of the 2-in-1 motor dustproof cover and silicone propeller holder for DJI drones. Real pros, cons, and fit notes from 225+ ratings."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08R68YC84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/616DtyhJVlL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "One-piece design covers both motors and props during transport — zero loose parts to lose in a gear bag"
   - "Silicone material stretches to fit snugly over DJI's folding props without scratching the blades"
   - "Dust seal around the motor bells actually blocks grit — not just decorative coverage"
-cons:
+cons: 
   - "Only fits specific DJI models (Air 2S and Mavic 3 series) — check compatibility before buying"
   - "Silicone picks up lint and pocket fuzz quickly; looks grimy after a few weeks in a backpack"
+
 ---
 
 If you've ever pulled a drone out of a backpack to find the motor bells coated in trail dust or the prop blades bent from rattling around loose, this little silicone kit is the $20 fix you didn't know you needed. The (2-in-1) Motor Dustproof Cover + Silicone Propeller Holder packs both protection jobs into one stretchy piece of molded rubber.

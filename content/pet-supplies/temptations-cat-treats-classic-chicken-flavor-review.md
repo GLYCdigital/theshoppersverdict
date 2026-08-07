@@ -1,16 +1,17 @@
 ---
+
 title: "Temptations Cat Treats, Classic Crunchy and Soft, Chicken Flavor, 30 oz Tub"
 seo_title: "Temptations Cat Treats Review: Chicken Flavor 30 oz (4.8/5)"
 meta_description: "Read our Temptations Classic Chicken Cat Treats review based on 72,000+ Amazon reviews. Crunchy outside, soft inside, under 2 calories each — the ultimate cat snack?"
 slug: "temptations-cat-treats-classic-chicken-flavor-review"
 image_alt: "Temptations Cat Treats Classic Crunchy and Soft Chicken Flavor 30 oz Tub"
-keywords:
+keywords: 
   - "Temptations cat treats review"
   - "best cat treats chicken flavor"
   - "Temptations 30 oz tub review"
   - "cat snack treats"
 verdict_score: 4.8
-faq:
+faq: 
   - question: "Are Temptations cat treats healthy for daily feeding?"
     answer: "They are 100% nutritionally complete for adult cat maintenance and under 2 calories per treat. Use in moderation — some cats may get an upset stomach with too many."
   - question: "How many cats go crazy for these treats?"
@@ -23,16 +24,17 @@ review_count: 72281
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/8108Aln7zcL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cats absolutely love them — near-universal appeal"
   - "Under 2 calories per treat for guilt-free rewarding"
   - "Crunchy outside, soft inside texture cats love"
   - "Resealable tub keeps treats fresh"
   - "100% complete nutrition for adult cats"
-cons:
+cons: 
   - "Some cats may get sick if they eat too many too fast"
   - "Crumbs at bottom of tub can be wasteful"
   - "Tub arrives without lid seal occasionally per reviews"
+
 ---
 
 There are cat treats that cats like. Then there's Temptations — the treat that turns dignified felines into four-legged addicts who *"knock the whole bucket down just to get to them, like a kid with a cookie jar."*

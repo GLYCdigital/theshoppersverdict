@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Fountain Carbon Filters & Foam Filters, 8/2 Pack for Cer"
 seo_title: "Cat Fountain Carbon Filters 8/2 Pack Review: Worth It?"
 meta_description: "Cat Fountain Carbon Filters & Foam Filters 8/2 Pack review: fit, filtration quality, cost per filter, and honest downsides for ceramic & stainless fountains."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SKRY8T4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QvZ5FhaFL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "8 carbon + 2 foam filters at roughly half the cost of OEM replacements"
   - "Universal fit works across most ceramic and stainless fountains with standard round cartridges"
   - "Included foam pre-filter catches hair and debris before it clogs the pump"
-cons:
+cons: 
   - "Carbon granules can shed fine black dust for the first 24 hours — rinse thoroughly before installing"
   - "Foam filters are thinner than some OEM versions and may need replacement sooner if you have heavy shedders"
+
 ---
 
 You know the drill: your cat's fountain starts making that gurgling sound, the pump strainer is fuzzy with fur, and you're staring at a $15 bag of two replacement filters from the name-brand manufacturer. This 8/2 pack from Cer cuts that cost by more than half. But does "compatible" actually mean "good"? After digging through 229 ratings and the fine print, here's the honest picture.

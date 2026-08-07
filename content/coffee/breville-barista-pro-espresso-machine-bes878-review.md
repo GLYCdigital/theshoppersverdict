@@ -1,4 +1,5 @@
 ---
+
 title: "Breville Barista Pro Espresso Machine BES878BSS, Brushed Stainless Steel"
 seo_title: "Breville Barista Pro Review: Worth It in 2026?"
 meta_description: "Breville Barista Pro BES878BSS review: fast heat-up, built-in grinder, and café-quality shots. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 3357
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08133HX34/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71FBZj9tisL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "ThermoJet heating system reaches extraction temperature in about 3 seconds — no 20-minute warm-up wait"
   - "Integrated conical burr grinder with 30 grind settings saves counter space and workflow time"
   - "Digital temperature control (PID) holds water temp within ±2°F for consistent shots"
-cons:
+cons: 
   - "Grinder retention is real — you'll waste roughly 2-3g of coffee per dose switching grind sizes"
   - "No three-way solenoid valve means wet pucks and a messier knock box ritual"
   - "Steam wand is powerful but takes practice; it's not a dual-boiler, so you can't brew and steam simultaneously"
+
 ---
 
 ## The $850 question: Does the Barista Pro deliver café-quality shots at home, or are you paying for a logo?

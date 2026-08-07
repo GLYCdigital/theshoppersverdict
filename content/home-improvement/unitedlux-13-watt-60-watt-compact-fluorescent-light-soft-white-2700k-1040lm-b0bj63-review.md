@@ -1,4 +1,5 @@
 ---
+
 title: "UNITEDLUX 13 Watt (60 Watt) Compact Fluorescent Light, Soft "
 seo_title: "UNITEDLUX 13 Watt (60 Watt) Compact Fluorescent Li Review"
 meta_description: "Our full unitedlux 13 watt (60 watt) compact fluorescent light, soft  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJ63M29D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61GLU+yOtLL._AC_SL1100_.jpg"
-pros:
+pros: 
   - "Space-saving and portable design"
   - "Designed for comfort during extended use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You probably clicked on this because you're tired of swapping incandescent bulbs every few months — or maybe you're still holding out on LEDs because you hate that icy blue light they throw. The UNITEDLUX 13-watt CFL sits right in that uncomfortable middle ground: it's not new tech, but it does one thing exceptionally well. It mimics the warm, familiar glow of a 60-watt incandescent almost perfectly, at about a quarter of the energy draw.

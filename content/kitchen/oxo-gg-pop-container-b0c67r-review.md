@@ -1,4 +1,5 @@
 ---
+
 title: "OXO GG POP CONTAINER"
 seo_title: "OXO GG POP CONTAINER Review: Verdict | TSV"
 meta_description: "Our full oxo gg pop container review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C67RD6H1/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most food storage containers are either cheap plastic that stains or overpriced glass that shatters when you look at it wrong. The OXO GG POP Container tries to split the difference, and after digging through 200 Amazon ratings and the specs, here's what actually matters.

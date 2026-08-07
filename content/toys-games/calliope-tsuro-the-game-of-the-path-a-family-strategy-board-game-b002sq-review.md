@@ -1,4 +1,5 @@
 ---
+
 title: "Calliope Tsuro - The Game of The Path - A Family Strategy Bo"
 seo_title: "Tsuro Board Game Review: Is This Path-Building Classic Worth It?"
 meta_description: "Our honest Tsuro board game review covers gameplay, build quality, and replay value. See why 240+ Amazon buyers rate this path game 4.8 stars."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B002SQBB3O/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91XcXdSg4eL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "10-minute play time makes it ideal for quick rounds between other activities"
   - "Beautifully illustrated board and tiles that hold up to repeated play sessions"
   - "Scales cleanly from 2 to 8 players without dragging or losing tension"
-cons:
+cons: 
   - "Player elimination means early exits for unlucky or careless players"
   - "Light strategy depth — experienced gamers may find it thin after several plays"
+
 ---
 
 ## The Game That Gets Everyone to the Table

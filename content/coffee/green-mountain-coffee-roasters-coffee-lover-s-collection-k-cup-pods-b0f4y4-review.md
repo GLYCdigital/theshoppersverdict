@@ -1,4 +1,5 @@
 ---
+
 title: "Green Mountain Coffee Roasters Coffee Lover's Collection K-C"
 seo_title: "Green Mountain Coffee Roasters Coffee Lover's Coll Review"
 meta_description: "Our full green mountain coffee roasters coffee lover's collection k-c review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4Y4CSYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81--vskb6PL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 # Green Mountain Coffee Roasters Coffee Lover's Collection K-Cup Review: The Variety Box That Actually Delivers

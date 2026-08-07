@@ -1,4 +1,5 @@
 ---
+
 title: "Anthony's Premium Nutritional Yeast Flakes, 10 oz, Non Forti"
 seo_title: "Anthony's Nutritional Yeast Flakes Review (2026): Is It Worth It?"
 meta_description: "Honest Anthony's Premium Nutritional Yeast Flakes review: taste, texture, value, and who should buy this non-fortified 10 oz batch. Find out if it's right for you."
@@ -11,14 +12,15 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FRLVC5CH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KLtHqELwL._SL1500_.jpg"
-pros:
+pros: 
   - "Non-fortified means clean ingredients — just deactivated yeast, no synthetic vitamin overkill for those who want control over supplementation"
   - "Batch-tested for purity and consistency; you're not gambling on a stale or contaminated pouch"
   - "10 oz resealable pouch is practical — enough for daily use without taking up half your pantry"
-cons:
+cons: 
   - "Non-fortified means no B12 — if you're vegan relying on nutritional yeast for B12, this won't cover that need"
   - "Some users report the flakes are finer than other brands, which affects texture when sprinkled on popcorn or used as a crust"
   - "Price per ounce runs higher than fortified store brands — you pay a premium for the clean-label positioning"
+
 ---
 
 Let's cut through the noise: nutritional yeast isn't a new product, but Anthony's non-fortified version fills a specific gap that most shoppers don't even know exists. Most brands fortify their yeast with synthetic vitamins — folic acid, B12, zinc. Anthony's stripped that away. You're getting pure, deactivated Saccharomyces cerevisiae, nothing else. For anyone managing B12 intake through other supplements or wanting to avoid fortified foods, that's the whole point.

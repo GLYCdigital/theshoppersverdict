@@ -1,4 +1,5 @@
 ---
+
 title: "Living Room Rug Large Rug Area Rugs Non Slip Washable Rugs f"
 seo_title: "Living Room Rug Large Rug Area Rugs Non Slip Washa Review"
 meta_description: "Our full living room rug large rug area rugs non slip washable rugs f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3XDJHGL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71HlCoTbe2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Designed with children's safety and fun in mind"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version: A practical, low-maintenance rug that solves the two biggest area rug headaches — slipping and cleaning. It won't win awards for luxury, but it delivers exactly what the listing promises.**

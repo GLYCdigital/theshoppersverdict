@@ -1,4 +1,5 @@
 ---
+
 title: "Gupuzm Floor Lamp with Shelves, Modern Square Standing Lamp "
 seo_title: "Gupuzm Floor Lamp with Shelves, Modern Square Stan Review"
 meta_description: "Our full gupuzm floor lamp with shelves, modern square standing lamp  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D77CS6MT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61w6zb7H7hL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Stylish design that complements your space"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're looking at this lamp because you've got a dark corner that's also a storage black hole. The Gupuzm Floor Lamp with Shelves tries to solve both problems at once — and for the most part, it pulls it off.

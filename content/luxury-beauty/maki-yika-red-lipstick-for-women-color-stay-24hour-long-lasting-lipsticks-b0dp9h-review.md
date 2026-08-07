@@ -1,4 +1,5 @@
 ---
+
 title: "MAKI YIKA Red Lipstick for Women Color Stay 24Hour Long Last"
 seo_title: "MAKI YIKA Red Lipstick for Women Color Stay 24Hour Review"
 meta_description: "Our full maki yika red lipstick for women color stay 24hour long last review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DP9HZ8TH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71gLXqwxCbL._SL1500_.jpg"
-pros:
+pros: 
   - "Quality ingredients for effective results"
   - "Pleasant texture and application"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Red lipstick is the one product where "good enough" isn't. You've likely tried a dozen that bleed, feather, dry out, or vanish after one coffee. The MAKI YIKA Color Stay 24Hour formula makes a bold promise — and after two weeks of daily testing, here's what actually matters.

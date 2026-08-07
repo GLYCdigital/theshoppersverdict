@@ -1,4 +1,5 @@
 ---
+
 title: "Commercial Heavy Duty Adjustable Dumbbell Stand & Kettlebell"
 seo_title: "Adjustable Dumbbell Stand Review: Heavy-Duty Rack for Home Gyms"
 meta_description: "Read our honest review of the Commercial Heavy Duty Adjustable Dumbbell Stand. Sturdy build, 4.3-star rating, and real buyer feedback on this weight rack."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GKYL15T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61SH6qLC4iL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "All-steel welded frame rated for 1,000+ lbs total capacity handles even the heaviest adjustable dumbbell sets without flex"
   - "Adjustable-tier design fits 12-inch to 20-inch dumbbell lengths, so it won't become obsolete when you upgrade your weights"
   - "Integrated kettlebell cradle and accessory hooks keep the floor clear — no more tripping over plates mid-workout"
-cons:
+cons: 
   - "Assembled weight is substantial; moving it between rooms requires disassembly or a second person"
   - "Rubber feet grip well but leave scuff marks on light-colored hardwood floors"
+
 ---
 
 If your adjustable dumbbells are currently living in a corner pile, you already know the problem: every workout starts with untangling handles, and you've nearly dropped a 50-pounder on your foot twice this month. The Commercial Heavy Duty Adjustable Dumbbell Stand is designed to end that chaos. With 215 Amazon ratings averaging 4.3 stars, this rack has clearly found its audience — but is it the right one for your home gym? Here's what I found after digging through specs, buyer feedback, and the realities of daily use.

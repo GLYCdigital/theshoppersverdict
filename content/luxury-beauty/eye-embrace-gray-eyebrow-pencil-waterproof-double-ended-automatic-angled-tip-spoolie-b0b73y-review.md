@@ -1,4 +1,5 @@
 ---
+
 title: "Eye Embrace Gray Eyebrow Pencil – Waterproof Double-Ended"
 seo_title: "Eye Embrace Gray Eyebrow Pencil Review: Waterproof & Precise"
 meta_description: "Honest Eye Embrace Gray Eyebrow Pencil review: is this waterproof double-ended pencil worth it? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B73Y1Q7S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71s7+5xZejL._SL1500_.jpg"
-pros:
+pros: 
   - "True gray shade that doesn't pull warm or ashy — rare find for cool-toned brows"
   - "Double-ended design with a precise angled tip and spoolie saves time and money"
   - "Waterproof formula holds through sweat, rain, and 12+ hour wear"
-cons:
+cons: 
   - "Pencil is thin — heavy daily use means replacing it every 4–6 weeks"
   - "Can feel slightly waxy if you layer more than two strokes in one spot"
+
 ---
 
 If you've got gray, silver, or salt-and-pepper brows, you already know the struggle: most "gray" pencils pull either muddy brown or icy blue. The Eye Embrace Gray Eyebrow Pencil is one of the few that actually nails the shade. It's a true neutral gray with just enough depth to look natural — not drawn-on, not invisible. At 4.3 stars across 215 ratings, it's clearly doing something right. But is it worth your money? Let's dig into the details.

@@ -1,4 +1,5 @@
 ---
+
 title: "Klein Tools Adjustable Wrench, Extra-Wide Jaw, Forged Heat-T"
 seo_title: "Klein Tools Adjustable Wrench, Extra-Wide Jaw, For Review"
 meta_description: "Our full klein tools adjustable wrench, extra-wide jaw, forged heat-t review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0D183FJ8J/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71iDGrwkARS._SS100_.jpg"
-pros:
+pros: 
   - "Built to last with durable materials"
   - "Versatile and adjustable for different needs"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Extra-Wide Jaw That Actually Earns Its Name

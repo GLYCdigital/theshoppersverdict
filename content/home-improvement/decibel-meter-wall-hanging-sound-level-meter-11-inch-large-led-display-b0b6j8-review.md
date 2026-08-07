@@ -1,4 +1,5 @@
 ---
+
 title: "Decibel Meter Wall Hanging Sound Level Meter 11 inch Large L"
 seo_title: "Decibel Meter Wall Hanging Review: 11-Inch Large LED Display"
 meta_description: "Honest review of the 11-inch wall-mounted decibel meter with large LED display. Read pros, cons, and real buyer feedback before purchasing."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0B6J8JQ7D/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51r7wFUgKWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "11-inch LED display readable from across a room — genuinely visible at 30+ feet"
   - "Wall-mount design with included hardware saves desk space and looks professional"
   - "Simple three-button operation — no app, no Bluetooth pairing, just plug in and read"
-cons:
+cons: 
   - "Accuracy drifts noticeably from professional meters at higher volumes (above 85 dB)"
   - "Built-in microphone picks up room reflections, causing readings to fluctuate by 3-5 dB"
   - "No battery option — AC adapter required, limiting placement flexibility"
+
 ---
 
 Here's the thing about noise monitoring: most decibel meters are tiny handheld gadgets you have to squint at and hold in the air like a magic wand. This one throws that convention out the window. It's an 11-inch wall-mounted unit with a display large enough to read from across a workshop, classroom, or office floor.

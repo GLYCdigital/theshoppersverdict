@@ -1,4 +1,5 @@
 ---
+
 title: "AMERLIFE 98 inch  W Wall Unit TV Stand with Storage for TVs up to"
 seo_title: "AMERLIFE 98 inch  Wall Unit TV Stand Review (2026): Worth It?"
 meta_description: "AMERLIFE 98 inch  wall unit TV stand review: 220+ ratings at 4.4 stars. Real storage capacity, build quality, and assembly insights. Is it right for your space?"
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9QB77QW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81c3ubO-n9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "98-inch width provides substantial storage across 9+ compartments, eliminating need for separate media consoles"
   - "Pre-drilled cable management ports and adjustable shelves make wiring and A/V component setup genuinely painless"
   - "Solid particleboard construction with laminated finish holds up better than typical budget wall units at this price"
-cons:
+cons: 
   - "Assembly is a 3-4 hour project requiring two people; instructions are mostly diagrams with minimal text"
   - "Back panels are thin fiberboard that can warp if you overtighten screws during installation"
+
 ---
 
 A 98-inch wall unit isn't a purchase—it's a commitment. At that width, you're not just buying a TV stand; you're buying the entire entertainment wall. The AMERLIFE 98" Wall Unit asks you to commit to its dark wood grain aesthetic and its considerable footprint. The question is whether the payoff matches the space it demands.

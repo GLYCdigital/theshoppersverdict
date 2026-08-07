@@ -1,5 +1,6 @@
 ---
 
+
 title: "Evanger's Heritage Classics"
 seo_title: "Evanger's Heritage Classics Review: Honest 2026 Verdict"
 meta_description: "Evanger's Heritage Classics review: We analyze ingredients, texture, and buyer feedback on this grain-free dog food. Is it worth the premium price?"
@@ -12,14 +13,15 @@ review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B08HKFFX74/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81kihZdqNWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Human-grade ingredients with named protein first (beef, chicken, or turkey) and no by-products, carrageenan, or artificial preservatives"
   - "High moisture content (78%) supports hydration and urinary tract health, especially for dogs that don't drink enough water"
   - "Made in small batches in the USA at a family-owned facility that's been operating since 1935 inch"
-cons:
+cons: 
   - "Texture is inconsistent — some cans arrive with large chunks of hard fat that picky eaters push aside, and consistency varies between batches"
   - "Strong, gamey odor that's noticeably more pungent than typical canned dog food; sensitive noses (yours) will notice it"
   - "Price per ounce runs 30-50% higher than comparable grain-free wet foods, and the 12.5-oz can is awkward if your dog eats less than a full can daily"
+
 
 ---
 

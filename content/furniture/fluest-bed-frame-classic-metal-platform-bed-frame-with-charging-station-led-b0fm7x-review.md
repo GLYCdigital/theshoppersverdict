@@ -1,4 +1,5 @@
 ---
+
 title: "Fluest Bed Frame Classic Metal Platform Bed Frame with Charg"
 seo_title: "Fluest Bed Frame Review: Metal Platform With Charging Station"
 meta_description: "Honest Fluest metal platform bed frame review: charging station, LED lights, no box spring needed. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FM7XJ7PG/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81eCLc1aliL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Built-in USB and AC charging ports on the headboard — genuinely useful for nightly phone charging"
   - "LED under-glow lighting adds modern ambiance without requiring separate strip installation"
   - "No box spring needed — solid steel slats support the mattress directly, saving money"
-cons:
+cons: 
   - "Assembly requires two people and roughly 45–60 minutes; bolts are easy to cross-thread if rushed"
   - "LED lights plug into the charging station, so you can't use the lights independently without losing a port"
   - "Low-profile design means under-bed storage is limited to flat bins only — tall containers won't fit"
+
 ---
 
 **Is the Fluest bed frame a smart buy, or just another Amazon furniture gamble?** With a 4.2-star average across 210 ratings, it's clearly doing something right — but let's dig into whether that something is worth your money.

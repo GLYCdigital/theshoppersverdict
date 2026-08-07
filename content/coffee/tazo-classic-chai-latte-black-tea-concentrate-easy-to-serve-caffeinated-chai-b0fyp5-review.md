@@ -1,4 +1,5 @@
 ---
+
 title: "TAZO Classic Chai Latte, Black Tea Concentrate, Easy-to-Serv"
 seo_title: "TAZO Classic Chai Latte, Black Tea Concentrate, Ea Review"
 meta_description: "Our full tazo classic chai latte, black tea concentrate, easy-to-serv review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FYP5XBQW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61o7M0hbfZL._SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You've had the coffee shop chai. You've probably had the powdered mix that tastes like cinnamon dust and regret. Tazo's Classic Chai Latte Concentrate sits somewhere in the middle — and for most home drinkers, that's exactly the right spot.

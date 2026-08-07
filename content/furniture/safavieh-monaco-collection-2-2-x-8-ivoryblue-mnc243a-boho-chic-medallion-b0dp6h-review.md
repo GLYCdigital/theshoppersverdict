@@ -1,7 +1,8 @@
 ---
-title: "SAFAVIEH Monaco Collection 2'2\" x 8' IvoryBlue MNC243A Boho "
-seo_title: "SAFAVIEH Monaco Collection 2'2\" x 8' IvoryBlue MNC Review"
-meta_description: "Our full safavieh monaco collection 2'2\" x 8' ivoryblue mnc243a boho  review. Read Amazon customer insights, pros, cons, and our verdict."
+
+title: "SAFAVIEH Monaco Collection 2'2\ x 8' IvoryBlue MNC243A Boho "
+seo_title: "SAFAVIEH Monaco Collection 2'2\ x 8' IvoryBlue MNC Review"
+meta_description: "Our full safavieh monaco collection 2'2\ x 8' ivoryblue mnc243a boho  review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "safavieh-monaco-collection-2-2-x-8-ivoryblue-mnc243a-boho-chic-medallion-b0dp6h-review"
 image_alt: "SAFAVIEH Monaco Collection 22 x 8 IvoryBlue MNC243A Boho Chic Medallion Distressed Non-Shedding Living Room Bedroom Runn"
 verdict_score: 4.6
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DP6HBX7Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/A1cN90idfmL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Clean, modern design that complements your decor"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The $80 hallway upgrade that actually delivers — with one caveat**

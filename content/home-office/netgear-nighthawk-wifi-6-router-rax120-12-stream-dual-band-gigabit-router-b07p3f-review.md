@@ -1,4 +1,5 @@
 ---
+
 title: "NETGEAR Nighthawk WiFi 6 Router (RAX120) 12-Stream Dual-Band"
 seo_title: "NETGEAR Nighthawk WiFi 6 Router (RAX120) 12-Stream Review"
 meta_description: "Our full netgear nighthawk wifi 6 router (rax120) 12-stream dual-band review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B07P3FGKYD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ZzG9CKnBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The NETGEAR Nighthawk RAX120 sits in an awkward spot. It's a powerful WiFi 6 router with specs that still impress, but at this price point, you're competing against newer AXE models and mesh systems that offer better value. After digging through 180 Amazon ratings averaging 3.6 stars, the picture is clear: this router delivers raw performance when it works, but reliability questions keep it from being a slam dunk.

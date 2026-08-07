@@ -1,4 +1,5 @@
 ---
+
 title: "Edwarmlux Indoor Wall Sconces, Modern Wall Lights, Up and Do"
 seo_title: "Edwarmlux Wall Sconces Review: Modern Up & Down Lights (2026)"
 meta_description: "Honest Edwarmlux indoor wall sconces review: build quality, brightness, installation ease, and whether these modern up/down lights are worth it."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CT389429/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51ry307r0iL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Integrated LED strips that never need bulb replacement, rated for 50,000+ hours of use"
   - "Aluminum housing with a clean geometric profile that reads far more expensive than the price point"
   - "Warm white 3000K light output that flatters paint colors without casting harsh shadows"
-cons:
+cons: 
   - "Hardwired installation requires a junction box and basic electrical knowledge — not a plug-in fixture"
   - "Light output is moderate (around 700 lumens total), better for ambiance than task lighting"
+
 ---
 
 Wall sconces are a gamble. Buy the wrong ones and you get a buzzing transformer, a yellowed plastic shade, or light that looks like a strip mall sign. The Edwarmlux Indoor Wall Sconces avoid all three traps — and for the price, they punch well above their weight class.

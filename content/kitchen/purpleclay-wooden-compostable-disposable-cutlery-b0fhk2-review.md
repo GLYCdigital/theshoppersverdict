@@ -1,4 +1,5 @@
 ---
+
 title: "Purpleclay Wooden Compostable Disposable Cutlery"
 seo_title: "Purpleclay Wooden Compostable Disposable Cutlery Review: "
 meta_description: "Our full purpleclay wooden compostable disposable cutlery review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FHK2B9FP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/817kNT2IcZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Functional design for everyday cooking"
   - "Easy to incorporate into your kitchen routine"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about disposable cutlery: most of it is plastic pretending to be eco-friendly. The Purpleclay wooden set actually delivers on its compostable promise, but it's not without tradeoffs. Here's what 200 Amazon reviewers and my own testing reveal.

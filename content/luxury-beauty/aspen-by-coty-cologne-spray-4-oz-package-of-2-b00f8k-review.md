@@ -1,4 +1,5 @@
 ---
+
 title: "ASPEN by Coty COLOGNE SPRAY 4 OZ (Package Of 2)"
 seo_title: "ASPEN by Coty Cologne Spray 4 oz Review (2-Pack)"
 meta_description: "Honest ASPEN by Coty cologne review: 4 oz 2-pack value, scent longevity, performance, and who should buy. Real buyer insights at 4.8 stars."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00F8KA0U2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-images-amazon.com/images/I/616zxzbOk3L._SL1000_.jpg"
-pros:
+pros: 
   - "Two full 4 oz bottles for roughly the price of a single designer fragrance — legitimate value"
   - "Fresh, clean green-woody scent profile that works year-round without being overpowering"
   - "Surprisingly decent longevity for a budget fragrance — 4-6 hours on skin, longer on clothing"
-cons:
+cons: 
   - "Sillage is moderate at best; don't expect compliments from across the room"
   - "Packaging is dated and utilitarian — no gift-box presentation here"
   - "Scent leans masculine-traditional; younger shoppers may find it generic"
+
 ---
 
 Let's be straight with each other: you're not buying ASPEN by Coty because you want to impress a fragrance snob. You're buying it because you want to smell clean, fresh, and put-together without dropping $120 on a bottle of something you'll use in six months. That's exactly the right reason.

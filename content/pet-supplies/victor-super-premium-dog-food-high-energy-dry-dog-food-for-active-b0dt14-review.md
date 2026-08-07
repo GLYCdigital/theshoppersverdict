@@ -1,4 +1,5 @@
 ---
+
 title: "Victor Super Premium Dog Food â€“ High Energy Dry Dog Food f"
 seo_title: "Victor Super Premium Dog Food â€“ High Energy Dry  Review"
 meta_description: "Our full victor super premium dog food â€“ high energy dry dog food f review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT14DCMF/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81rrtZrq92L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let me be blunt: most "high energy" dog foods are marketing nonsense with a protein bump and a higher price tag. The Victor Super Premium High Energy formula is not that. This is a serious food for serious dogs — and if your dog isn't serious about burning calories, you're going to have a fat dog.

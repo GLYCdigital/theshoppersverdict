@@ -1,4 +1,5 @@
 ---
+
 title: "Fluidmaster toilet-replacement-parts"
 seo_title: "Fluidmaster Toilet Replacement Parts Review (2026): Worth It?"
 meta_description: "Fluidmaster toilet replacement parts review: 4.8-star rated kit. See what's inside, real performance, and whether it fixes your running toilet. Honest verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CJ6826SB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51eM164OUBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Universal design fits most 2-piece toilets without measuring — the flapper and fill valve adjust to standard tank heights"
   - "Complete kit includes flapper, fill valve, supply line, and mounting hardware — no separate trips to the hardware store"
   - "Quiet fill cycle and consistent water level; no hissing or phantom flushing after install"
-cons:
+cons: 
   - "Fill valve adjustment lock nut can be tight to turn by hand — need pliers, which aren't included"
   - "Flapper chain is longer than needed for shallow tanks; you'll trim it or it can catch under the flush handle"
+
 ---
 
 Let's be honest: nobody gets excited about buying toilet parts. You're here because your toilet runs all night, or the flush feels weak, or you're staring at a puddle on the floor. The good news? The Fluidmaster toilet replacement kit is the closest thing to a "just fix it" solution in this category. With 240 ratings averaging 4.8 stars, this is one of the most trusted repair kits on Amazon. Here's what you actually need to know before you buy.

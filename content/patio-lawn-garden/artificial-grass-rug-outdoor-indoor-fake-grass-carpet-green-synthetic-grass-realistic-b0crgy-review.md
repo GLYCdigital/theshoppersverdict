@@ -1,4 +1,5 @@
 ---
+
 title: "Artificial Grass Rug Outdoor Indoor, Fake Grass Carpet Green"
 seo_title: "Artificial Grass Rug Review: Realistic Indoor Outdoor Turf"
 meta_description: "Honest review of the Artificial Grass Rug Outdoor Indoor. Realistic look, easy install, but shedding concerns. Is this fake grass carpet worth it?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRGYCRJB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KxgkaIZnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Dense, realistic blade construction that reads as genuine grass from a few feet away"
   - "Reversible backing holds flat on patios and balconies without curling at the corners"
   - "Simple to clean — hose it down, shake it out, and it looks new again"
-cons:
+cons: 
   - "Initial shedding of loose fibers for the first few days; vacuuming helps but expect some mess"
   - "Thin padding means hard surfaces underneath are felt through — not ideal for kids playing on concrete"
   - "Fading risk if left in constant direct sunlight for months at a time"
+
 ---
 
 **Is This Fake Grass Actually Worth Your Money?**

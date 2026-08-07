@@ -1,4 +1,5 @@
 ---
+
 title: "GREEN DEVIL Safety Hard Hat with Rechargeable Headlamp Light"
 seo_title: "GREEN DEVIL Safety Hard Hat with Rechargeable Head Review"
 meta_description: "Our full green devil safety hard hat with rechargeable headlamp light review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CHY5K6NV/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/713NfDDgzgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Cordless convenience with reliable power"
   - "Safe materials you can trust"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most hard hats with lights are either cheap plastic junk with a clip-on flashlight, or they cost $80+ and require you to buy proprietary batteries forever. The GREEN DEVIL sits in that rare middle ground where it actually does both jobs — head protection and illumination — without feeling like a gimmick. After 225 Amazon ratings averaging 4.5 stars, I dug into what real buyers are saying to see if this earns a spot on your next job site.

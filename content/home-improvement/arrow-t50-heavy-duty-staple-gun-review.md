@@ -1,16 +1,17 @@
 ---
+
 title: "Arrow Fastener T50 Heavy Duty Staple Gun — Chromed Steel"
 seo_title: "Arrow T50 Staple Gun Review — 4.5★ Heavy Duty at $20"
 meta_description: "Arrow T50 Heavy Duty Staple Gun review: 4,846 reviews analyzed. All-steel construction, jam-resistant mechanism, lifetime durability. Is this the staple gun to own?"
 slug: "arrow-t50-heavy-duty-staple-gun-review"
 image_alt: "Arrow T50 Heavy Duty Staple Gun in Chromed Steel"
-keywords:
+keywords: 
   - "Arrow T50 staple gun review"
   - "heavy duty staple gun"
   - "best staple gun for upholstery"
   - "Arrow fastener T50 review"
 verdict_score: 4.4
-faq:
+faq: 
   - question: "What staples does the Arrow T50 use?"
     answer: "The T50 works with Arrow T50 staples in 1/4-inch, 5/16-inch, 3/8-inch, 1/2-inch, or 9/16-inch sizes (sold separately). These are standard heavy-duty staples used for upholstery, insulation, and general repairs."
   - question: "Is the Arrow T50 made in the USA?"
@@ -23,14 +24,15 @@ review_count: 4846
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/612ZmPITX9L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "All-steel chromed construction — built to last through thousands of staples"
   - "Jam-resistant rear-load magazine with staple-viewing window"
   - "High-leverage handle reduces fatigue during extended use"
-cons:
+cons: 
   - "Occasional quality control issues — some arrive with rust or jammed mechanisms"
   - "Heavier than modern composite staple guns, which can fatigue smaller hands"
   - "No built-in staple remover or belt clip included with the base model"
+
 ---
 
 The Arrow T50 Heavy Duty Staple Gun is a legend in the tool world. It's been around for decades, and with 4,846 Amazon reviews holding a 4.5-star average, it's clearly still doing something right. But does an old-school design hold up against modern competition? Let's look at what real users are saying.

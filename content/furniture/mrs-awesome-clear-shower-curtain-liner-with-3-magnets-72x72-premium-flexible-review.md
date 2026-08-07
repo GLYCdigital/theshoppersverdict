@@ -1,13 +1,14 @@
 ---
+
 title: "Mrs Awesome Clear Shower Curtain Liner with 3 Magnets, 72x72 Premium Flexible Sturdy Plastic Shower Curtain for Bathroom Lightweight, Waterproof, Clear | 12 Rustproof Grommets, Premium Flexible Sturdy Plastic Shower Curtain for Bathroom Lightweight, Waterproof,72W x 72H"
 seo_title: "Mrs Awesome Clear Review: Verdict (4.5/5) | TSV"
 meta_description: "Works great for keeping the water in the shower like its meant to, and it 40,052+ Amazon reviews analyzed. Real pros, cons, and our verdict."
 slug: "mrs-awesome-clear-shower-curtain-liner-with-3-magnets-72x72-premium-flexible-review"
 image_alt: "Mrs Awesome Clear Shower Curtain Liner with 3 Magnets, 72x72 Premium Flexible Sturdy Plastic Shower Curtain for Bathroom"
-keywords:
+keywords: 
   - "mrs awesome clear review"
 verdict_score: 4.6
-faq:
+faq: 
   - question: "What do buyers like most about the Mrs Awesome Clear Shower?"
     answer: "Works great for keeping the water in the shower like its meant to, and it looks alright That is the most consistent positive theme across verified Amazon reviews for this product."
   - question: "What are the common complaints about the Mrs Awesome Clear Shower?"
@@ -21,12 +22,13 @@ review_count: 40052
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08NJ6VF9T/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71V7L0wjQ-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Works great for keeping the water in the shower like its meant to."
   - "The plastic feels just heavy enough to be sturdy without being inflexible."
   - "Fits perfectly, nice weight and good construction Unlike my previous shower curtain liner these feat."
-cons:
+cons: 
   - "This is thin and flimsy like a cheap disposable picnic / ground sheet."
+
 ---
 
 # Mrs Awesome Clear Shower Curtain Liner: The $14 Fix for Your Bathroom

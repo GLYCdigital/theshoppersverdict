@@ -1,4 +1,5 @@
 ---
+
 title: "Rest-Eazzzy Heated Cat House for Indoor Cats in Winter"
 seo_title: "Rest-Eazzzy Heated Cat House for Indoor Cats in Wi Review"
 meta_description: "Our full rest-eazzzy heated cat house for indoor cats in winter review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DXRJY4NK/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71sFScT3SGL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Made with your pet's comfort in mind"
   - "Practical and easy to maintain"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Winter Problem Most Cat Owners Ignore

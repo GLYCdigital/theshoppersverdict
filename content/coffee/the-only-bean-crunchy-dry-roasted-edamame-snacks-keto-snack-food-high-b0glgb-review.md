@@ -1,4 +1,5 @@
 ---
+
 title: "The Only Bean Crunchy Dry Roasted Edamame Snacks, Keto Snack"
 seo_title: "The Only Bean Crunchy Dry Roasted Edamame Snacks,  Review"
 meta_description: "Our full the only bean crunchy dry roasted edamame snacks, keto snack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GLGBHVFW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81xqFl30m3L._SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The snack that thinks it's a chip but hits like a protein bar**

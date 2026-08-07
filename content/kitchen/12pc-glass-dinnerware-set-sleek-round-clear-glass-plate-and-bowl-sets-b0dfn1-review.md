@@ -1,4 +1,5 @@
 ---
+
 title: "12pc Glass Dinnerware Set - Sleek Round Clear Glass Plate an"
 seo_title: "12pc Glass Dinnerware Set Review: Clear Plates & Bowls (2026)"
 meta_description: "Honest 12pc glass dinnerware set review: durability, chip resistance, real-world use. Is this clear plate & bowl set worth it? Find out before you buy."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DFN1M5D5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81IK4jj88ML._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fully tempered glass resists thermal shock from dishwasher heat and hot food"
   - "Stackable round design saves cabinet space without scratching adjacent pieces"
   - "Clear glass matches any table setting — works for casual weeknight meals or formal dinner parties"
-cons:
+cons: 
   - "Fingerprints and water spots show immediately after hand-washing — you'll see every smudge"
   - "No grip texture on the base; plates can slide on smooth tabletops"
+
 ---
 
 Let's be straight about clear glass dinnerware: it photographs beautifully, but you're not buying it for Instagram. You're buying it because it's versatile, doesn't clash with existing decor, and makes food the star. This 12-piece set from the sleek round collection delivers most of that promise — with a few tradeoffs worth knowing before checkout.

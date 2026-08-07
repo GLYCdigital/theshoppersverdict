@@ -1,4 +1,5 @@
 ---
+
 title: "Mooxrbog 952XL Ink Cartridges High Yield (4-Pack, Black/Cyan"
 seo_title: "Mooxrbog 952XL Ink Cartridges High Yield (4-Pack,  Review"
 meta_description: "Our full mooxrbog 952xl ink cartridges high yield (4-pack, black/cyan review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 170
 amazon_rating: 3.4
 amazon_url: "https://www.amazon.com/dp/B0DPHJTC3V/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+J2nDplLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Mooxrbog 952XL 4-pack is the classic third-party ink gamble: save roughly half off OEM prices, but accept you're rolling the dice on quality control. Here's what 170 Amazon ratings at 3.4 stars actually tell you.**

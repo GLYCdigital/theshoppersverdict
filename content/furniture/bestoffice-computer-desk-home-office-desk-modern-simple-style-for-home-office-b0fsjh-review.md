@@ -1,4 +1,5 @@
 ---
+
 title: "BestOffice Computer Desk,Home Office Desk, Modern Simple Sty"
 seo_title: "BestOffice Computer Desk Review: Sturdy Home Office Desk"
 meta_description: "Honest BestOffice Computer Desk review: build quality, real user feedback, and whether this budget home office desk holds up. Read before you buy."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FSJHCTKJ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61eWrivWflL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Rigid steel frame with crossbar reinforcement — no wobble even with heavy monitors"
   - "Splice-board desktop design keeps the box manageable for apartment dwellers"
   - "Leg levelers compensate for uneven floors out of the box"
-cons:
+cons: 
   - "No cable management tray — you'll need to buy clips or zip ties separately"
   - "Splice seam sits dead center; you'll feel it if you write on paper directly"
   - "Assembly requires a Phillips screwdriver; the included hex key is borderline useless on the final bolts"
+
 ---
 
 **The $60–$90 desk that keeps showing up in "worth it" threads — but is it worth it for you?**

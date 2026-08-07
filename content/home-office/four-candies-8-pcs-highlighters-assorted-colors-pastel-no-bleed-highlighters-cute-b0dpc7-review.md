@@ -1,4 +1,5 @@
 ---
+
 title: "Four Candies 8 Pcs Highlighters Assorted Colors Pastelï¼ŒNo "
 seo_title: "Four Candies 8 Pcs Highlighters Assorted Colors Pa Review"
 meta_description: "Our full four candies 8 pcs highlighters assorted colors pastelï¼œno  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPC73NVW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71NpE0ZqyCL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
   - "Stylish design that complements your space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Four Candies 8 Pcs Highlighters Assorted Colors Pastel — The No-Bleed Claim Holds Up**

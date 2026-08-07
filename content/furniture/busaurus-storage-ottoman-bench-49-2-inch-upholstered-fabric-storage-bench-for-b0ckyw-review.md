@@ -1,4 +1,5 @@
 ---
+
 title: "Busaurus Storage Ottoman Bench 49.2 Inch Upholstered Fabric"
 seo_title: "Busaurus Storage Ottoman Bench Review: 49.2 inch  Upholstered"
 meta_description: "Honest Busaurus 49.2 inch  storage ottoman bench review: sturdy frame, 260-lb capacity, hidden storage. See pros, cons, and who should buy."
@@ -11,14 +12,15 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKYW9VTR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81PEDfNSexL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "260 lb weight capacity — sturdy enough for adults to sit on daily, not just decorative"
   - "49.2-inch width fits a queen bed footboard or standard entryway bench space"
   - "Hidden 17.7-gallon storage compartment with gas-lift mechanism that stays open safely"
   - "Linen-look fabric resists pet hair and wipes clean with a damp cloth"
-cons:
+cons: 
   - "Assembly requires two people — the frame and lid are heavy and awkward to align alone"
   - "Fabric color can appear slightly lighter in person than product photos suggest"
+
 ---
 
 Let me be blunt: most storage ottomans are flimsy. The fabric pills after a month, the hinges strip, and the whole thing wobbles the first time a guest actually sits on it. The Busaurus 49.2-inch version isn't that — and at 4.8 stars across 240 ratings, buyers agree. But it's not perfect either. Here's the honest breakdown.

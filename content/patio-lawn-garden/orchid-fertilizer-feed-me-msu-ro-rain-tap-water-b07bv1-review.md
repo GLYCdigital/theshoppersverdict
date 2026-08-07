@@ -1,4 +1,5 @@
 ---
+
 title: "Orchid Fertilizer - Feed ME! MSU - RO/Rain/Tap Water"
 seo_title: "Orchid Fertilizer - Feed ME! MSU - RO/Rain/Tap Wat Review"
 meta_description: "Our full orchid fertilizer - feed me! msu - ro/rain/tap water review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07BV1ZQF2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71BsqX9AZ0L._SL1500_.jpg"
-pros:
+pros: 
   - "Made for outdoor durability"
   - "Functional addition to your outdoor space"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Fertilizer That Actually Respects Your Water Source

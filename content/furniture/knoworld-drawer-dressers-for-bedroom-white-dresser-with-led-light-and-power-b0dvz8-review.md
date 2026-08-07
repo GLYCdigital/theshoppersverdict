@@ -1,4 +1,5 @@
 ---
+
 title: "knoworld Drawer Dressers for Bedroom, White Dresser with LED"
 seo_title: "knoworld Drawer Dressers for Bedroom, White Dresse Review"
 meta_description: "Our full knoworld drawer dressers for bedroom, white dresser with led review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DVZ8Z3PS/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81dC5Hff5YL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Modern features and smart functionality"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Dresser That Lights Up Your Life — Literally

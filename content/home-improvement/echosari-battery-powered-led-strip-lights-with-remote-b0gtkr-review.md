@@ -1,4 +1,5 @@
 ---
+
 title: "echosari Battery Powered Led Strip Lights with Remote"
 seo_title: "echosari Battery LED Strip Lights Review: Worth It?"
 meta_description: "echosari battery powered LED strip lights with remote review: brightness, battery life, adhesive strength, real buyer feedback, and who should buy."
@@ -11,13 +12,14 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GTKRHMYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81pzVZ2J6RL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "True cordless operation with AA battery pack — works in closets, cabinets, and rentals where hardwiring isn't an option"
   - "Remote includes 16 color modes plus adjustable brightness and multiple flash/strobe patterns"
   - "Cuttable strip lets you trim to exact length for tight spaces without killing the remaining LEDs"
-cons:
+cons: 
   - "3M adhesive backing struggles on textured or uneven surfaces — you'll want mounting clips or double-sided tape for anything but smooth walls"
   - "Battery life is modest at roughly 6–10 hours of continuous use on high brightness; stock up on rechargeable AAs"
+
 ---
 
 If you've ever wrestled with an outlet location that's five feet from where you actually need light, the echosari battery powered LED strip lights solve a genuinely annoying problem. This is a self-contained lighting kit — no transformer, no wall plug, no extension cord snaking across your kitchen counter. Just a flexible strip, a battery pack, and a remote that gives you more control than most plug-in strips I've tested.

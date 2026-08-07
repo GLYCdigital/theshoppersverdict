@@ -1,4 +1,5 @@
 ---
+
 title: "Depuley Outdoor Ceiling Fan with Light: Caged Ceiling Fans w"
 seo_title: "Depuley Outdoor Ceiling Fan Review: Remote & App Control"
 meta_description: "Honest Depuley outdoor ceiling fan review: caged design, remote/app control, wet-rated durability. See pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FCYT3LH4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Jq612TAgL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Wet-rated housing with sealed motor handles direct rain and humidity without rust or flicker"
   - "App and remote both included — full speed/light control without wall wiring changes"
   - "Caged, seeded-glass light fixture throws warm, glare-free light across a 12-15 ft radius"
-cons:
+cons: 
   - "Installation is two-person work; the caged assembly adds weight and awkward angles"
   - "The app requires Wi-Fi setup that occasionally drops pairing on first attempt"
+
 ---
 
 Let’s cut to it: a ceiling fan that lives outdoors has one job — survive the weather while moving air. The Depuley outdoor ceiling fan with light does that, and then some. But it’s not without quirks. Here’s what 204 buyers (4.1 stars) and my own teardown of the specs tell you before you click buy.

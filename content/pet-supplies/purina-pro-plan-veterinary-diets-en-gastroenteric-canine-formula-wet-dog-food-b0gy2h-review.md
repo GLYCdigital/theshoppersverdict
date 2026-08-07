@@ -1,4 +1,5 @@
 ---
+
 title: "Purina Pro Plan Veterinary Diets EN Gastroenteric Canine For"
 seo_title: "Purina Pro Plan Veterinary Diets EN Gastroenteric  Review"
 meta_description: "Our full purina pro plan veterinary diets en gastroenteric canine for review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GY2H7L6Q/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If your dog has chronic loose stools, you’re not looking for a trendy grain-free formula—you’re looking for a medical intervention. Purina Pro Plan Veterinary Diets EN Gastroenteric Canine Formula is exactly that: a prescription-strength wet food designed for acute and chronic digestive upset. But at roughly $3.50 per can, it’s not a casual purchase. Here’s what the 200+ ratings at 4.0 stars actually tell you about whether it will work for your pup.

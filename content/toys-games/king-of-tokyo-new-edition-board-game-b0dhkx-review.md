@@ -1,4 +1,5 @@
 ---
+
 title: "King of Tokyo: New Edition Board Game"
 seo_title: "King of Tokyo: New Edition Board Game Review: Verdict | T"
 meta_description: "Our full king of tokyo: new edition board game review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DHKX9XQ6/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71qYIwrfDWL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Spacious size for added convenience"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You roll dice. You punch monsters. You make your friends cry. That's King of Tokyo in a nutshell — and honestly, that's exactly why it's been a gateway-game staple for over a decade. The New Edition takes that proven formula and polishes it without breaking what worked.

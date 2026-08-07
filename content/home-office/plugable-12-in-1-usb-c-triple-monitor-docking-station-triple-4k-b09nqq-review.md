@@ -1,4 +1,5 @@
 ---
+
 title: "Plugable 12-in-1 USB C Triple Monitor Docking Station, Tripl"
 seo_title: "Plugable 12-in-1 USB C Triple Monitor Docking Stat Review"
 meta_description: "Our full plugable 12-in-1 usb c triple monitor docking station, tripl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09NQQ1G1N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61BGc0eAXJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Versatile and adjustable for different needs"
   - "Cordless convenience with reliable power"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Most docking stations claim "triple display support" but quietly drop to 30Hz or mirror your screens when you actually plug in three monitors. The Plugable 12-in-1 doesn't do that — it's one of the few hubs under $200 that delivers true triple 4K at 60Hz. But that capability comes with a catch that some buyers won't expect.

@@ -1,4 +1,5 @@
 ---
+
 title: "DEWALT Rotary Laser Level Kit, Indoor/Outdoor Survey Laser T"
 seo_title: "DEWALT Rotary Laser Level Kit Review: DW074KD Tested"
 meta_description: "Honest DEWALT DW074KD rotary laser level review: accuracy, range, durability, and real-world performance for contractors and DIYers. Pros, cons, verdict."
@@ -11,13 +12,14 @@ review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B001CC8TLW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Kfw8tnIOL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Self-leveling range of ±5° with audible alert if knocked out of level"
   - "1,000-foot working range with receiver — covers most residential and light commercial sites"
   - "IP54-rated housing handles dust and rain on job sites"
-cons:
+cons: 
   - "Rotating head emits an audible hum that some users find distracting in quiet indoor settings"
   - "Receiver requires a 9V battery (not included), which is easy to forget on site"
+
 ---
 
 If you're laying out a foundation, hanging ceiling grid, or setting grade stakes, a rotary laser separates the pros from the guys who measure twice and still cut wrong. The DEWALT DW074KD has been a contractor staple for years, and with 204 ratings holding a 4.1-star average, it's earned its place on job sites. But is it still the right buy in 2026, or has the budget competition caught up? Here's what you need to know before spending your money.

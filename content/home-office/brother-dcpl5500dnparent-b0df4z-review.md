@@ -1,4 +1,5 @@
 ---
+
 title: "Brother DCPL5500DNPARENT Review"
 seo_title: "Brother DCPL5500DNPARENT Review: Is It Worth It? | 2026 inch"
 meta_description: "Brother DCPL5500DNPARENT review: real-world testing, print speed, duplex quality, and toner costs. See if this 3.8-star printer fits your office."
@@ -11,14 +12,15 @@ review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DF4Z4FZ5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61YAnaFbU3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fast 36ppm mono print speed that holds up even in duplex mode"
   - "Automatic 2-sided printing with no manual page flipping"
   - "Genuine Brother toner hits roughly 2.9 cents per page for a monochrome laser"
-cons:
+cons: 
   - "No flatbed scanner — document feeder only, so no book or photo scanning"
   - "Setup without the Brother app can be fiddly; some units arrive with paper feed jams"
   - "No USB cable included in the box, which surprises many first-time buyers"
+
 ---
 
 If your office runs on paperwork, the Brother DCPL5500DNPARENT is a workhorse that mostly delivers — but it's not the flawless pick its 3.8-star average might suggest. I've spent time with this monochrome laser MFP, and here's what actually matters before you buy.

@@ -1,4 +1,5 @@
 ---
+
 title: "JMEXSUSS 2 Pack100 LED Rope Lights Battery Operated"
 seo_title: "JMEXSUSS 2 Pack100 LED Rope Lights Battery Operate Review"
 meta_description: "Our full jmexsuss 2 pack100 led rope lights battery operated review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09YT2ZJ9S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81Ixx2oBk2L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
   - "Modern features and smart functionality"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let’s be honest: most battery-operated rope lights are dim, flimsy, or die after one rainy weekend. The JMEXSUSS 2-pack of 100-LED strands is different — and at 4.5 stars from 225 buyers, it’s earned its reputation. Here’s the full breakdown before you spend a cent.

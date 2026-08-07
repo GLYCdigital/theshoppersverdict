@@ -1,4 +1,5 @@
 ---
+
 title: "Erotr Stackable Patio Dining Chairs, Aluminum Rattan Outdoor"
 seo_title: "Erotr Stackable Patio Dining Chairs Review (2026): Worth It?"
 meta_description: "Erotr stackable patio dining chairs review: aluminum frame, rattan weave, ergonomic arms. See pros, cons, and who should buy these 4.8-star chairs."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0F543RK6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71WifUmHs3L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Full aluminum frame (not plastic-core) resists rust and keeps weight manageable at roughly 11 lbs per chair"
   - "Genuine stacking design — chairs interlock cleanly without scratching, saving serious patio space"
   - "Contoured armrests and a 29.5-inch seat height hit the sweet spot for standard 28–30-inch dining tables"
-cons:
+cons: 
   - "Rattan weave is synthetic PE — looks convincing but won't patina like natural wicker"
   - "No included cushions; the flat seat pan can feel firm during marathon meals"
+
 ---
 
 Let's cut through the noise: most patio chairs under $100 are flimsy plastic junk that cracks by season two. The Erotr Stackable Patio Dining Chair isn't that. With a 4.8-star average across 240 ratings, this aluminum-frame chair with synthetic rattan is earning genuine praise. But is it right for your deck? Here's the full breakdown.

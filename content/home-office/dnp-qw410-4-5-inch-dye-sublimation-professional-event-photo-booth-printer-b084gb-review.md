@@ -1,24 +1,26 @@
 ---
+
 title: "DNP QW410 4.5-inch Dye-Sublimation Professional Event Photo"
 seo_title: "DNP QW410 Review: Event Photo Printer Pros, Cons & Verdict"
 meta_description: "DNP QW410 dye-sub photo printer review: print speed, image quality, photo booth reliability, common complaints, and who should buy it."
 slug: "dnp-qw410-4-5-inch-dye-sublimation-professional-event-photo-booth-printer-b084gb-review"
 image_alt: "DNP QW410 compact dye-sublimation photo printer with paper tray and printed 4.5x6 inch sample photo"
-verdict_score: 3.7  
-date: 2026-08-06  
-price: null  
-review_count: 190  
-amazon_rating: 3.8  
+verdict_score: 3.7
+date: 2026-08-06
+price: null
+review_count: 190
+amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B084GB7DTH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71B+dBFQbEL._AC_SL1500_.jpg"
-pros:  
+pros: 
   - "Prints a 4.5x6-inch photo in about 10 seconds — fast enough to keep a photo booth line moving."  
   - "Optional battery pack makes it genuinely portable for weddings, corporate events, and off-site gigs."  
   - "Dye-sub output is water-resistant and smudge-proof — no drying time, no curled prints."  
-cons:  
+cons: 
   - "Proprietary paper and ribbon packs run roughly $0.50–$0.65 per print — consumables add up fast."  
   - "Windows drivers are stable, but macOS and mobile setup is clunkier than competitors like Canon or Mitsubishi."  
   - "At 4.5x6 inches, prints are smaller than standard 4x6 — custom frames and albums may not fit."
+
 ---
 
 The DNP QW410 isn't a consumer toy. It's a $500+ (street price) professional dye-sublimation printer aimed squarely at photo booth operators, event photographers, and wedding DJs who need a reliable, fast, on-site print solution. But with a 3.8-star average from 190 ratings, it's clear this machine has both passionate fans and frustrated owners. Here's what you need to know before you buy.

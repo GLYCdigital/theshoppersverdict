@@ -1,4 +1,5 @@
 ---
+
 title: "First Alert Interconnect Hardwire Dual Sensor Smoke Alarm wi"
 seo_title: "First Alert Interconnect Hardwire Smoke Alarm Review (2026)"
 meta_description: "Honest First Alert Interconnect Hardwire Dual Sensor Smoke Alarm review: ionization + photoelectric detection, battery backup, wiring tips, and real buyer feedback."
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FCRWBWNH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ChbiX8UbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Dual sensors (ionization + photoelectric) catch both fast-flaming and slow-smoldering fires — one unit covers both threats"
   - "Hardwired interconnect means when one alarm sounds, the whole chain goes off — critical for multi-level homes"
   - "Battery backup keeps protection running through power outages, with a low-battery chirp that's actually audible"
-cons:
+cons: 
   - "Hardwire installation requires a 3-wire setup (neutral, hot, and interconnect) — not a drop-in swap for older 2-wire systems"
   - "The included 9V battery backup drains faster than sealed lithium units — expect to replace it annually"
   - "No voice alerts or smart home integration — this is a bare-bones detector, not a Nest competitor"
+
 ---
 
 ## This Alarm Does Exactly What It Promises — Nothing More, Nothing Less

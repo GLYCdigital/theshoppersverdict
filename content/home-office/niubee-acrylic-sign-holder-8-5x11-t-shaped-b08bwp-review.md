@@ -1,4 +1,5 @@
 ---
+
 title: "NIUBEE Acrylic Sign Holder 8.5x11 T-Shaped"
 seo_title: "NIUBEE Acrylic Sign Holder 8.5x11 T-Shaped Review: Verdic"
 meta_description: "Our full niubee acrylic sign holder 8.5x11 t-shaped review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08BWPRDQ8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51hpXoyYrrL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The $22 Acrylic Sign Holder That Actually Earns Its Keep

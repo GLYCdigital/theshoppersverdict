@@ -1,4 +1,5 @@
 ---
+
 title: "Two Pocket Folders, PANDRI 100 Pack Two Pocket Folders with "
 seo_title: "Two Pocket Folders, PANDRI 100 Pack Two Pocket Fol Review"
 meta_description: "Our full two pocket folders, pandri 100 pack two pocket folders with  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQLZQQ3P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71MvFwTD26L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you're burning through paper folders faster than your office supplies closet can restock, the PANDRI 100-pack is the kind of bulk buy that makes you wonder why you ever paid retail for a 10-pack. At roughly 20 cents per folder, this is a commodity purchase — but not all commodity purchases are created equal. Let me break down what the 4.6-star rating actually means in practice.

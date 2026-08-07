@@ -1,4 +1,5 @@
 ---
+
 title: "TOBUSA Outdoor Dusk to Dawn Gooseneck Lighting, 2-Pack"
 seo_title: "TOBUSA Outdoor Dusk to Dawn Gooseneck Lighting, 2- Review"
 meta_description: "Our full tobusa outdoor dusk to dawn gooseneck lighting, 2-pack review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FG7JRSP9/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61VgQvvrywL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've shopped outdoor lighting recently, you know the market is flooded with cheap plastic fixtures that promise "dusk to dawn" but deliver flickering sensors and rust spots by month three. The TOBUSA gooseneck 2-pack sits in a different lane — it's a utilitarian fixture that actually respects your time and your budget. With 225 ratings holding steady at 4.5 stars, this one's earned its reputation through consistent performance, not flashy marketing.

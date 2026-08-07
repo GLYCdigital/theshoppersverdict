@@ -1,4 +1,5 @@
 ---
+
 title: "Canon Office Products 2202C001 Canon MP25DV-3 Desktop Printi"
 seo_title: "Canon MP25DV-3 Desktop Printing Calculator Review (2026)"
 meta_description: "Canon MP25DV-3 printing calculator review: 12-digit LCD, fast thermal print, currency conversion. See pros, cons, and who should buy it."
@@ -11,14 +12,15 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B06VX24JKT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61MKSIS5O-L._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Fast 2.0 lines-per-second thermal printing with quiet operation"
   - "Built-in currency conversion (4 rates) — rare at this price point"
   - "Dual power (AC adapter + battery backup) protects work during outages"
-cons:
+cons: 
   - "Thermal paper is proprietary and costs more than standard rolls long-term"
   - "No backlight on the 12-digit LCD — harder to read in dim lighting"
   - "Plastic body feels light; not built for heavy drop damage"
+
 ---
 
 The Canon MP25DV-3 is the calculator that actually earns its place on a cluttered desk. It's not flashy, but it does one thing—printing calculations—brilliantly, with a few genuinely useful extras that justify the price. After 229 ratings averaging 4.6 stars, the consensus is clear: this is a workhorse, not a toy.

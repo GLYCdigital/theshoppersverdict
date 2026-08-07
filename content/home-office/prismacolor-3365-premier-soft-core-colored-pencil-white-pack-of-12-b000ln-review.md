@@ -1,4 +1,5 @@
 ---
+
 title: "Prismacolor 3365 Premier Soft Core Colored Pencil, White (Pa"
 seo_title: "Prismacolor 3365 Premier Soft Core Colored Pencil, Review"
 meta_description: "Our full prismacolor 3365 premier soft core colored pencil, white (pa review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000LNPF3S/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/417Ek6CG0KL._AC_SL1000_.jpg"
-pros:
+pros: 
   - "Designed for comfort during extended use"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 White is the workhorse of every colored pencil set. It's the pencil you reach for to lift highlights, blend edges, and rescue a muddy shadow. But here's the thing: most white pencils are chalky, brittle, or so translucent they might as well be invisible. The Prismacolor Premier Soft Core in White is none of those things — and at 4.7 stars across 235 ratings, it's clearly earned its reputation. Let's break down whether this 12-pack is worth your money or just another overhyped art supply.

@@ -1,4 +1,5 @@
 ---
+
 title: "Runner Rug (Available for Custom Sizes) Indoor/Outdoor Carpe"
 seo_title: "Runner Rug (Available for Custom Sizes) Indoor/Out Review"
 meta_description: "Our full runner rug (available for custom sizes) indoor/outdoor carpe review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DDTL864P/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/714fQyclDFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Safe materials you can trust"
   - "Great value with multiple components included"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **You've measured your hallway three times, and every standard runner on Amazon is either six inches too long or a foot too short.** That's the exact problem this runner rug from the Carpe line solves — and it's why 225 shoppers have pushed it to a 4.5-star average.

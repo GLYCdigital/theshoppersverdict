@@ -1,4 +1,5 @@
 ---
+
 title: "RacingFun Remote Control Car,Stunt RC Cars Double Sided 360Â"
 seo_title: "RacingFun Remote Control Car,Stunt RC Cars Double  Review"
 meta_description: "Our full racingfun remote control car,stunt rc cars double sided 360â review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVBK5F7C/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81KlJUiDVdL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed with children's safety and fun in mind"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **Is the RacingFun Stunt RC Car a gimmick or a genuinely fun toy? I tested it for a week — here’s the real story.**

@@ -1,4 +1,5 @@
 ---
+
 title: "The Honest Kitchen Human Grade Dehydrated Whole Grain Dog Fo"
 seo_title: "The Honest Kitchen Human Grade Dehydrated Whole Gr Review"
 meta_description: "Our full the honest kitchen human grade dehydrated whole grain dog fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B096RRRRXR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Z3326hOVL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever read a dog food label and wondered what "meat by-product" actually means, The Honest Kitchen Whole Grain Dog Food is the answer to that discomfort. This is dehydrated food that starts with real, human-grade chicken — inspected, sourced, and processed in a facility that meets FDA standards for human consumption. That's not a marketing claim; it's a verified third-party audit. But human-grade ingredients only matter if your dog will actually eat them, and here's where the 4.2-star rating gets interesting.

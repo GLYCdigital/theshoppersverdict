@@ -1,4 +1,5 @@
 ---
+
 title: "SEDETA Corner Desk for Small Space, Corner Computer Desk, Sm"
 seo_title: "SEDETA Corner Desk for Small Space, Corner Compute Review"
 meta_description: "Our full sedeta corner desk for small space, corner computer desk, sm review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQY6HT7R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71cOdczQsZL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Sturdy construction for daily use"
   - "Clean design that fits most spaces"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 ## The Corner Desk That Actually Fits — Without Feeling Like a Compromise  

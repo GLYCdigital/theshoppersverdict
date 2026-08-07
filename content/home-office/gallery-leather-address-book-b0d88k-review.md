@@ -1,4 +1,5 @@
 ---
+
 title: "Gallery Leather Address Book"
 seo_title: "Gallery Leather Address Book Review: Verdict | TSV"
 meta_description: "Our full gallery leather address book review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D88KWLP8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81D7uvZNRvL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Designed for productivity and comfort"
   - "Quality build for daily office use"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be honest about address books: most people don't need one. Your phone does the job, syncs across devices, and never runs out of ink. So why would anyone drop money on a leather-bound contact keeper in 2026? Because some things deserve permanence. Because you don't want your grandmother's phone number lost in a cloud migration. Because there's something satisfying about flipping to "M" and seeing handwriting you recognize.

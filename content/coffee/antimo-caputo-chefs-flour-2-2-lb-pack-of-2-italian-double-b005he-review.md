@@ -1,4 +1,5 @@
 ---
+
 title: "Antimo Caputo Chefs Flour 2.2 LB (Pack of 2) - Italian Doubl"
 seo_title: "Antimo Caputo Chefs Flour Review (2-Pack): Is It Worth It?"
 meta_description: "Honest Antimo Caputo Chefs Flour 2.2 LB review. We tested this Italian double-zero flour for pizza, bread, and pasta. See pros, cons, and verdict."
@@ -11,13 +12,14 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B005HEEFN2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91kWLKX8OuL._SL1500_.jpg"
-pros:
+pros: 
   - "High protein content (13%) gives chewy, crisp crusts without needing a sourdough starter or long cold ferment"
   - "Consistent fine '00' grind absorbs water predictably — same dough hydration every batch"
   - "2-pack of 2.2 lb bags is ideal for testing recipes without committing to a 50 lb bulk sack"
-cons:
+cons: 
   - "Priced per pound higher than standard bread flour at most grocery stores"
   - "Not ideal for whole-wheat enthusiasts — this is strictly refined white flour, no bran or germ"
+
 ---
 
 Let’s cut to the chase: if you’re buying this flour, you’re not making sandwich bread. You’re chasing that puffy, leopard-spotted Neapolitan crust or a chewy, crackly baguette. Antimo Caputo Chefs Flour delivers exactly that — with one or two caveats worth knowing before you add it to your cart.

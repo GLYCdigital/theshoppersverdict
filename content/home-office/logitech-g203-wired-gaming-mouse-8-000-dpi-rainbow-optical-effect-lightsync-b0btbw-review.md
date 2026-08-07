@@ -1,4 +1,5 @@
 ---
+
 title: "Logitech G203 Wired Gaming Mouse, 8,000 DPI, Rainbow Optical"
 seo_title: "Logitech G203 Wired Gaming Mouse, 8,000 DPI, Rainb Review"
 meta_description: "Our full logitech g203 wired gaming mouse, 8,000 dpi, rainbow optical review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTBWVQNB/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61oE1NouXuL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Premium quality construction and materials"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The Logitech G203 looks like a budget mouse and, at its typical $30–$40 street price, it is one. But don't let the price tag fool you: Logitech packed the same Hero sensor family found in mice twice the cost into this compact shell. After 229 Amazon ratings averaging 4.6 stars, the consensus is clear — this is the default pick for anyone who wants a reliable wired mouse without spending $100+. Here's the full breakdown.

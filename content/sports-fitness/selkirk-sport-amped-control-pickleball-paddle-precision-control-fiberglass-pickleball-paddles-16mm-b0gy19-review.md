@@ -1,4 +1,5 @@
 ---
+
 title: "Selkirk Sport Amped Control Pickleball Paddle | Precision & "
 seo_title: "Selkirk Sport Amped Control Pickleball Paddle | Pr Review"
 meta_description: "Our full selkirk sport amped control pickleball paddle | precision &  review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GY19GKTP/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71jjTzm5FLL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Supports an active lifestyle"
   - "Reliable performance during workouts"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You're a control player. You win points by placing the ball, not crushing it. The Selkirk Amped Control is built for exactly that — but it's not for everyone. Here's the honest breakdown after digging through specs, customer feedback, and what this paddle actually does on the court.

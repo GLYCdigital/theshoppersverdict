@@ -1,4 +1,5 @@
 ---
+
 title: "Aquasure Fortitude V2 Series Triple Purpose Sediment/Carbon/"
 seo_title: "Aquasure Fortitude V2 Review: Triple Purpose Water Filter"
 meta_description: "Aquasure Fortitude V2 Triple Purpose water filter review: 3-stage filtration, zinc bacteria inhibition, real performance data, and honest downsides."
@@ -11,14 +12,15 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8241VY2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717rnx+3PnL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Triple-action filtration removes sediment, chlorine, AND inhibits bacteria growth in one cartridge — saves space and money vs. three separate filters"
   - "20-micron sediment layer catches rust and sand while the carbon block handles taste and odor; zinc layer actively prevents slime buildup"
   - Fits standard 10-inch housings (2.5 inch x 10 inch size), so it drops into most existing filter systems without adapters
-cons:
+cons: 
   - "Carbon block is rated for only 6 months/20,000 gallons — shorter lifespan than single-purpose carbon filters that stretch to 12 months"
   - "At 20 microns, it won't catch fine sediment (5-micron or smaller); if your water has visible cloudiness, you'll still need a finer pre-filter"
   - "No included housing wrench or mounting bracket — you'll need your own tools for installation"
+
 ---
 
 **The Aquasure Fortitude V2 Triple Purpose filter is the Swiss Army knife of water filtration — and like most multi-tools, it excels at some jobs more than others.**

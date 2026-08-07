@@ -1,4 +1,5 @@
 ---
+
 title: "Thule EasyFold XT 2 Hitch Bike Rack - E-Bike Compatible - Fi"
 seo_title: "Thule EasyFold XT 2 Hitch Bike Rack - E-Bike Compa Review"
 meta_description: "Our full thule easyfold xt 2 hitch bike rack - e-bike compatible - fi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07954CY49/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81ExW0cQ5fL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Spacious size for added convenience"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you’ve priced out e-bike racks lately, you know the market splits into two camps: cheap racks that sag under 50-pound bikes, and premium racks that cost more than a decent commuter bike. The Thule EasyFold XT 2 sits firmly in the second camp, and for good reason. This is a rack built for heavy, expensive bikes — and it handles them with a confidence that budget options simply can’t match.

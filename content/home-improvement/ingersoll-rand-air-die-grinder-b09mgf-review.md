@@ -1,4 +1,5 @@
 ---
+
 title: "Ingersoll Rand Air Die Grinder"
 seo_title: "Ingersoll Rand Air Die Grinder Review: Verdict | TSV"
 meta_description: "Our full ingersoll rand air die grinder review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MGFB22R/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61FBHbFpfwL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Solid construction for reliable performance"
   - "Practical tool for home projects"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be blunt: most air die grinders under $100 are disposable. You burn through them in six months, the collet seizes, and the trigger sticks. The Ingersoll Rand 310B isn't that tool. This is the one you buy when you're tired of replacing cheap grinders every spring.

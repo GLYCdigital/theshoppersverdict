@@ -1,4 +1,5 @@
 ---
+
 title: "Burberry BE 4291 3007/H White Plastic Rectangle Sunglasses S"
 seo_title: "Burberry BE 4291 Sunglasses Review: White Rectangle Shades"
 meta_description: "Honest Burberry BE 4291 3007/H review: build quality, UV protection, fit, and value. See if these white rectangle sunglasses earn their price tag."
@@ -11,13 +12,14 @@ review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07RGQN9ZM/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41wAWJyVJTL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Genuine UV400 protection with Category 3 lenses that hold up in harsh sunlight"
   - "Featherlight at just 24 grams — forget you're wearing them after a few hours on the trail"
   - "The white plastic frame resists yellowing and shows minimal scratching after months of daily use"
-cons:
+cons: 
   - "Size S runs narrow — wide-faced users will feel pressure at the temples within an hour"
   - "No hard case included, just a microfiber pouch; risky for gym-bag tossers"
+
 ---
 
 Let's cut straight to it: these Burberry BE 4291 sunglasses are not your average designer shades. At 4.5 stars across 225 ratings, they've clearly won over a lot of buyers. But are they worth the premium for anyone who actually sweats? Here's the real deal.

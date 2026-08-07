@@ -1,4 +1,5 @@
 ---
+
 title: "FIREGAS Under Cabinet Range Hood, Ducted/Ductless Convertibl"
 seo_title: "FIREGAS Under Cabinet Range Hood Review: Ducted or Ductless"
 meta_description: "FIREGAS Under Cabinet Range Hood review: ducted/ductless convertible, 4.3 stars. Is this budget hood worth it? Real pros, cons, and buyer verdict."
@@ -11,14 +12,15 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FMXZ421F/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71QGsTmu-rL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Convertible ducted/ductless setup lets you install without existing venting — charcoal filters included"
   - "Three-speed mechanical push buttons are simple, reliable, and far less likely to fail than touch controls"
   - "Bright 2W LED light actually illuminates the cooktop — not a dim afterthought"
-cons:
+cons: 
   - "Stainless steel surface smudges easily and shows fingerprints within hours of cleaning"
   - "Fan noise at highest speed is noticeable — measured conversations get louder"
   - "Charcoal filters for ductless mode must be replaced every 3-6 months (ongoing cost)"
+
 ---
 
 **Is the FIREGAS Under Cabinet Range Hood worth your money?** At 4.3 stars from 215 Amazon buyers, this budget-friendly hood has clearly found an audience. But the 4.2 verdict score tells a slightly more nuanced story. Let's dig into what you're actually getting.

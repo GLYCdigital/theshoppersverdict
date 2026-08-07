@@ -1,4 +1,5 @@
 ---
+
 title: "Pokemon Card Game Scarlet & Violet Expansion Pack Stellar Mi"
 seo_title: "Pokemon Card Game Scarlet & Violet Expansion Pack  Review"
 meta_description: "Our full pokemon card game scarlet & violet expansion pack stellar mi review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CXD5Y18N/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71E147EHG8L._AC_SL1033_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Safe materials and thoughtful design for children"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 **The Short Version**

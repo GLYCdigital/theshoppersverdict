@@ -1,4 +1,5 @@
 ---
+
 title: "Montblanc Rollerball Refills â€“ Quick-Drying Pen Refills fo"
 seo_title: "Montblanc Rollerball Refills â€“ Quick-Drying Pen  Review"
 meta_description: "Our full montblanc rollerball refills â€“ quick-drying pen refills fo review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Z4BSS14/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61y+N3s5ADL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 You bought a $500 Montblanc. Now you're staring at a $12 ballpoint refill from CVS wondering if it'll fit. It won't. And here's the thing about Montblanc rollerball refills — they're not just overpriced ink. They're engineered to match the pen they feed.

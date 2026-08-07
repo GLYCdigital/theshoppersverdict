@@ -1,4 +1,5 @@
 ---
+
 title: "Pelon Pelo Rico Mini Tamarind Candy, 0.45 oz (Pack of 18)"
 seo_title: "Pelon Pelo Rico Mini Tamarind Candy, 0.45 oz (Pack Review"
 meta_description: "Our full pelon pelo rico mini tamarind candy, 0.45 oz (pack of 18) review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3M39KPZ/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81WrSs10vaL._SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 Let's be clear about one thing right up front: this is not a coffee maker. This is a candy — a Mexican tamarind paste candy that comes in those iconic squeezable plastic tubes. If you clicked expecting espresso gear, you're in the wrong aisle. But if you're here because you've seen these little yellow-and-red tubes all over social media and want to know if they're worth $5, stick around.

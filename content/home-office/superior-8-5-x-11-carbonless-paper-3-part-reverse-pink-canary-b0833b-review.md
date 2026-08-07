@@ -1,4 +1,5 @@
 ---
+
 title: "Superior 8.5 x 11 Carbonless Paper, 3 Part Reverse (Pink/Can"
 seo_title: "Superior 8.5 x 11 Carbonless Paper, 3 Part Reverse Review"
 meta_description: "Our full superior 8.5 x 11 carbonless paper, 3 part reverse (pink/can review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0833B3GW4/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61pDczLGMFL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Great value with multiple components included"
   - "Good value for the price point"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever filled out a three-part form only to find the last copy looks like a ghost wrote it, you know the frustration. Superior's 8.5 x 11 carbonless paper in 3-part reverse (pink/canary) aims to fix that — and based on 240 ratings averaging 4.8 stars, it largely succeeds. The question is whether the reverse collation works for your specific workflow.

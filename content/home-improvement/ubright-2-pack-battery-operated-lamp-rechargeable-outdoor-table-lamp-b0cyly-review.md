@@ -1,4 +1,5 @@
 ---
+
 title: "UBright 2 Pack Battery Operated Lamp Rechargeable Outdoor Ta"
 seo_title: "UBright 2 Pack Battery Operated Lamp Rechargeable  Review"
 meta_description: "Our full ubright 2 pack battery operated lamp rechargeable outdoor ta review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CYLYNHYL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81prG+4qXHL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Cordless convenience with reliable power"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever tripped over an extension cord running across your patio to power a string of lights, you already know why the UBright 2-pack of rechargeable outdoor table lamps exists. These are cordless, self-contained lighting units designed to sit on tables, railings, or sideboards and deliver warm ambient light without needing a nearby outlet. At 4.4 stars from 220 ratings, they're clearly doing something right — but let's talk about whether they're right for *your* setup.

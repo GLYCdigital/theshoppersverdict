@@ -1,4 +1,5 @@
 ---
+
 title: "Cat Scratching Post Replacement Poleâ€¦"
 seo_title: "Cat Scratching Post Replacement Pole Review (2026): Worth It?"
 meta_description: "Honest review of the Cat Scratching Post Replacement Pole: sisal quality, durability, fit, and value. See if it's worth your money before you buy."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D59R2V2K/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/711zKRYEbJL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Thick natural sisal rope holds up to aggressive scratching without shredding into loose fibers"
   - "Universal fit works with most standard scratching posts — no tools or glue needed for installation"
   - "Significantly cheaper than buying a whole new scratching post, extending the life of your existing one"
-cons:
+cons: 
   - "No mounting hardware or adhesive included — if your old pole has stripped threads, you'll need to source your own"
   - "Sisal scent is strong out of the box; some sensitive cats may need a few days to warm up to it"
+
 ---
 
 **The $15 Fix That Saves Your Cat Tower From the Landfill**

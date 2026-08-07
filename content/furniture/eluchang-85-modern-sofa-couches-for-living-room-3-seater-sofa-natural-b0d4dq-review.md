@@ -1,4 +1,5 @@
 ---
+
 title: "ELUCHANG 85 inch  Modern Sofa Couches for Living Room, 3 Seater S"
 seo_title: "ELUCHANG 85 inch  Modern Sofa Review: Worth It? (2026)"
 meta_description: "ELUCHANG 85 inch  modern 3-seater sofa review: comfort, build quality, assembly, and real owner feedback. Is this living room couch worth your money?"
@@ -11,14 +12,15 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4DQ2MX3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81nIRtjshbL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "85-inch width fits standard apartment living rooms without overwhelming the space"
   - "Firm yet supportive seat cushions that hold shape after months of daily use"
   - "Tool-free assembly takes under 20 minutes according to multiple verified buyers"
-cons:
+cons: 
   - "Low-profile backrest (around 17 inches) offers minimal neck support for taller users"
   - "Fabric shows lint and pet hair easily; requires frequent vacuuming"
   - "Seat depth is shallow for a 3-seater — tall adults may find it cramped"
+
 ---
 
 **The ELUCHANG 85" Modern Sofa: A Solid Mid-Range Pick with a Few Caveats**

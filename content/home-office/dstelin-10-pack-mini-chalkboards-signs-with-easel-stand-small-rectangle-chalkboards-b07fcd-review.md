@@ -1,4 +1,5 @@
 ---
+
 title: "DSTELIN 10 Pack Mini Chalkboards Signs with Easel Stand, Sma"
 seo_title: "DSTELIN Mini Chalkboards Review: 10-Pack Value Tested"
 meta_description: "Honest DSTELIN 10-pack mini chalkboard signs review: build quality, chalk performance, easel stability, and who should buy. Real buyer feedback included."
@@ -11,13 +12,14 @@ review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07FCDXXC8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51cA++UfYBL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Pre-cut chalkboard vinyl surface that actually erases cleanly — no ghosting after multiple uses"
   - "Sturdy wooden easels with a locking hinge, not flimsy wire stands that collapse"
   - "Consistent 5.9 x 3.9 inch size across all 10 boards — no warping or size variance"
-cons:
+cons: 
   - "Boards arrive with a faint chalk residue that needs a full wipe before first use"
   - "Easel legs are smooth wood — they slide on polished surfaces unless you add felt pads"
+
 ---
 
 You're planning a wedding, updating a cafe menu board, or organizing a retail display, and you need ten small chalkboards that don't look like dollar-store junk. The DSTELIN 10-pack lands in a weird middle ground: good enough for professional use, cheap enough to buy without wincing. Here's the real story after digging through 220 ratings and buyer feedback.

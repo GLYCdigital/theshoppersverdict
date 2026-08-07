@@ -1,4 +1,5 @@
 ---
+
 title: "Large Stone Dish Drying Mat for Kitchen Counter, Eco-friendl"
 seo_title: "Large Stone Dish Drying Mat for Kitchen Counter, E Review"
 meta_description: "Our full large stone dish drying mat for kitchen counter, eco-friendl review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,13 +12,14 @@ review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPB55V84/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/719qB38GiEL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Easy and convenient to use"
   - "Space-saving and portable design"
   - "Great value with multiple components included"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 If you've ever peeled a soggy microfiber drying mat off your counter and wrung it out over the sink, you already know the problem this stone mat solves. The Large Stone Dish Drying Mat swaps absorbent fabric for compressed diatomaceous earth — the same mineral compound used in those fast-drying bath stones. It's a fundamentally different approach to counter drying, and for most kitchens, it works remarkably well.

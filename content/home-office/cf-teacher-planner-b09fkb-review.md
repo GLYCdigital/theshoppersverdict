@@ -1,4 +1,5 @@
 ---
+
 title: "CF Teacher Planner"
 seo_title: "CF Teacher Planner Review 2026: Worth It? Honest Look"
 meta_description: "CF Teacher Planner review: 4.7-star rated, $27.99. Is the layout durable enough for daily use? Real pros, cons, and who should buy it."
@@ -11,13 +12,14 @@ review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09FKBSKFY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/916kBVGfQVL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Lay-flat spiral binding that survives being shoved in a tote bag daily without bending pages"
   - "Weekly spreads with labeled sections for Monday–Friday plus a Saturday notes column — rare at this price point"
   - "Thick 120gsm paper that handles gel pens and mildliners without ghosting through to the next page"
-cons:
+cons: 
   - "No undated option — if you buy mid-year, you'll waste several months of pages"
   - "The sticker sheet included is thin and low-quality; expect to replace it with your own"
+
 ---
 
 **Bottom Line Up Front:** If you're a classroom teacher who lives by your planner, the CF Teacher Planner at $27.99 is a serious contender. It's got the lay-flat binding, the thick paper, and the weekly layout that actually matches how teachers plan — not how an office supply company *thinks* teachers plan. But it's not perfect, and the date rigidity might be a dealbreaker for some.

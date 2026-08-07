@@ -1,4 +1,5 @@
 ---
+
 title: "LEGO TBD City Exploration 60368"
 seo_title: "LEGO TBD City Exploration 60368 Review: Verdict | TSV"
 meta_description: "Our full lego tbd city exploration 60368 review. Read Amazon customer insights, pros, cons, and our verdict."
@@ -11,12 +12,13 @@ review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CLRH9R6G/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81CJO+RKbLL._AC_SL1500_.jpg"
-pros:
+pros: 
   - "Engaging and entertaining for kids"
   - "Promotes creative play and learning"
-cons:
+cons: 
   - "May vary based on individual needs and preferences"
   - "Check Amazon for current pricing and availability"
+
 ---
 
 The LEGO City Exploration 60368 is the kind of set that makes you wish you were eight years old again. It's an Arctic expedition playset that drops you into a frozen research scenario with a tracked vehicle, a helicopter, and enough scientific gear to outfit a small polar station. With a 4.9-star average across 245 ratings, it's clearly connecting with families — but let's talk about whether it deserves your money.

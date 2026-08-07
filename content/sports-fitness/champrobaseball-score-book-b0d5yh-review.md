@@ -1,4 +1,5 @@
 ---
+
 title: "CHAMPRO Baseball Score Book"
 seo_title: "CHAMPRO Baseball Score Book Review (2026): Is It Worth It?"
 meta_description: "CHAMPRO Baseball Score Book review: 4.6-star scoring book with 229 ratings. We break down durability, layout, and whether it's right for coaches."
@@ -11,13 +12,14 @@ review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5YH1W96/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71Bqy0uj65L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros:
+pros: 
   - "Sturdy spiral binding lays flat on dugout benches or tabletops — no fighting to keep pages open"
   - "Dedicated pitch count columns per inning, which is rare at this price point and saves coaches from manual tallying"
   - "Thick 100gsm paper resists bleed-through from pen marks and light rain splatter"
-cons:
+cons: 
   - "No space for batting order notes or defensive substitutions — you'll need a separate notepad for mid-game changes"
   - "Cover is soft-touch vinyl, not hardcase; it'll scuff in a gear bag without a sleeve"
+
 ---
 
 Most scorebooks fall into one of two traps: they're either flimsy spiral notebooks that fall apart by midseason, or they're overbuilt binders with more tabs than a tax return. The CHAMPRO Baseball Score Book sits deliberately in the middle, and for most youth, high school, and travel ball coaches, that's exactly the right spot.
