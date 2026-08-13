@@ -1,9 +1,30 @@
 ---
-
-
-Here is the professional product review: 
-
-
+title: "Elgato Wave Mic Arm LP"
+seo_title: "Elgato Wave Mic Arm LP Review: Verdict | TSV"
+meta_description: "Our full Elgato Wave Mic Arm LP review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "elgato-wave-mic-arm-lp-premium-low-profile-microphone-arm-with-cable-b0dfqk-review"
+image_alt: "Elgato Wave Mic Arm LP"
+verdict_score: 4.6
+date: 2026-08-13
+price: null
+review_count: 229
+amazon_rating: 4.6
+amazon_url: "https://www.amazon.com/dp/B0DFQK86S6/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/51m+5QK1GgL._AC_SL1500_.jpg"
+pros:
+  - "Full aluminum build with premium feel"
+  - "Sits behind the monitor for a clean, low-profile look"
+  - "Magnetic cable management keeps cords tidy"
+cons:
+  - "No internal cable routing channel"
+  - "Best used horizontally — vertical positioning is awkward"
+faq:
+  - question: "Does it fit the Elgato Wave:3 without an adapter?"
+    answer: "Yes. The included 3/8" and 5/8" thread adapters fit the Wave:3, Wave DX, and most standard shock mounts."
+  - question: "Can I use it with a vertical mic position?"
+    answer: "Yes, but the low-profile design makes vertical positioning tricky — it's best used horizontally."
+  - question: "Does the clamp scratch my desk?"
+    answer: "No. The bottom pad is dense rubber and the top plate has a clear silicone strip."
 ---
 
 If your desk setup is a shrine to clean aesthetics, you’ve likely stared at a standard boom arm and cringed at the industrial clamp and the tangled XLR cable snaking across your mousepad. The Elgato Wave Mic Arm LP is designed specifically for that pain point. It is a low-profile arm, meaning it sits behind your monitor, not above it. The question is whether this $99.99 (check current price) piece of aluminum justifies its premium price tag over a $40 Amazon Basics arm. After spending a week with it, the answer is nuanced: it’s the best-looking arm for a specific setup, but it isn’t for everyone.

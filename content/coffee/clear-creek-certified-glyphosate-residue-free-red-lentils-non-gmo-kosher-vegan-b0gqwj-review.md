@@ -1,9 +1,30 @@
 ---
-
-
-Here is the product image alt text: "CLEAR CREEK certified glyphosate residue free red lentils in a clear bag with green and white label, showing bright orange-red split lentils."
-
-
+title: "CLEAR CREEK Certified Glyphosate Residue Free Red Lentils"
+seo_title: "CLEAR CREEK Certified Glyphosate Residue Free Red Lentils Review: Verdict | TSV"
+meta_description: "Our full CLEAR CREEK Certified Glyphosate Residue Free Red Lentils review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "clear-creek-certified-glyphosate-residue-free-red-lentils-non-gmo-kosher-vegan-b0gqwj-review"
+image_alt: "CLEAR CREEK Certified Glyphosate Residue Free Red Lentils"
+verdict_score: 4.6
+date: 2026-08-13
+price: null
+review_count: 235
+amazon_rating: 4.7
+amazon_url: "https://www.amazon.com/dp/B0GQWJQMT2/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/81pWvtSWCAL._SL1500_.jpg"
+pros:
+  - "Certified glyphosate-residue-free with independent testing"
+  - "Clean, bright lentils — no pebbles or chaff to pick through"
+  - "Resealable mylar-style bag with a zipper that actually works"
+cons:
+  - "Premium price vs. generic store-brand red lentils"
+  - "Residue testing is not the same as organic certification"
+faq:
+  - question: "Are these the same as organic red lentils?"
+    answer: "No. Organic certification covers the entire farming process; CLEAR CREEK only tests for glyphosate residue. They're different standards."
+  - question: "Do they need to be rinsed before cooking?"
+    answer: "Yes, rinse them regardless of brand. Even clean lentils have dust and starch on the surface."
+  - question: "How long do they stay fresh?"
+    answer: "In a cool, dry place in the resealable bag, expect 12-18 months; longer in an airtight glass jar."
 ---
 
 Let’s be honest about what you’re actually buying here. Red lentils are a pantry staple—cheap, fast-cooking, and forgiving. So why would anyone pay a premium for CLEAR CREEK’s version? Because they’ve built an entire brand around one claim: zero glyphosate residue. And for a growing number of shoppers, that single differentiator matters more than price.

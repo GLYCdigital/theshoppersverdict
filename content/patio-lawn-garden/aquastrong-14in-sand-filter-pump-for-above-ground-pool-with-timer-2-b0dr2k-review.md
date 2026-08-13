@@ -1,12 +1,34 @@
 ---
-
+title: "AQUASTRONG 14-inch Sand Filter Pump"
+seo_title: "AQUASTRONG 14-inch Sand Filter Pump Review: Verdict | TSV"
+meta_description: "Our full AQUASTRONG 14-inch Sand Filter Pump review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "aquastrong-14in-sand-filter-pump-for-above-ground-pool-with-timer-2-b0dr2k-review"
+image_alt: "AQUASTRONG 14-inch Sand Filter Pump"
+verdict_score: 3.3
+date: 2026-08-13
+price: null
+review_count: 150
+amazon_rating: 3.0
+amazon_url: "https://www.amazon.com/dp/B0DR2KBQWG/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/71KPbAolSeL._AC_SY300_SX300_QL70_ML2_.jpg"
+pros:
+  - "14-inch tank with 6-position multiport valve"
+  - "Integrated 2/4/6/8-hour timer"
+  - "UV-stabilized rotational-molded tank"
+cons:
+  - "3.0-star average — flow drops to 1,800-2,000 GPH under typical plumbing"
+  - "No pressure gauge, so backwash timing is guesswork"
+faq:
+  - question: "How much sand does it need, and what kind?"
+    answer: "Roughly 100 pounds of #20 silica sand (0.45-0.55 mm grain). Do NOT use play sand — it's too fine and will clog the laterals."
+  - question: "Can I run it with a saltwater pool?"
+    answer: "Yes, the pump and tank handle saltwater, but the stainless steel clamp bands will corrode faster."
+  - question: "How often do I backwash?"
+    answer: "Backwash when return flow visibly weakens or every 7-10 days during heavy use."
+---
 
 ## The 3.0-Star Reality Check: What 150 Buyers Are Actually Saying
-
 Let’s be blunt: a 3.0-star average on 150 ratings isn’t a fluke. It’s a signal that the AQUASTRONG 14-inch sand filter pump delivers on paper but stumbles in practice for a meaningful chunk of buyers. If you’re shopping for an above-ground pool filter, you need the unvarnished breakdown—here it is.
-
-
----
 
 ## What’s in the Box
 

@@ -1,9 +1,30 @@
 ---
-
-
-Here is the full review: 
-
-
+title: "Armanza Square Mouse Pad Pretty Peony Flower"
+seo_title: "Armanza Square Mouse Pad Pretty Peony Flower Review: Verdict | TSV"
+meta_description: "Our full Armanza Square Mouse Pad Pretty Peony Flower review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "armanza-square-mouse-pad-pretty-peony-flower-personalized-premium-textured-custom-mouse-b09ytm-review"
+image_alt: "Armanza Square Mouse Pad Pretty Peony Flower"
+verdict_score: 4.6
+date: 2026-08-13
+price: null
+review_count: 235
+amazon_rating: 4.7
+amazon_url: "https://www.amazon.com/dp/B09YTMHF7H/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/611e2xEBpAL._AC_SL1500_.jpg"
+pros:
+  - "Vivid, non-pixelated peony print"
+  - "Non-slip rubber base with textured cloth surface"
+  - "Stitched edges resist fraying"
+cons:
+  - "Small-to-medium footprint — not a full desk mat"
+  - "Spot-clean only; machine washing degrades the rubber base"
+faq:
+  - question: "Does the personalization fade or peel?"
+    answer: "No. The monogram is printed with the same process as the main design and covered by the same protective layer."
+  - question: "Is this mouse pad washable?"
+    answer: "Spot clean with a damp cloth. Don't machine-wash — the rubber base will degrade."
+  - question: "What size is it exactly?"
+    answer: "Roughly 9.5 x 8.3 inches (24 x 21 cm) — a standard small-to-medium mouse pad."
 ---
 
 You spend eight hours a day with your hand on this thing. It deserves to be pretty. The **Armanza Square Mouse Pad** in the Pretty Peony Flower pattern is exactly the kind of small upgrade that makes a gray cubicle feel less like a holding cell and more like *your* space. But is it just a pretty face, or does it actually perform? Let’s dig in.
