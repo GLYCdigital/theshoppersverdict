@@ -20,7 +20,7 @@ cons:
   - "Best used horizontally — vertical positioning is awkward"
 faq:
   - question: "Does it fit the Elgato Wave:3 without an adapter?"
-    answer: "Yes. The included 3/8" and 5/8" thread adapters fit the Wave:3, Wave DX, and most standard shock mounts."
+    answer: "Yes. The included 3/8-inch and 5/8-inch thread adapters fit the Wave:3, Wave DX, and most standard shock mounts."
   - question: "Can I use it with a vertical mic position?"
     answer: "Yes, but the low-profile design makes vertical positioning tricky — it's best used horizontally."
   - question: "Does the clamp scratch my desk?"
