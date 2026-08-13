@@ -52,6 +52,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "/best-of/"
     weight = 12
   [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 15
+  [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 20
@@ -61,6 +65,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 30
 
 [permalinks]
+  blog = "/blog/:slug/"
   kitchen = "/kitchen/:slug/"
   coffee = "/coffee/:slug/"
   "home-office" = "/home-office/:slug/"

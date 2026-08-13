@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="category-hero" style="background-color: var(--navy);">
+  <div class="container category-hero-inner">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.description }}
+    <p class="category-desc">{{ . | safeHTML }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<section class="section-white">
+  <div class="container">
+    {{ $posts := .Pages.ByDate.Reverse }}
+    {{ range $posts }}
+    <article class="blog-card">
+      <h2 class="blog-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p class="blog-card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+      <p class="blog-card-summary">{{ .Summary | plainify | truncate 180 }}</p>
+      <a href="{{ .RelPermalink }}" class="btn btn-outline btn-sm">Read more →</a>
+    </article>
+    {{ else }}
+    <p style="text-align:center;color:var(--muted);padding:40px 0;">Coming soon.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

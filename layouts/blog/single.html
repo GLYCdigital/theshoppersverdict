@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="page-single">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a><span>→</span><a href="/blog/">Blog</a><span>→</span><span class="current">{{ .Title }}</span>
+    </nav>
+
+    <header class="blog-header">
+      <h1 class="blog-title">{{ .Title }}</h1>
+      <p class="blog-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <span class="trust-divider">|</span> By The Shopper's Verdict
+      </p>
+    </header>
+
+    <div class="page-body blog-body">
+      {{ .Content }}
+    </div>
+
+    <div class="blog-cta">
+      <p><em>As an Amazon Associate, we earn from qualifying purchases. Our verdicts are based on real customer reviews, not affiliate commissions.</em></p>
+      <a href="/verdicts/" class="btn btn-outline btn-sm">Browse all verdicts →</a>
+    </div>
+  </div>
+</article>
+{{ end }}

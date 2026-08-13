@@ -11,7 +11,7 @@ for MD in "$@"; do
     case "$BASENAME" in _index.md|_*.md) continue ;; esac
     # Skip non-review pages (root-level content files: about, contact, search, etc.)
     PARENT_DIR=$(dirname "$MD" | xargs basename)
-    if [ "$PARENT_DIR" = "content" ]; then
+    if [ "$PARENT_DIR" = "content" ] || [ "$PARENT_DIR" = "blog" ]; then
         continue
     fi
     if [ ! -f "$MD" ]; then
