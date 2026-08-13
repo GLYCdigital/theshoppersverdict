@@ -226,6 +226,11 @@ ul { list-style: none; }
   color: var(--gold);
 }
 
+/* Mobile-only BLOG link (navy-nav is hidden on mobile) */
+.nav-blog-mobile {
+  display: none;
+}
+
 /* Sub-header — White bar */
 .sub-header-white {
   background: var(--white);
@@ -1668,6 +1673,8 @@ ul { list-style: none; }
   .sub-header { height: auto; min-height: 50px; }
   .sub-header-inner { padding: 10px 0; }
   .navy-nav { display: none; }
+  .nav-blog-mobile { display: inline-block; color: rgba(255,255,255,0.85); font-size: 12px; font-weight: 500; letter-spacing: 0.5px; margin-left: 14px; white-space: nowrap; }
+  .nav-blog-mobile:hover { color: var(--gold); }
   .nav-hamburger { display: flex; flex-direction: column; gap: 4px; background: none; border: none; cursor: pointer; padding: 8px 10px; margin-right: auto; }
   .nav-hamburger span { display: block; width: 20px; height: 2px; background: var(--white); border-radius: 1px; }
   .category-dropdown { margin-left: auto; flex-shrink: 0; }
