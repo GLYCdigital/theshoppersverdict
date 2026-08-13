@@ -1,0 +1,27 @@
+---
+title: "Get the Verdict"
+description: "New reviews delivered to your inbox."
+type: page
+---
+
+## Never Miss a Verdict
+
+Get the latest review summaries straight to your inbox. No spam, no fluff — just the verdict.
+
+<form class="newsletter-form newsletter-full" action="/subscribe" method="POST">
+  <input type="text" name="name" placeholder="Your first name">
+  <input type="email" name="email" placeholder="Your email address" required>
+  <button type="submit" class="btn btn-gold btn-lg">Subscribe to the Verdict</button>
+</form>
+
+<p style="font-size:13px;color:var(--muted);text-align:center;margin-top:16px;">
+  <em>No spam. Unsubscribe anytime.</em>
+</p>
+
+---
+
+## What You'll Get
+
+- **Weekly roundups** — the best products we've reviewed
+- **Exclusive picks** — top-rated products our readers love
+- **New category alerts** — when we expand to new niches
