@@ -29,3 +29,7 @@
 [10:38 SGT] Gabriel: blog post needs Amazon affiliate links + is blog SEO/crawlable? — checking
 [10:47 SGT] Added 6 Amazon affiliate links (B0GKQFHV6X x3, B078WMLXXG x3, tag=tsvglyc-20) to Breville blog post
 [10:55 SGT] Added featured image to Breville blog post (frontmatter image/image_alt, blog-featured-image in single.html, og:image fallback in baseof, Article schema image fallback, CSS). dateModified skipped per Gabriel.
+[11:05 SGT] VERIFIED LIVE: blog post featured image rendering (blog-featured-image div present, og:image = product photo 71UHGmdP6IL), deploy 7a463e6 success.
+[11:02 SGT] Improvement idea generated (/best-of/ auto-regeneration) for 11:00 ops generator
+[11:05 SGT] Gabriel: set up daily 16:00 blog schedule — LLM (deepseek-chat) writes, post with image/SEO/AI-search optimization, apply Gemini tips (evergreen URLs, affiliate link placement blueprint).
+[11:20 SGT] DAILY BLOG PIPELINE LIVE: blog_writer.py upgraded (Gemini blueprint: affiliate buttons, Quick Summary box in first 200 words, contextual links, comparison table, Final Verdict CTA, FAQ schema, featured image, evergreen slugs). blog_daily.py auto-runner created (topic picker w/ product-type token matching, one-post/day guard, commits+pushes). Real run #1: BRITA vs ZeroWater water filters (1495 words, 5 tsvglyc-20 affiliate links, 4 buttons, image, FAQPage schema) — a8ba68e90 deployed, live 200. Cron 3306f708: daily 16:00 SGT → blog_daily.py → announce to Gabriel.
