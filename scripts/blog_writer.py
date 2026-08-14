@@ -94,6 +94,8 @@ def build_prompts(cfg):
         bits = f"- {r['title']} — internal review URL {r['url']}"
         if r.get("amazon_url"):
             bits += f", Amazon affiliate URL {r['amazon_url']}"
+        if r.get("amazon_image"):
+            bits += f", product image URL {r['amazon_image']}"
         if r.get("verdict"):
             bits += f", our verdict score {r['verdict']}/5"
         if r.get("rating"):
@@ -116,6 +118,7 @@ def build_prompts(cfg):
         "- AFFILIATE LINKS: every product must get its Amazon affiliate URL linked from its product name at first mention AND in a prominent button. Use EXACTLY the provided amazon_url values. Never invent links or ASINs.\n"
         "- BUTTON HTML format: <a href=\"AMAZON_URL\" class=\"btn btn-gold btn-block\" target=\"_blank\" rel=\"nofollow sponsored\">Check Price on Amazon</a>\n"
         "- BUTTON COPY RULES: never use the word 'Buy'. Use low-friction copy: 'Check Price on Amazon', 'View Amazon Deals', 'Check Availability', 'See Today's Price'.\n"
+        "- IMAGES: do NOT add any <img> tags. A product image gallery (showing EVERY product in this post) is generated automatically and inserted after the Quick Summary. Focus on the words, tables and buttons.\n"
         "- GEMINI BLUEPRINT LAYOUT:\n"
         "  1. Within the FIRST 200 words include a '## Quick Summary' box: a one-line winner verdict (e.g. 'Best overall: [Product] — verdict 4.6/5') followed by a Check Price on Amazon button for the recommended product.\n"
         "  2. Interweave contextual text links on product names throughout the body (link the product name itself, not 'click here').\n"
@@ -162,6 +165,59 @@ def _yaml_quote(s):
     return json.dumps(str(s), ensure_ascii=False)
 
 
+def build_gallery(cfg):
+    """Side-by-side image gallery of EVERY product in the post (unbiased).
+    Only for posts covering 2+ products that have images."""
+    items = [r for r in cfg.get("reviews", []) if r.get("amazon_image")]
+    if len(items) < 2:
+        return ""
+    cards = []
+    for r in items:
+        img = r["amazon_image"].replace("SL1500", "SL600")
+        meta = []
+        if r.get("verdict"):
+            meta.append(f"Our verdict: {r['verdict']}/5")
+        if r.get("rating"):
+            meta.append(f"Amazon: {r['rating']}/5")
+        if r.get("price"):
+            meta.append(f"~${r['price']}")
+        if r.get("count"):
+            meta.append(f"{r['count']:,} reviews")
+        btn = (f"<a href=\"{r['amazon_url']}\" class=\"btn btn-gold btn-block\" "
+               f"target=\"_blank\" rel=\"nofollow sponsored\" "
+               f"data-umami-event=\"affiliate_click\" data-umami-event-value=\"{r['title']}\">"
+               f"Check Price on Amazon</a>")
+        cards.append(
+            f"<div class=\"blog-compare-item\">\n"
+            f"  <img src=\"{img}\" alt=\"{r['title']}\" loading=\"lazy\" width=\"600\" height=\"600\">\n"
+            f"  <h3>{r['title']}</h3>\n"
+            f"  <p class=\"blog-compare-meta\">{' · '.join(meta)}</p>\n"
+            f"  {btn}\n"
+            f"</div>"
+        )
+    return "<div class=\"blog-compare-gallery\">\n" + "\n".join(cards) + "\n</div>"
+
+
+def insert_gallery(body, gallery):
+    """Insert gallery right after the Quick Summary block (fallback: after first heading)."""
+    if not gallery:
+        return body
+    marker = "## Quick Summary"
+    idx = body.find(marker)
+    if idx != -1:
+        sep = body.find("---", idx)
+        if sep != -1:
+            end = sep + 3
+            return body[:end] + "\n\n" + gallery + "\n" + body[end:]
+        return body[:idx] + gallery + "\n\n" + body[idx:]
+    h = body.find("## ")
+    if h != -1:
+        nl = body.find("\n\n", h)
+        if nl != -1:
+            return body[:nl] + "\n\n" + gallery + "\n" + body[nl:]
+    return gallery + "\n\n" + body
+
+
 def write_post(cfg, data, slug):
     out_dir = Path(os.environ.get("BLOG_DRY_RUN", "") and "/tmp/blog-dry-run") if os.environ.get("BLOG_DRY_RUN") else CONTENT_DIR
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -191,7 +247,10 @@ def write_post(cfg, data, slug):
             fm += f"  - question: {_yaml_quote(item.get('question',''))}\n"
             fm += f"    answer: {_yaml_quote(item.get('answer',''))}\n"
     fm += "---\n\n"
-    path.write_text(fm + data["body"].strip() + "\n")
+    body = data["body"].strip()
+    gallery = build_gallery(cfg)
+    body = insert_gallery(body, gallery)
+    path.write_text(fm + body + "\n")
     return path
 
 
