@@ -36,3 +36,4 @@
 [11:33 SGT] Gabriel: keep today's test post; comparison posts must show images of ALL compared products. — implementing
 [11:35 SGT] Comparison posts now render side-by-side gallery of ALL compared products (blog-compare-gallery: image, verdict, rating, price, review count, affiliate button per product). Verified dry-run: BRITA + ZeroWater both shown. CSS added.
 [11:46 SGT] Added blog-compare-gallery to Breville post (both machines: 71UHGmdP6IL + 71zWmCnDvBL). Committing.
+[11:50 SGT] VERIFIED LIVE: Breville blog post now shows BOTH machines (Express 71UHGmdP6IL + Touch 71zWmCnDvBL) in comparison gallery. Deploy a0d9235 success.
