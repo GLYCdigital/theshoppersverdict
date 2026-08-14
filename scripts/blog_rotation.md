@@ -16,8 +16,17 @@ links to existing review pages (distributes link equity to money pages).
 ## Writing rules
 - Slot guidance lives in `scripts/blog_writer.py` (SLOT_GUIDANCE dict).
 - Internal-link targets must be real review URLs from `content/<category>/`.
-- Each post: title, seo_title (≤60 chars), meta_description (≤155 chars), markdown body.
-- Generate with: `python3 scripts/blog_writer.py --config scripts/blog_tasks/<date>-<slot>.json`
+- Each post: title, seo_title (≤60 chars), meta_description (≤155 chars), markdown body, image, faq.
+- Generate with: `python3 scripts/blog_daily.py` (auto-picks topic from review corpus, never repeats used products, commits + pushes).
+- Dry-run/test: `python3 scripts/blog_daily.py --dry-run` (writes to /tmp, no git).
+- Affiliate + SEO blueprint (from Gemini guidance):
+  - Evergreen URL slugs — no year, 3-5 words, keyword-only, no stopwords.
+  - Quick Summary box with "Check Price on Amazon" button within the first 200 words (~50% of clicks).
+  - Contextual text links on product names (never "click here").
+  - Button copy: "Check Price on Amazon" / "View Amazon Deals" / "Check Availability" — never "Buy".
+  - Comparison table with price, rating, verdict + button per item (2+ products).
+  - Final Verdict section with a large full-width CTA button.
+  - FAQ block in frontmatter → FAQPage schema (AI-search rich results).
 
 ## Weekly cadence
 7 posts/week = 1 per day. Post goes live via the normal commit → CI deploy.

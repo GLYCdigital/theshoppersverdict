@@ -13,13 +13,14 @@ Config JSON shape:
   "slot": "comparison",           # one of: comparison, price_bracket, worth_it, how_to, trending, seasonal, deal_alert
   "topic": "Breville Barista Express vs Barista Touch",
   "angle": "Which home espresso machine should you buy in 2026?",
-  "reviews": [                    # real reviews to internal-link (title, url, verdict, rating, price, count)
-    {"title": "...", "url": "/coffee/slug/", "verdict": 4.6, "rating": 4.5, "price": 699.95, "count": 27735}
+  "reviews": [                    # real reviews to internal-link + affiliate-link
+    {"title": "...", "url": "/coffee/slug/", "amazon_url": "https://www.amazon.com/dp/XXXX/?tag=tsvglyc-20", "amazon_image": "https://m.media-amazon.com/images/I/XXX.jpg", "verdict": 4.6, "rating": 4.5, "price": 699.95, "count": 27735, "pros": ["...", "..."]}
   ]
 }
 
 Output: content/blog/<date>-<slug>.md with frontmatter (title, seo_title,
-meta_description, description, date, slug) + markdown body.
+meta_description, description, date, slug, image, image_alt, faq) + markdown body.
+BLOG_DRY_RUN=1 env var writes to /tmp/blog-dry-run/ instead of content/blog/.
 """
 
 import os, sys, json, re, time
@@ -90,7 +91,9 @@ def build_prompts(cfg):
 
     review_lines = []
     for r in cfg.get("reviews", []):
-        bits = f"- {r['title']} — URL {r['url']}"
+        bits = f"- {r['title']} — internal review URL {r['url']}"
+        if r.get("amazon_url"):
+            bits += f", Amazon affiliate URL {r['amazon_url']}"
         if r.get("verdict"):
             bits += f", our verdict score {r['verdict']}/5"
         if r.get("rating"):
@@ -99,6 +102,8 @@ def build_prompts(cfg):
             bits += f", ~${r['price']}"
         if r.get("count"):
             bits += f", {r['count']:,} reviews"
+        if r.get("pros"):
+            bits += f", top pros: {'; '.join(r['pros'][:2])}"
         review_lines.append(bits)
 
     system = (
@@ -107,13 +112,23 @@ def build_prompts(cfg):
         "Voice: sharp, honest, opinionated, no fluff. Write for humans but SEO-aware.\n"
         "Rules:\n"
         "- Write 1500-2500 words.\n"
-        "- Use clean Markdown (## and ### headings, bullet lists, no tables, no HTML).\n"
-        "- Include the provided internal links naturally in the body (at least 2-3). Do NOT invent other product links or ASINs.\n"
+        "- Use Markdown with ## and ### headings and bullet lists. You MAY include simple HTML for affiliate buttons ONLY (see button format below).\n"
+        "- AFFILIATE LINKS: every product must get its Amazon affiliate URL linked from its product name at first mention AND in a prominent button. Use EXACTLY the provided amazon_url values. Never invent links or ASINs.\n"
+        "- BUTTON HTML format: <a href=\"AMAZON_URL\" class=\"btn btn-gold btn-block\" target=\"_blank\" rel=\"nofollow sponsored\">Check Price on Amazon</a>\n"
+        "- BUTTON COPY RULES: never use the word 'Buy'. Use low-friction copy: 'Check Price on Amazon', 'View Amazon Deals', 'Check Availability', 'See Today's Price'.\n"
+        "- GEMINI BLUEPRINT LAYOUT:\n"
+        "  1. Within the FIRST 200 words include a '## Quick Summary' box: a one-line winner verdict (e.g. 'Best overall: [Product] — verdict 4.6/5') followed by a Check Price on Amazon button for the recommended product.\n"
+        "  2. Interweave contextual text links on product names throughout the body (link the product name itself, not 'click here').\n"
+        "  3. If the post covers 2+ products, include a comparison table (| Feature | Product A | Product B |) with price, rating, verdict, and a button row for each.\n"
+        "  4. End with a '## Final Verdict' section: clear recommendation + a large full-width button (btn btn-green btn-block) for the winner.\n"
+        "- Include the provided internal review URLs naturally in the body (at least 2-3). Do NOT invent other product links or ASINs.\n"
         "- Do NOT fabricate stats. Use only the numbers we give you; otherwise speak qualitatively.\n"
         "- Disclose affiliate relationship subtly where relevant (we earn from qualifying purchases).\n"
         "- No image tags, no emoji spam.\n"
-        "Output ONLY a JSON object with keys: title, seo_title, meta_description, body. "
-        "seo_title ≤ 60 chars, meta_description ≤ 155 chars. body is the full markdown."
+        "- EVERGREEN SEO: keep the title free of years where possible so the post stays rankable long-term.\n"
+        "Output ONLY a JSON object with keys: title, seo_title, meta_description, body, faq. "
+        "seo_title ≤ 60 chars, meta_description ≤ 155 chars. body is the full markdown. "
+        "faq is an array of 3-4 objects {question, answer} answering common buyer questions (used for FAQPage schema)."
     )
 
     user = (
@@ -121,7 +136,7 @@ def build_prompts(cfg):
         f"Topic: {cfg.get('topic','')}\n"
         f"Angle: {cfg.get('angle','')}\n\n"
         f"{guidance}\n\n"
-        f"Real reviews you MUST internal-link to:\n" + "\n".join(review_lines)
+        f"Real products with internal review URLs, affiliate URLs and data:\n" + "\n".join(review_lines)
     )
     return system, user
 
@@ -143,21 +158,39 @@ def slugify(s):
     return s.strip("-")
 
 
+def _yaml_quote(s):
+    return json.dumps(str(s), ensure_ascii=False)
+
+
 def write_post(cfg, data, slug):
-    CONTENT_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir = Path(os.environ.get("BLOG_DRY_RUN", "") and "/tmp/blog-dry-run") if os.environ.get("BLOG_DRY_RUN") else CONTENT_DIR
+    out_dir.mkdir(parents=True, exist_ok=True)
     today = date.today().isoformat()
     fname = f"{today}-{slug}.md"
-    path = CONTENT_DIR / fname
+    path = out_dir / fname
+
+    # Featured image: prefer config image, else first review's amazon_image
+    image = cfg.get("image") or next((r.get("amazon_image") for r in cfg.get("reviews", []) if r.get("amazon_image")), "")
+    image_alt = cfg.get("image_alt") or (f"{cfg.get('topic','')} — product photo" if cfg.get("topic") else "")
+
     fm = (
         "---\n"
-        f"title: \"{data['title']}\"\n"
-        f"seo_title: \"{data['seo_title']}\"\n"
-        f"meta_description: \"{data['meta_description']}\"\n"
-        f"description: \"{data['meta_description']}\"\n"
+        f"title: {_yaml_quote(data['title'])}\n"
+        f"seo_title: {_yaml_quote(data['seo_title'])}\n"
+        f"meta_description: {_yaml_quote(data['meta_description'])}\n"
+        f"description: {_yaml_quote(data['meta_description'])}\n"
         f"date: {today}\n"
-        f"slug: \"{slug}\"\n"
-        "---\n\n"
+        f"slug: {_yaml_quote(slug)}\n"
     )
+    if image:
+        fm += f"image: {_yaml_quote(image)}\n"
+        fm += f"image_alt: {_yaml_quote(image_alt)}\n"
+    if data.get("faq"):
+        fm += "faq:\n"
+        for item in data["faq"][:4]:
+            fm += f"  - question: {_yaml_quote(item.get('question',''))}\n"
+            fm += f"    answer: {_yaml_quote(item.get('answer',''))}\n"
+    fm += "---\n\n"
     path.write_text(fm + data["body"].strip() + "\n")
     return path
 
