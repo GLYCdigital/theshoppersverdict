@@ -28,6 +28,21 @@ If you want a proven, budget-friendly filter that improves taste without breakin
 
 ---
 
+<div class="blog-compare-gallery">
+<div class="blog-compare-item">
+  <img src="https://m.media-amazon.com/images/I/71Sc1WjCZGL._AC_SL600_.jpg" alt="BRITA Standard Replacement Water Filter" loading="lazy" width="600" height="600">
+  <h3>BRITA Standard Replacement Water Filter</h3>
+  <p class="blog-compare-meta">Our verdict: 4.6/5 · Amazon: 4.8/5 · ~$32.31 · 235,732 reviews</p>
+  <a href="https://www.amazon.com/dp/B00004SU18/?tag=tsvglyc-20" class="btn btn-gold btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="BRITA Standard Replacement Water Filter">Check Price on Amazon</a>
+</div>
+<div class="blog-compare-item">
+  <img src="https://m.media-amazon.com/images/I/71rvw5HeoSL._AC_SL600_.jpg" alt="ZeroWater Replacement Filter for Pitchers" loading="lazy" width="600" height="600">
+  <h3>ZeroWater Replacement Filter for Pitchers</h3>
+  <p class="blog-compare-meta">Our verdict: 4.5/5 · Amazon: 4.5/5 · ~$44.99 · 72,073 reviews</p>
+  <a href="https://www.amazon.com/dp/B001CUQ1C8/?tag=tsvglyc-20" class="btn btn-gold btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="ZeroWater Replacement Filter for Pitchers">Check Price on Amazon</a>
+</div>
+</div>
+
 ## Introduction
 
 Water filter pitchers are a simple way to improve your tap water. But the filter you choose matters. Two of the most popular options on Amazon are the [BRITA Standard Replacement Water Filter](https://www.amazon.com/dp/B00004SU18/?tag=tsvglyc-20) and the [ZeroWater Replacement Filter for Pitchers](https://www.amazon.com/dp/B001CUQ1C8/?tag=tsvglyc-20). Both claim to reduce contaminants, but they take very different approaches.
