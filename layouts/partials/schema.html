@@ -102,7 +102,9 @@
     "publisher" (dict "@id" (printf "%s#organization" .Site.BaseURL))
     "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
   -}}
-  {{- with .Params.amazon_image -}}
+  {{- with .Params.image -}}
+    {{- $article = merge $article (dict "image" (. | absURL)) -}}
+  {{- else with .Params.amazon_image -}}
     {{- $article = merge $article (dict "image" (. | absURL)) -}}
   {{- end -}}
   {{- $schemas = $schemas | append $article -}}

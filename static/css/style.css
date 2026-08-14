@@ -1539,6 +1539,17 @@ ul { list-style: none; }
   font-size: 32px;
   color: var(--navy);
 }
+.blog-featured-image {
+  max-width: 760px;
+  margin: 0 auto 8px;
+}
+.blog-featured-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+}
+
 .page-body {
   max-width: 760px;
   margin: 0 auto;

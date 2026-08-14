@@ -13,6 +13,12 @@
       </p>
     </header>
 
+    <div class="blog-featured-image">
+      {{ with .Params.image }}
+      <img src="{{ replace . "_SL1500_" "_SL900_" }}" alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}" loading="lazy" width="900" height="900">
+      {{ end }}
+    </div>
+
     <div class="page-body blog-body">
       {{ .Content }}
     </div>

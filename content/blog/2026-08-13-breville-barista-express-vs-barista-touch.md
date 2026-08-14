@@ -5,6 +5,8 @@ meta_description: "We compare the Breville Barista Express vs Barista Touch for 
 description: "We compare the Breville Barista Express vs Barista Touch for 2026. See key specs, pros, cons, and our clear recommendation to help you choose."
 date: 2026-08-13
 slug: "breville-barista-express-vs-barista-touch"
+image: "https://m.media-amazon.com/images/I/71UHGmdP6IL._SL1500_.jpg"
+image_alt: "Breville Barista Express espresso machine (BES870BTR) on a kitchen counter"
 ---
 
 ## The 2026 Home Espresso Showdown: Barista Express vs. Barista Touch

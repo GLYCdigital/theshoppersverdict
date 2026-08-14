@@ -23,7 +23,7 @@
   {{- /* Open Graph */ -}}
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $seoTitle }}{{ end }}">
   <meta property="og:description" content="{{ $desc }}">
-  <meta property="og:image" content="{{ .Site.Params.assets.og_image | absURL }}">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.assets.og_image | absURL }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">

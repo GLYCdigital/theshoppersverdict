@@ -1,1 +1,5 @@
-07:30:30 Daily batch: 9/10 reviews written (scraper fixed, 1 quality gate fail), QA passed
+03:38:27 Starting orchestrator (seeds bestsellers + scrapes)...
+03:40:13 Writer done
+04:54:22 Orchestrator done
+04:54:22 Starting review writer...
+05:04:22 Writer done

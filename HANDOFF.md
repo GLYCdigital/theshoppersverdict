@@ -62,3 +62,19 @@
 - LOG SHORT — one line per interaction
 - Check CONVERSATION_LOG.md tail on startup
 - Check HEARTBEAT.md for pending tasks
+
+---
+
+## ⏸️ SUSPENDED — 2026-08-04 23:35 SGT (Gabriel: "Stop the fix, rethink tomorrow")
+
+**Do NOT continue the fix without Gabriel's go-ahead.** Gabriel is rethinking the approach tomorrow.
+
+### State at stop
+- ✅ Pushed to main: `951e4ba3f` (today page 4-category fix + writer `## The Verdict` removal + `static/_headers` no-cache) and `0b571bbb6` (deploy.yml wrangler purge attempt). Both deploys green.
+- ✅ Verified live: /today/ shows all 10 categories; review pages have single "The Verdict" heading (210 files stripped).
+- ⚠️ UNFINISHED: homepage still serves stale CDN copy (`s-maxage=604800`, 7-day cache on `/`). Purge failed (zone lookup empty; wrangler 4.113 has no purge-cache). Deeper issue found: fresh deployment 404s at root — homepage `index.html` not generated; local Hugo build breaks on `data/history/*.jsonl` (unmarshal error) — build works when data/history excluded (CI doesn't track it).
+- ⚠️ UNCOMMITTED local work: CONVERSATION_LOG.md, briefings/.pipeline_status, data/asin_queue.json, data/processed_asins.json, memory/.dreams/events.jsonl + untracked briefing files. Left as-is.
+- ⚠️ BILLING: DeepSeek balance ~$1.89, email monitor cron failing (billing cooldown / 402). Top-up needed soon.
+
+### Token spend note
+- DeepSeek avg: ~$1.07/day (7d), ~$0.84/day (14d). Gabriel flagged $1 over-spend during this session — keep diagnostics bounded, batch checks, avoid loops.
