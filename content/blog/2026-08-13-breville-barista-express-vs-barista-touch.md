@@ -23,6 +23,21 @@ I've spent weeks digging through thousands of real user reviews, comparing specs
 
 My honest take: For 2026, the Barista Express is the smarter buy for most people. The Touch is for those who will actually use the automation and don't mind paying a premium for it.
 
+<div class="blog-compare-gallery">
+<div class="blog-compare-item">
+  <img src="https://m.media-amazon.com/images/I/71UHGmdP6IL._SL600_.jpg" alt="Breville Barista Express (BES870BTR)" loading="lazy" width="600" height="600">
+  <h3>Breville Barista Express (BES870BTR)</h3>
+  <p class="blog-compare-meta">Our verdict: 4.6/5 · Amazon: 4.5/5 · ~$699.95 · 27,735 reviews</p>
+  <a href="https://www.amazon.com/dp/B0GKQFHV6X/?tag=tsvglyc-20" class="btn btn-gold btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="Breville Barista Express (BES870BTR)">Check Price on Amazon</a>
+</div>
+<div class="blog-compare-item">
+  <img src="https://m.media-amazon.com/images/I/71zWmCnDvBL._AC_SL600_.jpg" alt="Breville Barista Touch (BES880BSS)" loading="lazy" width="600" height="600">
+  <h3>Breville Barista Touch (BES880BSS)</h3>
+  <p class="blog-compare-meta">Our verdict: 4.2/5 · Amazon: 4.2/5 · ~$799.95 · 3,867 reviews</p>
+  <a href="https://www.amazon.com/dp/B078WMLXXG/?tag=tsvglyc-20" class="btn btn-gold btn-block" target="_blank" rel="nofollow sponsored" data-umami-event="affiliate_click" data-umami-event-value="Breville Barista Touch (BES880BSS)">Check Price on Amazon</a>
+</div>
+</div>
+
 ## Key Specs Side by Side
 
 Here's a quick look at how the two machines stack up on paper. Remember, these are the models we reviewed: the BES870BTR (Express) and the BES880BSS (Touch).
