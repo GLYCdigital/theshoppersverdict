@@ -1,0 +1,53 @@
+{
+  "slug": "gift-guide-furniture",
+  "slot": "seasonal",
+  "topic": "Gift Guide: Furniture",
+  "angle": "Gift picks for every budget and type of person.",
+  "reviews": [
+    {
+      "title": "Queen Size Sheet Set Piece",
+      "url": "/furniture/queen-size-sheet-set-4-piece-bed-sheets-soft-and-breathable-microfiber-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00NX0WXQI/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71tGN2LBhrL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": "null",
+      "count": 239885,
+      "pros": [
+        "queen size sheet review",
+        "Good overall value",
+        "Minor drawbacks to be aware of"
+      ]
+    },
+    {
+      "title": "Zulay Kitchen Powerful Milk Frother",
+      "url": "/coffee/zulay-kitchen-milk-frother-wand-duracell/",
+      "amazon_url": "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81b4+H-2cL6._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 18.99,
+      "count": 219000,
+      "pros": [
+        "Dual-speed motor with metal shaft that actually holds up to daily use \u2014 no wobble or melting",
+        "Triple whisk design creates microfoam in 20 seconds, not just bubbles \u2014 latte art viable",
+        "Duracell batteries included and a sturdy base stand means it's ready to use out of the box"
+      ]
+    },
+    {
+      "title": "Schick Hydro Silk Touch Up",
+      "url": "/luxury-beauty/schick-hydro-silk-touch-up-dermaplane-razor-with-precision-cover-3ct-dermaplaning-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0787GLBMV/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71SrOW-lqiL._SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 8.99,
+      "count": 199809,
+      "pros": [
+        "schick hydro silk review",
+        "luxury beauty review",
+        "best skincare review"
+      ]
+    }
+  ]
+}
