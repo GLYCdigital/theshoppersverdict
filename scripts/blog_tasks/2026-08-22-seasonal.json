@@ -1,0 +1,53 @@
+{
+  "slug": "gift-guide-home-improvement",
+  "slot": "seasonal",
+  "topic": "Gift Guide: Home Improvement",
+  "angle": "Gift picks for every budget and type of person.",
+  "reviews": [
+    {
+      "title": "Rust Oleum Painter Touch Ultra",
+      "url": "/home-improvement/rust-oleum-334029-painter-s-touch-2x-ultra-cover-spray-paint-12-review/",
+      "amazon_url": "https://www.amazon.com/dp/B002BWOS5I/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61V9gAYOuvL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 12.89,
+      "count": 93774,
+      "pros": [
+        "rustoleum 334029 painters review",
+        "home improvement review",
+        "best tool review"
+      ]
+    },
+    {
+      "title": "STANLEY Quencher Tumbler",
+      "url": "/kitchen/stanley-quencher-h20-30oz-tumbler-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51-U5dEbEBL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 25,
+      "count": 92925,
+      "pros": [
+        "Keeps ice intact for 11+ hours and drinks cold for up to 2 days \u2014 verified by thousands of user tests, not just marketing claims",
+        "Ergonomic handle and tapered base fit standard car cup holders (most 30oz tumblers don't)",
+        "Advanced lid with rotating position, reusable straw, and a seal that survives being knocked over in a bag"
+      ]
+    },
+    {
+      "title": "Ninja Kitchen System BL inch",
+      "url": "/kitchen/ninja-kitchen-system-bl770-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00939I7EK/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81ME5sqz5TL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 169.99,
+      "count": 92840,
+      "pros": [
+        "1500-watt motor crushes ice and frozen fruit in under 30 seconds \u2014 no shaking or stirring required",
+        "Three interchangeable bases (72-oz pitcher, 8-cup food processor, 16-oz single-serve cups) replace three separate countertop appliances",
+        "Total Crushing blades are genuinely sharp \u2014 they handle kale stems, nut butters, and frozen smoothies without bogging down"
+      ]
+    }
+  ]
+}
