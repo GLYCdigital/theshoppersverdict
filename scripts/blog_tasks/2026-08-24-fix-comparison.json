@@ -1,0 +1,38 @@
+{
+  "slug": "hamilton-beach-vs-ninja-nutri-blender",
+  "slot": "comparison",
+  "topic": "Hamilton Beach 51101V Portable Blender vs Ninja Nutri-Blender Pro BN401",
+  "angle": "Head-to-head: which of these two personal blenders is the smarter buy for most people?",
+  "reviews": [
+    {
+      "title": "Hamilton Beach Portable Blender for Shakes and Smoothies, 14 Oz, White (51101V)",
+      "url": "/kitchen/hamilton-beach-portable-blender-14oz-smoothie-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00065L6CU/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61+xUG74fkL._AC_SL1500_.jpg",
+      "verdict": 4.0,
+      "rating": 4.2,
+      "price": 24.95,
+      "count": 70156,
+      "pros": [
+        "70,156 reviews — one of the most-reviewed blenders on Amazon",
+        "Compact design takes minimal counter space, cup doubles as travel container",
+        "Easy to clean — blade assembly doesn't require disassembly"
+      ]
+    },
+    {
+      "title": "Ninja Nutri-Blender Pro BN401",
+      "url": "/kitchen/09-ninja-nutri-blender-pro-review/",
+      "amazon_url": "https://www.amazon.com/dp/B08QXJ31WR/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81zqZV+WSbL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.6,
+      "price": "Check price on Amazon",
+      "count": 11352,
+      "pros": [
+        "1200-watt motor crushes whole frozen fruit and ice in under 30 seconds without stalling",
+        "Auto-iQ one-touch programs deliver consistent texture — no babysitting the blade",
+        "Includes 4-cup blending bowl plus two 24-oz to-go cups with spill-resistant lids"
+      ]
+    }
+  ]
+}

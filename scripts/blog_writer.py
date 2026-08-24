@@ -180,7 +180,10 @@ def build_gallery(cfg):
         if r.get("rating"):
             meta.append(f"Amazon: {r['rating']}/5")
         if r.get("price"):
-            meta.append(f"~${r['price']}")
+            try:
+                meta.append(f"~${float(r['price']):,.0f}")
+            except (TypeError, ValueError):
+                pass  # non-numeric price ("Check price on Amazon") — skip
         if r.get("count"):
             meta.append(f"{r['count']:,} reviews")
         btn = (f"<a href=\"{r['amazon_url']}\" class=\"btn btn-gold btn-block\" "

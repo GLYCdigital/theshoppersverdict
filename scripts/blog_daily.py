@@ -45,10 +45,11 @@ def parse_frontmatter(text):
         if m2:
             v = m2.group(1).strip().strip('"').strip("'")
             if key in ("verdict_score", "amazon_rating", "review_count", "price"):
+                v = v.replace("$", "").replace(",", "").strip()
                 try:
                     out[key] = float(v) if "." in v else int(v)
                 except ValueError:
-                    out[key] = v
+                    out[key] = None if v.lower() in ("null", "none", "", "n/a", "check price on amazon") else v
             else:
                 out[key] = v
     pros = re.findall(r"^  - \"(.*?)\"", fm, re.M)
@@ -123,9 +124,23 @@ def display_name(title, max_words=5):
     return " ".join(words[:max_words])[:60]
 
 
+def asin_of(url):
+    """Extract ASIN from an Amazon URL, or None."""
+    m = re.search(r"/dp/([A-Z0-9]{10})", url or "")
+    return m.group(1) if m else None
+
+
 def pick_products(reviews, slot, used, count):
     fresh = [r for r in reviews if r["amazon_url"] not in used and is_real_product(r["title"])]
     pool = fresh if len(fresh) >= count else reviews  # fall back if exhausted
+    # Dedupe by ASIN — a product can never appear twice in one pick (even if
+    # the corpus has duplicate review files for the same ASIN).
+    seen, base = {}, pool
+    for r in base:
+        k = asin_of(r["amazon_url"]) or r["amazon_url"]
+        if k not in seen or (r["count"] or 0) > (seen[k]["count"] or 0):
+            seen[k] = r
+    pool = list(seen.values())
     by_cat = {}
     for r in pool:
         by_cat.setdefault(r["cat"], []).append(r)
@@ -143,6 +158,8 @@ def pick_products(reviews, slot, used, count):
             items = sorted(items, key=lambda r: r["count"] or 0, reverse=True)[:12]
             for i in range(len(items)):
                 for j in range(i + 1, len(items)):
+                    if asin_of(items[i]["amazon_url"]) == asin_of(items[j]["amazon_url"]):
+                        continue  # never compare a product against itself
                     overlap = (sig_tokens(items[i]["title"]) & sig_tokens(items[j]["title"])) & rare
                     if len(overlap) < 2:
                         continue
