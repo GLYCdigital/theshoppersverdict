@@ -1,0 +1,53 @@
+{
+  "slug": "how-to-choose-furniture",
+  "slot": "how_to",
+  "topic": "How to Choose Furniture",
+  "angle": "Step-by-step guidance with concrete product recommendations.",
+  "reviews": [
+    {
+      "title": "Zevo Flying Insect Trap Plug",
+      "url": "/furniture/zevo-flying-insect-trap-plug-in-indoor-fly-trap-and-bug-light-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07T869RNY/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81AnvlATCkL._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.3,
+      "price": 23.19,
+      "count": 81715,
+      "pros": [
+        "zevo flying insect review",
+        "Good overall value",
+        "Minor drawbacks to be aware of"
+      ]
+    },
+    {
+      "title": "Furhaven Orthopedic Dog Bed",
+      "url": "/pet-supplies/furhaven-orthopedic-dog-bed-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71xK-gJaK4L._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.4,
+      "price": null,
+      "count": 79789,
+      "pros": [
+        "Egg-crate orthopedic foam base provides genuine joint relief without the $150+ price tag of memory foam competitors",
+        "Removable, machine-washable cover with a zipper that actually survives repeated washing \u2014 rare in this category",
+        "Four-sided bolster design gives senior dogs a headrest and a sense of security while still allowing easy entry"
+      ]
+    },
+    {
+      "title": "Aothia Desk Pad",
+      "url": "/home-office/B086BLQZ5L_aothia_desk_pad/",
+      "amazon_url": "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81XADFHuLDL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": 8.99,
+      "count": 77004,
+      "pros": [
+        "3mm natural rubber base grips hard surfaces without sliding \u2014 even during frantic gaming sessions",
+        "Stitched edges hold up after months of daily use, unlike cheaper pads that fray within weeks",
+        "Waterproof PU leather surface wipes clean with a damp cloth \u2014 coffee spills don't soak in"
+      ]
+    }
+  ]
+}
