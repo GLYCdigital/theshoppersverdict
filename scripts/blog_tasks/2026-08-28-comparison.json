@@ -1,0 +1,38 @@
+{
+  "slug": "keurig-k-vs-keurig-k",
+  "slot": "comparison",
+  "topic": "Keurig Elite Review Premium Single vs Keurig Express Review Fast Simple",
+  "angle": "Head-to-head: which of these two is the smarter buy for most people?",
+  "reviews": [
+    {
+      "title": "Keurig Elite Review Premium Single",
+      "url": "/coffee/keurig-k-elite-single-serve-coffee-maker-review/",
+      "amazon_url": "https://www.amazon.com/dp/B078NN17K3?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71eood2xIWL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": null,
+      "count": 71423,
+      "pros": [
+        "coffee",
+        "Excellent brew quality with Strong Brew button for bolder cups",
+        "Iced coffee setting brews hot and concentrated over ice"
+      ]
+    },
+    {
+      "title": "Keurig Express Review Fast Simple",
+      "url": "/coffee/keurig-k-express-single-serve-coffee-maker-review/",
+      "amazon_url": "https://www.amazon.com/dp/B09715G57M?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/611S4FYZhsL._AC_SL1500_.jpg",
+      "verdict": 4.0,
+      "rating": 4.3,
+      "price": null,
+      "count": 48296,
+      "pros": [
+        "coffee",
+        "Fast heat-up and brew time \u2014 coffee in under 2 minutes",
+        "Strong Button delivers noticeably bolder flavor"
+      ]
+    }
+  ]
+}
