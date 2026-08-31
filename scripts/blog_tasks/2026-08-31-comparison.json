@@ -1,0 +1,38 @@
+{
+  "slug": "mr-coffee-vs-keurig-k",
+  "slot": "comparison",
+  "topic": "Mr Coffee Simple Brew Cup vs Keurig Mini Plus Single Serve",
+  "angle": "Head-to-head: which of these two is the smarter buy for most people?",
+  "reviews": [
+    {
+      "title": "Mr Coffee Simple Brew Cup",
+      "url": "/coffee/mr-coffee-simple-brew-12-cup-switch-coffee-maker-review/",
+      "amazon_url": "https://www.amazon.com/dp/B002YI49H6/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51Jtl9s4DSL._AC_SL1200_.jpg",
+      "verdict": 4.2,
+      "rating": 4.4,
+      "price": 54.98,
+      "count": 44478,
+      "pros": [
+        "mr coffee simple review",
+        "coffee maker review",
+        "espresso machine"
+      ]
+    },
+    {
+      "title": "Keurig Mini Plus Single Serve",
+      "url": "/coffee/keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review/",
+      "amazon_url": "https://www.amazon.com/dp/B09RQ4Z2X6/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51y11sa0e0L._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.4,
+      "price": 94.99,
+      "count": 39272,
+      "pros": [
+        "keurig kmini plus review",
+        "coffee maker review",
+        "espresso machine"
+      ]
+    }
+  ]
+}
