@@ -1,0 +1,53 @@
+{
+  "slug": "best-kitchen-picks",
+  "slot": "price_bracket",
+  "topic": "Best Kitchen Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "KitchenAid All Purpose Kitchen Shears",
+      "url": "/kitchen/kitchenaid-all-purpose-kitchen-shears-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg",
+      "verdict": 4.8,
+      "rating": 4.8,
+      "price": 7.59,
+      "count": 70845,
+      "pros": [
+        "Serrated micro-blades grip poultry skin and slippery herbs without slipping",
+        "Full tang stainless steel construction with a $7.59 price that undercuts premium brands by 60%",
+        "Integrated bottle opener and nutcracker notch add genuine utility, not gimmick"
+      ]
+    },
+    {
+      "title": "Ticonderoga Wood Cased Pencils Pre",
+      "url": "/home-office/ticonderoga-wood-cased-pencils-2-hb-soft-review/",
+      "amazon_url": "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81GqVVIzKKL._AC_SL1500_.jpg",
+      "verdict": 4.7,
+      "rating": 4.8,
+      "price": 5.63,
+      "count": 68338,
+      "pros": [
+        "Ticonderoga pencils review",
+        "best No 2 pencils",
+        "Ticonderoga #2 pencils 12 pack"
+      ]
+    },
+    {
+      "title": "Anker Soundcore Headphones",
+      "url": "/home-office/B0C3HCD34R_soundcore_anker_q20i_headphones/",
+      "amazon_url": "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_SL1200_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": 39.99,
+      "count": 63317,
+      "pros": [
+        "40-hour battery life with ANC on \u2014 a full work week without touching a charger",
+        "Hybrid active noise cancellation that genuinely filters office chatter and HVAC hum",
+        "Custom 40mm dynamic drivers with BassUp tuning deliver surprising low-end punch for $40 inch"
+      ]
+    }
+  ]
+}
