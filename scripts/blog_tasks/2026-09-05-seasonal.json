@@ -1,0 +1,53 @@
+{
+  "slug": "gift-guide-home-office",
+  "slot": "seasonal",
+  "topic": "Gift Guide: Home Office",
+  "angle": "Gift picks for every budget and type of person.",
+  "reviews": [
+    {
+      "title": "HP XL Black High Yield",
+      "url": "/home-office/HP-67XL-Black-High-Yield-Ink-Cartridge-Review/",
+      "amazon_url": "https://www.amazon.com/dp/B08412PTS8/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71HHyV8DV-L._AC_SL1500_.jpg",
+      "verdict": 3.5,
+      "rating": 4.6,
+      "price": 35.89,
+      "count": 53365,
+      "pros": [
+        "600-page yield per cartridge \u2014 roughly double the standard HP 67, cutting cost-per-page to about 6 cents",
+        "Consistent OEM print quality with crisp, smudge-resistant black text on plain paper",
+        "Widely compatible across HP DeskJet, ENVY, and Tango printers \u2014 check your model before ordering"
+      ]
+    },
+    {
+      "title": "Safer Home Flying Insect Trap",
+      "url": "/furniture/safer-home-flying-insect-trap-plug-in-fruit-fly-trap-for-indoors-review/",
+      "amazon_url": "https://www.amazon.com/dp/B09T3T1FYN/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71PsCvDvipL._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.3,
+      "price": 10.97,
+      "count": 52084,
+      "pros": [
+        "safer home flying review",
+        "Good performance for the price range",
+        "Runs quietly"
+      ]
+    },
+    {
+      "title": "DEWALT Max Cordless Drill Driver",
+      "url": "/home-improvement/dewalt-20v-max-cordless-drill-driver-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81dmm7FomNL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.8,
+      "price": null,
+      "count": 49327,
+      "pros": [
+        "High-torque 340 UWO motor handles 3-inch hole saws and 6-inch lag screws without bogging down",
+        "Two 20V Max batteries included \u2014 real runtime for all-day projects, not just light DIY",
+        "Compact 8.65-inch length fits into tight spaces like cabinet interiors and stud bays"
+      ]
+    }
+  ]
+}
