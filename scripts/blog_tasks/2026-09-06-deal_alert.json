@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-furniture-deals",
+  "slot": "deal_alert",
+  "topic": "Best Value Furniture Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "DREO Tower Fan Review",
+      "url": "/furniture/dreo-tower-fan-2026-upgraded-review/",
+      "amazon_url": "https://www.amazon.com/dp/B09MKPDJRT/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71gv46SSzvL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": 69.99,
+      "count": 47208,
+      "pros": [
+        "DREO tower fan review",
+        "best quiet tower fan",
+        "DREO fan vs Lasko"
+      ]
+    },
+    {
+      "title": "Purina Fancy Feast Grilled Wet",
+      "url": "/pet-supplies/purina-fancy-feast-grilled-wet-cat-food-seafood-collection-in-wet-cat-review/",
+      "amazon_url": "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81K7YvcfLpL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 11.43,
+      "count": 47059,
+      "pros": [
+        "purina fancy feast review",
+        "pet supplies review",
+        "best pet product"
+      ]
+    },
+    {
+      "title": "Sharpie Fine Point Permanent Markers",
+      "url": "/home-office/sharpie-fine-tip-permanent-markers-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81wGuZOL1fL._AC_SL1500_.jpg",
+      "verdict": 4.8,
+      "rating": 4.8,
+      "price": 8.99,
+      "count": 44828,
+      "pros": [
+        "Quick-drying, smear-resistant ink that holds up on glossy surfaces, plastic, and metal \u2014 not just paper",
+        "Fine 1.0mm tip delivers crisp, consistent lines without fraying even after heavy use",
+        "24-count assorted color pack costs about $0.37 per marker \u2014 genuine value for offices and classrooms"
+      ]
+    }
+  ]
+}
