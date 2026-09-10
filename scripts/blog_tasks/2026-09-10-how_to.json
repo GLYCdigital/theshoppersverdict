@@ -1,0 +1,53 @@
+{
+  "slug": "how-to-choose-coffee",
+  "slot": "how_to",
+  "topic": "How to Choose Coffee",
+  "angle": "Step-by-step guidance with concrete product recommendations.",
+  "reviews": [
+    {
+      "title": "Mr Coffee Cup Coffee Maker",
+      "url": "/coffee/mr-coffee-12-cup-coffee-maker-review/",
+      "amazon_url": "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71LB1AbsorL._AC_SL1500_.jpg",
+      "verdict": 8.5,
+      "rating": 4.4,
+      "price": null,
+      "count": 44539,
+      "pros": [
+        "Incredible value \u2014 classic drip coffee maker at just $40",
+        "Grab-A-Cup Auto Pause stops dripping when you pull the carafe mid-brew",
+        "Dead-simple one-button operation \u2014 no clock programming, no timers"
+      ]
+    },
+    {
+      "title": "LEVOIT Air Purifiers for Bedroom",
+      "url": "/furniture/levoit-air-purifiers-for-bedroom-home-dorm-aham-verifide-3-in-1-review/",
+      "amazon_url": "https://www.amazon.com/dp/B09GTRVJQM/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71wGv7Fh2AL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 22.04,
+      "count": 44114,
+      "pros": [
+        "levoit air purifiers review",
+        "Good performance for the price range",
+        "Runs quietly"
+      ]
+    },
+    {
+      "title": "Cuisinart DCC PerfecTemp Coffee Maker",
+      "url": "/coffee/B00MVWGQX0_cuisinart_dcc3200_coffee_maker/",
+      "amazon_url": "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71io+Gh4ApL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.5,
+      "price": 89.95,
+      "count": 43350,
+      "pros": [
+        "Brews a full 12-cup pot in roughly 7\u20138 minutes \u2014 noticeably faster than most drip machines at this price",
+        "Heating element holds coffee at 195\u2013200\u00b0F, which actually preserves flavor instead of scorching it",
+        "Brew pause feature lets you pour a cup mid-cycle without flooding the base or dripping everywhere"
+      ]
+    }
+  ]
+}
