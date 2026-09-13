@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-coffee-deals",
+  "slot": "deal_alert",
+  "topic": "Best Value Coffee Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "Keurig Mini Plus Review",
+      "url": "/coffee/keurig-k-mini-plus-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/615DwR2X19L._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.4,
+      "price": 94.99,
+      "count": 39293,
+      "pros": [
+        "question: \"Is the Keurig K-Mini Plus worth buying?\"",
+        "question: \"What's the difference between the Keurig K-Mini and K-Mini Plus?\"",
+        "question: \"What drink sizes does the K-Mini Plus make?\""
+      ]
+    },
+    {
+      "title": "TrendPlain Olive Oil Sprayer",
+      "url": "/kitchen/B0CJF94M8J_trendplain_olive_oil_sprayer/",
+      "amazon_url": "https://www.amazon.com/dp/B0CJF94M8J/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/716HuBmcRsL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": 7.99,
+      "count": 39232,
+      "pros": [
+        "Produces a genuine fine mist, not a jet stream \u2014 one pump coats a 10-inch pan evenly",
+        "Glass bottle with a wide 2-inch opening; refilling from bulk oil bottles takes seconds without a funnel",
+        "Adjustable nozzle dials from a broad mist for roasting down to a focused stream for dressing salads"
+      ]
+    },
+    {
+      "title": "Gritin LED Rechargeable Book Light",
+      "url": "/home-improvement/gritin-19-led-rechargeable-book-light-for-reading-in-bed-with-memory-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0C3BC4QG2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/711p9Q6p0vL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.8,
+      "price": 9.99,
+      "count": 39192,
+      "pros": [
+        "gritin 19 led review",
+        "home improvement review",
+        "best tool review"
+      ]
+    }
+  ]
+}
