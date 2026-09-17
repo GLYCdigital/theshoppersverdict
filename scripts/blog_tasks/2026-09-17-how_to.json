@@ -1,0 +1,53 @@
+{
+  "slug": "how-to-choose-kitchen",
+  "slot": "how_to",
+  "topic": "How to Choose Kitchen",
+  "angle": "Step-by-step guidance with concrete product recommendations.",
+  "reviews": [
+    {
+      "title": "INC Dish Drying Mat XL",
+      "url": "/kitchen/st-inc-dish-drying-mat-xl-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/A1+xPqVrEtL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 13.99,
+      "count": 37493,
+      "pros": [
+        "Genuinely XL at 16.5 x 24 inches \u2014 covers double sinks and most countertop drying zones",
+        "Three-layer construction (soft top, absorbent middle, waterproof PVC bottom) keeps counters dry",
+        "Machine washable and quick-drying \u2014 survives repeated cycles without fraying"
+      ]
+    },
+    {
+      "title": "Brita Longlast Replacement Water Filter",
+      "url": "/home-improvement/brita-longlast-replacement-water-filter-for-pitchers-120-gallon-each-water-filter-review/",
+      "amazon_url": "https://www.amazon.com/dp/B01MU7973W/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71+OP0yDXFL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 47.71,
+      "count": 37212,
+      "pros": [
+        "brita longlast replacement review",
+        "home improvement review",
+        "best tool review"
+      ]
+    },
+    {
+      "title": "Purina Friskies Gravy Swirlers With",
+      "url": "/pet-supplies/purina-friskies-gravy-swirlers-with-flavors-of-chicken-salmon-and-gravy-dry-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0727R5C5Q/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71L-vopG6RL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 225.52,
+      "count": 37067,
+      "pros": [
+        "purina friskies gravy review",
+        "pet supplies review",
+        "best pet product"
+      ]
+    }
+  ]
+}
