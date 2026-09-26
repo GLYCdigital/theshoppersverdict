@@ -31,6 +31,20 @@ CATEGORY_DIRS = [d.name for d in CONTENT.iterdir()
                  if d.is_dir() and d.name not in
                  {"blog", "verdicts", "best-of", "reviews", "search"}]
 
+# Seasonal gift guides: bias toward gift-worthy, high-intent categories so a
+# post targets real "[occasion] gift" search demand instead of raw review bulk
+# (a "Home Improvement Gift Guide" gets no search volume; beauty/coffee do).
+GIFT_CATEGORIES = ["luxury-beauty", "coffee", "kitchen", "toys-games",
+                   "sports-fitness", "pet-supplies", "furniture"]
+
+
+def seasonal_theme(today):
+    """Month -> high-volume seasonal keyword for the title (slug stays
+    evergreen, so no annual link rot / duplicate-slug churn)."""
+    return {1: "New Year", 2: "Valentine's Day", 3: "Spring", 5: "Mother's Day",
+            6: "Father's Day", 8: "Back to School", 11: "Holiday",
+            12: "Christmas"}.get(today.month, "")
+
 
 # ── Review corpus ──────────────────────────────────────────────────
 def parse_frontmatter(text):
@@ -130,6 +144,25 @@ def asin_of(url):
     return m.group(1) if m else None
 
 
+def pick_single_category(pool, count, require_price=False):
+    """All picks share ONE category — a themed roundup that mixes categories
+    (dog treats in a beauty list) kills topical relevance. Picks the category
+    that can fill the roundup, else the largest; ranks by review count."""
+    by_cat = {}
+    for r in pool:
+        if require_price and not r["price"]:
+            continue
+        by_cat.setdefault(r["cat"], []).append(r)
+    # Prefer categories whose top items cover the whole roundup.
+    usable = {c: v for c, v in by_cat.items() if len(v) >= count} or by_cat
+    if not usable:
+        return []
+    cat = max(usable, key=lambda c: (len(usable[c]),
+                                     sum(r["count"] or 0 for r in usable[c])))
+    items = sorted(usable[cat], key=lambda r: r["count"] or 0, reverse=True)
+    return items[:count]
+
+
 def pick_products(reviews, slot, used, count):
     fresh = [r for r in reviews if r["amazon_url"] not in used and is_real_product(r["title"])]
     pool = fresh if len(fresh) >= count else reviews  # fall back if exhausted
@@ -177,14 +210,24 @@ def pick_products(reviews, slot, used, count):
     if slot == "worth_it":
         return sorted(pool, key=lambda r: r["count"] or 0, reverse=True)[:1]
     if slot == "price_bracket":
-        priced = [r for r in pool if r["price"]]
-        priced.sort(key=lambda r: r["count"] or 0, reverse=True)
-        return priced[:count]
+        return pick_single_category(pool, count, require_price=True)
+    if slot == "seasonal":
+        # Gift guides are themed to ONE gift-worthy category (see slug/topic).
+        # Rotate by ISO week so each Saturday targets a distinct, non-competing
+        # long-tail "<category> gift guide" query and slugs never collide.
+        gift = [c for c in GIFT_CATEGORIES if c in by_cat]
+        if gift:
+            n = len(gift)
+            for c in [gift[(date.today().isocalendar()[1] + i) % n] for i in range(n)]:
+                items = sorted(by_cat[c], key=lambda r: r["count"] or 0, reverse=True)
+                if len(items) >= count:
+                    return items[:count]
+        return pick_single_category(pool, count)
     if slot == "deal_alert":
         priced = [r for r in pool if r["price"] and (r["price"] or 0) < 150]
         priced.sort(key=lambda r: r["count"] or 0, reverse=True)
         return priced[:count] or pool[:count]
-    # how_to, seasonal, trending: top-count picks across categories
+    # how_to, trending: top-count picks across categories
     top = sorted(pool, key=lambda r: r["count"] or 0, reverse=True)
     return top[:count]
 
@@ -242,7 +285,9 @@ def build_config(slot, picks):
     elif slot == "deal_alert":
         topic = f"Best Value {picks[0]['cat'].replace('-', ' ').title()} Deals"
     elif slot == "seasonal":
-        topic = f"Gift Guide: {picks[0]['cat'].replace('-', ' ').title()}"
+        theme = seasonal_theme(date.today())
+        cat = picks[0]['cat'].replace('-', ' ').title()
+        topic = f"{theme} Gift Guide: {cat}" if theme else f"Gift Guide: {cat}"
     elif slot == "how_to":
         topic = f"How to Choose {picks[0]['cat'].replace('-', ' ').title()}"
     else:
@@ -270,11 +315,18 @@ def build_config(slot, picks):
 # ── Main ───────────────────────────────────────────────────────────
 def main():
     dry_run = "--dry-run" in sys.argv
+    force_cat = None
+    for i, a in enumerate(sys.argv):
+        if a == "--cat" and i + 1 < len(sys.argv):
+            force_cat = sys.argv[i + 1]
     today = date.today()
     slot = WEEKDAY_SLOTS[today.weekday()]
     print(f"📅 {today.isoformat()} ({today.strftime('%A')}) — slot: {slot}")
 
     reviews = load_corpus()
+    if force_cat:
+        reviews = [r for r in reviews if r["cat"] == force_cat]
+        print(f"🎯 Forced category: {force_cat} ({len(reviews)} reviews)")
     if not reviews:
         print("❌ No reviews found in corpus", file=sys.stderr)
         sys.exit(1)
