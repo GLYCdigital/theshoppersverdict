@@ -1,0 +1,38 @@
+{
+  "slug": "chefman-2-vs-chefman-2",
+  "slot": "comparison",
+  "topic": "CHEFMAN Qt Mini Air Fryer vs CHEFMAN Qt Mini Air Fryer",
+  "angle": "Head-to-head: which of these two is the smarter buy for most people?",
+  "reviews": [
+    {
+      "title": "CHEFMAN Qt Mini Air Fryer",
+      "url": "/kitchen/chefman-2-qt-mini-air-fryer-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0CVNJ2Z73/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61ShR-Mf-wL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.5,
+      "price": 49.99,
+      "count": 29209,
+      "pros": [
+        "True 2-quart capacity fits a full meal for one or two sides for two people \u2014 not a toy-sized basket",
+        "Dishwasher-safe basket with nonstick coating that actually survives regular cleaning cycles",
+        "Shake reminder at the halfway point catches what many budget fryers miss \u2014 even heating"
+      ]
+    },
+    {
+      "title": "CHEFMAN Qt Mini Air Fryer",
+      "url": "/kitchen/chefman-2-qt-mini-air-fryer-b0cvnkdqr-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0CVNK5DQR/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/717RT0khBAL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.5,
+      "price": 49.99,
+      "count": 29179,
+      "pros": [
+        "Compact 2-quart size fits anywhere \u2014 tiny footprint for small kitchens",
+        "Digital controls with presets for fries, chicken, steak, and fish",
+        "Nonstick basket cleans up in seconds \u2014 no soaking or scrubbing"
+      ]
+    }
+  ]
+}
