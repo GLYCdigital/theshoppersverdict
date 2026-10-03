@@ -1,0 +1,53 @@
+{
+  "slug": "gift-guide-pet-supplies",
+  "slot": "seasonal",
+  "topic": "Gift Guide: Pet Supplies",
+  "angle": "Gift picks for every budget and type of person.",
+  "reviews": [
+    {
+      "title": "Sheba Perfect Portions Pate Wet",
+      "url": "/pet-supplies/sheba-perfect-portions-pate-wet-cat-food-seafood-variety-2-6-oz-review/",
+      "amazon_url": "https://www.amazon.com/dp/B075QK5SP2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/91PzPsTSQmL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 22.99,
+      "count": 24850,
+      "pros": [
+        "sheba perfect portions review",
+        "pet supplies review",
+        "best pet product"
+      ]
+    },
+    {
+      "title": "Sheba Perfect Portions Wet Cat",
+      "url": "/pet-supplies/sheba-perfect-portions-wet-cat-food-cuts-in-gravy-cat-food-wet-review/",
+      "amazon_url": "https://www.amazon.com/dp/B072DTFZHL/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81wMxPo0TlL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": null,
+      "count": 20824,
+      "pros": [
+        "sheba perfect portions review",
+        "pet supplies review",
+        "best pet product"
+      ]
+    },
+    {
+      "title": "Milk Bone MaroSnacks Small Dog",
+      "url": "/pet-supplies/milk-bone-marosnacks-small-dog-treats-40-oz-b003pmqmk2-review/",
+      "amazon_url": "https://www.amazon.com/dp/B003PMQMK2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81xXOlvM-RL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.7,
+      "price": 25.21,
+      "count": 16349,
+      "pros": [
+        "Crunchy biscuit outside with real bone marrow center \u2014 dogs go crazy for the texture",
+        "Only 10 calories each \u2014 guilt-free training treats",
+        "Made with calcium for dental and bone health"
+      ]
+    }
+  ]
+}
