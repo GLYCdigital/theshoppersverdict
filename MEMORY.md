@@ -19,5 +19,9 @@
 ## Milestone — first commission
 - **2026-08-11ish** — First affiliate commission after months of running + 20k+ reviews: **$0.38**. Proof of concept. Growth bet = daily blog pipeline (13:00 SGT).
 
+## Standing rules (Gabriel)
+- **Rectify immediately, never embarrass.** If a content/pipeline bug is found, fix it at the root AND clean up the shipped artifact (re-roll the bad post) in the same turn — don't wait to be asked.
+- **Pre-publish tripwire** (`scripts/blog_daily.py` `validate_post()`): blocks degenerate posts (same product vs its twin listing, missing/duplicate slug) before generation, auto re-picking. Added 2026-10-16 after the STANLEY "X vs X" mirror-comparison incident.
+
 ## Pipeline checkpoints
 Routine midnight/morning/afternoon checkpoints (HANDOFF sync) are noise and intentionally not retained here.

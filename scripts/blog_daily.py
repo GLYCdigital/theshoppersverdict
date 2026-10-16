@@ -144,6 +144,21 @@ def asin_of(url):
     return m.group(1) if m else None
 
 
+def same_product(a, b):
+    """True when two corpus rows are the same product -- including
+    near-identical re-listings that share a title but have different ASINs.
+    Guards the comparison slot from pairing a product against itself."""
+    ia, ib = asin_of(a["amazon_url"]), asin_of(b["amazon_url"])
+    if ia and ia == ib:
+        return True
+    ta, tb = sig_tokens(a["title"]), sig_tokens(b["title"])
+    if not ta or not tb:
+        return False
+    small, big = (ta, tb) if len(ta) <= len(tb) else (tb, ta)
+    inter = len(small & big)
+    return inter >= 3 and (small <= big or inter / len(small | big) >= 0.6)
+
+
 def pick_single_category(pool, count, require_price=False):
     """All picks share ONE category — a themed roundup that mixes categories
     (dog treats in a beauty list) kills topical relevance. Picks the category
@@ -163,9 +178,11 @@ def pick_single_category(pool, count, require_price=False):
     return items[:count]
 
 
-def pick_products(reviews, slot, used, count):
+def pick_products(reviews, slot, used, count, avoid=None):
     fresh = [r for r in reviews if r["amazon_url"] not in used and is_real_product(r["title"])]
     pool = fresh if len(fresh) >= count else reviews  # fall back if exhausted
+    if avoid:
+        pool = [r for r in pool if r["amazon_url"] not in avoid]
     # Dedupe by ASIN — a product can never appear twice in one pick (even if
     # the corpus has duplicate review files for the same ASIN).
     seen, base = {}, pool
@@ -191,12 +208,15 @@ def pick_products(reviews, slot, used, count):
             items = sorted(items, key=lambda r: r["count"] or 0, reverse=True)[:12]
             for i in range(len(items)):
                 for j in range(i + 1, len(items)):
-                    if asin_of(items[i]["amazon_url"]) == asin_of(items[j]["amazon_url"]):
-                        continue  # never compare a product against itself
+                    if same_product(items[i], items[j]):
+                        continue  # never compare a product against itself (or its twin listing)
                     overlap = (sig_tokens(items[i]["title"]) & sig_tokens(items[j]["title"])) & rare
                     if len(overlap) < 2:
                         continue
-                    score = (items[i]["count"] or 0) + (items[j]["count"] or 0)
+                    # Prefer the pair sharing the MOST product-defining tokens
+                    # (tightest apples-to-apples match), then the most-reviewed.
+                    score = (len(overlap),
+                             (items[i]["count"] or 0) + (items[j]["count"] or 0))
                     if best is None or score > best[0]:
                         best = (score, items[i], items[j])
         if best:
@@ -205,8 +225,17 @@ def pick_products(reviews, slot, used, count):
         small = {c: it for c, it in by_cat.items() if c not in {"home-improvement", "patio-lawn-garden", "luxury-beauty"}}
         if not small:
             small = by_cat
-        cat = max(small, key=lambda c: len(small[c]))
-        return sorted(small[cat], key=lambda r: r["count"] or 0, reverse=True)[:2]
+        # Largest categories first; return the top two DISTINCT products so the
+        # fallback can never emit a same-product (or twin-listing) mirror pair.
+        for c in sorted(small, key=lambda c: len(small[c]), reverse=True):
+            out = []
+            for r in sorted(small[c], key=lambda r: r["count"] or 0, reverse=True):
+                if any(same_product(r, s) for s in out):
+                    continue
+                out.append(r)
+                if len(out) == 2:
+                    return out
+        return sorted(pool, key=lambda r: r["count"] or 0, reverse=True)[:2]
     if slot == "worth_it":
         return sorted(pool, key=lambda r: r["count"] or 0, reverse=True)[:1]
     if slot == "price_bracket":
@@ -241,7 +270,10 @@ def short_name(title, max_words=3):
 def make_slug(slot, picks):
     """Evergreen, keyword-only, 3-5 words, no year, no stopwords."""
     if slot == "comparison" and len(picks) >= 2:
-        a, b = short_name(picks[0]["title"], 2), short_name(picks[1]["title"], 2)
+        # 3 words, not 2: same-line products ("Owala FreeSip X" vs "Owala
+        # FreeSip Y") share their first two tokens, which collided into a
+        # duplicate slug. The third word keeps comparisons distinct.
+        a, b = short_name(picks[0]["title"], 3), short_name(picks[1]["title"], 3)
         return f"{a}-vs-{b}"
     if slot == "worth_it":
         return f"{short_name(picks[0]['title'], 3)}-worth-it"
@@ -312,6 +344,23 @@ def build_config(slot, picks):
     }
 
 
+def validate_post(slot, picks, cfg):
+    """Pre-publish tripwire. Returns a problem string, or None when safe.
+    Catches degenerate posts (a product paired with itself / its twin listing,
+    missing or duplicate slug) BEFORE generation, so nothing embarrassing ever
+    reaches commit/push."""
+    if slot == "comparison":
+        if len(picks) < 2:
+            return "comparison needs two products"
+        if same_product(picks[0], picks[1]):
+            return f"same product paired: {picks[0]['title'][:50]}"
+    if not cfg.get("slug") or len(cfg["slug"]) < 4:
+        return f"missing/weak slug: {cfg.get('slug')!r}"
+    if any(cfg["slug"] in f.name for f in BLOG_DIR.glob("*.md")):
+        return f"duplicate slug: {cfg['slug']}"
+    return None
+
+
 # ── Main ───────────────────────────────────────────────────────────
 def main():
     dry_run = "--dry-run" in sys.argv
@@ -333,12 +382,25 @@ def main():
 
     used = load_used()
     count = 2 if slot == "comparison" else 3
-    picks = pick_products(reviews, slot, used, count)
-    if not picks:
-        print("❌ No products matched", file=sys.stderr)
+    # Pick, validate, and self-rectify: if the pick would make a degenerate
+    # post, exclude those products and re-pick automatically (up to 4 tries).
+    picks, cfg, problem, avoid = None, None, None, set()
+    for attempt in range(4):
+        picks = pick_products(reviews, slot, used, count, avoid=avoid)
+        if not picks:
+            print("❌ No products matched", file=sys.stderr)
+            sys.exit(1)
+        cfg = build_config(slot, picks)
+        problem = validate_post(slot, picks, cfg)
+        if not problem:
+            break
+        print(f"⚠️  Pre-publish check failed (attempt {attempt + 1}): {problem} — re-picking",
+              file=sys.stderr)
+        avoid.update(r["amazon_url"] for r in picks)
+    else:
+        print(f"🛑 Pre-publish check still failing: {problem}", file=sys.stderr)
         sys.exit(1)
 
-    cfg = build_config(slot, picks)
     print(f"🎯 Topic: {cfg['topic']}")
     print(f"🔗 Products: {', '.join(p['title'][:40] for p in picks)}")
 
