@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-home-improvement-deals",
+  "slot": "deal_alert",
+  "topic": "Best Value Home Improvement Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "Safety Glasses Virtua CCS Protective",
+      "url": "/home-improvement/3m-safety-glasses-virtua-ccs-protective-eyewear-11872-removable-foam-gasket-clear-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00AEXKR4C/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71noZfyryhL._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.4,
+      "price": 22.37,
+      "count": 24995,
+      "pros": [
+        "Corded ear plug control system keeps hearing protection tethered to eyewear \u2014 no more lost plugs on job sites",
+        "Removable foam gasket seals out dust and debris while remaining fully replaceable when worn",
+        "Anti-fog coating holds up in humid conditions where cheaper lenses fog within minutes"
+      ]
+    },
+    {
+      "title": "OXO Brew Conical Burr Coffee",
+      "url": "/coffee/oxo-brew-conical-burr-coffee-grinder-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07CSKGLMM/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71DeUg8G7kS._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.4,
+      "price": 109.95,
+      "count": 22830,
+      "pros": [
+        "38mm stainless steel conical burrs deliver consistent grounds across 15 settings, from fine espresso to coarse French press",
+        "One-touch timer with automatic shutoff\u2014set it once, get the same dose every morning",
+        "Removable hopper and grind container rinse clean in seconds; no brush required for daily upkeep"
+      ]
+    },
+    {
+      "title": "ZeroWater Replacement Filter for Pitchers",
+      "url": "/home-improvement/zerowater-replacement-filter-4-pack-zr-006-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00C7N7L1E/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71Ltr3pvOmL._AC_SL1500_.jpg",
+      "verdict": 4.3,
+      "rating": 4.4,
+      "price": 72.11,
+      "count": 22628,
+      "pros": [
+        "zerowater replacement filter review",
+        "zerowater zr-006 review",
+        "water filter pitcher replacement"
+      ]
+    }
+  ]
+}
