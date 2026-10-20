@@ -1,0 +1,53 @@
+{
+  "slug": "best-home-improvement-picks",
+  "slot": "price_bracket",
+  "topic": "Best Home Improvement Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "Dr meter Ear Muffs for",
+      "url": "/home-improvement/dr-meter-ear-muffs-for-noise-reduction-snr27-4-noise-cancelling-headphones-for-autism-review/",
+      "amazon_url": "https://www.amazon.com/dp/B01LWYWH43/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71EIMlJIKVL._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.5,
+      "price": 22.45,
+      "count": 20203,
+      "pros": [
+        "dr meter ear muffs review",
+        "kids ear protection review",
+        "noise cancelling headphones for autism review"
+      ]
+    },
+    {
+      "title": "piece WORKPRO Pliers Set with",
+      "url": "/home-improvement/7-piece-workpro-pliers-set-with-groove-joint-long-nose-slip-joint-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0105SSMRO/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/616zBu60HPL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.5,
+      "price": 45.1,
+      "count": 18147,
+      "pros": [
+        "7piece workpro pliers review",
+        "home improvement review",
+        "best tool review"
+      ]
+    },
+    {
+      "title": "DEWALT MAX XR Oscillating Tool",
+      "url": "/home-improvement/dewalt-20v-max-xr-oscillating-tool-kit-with-blades-3-speed-cordless-review/",
+      "amazon_url": "https://www.amazon.com/dp/B085B253MD/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81Q8G3zu0yL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.8,
+      "price": 169.77,
+      "count": 17854,
+      "pros": [
+        "dewalt 20v max review",
+        "home improvement review",
+        "best tool review"
+      ]
+    }
+  ]
+}
