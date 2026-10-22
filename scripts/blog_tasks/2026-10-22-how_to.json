@@ -1,0 +1,53 @@
+{
+  "slug": "how-to-choose-home-office",
+  "slot": "how_to",
+  "topic": "How to Choose Home Office",
+  "angle": "Step-by-step guidance with concrete product recommendations.",
+  "reviews": [
+    {
+      "title": "Beats Studio Pro",
+      "url": "/home-office/beats-studio-pro-wireless-headphones-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0C8PR4W22/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61u-OaDSfQL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.5,
+      "price": 169.95,
+      "count": 27651,
+      "pros": [
+        "40-hour battery life with ANC on \u2014 two full work weeks before charging",
+        "USB-C wired mode with lossless audio for zero-latency video editing calls",
+        "Class-leading noise cancellation at $169.95 \u2014 blocks office HVAC and open-floor chatter"
+      ]
+    },
+    {
+      "title": "Wireless Earbuds hrs",
+      "url": "/home-office/B0CSXV3GK4-wireless-earbuds-75hrs-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0CSXV3GK4/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_SL1500_.jpg",
+      "verdict": 4.3,
+      "rating": 4.4,
+      "price": 39.99,
+      "count": 27403,
+      "pros": [
+        "Genuine 75-hour total playtime (earbuds + case), tested to last a full two-week work cycle on one charge",
+        "Dual microphones with ENC noise reduction that make conference calls intelligible even with a mechanical keyboard clacking nearby",
+        "USB-C fast charging gives 10 hours of playback from just a 10-minute top-up \u2014 perfect for forgotten charges"
+      ]
+    },
+    {
+      "title": "Lumbar Support Pillow Review Back",
+      "url": "/home-office/lumbar-support-pillow-office-chair-review/",
+      "amazon_url": "https://www.amazon.com/dp/B074C9F45S?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81Qm1-Fja2L._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.4,
+      "price": null,
+      "count": 26311,
+      "pros": [
+        "home-office",
+        "Noticeably improves lower back support during long sitting sessions",
+        "Firm yet comfortable cushion that doesn't flatten over time"
+      ]
+    }
+  ]
+}
