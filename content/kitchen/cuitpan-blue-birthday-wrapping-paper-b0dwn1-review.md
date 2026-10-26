@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 220
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0DWN1KNCD/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0DWN1KNCD/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/710eKB8AjJL._AC_SL1500_.jpg"
 pros: 
   - "Thick 80gsm paper resists tearing at corners and holds creases well"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "Blue color scheme may not suit every recipient's taste"
   - "Pattern alignment is slightly off on some rolls, noticeable on larger boxes"
+faq:
+  - question: "Is this paper recyclable?"
+    answer: "Yes, it's standard wrapping paper, not the foil-coated kind. It can go in your regular recycling bin as long as it's clean."
+  - question: "Will it work for large gifts?"
+    answer: "The 17-inch width helps, but for boxes over 12 inches tall, you'll need to piece together sections, and the pattern alignment may not match perfectly."
+  - question: "Is the blue as bright in person as in the photos?"
+    answer: "It's slightly deeper and richer in person. The photos make it look a bit brighter than it actually is."
 
 ---
 

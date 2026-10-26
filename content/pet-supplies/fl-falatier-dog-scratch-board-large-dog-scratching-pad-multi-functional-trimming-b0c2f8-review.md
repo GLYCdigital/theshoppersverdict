@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 200
 amazon_rating: 4.0
-amazon_url: "https://www.amazon.com/dp/B0C2F8D2F5/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0C2F8D2F5/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71bNkPfKALL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Large 20x14 inch surface actually fits big breeds like Labs and shepherds, unlike most boards sized for small dogs"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "Sandpaper sheets wear out after 4-6 weeks with heavy daily use; replacements cost about $10 per pack"
   - "Requires consistent training to redirect scratching from furniture — not a magic solution for dogs that already scratch doors or drywall"
+faq:
+  - question: "Will this work for a puppy?"
+    answer: "Yes, and it's actually easier to train a puppy than an adult dog. Introduce it early with treats and praise. The large surface is fine for puppies — they'll grow into it."
+  - question: "How do I clean the board?"
+    answer: "Use the included brush to sweep off loose hair and debris after each use. For deeper cleaning, wipe the surface with a slightly damp cloth and let it air dry completely before the next use."
+  - question: "Does it really trim nails, or just scratching?"
+    answer: "Both. The abrasive surface files nails down naturally as your dog scratches. You'll notice shorter nails within 2-3 weeks of consistent use, though results vary by dog and how often they use it."
 
 ---
 
@@ -50,7 +57,7 @@ This board is ideal for:
 
 Skip it if you have a toy breed (they won't use the large surface efficiently), or if you're unwilling to put in the redirect training time.
 
-**FAQ**
+## FAQ
 
 **Q: Will this work for a puppy?**
 A: Yes, and it's actually easier to train a puppy than an adult dog. Introduce it early with treats and praise. The large surface is fine for puppies — they'll grow into it.

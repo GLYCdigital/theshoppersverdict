@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 240
 amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0GJ12M3SH/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0GJ12M3SH/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81B0KdnhP4L._SL1500_.jpg"
 pros: 
   - "Actual coconut flavor comes through clearly — not a faint afterthought like most flavored rices"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "Sodium content runs high at ~350mg per serving — a dealbreaker if you're watching salt intake"
   - "Single-serve pouches create notable packaging waste compared to cooking rice from scratch"
+faq:
+  - question: "Is this gluten-free?"
+    answer: "Yes, BEN'S ORIGINAL labeled this product gluten-free, and it contains no wheat-based ingredients. That said, it's processed in a facility that also handles wheat, so those with severe celiac should exercise caution."
+  - question: "Can I cook this on a stovetop instead of a microwave?"
+    answer: "Technically yes — you can empty the pouch into a pot with a splash of water and heat on low. But honestly, the whole point is the microwave convenience. If you have a stove available, just cook rice from scratch for better value."
+  - question: "How many servings come in one pouch?"
+    answer: "Each 8.8-ounce pouch contains about two half-cup servings. A single hungry adult could easily eat the whole pouch as a meal base."
 
 ---
 

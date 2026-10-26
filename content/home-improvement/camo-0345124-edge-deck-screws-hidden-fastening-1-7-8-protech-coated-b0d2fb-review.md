@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0D2FBPJ48/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0D2FBPJ48/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61ALf7i6heL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Drive bit seats firmly in the screw head — no stripped cam-outs with a quality impact driver"
@@ -20,6 +20,13 @@ cons:
   - "Requires the CAMO Marksman tool or similar jig — you're locked into their system"
   - "No collation; screws come loose in a box, so you're loading the bit one at a time"
   - "Price per screw runs higher than standard deck screws once you factor in the drive tool"
+faq:
+  - question: "Can I use these screws with the CAMO Edge Deck system?"
+    answer: "Yes — that's exactly what they're designed for. They work with both the Marksman Pro and the Edge Deck tool. The 1-7/8\" length suits 5/4 deck boards and 1\" composite boards."
+  - question: "Do I need to pre-drill with these?"
+    answer: "For softwoods like cedar, pine, and most composites, no. The Type 17 point self-drills cleanly. For dense tropical hardwoods, pre-drilling is recommended to prevent splitting and reduce drive torque."
+  - question: "Will they rust on a treated lumber deck?"
+    answer: "The ProTech coating is specifically tested against ACQ and other copper-based treatments. Under normal conditions, you won't see corrosion. In coastal salt air, no fastener is truly immune — but these hold up better than standard coated screws."
 
 ---
 

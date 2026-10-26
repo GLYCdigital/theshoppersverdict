@@ -19,6 +19,13 @@ pros:
 cons: 
   - "No jump pack-specific weapon options — you're locked into the stock bolt rifle loadout"
   - "Flight stands are absent; you'll need to pin or glue models to bases or buy separate clear stands for dynamic poses"
+faq:
+  - question: "Do I need glue for this kit?"
+    answer: "Technically no — the push-fit joints hold. But I recommend plastic cement for the backpack connection. It's the one joint that's prone to popping off during handling."
+  - question: "Can I use these parts with other Space Marine kits?"
+    answer: "Yes, the torso and legs are compatible with standard Intercessor bodies. You can mix heads and shoulder pads from other kits for customization."
+  - question: "How many models come in the box?"
+    answer: "Three complete Intercessors with jump packs. It's a full squad minimum for games, so you'll need two boxes for a standard 5-model unit."
 
 ---
 

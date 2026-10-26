@@ -10,7 +10,7 @@ date: 2026-08-06
 price: 12.99
 review_count: 235
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B0DB2S6MNW/?tag=tsvglyc-03 inch"
+amazon_url: "https://www.amazon.com/dp/B0DB2S6MNW/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61Y7P9QrEjL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Sold as an 8-pack at $12.99 — roughly $1.62 per bracket, which undercuts most single-pair options at big-box stores"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "The 12-inch depth means your shelf must be exactly 12 inches deep — anything shorter leaves a gap, anything longer looks awkward"
   - "No hidden mounting system; the bracket lip sits visibly under the shelf, so it's not a true 'floating' look despite the listing name"
+faq:
+  - question: "Can these hold a 12-inch deep shelf with heavy books?"
+    answer: "Yes, within reason. Two brackets spaced 16 inches apart will support a loaded bookshelf. Use the included screws into wood studs for best results — anchors are for drywall-only situations."
+  - question: "Do the brackets come with all the screws I need?"
+    answer: "Yes, 16 screws and 16 anchors for eight brackets. That's exactly two screws per bracket. If your shelf is heavy, consider adding a third screw per bracket by drilling through the vertical plate — it's steel, so you'll need a metal drill bit."
+  - question: "Are these actually \"floating\" shelf brackets?"
+    answer: "No. They're standard visible L-brackets with a matte black finish. The \"floating\" label in the title refers to the intended look of the shelf itself, but the bracket will be visible. If you want hidden brackets, keep shopping."
 
 ---
 

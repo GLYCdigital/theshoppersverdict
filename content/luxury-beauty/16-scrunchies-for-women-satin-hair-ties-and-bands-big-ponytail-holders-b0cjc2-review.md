@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B0CJC226Q2/?tag=tsvglyc-30 inch"
+amazon_url: "https://www.amazon.com/dp/B0CJC226Q2/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/91HOBcjUDSL._AC_SL1500_.jpg"
 pros: 
   - "Genuine satin exterior that won't snag or crease hair — even after overnight wear"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "Satin exterior creases easily if crushed in a bag or drawer"
   - "Some users report the elastic core loosens after 2-3 months of daily rotation"
+faq:
+  - question: "Will these damage my hair?"
+    answer: "No. The satin surface is the key — it doesn't snag or pull individual strands like cotton or terry cloth. That's the main reason people with fragile or curly hair prefer this material."
+  - question: "How many uses before they lose their stretch?"
+    answer: "With a 16-piece rotation, you're looking at roughly 2-3 months of regular daily use before the elastic noticeably loosens. If you wear the same one every day, expect about 4-6 weeks."
+  - question: "Can I wear these for workouts?"
+    answer: "Yes, but with a caveat. They hold well during exercise, but sweat can eventually degrade the elastic faster. Rotate them and wash gently (hand wash, lay flat to dry) to extend their life."
 
 ---
 

@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 215
 amazon_rating: 4.3
-amazon_url: "https://www.amazon.com/dp/B09Y9KQ8CT/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B09Y9KQ8CT/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/41OGyBr6oVL._SL1000_.jpg"
 pros: 
   - "Brushless motor delivers gas-like torque without the pull-start hassle"
@@ -20,6 +20,13 @@ cons:
   - "Bare tool only — no battery or charger included, so factor in that cost"
   - "Gets heavy on longer edging runs; the weight distribution tires your arms"
   - "Some units arrive with a slightly misaligned guard that needs a quick fix"
+faq:
+  - question: "Will this work with my older 20V MAX batteries?"
+    answer: "Yes, it's compatible with all DEWALT 20V MAX batteries, including the older 2Ah and 3Ah packs. Just know that smaller batteries drain fast — expect 10-15 minutes max on a 2Ah."
+  - question: "Can it edge along brick pavers without chipping them?"
+    answer: "The metal blade will mark soft brick if you're careless. Adjust the depth shallow and angle the head slightly. It works fine on concrete and asphalt curbs."
+  - question: "Does the blade need sharpening or replacing?"
+    answer: "It's a standard edger blade that can be sharpened with a file or angle grinder. Replacement blades are widely available and easy to swap with the included wrench."
 
 ---
 

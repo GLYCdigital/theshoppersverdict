@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B097NLVWJR/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B097NLVWJR/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71+1elx3MZS._AC_SL1500_.jpg"
 pros: 
   - "Roughly double the page yield of standard LC406 cartridges — up to 1,200 pages per color at 5% coverage"
@@ -20,6 +20,13 @@ cons:
   - "High-yield markup means you're paying more upfront — savings only materialize if you actually print enough volume"
   - "No black cartridge included in this 3-pack — budget for the LC406XL BK separately"
   - "Some users report chip issues on the yellow cartridge specifically, requiring a reseat to clear error messages"
+faq:
+  - question: "Will these work with my Brother printer?"
+    answer: "Check your printer's manual for LC406 compatibility. Common models include the MFC-J1010DW, MFC-J4335DW, MFC-J4535DW, and MFC-J5855DW. If your printer takes LC406 standard cartridges, these high-yield versions will fit perfectly."
+  - question: "How long will a set last?"
+    answer: "At 1,200 pages per color at 5% coverage, most home users get 3-6 months per cartridge. Heavy color printing (photos, graphics) will reduce that significantly — a full-page color photo uses roughly 10x more ink than a standard text page."
+  - question: "Is the yellow chip error a common problem?"
+    answer: "It's reported by a minority of buyers, and it's typically resolved by removing and reinserting the cartridge. If the issue persists, Brother's warranty support is responsive. It's not a reason to avoid the product, just something to be aware of."
 
 ---
 

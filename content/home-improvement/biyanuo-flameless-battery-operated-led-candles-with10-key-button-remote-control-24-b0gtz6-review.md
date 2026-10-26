@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 220
 amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0GTZ6T5GN/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0GTZ6T5GN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61cR-ddUbLL._AC_SL1500_.jpg"
 pros: 
   - "10-key remote actually works from 20+ feet, through glass and around corners — rare at this price point"
@@ -19,6 +19,13 @@ pros:
 cons: 
   - "Flame flicker is on the fast side — more 'dance' than slow candle glow"
   - "Batteries not included; 24 candles will eat 48 AAs on first setup"
+faq:
+  - question: "Can the timer be set differently for different candle sizes?"
+    answer: "No. The remote controls all candles as one group. One timer setting applies to everything."
+  - question: "Do these work outdoors?"
+    answer: "Yes, but the glass holders aren't weatherproof. Use them on a covered patio or under an awning. Rain will pool in the glass."
+  - question: "How long do batteries actually last?"
+    answer: "At 6 hours/night on medium brightness, expect about 4-5 weeks. Using the 2-hour timer stretches it to 2+ months."
 
 ---
 

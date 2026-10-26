@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0F4YLP3TX/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0F4YLP3TX/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/51t7guV4NvL._SL1080_.jpg"
 pros: 
   - "Intense, peppery finish with genuine Tuscan PDO character — unmistakably fresh"
@@ -20,6 +20,13 @@ cons:
   - "Premium price point — typically $35–45 for 500ml, roughly double standard EVOO"
   - "Peppery bitterness can overwhelm delicate palates or novice olive oil users"
   - "No harvest date printed on bottle — you must rely on the lot code"
+faq:
+  - question: "How long does it stay fresh after opening?"
+    answer: "With the nitrogen flush and dark glass, expect 4–6 months at peak quality. Store it away from heat and light. The peppery bite fading is your first sign it's aging."
+  - question: "Is this worth the extra cost vs. regular EVOO?"
+    answer: "Only if you use it raw. As a finishing oil, yes — the complexity justifies the price. For cooking, no. Buy a mid-range oil for heat and save this for drizzling."
+  - question: "What does \"Laudemio\" actually mean?"
+    answer: "It's a protected consortium designation for Tuscan oils that meet strict quality standards — early harvest, specific olive varieties, cold extraction under 27°C. There are only about 200 producers with this designation."
 
 ---
 

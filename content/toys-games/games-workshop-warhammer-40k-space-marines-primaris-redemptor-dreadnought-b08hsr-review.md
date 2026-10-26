@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B08HSRX6Z3/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B08HSRX6Z3/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71yxUMSBHhL._AC_SL1500_.jpg"
 pros: 
   - "Massive presence on the tabletop — towers over firstborn Dreadnoughts and reads as a proper centerpiece unit"
@@ -20,6 +20,13 @@ cons:
   - "Assembly is genuinely complex — over 100 parts, many small pistons and hoses that require careful dry-fitting"
   - "No magnetization guidance in the instructions; swapping loadouts requires either magnets or committing to a fixed build"
   - "Weapon arms are heavy and can sag at the shoulder joint over time without pinning or glue reinforcement"
+faq:
+  - question: "Does it fit on a standard 60mm base?"
+    answer: "Yes, it ships with one, and the poseable legs mean you can adjust the stance to fit comfortably without overhang."
+  - question: "Can I use it in Kill Team?"
+    answer: "No — it’s too large for the current Kill Team ruleset. This is a full 40k unit."
+  - question: "How long does assembly take?"
+    answer: "Plan for 4-6 hours for a clean build, plus another 2-3 if you’re magnetizing the weapons. Rushing leads to gaps at the hip joints."
 
 ---
 
@@ -55,7 +62,7 @@ Beyond the assembly friction, there are two honest downsides. First, the kit lac
 
 **Skip it if** you’re a beginner who wants a quick win, or if you hate pinning and magnetizing. This kit rewards patience and punishes shortcuts.
 
-**FAQ**
+## FAQ
 
 **Q: Does it fit on a standard 60mm base?**
 A: Yes, it ships with one, and the poseable legs mean you can adjust the stance to fit comfortably without overhang.

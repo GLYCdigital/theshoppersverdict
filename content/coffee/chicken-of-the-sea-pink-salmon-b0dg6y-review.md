@@ -10,7 +10,7 @@ date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0DG6Y44ZL/?tag=tsvglyc-40 inch"
+amazon_url: "https://www.amazon.com/dp/B0DG6Y44ZL/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71UKTiJnrHL._SL1500_.jpg"
 pros: 
   - "Wild-caught Alaskan pink salmon with clean, mild flavor that doesn't taste fishy"
@@ -20,6 +20,13 @@ cons:
   - "Some batches include skin and darker meat pieces — texture varies from can to can"
   - "Smaller 5-ounce cans mean you'll need two for a substantial meal for two adults"
   - "Mild flavor may disappoint if you expect the richness of sockeye or king salmon"
+faq:
+  - question: "Is this actually wild-caught?"
+    answer: "Yes, the can states wild-caught Alaskan pink salmon. Pink salmon is one of the most sustainably managed fisheries in the world."
+  - question: "How does it compare to fresh salmon?"
+    answer: "It's cooked and canned, so texture is softer and flavor is milder. It's not a substitute for grilling a fresh fillet — it's a convenient protein option for quick meals."
+  - question: "Does it have bones?"
+    answer: "Some cans include soft, edible bones, which are actually a calcium bonus. If that bothers you, pick them out — they're soft enough to mash easily."
 
 ---
 
