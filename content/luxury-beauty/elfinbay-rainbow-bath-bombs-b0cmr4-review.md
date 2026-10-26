@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CMR49SYT/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81iXVaGY-vL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81iXVaGY-vL._SL1500_.jpg"
 pros: 
   - "Produces dense, vibrant color swirls that don't stain tubs or skin — a common failure point for rainbow bath bombs"
   - "Generous 6-ounce size per bomb delivers 10-15 minutes of continuous fizzing, not a 30-second fizz-and-disappear"

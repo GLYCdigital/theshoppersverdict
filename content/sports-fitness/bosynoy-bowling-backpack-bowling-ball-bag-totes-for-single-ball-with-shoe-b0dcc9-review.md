@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DCC9YK/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81RbeJnNeUL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81RbeJnNeUL._AC_SL1500_.jpg"
 pros: 
   - "Dedicated shoe compartment keeps bowling shoes separate from your ball and street clothes — no more damp shoe smell on your favorite hoodie"
   - "Padded backpack straps and back panel distribute the 12-15 lb ball weight evenly, making league nights noticeably easier on your shoulders"

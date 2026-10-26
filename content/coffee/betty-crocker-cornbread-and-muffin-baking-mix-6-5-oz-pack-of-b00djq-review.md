@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00DJQ2C08/?tag=tsvglyc-20"
-amazon_image: "https://m.media.mozilla.org/images/I/71foMCYkUDL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71foMCYkUDL._AC_SL1500_.jpg"
 pros: 
   - "Consistently moist, tender crumb with a genuine corn flavor—not artificially sweet like some competitors"
   - "6.5 oz box yields 6 decent muffins or an 8-inch skillet cornbread; perfect for small households"

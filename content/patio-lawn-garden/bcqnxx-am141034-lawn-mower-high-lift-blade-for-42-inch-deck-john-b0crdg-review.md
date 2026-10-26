@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CRDGVCWD/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/51nqIPTj3YL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/51nqIPTj3YL._AC_SL1500_.jpg"
 pros: 
   - "Noticeably stronger deck suction lifts matted grass and wet clippings that standard blades leave behind"
   - "Heat-treated steel edge holds a sharp cutting surface through a full season on average-size lawns"

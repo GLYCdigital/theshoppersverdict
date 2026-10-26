@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4J2YXNY/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81SdG2N9HxL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81SdG2N9HxL._AC_SL1500_.jpg"
 pros: 
   - "Thick 3mm felt that actually absorbs impact, not the flimsy 1mm stuff that tears in a week"
   - "182 pieces across 4 shapes and 3 sizes covers an entire house in one purchase"

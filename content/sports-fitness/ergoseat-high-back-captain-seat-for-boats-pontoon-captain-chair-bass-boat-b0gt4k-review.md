@@ -11,7 +11,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GT4KBFKK/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71qwzU0Wt2L._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71qwzU0Wt2L._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Flip-up bolster lets you stand while driving at speed without fighting the seat sides"
   - "Thick 4-inch foam padding holds up on rough water — no bottoming out after a season"

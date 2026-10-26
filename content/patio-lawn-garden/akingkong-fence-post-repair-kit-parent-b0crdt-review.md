@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CRDTJYM6/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/819lXgoR2ZL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/819lXgoR2ZL._AC_SL1500_.jpg"
 pros: 
   - "Heavy-gauge galvanized steel brackets that actually support the post rather than just wrapping it"
   - "No concrete mixing or digging required — installs in under an hour with basic hand tools"

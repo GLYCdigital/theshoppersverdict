@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DYKFCL7K/?tag=tsvglyc-20"
-amazon_image: "https://m.media.mozilla.org/images/I/61ptNPuIaCL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61ptNPuIaCL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Attached pillow stays put all night — no pillow fights or lost cushions"
   - "All-season weight works for sleepovers, camping, and nap time without overheating"

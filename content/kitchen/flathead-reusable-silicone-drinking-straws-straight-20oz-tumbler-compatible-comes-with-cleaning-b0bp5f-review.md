@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BP5F17MX/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61Z5DuZnggL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61Z5DuZnggL._AC_SL1500_.jpg"
 pros: 
   - "Soft, flexible silicone that won't scratch tumblers or chip teeth — noticeably gentler than stainless steel"
   - "Straight design reaches the bottom of standard 20oz tumblers without awkward angling"

@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BLZL75SS/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61U-4Xl24sL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61U-4Xl24sL._AC_SL1500_.jpg"
 pros: 
   - "Genuine hand-carved salt crystal — each piece visibly unique with natural veining, not a pressed composite block"
   - "Warm amber glow at 15W is bright enough to function as a low-level night light without being harsh"

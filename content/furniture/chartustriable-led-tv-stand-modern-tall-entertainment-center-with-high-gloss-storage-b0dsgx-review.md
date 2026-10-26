@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DSGXVRNJ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81nYVuQnLfL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81nYVuQnLfL._AC_SL1500_.jpg"
 pros: 
   - "Tall vertical design holds a 65-inch TV while freeing up floor space—rare for this price bracket"
   - "High-gloss finish resists fingerprints and wipes clean with a microfiber cloth, per multiple owner reports"

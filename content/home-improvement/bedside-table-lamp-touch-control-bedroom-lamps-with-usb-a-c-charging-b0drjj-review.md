@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DRJJDLYR/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71ZBacTW+aL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71ZBacTW+aL._AC_SL1500_.jpg"
 pros: 
   - "Three-step dimming (bright, medium, nightlight) with a simple tap — no fumbling for a switch in the dark"
   - "Built-in USB-A and USB-C ports deliver 5V/2A charging, so your phone and earbuds stay topped off overnight"

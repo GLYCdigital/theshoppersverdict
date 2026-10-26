@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FGPLXSFZ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61qsX10wINL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61qsX10wINL._AC_SL1500_.jpg"
 pros: 
   - "24 heavy-duty chains with a double-layer design catch discs cleanly instead of spitting them out"
   - "All-steel frame holds up to hard forehand throws without flexing or tipping during outdoor use"

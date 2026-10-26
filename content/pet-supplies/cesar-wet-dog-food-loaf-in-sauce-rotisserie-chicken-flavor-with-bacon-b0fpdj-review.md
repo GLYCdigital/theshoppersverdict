@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FPDJPPQM/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/81zn8M1TVaL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81zn8M1TVaL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Loaf-in-sauce texture is soft enough for senior dogs and small breeds with dental issues"
   - "Rotisserie chicken with bacon flavor smells genuinely appetizing — picky eaters respond well"

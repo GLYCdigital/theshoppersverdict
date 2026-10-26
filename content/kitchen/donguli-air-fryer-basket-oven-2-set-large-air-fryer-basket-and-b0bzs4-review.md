@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZS44GLJ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81d4rOqOhkL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81d4rOqOhkL._AC_SL1500_.jpg"
 pros: 
   - "Fits both 6-quart and 8-quart air fryers — measured 8.7 x 8.7 inches, so it drops into most round and oval baskets without modification"
   - "Stainless steel construction with riveted handles — no cheap spot welds that snap after three weeks of use"

@@ -11,7 +11,7 @@ price: 262.65
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTGJ6QFJ/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/51cRVj+BAaL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/51cRVj+BAaL._AC_SL1500_.jpg"
 pros: 
   - "Full trim kit includes shower head, handheld, hose, and valve cover — no hidden parts to buy separately"
   - "Matte black finish is electroplated, not painted, so it resists chipping and fingerprints far better than budget finishes"

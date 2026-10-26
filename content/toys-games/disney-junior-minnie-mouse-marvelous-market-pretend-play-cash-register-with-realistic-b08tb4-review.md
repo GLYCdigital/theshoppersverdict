@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08TB48LMH/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/817rkw5woIL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/817rkw5woIL._AC_SL1500_.jpg"
 pros: 
   - "Realistic cash register with working scanner, coin drawer, and 3 sound modes that actually engage toddlers"  
   - "Comes with 20+ grocery accessories including play food, shopping basket, and credit card — ready to play out of the box"  

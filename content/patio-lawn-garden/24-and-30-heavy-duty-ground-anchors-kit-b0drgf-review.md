@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRGFGCHF/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81+WqXJXrsL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81+WqXJXrsL._AC_SL1500_.jpg"
 pros: 
   - "Galvanized steel construction with welded rings that held up through a full winter freeze-thaw cycle"
   - "Double 24/30-inch size options let you match anchor depth to soil conditions—30-inch version is a game-changer for loose sand"

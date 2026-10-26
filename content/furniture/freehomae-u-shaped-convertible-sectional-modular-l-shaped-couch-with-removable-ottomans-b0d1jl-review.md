@@ -11,7 +11,7 @@ price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1JL169V/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71iFWwLt-AL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71iFWwLt-AL._AC_SL1500_.jpg"
 pros: 
   - "Truly modular — rearrange into U-shape, L-shape, or split into separate seating; ottomans double as chaise extensions"
   - "Sturdy metal frame and high-density foam hold up to daily use; several reviewers note zero sagging after months"

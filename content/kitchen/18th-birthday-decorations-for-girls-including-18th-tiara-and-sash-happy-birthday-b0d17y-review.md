@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D17Y6W47/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81qRQ0f2e5L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81qRQ0f2e5L._AC_SL1500_.jpg"
 pros: 
   - "Tiara has adjustable sizing band that fits most teen/adult head circumferences without pinching"
   - "Sash material is thick satin with stitched letters — not heat-pressed vinyl that peels after one wear"

@@ -12,7 +12,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C13TV26F/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81PL84xADYL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81PL84xADYL._AC_SL1500_.jpg"
 pros: 
   - "Covers both JIC (37°) and ORFS (flat-face) in one kit — 80 caps plus 80 plugs across 20 common sizes from -04 to -24 inch"
   - "Red anodized aluminum construction resists corrosion and won't seize onto steel fittings like plastic caps do"

@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRS5DQWY/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/71hlLDHJKHL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71hlLDHJKHL._AC_SL1500_.jpg"
 pros: 
   - "True plug-in design — no electrician needed, installs in under 10 minutes with just a hook or ceiling mount"
   - "Hand-woven rattan shade casts a warm, textured glow that instantly upgrades a plain room"

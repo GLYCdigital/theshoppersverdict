@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CMVLFK4G/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71fWmg5jsxL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71fWmg5jsxL._SL1500_.jpg"
 pros: 
   - "Walnuts stay genuinely crunchy — no stale, soft centers even weeks after opening"
   - "Dark chocolate is 60% cacao with real cocoa butter, not waxy compound coating"

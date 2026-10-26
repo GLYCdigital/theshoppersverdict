@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CBJY4DR2/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61GaFZ9Y3qL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61GaFZ9Y3qL._AC_SL1500_.jpg"
 pros: 
   - "Multiple pad sets included (fabric/leatherette) so you can fine-tune fit without buying extras"
   - "Counterweight genuinely balances the headset — reduces forehead pressure during 2+ hour sessions"

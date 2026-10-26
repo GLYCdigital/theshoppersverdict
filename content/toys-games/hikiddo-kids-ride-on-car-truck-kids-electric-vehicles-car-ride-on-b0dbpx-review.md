@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DBPX3364/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81S15MkaYwL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81S15MkaYwL._AC_SL1500_.jpg"
 pros: 
   - "Parent remote control override works reliably, giving caregivers emergency braking at distances up to 30 feet"
   - "12V battery provides roughly 60-90 minutes of continuous run time before needing a charge"

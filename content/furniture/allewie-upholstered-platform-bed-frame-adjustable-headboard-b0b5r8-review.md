@@ -11,7 +11,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B5R8KVX8/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81LWkATnGDL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81LWkATnGDL._AC_SL1500_.jpg"
 pros: 
   - "Adjustable headboard (3 heights) lets you dial in lumbar or neck support without buying a new frame"  
   - "Tool-free assembly in under 30 minutes — no box spring needed, slats are pre-drilled"  

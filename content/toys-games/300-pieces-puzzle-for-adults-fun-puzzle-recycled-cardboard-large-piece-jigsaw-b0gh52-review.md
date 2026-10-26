@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GH52297Q/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/81UikBk550L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81UikBk550L._AC_SL1500_.jpg"
 pros: 
   - "Genuinely thick, sturdy pieces that snap together cleanly without peeling or bending—rare at this price point"
   - "Recycled cardboard doesn't compromise feel; matte finish reduces glare under direct light"

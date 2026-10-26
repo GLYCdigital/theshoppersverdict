@@ -11,7 +11,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CD1T8NXD/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61RegYWWHHL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61RegYWWHHL._SL1500_.jpg"
 pros: 
   - "Visible vanilla bean specks in every batch – no fake extract look"  
   - "Thick, syrupy texture that mixes cleanly into batters and frostings"  

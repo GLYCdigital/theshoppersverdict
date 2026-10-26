@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08KZ7QXLD/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71tgMFHcFyL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71tgMFHcFyL._SL1500_.jpg"
 pros: 
   - "Creamy mouthfeel and clean flavor that rivals fresh dairy, even after months on the shelf"
   - "True A2 beta-casein protein — a genuine option for people with mild lactose or A1 protein sensitivity"

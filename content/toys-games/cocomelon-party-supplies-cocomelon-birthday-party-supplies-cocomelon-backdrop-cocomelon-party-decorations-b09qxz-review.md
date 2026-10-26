@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09QXZDFT1/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/91QSqJNt0VL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/91QSqJNt0VL._AC_SL1500_.jpg"
 pros: 
   - "Backdrop is thick, wrinkle-resistant fabric (not cheap paper) that hangs straight and photographs cleanly"
   - "Color-matched pieces across 8+ items — no clashing shades of JJ's signature yellow and blue"

@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MF9F31L/?tag=tsvglyc-20"
-amazon_image: "https://m.media.mozilla.org/images/I/81d3mUVgU-L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81d3mUVgU-L._AC_SL1500_.jpg"
 pros: 
   - "Precision-milled beech with consistent, tight tolerances — joints fit without slop or forcing"
   - "Six different tenon sizes (4x20, 5x30, 6x40, 8x50, plus 5x25 and 6x30) cover nearly every joinery scenario in one box"

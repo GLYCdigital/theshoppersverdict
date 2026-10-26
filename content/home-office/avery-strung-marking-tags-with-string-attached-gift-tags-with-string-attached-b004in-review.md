@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B004INFQJK/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/6164H-u0YTL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/6164H-u0YTL._AC_SL1500_.jpg"
 pros: 
   - "Sturdy 11pt paper stock resists tearing even when tags get caught on shelving edges"
   - "Pre-tied 4-inch string loops save significant time vs. loose twine alternatives"

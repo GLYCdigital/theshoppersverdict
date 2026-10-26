@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6FPFTF/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71wkzjjxQXL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71wkzjjxQXL._AC_SL1500_.jpg"
 pros: 
   - "Genuinely 40 inches of sitting space — fits two kids or one adult comfortably without the fabric sagging to the ground"
   - "Heavy-duty 1000D Oxford cloth with reinforced stitching holds up to real backyard abuse, not just gentle swinging"

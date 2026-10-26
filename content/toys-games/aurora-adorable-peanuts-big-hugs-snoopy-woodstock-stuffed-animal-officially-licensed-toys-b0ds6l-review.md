@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DS6LPBQB/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71d+YUAooTL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71d+YUAooTL._AC_SL1500_.jpg"
 pros: 
   - "Ultra-soft, premium plush fabric that holds up to repeated hugging and washing"
   - "Officially licensed Peanuts design with accurate character details on both Snoopy and Woodstock"

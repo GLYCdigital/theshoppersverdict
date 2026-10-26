@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D849T1SK/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71w1gd-1PpL._AC_SL1200_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71w1gd-1PpL._AC_SL1200_.jpg"
 pros: 
   - "Weighs under 10 pounds and folds flat — genuinely packable for camping or tailgating"
   - "3+ hour burn time per load of wood, which beats most portable pits in this size class"

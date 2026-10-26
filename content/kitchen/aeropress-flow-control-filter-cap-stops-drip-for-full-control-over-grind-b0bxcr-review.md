@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BXCRVZ52/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61oLjq2PvjL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61oLjq2PvjL._AC_SL1500_.jpg"
 pros: 
   - "Eliminates passive drip during steeping — no more coffee pooling in your mug before you press"
   - "Simple one-piece silicone design that fits all standard AeroPress models (Original and Clear)"

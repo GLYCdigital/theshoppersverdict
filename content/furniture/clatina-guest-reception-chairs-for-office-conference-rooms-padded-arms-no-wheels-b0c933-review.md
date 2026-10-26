@@ -11,7 +11,7 @@ price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C9335CLP/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/51saluCIwiL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/51saluCIwiL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Sturdy steel frame rated for 350 lbs — noticeably more solid than comparably priced reception chairs"
   - "Padded armrests are genuinely comfortable for extended meetings, not just decorative"

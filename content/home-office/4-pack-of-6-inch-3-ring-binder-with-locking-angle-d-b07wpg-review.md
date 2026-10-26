@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07WPG71FR/?tag=tsvglyc-20"
-amazon_image: "https://m.media.mozilla.org/images/I/81+L--JLrgL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81+L--JLrgL._AC_SL1500_.jpg"
 pros: 
   - "Locking D-rings actually hold pages flat — no more accordion-style bulging at the spine"
   - "Genuine 6-inch capacity fits roughly 1,200 sheets; the metal hinge mechanism feels sturdy"

@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FX5D2CD1/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71MaoHv6UEL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71MaoHv6UEL._SL1500_.jpg"
 pros: 
   - "Softer, more tender texture than standard gummy worms — no chewy jaw workout"  
   - "12 distinct fruit flavors, including blue raspberry and green apple, not just generic 'red' and 'orange'"  

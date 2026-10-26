@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0G33C124R/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/515LzflvZaL._AC_SL1200_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/515LzflvZaL._AC_SL1200_.jpg"
 pros: 
   - "Machined aluminum housing that holds up to drops without binding internal components"
   - "Adjustable depth stop with positive detents — no tools needed to change settings"

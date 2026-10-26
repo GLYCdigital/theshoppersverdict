@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GJM33F/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81ZBMJbiDIL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81ZBMJbiDIL._AC_SL1500_.jpg"
 pros: 
   - "Drops chlorine demand by 60–80% once the mineral bed activates (typically 2–3 weeks)"
   - "Eliminates the harsh chemical smell and eye burn that heavy chlorine dosing causes"

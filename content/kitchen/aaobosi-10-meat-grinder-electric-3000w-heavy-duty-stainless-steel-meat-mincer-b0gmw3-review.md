@@ -11,7 +11,7 @@ price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GMW3372H/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71Quk1KaVQL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71Quk1KaVQL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "3000W motor chews through gristle and sinew without stalling, even on frozen-ish meat"  
   - "All food-contact parts are stainless steel — no cheap aluminum or plastic where it matters"  

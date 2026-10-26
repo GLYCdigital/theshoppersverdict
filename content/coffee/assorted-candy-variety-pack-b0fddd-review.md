@@ -11,7 +11,7 @@ price: null
 review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0FDDD5CVH/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/71MgXiAitBL._SL1080_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71MgXiAitBL._SL1080_.jpg"
 pros: 
   - "Genuine assortment across 8+ candy types — not just one flavor repackaged"
   - "Individually wrapped pieces stay fresh and are easy to portion or share"

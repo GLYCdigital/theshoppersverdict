@@ -11,7 +11,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTZ5BW45/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/91rW2O+OZ9L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/91rW2O+OZ9L._AC_SL1500_.jpg"
 pros: 
   - "Dense 100% coir construction scrapes mud and debris effectively — no need to double-up with a secondary mat"
   - "Latex backing keeps the mat flat on concrete, tile, or wood without curling at the edges"

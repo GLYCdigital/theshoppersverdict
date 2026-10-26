@@ -11,7 +11,7 @@ price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPSVJPKS/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71HEoKph20L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71HEoKph20L._AC_SL1500_.jpg"
 pros: 
   - "Compact footprint (11-inch diameter) fits tight spaces without overwhelming a small room"  
   - "Warm 3000K LED delivers genuinely cozy light — not the sterile blue-white most budget fixtures emit"  

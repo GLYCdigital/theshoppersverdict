@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BRGRZ885/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71fno1lm1yL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71fno1lm1yL._AC_SL1500_.jpg"
 pros: 
   - Includes 10 heat-treated dies covering 1.5 inch " to 2.75 inch " sizes, so you're covered for most passenger exhaust work without buying add-ons
   - "Cold-stretches pipe without needing a torch, saving time and eliminating fire risk near fuel lines"

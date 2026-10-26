@@ -11,7 +11,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D38DV9DC/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/61QXmJPeR8L._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61QXmJPeR8L._SL1500_.jpg"
 pros: 
   - "Generous 5 oz bag for the price point—roughly 30-35 individual pretzel pieces"
   - "Milk chocolate coating is thick and creamy, not waxy like some budget brands"

@@ -11,7 +11,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BZD1GS2Q/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71YZGPtSTsL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71YZGPtSTsL._AC_SL1500_.jpg"
 pros: 
   - "Heavy-duty metal clamp holds firmly to tables up to 2 inches thick without wobble during active grooming sessions"
   - "Fully adjustable arm rotates 360 degrees and locks at multiple angles for precise positioning of the noose loop"

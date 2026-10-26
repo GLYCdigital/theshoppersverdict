@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08Y67C81R/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81QQ3mapXAL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81QQ3mapXAL._AC_SL1500_.jpg"
 pros: 
   - "Micro-adjustable depth stop with 1/64-inch increments for repeatable precision cuts"
   - "Clear polycarbonate base gives full visibility of the bit and cut line during operation"

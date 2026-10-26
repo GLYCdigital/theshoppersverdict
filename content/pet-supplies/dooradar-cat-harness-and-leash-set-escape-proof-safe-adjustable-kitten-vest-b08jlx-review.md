@@ -11,7 +11,7 @@ price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08JLX42VW/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/71yF1XfGKnL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71yF1XfGKnL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Double-buckle vest design with two separate adjustment points prevents the classic 'back out' escape move most cats master in seconds"
   - "Breathable mesh material keeps cats from overheating during summer walks — a common failure point in cheaper nylon harnesses"

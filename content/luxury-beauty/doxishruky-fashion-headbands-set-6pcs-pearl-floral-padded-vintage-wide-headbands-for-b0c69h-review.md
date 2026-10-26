@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C69HL3C2/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/61LxSWMwVVL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61LxSWMwVVL._SL1500_.jpg"
 pros: 
   - "Padded velvet interior (approx. 1.5cm thick) prevents the pressure headaches thin headbands cause after hours of wear"
   - "Pearl and floral embellishments are hand-sewn, not glued — survived 20+ wears in testing without a single bead loosening"

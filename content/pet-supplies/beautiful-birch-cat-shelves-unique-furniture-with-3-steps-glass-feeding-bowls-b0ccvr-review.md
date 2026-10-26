@@ -11,7 +11,7 @@ price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CCVR2RN9/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81HxLeCODGL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81HxLeCODGL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Solid 0.6-inch birch plywood construction — noticeably sturdier than the particleboard most cat shelves use"
   - "Integrated glass feeding bowls are a genuinely unique two-in-one design that saves floor space"

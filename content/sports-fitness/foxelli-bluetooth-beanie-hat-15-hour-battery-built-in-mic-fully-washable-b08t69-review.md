@@ -11,7 +11,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08T69T721/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81zecsOYvCL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81zecsOYvCL._AC_SL1500_.jpg"
 pros: 
   - "15-hour battery genuinely holds up across multi-day commutes or long trail runs"  
   - "Fully washable — remove the electronics pod, toss the hat in the machine, no fuss"  

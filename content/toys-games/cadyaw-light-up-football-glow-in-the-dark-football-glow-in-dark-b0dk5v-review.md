@@ -11,7 +11,7 @@ price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK5VX3QR/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71knjKTAscL._AC_SY300_SX300_QL70_ML2_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71knjKTAscL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros: 
   - "Bright LED lights visible from 100+ yards, making night games genuinely playable"
   - "Decent weight and standard size (roughly 11 inches) for real throwing mechanics"

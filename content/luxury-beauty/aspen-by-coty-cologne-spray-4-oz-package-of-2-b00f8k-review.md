@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00F8KA0U2/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/616zxzbOk3L._SL1000_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/616zxzbOk3L._SL1000_.jpg"
 pros: 
   - "Two full 4 oz bottles for roughly the price of a single designer fragrance — legitimate value"
   - "Fresh, clean green-woody scent profile that works year-round without being overpowering"

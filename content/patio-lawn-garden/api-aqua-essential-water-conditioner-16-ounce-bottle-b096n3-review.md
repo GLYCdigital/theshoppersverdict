@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B096N3K99J/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/61Fc5j62RXS._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/61Fc5j62RXS._AC_SL1500_.jpg"
 pros: 
   - "Concentrated formula treats up to 12,800 gallons — a single 16 oz bottle goes far beyond typical hobbyist needs"
   - "Neutralizes chlorine, chloramine, and heavy metals in one step, eliminating the need for multiple additives"

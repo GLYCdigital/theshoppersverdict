@@ -11,7 +11,7 @@ price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2Z2R5JL/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/71QYs4+dxHL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71QYs4+dxHL._SL1500_.jpg"
 pros: 
   - "Contains stabilized hydrogen peroxide (up to 5%) for actual surface stain removal, not just abrasive scrubbing"
   - "Baking soda base neutralizes acids and leaves a noticeably cleaner, fresher mouth feel for hours"

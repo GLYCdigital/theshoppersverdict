@@ -11,7 +11,7 @@ price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09FFSH7RT/?tag=tsvglyc-20"
-amazon_image: "https://m.media-images-amazon.com/images/I/819b+qtfkuL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/819b+qtfkuL._AC_SL1500_.jpg"
 pros: 
   - "Holds up to saucy, greasy foods for 30+ minutes without leaking or turning mushy"  
   - "Genuinely compostable (BPI-certified) — breaks down in 90 days in a commercial facility"  

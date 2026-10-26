@@ -11,7 +11,7 @@ price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DP92KVFM/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/81S1PwdHi4L._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81S1PwdHi4L._AC_SL1500_.jpg"
 pros: 
   - "Textilene mesh seats resist fading and mildew, surviving full-sun exposure without sagging"
   - "Tool-free assembly takes most buyers under 15 minutes per chair — no wrench required"

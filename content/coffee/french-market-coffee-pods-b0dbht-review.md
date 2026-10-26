@@ -11,7 +11,7 @@ price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBHT4V2N/?tag=tsvglyc-20"
-amazon_image: "https://m.media.mozilla.org/images/I/81ZTRjGVlOL._SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/81ZTRjGVlOL._SL1500_.jpg"
 pros: 
   - "Genuine New Orleans-style chicory blend — not a weak imitation, the roasted chicory comes through clearly in every cup"
   - "Surprisingly bold body for a K-Cup; holds up to milk and sweetener without turning watery"

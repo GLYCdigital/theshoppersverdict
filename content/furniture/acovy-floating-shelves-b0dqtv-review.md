@@ -11,7 +11,7 @@ price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQTVPJNP/?tag=tsvglyc-20"
-amazon_image: "https://m.media-mazon.com/images/I/71JL8lpA-QL._AC_SL1500_.jpg"
+amazon_image: "https://m.media-amazon.com/images/I/71JL8lpA-QL._AC_SL1500_.jpg"
 pros: 
   - "Hidden bracket system with 50+ lb per shelf rated capacity when anchored into studs"
   - "Pre-drilled mounting holes and included template paper simplify wall alignment"
