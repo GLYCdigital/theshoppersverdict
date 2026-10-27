@@ -23,6 +23,16 @@
   {{ end }}
 {{ end }}
 {{ $monthTop3 := first 3 (sort $monthPriced ".Params.price" "desc") }}
+{{/* With every price dropped as unverifiable, the priced ranking is empty. An
+     empty homepage column reads as a broken site, so fall back to top-rated —
+     the column is labelled "Editor's Favourite", not "most expensive". */}}
+{{ if eq (len $monthTop3) 0 }}
+  {{/* Nobody has been published with a current date in 30 days (the pipeline
+       writes historical `date:` values), so "this month" is empty and the
+       column reads "No reviews this month" on the live homepage. Fall back to
+       the newest posts overall by rating — never to an empty state. */}}
+  {{ $monthTop3 = first 3 (sort (first 30 $newest) ".Params.amazon_rating" "desc") }}
+{{ end }}
 
 <!-- Hero Banner (weekly rotation) -->
 <section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
@@ -144,7 +154,7 @@
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
             {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-            <p class="vc-summary">{{ .Summary | plainify | truncate 80 }}</p>
+            <p class="vc-summary">{{ .Plain | plainify | truncate 80 }}</p>
           </div>
         </div>
         {{ end }}
@@ -164,7 +174,7 @@
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
             {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-            <p class="vc-summary">{{ .Summary | plainify | truncate 60 }}</p>
+            <p class="vc-summary">{{ .Plain | plainify | truncate 60 }}</p>
           </div>
         </div>
         {{ end }}
@@ -227,7 +237,7 @@
           <span class="vg-category">{{ .CurrentSection.Title }}</span>
           <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
           {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-          <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
+          <p class="vg-summary">{{ .Plain | plainify | truncate 80 }}</p>
         </div>
       </div>
       {{ end }}

@@ -91,7 +91,7 @@
     "@type" "Article"
     "@id" (printf "%s#article" .Permalink)
     "headline" .Title
-    "description" ((.Params.meta_description | default (.Summary | plainify)) | truncate 160)
+    "description" ((.Params.meta_description | default (.Plain | plainify)) | truncate 160)
     "datePublished" $datePublished
     "dateModified" ($datePublished)
     "author" (dict
@@ -196,7 +196,7 @@
     "author" (dict "@type" "Organization" "name" "The Shopper's Verdict")
     "publisher" (dict "@type" "Organization" "name" "The Shopper's Verdict")
     "datePublished" ($datePublished)
-    "reviewBody" (.Summary | plainify | truncate 500)
+    "reviewBody" (.Plain | plainify | truncate 500)
   -}}
   {{- with .Params.verdict_score -}}
     {{- $ourReview = merge $ourReview (dict "reviewRating" (dict
