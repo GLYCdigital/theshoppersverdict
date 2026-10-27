@@ -417,6 +417,25 @@ def validate_generated_post(path):
         return f"body too short: {words} words (shell post?)"
     if "dp/None" in body:
         return "dead affiliate link: /dp/None/"
+    # Fabricated-rating guard (2026-10-27 audit): review_count in this corpus is
+    # not measured — it is a ladder keyed to the star rating (8 values cover 89%
+    # of 25.8k pages). A count that arithmetic can derive is not an observation.
+    rating = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
+    count = re.search(r"(?m)^review_count:\s*(\d+)", text)
+    verdict = re.search(r"(?m)^verdict_score:\s*([\d.]+)", text)
+    if rating and count:
+        r = float(rating.group(1))
+        ladder = max(150, 150 + 5 * round((r - 3.0) * 10))
+        if int(count.group(1)) == ladder:
+            return (
+                f"review_count {count.group(1)} looks derived from amazon_rating {r:g} "
+                f"(ladder value {ladder}) — needs an observed count"
+            )
+        if verdict and abs(float(verdict.group(1)) - r) < 0.05:
+            return (
+                f"amazon_rating {r:g} equals verdict_score — Amazon rating must be "
+                "observed, not copied from our own verdict"
+            )
     price = re.search(r"(?m)^price:\s*(.+)$", text)
     if price:
         val = price.group(1).strip().strip('"')
