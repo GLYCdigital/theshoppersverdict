@@ -139,28 +139,55 @@
   -}}
   {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
 
-  {{- /* Offer */ -}}
-  {{- $offer := dict
-    "@type" "Offer"
-    "priceCurrency" "USD"
-    "availability" "https://schema.org/InStock"
-    "hasMerchantReturnPolicy" (dict
-      "@type" "MerchantReturnPolicy"
-      "applicableCountry" "US"
-      "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
-      "merchantReturnDays" 30
-      "returnMethod" "https://schema.org/ReturnByMail"
-      "returnFees" "https://schema.org/FreeReturn"
-    )
-    "seller" (dict "@type" "Organization" "name" "Amazon.com")
-  -}}
-  {{- with .Params.amazon_url -}}
-    {{- $offer = merge $offer (dict "url" .) -}}
+  {{- /* Offer — only when we actually hold a numeric price.
+         An Offer without `price` is invalid schema (price is required) and, worse,
+         asserts availability + a return policy we cannot support from a page that
+         quotes no price. Previously this block shipped unconditionally, so ~24.6k
+         price-less reviews emitted a priceless US offer. */ -}}
+  {{- $priceStr := printf "%v" (.Params.price | default "") -}}
+  {{- if findRE "^[0-9]+(?:\\.[0-9]+)?$" $priceStr -}}
+    {{- /* Currency, country and seller must follow the marketplace, never hardcoded. */ -}}
+    {{- $amazonURL := .Params.amazon_url | default "" -}}
+    {{- $currency := "USD" -}}
+    {{- $country := "US" -}}
+    {{- $sellerName := "Amazon.com" -}}
+    {{- if in $amazonURL "amazon.sg" -}}
+      {{- $currency = "SGD" -}}
+      {{- $country = "SG" -}}
+      {{- $sellerName = "Amazon.sg" -}}
+    {{- else if in $amazonURL "amazon.co.uk" -}}
+      {{- $currency = "GBP" -}}
+      {{- $country = "GB" -}}
+      {{- $sellerName = "Amazon.co.uk" -}}
+    {{- else if in $amazonURL "amazon.ca" -}}
+      {{- $currency = "CAD" -}}
+      {{- $country = "CA" -}}
+      {{- $sellerName = "Amazon.ca" -}}
+    {{- else if in $amazonURL "amazon.com.au" -}}
+      {{- $currency = "AUD" -}}
+      {{- $country = "AU" -}}
+      {{- $sellerName = "Amazon.com.au" -}}
+    {{- end -}}
+    {{- $offer := dict
+      "@type" "Offer"
+      "price" $priceStr
+      "priceCurrency" $currency
+      "availability" "https://schema.org/InStock"
+      "hasMerchantReturnPolicy" (dict
+        "@type" "MerchantReturnPolicy"
+        "applicableCountry" $country
+        "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
+        "merchantReturnDays" 30
+        "returnMethod" "https://schema.org/ReturnByMail"
+        "returnFees" "https://schema.org/FreeReturn"
+      )
+      "seller" (dict "@type" "Organization" "name" $sellerName)
+    -}}
+    {{- with .Params.amazon_url -}}
+      {{- $offer = merge $offer (dict "url" .) -}}
+    {{- end -}}
+    {{- $product = merge $product (dict "offers" $offer) -}}
   {{- end -}}
-  {{- with .Params.price -}}
-    {{- $offer = merge $offer (dict "price" (. | string)) -}}
-  {{- end -}}
-  {{- $product = merge $product (dict "offers" $offer) -}}
 
   {{- /* Review (one from us) */ -}}
   {{- $ourReview := dict
