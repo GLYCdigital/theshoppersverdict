@@ -22,9 +22,6 @@ cons:
   - "AM5 platform requires DDR5 RAM and a newer motherboard, so total platform cost is higher than older AM4 builds"
 
 ---
-
-**Review Body:**
-
 The AMD Ryzen 5 unlocked desktop processor line has become the default recommendation for anyone building a serious work machine on a budget — and after digging through 240 Amazon ratings averaging 4.8 out of 5, I can tell you the hype is mostly justified. But "mostly" is doing a lot of work here. Let's break down what you're actually getting.
 
 **What's in the box**

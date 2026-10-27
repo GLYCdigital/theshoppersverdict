@@ -20,7 +20,6 @@ cons:
   - "Runs at 4800MT/s baseline; you’ll leave performance on the table without a 5600MT/s-capable CPU"
   - "No heat spreader — relies on server chassis airflow, not ideal for cramped desktop towers"
 ---
-
 ## Is This the Right Memory for Your Server? Probably.
 
 Most RAM listings are a gamble. You buy a brand name, but the chips inside might be sourced from whoever bid lowest that week. That’s not the case here. This is a genuine Samsung OEM part—the exact module you’d find pre-installed in a Dell PowerEdge or HPE ProLiant. If your workload involves databases, virtualization, or heavy compilation, this is the boring, reliable choice that just works.

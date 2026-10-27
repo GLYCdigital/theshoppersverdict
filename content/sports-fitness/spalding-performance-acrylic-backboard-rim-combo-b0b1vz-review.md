@@ -19,7 +19,6 @@ cons:
   - "Acrylic scratches relatively easily — keep the protective film on until final assembly and avoid metal scrapers"
   - "Mounting brackets feel lighter gauge than the board; use heavy-duty lag bolts (not included) for wall mounts"
 ---
-
 ## The Spalding Name Carries Weight, But Does the Board Deliver?
 
 When you see "Spalding" on a backboard, expectations go up. The company has been making basketball equipment since 1894, and their Performance Acrylic Backboard & Rim Combo is positioned as the serious home-gamer's upgrade from the flimsy plastic boards that come with most portable hoops. After digging through the specs and 215 Amazon ratings, here's the honest breakdown.

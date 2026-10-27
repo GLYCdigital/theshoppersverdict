@@ -22,9 +22,6 @@ cons:
   - "No cover plate included — exposed wiring is visible if you mount it flush"
 
 ---
-
-**Review Body:**
-
 You've got a ceiling light socket doing absolutely nothing, and you're one trip to the hardware store away from paying an electrician $150 to add an outlet. Stop. This $12 adapter turns that useless E26 bulb socket into two live outlets in about ninety seconds — no wire nuts, no voltage tester, no permits.
 
 **What you actually get**

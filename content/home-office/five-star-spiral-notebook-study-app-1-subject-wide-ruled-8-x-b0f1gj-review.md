@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Most notebooks are an afterthought. You grab the cheapest spiral on the shelf, scribble for a semester, and recycle it without a second glance. The Five Star 1-Subject notebook with Study App integration is trying to change that equation — and for once, the gimmick actually pulls its weight.
 
 **What You Actually Get**

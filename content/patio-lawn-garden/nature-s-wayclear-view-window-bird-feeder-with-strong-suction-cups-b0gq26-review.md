@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 If you've ever tried to birdwatch from your kitchen table, you know the drill: binoculars, craned neck, and a feeder hung 30 feet away where you can't actually see anything. The Nature's Way Clear View Window Feeder fixes that by putting the buffet literally on the glass. But "suction cup feeder" is a category littered with products that fall off the window at the first gust of wind. Does this one hold up? After digging through 229 ratings and the design specifics, here's the real story.
 
 **What You Actually Get**

@@ -20,7 +20,6 @@ cons:
   - "The freeze-drying process slightly mutes the pungent, fermented aroma that natto purists expect"
   - "Price per serving runs notably higher than refrigerated natto at Japanese grocers"
 ---
-
 **The Verdict: 4.2/5 — Buy it if you need shelf-stable natto; skip it if you're a purist with a fridge nearby.**
 
 Natto is an acquired taste that most Westerners never bother acquiring. But if you're reading this, you probably already know whether you're in the "love it" camp. The real question with YAMASAN KYOTO UJI's freeze-dried version is whether the convenience trade-off is worth it. Short answer: for travelers, office workers, and emergency-stash preppers, absolutely. For anyone with a Japanese grocery store within 20 minutes, probably not.

@@ -19,7 +19,6 @@ cons:
   - "Texture is rough underfoot — barefoot lounging on it isn't comfortable"
   - "Thin material means it's not padded; you'll feel every pebble underneath"
 ---
-
 ## Is This the Camping Rug You've Been Looking For?
 
 Here's the thing about outdoor rugs: most of them are either pretty but useless in rain, or durable but ugly enough to ruin your campsite vibe. The sarben Outdoor Rug tries to split the difference with woven plastic straw construction that's explicitly marketed as waterproof. After digging through 210 ratings and buyer feedback, here's what you need to know before you spend your money.

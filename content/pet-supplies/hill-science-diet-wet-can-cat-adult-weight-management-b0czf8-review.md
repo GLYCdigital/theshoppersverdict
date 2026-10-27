@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Let's be direct: overweight cats are the norm now, not the exception. The Association for Pet Obesity Prevention estimates over 60% of U.S. cats are clinically overweight. If your vet has flagged your cat's weight, you're likely staring at a shelf of "light" and "weight management" foods wondering which ones actually work. Hill's Science Diet Adult Weight Management wet cat food is one of the most commonly recommended options — but is it worth the premium price?
 
 **What you're actually getting**

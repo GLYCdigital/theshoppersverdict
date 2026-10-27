@@ -19,7 +19,6 @@ cons:
   - "The green wire is noticeable against white trim or ice-white LED themes; it's not a clear/white wire option."
   - "At 50 bulbs per 13-foot string, the bulb density is lower than premium sets—some buyers want tighter spacing."
 ---
-
 ## Are These 13-Foot Strings Actually Worth Hanging?
 
 Most budget light sets force you into a compromise: either they look cheap or they fail by New Year's. The **woohaha Mini Christmas Lights** (2-pack, 13ft, 50 count) try to split the difference at a price point that undercuts big-box store brands. After digging through 220 ratings and the specs, here's the real story.

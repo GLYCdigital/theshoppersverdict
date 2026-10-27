@@ -21,9 +21,6 @@ cons:
   - "No sidewalls included; you'll pay nearly half the tent's price again if you want branded walls for wind protection"
 
 ---
-
-**Review Body:**
-
 If you've priced custom canopy tents before, you know the drill: most companies charge $400–$600, take two weeks to ship, and make you upload a logo file into a clunky design tool that spits out a proof you can barely read. The CUSTOMTREND 10x10 flips that script — it lands at a mid-range price point, ships fast, and gives you a full-bleed print with no white margins. But does the quality hold up when the sun hits it and the wind picks up? After digging through 225 ratings and the spec sheet, here's the real story.
 
 **What you actually get**

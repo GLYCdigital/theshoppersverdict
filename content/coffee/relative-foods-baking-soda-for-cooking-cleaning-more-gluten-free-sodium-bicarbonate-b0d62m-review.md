@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Walk into any grocery store and you'll find baking soda for under a dollar. So why would anyone spend more on Relative Foods? Because not all sodium bicarbonate is created equal — and if you're using it in your coffee routine, the difference matters more than you think.
 
 I tested this alongside my usual box of Arm & Hammer, and the short version is this: Relative Foods delivers a noticeably finer, purer powder with zero metallic aftertaste. Whether that justifies the price jump depends entirely on how you plan to use it. Let me break down what you're actually getting.

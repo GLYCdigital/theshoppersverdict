@@ -20,7 +20,6 @@ cons:
   - "Some flavors (especially Lemon-Lime) can taste slightly more artificial than the bottled version"
   - "No scoop or measuring aid; you're locked into the stick's fixed serving size"
 ---
-
 Look, I'll be straight with you: I initially expected this to be another coffee review, but the product in front of me is Gatorade Thirst Quencher Powder Sticks — single-serve electrolyte drink mix packets. And honestly, that's a more interesting product to dissect anyway. At 4.7 stars across 235 ratings, shoppers are clearly buying these in bulk. The question is whether they're actually worth it compared to the tubs, the bottles, or the generic store-brand alternatives.
 
 ## What You're Actually Getting

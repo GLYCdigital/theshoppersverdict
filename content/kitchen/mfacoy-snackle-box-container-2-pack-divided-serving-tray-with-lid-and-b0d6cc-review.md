@@ -20,7 +20,6 @@ cons:
   - "Dishwasher washing fogs the plastic over time; hand washing is recommended for clarity."
   - "The latch hinges are the weakest point; they work fine but feel like they could snap if you torque them open carelessly."
 ---
-
 Let’s be honest: the term "snackle box" sounds like a TikTok fad. But the Mfacoy 2-Pack Divided Serving Tray is actually a utility player that solves a real problem — how to pack a grazing board that survives a car ride or a desk drawer without turning into a mess. After testing these for two weeks, I can tell you they are more than just a pretty charcuterie vessel.
 
 **What You Actually Get**

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You know that moment when you buy an "educational toy" and your kid plays with the box for 20 minutes, then ignores the actual product? The Learning Resources Alphabet Soup Sorters (208 pieces, ages 3+) is not that toy. This is the rare phonics set that earns its 4.7-star rating across 235 Amazon reviews — and honestly, it deserves most of them.
 
 Here's what you're actually getting: 26 cardboard soup cans (one per letter), each with a lid, 52 letter dice, 156 double-sided photo cards (6 vocabulary words per letter), and 26 picture cards. The "soup" concept is clever — kids drop the correct cards and dice into the matching can. It's a sorting activity disguised as play, which is exactly what you want at this age.

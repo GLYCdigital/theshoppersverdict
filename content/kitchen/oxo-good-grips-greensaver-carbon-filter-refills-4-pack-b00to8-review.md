@@ -19,9 +19,6 @@ cons:
   - "Must be replaced every 3 months regardless of use; easy to forget the date."
   - "Only fits OXO GreenSaver containers—not a universal carbon filter."
 ---
-
-**Review Body**
-
 You bought the OXO GreenSaver container because you were tired of throwing away slimy herbs and wilted lettuce. It worked great—for a while. Then the magic faded. That’s not the container failing; that’s the carbon filter dying. This 4-pack is the lifeblood that brings your produce keeper back from the dead.
 
 **What You Actually Get**

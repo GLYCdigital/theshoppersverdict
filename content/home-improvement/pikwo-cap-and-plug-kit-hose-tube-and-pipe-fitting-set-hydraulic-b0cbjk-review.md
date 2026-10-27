@@ -19,7 +19,6 @@ cons:
   - "No O-ring seals included for the caps; you'll need to source them separately if you want a leak-proof seal on JIC fittings."
   - "The zinc plating is functional but not show-quality; it will show wear with heavy wrench use."
 ---
-
 Every toolbox has that drawer—the one full of mismatched plugs, rusty bolts, and mystery caps you swear you'll use someday. The Pikwo Cap and Plug Kit is designed to eliminate that chaos. This is a 4.8-star rated kit with 240 ratings, and after digging into the specs and user feedback, it's clear why it's a favorite among hydraulic repair folks and equipment owners. But is it the right kit for you? Let's break down what you're actually getting.
 
 ### What You Get in the Box

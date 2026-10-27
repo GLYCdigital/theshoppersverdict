@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You'd think a 12-cup programmable coffee brewer from a brand like Ninja would be a slam dunk. But with a 3.3-star average across 165 ratings, this machine has a split personality. Some buyers swear it makes the best drip coffee they've owned. Others are ready to throw it out the window over a dripping carafe. Here's the real breakdown.
 
 **What You Actually Get**

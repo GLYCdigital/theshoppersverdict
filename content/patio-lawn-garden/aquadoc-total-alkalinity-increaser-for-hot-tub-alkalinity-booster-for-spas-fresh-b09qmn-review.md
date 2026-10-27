@@ -21,9 +21,6 @@ cons:
   - "Sodium bicarbonate can cause temporary whitish film on heater elements if poured directly into the skimmer"
 
 ---
-
-**Review Body:**
-
 Most hot tub owners discover alkalinity the hard way — after a weekend of itchy skin, cloudy water, and a pH reading that swings like a pendulum. The AquaDoc Total Alkalinity Increaser exists to fix that specific headache, and at 4.7 stars across 235 ratings, it's clearly doing something right. But is it the right alkalinity booster for your spa? Let's break down what you're actually buying.
 
 **What's in the bucket**

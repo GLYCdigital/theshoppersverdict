@@ -19,7 +19,6 @@ cons:
   - "Bare tool only—the high price tag feels steeper when you factor in the cost of M18 batteries and charger."
   - "The ½-inch chuck is noticeably heavier than the previous generation, which can cause fatigue during overhead work."
 ---
-
 Let’s cut the noise. If you’re on job sites, you know the M18 Fuel line is the gold standard. But does the 1/4" Hex Impact Driver (model 2853-20) actually live up to the hype, or are you just paying for a red logo? I tested this thing against lug nuts, structural screws, and a few stubborn deck boards. Here’s the real story.
 
 **What’s in the Box (and What’s Not)**

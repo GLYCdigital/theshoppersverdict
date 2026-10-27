@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 Most toddler toys fall into two camps: the ones that bore your kid after a week, and the ones that take over your living room. The Simplay3 Two Sided Rock Around Wobble Disk and Climbing Dome sits in a rare third category — it earns its floor space. This is a 22-pound piece of molded plastic that does double duty, and at a 4.7-star average across 235 ratings, parents are mostly thrilled. But "mostly" carries some caveats worth knowing before you click buy.
 
 **What You Actually Get**

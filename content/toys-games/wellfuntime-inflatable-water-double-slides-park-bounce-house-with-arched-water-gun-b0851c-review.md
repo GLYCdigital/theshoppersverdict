@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You’ve seen the product image: a sprawling inflatable castle with twin 10-foot slides, a climbing wall, and that arched water gun spraying into a splash pool. It looks like the kind of thing that turns a boring Saturday into a neighborhood event. But at a 4.1-star average from 204 ratings, the real question is: does it hold up after the novelty wears off? I’ve dug through the feedback, the specs, and the common failure points so you don’t have to.
 
 **What You Actually Get**

@@ -20,7 +20,6 @@ cons:
   - "The included cutting discs are thin and consumable; heavy users will burn through them faster than expected"
   - "Some bits show minor runout (wobble) at high RPM, noticeable on precision engraving work but fine for general grinding"
 ---
-
 Let’s be real: buying a rotary tool accessory kit is a gamble. You’re either paying for a handful of useful bits buried in a sea of plastic, or you’re getting a genuinely complete system that saves you from six separate trips to the hardware store. The SHALL 508-piece kit leans hard toward the latter, and with a 4.7-star average across 235 ratings, it’s clearly earning its keep in a lot of workshops. But don’t mistake "comprehensive" for "perfect."
 
 ## What You Actually Get

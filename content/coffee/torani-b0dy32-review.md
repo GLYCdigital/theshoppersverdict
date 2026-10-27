@@ -19,7 +19,6 @@ cons:
   - "Classic syrup is sweetener-forward; if you want sugar-free, you need to buy the separate SF line"
   - "Flavor intensity varies by variety — some need more pumps than the label suggests"
 ---
-
 Let's be honest: most flavored coffee syrups taste like the liquid version of a scented candle. Torani is not most syrups.
 
 This is the brand you've already tasted — whether you knew it or not. Walk into any coffee shop that isn't a national chain, and there's a good chance the vanilla or caramel in your latte came from one of those tall, colorful bottles. Torani has been making flavored syrups since 1925, and they've essentially become the default for cafes that want reliable flavor without the proprietary Starbucks-style supply chain.

@@ -19,7 +19,6 @@ cons:
   - "The 5-minute steep produces a light-bodied tea; if you prefer a strong, bold sun-tea flavor, you'll need to let it steep for 10–15 minutes."
   - "The family-size box only contains 16 bags—if you're making a pitcher daily, you'll be reordering more often than you'd like."
 ---
-
 **The Shortcut That Doesn't Taste Like a Shortcut**
 
 Most "cold brew" iced tea is a marketing gimmick that delivers weak, watery results. The Lipton Cold Brew Iced Tea Bags are the exception. At 4.8 stars from 240 ratings, this isn't hype—it's a product that solves a genuine problem: making iced tea without boiling water, waiting for it to cool, and dealing with that bitter, cloudy mess hot-brewed tea becomes when it hits ice.

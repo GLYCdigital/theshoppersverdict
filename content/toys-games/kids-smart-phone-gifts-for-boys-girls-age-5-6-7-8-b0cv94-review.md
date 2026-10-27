@@ -20,9 +20,6 @@ cons:
   - "Touchscreen responsiveness is finicky; requires firm presses, which frustrates younger kids."
   - "Battery life is average—expect a full charge to last only 4-5 hours of active play."
 ---
-
-**Review Body**
-
 Let’s be honest: handing a real smartphone to a 6-year-old is a recipe for cracked screens, accidental purchases, and YouTube rabbit holes. That’s precisely why toys like this "Kids Smart Phone" exist. But with a 4.2-star average from 210 buyers, is this the right fake phone for your kid, or just another piece of plastic that ends up in the toy bin by Tuesday?
 
 I’ve dug through the specs, the user feedback, and the real-world quirks to give you the straight story.

@@ -19,9 +19,6 @@ cons:
   - "Old Bay flavor is polarizing; if you hate celery salt, this is not for you"
   - "Some users report inconsistent seasoning—some handfuls are hotter than others"
 ---
-
-**Review Body**
-
 Let’s cut the chase: You already know what Goldfish are. The question is whether the **Old Bay Seasoned** variant is a novelty gag or a legit pantry staple. I’ve tested the 27.3-ounce bulk carton for a week—here’s what you need to know before you add it to your cart.
 
 **What You’re Actually Getting**

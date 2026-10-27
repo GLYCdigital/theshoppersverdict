@@ -19,9 +19,6 @@ cons:
   - "Plastic surface scratches visibly under heavy metal cookware or sharp objects"
   - "Lower weight capacity than advertised if you put weight near the edge rather than center"
 ---
-
-**Review Body**
-
 You don't need a $300 camping table to solve the "where do I put the drinks" problem. The OS MOTOR Round Folding Table sits firmly in the budget-friendly sweet spot—it's not the sturdiest table you'll ever own, but it punches well above its weight class for the price. With a 4.2-star average across 210 ratings, it's clearly doing something right. Let's break down whether that something is enough for your specific use case.
 
 **What You Actually Get**

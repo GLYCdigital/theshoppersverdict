@@ -22,9 +22,6 @@ cons:
   - "Not ideal for delicate surfaces like painted wood or soft vinyl without testing in an inconspicuous spot first"
 
 ---
-
-**The Review Body:**
-
 You know that green-black film that creeps across your patio pavers every spring? The one that laughs at a pressure washer and shrugs off bleach? The CM-5.3 Cyclone Chain Scrubber is the brute-force answer to that problem. It's a deceptively simple tool — a pole with chains on the end — that does what chemicals and sprayers often can't: physically scrape the grime off.
 
 **What You Actually Get**

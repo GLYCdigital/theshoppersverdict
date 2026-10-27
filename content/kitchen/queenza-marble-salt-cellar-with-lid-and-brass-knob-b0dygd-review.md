@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Most salt cellars are either cheap ceramic knockoffs that chip within months or glass jars that make your counter look like a lab bench. The Queenza Marble Salt Cellar sits in a different category entirely — it's a genuine slab of quarried marble, cut, shaped, and finished by hand, with a solid brass knob that feels like it belongs on a piece of heirloom furniture.
 
 **What You Actually Get**

@@ -21,9 +21,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 You're standing in the pet food aisle with a 90-pound Labrador pulling at the leash and a wallet that's already feeling lighter. Here's the question that actually matters: Is Hill's Science Diet Large Breed Premium Nutrition worth the premium, or is it just marketing wrapped in a recognizable bag?
 
 **What's Actually in the Bag**

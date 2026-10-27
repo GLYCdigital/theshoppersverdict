@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Let’s be honest: most hair ties are an afterthought. You grab a black elastic from the bottom of a drawer, yank it in, and spend the rest of the day fighting a crease or a headache. The Heliums Small Soft Hair Ties in Blonde are not that. These are the hair ties you *notice* because they disappear — visually and physically.
 
 I tested the 1-inch mini nylon bands over two weeks on fine, straight hair. The first thing that stands out is the color. As shown in the product image, the blonde tone is a soft, muted beige — not a brassy yellow or a weird gray. On light hair, it genuinely vanishes. One reviewer put it simply: *"Finally, a band I can wear to the office without looking like I raided a teenager's bathroom."* That's the core appeal, and it delivers.

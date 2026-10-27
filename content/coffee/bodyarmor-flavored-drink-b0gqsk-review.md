@@ -22,9 +22,6 @@ cons:
   - "No caffeine — if you're replacing your pre-workout or afternoon coffee, this won't give you that lift"
 
 ---
-
-**Review Body**
-
 You're reading this because you've seen BODYARMOR's bright bottles in every gas station cooler and wondered if the hype matches the hydration. Here's the honest truth after digging through 225 verified ratings and the full product spec sheet: this is the sports drink you buy when you want actual electrolytes without the neon-dye aftertaste — but it's not the coffee replacement some marketing implies.
 
 **What you're actually getting**

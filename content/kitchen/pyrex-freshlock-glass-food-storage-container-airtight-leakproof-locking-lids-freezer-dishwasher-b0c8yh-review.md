@@ -19,9 +19,6 @@ cons:
   - "The locking tabs require firm pressure to close; folks with arthritis or weak grip will struggle."
   - "Glass base is noticeably heavier than comparable Snapware or Rubbermaid options—not ideal for packed lunches."
 ---
-
-**Review Body**
-
 You’ve been burned before by "leakproof" lids that betray you in a backpack. I get it. The Pyrex Freshlock line aims to fix that with a four-tab locking system and a silicone gasket. After testing the 3-cup round container for a week of soups, leftovers, and meal prep, here’s the unfiltered truth.
 
 **What You Actually Get**

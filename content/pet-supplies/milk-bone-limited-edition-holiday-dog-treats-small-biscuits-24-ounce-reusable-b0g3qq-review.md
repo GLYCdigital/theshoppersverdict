@@ -19,7 +19,6 @@ cons:
   - "Only available seasonally — if your dog falls in love, you're waiting until next November"
   - "Holiday shapes are cosmetic; flavor is identical to the original recipe, so don't expect novelty"
 ---
-
 ## The Seasonal Treat That Dogs Recognize Instantly
 
 Here's the thing about Milk-Bone: it's been the default dog biscuit for over a century because it *works*. The Limited Edition Holiday version doesn't reinvent the wheel — it just puts a snowman on it. And honestly, that's exactly what most dog owners want. If your pup already does tricks for the classic brown biscuit, these holiday-shaped small biscuits will get the same tail-wagging response, just with more seasonal charm.

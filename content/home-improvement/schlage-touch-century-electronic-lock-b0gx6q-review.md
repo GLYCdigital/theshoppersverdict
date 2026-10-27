@@ -20,7 +20,6 @@ cons:
   - "The touchscreen is responsive but smudges easily; you will be wiping fingerprints off the glossy black finish weekly."
   - "Backlit numbers are bright at night but can be hard to read in direct afternoon sunlight."
 ---
-
 ### The Schlage Touch Century: A Smart Lock for People Who Don't Want "Smart" Problems
 
 Most electronic locks on Amazon scream "tech gadget." They have glowing rings, app logos, and voice assistants built in. The Schlage Touch Century takes the opposite approach. It looks like a classic, high-end mechanical lever—until you touch it and realize the entire front face is a hidden keypad. That design philosophy is both its biggest strength and its most significant limitation. Let’s dig into whether this "dumb" smart lock is the right call for your front door.

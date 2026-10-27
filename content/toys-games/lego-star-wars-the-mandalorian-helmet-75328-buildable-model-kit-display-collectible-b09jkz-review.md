@@ -20,7 +20,6 @@ cons:
   - "The helmet's interior is hollow — visible from the back, so it's strictly a front-facing display piece"
   - "Some repetitive sections, particularly the lower mandible, can feel monotonous for experienced builders"
 ---
-
 **Is the LEGO Mandalorian Helmet 75328 worth your credits? Here's my honest take after building it.**
 
 This is the way. Or at least, this is the way to get a premium Star Wars display piece without shelling out for a life-size prop. The LEGO Star Wars The Mandalorian Helmet 75328 sits in the "Adult" helmet line (alongside Boba Fett, Darth Vader, and the Dark Trooper), and it's designed to look good on a shelf, not to be played with. At 584 pieces, it's a mid-sized set that retails around $60–70, and it's been out since March 2022 — long enough that we have solid buyer data. With a 4.9/5 average across 245 ratings, it's clearly doing something right. But is it right for *you*? Let's dig in.

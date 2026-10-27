@@ -19,7 +19,6 @@ cons:
   - "The strong 'earthy' smell right after potting can be off-putting for several days in small spaces"
   - "Some bags arrive with excess moisture — a few reviewers report clumping or gnats in storage"
 ---
-
 Let’s be blunt: the biggest mistake new houseplant owners make is grabbing a bag of garden soil for their indoor pots. It compacts, drains terribly, and often carries outdoor pests. Miracle-Gro’s Indoor Potting Mix is designed to address that specific problem. But does it actually deliver, or is it just marketing on a green bag? I dug through the specs, the 200+ Amazon ratings, and the real-world feedback to give you the straight answer.
 
 **What You Actually Get**

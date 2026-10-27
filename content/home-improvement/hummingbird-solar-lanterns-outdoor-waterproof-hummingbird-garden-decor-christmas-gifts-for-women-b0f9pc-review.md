@@ -19,7 +19,6 @@ cons:
   - "Battery capacity is modest; in winter or heavy shade, you'll get fewer hours of light per night"
   - "The hanging hook is integrated but short—doesn't fit over thicker pergola beams without a separate S-hook"
 ---
-
 If you’re scrolling for the millionth time looking for garden lighting that doesn’t look like a cheap plastic toy, stop. The **Hummingbird Solar Lanterns** are the rare outdoor decor piece that actually looks like it costs more than it does. With a 4.6-star average across 229 ratings, these aren't flying under the radar. But are they genuinely good, or just pretty in the product photos? Here’s the breakdown after digging into the specs and real buyer feedback.
 
 ### What You Actually Get

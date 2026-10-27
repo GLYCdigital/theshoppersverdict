@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You’ve seen the hard candies. You’ve sucked on them until your tongue changed color. But the JOLLY RANCHER Assorted Fruit Flavored Gummy Candy takes that iconic flavor profile and translates it into a soft-chew format that’s surprisingly faithful — and dangerously snackable.
 
 This 5-pound bulk bag is a Halloween strategy play. At roughly 240 pieces per bag (based on the 9.5-gram serving size), you’re looking at enough candy for 60 to 80 trick-or-treaters depending on how generous you’re feeling. That’s the math that matters on October 31st, and it’s why this bag consistently lands in shopping carts.

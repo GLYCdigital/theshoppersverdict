@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 You've got a wok screaming hot, garlic hitting the oil, and you reach for the soy sauce. What you grab in that moment decides everything. Pearl River Bridge has been the answer in Chinese kitchens for over a century, and this bottle holds up that reputation — mostly.
 
 **What You Actually Get**

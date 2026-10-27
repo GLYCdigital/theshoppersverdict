@@ -19,7 +19,6 @@ cons:
   - "Michael's office is smaller than expected — the glass walls make it feel cramped compared to the TV show's actual set"
   - "No sound brick or audio features — for a set this detailed, a quote button would've pushed it over the top"
 ---
-
 **The Verdict: Buy It If You're a Fan, Skip It If You're a Builder**
 
 Let me be direct: this set is 90% nostalgia and 10% LEGO engineering, and that's exactly why it works. If you've ever laughed at Dwight's beet farm obsession or cringed at Michael's "That's what she said" timing, the LEGO Ideas The Office 21336 delivers the show's soul in brick form. But if you're a pure LEGO enthusiast looking for complex building techniques, you might find this one a bit simple. Here's the real breakdown.

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 ## Solid Gold Dry Dog Food: The Senior Dog Formula That Actually Delivers
 
 Most "senior" dog foods are just adult formulas with a lower price tag and a marketing sticker. Solid Gold's Adult & Senior formula is different—it's built around a single protein source (real deboned meat first on the ingredient list) and a grain blend designed for older digestive systems.

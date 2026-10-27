@@ -22,9 +22,6 @@ cons:
   - "Contains palm oil and processed ingredients; clean-label shoppers will want to look elsewhere"
 
 ---
-
-**Review Body**
-
 Most breakfast biscuits are a lie — they taste like sweetened cardboard and leave you hungry by 9:30 AM. The Belvita Blueberry Breakfast Biscuits, 25-count, 44-ounce box, are the rare exception that mostly delivers on their promise. With a 4.6-star average across 229 ratings, these have clearly found their audience. Here's who that audience is — and isn't.
 
 **What you actually get**

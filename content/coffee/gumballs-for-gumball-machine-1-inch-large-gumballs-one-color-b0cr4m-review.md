@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 Let's be honest: a 1-inch gumball is a commitment. That's not a snack — that's a jaw workout. And for the 200 Amazon shoppers who've rated this bag at 4.0 stars, that's exactly the point.
 
 These are **large-format gumballs**, the kind you see in classic coin-operated machines at old-fashioned candy shops. If you're expecting the dime-sized pebbles from a checkout-aisle vending machine, recalibrate. At a full inch across, each ball is roughly the size of a ping-pong ball. As one buyer put it, *"These things are huge — my kids thought they were jawbreakers at first."* That's the appeal.

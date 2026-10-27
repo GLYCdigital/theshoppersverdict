@@ -19,7 +19,6 @@ cons:
   - "Requires 4+ players to feel balanced; the buzzer system falls flat with just 2 people"
   - "Question cards skew heavily toward pop culture and US-centric knowledge — international families may feel left out"
 ---
-
 Most trivia board games feel like a slow crawl through a textbook. Outsmarted does something different: it actually captures the chaotic, heart-racing energy of a TV quiz show, right there on your coffee table. And with 225 Amazon ratings averaging 4.5 stars, it's clear I'm not the only one who's noticed.
 
 ## What's Actually in the Box

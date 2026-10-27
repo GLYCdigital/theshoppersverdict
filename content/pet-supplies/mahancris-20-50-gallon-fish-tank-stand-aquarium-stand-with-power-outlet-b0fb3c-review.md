@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 **Is a cheap stand going to end up as a wet floor and a dead fish tank? Let's talk about the MAHANCRIS 20-50 gallon stand.**
 
 Here's the thing about aquarium stands: they're the most ignored piece of kit in the hobby, and the most dangerous to cheap out on. A 40-gallon breeder tank filled with water weighs roughly 450 pounds. That's a small motorcycle sitting on four wooden legs. If the stand twists, racks, or swells, your tank cracks. Period.

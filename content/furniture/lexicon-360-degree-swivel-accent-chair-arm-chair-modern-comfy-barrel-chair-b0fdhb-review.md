@@ -20,9 +20,6 @@ cons:
   - "The fabric is breathable but not pet-claw-proof; cat owners may see pulls in the weave over time."
   - "Sits slightly low (17-inch seat height), which may be a challenge for taller individuals getting up."
 ---
-
-**Review Body**
-
 Most accent chairs are static. They look nice, but they force you to twist your torso to grab a drink from the side table or talk to someone across the room. The **Lexicon 360-Degree Swivel Accent Chair** solves that specific problem with a base that actually rotates smoothly. But is it worth your floor space? After digging through the specs and 225 buyer ratings, here’s the real story.
 
 **What You Actually Get**

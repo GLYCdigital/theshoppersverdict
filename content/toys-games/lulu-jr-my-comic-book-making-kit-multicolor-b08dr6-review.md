@@ -19,7 +19,6 @@ cons:
   - "The included markers and pencils are basic beginner quality; serious young artists will want to upgrade to their own supplies."
   - "The kit encourages drawing directly on the templates, so a single mistake means starting that page over — no do-overs."
 ---
-
 **Is this the gift that turns a doodler into a published author, or just another craft kit that gets shoved in a closet? After digging through 229 ratings and the product specs, here’s the real story.**
 
 Most "make your own book" kits are glorified staplers. They give you blank paper, some stickers, and a flimsy cover. The Lulu Jr. kit is different because it ends with a **real, bound paperback book** that arrives in the mail. That single feature changes the entire value proposition.

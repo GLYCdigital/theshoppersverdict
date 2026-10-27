@@ -21,9 +21,6 @@ cons:
   - "Cable is on the shorter side (4 ft); you'll need an extension for anything beyond a desktop capture station"
 
 ---
-
-**Review Body**
-
 Most people don't think about AV cables until the moment they need one — usually when they're staring at a vintage camcorder with a dead battery and a stack of MiniDV tapes that hold family history. The Eanetf 3.5mm to RCA AV cable exists for exactly that moment, and it does the job with fewer headaches than the $6 no-name alternatives.
 
 **What you actually get**

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You’ve seen the 4.4-star rating and 220 reviews on Amazon. You’re wondering if Kitchen Kurume’s Ramen Broth Concentrate is actually worth the shelf space in your pantry or if it’s another overhyped instant hack. I tested all 10 pouches across a week of lunches and late-night cravings. Here’s the unvarnished truth.
 
 **What You Actually Get**

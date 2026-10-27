@@ -19,7 +19,6 @@ cons:
   - "Stethoscope is purely decorative — no actual sound function"
   - "Small syringe and thermometer pieces are choking hazards for under-3s"
 ---
-
 **The Short Version: A vet kit that actually gets played with.**
 
 Most pretend-play sets end up scattered under the couch within a week. This one doesn't. The Melissa & Doug FPet Care Play Set has been a consistent bestseller in the brand's pretend play lineup, and the 4.8-star average across 240 ratings reflects something real: kids return to this set. The plush puppy has actual weight and softness — it's not a flimsy afterthought. The 24 pieces feel intentional. But it's not perfect, and the two main drawbacks are worth knowing before you buy.

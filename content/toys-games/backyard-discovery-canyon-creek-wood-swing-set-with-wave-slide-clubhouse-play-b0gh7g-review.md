@@ -22,9 +22,6 @@ cons:
   - "Slide attachment brackets can loosen within months; expect to re-tighten or add washers"
 
 ---
-
-**Review Body:**
-
 The Backyard Discovery Canyon Creek is a swing set that occupies an awkward middle ground: it's priced above entry-level kits but below the heavy-duty cedar sets that last a decade. That positioning shows in both the good and the frustrating. After digging through 185 verified buyer experiences, here's the unvarnished truth.
 
 **What You're Actually Getting**

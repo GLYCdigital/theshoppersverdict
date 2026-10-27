@@ -21,9 +21,6 @@ cons:
   - "No storage box included — books arrive loose in a plastic bag"
 
 ---
-
-**Review Body:**
-
 If you've ever watched a preschooler dissolve into giggles at a pigeon throwing a tantrum about driving a bus, you already know Mo Willems isn't just an author — he's a parenting lifeline. The **9PCS Mo Willems Pigeon Books collection** bundles nine of the most iconic titles from the series into one set, and at a 4.7-star average over 235 ratings, it's clearly earning its keep in living rooms and classrooms alike.
 
 ## What's Actually in the Box

@@ -20,7 +20,6 @@ cons:
   - "Cutting or extending the strip voids the weatherproof seal and warranty; you are locked into the 80-inch length"
   - "Lower peak brightness than indoor strips; deep reds and blues are vivid, but white output maxes at 1600 lumens"
 ---
-
 ## The Premium Price of "It Just Works"
 
 Most outdoor LED strips are cheap, flicker, and die after one rainy season. The Philips Hue Outdoor LightStrip is the opposite. It’s expensive, requires a $60 hub, and forces you into a fixed length. Yet, it holds a 4.5-star rating across 225 reviews for a reason: it performs flawlessly in the environments that kill cheaper options.

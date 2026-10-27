@@ -19,7 +19,6 @@ cons:
   - "The adhesive is almost too strong on the pad side; peeling the protective liner off can occasionally tear the foam if you rush it."
   - "No visible sizing guide on the box—if you have clients with very narrow or hooded eyes, the Large size may require trimming."
 ---
-
 **Opening Hook**
 
 If you’ve ever had a client flinch because a cheap eye pad slid down mid-application, you know that the difference between a great lash set and a disaster is often a 10-cent piece of foam. The Pretty Memory 100 Pairs Foam Eye Pads are not the cheapest option on the market, but they solve the two biggest problems lash techs face: adhesion failure and lint contamination. After reviewing the specs and the 4.5-star consensus from 225 buyers, here is the no-nonsense breakdown.

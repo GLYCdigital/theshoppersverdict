@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 You've seen the videos. A kid takes a plastic hammer to a giant egg, plaster explodes everywhere, and out pops a glowing dinosaur. The Smashers Mega Jurassic Light Up Dino Egg by ZURU is the biggest version of that formula yet — and honestly, it delivers exactly the chaotic fun it promises. But is it worth your money, or just another impulse-buy toy that ends up in a landfill by Tuesday? Let's dig in.
 
 **What's actually in the box**

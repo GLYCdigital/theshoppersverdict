@@ -22,9 +22,6 @@ cons:
   - "The 6500K daylight color temperature can feel harsh for bedtime reading if you prefer warm, dim light"
 
 ---
-
-**Review Body**
-
 Let's be honest: most "book pillows" are floppy sacks of beans that collapse the moment you crack open a hardcover. The ERGONOV Book Pillow Stand with 6500K Reading Light is different — it's structured, purposeful, and actually solves the two biggest problems night readers face: keeping a book open and seeing the page without blinding your partner.
 
 **What You Actually Get**

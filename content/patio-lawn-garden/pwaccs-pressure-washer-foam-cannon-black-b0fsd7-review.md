@@ -19,9 +19,6 @@ cons:
   - "Plastic construction feels less durable than brass-bodied competitors like MTM"
   - "Included 32oz bottle has a narrow mouth that makes refilling with soap messy"
 ---
-
-**Review Body:**
-
 If you want that thick, billowing snow foam you see in detailing videos, you don't need a $200 setup. The PWACCS Pressure Washer Foam Cannon proves you can get professional-looking foam for a fraction of the cost. But as with anything in the budget detailing space, there are tradeoffs you need to know before you click "add to cart."
 
 **What You Actually Get**

@@ -19,7 +19,6 @@ cons:
   - "Premium price point — typically 2–3x more per ounce than mainstream jarred sauces"
   - "Roasted garlic can dominate delicate dishes; not ideal for recipes needing a neutral marinara base"
 ---
-
 ## Rao's Homemade Roasted Garlic Tomato Sauce: The $9 Jar That Might Be Worth It
 
 Let's be blunt: you don't *need* to spend premium money on jarred pasta sauce. But if you've ever dumped a watery, sugar-laden jar into your rigatoni and felt a twinge of regret, Rao's is the brand people mention in hushed, reverent tones. The Roasted Garlic variant is their second-most-popular flavor after the classic Marinara — and after testing it against three competitors, I understand why it has a devoted following.

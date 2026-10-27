@@ -22,9 +22,6 @@ cons:
   - "Coverage is tied to the original purchaser; it does not transfer if you sell or gift the appliance"
 
 ---
-
-**Review Body:**
-
 Let's be honest about what a protection plan actually is: a bet. You're wagering that your $1,500–$2,000 kitchen appliance will break within four years, and ASURION is wagering that it won't. With a 3.1-star average across 155 ratings, this particular bet has a lot of frustrated gamblers on both sides.
 
 **What You're Actually Paying For**

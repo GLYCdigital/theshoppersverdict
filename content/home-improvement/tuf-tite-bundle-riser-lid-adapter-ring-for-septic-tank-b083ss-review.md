@@ -19,7 +19,6 @@ cons:
   - "Adapter ring can be tricky to seat perfectly flush on thicker concrete lids; requires patience or a rubber mallet"
   - "Bolt holes on the lid sometimes need to be drilled out slightly to align with pre-tapped riser holes"
 ---
-
 Septic maintenance is a dirty, smelly, and expensive job—unless you have the right access point. If you are tired of digging up six inches of topsoil every time the pumper comes, the Tuf-Tite Bundle is the solution. This isn't a glamorous purchase, but it is a "buy once, cry once" investment in your sanity.
 
 As shown in the product image, you get the entire above-grade access system in one box: the riser barrel, the locking lid, and the crucial adapter ring that connects the riser to your tank opening. The kit is designed to raise the access port to ground level, meaning the next time the septic truck arrives, they spend 30 seconds popping the lid instead of 30 minutes with a shovel.

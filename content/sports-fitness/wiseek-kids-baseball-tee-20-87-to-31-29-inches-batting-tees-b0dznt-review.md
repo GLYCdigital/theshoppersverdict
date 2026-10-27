@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 If you've watched a 7-year-old whiff at a tee because the ball sat at shin height, you know the problem: most batting tees are either too tall or too flimsy for kids. The Wiseek Kids Baseball Tee attacks that issue head-on with a genuine adjustment range that actually matches its marketing.
 
 **What You Actually Get**

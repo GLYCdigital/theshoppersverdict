@@ -20,7 +20,6 @@ cons:
   - "Fragile packaging; several buyers report receiving broken or shattered leaves that arrive as crumbs"
   - "16-ounce bag contains no resealable closure, risking the candy absorbing moisture and becoming sticky if not consumed quickly"
 ---
-
 **Is This the Maple Candy That Actually Tastes Like Maple?**
 
 Most "maple" candy on the market is a lie. It's corn syrup, artificial flavoring, and brown food coloring shaped into a leaf. The Nova Maple Candy Pure Maple Syrup Sugar Leaf Candy is not that. It's made the traditional way—boiling real maple syrup until it crystallizes. That's the entire ingredient list. You get 16 ounces of translucent amber leaves that shatter with a satisfying crunch and dissolve into a buttery, intensely maple finish. If you've only ever had the fake stuff, this is the version that will reset your expectations. It's priced at a premium because maple syrup is expensive, and you're getting the real thing.

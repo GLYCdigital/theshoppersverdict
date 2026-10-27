@@ -19,7 +19,6 @@ cons:
   - "The cover is water-resistant, not waterproof—accidents will soak through to the foam if left unattended"
   - "Foam core is vacuum-sealed on arrival; requires 24-48 hours to fully expand to the listed dimensions"
 ---
-
 ## Is This Just Another Fluffy Mat, or Real Support?
 
 Most "orthopedic" dog beds on Amazon are just thick pillows with a fancy name. This one is different. When you unbox it, you’re getting a legitimate slab of high-density support foam—the kind that actually redistributes weight off the elbows and hips. For owners of senior Labs, German Shepherds, or arthritic mixed breeds, this distinction is everything. It’s not a mattress; it’s a foundation.

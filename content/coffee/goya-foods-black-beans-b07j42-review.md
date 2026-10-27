@@ -19,7 +19,6 @@ cons:
   - "Costs 20-30% more per ounce than generic alternatives"
   - "Still contains salt — not suitable for strict low-sodium diets without rinsing"
 ---
-
 **Goya Foods Black Beans Review: The 4.8-Star Pantry Staple That Earned Its Rating**
 
 You don't need another influencer-hyped superfood. You need black beans that cook up creamy, hold their shape, and don't taste like the inside of a tin can. Goya's Black Beans deliver exactly that — and the 4.8-star average across 240 ratings suggests I'm not the only one who thinks so.

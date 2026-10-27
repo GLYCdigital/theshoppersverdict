@@ -19,9 +19,6 @@ cons:
   - "Not ideal for stripping very short wire tails under 1/2 inch due to the jaw depth"
   - "The integrated crimper is best for insulated connectors only; heavy-duty non-insulated terminals require a dedicated tool"
 ---
-
-**Review Body**
-
 Most wire strippers force you to play a guessing game. You fiddle with a thumbscrew, match the gauge to the hole, and pray you didn’t nick the copper. The KAIWEETS Self Adjusting Wire Stripper eliminates that entire ritual. This is the tool you grab when you’re wiring a lamp, fixing a thermostat, or running low-voltage landscape lighting and you just want the damn jacket off without a fight.
 
 **What You Actually Get**

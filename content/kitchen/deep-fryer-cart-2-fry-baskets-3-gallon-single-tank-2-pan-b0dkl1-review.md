@@ -22,9 +22,6 @@ cons:
   - "Heating element recovery time is slow for heavy continuous use"
 
 ---
-
-**Review Body:**
-
 You're running a food truck, catering gig, or serious backyard operation, and you're eyeing a 3-gallon fryer on wheels. It sounds like the perfect setup. But at 3.3 stars out of 165 ratings, this Deep Fryer Cart with two baskets and a single 3-gallon tank has some stories to tell. Let me give you the real picture before you drop your money.
 
 **What's Actually in the Box**

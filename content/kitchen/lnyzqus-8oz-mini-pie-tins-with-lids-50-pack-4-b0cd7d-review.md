@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You've priced out those cute 4-inch pie tins at the craft store, right? Three dollars per pan for something you'll toss after one use. That math hurts. The LNYZQUS 50-pack changes the equation entirely — but only if the pans actually hold up. I've destroyed enough flimsy foil tins to know the difference between "disposable" and "disappointing." The question here is which category this 50-pack falls into.
 
 **What You Actually Get**

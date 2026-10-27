@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You don't buy boxed broth because you're lazy. You buy it because you're smart—you know that making stock from scratch takes six hours, a stockpot the size of a small child, and a freezer full of chicken carcasses you don't have. Pacific Foods' Organic Free Range Chicken Low Sodium Broth is the shortcut that doesn't taste like a shortcut. Here's the real story after digging through 235 Amazon ratings and the nutrition panel.
 
 **What's actually in the carton**

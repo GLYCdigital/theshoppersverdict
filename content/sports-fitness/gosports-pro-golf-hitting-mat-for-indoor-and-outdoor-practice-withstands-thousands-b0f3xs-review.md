@@ -19,7 +19,6 @@ cons:
   - "The turf is firm and plays faster than a real fairway; you will need to adjust for less spin and lower ball flight"
   - "Not a full swing mat; designed primarily for irons and wedges, not driver practice"
 ---
-
 Let’s be blunt: most hitting mats under $100 feel like you are striking a parking lot. The GoSports Pro Golf Hitting Mat is not that. With a 4.4-star average across 220 Amazon ratings, this mat has carved out a reputation for durability and joint-friendly practice. But is it the right one for your garage, backyard, or living room setup? Here is the breakdown after digging into the specs and user feedback.
 
 **What You Actually Get**

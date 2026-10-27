@@ -21,9 +21,6 @@ cons:
   - "The 12-pack is bulky to store; boxes don't stack neatly in standard pantry shelves"
 
 ---
-
-**Review Body**
-
 You've seen the Barilla blue box a thousand times. But Cellentani? That's the corkscrew-shaped pasta that looks like rotini's more aggressive cousin — and it's quietly one of the best sauce-holding shapes Barilla makes. After working through a full 12-box case, here's the honest breakdown.
 
 **What You Actually Get**

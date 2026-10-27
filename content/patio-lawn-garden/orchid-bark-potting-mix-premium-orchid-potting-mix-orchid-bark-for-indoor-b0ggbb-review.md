@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body**
-
 Most orchid mixes fail in one of two ways: they hold too much water and rot the roots, or they drain so aggressively you're watering twice a week. This premium orchid bark potting mix threads that needle better than most blends I've tested, which is why it holds a 4.5-star average across 225 ratings. But before you click buy, there are a few things worth knowing.
 
 **What You Actually Get**

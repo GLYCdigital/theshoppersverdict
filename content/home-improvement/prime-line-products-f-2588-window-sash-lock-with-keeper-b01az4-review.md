@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You don't think about window sash locks until the one on your bedroom window snaps off in your hand on a cold January night. Then you're standing at the hardware store at 8 PM trying to remember whether your window is Andersen or something generic. That's exactly the scenario where the Prime-Line F 2588 earns its keep.
 
 This is a no-nonsense replacement part, not a home improvement project. It's a single white nylon sash lock with a matching keeper, designed to swap in for the factory locks on many double-hung vinyl and aluminum windows. Prime-Line is a well-known aftermarket manufacturer in the window hardware world, and this F 2588 is one of their most common drop-in replacements.

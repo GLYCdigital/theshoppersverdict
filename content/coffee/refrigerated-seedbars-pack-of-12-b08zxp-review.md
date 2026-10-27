@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Let's be clear about one thing right up front: these are not your average protein bars. The Refrigerated Seedbars 12-pack is a different beast entirely — one that requires a commitment to cold storage and a willingness to chew. If you're looking for a soft, cookie-like snack you can toss in your car's glovebox, look elsewhere. But if you want something that actually tastes like real food and keeps you full for hours, this might be the upgrade you've been hunting for.
 
 **What You Actually Get**

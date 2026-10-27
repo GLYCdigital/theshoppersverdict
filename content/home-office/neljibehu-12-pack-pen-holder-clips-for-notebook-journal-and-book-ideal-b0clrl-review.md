@@ -19,7 +19,6 @@ cons:
   - "Slick plastic-coated covers (like Moleskine) may let the clip slide slightly under heavy use"
   - "Not suited for pens with thick rubber grips wider than 1cm — you'll need to test fit first"
 ---
-
 ### Small Clip, Big Function: Does It Actually Hold?
 
 You know the drill. You toss your notebook in your bag, and your pen vanishes into the abyss. Or worse, it clicks open and inks up your pages. The NELJIBEHU 12-pack of pen holder clips aims to kill that problem for less than the cost of a decent coffee. But with 225 ratings averaging 4.5 stars, is it genuinely useful or just another desk-drawer novelty? After testing a pack, here's the straight story.

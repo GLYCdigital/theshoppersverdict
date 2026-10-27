@@ -19,7 +19,6 @@ cons:
   - "No DRAM cache; sustained write performance drops after the pseudo-SLC cache fills (usually around 45GB on the 1TB model)."
   - "Comes with a basic graphene sticker, not a heatsink; heavy sustained loads on PC builds will require an aftermarket cooler."
 ---
-
 ### The Budget Gen4 King? Not Quite, But Close
 
 If you’re looking at the fanxiang NVMe SSD, you’re likely playing a familiar game: squeezing as much speed as possible out of every dollar. This drive promises PCIe Gen4 speeds—up to 5,200 MB/s—for a price that often undercuts the big names by 20–30%. As shown in the product image, it’s a standard 2280 form factor (22mm wide, 80mm long), which means it fits in virtually every modern motherboard, laptop, and the PlayStation 5.

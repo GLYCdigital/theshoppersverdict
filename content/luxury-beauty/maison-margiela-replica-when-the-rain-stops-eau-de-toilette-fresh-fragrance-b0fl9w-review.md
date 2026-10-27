@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Full Review:**
-
 Some fragrances smell like an idea. Others smell like a place. Maison Margiela's Replica line has built its reputation on the latter, and *When the Rain Stops* is perhaps the most literal execution of that concept yet. It doesn't smell like rain falling. It smells like the moment *after* — wet pavement steaming, damp earth releasing that unmistakable petrichor, and the world rinsed clean.
 
 The concept is brilliant. The execution is... mostly brilliant, with a few caveats worth knowing before you drop luxury money on a bottle.

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Let’s be honest about the Prechen 12.3-inch stretch monitor: it’s a niche tool, not a mainstream accessory. If you’ve ever tried to run Discord, Spotify, or a system monitor alongside your primary work without sacrificing full-screen real estate, this bar-shaped display solves that specific problem elegantly. But "elegantly" comes with caveats — and at a 3.9-star average across 195 ratings, you should know what those caveats are before hitting buy.
 
 **What You Actually Get**

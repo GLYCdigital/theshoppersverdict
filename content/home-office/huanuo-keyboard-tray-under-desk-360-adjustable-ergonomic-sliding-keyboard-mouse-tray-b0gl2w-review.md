@@ -20,7 +20,6 @@ cons:
   - "The bundled 7.5 x 12.5-inch mouse pad is small for low-DPI gamers; plan to swap it out"
   - "Assembly takes 20-30 minutes; the bolt alignment for the clamp arm is finicky on first install"
 ---
-
 **The Verdict: A Serious Ergonomic Upgrade—If Your Desk Has the Space**
 
 Most under-desk trays are cheap plastic planks that force your wrists into a bend. The HUANUO 360 Adjustable model is a different animal. It’s a gas-spring, multi-plane rig that genuinely mimics a height-adjustable standing desk for your upper body. At a 4.3-star average from 215 ratings, it’s clear buyers appreciate the mechanism—but it’s not a universal fit.

@@ -19,7 +19,6 @@ cons:
   - "4-cup capacity max — you'll need a second vessel for larger batches of stock or punch"
   - "Plastic body scratches over time if you use metal whisks or scrubbers inside it"
 ---
-
 **What You Actually Get**
 
 The WhiteRhino arrives as a single piece: a clear, BPA-free plastic pitcher with a 32-ounce capacity. As shown in the product image, the handle is integrated into the body rather than bolted on — that means no crevices for bacteria to hide. The markings run down the side in white, embossed directly into the plastic. You get two scales: US cups/fluid ounces on one side, milliliters on the other.

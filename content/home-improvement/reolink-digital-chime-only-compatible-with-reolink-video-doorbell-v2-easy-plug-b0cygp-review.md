@@ -20,9 +20,6 @@ cons:
   - "No battery backup: a power outage or unplugged chime means you miss visitor alerts entirely."
   - "Requires a Reolink Video Doorbell (not the battery-only Argus series) to function at all."
 ---
-
-**The Review Body**
-
 Most video doorbells have a dirty little secret: they rely on your existing mechanical chime, which often sounds like a dying mosquito or doesn't work at all if you have a digital transformer. Reolink’s answer is this dedicated Digital Chime, a $30-ish accessory that cuts the cord—literally. But is it a necessary add-on or just another plastic brick? After digging into the specs and 220+ user ratings (4.4 stars), here is the honest, no-spin breakdown.
 
 **What You Actually Get**

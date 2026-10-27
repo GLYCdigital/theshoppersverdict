@@ -19,7 +19,6 @@ cons:
   - "At 28.5 inches wide, it juts out significantly—measure your clearance before buying for tight balconies."
   - "The plastic shell feels hollow when empty; you must commit to filling it to get the advertised stability."
 ---
-
 A cantilever umbrella is only as good as the base holding it down. You can spend $400 on a premium offset umbrella, but if the base is a flimsy afterthought, one gust of wind turns your shaded oasis into a projectile. The PURPLE LEAF Offset Patio Umbrella Base is designed to be the heavy anchor your setup is missing—but does it live up to the 4.6-star reputation? Here’s the honest breakdown after digging through the specs and 229 verified buyer experiences.
 
 ## What You’re Actually Getting

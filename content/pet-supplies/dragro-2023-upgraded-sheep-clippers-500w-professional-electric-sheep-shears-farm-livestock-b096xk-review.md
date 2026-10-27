@@ -22,9 +22,6 @@ cons:
   - "Noise level sits at roughly 85 dB — hearing protection recommended for full-day use"
 
 ---
-
-**Review Body:**
-
 Most budget sheep clippers promise professional performance and deliver a whimpering motor that stalls in thick fleece. The Dragro 2023 Upgraded 500W model is different — it actually earns a second look from small-flock owners and weekend shearers who aren't ready to drop $400+ on a Heiniger or Lister. After digging through 200 ratings and the spec sheet, here's what you need to know before clicking buy.
 
 **What's actually in the box**

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**The Review Body:**
-
 Let's cut to the chase: the Thai Kitchen Sweet Red Chili Sauce has been a refrigerator-door staple in my kitchen for the better part of two years, and the 33.82-ounce bottle is the version I keep coming back to. This isn't the tiny 8-ounce bottle you grab at the grocery store for $4 — this is the "feed a family, a party, or just yourself for months" size. And at 4.7 stars from 235 Amazon ratings, I'm clearly not the only one who thinks it earns its shelf space.
 
 **What You Actually Get**

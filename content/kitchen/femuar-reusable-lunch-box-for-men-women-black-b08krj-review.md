@@ -21,9 +21,6 @@ cons:
   - "At 28 ounces, it's on the bulkier side — won't fit compact lunch bags or crowded fridge shelves gracefully"
 
 ---
-
-**Review Body:**
-
 Most reusable lunch boxes fall into one of two camps: flimsy plastic that cracks within a month, or heavy stainless steel that dents your carry bag and can't go in the microwave. The Femuar Reusable Lunch Box sits in a third, more useful category — a durable, leak-resistant container that actually holds up to daily abuse.
 
 **What You're Actually Getting**

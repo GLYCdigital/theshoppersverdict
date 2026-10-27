@@ -31,9 +31,6 @@ cons:
   - "Minor drawbacks noted by some users"
 
 ---
-
-**Review Body:**
-
 You know that feeling when you drop $25 on a kid's water bottle and it ends up leaking all over the car seat, or the straw valve gets so gross you have to throw the whole thing away? The Owala Kids 12oz Tumbler was designed specifically to kill those problems. With 6,855 Amazon ratings averaging 4.4 stars, it's clearly working for most families — but it's not perfect, and here's the honest breakdown.
 
 **What You Actually Get**

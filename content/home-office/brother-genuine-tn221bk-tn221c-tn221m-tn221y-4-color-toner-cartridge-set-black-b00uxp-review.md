@@ -21,9 +21,6 @@ cons:
   - "Premium OEM pricing means roughly 60-80% more per page than compatible cartridges from third-party brands"
 
 ---
-
-**Review Body:**
-
 Nobody *wants* to think about toner. You just want the print to come out right the first time, without a magenta streak running through your client proposal. That's exactly the promise of Brother's genuine TN221 set — but at roughly $0.06–$0.09 per page, it's not the cheapest way to feed your HL-3140CW or MFC-9330CDW.
 
 **What's Actually in the Box**

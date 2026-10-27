@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You've probably seen a dozen salmon oil bottles on Amazon, all promising a miracle coat. So why consider this one? The short answer: it's sourced from wild-caught Alaskan salmon, not farmed Atlantic salmon. That distinction matters because wild salmon has a higher concentration of omega-3s (EPA and DHA) and fewer contaminants than farmed varieties. For a product that's essentially a liquid supplement, the source is the whole ballgame.
 
 **What's actually in the bottle**

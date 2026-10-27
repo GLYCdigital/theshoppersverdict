@@ -20,7 +20,6 @@ cons:
   - "Battery life is weak—expect around 4 hours of mixed use, not a full workday."
   - "The 120Hz panel is a TN/IPS hybrid; viewing angles are narrow and colors look washed out compared to premium laptops."
 ---
-
 # Machenike 17.3″ Laptop Review: Big Screen, Budget Value
 
 You’re looking at this laptop for one reason: the screen. That 17.3-inch panel with a 120Hz refresh rate is the headline feature, and honestly, it’s the reason you should keep reading. But a giant display in a budget chassis comes with compromises. Here’s the real story after digging through the specs and 195 buyer ratings.

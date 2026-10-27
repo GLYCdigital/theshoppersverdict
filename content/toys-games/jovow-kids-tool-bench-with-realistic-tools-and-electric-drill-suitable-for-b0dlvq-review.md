@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 Most toy tool benches are plastic junk that tips over the first time a kid leans on them. The Jovow Kids Tool Bench is not that. This is a proper MDF workbench with a real rotating drill, and it's clearly built for kids who actually want to *work* — not just pretend.
 
 Here's what you're actually getting for your money.

@@ -22,9 +22,6 @@ cons:
   - "Suede finish picks up dirt and stains quickly — they look rough after a single shift, though function is unaffected"
 
 ---
-
-**Review Body**
-
 **The Bulk-Buy Reality Check: Are 60 Pairs Worth It?**
 
 Let's do the math first, because that's why you're here. The 5015 60 Pair Pack of cowhide leather palm gloves works out to roughly $1.25–$1.50 per pair depending on when you buy. At that price, you're not looking for a heirloom-quality glove — you're looking for something that protects your hands without making you cry when you lose one on a jobsite. After a month of using these on a residential framing project, here's the honest breakdown.

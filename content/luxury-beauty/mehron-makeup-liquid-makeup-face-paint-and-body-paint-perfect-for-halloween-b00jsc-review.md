@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Frontmatter**
-
 Mehron's liquid makeup has been a backstage staple for decades, but does it hold up for everyday shoppers tackling Halloween looks, cosplay, or theater productions? With a 4.2-star average across 210 ratings, the consensus says yes—with caveats. Here's the honest breakdown.
 
 **What You Actually Get**

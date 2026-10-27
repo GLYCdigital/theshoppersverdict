@@ -19,7 +19,6 @@ cons:
   - "Requires multiple thin coats and a 24-hour cure time between applications, making the initial finishing process a multi-day commitment."
   - "Contains VOCs and has a strong solvent odor during application; proper ventilation and respirator use are non-negotiable."
 ---
-
 If you’re restoring a weathered teak patio set or finishing a new mahogany door, the Minwax 67100 Teak Oil is the benchmark product in its category. With a 4.7-star rating from over 235 Amazon buyers, it’s clearly doing something right. The question is whether its traditional oil-based approach fits your project. Here’s the unvarnished truth.
 
 **What’s in the Can**

@@ -19,7 +19,6 @@ cons:
   - "Bold 1.0mm tip is not ideal for small handwriting or tight journal layouts; lines can bleed through cheap paper."
   - "The clip is stiff and the barrel is slick plastic, making it less secure in shirt pockets."
 ---
-
 **The Verdict on the Pilot G2 Bold**
 
 Most people grab the Pilot G2 in 0.7mm. That’s the baseline. But the **1.0mm Bold Point** version is a different beast entirely. It’s not just a thicker line; it’s a different writing experience—one that leans into the "liquid ink" feel that gel pens are famous for. After using these daily for a week, I can tell you that if you have heavy hands or you’re tired of scratchy, faint lines, this is the upgrade you’re looking for.

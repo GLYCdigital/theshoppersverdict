@@ -21,9 +21,6 @@ cons:
   - "Base model ships with 8GB RAM and 256GB SSD; the SSD is slower than the 512GB version"
 
 ---
-
-**Review Body:**
-
 The MacBook Air M2 has been out since 2022. In the laptop world, that's practically ancient history. Yet it still holds a 4.7-star average across 235 Amazon ratings, and for good reason: this machine nailed the fundamentals so well that Apple's newer M3 and M4 models mostly refined rather than reinvented it. The question isn't whether it's good — it's whether it's still the right buy for *your* workflow in 2026.
 
 **What you actually get**

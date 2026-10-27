@@ -20,7 +20,6 @@ cons:
   - "Can be brittle; more broken pieces in the box compared to regular Triscuits"
   - "Only 2g of fiber per serving — same as original, so the calorie cut doesn't come with added nutrition"
 ---
-
 **The 20-Calorie Compromise That Actually Works**
 
 Most "reduced fat" crackers taste like cardboard engineered by a committee. Triscuit Reduced Fat isn't that. It's the same woven wheat squares you've known since 1903, just with a little less oil. And honestly? Most people can't tell the difference unless they're doing a side-by-side tasting.

@@ -20,9 +20,6 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
-
-**Review Body:**
-
 You've seen the "Save The Bees" seed packets at every big-box checkout lane. Most are glorified confetti — 50 seeds in a $7 envelope. This one's different. It's a 100,000-count package that actually covers ground. But is it worth your money and, more importantly, will it actually grow? I dug through 220 ratings, analyzed the species list, and broke down what you're really getting.
 
 **What's Actually in the Bag**

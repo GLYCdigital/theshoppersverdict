@@ -20,7 +20,6 @@ cons:
   - "Price point runs 15–20% higher than comparable Purina Pro Plan or Iams formulas"
   - "No novel protein option in this line; chicken-based only, which can be an issue for dogs with poultry sensitivities"
 ---
-
 If you've ever stood in the pet aisle wondering whether the $70 bag of kibble is actually better than the $35 one, Hill's Science Diet Adult 1to6 is the compromise answer. It's not the cheapest food on the shelf, and it's not the most exotic either. But with 240 Amazon ratings averaging 4.8 stars, it's clearly doing something right for a lot of dog owners.
 
 ## What You Actually Get
