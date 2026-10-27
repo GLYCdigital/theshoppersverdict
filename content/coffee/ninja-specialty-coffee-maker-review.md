@@ -9,7 +9,7 @@ verdict_score: 4.6
 review_count: 19541
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PFLM2LK?tag=tsvglyc-20"
-price: $149.99
+price: null
 amazon_image: "https://m.media-amazon.com/images/I/81BzHbm5GvL._AC_SL1500_.jpg"
 image_alt: "Ninja Specialty Coffee Maker on a kitchen counter showing the carafe and brew basket"
 keywords: [Ninja Specialty Coffee Maker review, Ninja coffee maker, best drip coffee maker, Ninja specialty coffee maker vs Keurig, Ninja coffee maker with frother]
