@@ -7,7 +7,7 @@ slug: "apple-macbook-air-m1-review"
 image_alt: "Apple MacBook Air M1 in space gray, lightweight aluminum body, closed lid on desk"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 799
 review_count: 0
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08N5KWB9H/?tag=tsvglyc-20"

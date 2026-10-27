@@ -7,7 +7,7 @@ slug: "gigabit-ethernet-splitter-1-to-2-network-splitter-rj45-internet-splitter-
 image_alt: "Gigabit Ethernet Splitter 1 to 2 - Network Splitter RJ45 Internet Splitter Adapter 1000Mbps High Speed for Cat 5/5e/6/7/"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.98
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D66XVPW1/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "z-edge-gaming-monitor-b0gsxq-review"
 image_alt: "Z-Edge Gaming Monitor"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 109.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSXQKPM7/?tag=tsvglyc-20"

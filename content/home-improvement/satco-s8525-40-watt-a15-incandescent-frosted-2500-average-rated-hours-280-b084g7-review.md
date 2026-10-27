@@ -7,7 +7,7 @@ slug: "satco-s8525-40-watt-a15-incandescent-frosted-2500-average-rated-hours-280
 image_alt: "Satco S8525 40 watt A15 Incandescent; Frosted; 2500 Average Rated Hours; 280 lumens; Medium Base; 130 Volts; 4 Bulbs"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 8.74
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B084G7QT4D/?tag=tsvglyc-20"

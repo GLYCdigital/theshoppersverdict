@@ -7,7 +7,7 @@ slug: "guofis-1-2-nominal-5-8-od-compression-x-3-8-od-b0cdpz-review"
 image_alt: "GUOFIS 1/2 Nominal (5/8 OD) Compression x 3/8 OD Stop Valve"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 30.35
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CDPZ8785/?tag=tsvglyc-20"

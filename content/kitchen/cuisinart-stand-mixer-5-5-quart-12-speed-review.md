@@ -20,7 +20,7 @@ faq:
   - question: "How does it compare to a KitchenAid stand mixer?"
     answer: "At roughly half the price of a comparable KitchenAid Pro, the Cuisinart holds its own with a quieter motor, lighter weight, and the ability to lift the head while mixing to scrape the bowl. Long-term owners who switched from KitchenAid report equal or better performance."
 date: 2026-07-28
-price: null
+price: 297.60
 review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"

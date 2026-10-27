@@ -18,7 +18,7 @@ faq:
   - question: "Is the Frost Buddy Universal Can Cooler a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a kitchen appliance, this is a safe choice."
 date: 2026-07-08
-price: null
+price: 51.64
 review_count: 10560
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08C7YS3YW/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "hamilton-beach-4-quart-stand-mixer-review"
 image_alt: "Hamilton Beach Electric Stand Mixer with stainless steel bowl and attachments on a kitchen counter"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: 126.95
 review_count: 4426
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BJQPYLB1/?tag=tsvglyc-20"

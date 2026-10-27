@@ -7,7 +7,7 @@ slug: "binditek-plastic-comb-binding-spines-letter-size-black-b0c7bv-review"
 image_alt: "Binditek black plastic comb binding spines for letter size documents"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7BVMY32/?tag=tsvglyc-20"

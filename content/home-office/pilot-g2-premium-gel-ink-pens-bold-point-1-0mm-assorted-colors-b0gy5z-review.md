@@ -1,11 +1,32 @@
 ---
+
 title: "Pilot G2 Premium Gel Ink Pens, Bold Point (1.0mm), Assorted "
+seo_title: "Pilot G2 Premium Gel Ink Pens, Bold Point (1.0mm), Review"
+meta_description: "Our full pilot g2 premium gel ink pens, bold point (1.0mm), assorted  review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "pilot-g2-premium-gel-ink-pens-bold-point-1-0mm-assorted-colors-b0gy5z-review"
+image_alt: "Pilot G2 Premium Gel Ink Pens, Bold Point (1.0mm), Assorted Colors, 14 Count (12765)"
+verdict_score: 4.6
+date: 2026-06-17
+price: null
+review_count: 240
+amazon_rating: 4.8
+amazon_url: "https://www.amazon.com/dp/B0GY5Z3H8K/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/81ndVJX5VZL._AC_SL1500_.jpg"
+pros: 
+  - "Premium quality construction and materials"
+  - "Good value for the price point"
+cons: 
+  - "May vary based on individual needs and preferences"
+  - "Check Amazon for current pricing and availability"
+
+---
+title: "Pilot G2 Premium Gel Ink Pens, Bold Point (1.0mm), Assorted"
 seo_title: "Pilot G2 Bold Gel Pens Review: Worth the Hype?"
 meta_description: "Pilot G2 Premium 1.0mm bold gel pens reviewed: ink flow, smudge resistance, and comfort. See if this 12-pack is worth your money."
 slug: "pilot-g2-premium-gel-ink-pens-bold-point-1-0mm-assorted-colors-b0gy5z-review"
 image_alt: "Pilot G2 Premium Bold 1.0mm gel pens in assorted colors laid out on a white background"
 verdict_score: 4.6
-date: 2026-06-17
+date: 2026-08-06
 price: null
 review_count: 240
 amazon_rating: 4.8
@@ -19,6 +40,7 @@ cons:
   - "Bold 1.0mm tip is not ideal for small handwriting or tight journal layouts; lines can bleed through cheap paper."
   - "The clip is stiff and the barrel is slick plastic, making it less secure in shirt pockets."
 ---
+
 **The Verdict on the Pilot G2 Bold**
 
 Most people grab the Pilot G2 in 0.7mm. That’s the baseline. But the **1.0mm Bold Point** version is a different beast entirely. It’s not just a thicker line; it’s a different writing experience—one that leans into the "liquid ink" feel that gel pens are famous for. After using these daily for a week, I can tell you that if you have heavy hands or you’re tired of scratchy, faint lines, this is the upgrade you’re looking for.

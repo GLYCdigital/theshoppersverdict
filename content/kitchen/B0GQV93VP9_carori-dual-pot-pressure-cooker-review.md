@@ -7,7 +7,7 @@ slug: "carori-dual-pot-electric-pressure-cooker-review"
 image_alt: "Carori Dual Pot Electric Pressure Cooker with two 6-quart stainless steel pots and digital control panel"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 89.99
 review_count: 223
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQV93VP9/?tag=tsvglyc-20"

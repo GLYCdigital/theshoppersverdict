@@ -21,6 +21,9 @@ cons:
   - "The new 'sea' mechanic is token-based, and the tokens are small and easy to lose on busy tables; a storage tray would've helped"
 
 ---
+
+**Review Body:**
+
 You've played Ark Nova. You've built your zoo, balanced your conservation points, and probably lost to someone who spammed primates. The question isn't whether you need more Ark Nova — it's whether Marine Worlds gives you something genuinely new or just more of the same. After digging through the components and player feedback, here's the honest answer: it's the former, with a few caveats.
 
 **What's in the box**

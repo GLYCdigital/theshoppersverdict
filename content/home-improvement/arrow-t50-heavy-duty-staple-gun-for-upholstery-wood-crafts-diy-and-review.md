@@ -7,7 +7,7 @@ slug: "arrow-t50-heavy-duty-staple-gun-for-upholstery-wood-crafts-diy-and-review
 image_alt: "Arrow T50 Heavy Duty Staple Gun in hand with staples loaded"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 25.61
 review_count: 5095
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"

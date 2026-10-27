@@ -7,7 +7,7 @@ slug: "ocean-square-kitchen-plates-and-bowls-sets-12-18-24-b0drf6-review"
 image_alt: "Ocean Square Kitchen Plates and Bowls Sets 12+18+24"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 72.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRF6M7C2/?tag=tsvglyc-20"

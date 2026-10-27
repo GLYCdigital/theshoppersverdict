@@ -7,7 +7,7 @@ slug: "zulay-kitchen-milk-frother-wand-review"
 image_alt: "Zulay Kitchen milk frother wand with triple whisk attachment whisking milk in a glass mug"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 18.99
 review_count: 219000
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20"

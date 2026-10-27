@@ -7,7 +7,7 @@ slug: "sliding-closet-door-floor-guide-bracket-universal-fit-for-1-3-8-b0cszx-re
 image_alt: "Sliding Closet Door Floor Guide Bracket | Universal Fit for 1-3/8 Width Bypass Doors (White) | Grovers Home Solutions"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 8.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSZX2KNS/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "indoor-golf-putting-mat-with-putter-5-balls-auto-ball-return-set-b0dc76-r
 image_alt: "Indoor Golf Putting Mat with Putter & 5 Balls, Auto Ball Return Set, Velvet Matt for Home, Office, Backyard, Golf Gift"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 89.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DC764PTJ/?tag=tsvglyc-20"

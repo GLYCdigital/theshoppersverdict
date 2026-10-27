@@ -7,7 +7,7 @@ slug: "chef-pomodoro-pizza-steel-13-x-25-inch-thick-baking-steel-for-b0c2d8-revi
 image_alt: "Chef Pomodoro 13 by 0.25 inch thick carbon steel pizza baking steel on oven rack"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 52.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C2D8KV6L/?tag=tsvglyc-20"

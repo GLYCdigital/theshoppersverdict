@@ -7,7 +7,7 @@ slug: "command-medium-and-large-picture-hanging-strips-damage-free-hanging-pictu
 image_alt: "Command Medium and Large Picture Hanging Strips in packaging showing weight capacity for damage-free wall mounting"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 19.59
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G6Q9444Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "ergo-professional-ionic-polishing-paddle-brush-b0d8vd-review"
 image_alt: "ERGO Professional Ionic Polishing Paddle Brush with cushioned pad and sleek black handle"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 54.95
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8VD6LQL/?tag=tsvglyc-20"

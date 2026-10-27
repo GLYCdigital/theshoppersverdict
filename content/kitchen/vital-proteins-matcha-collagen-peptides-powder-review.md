@@ -20,7 +20,7 @@ faq:
     answer: "No — the lack of an included scoop is the most common small complaint. Reviewers recommend a regular tablespoon and note you'll want a funnel for adding it to a water bottle to avoid a sticky mess."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: null
+price: 42.99
 review_count: 5923
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BLF3X7ZT/?tag=tsvglyc-20"

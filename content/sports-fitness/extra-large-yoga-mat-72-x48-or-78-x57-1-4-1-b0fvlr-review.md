@@ -7,7 +7,7 @@ slug: "extra-large-yoga-mat-72-x48-or-78-x57-1-4-1-b0fvlr-review"
 image_alt: "Extra large yoga mat 72x48 inches rolled out on floor showing textured surface and thick cushioning"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 37.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FVLRQRF8/?tag=tsvglyc-20"

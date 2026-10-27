@@ -7,7 +7,7 @@ slug: "ubynid-2-pack-magic-bullet-blender-cups-tall-22oz-cup-with-flip-b0b27p-re
 image_alt: "UBYNID 2 Pack Magic Bullet Blender Cups, Tall 22oz Cup with Flip Top To-Go Lid & 4 Fins Cross Blade Blender Replacement "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 18.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B27PM7RY/?tag=tsvglyc-20"

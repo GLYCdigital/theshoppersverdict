@@ -7,7 +7,7 @@ slug: "100-coconuts-11-fl-oz-pack-of-12-pure-coconut-water-b0gtww-review"
 image_alt: "100 Coconuts pure coconut water 11 fl oz pack of 12 cartons"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 0
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/None/?tag=tsvglyc-20"

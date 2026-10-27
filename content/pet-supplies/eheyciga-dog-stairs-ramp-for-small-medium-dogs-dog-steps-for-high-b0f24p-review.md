@@ -21,6 +21,9 @@ cons:
   - "No handle or carry strap — awkward to move between rooms"
 
 ---
+
+**Review Body:**
+
 Let’s be honest: most dog stairs are either flimsy cardboard traps or heavy wooden monsters you’ll stub your toe on for a decade. The EHEYCIGA Dog Stairs Ramp sits in a rare middle ground — lightweight, foam-based, and genuinely easy to set up. But is it the right purchase for *your* dog? Here’s what 220 buyers (and the specs) actually tell us.
 
 **What You Actually Get**

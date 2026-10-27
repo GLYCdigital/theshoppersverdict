@@ -7,7 +7,7 @@ slug: "melissa-doug-puffy-sticker-play-set-princess-67-reusable-stickers-with-2-
 image_alt: "Melissa & Doug Puffy Sticker Play Set â€“ Princess, 67 Reusable Stickers with 2 Fold-Out Scenes, Restickable Fashion Act"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 8.7
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GN3F53FW/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "67xl-ink-cartridges-black-color-combo-replacement-for-hp-67-xl-67xl-b08xy
 image_alt: "67XL black and color ink cartridge combo for HP 67 printers on white background"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 37.39
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08XY2DRGX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "tmezon-smart-door-lock-fingerprint-smart-lock-for-front-door-b0fy5d-revie
 image_alt: "TMEZON Smart Door Lock, Fingerprint Smart Lock for Front Door"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 37.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FY5D89V8/?tag=tsvglyc-20"

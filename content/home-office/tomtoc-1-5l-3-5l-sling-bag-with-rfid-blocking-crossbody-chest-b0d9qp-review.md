@@ -7,7 +7,7 @@ slug: "tomtoc-1-5l-3-5l-sling-bag-with-rfid-blocking-crossbody-chest-b0d9qp-revi
 image_alt: "tomtoc 1.5L-3.5L Sling Bag with RFID Blocking, Crossbody Chest Pack for Men Women, Water-Resistant Bag for Travel and Da"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 34.19
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9QP9J77/?tag=tsvglyc-20"

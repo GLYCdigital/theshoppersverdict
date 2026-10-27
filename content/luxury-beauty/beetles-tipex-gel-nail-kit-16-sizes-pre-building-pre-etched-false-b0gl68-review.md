@@ -7,7 +7,7 @@ slug: "beetles-tipex-gel-nail-kit-16-sizes-pre-building-pre-etched-false-b0gl68-
 image_alt: "Beetles Tipex Gel Nail Kit with 16 sizes of pre-etched full coverage tips and gel polish"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 18.79
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GL6884Y8/?tag=tsvglyc-20"

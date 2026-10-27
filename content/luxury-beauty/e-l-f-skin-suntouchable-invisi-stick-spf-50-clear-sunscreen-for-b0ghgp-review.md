@@ -7,7 +7,7 @@ slug: "e-l-f-skin-suntouchable-invisi-stick-spf-50-clear-sunscreen-for-b0ghgp-re
 image_alt: "e.l.f. SKIN Suntouchable Invisi-Stick SPF 50 clear sunscreen stick being swiped on a forearm showing no white residue"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 13.0
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GHGPGKGD/?tag=tsvglyc-20"

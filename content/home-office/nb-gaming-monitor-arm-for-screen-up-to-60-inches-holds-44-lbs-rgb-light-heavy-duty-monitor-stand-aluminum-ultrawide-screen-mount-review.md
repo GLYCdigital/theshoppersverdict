@@ -7,7 +7,7 @@ slug: "nb-gaming-monitor-arm-for-screen-up-to-60-inches-holds-44-lbs-rgb-light-h
 image_alt: "NB Gaming Monitor Arm Heavy Duty Monitor Stand with RGB Light"
 verdict_score: 4.5
 date: 2026-07-09
-price: null
+price: 139.9
 review_count: 302
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FB3761RJ/?tag=tsvglyc-20"

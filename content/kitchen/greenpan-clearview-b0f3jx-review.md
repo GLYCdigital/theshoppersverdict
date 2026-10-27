@@ -7,7 +7,7 @@ slug: "greenpan-clearview-b0f3jx-review"
 image_alt: "GreenPan Clearview"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 129.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F3JXYL3P/?tag=tsvglyc-20"

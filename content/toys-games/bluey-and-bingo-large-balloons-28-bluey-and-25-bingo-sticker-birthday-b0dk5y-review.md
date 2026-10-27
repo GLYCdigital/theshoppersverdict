@@ -22,6 +22,9 @@ cons:
   - "No string or ribbon included — you'll need to supply your own for ceiling hanging or table anchoring"
 
 ---
+
+**Review Body:**
+
 If your kid has discovered Bluey — and let's be honest, if they're between 2 and 7, they have — you already know that a Bluey birthday party without actual Bluey is a non-starter. The question is whether this two-balloon set from an Amazon brand delivers the character magic without the disappointment. Short answer: Yes, with a couple of caveats worth knowing before you click buy.
 
 **What You Actually Get**

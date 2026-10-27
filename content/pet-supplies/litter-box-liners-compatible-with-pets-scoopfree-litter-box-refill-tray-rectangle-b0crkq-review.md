@@ -7,7 +7,7 @@ slug: "litter-box-liners-compatible-with-pets-scoopfree-litter-box-refill-tray-r
 image_alt: "Litter Box Liners Compatible with Pets Scoopfree Litter Box Refill Tray Rectangle Bags with Anti-scratch Cardboard 20 Pa"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 21.84
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CRKQNPFS/?tag=tsvglyc-20"

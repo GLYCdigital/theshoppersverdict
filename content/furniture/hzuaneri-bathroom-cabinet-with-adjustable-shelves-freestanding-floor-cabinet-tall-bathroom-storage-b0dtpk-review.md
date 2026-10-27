@@ -7,7 +7,7 @@ slug: "hzuaneri-bathroom-cabinet-with-adjustable-shelves-freestanding-floor-cabi
 image_alt: "Hzuaneri Bathroom Cabinet with Adjustable Shelves, Freestanding Floor Cabinet, Tall Bathroom Storage Cabinet with Doors "
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 79.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTPKWF49/?tag=tsvglyc-20"

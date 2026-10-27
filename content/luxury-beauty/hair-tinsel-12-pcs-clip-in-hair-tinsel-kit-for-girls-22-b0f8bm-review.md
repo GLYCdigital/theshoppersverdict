@@ -7,7 +7,7 @@ slug: "hair-tinsel-12-pcs-clip-in-hair-tinsel-kit-for-girls-22-b0f8bm-review"
 image_alt: "Hair Tinsel 12 Pcs Clip in Hair Tinsel Kit for Girls 22 Inch Glitter Fairy Tinsel Hair Extensions Colorful Heat Resistan"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F8BMZ648/?tag=tsvglyc-20"

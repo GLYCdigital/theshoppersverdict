@@ -7,7 +7,7 @@ slug: "elegrp-decorator-receptacle-15a-125v-standard-electrical-wall-outlet-2-po
 image_alt: "ELEGRP Decorator Receptacle 15A 125V white electrical wall outlet with tamper-resistant shutters"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 11.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DHXDPY6C/?tag=tsvglyc-20"

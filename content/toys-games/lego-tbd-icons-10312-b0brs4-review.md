@@ -7,7 +7,7 @@ slug: "lego-tbd-icons-10312-b0brs4-review"
 image_alt: "Lego TBD Icons 10312"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 379.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BRS43RQW/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "area-rug-for-living-room-fluffy-shag-soft-washable-rugs-fuzzy-plush-b0f2f
 image_alt: "Fluffy shag area rug in a living room setting showing plush texture and neutral color"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 16.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F2FKL84Z/?tag=tsvglyc-20"

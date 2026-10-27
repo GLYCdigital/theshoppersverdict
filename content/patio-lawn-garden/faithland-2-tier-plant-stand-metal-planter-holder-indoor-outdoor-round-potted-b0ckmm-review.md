@@ -7,7 +7,7 @@ slug: "faithland-2-tier-plant-stand-metal-planter-holder-indoor-outdoor-round-po
 image_alt: "FaithLand 2 tier metal plant stand with round potted plants on both levels"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 23.39
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CKMM8SGM/?tag=tsvglyc-20"

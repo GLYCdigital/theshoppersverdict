@@ -7,7 +7,7 @@ slug: "wisuce-bamboo-desk-organizer-mini-bamboo-desk-drawer-tabletop-cosmetic-st
 image_alt: "Wisuce Bamboo Desk Organizer - Mini Bamboo Desk Drawer Tabletop Cosmetic Storage Organization for Office or Home"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CR2Q721M/?tag=tsvglyc-20"

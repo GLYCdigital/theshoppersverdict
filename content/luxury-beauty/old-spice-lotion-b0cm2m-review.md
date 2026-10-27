@@ -7,7 +7,7 @@ slug: "old-spice-lotion-b0cm2m-review"
 image_alt: "Old Spice Lotion"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CM2MTCY2/?tag=tsvglyc-20"

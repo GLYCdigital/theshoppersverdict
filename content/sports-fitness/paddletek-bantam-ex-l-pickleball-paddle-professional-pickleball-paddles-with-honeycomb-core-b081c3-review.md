@@ -7,7 +7,7 @@ slug: "paddletek-bantam-ex-l-pickleball-paddle-professional-pickleball-paddles-w
 image_alt: "Paddletek Bantam EX-L Pickleball Paddle | Professional Pickleball Paddles with Honeycomb Core, Polycarbonate Surface, Ba"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 89.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B081C3J6M1/?tag=tsvglyc-20"

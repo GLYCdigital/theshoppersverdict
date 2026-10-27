@@ -7,7 +7,7 @@ slug: "slick-locks-dodge-ram-promaster-kit-complete-with-spinners-weather-covers
 image_alt: "Slick Locks Dodge Ram Promaster Kit Complete with Spinners, Weather covers and Locks"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 250.82
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00JAO9OYA/?tag=tsvglyc-20"

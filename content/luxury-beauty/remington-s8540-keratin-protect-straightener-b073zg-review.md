@@ -7,7 +7,7 @@ slug: "remington-s8540-keratin-protect-straightener-b073zg-review"
 image_alt: "Remington S8540 Keratin Protect Straightener"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 54.02
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B073ZG6J9N/?tag=tsvglyc-20"

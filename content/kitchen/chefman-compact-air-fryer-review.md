@@ -7,7 +7,7 @@ slug: "chefman-compact-air-fryer-review"
 image_alt: "Chefman 4 QT Compact Air Fryer with digital touchscreen and basket"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 3220
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CNY1F31S/?tag=tsvglyc-20"

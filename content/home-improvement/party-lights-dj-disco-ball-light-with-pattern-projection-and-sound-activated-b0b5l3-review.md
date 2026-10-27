@@ -7,7 +7,7 @@ slug: "party-lights-dj-disco-ball-light-with-pattern-projection-and-sound-activa
 image_alt: "Party Lights Dj Disco Ball Light with Pattern Projection and Sound Activated, Buclhoz RGB Colored Strobe Stage Lighting "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 35.49
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5L3Q9JV/?tag=tsvglyc-20"

@@ -21,6 +21,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Body:**
+
 Let's be honest about the protein bar aisle: most of it tastes like compressed chalk dust with a sad drizzle of "chocolate" that has no business being called chocolate. Power Crunch is different — and that's exactly why the 4.3-star rating across 215 Amazon reviews tells a real story, not a marketing one.
 
 **What you're actually getting**

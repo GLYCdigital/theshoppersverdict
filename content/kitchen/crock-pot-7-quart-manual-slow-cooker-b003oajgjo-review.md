@@ -7,7 +7,7 @@ slug: "crock-pot-7-quart-manual-slow-cooker-b003oajgjo-review"
 image_alt: "Crock-Pot 7-Quart Manual Slow Cooker"
 verdict_score: 4.5
 date: 2026-07-09
-price: null
+price: 58.20
 review_count: 61497
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20"

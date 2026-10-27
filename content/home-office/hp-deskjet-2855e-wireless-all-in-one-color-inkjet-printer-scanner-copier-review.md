@@ -19,7 +19,7 @@ faq:
   - question: "Is the HP DeskJet 2855e Wireless All-in-One durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-02
-price: null
+price: 81.83
 review_count: 18649
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0CT2R7199/?tag=tsvglyc-20"

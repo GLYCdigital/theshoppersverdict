@@ -7,7 +7,7 @@ slug: "amorarc-14oz-coffee-mugs-set-b0cp99-review"
 image_alt: "AmorArc 14oz ceramic coffee mugs set with ergonomic handle on a wooden table"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 34.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP99Q56L/?tag=tsvglyc-20"

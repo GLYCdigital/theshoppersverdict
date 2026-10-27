@@ -7,7 +7,7 @@ slug: "delta-faucet-boyd-kitchen-faucet-with-soap-dispense-b0cvyp-review"
 image_alt: "Delta Faucet Boyd kitchen faucet with integrated soap dispenser in stainless steel finish"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 246.24
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVYPRGBB/?tag=tsvglyc-20"

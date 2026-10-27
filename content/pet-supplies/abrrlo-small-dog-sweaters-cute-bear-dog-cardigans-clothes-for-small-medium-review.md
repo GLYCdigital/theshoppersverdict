@@ -20,7 +20,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-08-07
 last_verified: 2026-08-07
-price: null
+price: 14.99
 review_count: 763
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C9GT8PMH/?tag=tsvglyc-20"

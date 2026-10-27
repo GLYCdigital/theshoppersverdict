@@ -7,7 +7,7 @@ slug: "raoyi-internal-ssd-internal-solid-state-drive-3d-nand-flash-advanced-ssd-
 image_alt: "RAOYI Internal SSD Internal Solid State Drive 3D NAND Flash Advanced SSD Internal Hard Drive for PC Laptop"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 23.74
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F66SWLBF/?tag=tsvglyc-20"

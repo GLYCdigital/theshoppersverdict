@@ -7,7 +7,7 @@ slug: "ojy-doiiiy-swimbait-jig-heads-with-chartreuse-fish-eye-1-8-3-b0czjr-revie
 image_alt: "OJY&DOIIIY Swimbait Jig Heads with Chartreuse Fish Eye, 1/8 3/16 1/4 3/8 1/2oz Jigheads for Freshwater&Saltwater Fishing"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 13.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZJRX2HB/?tag=tsvglyc-20"

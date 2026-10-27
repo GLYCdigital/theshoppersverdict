@@ -22,7 +22,7 @@ faq:
   - question: "How is the quality control on attachments?"
     answer: "Generally good, but one reviewer reported that the 'dough hook attachment is broken on the top.' The rest of the unit was in good condition. As with any budget appliance, inspect the attachments on arrival."
 date: 2026-07-27
-price: null
+price: 89.99
 review_count: 84
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FB5BKD73/?tag=tsvglyc-20"

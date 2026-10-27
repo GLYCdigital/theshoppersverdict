@@ -19,7 +19,7 @@ faq:
   - question: "What lead size do these use?"
     answer: "These are 0.7 mm medium point, which reviewers say is thick enough to avoid snapping during heavy writing but sharp enough for neat handwriting."
 date: 2026-07-14
-price: null
+price: 53.02
 review_count: 3304
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0CQ6QY3WH/?tag=tsvglyc-20"

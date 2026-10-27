@@ -7,7 +7,7 @@ slug: "cast-iron-enameled-dutch-ovens-b0f7sw-review"
 image_alt: "6-quart cast iron enameled Dutch oven in cherry red with stainless steel knob and lid"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 39.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F7SWQ6M5/?tag=tsvglyc-20"

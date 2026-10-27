@@ -7,7 +7,7 @@ slug: "blue-summit-accordion-file-wallet-with-flap-and-cord-closure-letter-size-
 image_alt: "Blue Summit accordion file wallet with flap and cord closure, letter size, open showing multiple labeled pockets"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 33.49
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJVNN4S3/?tag=tsvglyc-20"

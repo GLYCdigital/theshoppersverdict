@@ -7,7 +7,7 @@ slug: "technivorm-moccamaster-79112-kbt-review"
 image_alt: "Technivorm Moccamaster 79112 KBT thermal carafe coffee brewer on countertop"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 349
 review_count: 3240
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B002S4DI2S/?tag=tsvglyc-20"

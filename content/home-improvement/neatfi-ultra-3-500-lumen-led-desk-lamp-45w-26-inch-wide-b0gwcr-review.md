@@ -7,7 +7,7 @@ slug: "neatfi-ultra-3-500-lumen-led-desk-lamp-45w-26-inch-wide-b0gwcr-review"
 image_alt: "Neatfi Ultra 3,500 Lumen LED Desk Lamp, 45W, 26 Inch Wide Metal Shade"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 219.95
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWCRTRN3/?tag=tsvglyc-20"

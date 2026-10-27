@@ -19,7 +19,7 @@ faq:
   - question: "Is the DiiHAUZZ knife heavy for small-handed users?"
     answer: "The knife has a full-tang triple-riveted handle for balance and durability, which adds weight. One small-framed reviewer noted it felt 'a bit heavy' for them, while others praised the 'nice heavy handle for balance.'"
 date: 2026-07-29
-price: null
+price: 25.79
 review_count: 96
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVS6WSSW/?tag=tsvglyc-20"

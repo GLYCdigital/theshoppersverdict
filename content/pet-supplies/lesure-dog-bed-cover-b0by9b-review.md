@@ -7,7 +7,7 @@ slug: "lesure-dog-bed-cover-b0by9b-review"
 image_alt: "Lesure Dog Bed Cover"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 13.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BY9B1G5R/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "saucer-tree-swing-600lb-weight-capacity-with-2pcs-hanging-straps-900d-oxf
 image_alt: "Saucer Tree Swing 600lb Weight Capacity with 2pcs Hanging Straps, 900D Oxford Fabric Waterproof Durable Steel Frame and "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DDPGQQFC/?tag=tsvglyc-20"

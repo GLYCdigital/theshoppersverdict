@@ -7,7 +7,7 @@ slug: "ovente-12-cup-drip-coffee-maker-with-borosilicate-glass-carafe-b0dp5p-rev
 image_alt: "OVENTE 12-Cup Drip Coffee Maker with Borosilicate Glass Carafe"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 21.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DP5PHHLF/?tag=tsvglyc-20"

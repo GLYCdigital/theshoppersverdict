@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 You’ve seen the product image: a bright, compact plastic house sitting in a sunlit backyard. The question isn’t whether your toddler will love it — they will. The real question is whether this Little Tikes playhouse holds up to the abuse a 2-year-old can dish out, and whether it’s worth the plastic footprint in your yard. After digging through 225 verified buyer ratings and the build specs, here’s the honest picture.
 
 **What You Actually Get**

@@ -18,7 +18,7 @@ faq:
   - question: "Is the YETI Rambler Stainless Steel durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-02
-price: null
+price: 53.90
 review_count: 90442
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07FM5HLMF/?tag=tsvglyc-20"

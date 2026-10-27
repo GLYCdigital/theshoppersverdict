@@ -7,7 +7,7 @@ slug: "osp-home-furnishings-lystra-swivel-barrel-vanity-chair-with-textured-bouc
 image_alt: "OSP Home Furnishings Lystra Swivel Barrel Vanity Chair with Textured Boucle Fabric, Cream"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 124.03
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW2VS97H/?tag=tsvglyc-20"

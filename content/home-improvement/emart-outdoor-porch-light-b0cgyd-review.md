@@ -7,7 +7,7 @@ slug: "emart-outdoor-porch-light-b0cgyd-review"
 image_alt: "EMART Outdoor Porch Light mounted on exterior wall with warm illumination"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 25.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CGYDLQ9N/?tag=tsvglyc-20"

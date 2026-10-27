@@ -22,7 +22,7 @@ faq:
   - question: "How is the red marker?"
     answer: "The red color is notably weaker than other colors — several reviewers mention it appears more as a light pink than bold red. It's the one consistent complaint across otherwise positive reviews."
 date: 2026-07-18
-price: null
+price: 6.99
 review_count: 12591
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9CDZ9BL/?tag=tsvglyc-20"

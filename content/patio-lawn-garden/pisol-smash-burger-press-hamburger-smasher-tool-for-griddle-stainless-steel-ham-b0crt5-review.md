@@ -7,7 +7,7 @@ slug: "pisol-smash-burger-press-hamburger-smasher-tool-for-griddle-stainless-ste
 image_alt: "Pisol Smash Burger Press, Hamburger Smasher Tool for Griddle, Stainless Steel Ham Patty Press with Anti-Scald Handle, 5."
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.98
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CRT5T2C2/?tag=tsvglyc-20"

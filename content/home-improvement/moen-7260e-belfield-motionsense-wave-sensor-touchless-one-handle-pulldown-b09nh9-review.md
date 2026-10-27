@@ -7,7 +7,7 @@ slug: "moen-7260e-belfield-motionsense-wave-sensor-touchless-one-handle-pulldown
 image_alt: "Moen 7260E Belfield Motionsense Wave Sensor Touchless One Handle Pulldown"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 350.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09NH9KR4B/?tag=tsvglyc-20"

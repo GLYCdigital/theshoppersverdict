@@ -7,7 +7,7 @@ slug: "natural-dental-floss-picks-75-pack-organic-biodegradable-floss-sticks-wit
 image_alt: "Natural Dental Floss Picks 75 Pack â€“ Organic Biodegradable Floss Sticks with Strong Bamboo Charcoal Thread & Vegan Cor"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09TS3BQFJ/?tag=tsvglyc-20"

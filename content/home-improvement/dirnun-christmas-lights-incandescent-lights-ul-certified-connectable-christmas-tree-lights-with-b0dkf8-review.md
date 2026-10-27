@@ -7,7 +7,7 @@ slug: "dirnun-christmas-lights-incandescent-lights-ul-certified-connectable-chri
 image_alt: "Dirnun UL certified incandescent Christmas string lights with green wire on a decorated tree"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 11.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DKF8NMPC/?tag=tsvglyc-20"

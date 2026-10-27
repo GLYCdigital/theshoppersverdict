@@ -7,7 +7,7 @@ slug: "barr-co-shea-moisturizing-lotion-for-sensitive-skin-16-fl-oz-b0cjjz-revie
 image_alt: "BARR-CO. Shea Moisturizing Lotion for Sensitive Skin in a 16 fluid ounce pump bottle"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 38.0
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJJZVBKH/?tag=tsvglyc-20"

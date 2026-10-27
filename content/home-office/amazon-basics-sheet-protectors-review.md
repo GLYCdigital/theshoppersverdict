@@ -7,7 +7,7 @@ slug: "amazon-basics-sheet-protectors-review"
 image_alt: "Amazon Basics clear sheet protectors with reinforced binding edge, stacked on a desk"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 8.39
 review_count: 54638
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07R8D1RHS/?tag=tsvglyc-20"

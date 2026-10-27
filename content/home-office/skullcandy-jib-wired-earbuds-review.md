@@ -7,7 +7,7 @@ slug: "skullcandy-jib-wired-earbuds-review"
 image_alt: "Skullcandy Jib wired earbuds with inline microphone and flat cable shown on desk"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 8.88
 review_count: 20138
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "ezcasch-canvas-tarp-b0df7n-review"
 image_alt: "Ezcasch canvas tarp spread flat showing reinforced edges and grommets"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 29.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DF7NYGKC/?tag=tsvglyc-20"

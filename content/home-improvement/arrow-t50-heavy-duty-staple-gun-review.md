@@ -19,7 +19,7 @@ faq:
   - question: "How do you load staples into the T50?"
     answer: "The T50 uses a rear-load magazine with a jam-resistant mechanism. There's a staple-viewing window so you can see when it's time to reload — no guesswork required."
 date: 2026-07-11
-price: null
+price: 20.00
 review_count: 4846
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"

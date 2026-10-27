@@ -7,7 +7,7 @@ slug: "haewon-vanity-desk-with-mirror-and-lights-b0gs5f-review"
 image_alt: "Haewon vanity desk with illuminated mirror and storage drawers in a bedroom setup"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 129.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GS5F7R36/?tag=tsvglyc-20"

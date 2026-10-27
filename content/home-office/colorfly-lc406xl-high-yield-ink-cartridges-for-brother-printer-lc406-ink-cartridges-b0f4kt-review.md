@@ -7,7 +7,7 @@ slug: "colorfly-lc406xl-high-yield-ink-cartridges-for-brother-printer-lc406-ink-
 image_alt: "colorfly LC406XL high yield ink cartridge set for Brother printers, four color cartridges arranged in front of packaging"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 29.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F4KTW5LP/?tag=tsvglyc-20"

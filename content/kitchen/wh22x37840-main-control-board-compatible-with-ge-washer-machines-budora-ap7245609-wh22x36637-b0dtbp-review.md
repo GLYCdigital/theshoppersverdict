@@ -7,7 +7,7 @@ slug: "wh22x37840-main-control-board-compatible-with-ge-washer-machines-budora-a
 image_alt: "WH22X37840 Main Control Board Compatible With GE Washer Machines - Budora - AP7245609, WH22X36637, WH22X35517, WH22X3465"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 189.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTBPWN8R/?tag=tsvglyc-20"

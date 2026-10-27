@@ -18,7 +18,7 @@ faq:
   - question: "Is the YETI Rambler 8 oz durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-02
-price: null
+price: 58.17
 review_count: 3236
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CGY2DS5D/?tag=tsvglyc-20"

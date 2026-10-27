@@ -20,7 +20,7 @@ faq:
   - question: "Are the colors true to what's shown?"
     answer: "Mostly. The 10 colors are vibrant with good saturation for a fine-tip marker. The main exception reported is red — several reviewers note it comes across more as a light pink than a bold red. Other colors (black, blue, green, purple) are accurate and bold."
 date: 2026-06-07
-price: null
+price: 6.99
 review_count: 12591
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9CDZ9BL/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "amazon-basics-monitor-b0gqxv-review"
 image_alt: "Amazon Basics 24-inch IPS LED monitor on a desk with adjustable stand"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 89.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQXVRYPX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "4-pack-replacement-filter-for-pitcher-filtration-system-compatible-with-w
 image_alt: "Four-pack of replacement pitcher water filters arranged on a kitchen counter, showing the white plastic housing and sealed caps"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 26.95
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYP6KZN8/?tag=tsvglyc-20"

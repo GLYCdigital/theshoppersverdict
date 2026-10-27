@@ -7,7 +7,7 @@ slug: "amazon-basics-multi-purpose-bench-scraper-stainless-steel-dough-cutter-wi
 image_alt: "Amazon Basics stainless steel bench scraper with measurement markings and wooden handle"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 7.22
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07255T6SW/?tag=tsvglyc-20"

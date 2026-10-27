@@ -7,7 +7,7 @@ slug: "radonseal-plus-concrete-sealer-deep-penetrating-waterproofing-for-basemen
 image_alt: "RadonSeal Plus Concrete Sealer â€“ Deep Penetrating Waterproofing for Basement Floors, Foundation Walls & Concrete Block"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 254.0
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B013P3QE1W/?tag=tsvglyc-20"

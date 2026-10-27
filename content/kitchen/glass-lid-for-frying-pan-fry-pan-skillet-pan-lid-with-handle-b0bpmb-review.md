@@ -7,7 +7,7 @@ slug: "glass-lid-for-frying-pan-fry-pan-skillet-pan-lid-with-handle-b0bpmb-revie
 image_alt: "Glass Lid for Frying Pan, Fry Pan, Skillet, Pan Lid with Handle Coated, Fits Lodge 8 Inch Cast Iron Skillets 8/20cm, Cle"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 12.97
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BPMBL5D5/?tag=tsvglyc-20"

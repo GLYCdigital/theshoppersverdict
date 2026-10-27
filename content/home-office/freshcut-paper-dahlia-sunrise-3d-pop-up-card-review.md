@@ -7,7 +7,7 @@ slug: "freshcut-paper-dahlia-sunrise-3d-pop-up-card-review"
 image_alt: "Freshcut Paper Dahlia Sunrise 3D pop-up card featuring layered yellow and orange dahlia petals on a dark blue background"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 12.95
 review_count: 4617
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GBZ91WFP/?tag=tsvglyc-20"

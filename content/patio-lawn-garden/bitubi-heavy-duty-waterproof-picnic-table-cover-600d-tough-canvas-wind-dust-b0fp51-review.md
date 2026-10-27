@@ -7,7 +7,7 @@ slug: "bitubi-heavy-duty-waterproof-picnic-table-cover-600d-tough-canvas-wind-du
 image_alt: "Bitubi 600D heavy duty waterproof picnic table cover fitted over a rectangular outdoor table"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 37.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FP51H6LP/?tag=tsvglyc-20"

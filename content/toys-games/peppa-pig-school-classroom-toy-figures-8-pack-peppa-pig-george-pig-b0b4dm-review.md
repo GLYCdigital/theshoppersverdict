@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 If your preschooler has watched the "School Play" episode more times than you can count, this 8-pack of Peppa Pig classroom figures is the toy equivalent of hitting the jackpot. It's currently sitting at a 4.9-star average across 245 ratings — which is remarkable for any toy, let alone one in the budget-friendly licensed-figure category. But is it actually worth the money, or are those stars just from parents desperate to keep Peppa on repeat? Let's break it down.
 
 **What's Actually in the Box**

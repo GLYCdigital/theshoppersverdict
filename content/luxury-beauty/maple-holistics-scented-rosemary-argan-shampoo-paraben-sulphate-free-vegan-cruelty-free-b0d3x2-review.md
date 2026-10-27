@@ -7,7 +7,7 @@ slug: "maple-holistics-scented-rosemary-argan-shampoo-paraben-sulphate-free-vega
 image_alt: "Maple Holistics Scented Rosemary Argan Shampoo Paraben Sulphate Free Vegan Cruelty Free"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 24.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D3X2YGS6/?tag=tsvglyc-20"

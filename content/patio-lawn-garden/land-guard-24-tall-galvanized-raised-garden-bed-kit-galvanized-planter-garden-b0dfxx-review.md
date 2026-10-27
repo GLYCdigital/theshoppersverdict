@@ -7,7 +7,7 @@ slug: "land-guard-24-tall-galvanized-raised-garden-bed-kit-galvanized-planter-ga
 image_alt: "Land Guard 24â€œ Tall Galvanized Raised Garden Bed Kit, Galvanized Planter Garden Boxes Outdoor, Oval Large Metal Raised"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 44.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DFXXLJRN/?tag=tsvglyc-20"

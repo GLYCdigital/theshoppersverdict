@@ -8,7 +8,7 @@ slug: ninja-professional-plus-blender-review
 verdict_score: 4.7
 review_count: 5142
 amazon_rating: 4.7
-price: null
+price: $129.99
 amazon_url: "https://www.amazon.com/dp/B0BMGSZMW9?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71rgzb22FlL._AC_SL1500_.jpg"
 image_alt: "Ninja Professional Plus Blender with Auto-iQ on countertop with fresh ingredients"

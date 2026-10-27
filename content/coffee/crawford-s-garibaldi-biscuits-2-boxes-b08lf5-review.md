@@ -7,7 +7,7 @@ slug: "crawford-s-garibaldi-biscuits-2-boxes-b08lf5-review"
 image_alt: "Two boxes of Crawford's Garibaldi Biscuits showing the classic currant-filled rectangular tea biscuits"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 26.08
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08LF5BF27/?tag=tsvglyc-20"

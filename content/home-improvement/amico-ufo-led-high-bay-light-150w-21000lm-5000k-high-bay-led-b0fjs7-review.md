@@ -7,7 +7,7 @@ slug: "amico-ufo-led-high-bay-light-150w-21000lm-5000k-high-bay-led-b0fjs7-revie
 image_alt: "Amico UFO LED high bay light 150W with 21,000 lumens and 5000K cool white output, shown in industrial warehouse setting"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 129.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJS7L912/?tag=tsvglyc-20"

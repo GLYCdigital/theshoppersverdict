@@ -7,7 +7,7 @@ slug: "yhosseun-serving-platters-and-trays-ceramic-b0f9cz-review"
 image_alt: "YHOSSEUN Serving Platters and Trays, Ceramic"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 24.69
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F9CZ6T4R/?tag=tsvglyc-20"

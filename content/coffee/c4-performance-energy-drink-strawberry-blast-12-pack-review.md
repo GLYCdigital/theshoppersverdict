@@ -19,7 +19,7 @@ faq:
   - question: "Is C4 Performance Energy Drink NSF certified?"
     answer: "Yes. It's NSF Certified for Sport, meaning it's tested and certified for professional and collegiate athletes. No banned substances."
 date: 2026-07-15
-price: null
+price: 26.99
 review_count: 6764
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09FXVQ8WN/?tag=tsvglyc-20"

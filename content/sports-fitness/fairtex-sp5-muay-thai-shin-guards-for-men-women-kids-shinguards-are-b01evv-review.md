@@ -7,7 +7,7 @@ slug: "fairtex-sp5-muay-thai-shin-guards-for-men-women-kids-shinguards-are-b01ev
 image_alt: "Fairtex SP5 Muay Thai shin guards with hook-and-loop closure and elastic foot strap"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 94.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01EVVKOG8/?tag=tsvglyc-20"

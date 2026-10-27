@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Fellow Aiden Precision Smart?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the kitchen appliance category."
 date: 2026-08-01
-price: null
+price: 18.99
 review_count: 949
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D8HVBVS6/?tag=tsvglyc-20"

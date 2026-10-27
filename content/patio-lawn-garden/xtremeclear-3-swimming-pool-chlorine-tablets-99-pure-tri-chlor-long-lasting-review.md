@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Xtremeclear 3\ Swimming Pool?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the outdoor or garden product category."
 date: 2026-08-01
-price: null
+price: 12.99
 review_count: 3652
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CHX4GJ5J/?tag=tsvglyc-20"

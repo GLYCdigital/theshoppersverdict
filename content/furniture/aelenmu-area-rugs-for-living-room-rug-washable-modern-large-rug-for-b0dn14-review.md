@@ -7,7 +7,7 @@ slug: "aelenmu-area-rugs-for-living-room-rug-washable-modern-large-rug-for-b0dn1
 image_alt: "Aelenmu modern washable large area rug laid flat in a living room showing its low-pile geometric pattern"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 39.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DN149HQY/?tag=tsvglyc-20"

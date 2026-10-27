@@ -7,7 +7,7 @@ slug: "yuyius-landscape-edging-garden-edging-border-no-dig-lawn-edging-for-lands
 image_alt: "YUYIUS Landscape Edging - Garden Edging Border, No Dig Lawn Edging for Landscaping for Garden Bed, Yard, 0.15 Thick Flow"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6N3P38Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "fiskars-vegetable-gardening-essentials-6-piece-tool-set-for-cultivating-s
 image_alt: "Fiskars 6-piece vegetable gardening tool set with stainless steel heads and ergonomic handles arranged on a garden bed"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 54.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D88VCMJD/?tag=tsvglyc-20"

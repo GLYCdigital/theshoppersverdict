@@ -21,6 +21,8 @@ cons:
 
 ---
 
+### Review Body
+
 **The Traeger Woodridge Pro is the brand's answer to a decade of "Traeger doesn't get hot enough" complaints.** It's not just a rebadged older model with a new coat of paint. Traeger redesigned the auger system entirely, and that single change transforms how this grill behaves.
 
 #### What's Actually in the Box

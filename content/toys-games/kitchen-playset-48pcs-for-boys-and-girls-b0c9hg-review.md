@@ -7,7 +7,7 @@ slug: "kitchen-playset-48pcs-for-boys-and-girls-b0c9hg-review"
 image_alt: "Kitchen Playset,48Pcs for Boys and Girls"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 45.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0C9HGNMR4/?tag=tsvglyc-20"

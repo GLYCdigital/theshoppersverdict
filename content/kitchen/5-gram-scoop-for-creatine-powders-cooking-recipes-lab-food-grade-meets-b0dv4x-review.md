@@ -7,7 +7,7 @@ slug: "5-gram-scoop-for-creatine-powders-cooking-recipes-lab-food-grade-meets-b0
 image_alt: "5 gram measuring scoop for creatine, protein powder, and cooking ingredients with food-grade construction"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 6.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DV4XSR8T/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "tarte-tartelette-tubing-lash-primer-conditioning-mascara-base-for-longer-
 image_alt: "tarte tartelette tubing lash primer â€“ Conditioning Mascara Base for Longer, Full Sizeer, Volumized & Moisturized Lashe"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 15.0
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F3JW4CST/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "Does the K155 support direct water line connection?"
     answer: "Yes, the K155 includes a direct water line option (sold separately) for continuous brewing without reservoir refills, ideal for high-volume offices."
 date: 2026-07-18
-price: null
+price: 355.00
 review_count: 4977
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"

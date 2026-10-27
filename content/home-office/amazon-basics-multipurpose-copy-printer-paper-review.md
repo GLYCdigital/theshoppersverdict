@@ -7,7 +7,7 @@ slug: "amazon-basics-multipurpose-copy-printer-paper-review"
 image_alt: "Amazon Basics 8.5x11 multipurpose copy printer paper ream, 500 sheets, white"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 6.97
 review_count: 219605
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01FV0F8H8/?tag=tsvglyc-20"

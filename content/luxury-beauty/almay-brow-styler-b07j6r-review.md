@@ -7,7 +7,7 @@ slug: "almay-brow-styler-b07j6r-review"
 image_alt: "ALMAY Brow Styler pencil and spoolie brush in shade with packaging"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07J6RWZ6K/?tag=tsvglyc-20"

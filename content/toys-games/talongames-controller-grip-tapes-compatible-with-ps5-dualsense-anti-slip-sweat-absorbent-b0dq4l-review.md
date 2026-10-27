@@ -7,7 +7,7 @@ slug: "talongames-controller-grip-tapes-compatible-with-ps5-dualsense-anti-slip-
 image_alt: "TALONGAMES Controller Grip Tapes Compatible with PS5 DualSense, Anti Slip, Sweat Absorbent, Skin kit, Compatible with Pl"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 16.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQ4LVH56/?tag=tsvglyc-20"

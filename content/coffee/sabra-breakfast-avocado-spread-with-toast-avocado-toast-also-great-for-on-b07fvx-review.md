@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 You know that moment when you're running late, you want avocado toast, but the avocado on your counter is either a rock or a brown mush? Sabra's Breakfast Avocado Spread with Toast tries to solve that exact problem. It's a grab-and-go kit: two slices of bread and a sealed packet of avocado spread. At 4.4 stars from 220 ratings, shoppers are mostly happy — but let's talk about whether this actually replaces your morning ritual or just adds another layer of packaging to your trash bin.
 
 **What You Actually Get**

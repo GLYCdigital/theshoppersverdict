@@ -7,7 +7,7 @@ slug: "strong-hand-tools-the-python-pipe-alignment-chain-pliers-adjustable-stain
 image_alt: "Strong Hand Tools, The Python, Pipe Alignment Chain Pliers, Adjustable Stainless-Steel Contacts, Replaceable Nickel Plat"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 160.0
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DLLNN2LJ/?tag=tsvglyc-20"

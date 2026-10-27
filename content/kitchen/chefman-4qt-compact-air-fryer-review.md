@@ -7,7 +7,7 @@ slug: "chefman-4qt-compact-air-fryer-review"
 image_alt: "Chefman 4 QT Compact Air Fryer sitting on a kitchen counter with crispy golden french fries visible in the basket"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 59.99
 review_count: 1769
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D5FRXYMJ/?tag=tsvglyc-20"

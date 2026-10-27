@@ -18,7 +18,7 @@ faq:
   - question: "Is the Mr. Pen- Combination Square, 12\ a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a tool or home improvement product, this is a safe choice."
 date: 2026-06-25
-price: null
+price: 10.30
 review_count: 2045
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Q74TLLL/?tag=tsvglyc-20"

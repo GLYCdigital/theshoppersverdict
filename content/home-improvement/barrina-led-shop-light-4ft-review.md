@@ -7,7 +7,7 @@ slug: "barrina-led-shop-light-4ft-review"
 image_alt: "Barrina LED shop light 4FT installed in a garage ceiling, showing bright daylight illumination"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 25183
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07DNPL2VC/?tag=tsvglyc-20"

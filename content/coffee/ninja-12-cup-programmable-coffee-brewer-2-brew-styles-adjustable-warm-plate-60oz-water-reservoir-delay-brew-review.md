@@ -7,7 +7,7 @@ slug: "ninja-12-cup-programmable-coffee-brewer-2-brew-styles-adjustable-warm-pla
 image_alt: "Ninja 12-Cup Programmable Coffee Brewer Black Stainless Steel"
 verdict_score: 4.4
 date: 2026-07-09
-price: null
+price: 185.71
 review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"

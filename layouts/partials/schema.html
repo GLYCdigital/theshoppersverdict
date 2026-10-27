@@ -91,7 +91,7 @@
     "@type" "Article"
     "@id" (printf "%s#article" .Permalink)
     "headline" .Title
-    "description" ((.Params.meta_description | default (.Plain | plainify)) | truncate 160)
+    "description" ((.Params.meta_description | default (.Summary | plainify)) | truncate 160)
     "datePublished" $datePublished
     "dateModified" ($datePublished)
     "author" (dict
@@ -139,32 +139,28 @@
   -}}
   {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
 
-  {{- /* Offer — only when we hold a real, numeric price. Both this block and the
-         homepage ranking read price through partials/price.html so the two checks
-         cannot drift. An Offer without `price` is invalid schema, and it asserted
-         availability + a US return policy on pages quoting no price at all. */ -}}
-  {{- $price := partial "price.html" . -}}
-  {{- if $price.isNumeric -}}
-    {{- $offer := dict
-      "@type" "Offer"
-      "price" $price.raw
-      "priceCurrency" $price.currency
-      "availability" "https://schema.org/InStock"
-      "hasMerchantReturnPolicy" (dict
-        "@type" "MerchantReturnPolicy"
-        "applicableCountry" $price.country
-        "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
-        "merchantReturnDays" 30
-        "returnMethod" "https://schema.org/ReturnByMail"
-        "returnFees" "https://schema.org/FreeReturn"
-      )
-      "seller" (dict "@type" "Organization" "name" $price.seller)
-    -}}
-    {{- with .Params.amazon_url -}}
-      {{- $offer = merge $offer (dict "url" .) -}}
-    {{- end -}}
-    {{- $product = merge $product (dict "offers" $offer) -}}
+  {{- /* Offer */ -}}
+  {{- $offer := dict
+    "@type" "Offer"
+    "priceCurrency" "USD"
+    "availability" "https://schema.org/InStock"
+    "hasMerchantReturnPolicy" (dict
+      "@type" "MerchantReturnPolicy"
+      "applicableCountry" "US"
+      "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
+      "merchantReturnDays" 30
+      "returnMethod" "https://schema.org/ReturnByMail"
+      "returnFees" "https://schema.org/FreeReturn"
+    )
+    "seller" (dict "@type" "Organization" "name" "Amazon.com")
+  -}}
+  {{- with .Params.amazon_url -}}
+    {{- $offer = merge $offer (dict "url" .) -}}
   {{- end -}}
+  {{- with .Params.price -}}
+    {{- $offer = merge $offer (dict "price" (. | string)) -}}
+  {{- end -}}
+  {{- $product = merge $product (dict "offers" $offer) -}}
 
   {{- /* Review (one from us) */ -}}
   {{- $ourReview := dict
@@ -173,7 +169,7 @@
     "author" (dict "@type" "Organization" "name" "The Shopper's Verdict")
     "publisher" (dict "@type" "Organization" "name" "The Shopper's Verdict")
     "datePublished" ($datePublished)
-    "reviewBody" (.Plain | plainify | truncate 500)
+    "reviewBody" (.Summary | plainify | truncate 500)
   -}}
   {{- with .Params.verdict_score -}}
     {{- $ourReview = merge $ourReview (dict "reviewRating" (dict

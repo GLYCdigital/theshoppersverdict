@@ -7,7 +7,7 @@ slug: "two-tumbleweeds-meal-planning-pad-b0db23-review"
 image_alt: "Two Tumbleweeds Meal Planning Pad"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB23QMQG/?tag=tsvglyc-20"

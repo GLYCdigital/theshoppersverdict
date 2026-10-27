@@ -7,7 +7,7 @@ slug: "linear-3089-multicode-3089-compatible-visor-remote-opener-b000ji-review"
 image_alt: "Linear 3089 Multicode 3089 Compatible Visor Remote Opener"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 24.9
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000JILOK8/?tag=tsvglyc-20"

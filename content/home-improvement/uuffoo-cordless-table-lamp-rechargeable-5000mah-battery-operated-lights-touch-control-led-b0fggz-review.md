@@ -7,7 +7,7 @@ slug: "uuffoo-cordless-table-lamp-rechargeable-5000mah-battery-operated-lights-t
 image_alt: "uuffoo Cordless Table Lamp Rechargeable 5000mAH Battery Operated Lights Touch Control LED Portable Desk Lamps 3 Color Di"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 26.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FGGZP74R/?tag=tsvglyc-20"

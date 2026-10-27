@@ -22,6 +22,9 @@ cons:
   - "Softgel size is large for those who struggle with swallowing supplements"
 
 ---
+
+**Review Body:**
+
 Most CoQ10 supplements on Amazon are ubiquinone—the oxidized form your body has to convert before it can use it. That conversion efficiency drops dramatically after age 40, which is precisely when most people start needing CoQ10 for heart health and energy. Dr. Mercola's Ubiquinol 100mg skips that metabolic bottleneck entirely by providing the reduced, active form directly. It's the smarter supplement for anyone over 40, but it comes at a premium that's worth scrutinizing.
 
 **What You're Actually Getting**

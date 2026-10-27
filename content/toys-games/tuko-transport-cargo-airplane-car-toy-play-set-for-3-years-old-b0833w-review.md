@@ -7,7 +7,7 @@ slug: "tuko-transport-cargo-airplane-car-toy-play-set-for-3-years-old-b0833w-rev
 image_alt: "Tuko Transport Cargo Airplane Car Toy Play Set for 3+ Years Old Boys and Girls"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0833WQ2ZL/?tag=tsvglyc-20"

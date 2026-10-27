@@ -7,7 +7,7 @@ slug: "hair-clipper-guards-cutting-guides-fits-for-most-wahl-clippers-b0gqz6-rev
 image_alt: "Hair Clipper Guards Cutting Guides Fits for Most Wahl Clippers"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GQZ64LMV/?tag=tsvglyc-20"

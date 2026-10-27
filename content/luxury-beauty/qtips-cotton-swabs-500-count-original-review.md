@@ -19,7 +19,7 @@ faq:
   - question: "Are Q-tips safe for cleaning ears?"
     answer: "Medical professionals generally advise against inserting cotton swabs into the ear canal. Q-tips are designed for hygiene and beauty care on external surfaces — makeup application, cleaning, and gentle touch-ups."
 date: 2026-07-11
-price: null
+price: 17.93
 review_count: 29035
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0014CZ16Q/?tag=tsvglyc-20"

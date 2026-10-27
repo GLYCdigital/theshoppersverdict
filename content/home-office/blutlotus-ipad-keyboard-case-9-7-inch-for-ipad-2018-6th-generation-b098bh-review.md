@@ -8,7 +8,7 @@ slug: "blutlotus-ipad-keyboard-case-9-7-inch-for-ipad-2018-6th-generation-b098bh
 image_alt: "BLUTLOTUS iPad keyboard case for 9.7 inch iPad 2018 6th generation with detachable keyboard and adjustable stand"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 32.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B098BHKB1G/?tag=tsvglyc-20"

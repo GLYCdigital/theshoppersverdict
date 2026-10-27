@@ -7,7 +7,7 @@ slug: "covlon-small-drink-round-martini-table-drum-end-side-metal-accent-table-b
 image_alt: "COVLON small round martini table with metal drum base in a living room setting"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 89.97
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CXPTMR2V/?tag=tsvglyc-20"

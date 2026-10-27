@@ -22,6 +22,9 @@ cons:
   - "Envelopes are standard white, not gold-lined or matching the card aesthetic"
 
 ---
+
+**The Full Review**
+
 Most blank card packs treat "blank" as an excuse to skimp on quality. The EACYART 30-pack flips that assumption. These aren't flimsy cardstock rectangles you'd use for a last-minute thank-you note — they're substantial 5x7 cards with a gold foil border that makes recipients assume you spent more than you did. At 4.8 stars across 240 ratings, the consensus is clear: this is a thoughtfully made product for a niche that usually gets ignored.
 
 **What You Actually Get**

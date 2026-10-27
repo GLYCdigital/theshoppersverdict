@@ -7,7 +7,7 @@ slug: "deco-brothers-vertuo-pod-holder-drawer-review"
 image_alt: "DecoBrothers Crystal Tempered Glass Vertuo Pod Holder Drawer with coffee pods neatly organized on a kitchen counter"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 29.97
 review_count: 35254
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00YNPKZNU/?tag=tsvglyc-20"

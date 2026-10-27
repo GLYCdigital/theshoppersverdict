@@ -7,7 +7,7 @@ slug: "lanyards-for-id-badges-stainless-steel-badge-lanyard-with-2-pcs-waterproo
 image_alt: "Lanyards for Id Badges Stainless Steel Badge Lanyard with 2 Pcs Waterproof Badge Holder Retractable Badge Lanyards Teach"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F5GYQVNK/?tag=tsvglyc-20"

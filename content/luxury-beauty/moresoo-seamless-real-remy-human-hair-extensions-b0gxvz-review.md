@@ -7,7 +7,7 @@ slug: "moresoo-seamless-real-remy-human-hair-extensions-b0gxvz-review"
 image_alt: "Moresoo Seamless Real Remy Human Hair Extensions"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 80.58
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GXVZQRK3/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "rokr-3d-wooden-puzzles-for-adults-mechanical-music-box-starry-night-diy-b
 image_alt: "ROKR 3D Wooden Puzzles for Adults Mechanical Music Box-Starry Night, DIY Rotating Music Box Model Building Kits for Teen"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 32.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08M9T44S8/?tag=tsvglyc-20"

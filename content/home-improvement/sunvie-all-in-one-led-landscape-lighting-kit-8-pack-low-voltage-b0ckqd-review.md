@@ -7,7 +7,7 @@ slug: "sunvie-all-in-one-led-landscape-lighting-kit-8-pack-low-voltage-b0ckqd-re
 image_alt: "SUNVIE All-In-One LED Landscape Lighting Kit, 8-Pack Low Voltage Landscape Lights with Transformer and 65FT UL-Listed Wi"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 98.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CKQD6V6V/?tag=tsvglyc-20"

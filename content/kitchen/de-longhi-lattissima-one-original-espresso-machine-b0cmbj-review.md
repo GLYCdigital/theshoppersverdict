@@ -7,7 +7,7 @@ slug: "de-longhi-lattissima-one-original-espresso-machine-b0cmbj-review"
 image_alt: "De'Longhi Lattissima One Original Espresso Machine with frothing carafe on counter"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 300.3
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CMBJGQSQ/?tag=tsvglyc-20"

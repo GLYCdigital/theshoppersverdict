@@ -20,7 +20,7 @@ faq:
   - question: "Are Dr.meter ear muffs certified?"
     answer: "Yes, they carry dual certification: ANSI S3.19 (US standard) and CE EN 352.1 (European standard), meeting safety requirements for hearing protection in both markets."
 date: 2026-07-09
-price: null
+price: 22.45
 review_count: 20203
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01LWYWH43/?tag=tsvglyc-20"

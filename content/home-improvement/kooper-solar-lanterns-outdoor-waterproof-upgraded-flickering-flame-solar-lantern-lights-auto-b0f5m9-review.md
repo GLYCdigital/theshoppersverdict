@@ -7,7 +7,7 @@ slug: "kooper-solar-lanterns-outdoor-waterproof-upgraded-flickering-flame-solar-
 image_alt: "KOOPER Solar Lanterns Outdoor Waterproof, Upgraded Flickering Flame Solar Lantern Lights, Auto On/Off Lanterns Decorativ"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 29.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F5M9P41J/?tag=tsvglyc-20"

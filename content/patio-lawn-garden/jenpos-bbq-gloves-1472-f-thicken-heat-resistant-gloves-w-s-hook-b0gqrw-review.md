@@ -7,7 +7,7 @@ slug: "jenpos-bbq-gloves-1472-f-thicken-heat-resistant-gloves-w-s-hook-b0gqrw-re
 image_alt: "JENPOS BBQ Gloves - 1472Â°F Thicken Heat Resistant Gloves w/S-Hook"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GQRWXXTM/?tag=tsvglyc-20"

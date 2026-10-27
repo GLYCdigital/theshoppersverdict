@@ -7,7 +7,7 @@ slug: "commercial-blender-2200w-review"
 image_alt: "Commercial 2200W blender with soundproof enclosure cover and 2-liter jar on countertop"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 229.99
 review_count: 4
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0FS15JD1J/?tag=tsvglyc-20"

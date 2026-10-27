@@ -19,7 +19,7 @@ faq:
   - question: "Are these safe for baby to chew on?"
     answer: "Yes. The soft cotton materials are safe for touching and even chewing. The rattles are firmly enclosed so there's no choking hazard."
 date: 2026-07-14
-price: null
+price: 12.90
 review_count: 8760
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B21ZM7LJ/?tag=tsvglyc-20"

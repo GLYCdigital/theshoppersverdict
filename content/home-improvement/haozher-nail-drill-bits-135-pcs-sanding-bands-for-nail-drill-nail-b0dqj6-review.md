@@ -7,7 +7,7 @@ slug: "haozher-nail-drill-bits-135-pcs-sanding-bands-for-nail-drill-nail-b0dqj6-
 image_alt: "Haozher Nail Drill Bits, 135 Pcs Sanding Bands for Nail Drill, Nail Tips for Drill Bits Nail Tech, Mix 80#120#180#240# F"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 6.94
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DQJ6YY14/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "silicone-cooking-utensil-set-umite-chef-kitchen-utensils-15pcs-cooking-ut
 image_alt: "Silicone Cooking Utensil Set,Umite Chef Kitchen Utensils 15pcs Cooking Utensils Set Non-stick Heat Resistan BPA-Free Sil"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 21.98
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08B85BQ6R/?tag=tsvglyc-20"

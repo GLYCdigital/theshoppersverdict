@@ -7,7 +7,7 @@ slug: "laura-geller-new-york-baked-highlighter-b0grsb-review"
 image_alt: "LAURA GELLER NEW YORK Baked Highlighter"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 20.3
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GRSB4BWP/?tag=tsvglyc-20"

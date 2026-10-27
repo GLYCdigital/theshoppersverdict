@@ -7,7 +7,7 @@ slug: "oster-professional-turbo-a5-heavy-duty-animal-grooming-clippers-with-deta
 image_alt: "Oster Professional Turbo A5 Heavy Duty Animal Grooming Clippers with Detachable CryogenX #10 Blade, 2 Speed (078005-314-"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 329.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07KY8GGXV/?tag=tsvglyc-20"

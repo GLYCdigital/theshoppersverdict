@@ -7,7 +7,7 @@ slug: "cuisinart-food-processor-14-cup-vegetable-chopper-for-mincing-dicing-shre
 image_alt: "Cuisinart DFP-14CRM 14-cup food processor in cream stainless steel with chopping blade and work bowl"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 329.95
 review_count: 21370
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K1SPT9W/?tag=tsvglyc-20"

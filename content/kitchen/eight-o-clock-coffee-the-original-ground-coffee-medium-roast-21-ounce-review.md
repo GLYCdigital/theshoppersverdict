@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Eight O'Clock Coffee The?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the kitchen appliance category."
 date: 2026-08-02
-price: null
+price: 42.04
 review_count: 10809
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BBK6JBXP/?tag=tsvglyc-20"

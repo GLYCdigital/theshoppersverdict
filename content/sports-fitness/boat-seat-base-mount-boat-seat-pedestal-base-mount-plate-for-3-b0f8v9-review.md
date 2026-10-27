@@ -7,7 +7,7 @@ slug: "boat-seat-base-mount-boat-seat-pedestal-base-mount-plate-for-3-b0f8v9-rev
 image_alt: "Aluminum boat seat pedestal base mount plate with pre-drilled mounting holes"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 22.79
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F8V91Q1M/?tag=tsvglyc-20"

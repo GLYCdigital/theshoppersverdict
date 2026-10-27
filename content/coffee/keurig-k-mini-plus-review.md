@@ -9,7 +9,7 @@ verdict_score: 4.4
 review_count: 39293
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20"
-price: null
+price: $94.99
 amazon_image: "https://m.media-amazon.com/images/I/615DwR2X19L._AC_SL1500_.jpg"
 image_alt: "Keurig K-Mini Plus single-serve coffee maker in matte black on a kitchen counter"
 keywords: [Keurig K-Mini Plus review, K-Mini Plus coffee maker, best single-serve coffee maker, Keurig K-Mini Plus vs K-Mini, small coffee maker for small kitchen]

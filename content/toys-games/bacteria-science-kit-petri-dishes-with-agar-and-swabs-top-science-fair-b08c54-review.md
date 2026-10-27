@@ -7,7 +7,7 @@ slug: "bacteria-science-kit-petri-dishes-with-agar-and-swabs-top-science-fair-b0
 image_alt: "Bacteria Science Kit with petri dishes, agar powder, and cotton swabs laid out for a home science experiment"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 19.76
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08C546HHK/?tag=tsvglyc-20"

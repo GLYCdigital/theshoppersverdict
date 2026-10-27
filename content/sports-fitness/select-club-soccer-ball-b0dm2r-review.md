@@ -7,7 +7,7 @@ slug: "select-club-soccer-ball-b0dm2r-review"
 image_alt: "SELECT Club Soccer Ball"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 28.4
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DM2R4C85/?tag=tsvglyc-20"

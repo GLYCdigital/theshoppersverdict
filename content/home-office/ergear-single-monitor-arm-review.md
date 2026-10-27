@@ -7,7 +7,7 @@ slug: "ergear-single-monitor-arm-review"
 image_alt: "ErGear Single Monitor Arm holding a 27-inch display on a wooden desk with full articulation"
 verdict_score: 8.8
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 9383
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQM6QB48/?tag=tsvglyc-20"

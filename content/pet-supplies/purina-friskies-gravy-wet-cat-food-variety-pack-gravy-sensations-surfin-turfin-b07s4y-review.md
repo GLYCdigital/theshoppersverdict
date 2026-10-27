@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 Let’s be blunt: if you’ve got a picky cat, you’ve probably bought a dozen different wet foods that ended up crusting in the bowl. The Purina Friskies Gravy Sensations Variety Pack is the one that actually gets eaten in my house — and with 229 ratings averaging 4.6 stars, I’m not alone. But is it *good* for your cat, or just *good at getting eaten*? Here’s the full picture.
 
 **What You Actually Get**

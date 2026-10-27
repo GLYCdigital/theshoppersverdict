@@ -7,7 +7,7 @@ slug: "ibayam-heavy-duty-scissors-3-pack-review"
 image_alt: "iBayam Heavy Duty Scissors 3-Pack showing three titanium-coated scissors in different sizes with ergonomic handles"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 85889
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20"

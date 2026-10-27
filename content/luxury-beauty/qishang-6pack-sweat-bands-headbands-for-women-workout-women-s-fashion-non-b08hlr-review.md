@@ -7,7 +7,7 @@ slug: "qishang-6pack-sweat-bands-headbands-for-women-workout-women-s-fashion-non
 image_alt: "QiShang 6Pack Sweat Bands Headbands for Women Workout, Womens Fashion Non Slip Headband, Moisture Wicking Sweatband for "
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 13.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08HLRSP6B/?tag=tsvglyc-20"

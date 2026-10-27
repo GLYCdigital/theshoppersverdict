@@ -21,6 +21,9 @@ cons:
   - "Plastic housing feels light; remote requires direct line-of-sight to the IR receiver"
 
 ---
+
+**Review Body:**
+
 The "sunset lamp" trend has flooded Amazon with cheap knockoffs that either cast a muddy orange blob or buzz like a dying fly. The Comfamoli Sunset Lamp Projector sits in a crowded field — so is it actually worth your money, or just another TikTok-driven impulse buy? I've dug through the specs, the 215 ratings, and the real customer chatter to give you the straight answer.
 
 **What You Actually Get**

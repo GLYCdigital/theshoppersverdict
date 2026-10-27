@@ -7,7 +7,7 @@ slug: "lenny-larry-s-fitzels-savory-pretzel-snacks-incredibly-tasty-high-protein
 image_alt: "Lenny & Larrys FITZELS- Savory Pretzel Snacks Incredibly Tasty High Protein, Salty, Vegan, Kosher 18 gs of Plant Based P"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 29.09
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FMBVBDSM/?tag=tsvglyc-20"

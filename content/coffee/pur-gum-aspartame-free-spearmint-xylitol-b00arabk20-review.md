@@ -7,7 +7,7 @@ slug: "pur-gum-aspartame-free-spearmint-xylitol-b00arabk20-review"
 image_alt: "PUR Gum Aspartame Free Spearmint Chewing Gum"
 verdict_score: 4.3
 date: 2026-07-17
-price: null
+price: 4.99
 review_count: 30575
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00ARABK20/?tag=tsvglyc-20"

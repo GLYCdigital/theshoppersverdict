@@ -7,7 +7,7 @@ slug: "wahl-hair-trimmer-b0csfg-review"
 image_alt: "WAHL Hair_Trimmer"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 34.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CSFG3W33/?tag=tsvglyc-20"

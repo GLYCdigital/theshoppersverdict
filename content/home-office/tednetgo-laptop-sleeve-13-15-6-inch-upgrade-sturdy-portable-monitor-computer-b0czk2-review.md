@@ -7,7 +7,7 @@ slug: "tednetgo-laptop-sleeve-13-15-6-inch-upgrade-sturdy-portable-monitor-compu
 image_alt: "TEDNETGO Laptop Sleeve 13 15.6 inch, Upgrade Sturdy Portable Monitor Computer Laptop Case,Carrying Sleeve Bag Briefcase "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 12.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZK2T6LF/?tag=tsvglyc-20"

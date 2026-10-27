@@ -14,7 +14,7 @@ keywords:
 verdict_score: 4.0
 review_count: 1236
 amazon_rating: 4.0
-price: null
+price: 348
 amazon_url: "https://www.amazon.com/dp/B07Z2X25SY/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71SGBDHLriL._AC_SL1500_.jpg"
 pros: 

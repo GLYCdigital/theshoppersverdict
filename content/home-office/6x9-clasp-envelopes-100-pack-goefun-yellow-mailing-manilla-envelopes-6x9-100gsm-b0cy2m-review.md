@@ -7,7 +7,7 @@ slug: "6x9-clasp-envelopes-100-pack-goefun-yellow-mailing-manilla-envelopes-6x9-
 image_alt: "Goefun 6x9 clasp envelopes in yellow manilla with metal clasp closure, 100 pack"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CY2MT23Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "glass-cuticle-pusher-by-bona-fide-beauty-premium-czech-glass-manicure-nai
 image_alt: "Glass Cuticle Pusher by Bona Fide Beauty - Premium Czech Glass Manicure Nail Care Tools"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.49
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B69NJFKK/?tag=tsvglyc-20"

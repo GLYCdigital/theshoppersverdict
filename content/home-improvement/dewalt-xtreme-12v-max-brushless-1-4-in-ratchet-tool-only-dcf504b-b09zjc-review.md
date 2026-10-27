@@ -7,7 +7,7 @@ slug: "dewalt-xtreme-12v-max-brushless-1-4-in-ratchet-tool-only-dcf504b-b09zjc-r
 image_alt: "DEWALT XTREME 12V MAX Brushless 1/4 inch ratchet tool only, model DCF504B, shown on white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 199.0
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09ZJCQG24/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "lpiw-climbing-cargo-net-double-layers-heavy-duty-playground-safety-net-fo
 image_alt: "LPIW Climbing Cargo Net - Double Layers Heavy Duty Playground Safety Net for Kids Tree House & Fort, Back Yard, Jungle G"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D5YT3176/?tag=tsvglyc-20"

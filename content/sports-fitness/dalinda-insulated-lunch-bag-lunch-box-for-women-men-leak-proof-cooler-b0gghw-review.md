@@ -7,7 +7,7 @@ slug: "dalinda-insulated-lunch-bag-lunch-box-for-women-men-leak-proof-cooler-b0g
 image_alt: "DALINDA Insulated Lunch Bag with leak-proof liner, zippered main compartment, and front pocket shown in product photo"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 14.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GGHWG3TN/?tag=tsvglyc-20"

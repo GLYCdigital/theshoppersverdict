@@ -7,7 +7,7 @@ slug: "ergonomic-office-chair-with-footrest-review"
 image_alt: "Ergonomic mesh office chair with extendable footrest, adjustable headrest and lumbar support in reclined position"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 169.0
 review_count: 1014
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FXMC32S4/?tag=tsvglyc-20"

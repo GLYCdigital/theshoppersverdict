@@ -7,7 +7,7 @@ slug: "cafe-bustelo-ground-espresso-review"
 image_alt: "Café Bustelo Espresso Ground Coffee brick pack on a kitchen counter with a cup of dark coffee beside it"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 14.99
 review_count: 9097
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01M3PPSQG/?tag=tsvglyc-20"

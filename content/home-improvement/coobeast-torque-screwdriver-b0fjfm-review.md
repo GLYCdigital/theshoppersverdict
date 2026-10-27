@@ -7,7 +7,7 @@ slug: "coobeast-torque-screwdriver-b0fjfm-review"
 image_alt: "coobeast torque screwdriver with interchangeable bits and adjustment dial"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 29.97
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJFM76GB/?tag=tsvglyc-20"

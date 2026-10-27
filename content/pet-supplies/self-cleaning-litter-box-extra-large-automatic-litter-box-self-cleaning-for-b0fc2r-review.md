@@ -7,7 +7,7 @@ slug: "self-cleaning-litter-box-extra-large-automatic-litter-box-self-cleaning-f
 image_alt: "Self Cleaning Litter Box: Extra Large Automatic Litter Box Self Cleaning for Multiple Cats, Odor-Free, App-Controlled, A"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 261.81
 review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0FC2RPN9M/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "cebory-3-in-1-electric-stand-mixer-6-5qt-bowl-660w-10-review"
 image_alt: "CEBORY 3-in-1 electric stand mixer in almond cream with stainless steel bowl, dough hook, beater and whisk attachments"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 129.99
 review_count: 732
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9NYJL46/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "Is the Ninja 12-Cup Programmable Coffee Brewer durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-08
-price: null
+price: 185.71
 review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"

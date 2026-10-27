@@ -21,6 +21,9 @@ cons:
   - "Interior volume shrinks ~15% due to molded ribs; tight fit for larger Wi-Fi relays or smart switches"
 
 ---
+
+**Review Body**
+
 Most junction boxes treat ventilation like an afterthought. This one makes it the headline feature — and honestly, that's the right call for anyone who's ever opened a sealed enclosure in July to find condensation dripping off the terminals. The ABS Electrical Junction Box with ventilated design and cable grommets is aimed at DIYers and pros who need airflow without abandoning weather protection. At 4.7 stars across 235 ratings, it's clearly doing something right. But let's talk about whether it's right for *your* project.
 
 **What's Actually in the Box**

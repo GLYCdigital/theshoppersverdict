@@ -7,7 +7,7 @@ slug: "meat-chopper-premium-heat-resistant-smasher-for-ground-beef-burger-grinde
 image_alt: "Meat Chopper, Premium Heat Resistant Smasher for Ground Beef, Burger Grinder Nylon Potato Mix Tool"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B095HQ9D6V/?tag=tsvglyc-20"

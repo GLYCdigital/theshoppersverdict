@@ -7,7 +7,7 @@ slug: "amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-review"
 image_alt: "Amazon Basics black office stapler with 1000 staples and non-slip base on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 6.31
 review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"

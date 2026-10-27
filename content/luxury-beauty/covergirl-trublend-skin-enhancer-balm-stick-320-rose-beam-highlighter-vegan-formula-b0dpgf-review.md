@@ -7,7 +7,7 @@ slug: "covergirl-trublend-skin-enhancer-balm-stick-320-rose-beam-highlighter-veg
 image_alt: "CoverGirl Trublend Skin Enhancer Balm Stick in shade 320 Rose Beam swatched on skin showing dewy highlight"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 9.97
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DPGFBMXZ/?tag=tsvglyc-20"

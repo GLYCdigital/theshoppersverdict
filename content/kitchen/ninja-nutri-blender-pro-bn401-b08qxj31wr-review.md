@@ -22,7 +22,7 @@ faq:
   - question: "Are the to-go cups leak-proof?"
     answer: "Yes, the spout lids seal securely with no leaks reported. The blade assembly screws onto the cup for blending, then you swap to the drinking lid — no messy transfers."
 date: 2026-07-18
-price: null
+price: 79.97
 review_count: 11352
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QXJ31WR/?tag=tsvglyc-20"

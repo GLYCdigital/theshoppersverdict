@@ -7,7 +7,7 @@ slug: "yyst-29-74cm-magnetic-anchor-chart-holder-adjustable-magnetic-date-cards-
 image_alt: "YYST 29 (74CM) Magnetic Anchor Chart Holder Adjustable Magnetic Date Cards Holder Calendar Holder for Crafts, Classroom "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B82BT2TQ/?tag=tsvglyc-20"

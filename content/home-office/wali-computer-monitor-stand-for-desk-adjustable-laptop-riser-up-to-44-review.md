@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the WALI Computer Monitor Stand?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-08-01
-price: null
+price: 13.99
 review_count: 15805
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G2RTY746/?tag=tsvglyc-20"

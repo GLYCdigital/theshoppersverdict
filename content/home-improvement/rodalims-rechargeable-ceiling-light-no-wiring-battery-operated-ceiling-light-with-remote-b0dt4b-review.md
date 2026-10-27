@@ -7,7 +7,7 @@ slug: "rodalims-rechargeable-ceiling-light-no-wiring-battery-operated-ceiling-li
 image_alt: "Rodalims Rechargeable Ceiling Light, No Wiring Battery Operated Ceiling Light with Remote, Motion Sensor Dimmable Timing"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 18.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DT4BX7D4/?tag=tsvglyc-20"

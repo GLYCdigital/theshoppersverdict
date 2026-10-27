@@ -22,7 +22,7 @@ faq:
   - question: "What filters does the YETI Pour Over use?"
     answer: "It uses standard V60 cone filters (paper). Most reviewers report no issues with filter tearing or clogging."
 date: 2026-07-23
-price: null
+price: 30
 review_count: 433
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DS6KM3WW/?tag=tsvglyc-20"

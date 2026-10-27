@@ -7,7 +7,7 @@ slug: "smart-fendee-shoe-cabinet-b0gmpv-review"
 image_alt: "Smart FENDEE Shoe Cabinet"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 99.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GMPVBPK3/?tag=tsvglyc-20"

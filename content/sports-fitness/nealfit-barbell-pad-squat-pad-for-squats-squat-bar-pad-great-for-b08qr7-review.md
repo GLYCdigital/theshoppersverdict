@@ -7,7 +7,7 @@ slug: "nealfit-barbell-pad-squat-pad-for-squats-squat-bar-pad-great-for-b08qr7-r
 image_alt: "NEALFIT Barbell Pad Squat Pad for Squatsâ€”Squat Bar Padâ€”Great for Weightlifting,Lunges and Hip Thrustsâ€”Foam Sponge "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08QR7G7BX/?tag=tsvglyc-20"

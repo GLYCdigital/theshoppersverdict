@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Let's be honest: most makeup organizers are either pretty but useless, or functional but ugly. The Rotating Makeup Organizer with 8 adjustable layers actually tries to solve both problems. With 225 ratings averaging 4.5 stars, it's clearly earning its keep on vanities and bathroom counters. But is it worth your money and counter space? Let's dig in.
 
 ## What You Actually Get

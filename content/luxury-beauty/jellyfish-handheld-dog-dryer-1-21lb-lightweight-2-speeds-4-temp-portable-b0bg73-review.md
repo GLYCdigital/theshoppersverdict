@@ -7,7 +7,7 @@ slug: "jellyfish-handheld-dog-dryer-1-21lb-lightweight-2-speeds-4-temp-portable-
 image_alt: "Jellyfish Handheld Dog Dryer - 1.21lb Lightweight, 2 Speeds, 4 Temp, Portable High Velocity Blow Dryer for Travel & Home"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 93.09
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BG73SZL3/?tag=tsvglyc-20"

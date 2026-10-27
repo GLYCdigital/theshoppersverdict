@@ -22,7 +22,7 @@ faq:
   - question: "Can the blades and bowl go in the dishwasher?"
     answer: "Yes. The bowl and most attachments are dishwasher safe, making cleanup convenient. Always check the specific markings on each part before loading."
 date: 2026-07-27
-price: null
+price: 109.99
 review_count: 75
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08CHFH1BZ/?tag=tsvglyc-20"

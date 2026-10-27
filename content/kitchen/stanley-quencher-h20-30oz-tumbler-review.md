@@ -7,7 +7,7 @@ slug: "stanley-quencher-h20-30oz-tumbler-review"
 image_alt: "STANLEY Quencher H2.0 Tumbler 30oz in hand with straw, showing the tapered bottom and standard lid"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 25
 review_count: 92925
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20"

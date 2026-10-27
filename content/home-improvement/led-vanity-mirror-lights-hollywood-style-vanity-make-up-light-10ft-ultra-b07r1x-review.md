@@ -7,7 +7,7 @@ slug: "led-vanity-mirror-lights-hollywood-style-vanity-make-up-light-10ft-ultra-
 image_alt: "Led Vanity Mirror Lights, Hollywood Style Vanity Make Up Light, 10ft Ultra Bright White LED, Dimmable Touch Control Ligh"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 15.29
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R1XJNT9/?tag=tsvglyc-20"

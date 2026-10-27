@@ -7,7 +7,7 @@ slug: "zojirushi-micom-rice-cooker-warmer-b07kyk-review"
 image_alt: "Zojirushi Micom Rice Cooker & Warmer"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 169.98
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07KYKZR2P/?tag=tsvglyc-20"

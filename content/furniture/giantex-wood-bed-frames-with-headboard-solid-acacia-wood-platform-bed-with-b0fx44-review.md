@@ -22,6 +22,9 @@ cons:
   - "Slats sit closer together than most, which is good for support but creates a firm, no-give surface"
 
 ---
+
+**Review Body:**
+
 If you've been scrolling through platform beds for weeks, you've probably noticed a pattern: everything under $300 is either upholstered fabric over cheap plywood or metal tubing that squeaks by month two. The Giantex Solid Acacia Wood Bed Frame is the outlier — a genuinely hardwood bed at a price that usually buys you laminated sawdust. It's not perfect, but it's honest. Here's what 190 Amazon ratings at 3.8 stars actually tell you.
 
 **What You Actually Get**

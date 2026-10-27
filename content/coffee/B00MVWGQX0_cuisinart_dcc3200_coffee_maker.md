@@ -7,7 +7,7 @@ slug: "cuisinart-dcc-3200-coffee-maker-review"
 image_alt: "Cuisinart DCC-3200 PerfecTemp 12-cup stainless steel coffee maker with glass carafe and programmable controls"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 89.95
 review_count: 43350
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20"

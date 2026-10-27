@@ -7,7 +7,7 @@ slug: "pomiku-kids-gardening-tool-set-toddlers-garden-tools-rake-trowel-shovel-f
 image_alt: "POMIKU Kids Gardening Tool Set, Toddlers Garden Tools, Rake, Trowel & Shovel for Digging"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 26.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09TYV7LLS/?tag=tsvglyc-20"

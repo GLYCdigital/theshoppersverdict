@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 Most tape reviews read like a love letter to sticky stuff. This one won't. You're buying Scotch Magic Tape with a desktop dispenser — 6 rolls of the ¾-inch width, the most common size for home and office use. I've tested it against cheaper generic tape, and here's what actually matters.
 
 **What you get**

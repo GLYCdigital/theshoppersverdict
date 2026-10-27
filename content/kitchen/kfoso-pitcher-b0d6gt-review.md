@@ -7,7 +7,7 @@ slug: "kfoso-pitcher-b0d6gt-review"
 image_alt: "KFOSO Pitcher"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 20.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D6GT1P55/?tag=tsvglyc-20"

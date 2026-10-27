@@ -7,7 +7,7 @@ slug: "imarku-santoku-knife-b0gvbk-review"
 image_alt: "imarku santoku knife"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 199.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVBK7FYS/?tag=tsvglyc-20"

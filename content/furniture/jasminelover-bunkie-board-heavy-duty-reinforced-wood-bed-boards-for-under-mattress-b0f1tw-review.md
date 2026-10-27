@@ -7,7 +7,7 @@ slug: "jasminelover-bunkie-board-heavy-duty-reinforced-wood-bed-boards-for-under
 image_alt: "JASMINELOVER Bunkie Board - Heavy Duty Reinforced Wood Bed Boards for Under Mattress, Universal Sleeper Sofa Support Boa"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 84.5
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1TWSZD1/?tag=tsvglyc-20"

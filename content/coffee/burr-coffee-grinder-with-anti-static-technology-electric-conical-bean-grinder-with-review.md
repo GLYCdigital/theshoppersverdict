@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Burr Coffee Grinder with?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-30
-price: null
+price: 79.99
 review_count: 73
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GM71GW4Q/?tag=tsvglyc-20"

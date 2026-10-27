@@ -7,7 +7,7 @@ slug: "laptop-stand-for-desk-portable-computer-riser-metal-notebook-holder-revie
 image_alt: "Laptop Stand for Desk Portable Computer Riser Metal Notebook Holder"
 verdict_score: 4.6
 date: 2026-07-09
-price: null
+price: 12.99
 review_count: 807
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G6KLZC6N/?tag=tsvglyc-20"

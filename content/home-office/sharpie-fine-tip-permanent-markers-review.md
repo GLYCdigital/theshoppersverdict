@@ -7,7 +7,7 @@ slug: "sharpie-fine-tip-permanent-markers-review"
 image_alt: "Sharpie Fine Point Permanent Markers in assorted colors, 24-count box"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 8.99
 review_count: 44828
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20"

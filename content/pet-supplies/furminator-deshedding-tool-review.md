@@ -7,7 +7,7 @@ slug: "furminator-deshedding-tool-review"
 image_alt: "FURminator Deshedding Tool for dogs with stainless steel edge and ergonomic handle"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 12744
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07MZDTG76/?tag=tsvglyc-20"

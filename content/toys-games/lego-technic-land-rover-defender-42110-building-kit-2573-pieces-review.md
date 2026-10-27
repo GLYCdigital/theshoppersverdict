@@ -19,7 +19,7 @@ faq:
   - question: "Does the LEGO Technic Land Rover Defender have a working gearbox?"
     answer: "Yes, it features a fully functional 4-speed sequential gearbox with high and low range settings, plus a working winch, steering, independent suspension, and a detailed inline 6-cylinder engine with moving pistons. One reviewer called it 'a plethora of working features' and praised the gearbox's realism."
 date: 2026-07-31
-price: null
+price: 339.89
 review_count: 3713
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZF5F5P/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "trueque-wireless-keyboard-and-mouse-combo-full-size-quiet-keyboard-with-p
 image_alt: "Trueque Wireless Keyboard and Mouse Combo - Full-Size Quiet Keyboard with Palm Rest, Phone Holder, Multimedia Keys, Powe"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 21.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FBRM92YX/?tag=tsvglyc-20"

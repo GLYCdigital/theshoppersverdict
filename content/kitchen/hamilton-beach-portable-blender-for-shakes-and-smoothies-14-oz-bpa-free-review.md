@@ -16,7 +16,7 @@ faq:
   - question: "Is the Hamilton Beach Portable Blender durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-07-11
-price: null
+price: 24.95
 review_count: 70156
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00065L6CU/?tag=tsvglyc-20"

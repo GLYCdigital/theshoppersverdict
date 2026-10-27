@@ -7,7 +7,7 @@ slug: "meowoou-cat-scratching-post-33-inch-tall-cat-scratcher-for-indoor-cats-b0
 image_alt: "Meowoou Cat Scratching Post 33 Inch Tall Cat Scratcher for Indoor Cats Adults,Small Cat Tree Tower Sisal Rope Kitten Scr"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 28.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G8Z9SPBK/?tag=tsvglyc-20"

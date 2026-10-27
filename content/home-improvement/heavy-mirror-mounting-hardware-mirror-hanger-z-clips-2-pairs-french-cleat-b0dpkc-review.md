@@ -7,7 +7,7 @@ slug: "heavy-mirror-mounting-hardware-mirror-hanger-z-clips-2-pairs-french-cleat
 image_alt: "Heavy Mirror Mounting Hardware Mirror Hanger Z Clips 2 Pairs French Cleat Aluminum Alloy Mirror Picture Frame Hanging Ki"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 24.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DPKC3FTY/?tag=tsvglyc-20"

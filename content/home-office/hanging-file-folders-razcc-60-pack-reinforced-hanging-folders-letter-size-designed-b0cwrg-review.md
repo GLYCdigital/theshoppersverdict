@@ -7,7 +7,7 @@ slug: "hanging-file-folders-razcc-60-pack-reinforced-hanging-folders-letter-size
 image_alt: "Hanging File Folders, RAZCC 60 Pack Reinforced Hanging Folders Letter Size, Designed for Bulky Files, Filing Cabinet, Ad"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 36.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CWRG8678/?tag=tsvglyc-20"

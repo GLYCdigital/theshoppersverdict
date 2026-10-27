@@ -7,7 +7,7 @@ slug: "bosch-gws12v-30n-12v-max-brushless-3-in-angle-grinder-bare-tool-b09lx4-re
 image_alt: "BOSCH GWS12V-30N 12V Max brushless 3 inch angle grinder with grip shown"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 139.0
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09LX43LC4/?tag=tsvglyc-20"

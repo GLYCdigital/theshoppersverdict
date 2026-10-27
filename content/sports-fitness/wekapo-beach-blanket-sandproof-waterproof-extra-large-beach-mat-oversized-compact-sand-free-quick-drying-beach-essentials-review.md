@@ -7,7 +7,7 @@ slug: "wekapo-beach-blanket-sandproof-waterproof-extra-large-beach-mat-oversized
 image_alt: "WEKAPO Beach Blanket Sandproof Waterproof Extra Large"
 verdict_score: 4.6
 date: 2026-07-09
-price: null
+price: 32.26
 review_count: 14673
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08X6VQBGJ/?tag=tsvglyc-20"

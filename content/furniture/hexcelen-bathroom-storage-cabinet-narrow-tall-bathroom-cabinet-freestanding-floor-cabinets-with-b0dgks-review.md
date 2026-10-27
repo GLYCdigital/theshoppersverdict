@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 You know that awkward dead space next to your toilet or between the vanity and the wall? The gap that's too narrow for a standard cabinet but too wide to ignore? That's exactly the problem the HEXCELEN Narrow Tall Bathroom Cabinet solves. With a 4.6-star average across 229 ratings, this freestanding tower has earned its place in countless cramped bathrooms — but it's not without quirks.
 
 **What you actually get**

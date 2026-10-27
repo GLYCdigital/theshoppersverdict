@@ -7,7 +7,7 @@ slug: "ciwivoki-dog-steps-for-couch-b0frrd-review"
 image_alt: "CiWiVOKi dog steps for couch with three foam steps and removable cover in gray"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 59.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRRDPYFQ/?tag=tsvglyc-20"

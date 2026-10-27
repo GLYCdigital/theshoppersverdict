@@ -7,7 +7,7 @@ slug: "hamilton-beach-burr-coffee-grinder-review"
 image_alt: "Hamilton Beach Electric Burr Coffee Grinder with clear grinding chamber and adjustable settings"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: 39.95
 review_count: 2030
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07YQLF481/?tag=tsvglyc-20"

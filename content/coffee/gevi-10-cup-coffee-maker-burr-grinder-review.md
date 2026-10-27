@@ -7,7 +7,7 @@ slug: "gevi-10-cup-coffee-maker-burr-grinder-review"
 image_alt: "Gevi 10-cup drip coffee maker with conical burr grinder, programmable timer, and reusable filter on kitchen counter"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 149.99
 review_count: 909
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GV293Z4L/?tag=tsvglyc-20"

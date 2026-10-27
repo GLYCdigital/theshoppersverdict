@@ -7,7 +7,7 @@ slug: "victron-energy-smartsolar-mppt-tr-ve-can-solar-charge-controller-bluetoot
 image_alt: "Victron Energy SmartSolar MPPT Tr VE. Can Solar Charge Controller (Bluetooth) - Charge Controllers for Solar Panels, 12/"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 542.3
 review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0FDLWQ6ZV/?tag=tsvglyc-20"

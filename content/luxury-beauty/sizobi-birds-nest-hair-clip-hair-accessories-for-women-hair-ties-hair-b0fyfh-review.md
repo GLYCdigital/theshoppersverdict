@@ -7,7 +7,7 @@ slug: "sizobi-birds-nest-hair-clip-hair-accessories-for-women-hair-ties-hair-b0f
 image_alt: "Sizobi Birds Nest Hair Clip, Hair Accessories for Women,Hair Ties Hair Bun Maker Hair Clips for Thick Thin Hair,Hair Cli"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 8.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FYFHGVGC/?tag=tsvglyc-20"

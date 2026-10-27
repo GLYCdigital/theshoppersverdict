@@ -7,7 +7,7 @@ slug: "st-inc-dish-drying-mat-xl-review"
 image_alt: "S&T INC. Dish Drying Mat XL in a kitchen sink area with dishes drying on top"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 37493
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20"

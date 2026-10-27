@@ -7,7 +7,7 @@ slug: "pamase-grill-cart-bbq-cover-heavy-duty-waterproof-gas-cover-for-outdoor-b
 image_alt: "PAMASE Grill Cart BBQ Cover - Heavy Duty Waterproof Gas Cover for Outdoor Grill Food Prep Table, UV Fade & Rip Resistant"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 23.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D69MX1T9/?tag=tsvglyc-20"

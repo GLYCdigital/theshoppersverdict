@@ -7,7 +7,7 @@ slug: "dstana-chicken-feeder-port-b0fcyy-review"
 image_alt: "DSTANA chicken feeder port mounted on a galvanized bucket with hens feeding"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 20.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FCYYSMYX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "push-pin-picture-hooks-push-pin-hangers-decorative-push-pins-for-wall-b0c
 image_alt: "Push Pin Picture Hooks, Push Pin Hangers, Decorative Push Pins for Wall Hanging, Thumb Tacks for Hanging, Bulletin Board"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CL6NZSQ8/?tag=tsvglyc-20"

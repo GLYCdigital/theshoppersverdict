@@ -8,7 +8,7 @@ slug: "delonghi-magnifica-plus-fully-automatic-espresso-review"
 image_alt: "De'Longhi Magnifica Plus fully automatic espresso machine with stainless steel finish and touchscreen display"
 verdict_score: 3.7
 date: 2026-08-06
-price: null
+price: 1299.95
 review_count: 382
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DG4BCHK8/?tag=tsvglyc-20"

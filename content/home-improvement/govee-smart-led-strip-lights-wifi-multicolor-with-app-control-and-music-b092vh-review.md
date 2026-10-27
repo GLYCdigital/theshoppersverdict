@@ -7,7 +7,7 @@ slug: "govee-smart-led-strip-lights-wifi-multicolor-with-app-control-and-music-b
 image_alt: "Govee Smart LED Strip Lights, WiFi, Multicolor, with App Control and Music Sync, Indoor Use"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B092VH2KTJ/?tag=tsvglyc-20"

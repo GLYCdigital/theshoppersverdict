@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the STANLEY Quencher ProTour Flip Straw?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the kitchen appliance category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-07
-price: null
+price: 43.67
 review_count: 18294
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GC9JYKSN/?tag=tsvglyc-20"

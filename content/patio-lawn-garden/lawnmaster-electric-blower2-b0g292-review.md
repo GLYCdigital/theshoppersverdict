@@ -7,7 +7,7 @@ slug: "lawnmaster-electric-blower2-b0g292-review"
 image_alt: "LawnMaster Electric Blower2"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 69.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G292B42Z/?tag=tsvglyc-20"

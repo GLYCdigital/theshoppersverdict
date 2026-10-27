@@ -7,7 +7,7 @@ slug: "premium-glass-nail-file-with-case-crystal-diamond-salon-best-beauty-nail-
 image_alt: "Premium Glass Nail File with Case, Crystal Diamond Salon Best Beauty Nail Buffer for Natural and Acrylic Nails Christmas"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 4.08
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08TBKJTHN/?tag=tsvglyc-20"

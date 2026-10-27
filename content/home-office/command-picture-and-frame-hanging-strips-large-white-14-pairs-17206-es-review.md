@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the Command Picture and Frame?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-07-24
-price: null
+price: 17.91
 review_count: 175081
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B073XR4X72/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "cisily-sponge-holder-review"
 image_alt: "Cisily sponge holder and sink caddy with brush holder mounted over a kitchen sink faucet"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 12796
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=tsvglyc-20"

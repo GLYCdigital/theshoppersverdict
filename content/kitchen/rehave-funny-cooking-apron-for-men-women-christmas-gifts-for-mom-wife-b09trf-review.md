@@ -7,7 +7,7 @@ slug: "rehave-funny-cooking-apron-for-men-women-christmas-gifts-for-mom-wife-b09
 image_alt: "REHAVE Funny Cooking Apron for Men, Women - Christmas Gifts for Mom,Wife, Dad, Gag Gifts"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09TRFRV44/?tag=tsvglyc-20"

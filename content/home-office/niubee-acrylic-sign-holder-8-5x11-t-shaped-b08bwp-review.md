@@ -7,7 +7,7 @@ slug: "niubee-acrylic-sign-holder-8-5x11-t-shaped-b08bwp-review"
 image_alt: "NIUBEE Acrylic Sign Holder 8.5x11 T-Shaped"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 21.98
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08BWPRDQ8/?tag=tsvglyc-20"

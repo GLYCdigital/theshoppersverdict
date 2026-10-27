@@ -7,7 +7,7 @@ slug: "curl-cream-b0djfx-review"
 image_alt: "Curl Cream jar with whipped texture and visible curl definition on application"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 22.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJFX9893/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "tecluk-keyboard-tray-under-desk-with-drawer-26-77-x-11-81-b0g7s8-review"
 image_alt: "TECLUK Keyboard Tray Under Desk with Drawer,26.77 X 11.81 Keyboard Tray Large Size with C Clamp-on Mount, Easy to Instal"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 53.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0G7S8SBQK/?tag=tsvglyc-20"

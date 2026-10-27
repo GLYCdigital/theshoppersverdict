@@ -7,7 +7,7 @@ slug: "waterproof-membrane-for-shower-b0d67b-review"
 image_alt: "Waterproof Membrane for Shower"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 45.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D67BTJ74/?tag=tsvglyc-20"

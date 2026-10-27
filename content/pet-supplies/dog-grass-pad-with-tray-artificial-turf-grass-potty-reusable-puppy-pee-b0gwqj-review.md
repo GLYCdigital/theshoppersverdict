@@ -7,7 +7,7 @@ slug: "dog-grass-pad-with-tray-artificial-turf-grass-potty-reusable-puppy-pee-b0
 image_alt: "Reusab dog grass pad with tray showing artificial turf surface and removable drainage tray for indoor puppy potty training"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 45.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GWQJXYJC/?tag=tsvglyc-20"

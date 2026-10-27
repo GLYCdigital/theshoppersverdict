@@ -7,7 +7,7 @@ slug: "nzxt-h3-flow-micro-atx-pc-case-b0ftlq-review"
 image_alt: "NZXT H3 Flow â€“ Micro-ATX PC Case"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 59.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FTLQ3VCK/?tag=tsvglyc-20"

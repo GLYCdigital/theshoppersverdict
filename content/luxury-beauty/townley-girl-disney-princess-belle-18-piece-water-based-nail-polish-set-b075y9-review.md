@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 If you've ever tried to remove traditional nail polish from a wiggly five-year-old, you know the struggle: the acetone fumes, the stained clothing, the tears when the cotton ball drags across a fresh cuticle. The Townley Girl Disney Princess Belle 18-Piece Water-Based Nail Set sidesteps that entire drama. And for parents, that alone might be worth the price of admission.
 
 **What You Actually Get**

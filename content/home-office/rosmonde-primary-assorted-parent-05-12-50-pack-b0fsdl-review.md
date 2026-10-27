@@ -7,7 +7,7 @@ slug: "rosmonde-primary-assorted-parent-05-12-50-pack-b0fsdl-review"
 image_alt: "Rosmonde Primary Assorted parent 05, 12, 50 Pack"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FSDL2JTK/?tag=tsvglyc-20"

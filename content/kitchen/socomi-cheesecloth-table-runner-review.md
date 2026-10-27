@@ -7,7 +7,7 @@ slug: "socomi-cheesecloth-table-runner-review"
 image_alt: "Socomi pink cheesecloth table runner styled on a farmhouse dining table with boho summer decor"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 8.99
 review_count: 6815
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B2P4P2R4/?tag=tsvglyc-20"

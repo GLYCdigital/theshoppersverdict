@@ -7,7 +7,7 @@ slug: "epakh-clipboard-bulks-metal-clipboard-aluminum-office-low-profile-clip-st
 image_alt: "Epakh aluminum metal clipboard with low-profile clip holding standard A4 paper"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 12.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09WYLWPVM/?tag=tsvglyc-20"

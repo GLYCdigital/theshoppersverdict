@@ -7,7 +7,7 @@ slug: "dog-seat-belt-for-car-updated-3-in-1-adjustable-reflective-bungee-b09d38-
 image_alt: "Reflective bungee dog seat belt attached to a dog harness in a car interior"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09D38DZH3/?tag=tsvglyc-20"

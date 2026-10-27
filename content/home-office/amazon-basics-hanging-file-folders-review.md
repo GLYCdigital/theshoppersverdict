@@ -7,7 +7,7 @@ slug: "amazon-basics-hanging-file-folders-review"
 image_alt: "Amazon Basics letter-size hanging file folders with metal hooks, stacked and ready for a filing drawer"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 12.97
 review_count: 126055
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00V5DG6IQ/?tag=tsvglyc-20"

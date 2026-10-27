@@ -7,7 +7,7 @@ slug: "junnai-modern-floor-lamp-height-adjustable-standing-lamp-b0d3vb-review"
 image_alt: "JUNNAI Modern Floor Lamp Height Adjustable Standing Lamp"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 58.65
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D3VB1WRX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "munfix-100-gold-plastic-plates-set-10-inch-fancy-heavy-duty-elegant-b087f
 image_alt: "Munfix 100 Gold Plastic Plates Set, 10 Inch Fancy Heavy Duty Elegant Disposable Dinner Plates, For Party, Wedding, White"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 44.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B087F4J75G/?tag=tsvglyc-20"

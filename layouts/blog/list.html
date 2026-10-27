@@ -15,7 +15,7 @@
     <article class="blog-card">
       <h2 class="blog-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <p class="blog-card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
-      <p class="blog-card-summary">{{ .Plain | plainify | truncate 180 }}</p>
+      <p class="blog-card-summary">{{ .Summary | plainify | truncate 180 }}</p>
       <a href="{{ .RelPermalink }}" class="btn btn-outline btn-sm">Read more →</a>
     </article>
     {{ else }}

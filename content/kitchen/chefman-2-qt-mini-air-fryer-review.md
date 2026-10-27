@@ -7,7 +7,7 @@ slug: "chefman-2-qt-mini-air-fryer-review"
 image_alt: "CHEFMAN 2 Qt Mini Air Fryer in white with digital display and nonstick basket on countertop"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 49.99
 review_count: 29209
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNJ2Z73/?tag=tsvglyc-20"

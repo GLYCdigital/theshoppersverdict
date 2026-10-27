@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Mysense Patriotic Red White?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the beauty or skincare product category."
 date: 2026-07-05
-price: null
+price: 12.88
 review_count: 521
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4QCFVN5/?tag=tsvglyc-20"

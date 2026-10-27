@@ -7,7 +7,7 @@ slug: "mirunair-inflatable-bounce-house-with-slides-inflatable-water-slide-for-k
 image_alt: "MIRUNAIR Inflatable Bounce House with Slides, Inflatable Water Slide for Kids Backyard, Bounce Water Prak with Air Blowe"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 399.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CS3J46GL/?tag=tsvglyc-20"

@@ -10,35 +10,9 @@
 {{ $weekTop3 := first 3 (sort $weekPages ".Params.amazon_rating" "desc") }}
 
 {{ $monthAgo := now.AddDate 0 0 -30 }}
-{{/* Recency blocks must include /blog/: 19 October posts are real, recent and
-     currently invisible to the homepage because the category whitelist above
-     omits "blog". A recency block that excludes the only recent content is an
-     instrument returning nothing. */}}
-{{ $recentPool := union $all (where .Site.RegularPages "Type" "blog") }}
-{{ $monthPages := where $recentPool "Date" "ge" $monthAgo }}
-{{/* Only numeric prices may enter the priced ranking. A text value such as
-     "Check price on Amazon" or "N/A" used to sort into this block as a string,
-     putting contradictory prices on the homepage. Type guard lives here, not in
-     content, so no future edit can re-introduce it. */}}
-{{ $monthPriced := slice }}
-{{ range $monthPages }}
-  {{ if (partial "price.html" .).isNumeric }}
-    {{ $monthPriced = $monthPriced | append . }}
-  {{ end }}
-{{ end }}
+{{ $monthPages := where $all "Date" "ge" $monthAgo }}
+{{ $monthPriced := where $monthPages ".Params.price" "ne" nil }}
 {{ $monthTop3 := first 3 (sort $monthPriced ".Params.price" "desc") }}
-{{/* With every price dropped as unverifiable, the priced ranking is empty. An
-     empty homepage column reads as a broken site, so fall back to top-rated —
-     the column is labelled "Editor's Favourite", not "most expensive". */}}
-{{ if eq (len $monthTop3) 0 }}
-  {{/* Nobody has been published with a current date in 30 days (the pipeline
-       writes historical `date:` values), so "this month" is empty and the
-       column reads "No reviews this month" on the live homepage. Fall back to
-       the newest posts overall by rating — never to an empty state. */}}
-  {{/* Blog posts carry no amazon_rating, so sort the fallback by publish date
-       rather than letting an absent param order the column arbitrarily. */}}
-  {{ $monthTop3 = first 3 (sort (first 30 (union $all (where .Site.RegularPages "Type" "blog")).ByDate.Reverse) "Date" "desc") }}
-{{ end }}
 
 <!-- Hero Banner (weekly rotation) -->
 <section class="hero-banner" id="heroBanner" style="background: linear-gradient(135deg, rgba(27,27,47,0.92), rgba(27,27,47,0.7)), url('/images/hero-kitchen.jpg') center/cover no-repeat;">
@@ -160,7 +134,7 @@
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
             {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-            <p class="vc-summary">{{ .Plain | plainify | truncate 80 }}</p>
+            <p class="vc-summary">{{ .Summary | plainify | truncate 80 }}</p>
           </div>
         </div>
         {{ end }}
@@ -180,7 +154,7 @@
             <span class="vc-category">{{ .CurrentSection.Title }}</span>
             <h3><a href="{{ .RelPermalink }}" class="vc-title-link">{{ .Title }}</a></h3>
             {{ with .Params.amazon_rating }}<div class="vc-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-            <p class="vc-summary">{{ .Plain | plainify | truncate 60 }}</p>
+            <p class="vc-summary">{{ .Summary | plainify | truncate 60 }}</p>
           </div>
         </div>
         {{ end }}
@@ -243,7 +217,7 @@
           <span class="vg-category">{{ .CurrentSection.Title }}</span>
           <h4><a href="{{ .RelPermalink }}" class="vg-title-link">{{ .Title }}</a></h4>
           {{ with .Params.amazon_rating }}<div class="vg-stars">{{ partial "stars.html" . }} <span class="rating-inline">{{ . }}/5</span></div>{{ end }}
-          <p class="vg-summary">{{ .Plain | plainify | truncate 80 }}</p>
+          <p class="vg-summary">{{ .Summary | plainify | truncate 80 }}</p>
         </div>
       </div>
       {{ end }}

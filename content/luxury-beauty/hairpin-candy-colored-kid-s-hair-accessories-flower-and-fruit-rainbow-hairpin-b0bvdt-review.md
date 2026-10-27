@@ -7,7 +7,7 @@ slug: "hairpin-candy-colored-kid-s-hair-accessories-flower-and-fruit-rainbow-hai
 image_alt: "Hairpin Candy-colored kids hair accessories, flower and fruit, rainbow hairpin set, girl cartoon animal cute hairpin,Pac"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.89
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVDT7MMW/?tag=tsvglyc-20"

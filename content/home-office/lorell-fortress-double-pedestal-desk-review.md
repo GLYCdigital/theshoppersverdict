@@ -19,7 +19,7 @@ faq:
   - question: "What are the main drawbacks?"
     answer: "The most common complaints focus on shipping damage risk — heavy desk often arrives dented or scratched."
 date: 2026-05-26
-price: null
+price: 739.99
 review_count: 14
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B00P8582AC/?tag=tsvglyc-20"

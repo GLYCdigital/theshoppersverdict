@@ -7,7 +7,7 @@ slug: "coffee-gator-moka-pot-b0gvny-review"
 image_alt: "Coffee Gator Moka Pot stainless steel stovetop espresso maker on a kitchen counter"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 32.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVNYJ9G9/?tag=tsvglyc-20"

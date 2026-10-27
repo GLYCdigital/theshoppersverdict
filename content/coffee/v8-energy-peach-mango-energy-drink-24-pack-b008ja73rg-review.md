@@ -7,7 +7,7 @@ slug: "v8-energy-peach-mango-energy-drink-24-pack-b008ja73rg-review"
 image_alt: "V8 Energy Peach Mango Energy Drink 24 Pack"
 verdict_score: 4.5
 date: 2026-07-17
-price: null
+price: 31.9
 review_count: 18091
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B008JA73RG/?tag=tsvglyc-20"

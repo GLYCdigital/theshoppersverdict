@@ -7,7 +7,7 @@ slug: "tiya-containers-rectangular-plastic-to-go-containers-reusable-microwavabl
 image_alt: "TIYA Containers - Rectangular Plastic To-Go Containers - Reusable, Microwavable, Dishwasher Safe - Leak-Proof for Meal P"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YVLBL75/?tag=tsvglyc-20"

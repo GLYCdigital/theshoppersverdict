@@ -19,7 +19,7 @@ faq:
   - question: "Should old Guard players be happy with this codex?"
     answer: "Mixed reactions. Newer players will find a solid, playable book. Veteran players note that Cadians and Catachans are the focus, with older regiment rules folded into broader detachments."
 date: 2026-07-11
-price: null
+price: 66.00
 review_count: 70
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/1804574767/?tag=tsvglyc-20"

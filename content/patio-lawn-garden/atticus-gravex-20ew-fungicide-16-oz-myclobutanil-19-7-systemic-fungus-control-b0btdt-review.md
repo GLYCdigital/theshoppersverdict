@@ -22,6 +22,9 @@ cons:
   - "Not OMRI-listed for organic growing — synthetic chemistry only"
 
 ---
+
+**Review Body:**
+
 Let's cut through the noise: if you're fighting powdery mildew on your roses, rust on your lawn, or anthracnose on your shade trees, you need a systemic fungicide — not a contact spray that washes off with the next rain. Atticus Gravex 20EW delivers that with 19.7% myclobutanil, the same active ingredient found in premium brands like Eagle 20EW, at a fraction of the per-ounce cost. The question is whether the savings come with compromises. After digging through the formulation, the math, and 225 verified buyer experiences, here's the real story.
 
 **What You Actually Get**

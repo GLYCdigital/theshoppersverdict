@@ -7,7 +7,7 @@ slug: "bmouo-case-for-ipad-a16-11th-generation-11-2025-ipad-10th-generation-b0cj
 image_alt: "BMOUO iPad 11th Generation case in black with Apple Pencil holder and foldable kickstand"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 22.98
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJF4Y19X/?tag=tsvglyc-20"

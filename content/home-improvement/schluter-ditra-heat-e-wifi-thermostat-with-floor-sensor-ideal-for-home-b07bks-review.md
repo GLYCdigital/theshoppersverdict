@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 You're installing heated tile floors, and you've already committed to the Schluter Ditra-Heat system — the orange uncoupling membrane with the embedded heating cables. That's the expensive, labor-intensive part. The thermostat is the brain, and the Schluter Ditra-Heat-E-WiFi is engineered specifically for that system. If you're outside the Schluter ecosystem, stop reading — this isn't for you. If you're in it, this is arguably the cleanest way to control your floors.
 
 ## What's Actually in the Box

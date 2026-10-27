@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the INVENHO Small Medium Dog?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-08-02
-price: null
+price: 44.95
 review_count: 4501
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C27WBWMS/?tag=tsvglyc-20"

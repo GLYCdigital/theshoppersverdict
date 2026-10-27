@@ -7,7 +7,7 @@ slug: "terra-ties-parent-b0dvj5-review"
 image_alt: "Terra Ties Parent"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.95
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DVJ5T7FN/?tag=tsvglyc-20"

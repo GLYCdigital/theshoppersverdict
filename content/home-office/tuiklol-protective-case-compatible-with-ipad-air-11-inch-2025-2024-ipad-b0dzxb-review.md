@@ -7,7 +7,7 @@ slug: "tuiklol-protective-case-compatible-with-ipad-air-11-inch-2025-2024-ipad-b
 image_alt: "Tuiklol Protective Case Compatible with iPad Air 11 inch 2025 2024 & iPad Air 10.9 2022 2020"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 25.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZXBPPPQ/?tag=tsvglyc-20"

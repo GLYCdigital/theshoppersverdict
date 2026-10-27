@@ -22,6 +22,9 @@ cons:
   - "No template included for marking screw holes, which slows down multi-pull installations"
 
 ---
+
+**Review Body**
+
 You're staring at a kitchen full of dated brass pulls and a $40 budget. The BUKOBYHE 10-pack of 3-inch matte black knurled drawer pulls promises a full cabinet refresh without re-mortgaging your house. At 4.4 stars from 220 ratings, the consensus is clear: these are solid, but let's dig into whether they're *your* solid.
 
 **What's actually in the box**

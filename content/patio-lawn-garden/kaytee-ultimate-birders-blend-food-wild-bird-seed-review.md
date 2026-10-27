@@ -20,7 +20,7 @@ faq:
     answer: "Buyers say yes despite the premium price — birds devour it quickly. One reviewer called it 'a bit pricey' but worth it, while another said the bag doesn't last long because the birds go through it so fast."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: null
+price: 21.99
 review_count: 5114
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07QYCJ1VV/?tag=tsvglyc-20"

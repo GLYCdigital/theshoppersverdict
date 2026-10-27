@@ -7,7 +7,7 @@ slug: "meccano-super-construction-25-in-1-motorized-building-set-steam-education
 image_alt: "MECCANO, Super Construction 25-in-1 Motorized Building Set, STEAM Education Toy, 638 Parts, for Ages 10+"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 169.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08258N6LK/?tag=tsvglyc-20"

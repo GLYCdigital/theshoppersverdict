@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 If you're a Dungeon Master building a vibrant world, you've probably hit the same wall I have: you need a distinct mini for that one heroic NPC, but you don't want to buy a $40 character pack for a single figure. The Wildspire Hero sits in that sweet spot — a single, detailed player-character mini that won't break your hobby budget. With 229 ratings averaging 4.6 stars, it's clearly earning its place on tables. But is it the right pick for *your* campaign? Let's break it down.
 
 **What's in the Box**

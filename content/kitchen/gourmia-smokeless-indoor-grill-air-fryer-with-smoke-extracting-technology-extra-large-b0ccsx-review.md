@@ -7,7 +7,7 @@ slug: "gourmia-smokeless-indoor-grill-air-fryer-with-smoke-extracting-technology
 image_alt: "Gourmia Smokeless Indoor Grill & Air Fryer With Smoke Extracting Technology - Extra-Large Nonstick Cooking Electric Racl"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 94.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CCSXX2WV/?tag=tsvglyc-20"

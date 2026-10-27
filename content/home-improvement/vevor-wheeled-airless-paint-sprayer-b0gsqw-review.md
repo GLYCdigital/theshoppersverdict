@@ -7,7 +7,7 @@ slug: "vevor-wheeled-airless-paint-sprayer-b0gsqw-review"
 image_alt: "VEVOR Wheeled-Airless Paint Sprayer"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 191.9
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GSQW7R6S/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "aluram-curl-conditioner-clarifying-coconut-water-infused-hydration-lightw
 image_alt: "ALURAM Curl Conditioner bottle with coconut water infused clarifying formula for curly hair"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 21.0
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09VGHG14T/?tag=tsvglyc-20"

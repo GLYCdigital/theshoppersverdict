@@ -7,7 +7,7 @@ slug: "runsew-cable-labels-tags-for-niimbot-label-maker-2-rolls-0-49-b0bznv-revi
 image_alt: "RUNSEW Cable Labels Tags for NIIMBOT Label Maker, (2 Rolls, 0.49 X 4.29) Waterproof and Self-Adhesive Sticker Labels for"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZNV4NV8/?tag=tsvglyc-20"

@@ -9,7 +9,7 @@
       "image": {{ $p.Params.amazon_image | jsonify }},
       "rating": {{ $p.Params.amazon_rating | jsonify }},
       "verdict": {{ $p.Params.verdict_score | jsonify }},
-      "summary": {{ $p.Plain | truncate 120 | jsonify }},
+      "summary": {{ $p.Summary | plainify | truncate 120 | jsonify }},
       "category": {{ $p.CurrentSection.Title | jsonify }}
     }
   {{- end -}}

@@ -12,7 +12,7 @@ image_alt: "Klein Tools D213-9NE-CR Lineman's Crimping Pliers — 9-inch high-le
 amazon_rating: 4.8
 review_count: 1329
 verdict_score: 4.6
-price: null
+price: 91.66
 categories: 
   - "Home Improvement"
   - "Tools"

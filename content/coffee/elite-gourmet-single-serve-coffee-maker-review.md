@@ -7,7 +7,7 @@ slug: "elite-gourmet-single-serve-coffee-maker-review"
 image_alt: "Elite Gourmet EHC112 single serve coffee maker with red accent trim and carafe"
 verdict_score: 8.2
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 9794
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B197X3H6/?tag=tsvglyc-20"

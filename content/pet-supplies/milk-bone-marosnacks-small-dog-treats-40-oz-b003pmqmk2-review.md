@@ -7,7 +7,7 @@ slug: "milk-bone-marosnacks-small-dog-treats-with-real-bone-marrow-40-oz-b003pmq
 image_alt: "Milk-Bone MaroSnacks Small Dog Treats 40 oz Canister"
 verdict_score: 4.6
 date: 2026-07-17
-price: null
+price: 25.21
 review_count: 16349
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B003PMQMK2/?tag=tsvglyc-20"

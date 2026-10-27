@@ -7,7 +7,7 @@ slug: "lego-lotus-flower-building-toy-for-kids-girls-boys-ages-8-artificial-lotu
 image_alt: "LEGO Lotus Flower 40647 Artificial Lotus Flowers for Home Decor"
 verdict_score: 4.8
 date: 2026-07-09
-price: null
+price: 37.01
 review_count: 4082
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZT7H8CN/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "How does the Inissia compare to other Nespresso machines?"
     answer: "The Inissia is Nespresso's most compact and affordable entry-level machine. It focuses on the essentials — two programmable buttons for Espresso and Lungo — without the milk frother or larger water tank of higher-end models like the Vertuo or Lattissima lines."
 date: 2026-07-25
-price: null
+price: 189.0
 review_count: 5937
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B01MG4VZCT/?tag=tsvglyc-20"

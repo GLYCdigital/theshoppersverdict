@@ -7,7 +7,7 @@ slug: "breville-oracle-jet-espresso-machine-review"
 image_alt: "Breville Oracle Jet espresso machine on countertop with portafilter and milk jug"
 verdict_score: 4.1
 date: 2026-08-06
-price: null
+price: 2558.94
 review_count: 117
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FC7L5F6D/?tag=tsvglyc-20"

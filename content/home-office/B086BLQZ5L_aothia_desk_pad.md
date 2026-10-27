@@ -7,7 +7,7 @@ slug: "aothia-desk-pad-review"
 image_alt: "Aothia Desk Pad on a wooden desk with a laptop and mouse, showing the non-slip surface and stitched edges"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 8.99
 review_count: 77004
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20"

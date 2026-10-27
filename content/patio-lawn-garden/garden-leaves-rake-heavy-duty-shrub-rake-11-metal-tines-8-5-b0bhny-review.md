@@ -7,7 +7,7 @@ slug: "garden-leaves-rake-heavy-duty-shrub-rake-11-metal-tines-8-5-b0bhny-review
 image_alt: "Heavy duty shrub rake with 11 metal tines and 8.5-inch head resting against garden bed"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 19.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHNY9172/?tag=tsvglyc-20"

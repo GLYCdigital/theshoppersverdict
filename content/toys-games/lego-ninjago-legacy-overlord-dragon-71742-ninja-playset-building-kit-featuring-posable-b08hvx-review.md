@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 The LEGO NINJAGO Legacy Overlord Dragon 71742 is a set that fans of the series have been waiting for since the original 2013 release. It's a reimagined version of the iconic battle between the ninja and the Overlord, and it delivers on nostalgia while improving the build in meaningful ways. But is it worth your money in 2026? Let's break it down.
 
 **What You Actually Get**

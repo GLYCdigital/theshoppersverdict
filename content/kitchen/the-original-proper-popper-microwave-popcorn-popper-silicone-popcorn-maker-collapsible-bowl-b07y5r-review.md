@@ -7,7 +7,7 @@ slug: "the-original-proper-popper-microwave-popcorn-popper-silicone-popcorn-make
 image_alt: "The Original Proper Popper Microwave Popcorn Popper, Silicone Popcorn Maker, Collapsible Bowl BPA Free & Dishwasher Safe"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Y5R5TMK/?tag=tsvglyc-20"

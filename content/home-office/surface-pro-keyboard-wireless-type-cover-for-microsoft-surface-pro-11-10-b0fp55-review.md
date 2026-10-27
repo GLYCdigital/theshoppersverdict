@@ -7,7 +7,7 @@ slug: "surface-pro-keyboard-wireless-type-cover-for-microsoft-surface-pro-11-10-
 image_alt: "Surface Pro Keyboard, Wireless Type Cover for Microsoft Surface Pro 11/10/9/8/X 13 inch, 7 Plus/7/6/5/4/3 12.3 inch Ultr"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 46.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FP55LD65/?tag=tsvglyc-20"

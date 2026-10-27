@@ -7,7 +7,7 @@ slug: "avid-power-orbital-sander-5-inch-random-orbit-sander-6-variable-speeds-b0
 image_alt: "AVID POWER 5-inch random orbital sander with variable speed dial and dust canister"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 49.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GXZ9YVWC/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "mario-badescu-moisturizing-lip-balm-for-dry-cracked-lips-infused-with-coc
 image_alt: "Mario Badescu Moisturizing Lip Balm for Dry Cracked Lips, Infused with Coconut Oil and Shea Butter, Ultra-Nourishing Lip"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 8.0
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DC1T5GN7/?tag=tsvglyc-20"

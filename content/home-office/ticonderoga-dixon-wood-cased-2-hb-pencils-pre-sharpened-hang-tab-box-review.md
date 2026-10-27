@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Ticonderoga Dixon Wood-Cased #2?"
     answer: "If the features match what you are looking for, yes. With 6+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-07-12
-price: null
+price: 11.86
 review_count: 16601
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B002VL5IJO/?tag=tsvglyc-20"

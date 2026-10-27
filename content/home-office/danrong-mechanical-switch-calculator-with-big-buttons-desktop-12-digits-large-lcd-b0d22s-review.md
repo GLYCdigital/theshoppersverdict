@@ -7,7 +7,7 @@ slug: "danrong-mechanical-switch-calculator-with-big-buttons-desktop-12-digits-l
 image_alt: "DANRONG mechanical switch calculator with large tactile buttons and 12-digit LCD display on a desktop"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D22S27FC/?tag=tsvglyc-20"

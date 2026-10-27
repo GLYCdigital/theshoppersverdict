@@ -7,7 +7,7 @@ slug: "amzchef-conical-burr-coffee-grinder-review"
 image_alt: "AMZCHEF conical burr coffee grinder with stainless steel body and grind size dial"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 80.98
 review_count: 24
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GV4DLW3L/?tag=tsvglyc-20"

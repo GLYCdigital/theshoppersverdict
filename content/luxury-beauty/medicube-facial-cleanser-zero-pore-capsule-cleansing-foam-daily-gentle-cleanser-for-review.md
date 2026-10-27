@@ -19,7 +19,7 @@ faq:
   - question: "Is the medicube Facial Cleanser Zero durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-01
-price: null
+price: 12.90
 review_count: 3336
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DYTQ5GYQ/?tag=tsvglyc-20"

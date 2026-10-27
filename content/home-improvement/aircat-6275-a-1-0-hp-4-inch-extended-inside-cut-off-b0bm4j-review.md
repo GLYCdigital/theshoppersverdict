@@ -7,7 +7,7 @@ slug: "aircat-6275-a-1-0-hp-4-inch-extended-inside-cut-off-b0bm4j-review"
 image_alt: "AIRCAT 6275-A extended inside cut-off tool with 4-inch wheel and angled head"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 263.75
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BM4JZFWQ/?tag=tsvglyc-20"

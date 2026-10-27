@@ -7,7 +7,7 @@ slug: "rubbermaid-brilliance-glass-food-storage-containers-b08br9hbz3-review"
 image_alt: "Rubbermaid Brilliance Glass Food Storage Containers"
 verdict_score: 4.5
 date: 2026-07-09
-price: null
+price: 78.99
 review_count: 13886
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BR9HBZ3/?tag=tsvglyc-20"

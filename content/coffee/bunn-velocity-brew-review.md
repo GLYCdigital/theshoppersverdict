@@ -7,7 +7,7 @@ slug: "bunn-velocity-brew-review"
 image_alt: "BUNN GRB Velocity Brew 10-Cup commercial-style coffee maker with glass carafe"
 verdict_score: 9.0
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"

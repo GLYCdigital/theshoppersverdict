@@ -7,7 +7,7 @@ slug: "8-pack-shelf-brackets-12-inch-floating-shelf-bracket-1-5-inch-b0db2s-revi
 image_alt: "Black 12-inch floating shelf brackets in an 8-pack with mounting hardware shown on a white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 12.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DB2S6MNW/?tag=tsvglyc-20"

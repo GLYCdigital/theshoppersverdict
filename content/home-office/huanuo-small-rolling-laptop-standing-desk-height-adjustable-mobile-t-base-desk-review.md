@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the HUANUO Small Rolling Laptop?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-06-28
-price: null
+price: 68.58
 review_count: 125
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FP2DK5BJ/?tag=tsvglyc-20"

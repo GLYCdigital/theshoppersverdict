@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 You know that feeling when you hit "Print" and the paper jams for the third time in a row, or the ink bleeds through to the other side so badly the back page is unreadable? Office Depot's Copy Print Paper is the unglamorous fix for exactly those annoyances. With a 4.6-star average across 229 ratings, this isn't flashy — it's the reliable workhorse your printer has been begging for.
 
 **What's actually in the box**

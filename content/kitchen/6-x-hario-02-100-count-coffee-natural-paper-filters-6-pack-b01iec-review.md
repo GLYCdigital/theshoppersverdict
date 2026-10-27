@@ -7,7 +7,7 @@ slug: "6-x-hario-02-100-count-coffee-natural-paper-filters-6-pack-b01iec-review"
 image_alt: "Six packs of Hario 02 natural unbleached coffee paper filters stacked with a V60 dripper"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 31.75
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B01IECMA1M/?tag=tsvglyc-20"

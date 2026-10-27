@@ -7,7 +7,7 @@ slug: "ceelgon-large-silk-satin-scrunchies-for-women-big-scrunchies-jumbo-satin-
 image_alt: "CEELGON large silk satin scrunchies in assorted colors on a soft fabric background"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPY634CC/?tag=tsvglyc-20"

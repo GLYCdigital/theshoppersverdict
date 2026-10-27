@@ -7,7 +7,7 @@ slug: "gesomepurrz-cat-litter-box-enclosure-b0dxzs-review"
 image_alt: "Gesomepurrz Cat Litter Box Enclosure wooden cabinet with front entry and top opening"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 29.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DXZSF6HG/?tag=tsvglyc-20"

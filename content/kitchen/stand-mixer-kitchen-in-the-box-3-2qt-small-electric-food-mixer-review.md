@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Stand Mixer, Kitchen in the?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the kitchen appliance category. The main drawbacks (quality) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-28
-price: null
+price: 86.05
 review_count: 9297
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09BVCPMQQ/?tag=tsvglyc-20"

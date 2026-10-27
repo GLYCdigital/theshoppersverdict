@@ -7,7 +7,7 @@ slug: "hosim-rc-cars-for-adults-brushless-rc-cars-fast-rc-trucks-all-b0fsxh-revi
 image_alt: "Hosim brushless RC truck for adults in action on dirt terrain, showing off-road suspension and aggressive tread"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 169.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSXHP4T5/?tag=tsvglyc-20"

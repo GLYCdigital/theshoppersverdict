@@ -7,7 +7,7 @@ slug: "ylzyxal-ergonomic-office-chair-review"
 image_alt: "Ylzyxal ergonomic office desk chair with mesh back and padded seat in a home office setting"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: 99.99
 review_count: 441
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F1CHX3D7/?tag=tsvglyc-20"

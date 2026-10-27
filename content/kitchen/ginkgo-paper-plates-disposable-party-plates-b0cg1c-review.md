@@ -7,7 +7,7 @@ slug: "ginkgo-paper-plates-disposable-party-plates-b0cg1c-review"
 image_alt: "Ginkgo Paper Plates Disposable Party Plates"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 26.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CG1CNQ3F/?tag=tsvglyc-20"

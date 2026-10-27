@@ -7,7 +7,7 @@ slug: "meat-grinder-attachment-for-kitchenaid-stand-mixer-meat-grinder-for-kitch
 image_alt: "Meat Grinder Attachment for Kitchenaid Stand Mixer, Meat Grinder for KitchenAid, including 3 Sausage Stuffer Accessory, "
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 35.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C9Z4P8HZ/?tag=tsvglyc-20"

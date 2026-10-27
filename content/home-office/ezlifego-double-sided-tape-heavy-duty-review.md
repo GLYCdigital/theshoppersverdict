@@ -7,7 +7,7 @@ slug: "ezlifego-double-sided-tape-heavy-duty-review"
 image_alt: "EZlifego Double Sided Tape Heavy Duty roll with red liner and strong adhesive visible"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 128788
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20"

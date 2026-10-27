@@ -7,7 +7,7 @@ slug: "ecoearth-horizontal-card-protector-with-soft-edge-large-4x3-clear-plastic
 image_alt: "EcoEarth Horizontal Card Protector with Soft Edge, large 4x3 clear plastic pouch on white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 3.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4F3ZZCX/?tag=tsvglyc-20"

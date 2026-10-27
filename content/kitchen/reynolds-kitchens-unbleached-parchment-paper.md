@@ -7,7 +7,7 @@ slug: "reynolds-unbleached-parchment-paper-review"
 image_alt: "Reynolds Kitchens Unbleached Parchment Paper roll with brown paper texture, showing non-stick surface and oven-safe label"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 3.39
 review_count: 27552
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PFYT8MC/?tag=tsvglyc-20"

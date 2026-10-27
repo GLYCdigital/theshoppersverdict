@@ -7,7 +7,7 @@ slug: "warner-games-video-game-for-switch-hogwarts-legacy-the-legacy-of-hogwarts
 image_alt: "Warner Games Video Game for Switch Hogwarts Legacy: The Legacy of Hogwarts"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 41.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT94SRTP/?tag=tsvglyc-20"

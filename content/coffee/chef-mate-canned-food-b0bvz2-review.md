@@ -22,6 +22,9 @@ cons:
   - "Price per ounce is steeper than bulk canned options at warehouse clubs"
 
 ---
+
+**Review Body:**
+
 Let's be honest: most canned food products are a compromise. You trade flavor for shelf life, texture for convenience. The Chef-mate line, however, has built a reputation on minimizing those tradeoffs — and with 225 ratings averaging 4.5 stars, it's worth examining whether the hype holds up or if this is just another overpriced pantry staple.
 
 **What You Actually Get**

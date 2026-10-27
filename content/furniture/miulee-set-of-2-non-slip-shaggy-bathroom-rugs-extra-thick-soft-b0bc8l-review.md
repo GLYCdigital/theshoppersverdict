@@ -7,7 +7,7 @@ slug: "miulee-set-of-2-non-slip-shaggy-bathroom-rugs-extra-thick-soft-b0bc8l-rev
 image_alt: "MIULEE Set of 2 Non Slip Shaggy Bathroom Rugs Extra Thick Soft Bath Mats Plush Microfiber Absorbent Water for Tub Shower"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 17.09
 review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0BC8LVM2G/?tag=tsvglyc-20"

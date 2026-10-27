@@ -7,7 +7,7 @@ slug: "hitlights-led-strip-light-b09nb6-review"
 image_alt: "HitLights LED Strip Light"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 42.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09NB6C8PH/?tag=tsvglyc-20"

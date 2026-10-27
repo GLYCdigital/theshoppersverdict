@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Blu Track PS -?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the toy or game category."
 date: 2026-08-02
-price: null
+price: 138.43
 review_count: 123
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09J9BBJ3L/?tag=tsvglyc-20"

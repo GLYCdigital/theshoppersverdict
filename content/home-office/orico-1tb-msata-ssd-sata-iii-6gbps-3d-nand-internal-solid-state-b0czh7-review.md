@@ -7,7 +7,7 @@ slug: "orico-1tb-msata-ssd-sata-iii-6gbps-3d-nand-internal-solid-state-b0czh7-re
 image_alt: "ORICO 1TB mSATA SSD, SATA III 6Gbps 3D NAND Internal Solid State Drive for Laptops Ultrabooks Desktop-ZH10"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 79.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CZH7F5RL/?tag=tsvglyc-20"

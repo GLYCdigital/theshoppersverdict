@@ -19,7 +19,7 @@ faq:
   - question: "Is the Salt & Stone Aluminum Free durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-03
-price: null
+price: 31.93
 review_count: 16763
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08WYXNVQ7/?tag=tsvglyc-20"

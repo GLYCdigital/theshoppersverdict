@@ -7,7 +7,7 @@ slug: "strebito-precision-screwdriver-set-64-in-1-small-screwdriver-set-with-tor
 image_alt: "STREBITO Precision Screwdriver Set 64 in 1 Small Screwdriver Set with Torx, Triwing, Pentalobe Star, Mini Repair Tool Ki"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FG2NPJWM/?tag=tsvglyc-20"

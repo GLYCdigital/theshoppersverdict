@@ -22,7 +22,7 @@ faq:
   - question: "Is the water reservoir removable?"
     answer: "Yes. The 60 oz water reservoir is detachable, making it easy to carry to the sink for filling. This is one of the most frequently praised design features."
 date: 2026-07-23
-price: null
+price: 185.71
 review_count: 28709
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07S98411N/?tag=tsvglyc-20"

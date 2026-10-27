@@ -21,6 +21,9 @@ cons:
   - "Smaller 10 fl oz bottle runs out fast for heavy kitchen users — no larger bulk option listed"
 
 ---
+
+**The Full Review**
+
 Let's get one thing straight: Worcestershire sauce is the workhorse of the condiment world. It's not flashy, but it's the difference between a flat pot roast and one that tastes like it simmered for hours with a chef's secret. French's version of this pantry staple has been quietly racking up a 4.8-star average across 240 Amazon ratings, and after digging into what buyers are actually saying, here's the real story.
 
 **What You're Actually Getting**

@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the HP 910XL Black High-Yield Ink?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the home office accessory category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-04
-price: null
+price: 73.43
 review_count: 22128
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07N3FYTW5/?tag=tsvglyc-20"

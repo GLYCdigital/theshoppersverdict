@@ -7,7 +7,7 @@ slug: "sanato-doorstop-door-stopper-with-black-rubber-b0db1q-review"
 image_alt: "SANATO Doorstop Door Stopper with Black Rubber"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 13.49
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DB1QLKX5/?tag=tsvglyc-20"

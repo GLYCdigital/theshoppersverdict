@@ -7,7 +7,7 @@ slug: "furrybaby-dog-bed-mat-soft-crate-mat-with-anti-slip-bottom-machine-b07mv4
 image_alt: "furrybaby Dog Bed Mat Soft Crate Mat with Anti-Slip Bottom in medium size shown on a crate floor"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 13.29
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07MV4YF2K/?tag=tsvglyc-20"

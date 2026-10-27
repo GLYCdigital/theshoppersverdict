@@ -7,7 +7,7 @@ slug: "blu-track-performance-18-foot-race-track-stunt-set-b09j9b-review"
 image_alt: "Blu Track Performance 18-foot race track stunt set with orange flexible track and two stunt cars in action"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 84.96
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09J9BBJ3L/?tag=tsvglyc-20"

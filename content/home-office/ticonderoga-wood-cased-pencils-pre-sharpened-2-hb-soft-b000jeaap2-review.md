@@ -22,7 +22,7 @@ faq:
   - question: "What makes Ticonderoga pencils better than store brands?"
     answer: "The proprietary graphite formula writes smoother and darker, the erasers actually erase without smudging, and the cedar wood sharpens more cleanly than cheaper basswood alternatives."
 date: 2026-07-23
-price: null
+price: 5.63
 review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"

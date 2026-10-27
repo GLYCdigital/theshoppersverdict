@@ -22,6 +22,9 @@ cons:
   - "No storage bag included — the 25FT cord coils into a bulky 18-inch loop that needs a strap or hook"
 
 ---
+
+**Review Body:**
+
 ## Stop guessing whether your generator setup is safe
 
 Most "50 amp" generator cords on Amazon are a gamble. Some use 10-gauge wire that heats up under load. Others ship with inlet boxes that leak water on the first storm. The Campzlly kit appears different — and after checking the specs and buyer feedback, it mostly delivers.

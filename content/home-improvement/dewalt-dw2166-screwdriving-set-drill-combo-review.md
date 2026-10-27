@@ -22,7 +22,7 @@ faq:
   - question: "How does this combo compare to buying the drill and bits separately?"
     answer: "The set offers approximately $40 in value compared to purchasing the drill and bit set separately. The bits alone retail for around $25-30, so the bundle effectively gives you a discount on the total package."
 date: 2026-07-27
-price: null
+price: 125.59
 review_count: 3505
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01EXQ0ZV0/?tag=tsvglyc-20"

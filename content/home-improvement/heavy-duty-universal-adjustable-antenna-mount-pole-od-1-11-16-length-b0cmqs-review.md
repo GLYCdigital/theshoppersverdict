@@ -21,6 +21,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Most antenna mounts are flimsy compromises. Either they're a fixed length that doesn't fit your setup, or they're adjustable but wobble like a fishing rod in a storm. This Heavy Duty Universal Adjustable Antenna Mount Pole (1-11/16" OD) aims to solve both problems at once. After digging through the specs and what 225 buyers actually report, here's the real picture.
 
 **What You Actually Get**

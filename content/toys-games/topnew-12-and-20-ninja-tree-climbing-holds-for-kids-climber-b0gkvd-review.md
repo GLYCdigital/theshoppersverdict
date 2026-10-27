@@ -7,7 +7,7 @@ slug: "topnew-12-and-20-ninja-tree-climbing-holds-for-kids-climber-b0gkvd-review
 image_alt: "TOPNEW 12 and 20 Ninja Tree Climbing Holds for Kids Climber"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 38.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GKVD2YP3/?tag=tsvglyc-20"

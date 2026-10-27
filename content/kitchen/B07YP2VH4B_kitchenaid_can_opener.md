@@ -7,7 +7,7 @@ slug: "kitchenaid-classic-can-opener-review"
 image_alt: "KitchenAid Classic Can Opener in white with black cutting wheel and ergonomic handle"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 13.69
 review_count: 90153
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20"

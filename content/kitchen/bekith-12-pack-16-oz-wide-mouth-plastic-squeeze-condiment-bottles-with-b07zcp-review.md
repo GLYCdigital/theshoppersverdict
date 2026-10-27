@@ -7,7 +7,7 @@ slug: "bekith-12-pack-16-oz-wide-mouth-plastic-squeeze-condiment-bottles-with-b0
 image_alt: "Bekith 12-pack of 16oz wide-mouth plastic squeeze condiment bottles with red caps"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 20.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07ZCPFMKG/?tag=tsvglyc-20"

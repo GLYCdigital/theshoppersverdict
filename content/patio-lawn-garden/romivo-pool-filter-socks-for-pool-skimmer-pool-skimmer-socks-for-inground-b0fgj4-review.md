@@ -7,7 +7,7 @@ slug: "romivo-pool-filter-socks-for-pool-skimmer-pool-skimmer-socks-for-inground
 image_alt: "ROMIVO Pool Filter Socks for Pool Skimmer, Pool Skimmer Socks for Inground Pool Or Above Ground Pool Filter, Ultra Fine "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 35.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FGJ48R9Q/?tag=tsvglyc-20"

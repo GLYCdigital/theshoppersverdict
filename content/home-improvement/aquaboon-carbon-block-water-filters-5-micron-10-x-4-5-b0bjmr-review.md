@@ -7,7 +7,7 @@ slug: "aquaboon-carbon-block-water-filters-5-micron-10-x-4-5-b0bjmr-review"
 image_alt: "Aquaboon 5-micron carbon block water filter cartridge, 10 x 4.5 inch size shown against white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 48.79
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BJMRWHL5/?tag=tsvglyc-20"

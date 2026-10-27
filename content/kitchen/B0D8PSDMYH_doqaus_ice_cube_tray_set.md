@@ -7,7 +7,7 @@ slug: "doqaus-ice-cube-tray-set-review"
 image_alt: "DOQAUS silicone ice cube tray set with lids, showing flexible tray flexing to release cubes and airtight lid"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 12639
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8PSDMYH/?tag=tsvglyc-20"

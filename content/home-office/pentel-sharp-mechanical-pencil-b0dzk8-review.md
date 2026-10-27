@@ -7,7 +7,7 @@ slug: "pentel-sharp-mechanical-pencil-b0dzk8-review"
 image_alt: "Pentel Sharp Mechanical Pencil"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 15.48
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZK8TT2T/?tag=tsvglyc-20"

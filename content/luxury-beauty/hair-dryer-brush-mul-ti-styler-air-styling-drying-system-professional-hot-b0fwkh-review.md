@@ -7,7 +7,7 @@ slug: "hair-dryer-brush-mul-ti-styler-air-styling-drying-system-professional-hot
 image_alt: "Hair Dryer Brush: MUL-ti Styler Air Styling & Drying System, Professional Hot Air Brush Set for Fast Drying, Curling Vol"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 62.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FWKH44DZ/?tag=tsvglyc-20"

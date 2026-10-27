@@ -21,6 +21,9 @@ cons:
   - "No tape or adhesive included — you'll need to supply your own for hanging"
 
 ---
+
+**Full Review:**
+
 **Skip the party store. This kit actually covers the whole room.**
 
 Planning a luau means hitting three different stores for leis, banners, and table scatter — then still coming up short. This 161-piece set from B0B2RFGJL2 solves that in one box. It's not the fanciest decor on the market, but for the price per piece, it delivers a complete tropical backdrop that photographs well and survives a full event.

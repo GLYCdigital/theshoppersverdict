@@ -7,7 +7,7 @@ slug: "keurig-starter-kit-replacement-for-keurig-2-0-b07qcn-review"
 image_alt: "Keurig Starter Kit Replacement for Keurig 2.0"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07QCN1W56/?tag=tsvglyc-20"

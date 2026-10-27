@@ -7,7 +7,7 @@ slug: "elite-gourmet-ehc112-personal-single-serve-compact-coffee-maker-brewer-in
 image_alt: "Elite Gourmet EHC112 single-serve coffee maker with black thermal travel mug and reusable filter basket"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 34.99
 review_count: 9794
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B197X3H6/?tag=tsvglyc-20"

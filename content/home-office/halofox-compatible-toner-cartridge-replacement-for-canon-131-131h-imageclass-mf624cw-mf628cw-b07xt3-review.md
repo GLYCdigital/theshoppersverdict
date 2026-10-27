@@ -7,7 +7,7 @@ slug: "halofox-compatible-toner-cartridge-replacement-for-canon-131-131h-imagecl
 image_alt: "HaloFox Compatible Toner Cartridge Replacement for Canon 131 131H imageClass MF624Cw MF628Cw MF8280Cw LBP7100Cw MF8230Cn"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 45.97
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07XT3LHHH/?tag=tsvglyc-20"

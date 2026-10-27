@@ -7,7 +7,7 @@ slug: "wdzzhot-3-pack-dog-rope-toys-indestructible-dog-toys-for-large-and-b0dnyy
 image_alt: "WDZZHOT [3 Pack] Dog Rope Toys, Indestructible Dog Toys for Large and Medium Aggressive Chewers"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 13.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DNYYQ3YW/?tag=tsvglyc-20"

@@ -17,7 +17,7 @@ faq:
   - question: "Is the Adjustable Laptop Stand for durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-05-27
-price: null
+price: 17.99
 review_count: 3758
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C7BKZ883/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "cat-parent-color-1-b0cydp-review"
 image_alt: "cat_Parent_Color_1 toy product image showing the item in its packaging"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 6.97
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CYDPKSQ1/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "kiteiscat-extra-large-glass-salad-bowl-set-party-salad-bowls-with-acacia-
 image_alt: "KITEISCAT Extra Large Glass Salad Bowl Set - Party Salad Bowls with Acacia Wood Base and Serving Utensils - Elegant and "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 54.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZ8C6JM5/?tag=tsvglyc-20"

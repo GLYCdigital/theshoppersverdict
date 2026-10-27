@@ -7,7 +7,7 @@ slug: "12-cup-replacement-glass-carafe-for-cuisinart-coffee-maker-models-chw-12-
 image_alt: "12-cup replacement glass carafe for Cuisinart coffee makers sitting on a warming plate"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 21.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BM4B3VCQ/?tag=tsvglyc-20"

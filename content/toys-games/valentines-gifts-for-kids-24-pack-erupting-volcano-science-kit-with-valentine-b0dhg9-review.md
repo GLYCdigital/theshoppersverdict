@@ -7,7 +7,7 @@ slug: "valentines-gifts-for-kids-24-pack-erupting-volcano-science-kit-with-valen
 image_alt: "Valentines Gifts for Kids - 24 Pack Erupting Volcano Science Kit with Valentines Cards, STEM Projects Educational Toys f"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 43.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DHG9XDLP/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "iweggo-android-14-tablet-with-keyboard-10-inch-2-in-1-tablets-b0cpt5-revi
 image_alt: "IWEGGO Android 14 Tablet with Keyboard 10 Inch 2 in 1 Tablets, 8GB RAM+64GB ROM/1TB Expandable Tablet PC, Quad-core 1.8G"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 58.98
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CPT5GKSC/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "Does it have a brew strength control?"
     answer: "Yes — the brew strength control lets you tailor the intensity of your coffee. It also includes a gold-tone commercial-style permanent filter and a charcoal water filter."
 date: 2026-07-25
-price: null
+price: 249.99
 review_count: 1184
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0BWSMV57F/?tag=tsvglyc-20"

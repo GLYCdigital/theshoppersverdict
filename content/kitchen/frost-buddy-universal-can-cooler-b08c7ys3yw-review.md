@@ -7,7 +7,7 @@ slug: "frost-buddy-universal-can-cooler-b08c7ys3yw-review"
 image_alt: "Frost Buddy Universal Can Cooler"
 verdict_score: 4.6
 date: 2026-07-09
-price: null
+price: 51.64
 review_count: 10560
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08C7YS3YW/?tag=tsvglyc-20"

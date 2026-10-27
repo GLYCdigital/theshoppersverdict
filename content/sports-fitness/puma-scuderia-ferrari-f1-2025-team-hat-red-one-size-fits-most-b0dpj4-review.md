@@ -7,7 +7,7 @@ slug: "puma-scuderia-ferrari-f1-2025-team-hat-red-one-size-fits-most-b0dpj4-revi
 image_alt: "PUMA Scuderia Ferrari F1 2025 Team Hat - Red- One Size Fits Most"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 49.98
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DPJ46L6W/?tag=tsvglyc-20"

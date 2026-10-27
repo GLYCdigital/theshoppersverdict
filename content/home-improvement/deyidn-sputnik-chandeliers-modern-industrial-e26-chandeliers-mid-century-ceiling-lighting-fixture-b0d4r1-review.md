@@ -7,7 +7,7 @@ slug: "deyidn-sputnik-chandeliers-modern-industrial-e26-chandeliers-mid-century-
 image_alt: "Deyidn Sputnik chandelier with six arms in a modern industrial black finish mounted on a ceiling"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 53.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D4R17X6N/?tag=tsvglyc-20"

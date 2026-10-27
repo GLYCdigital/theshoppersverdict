@@ -7,7 +7,7 @@ slug: "mattel-minecraft-plush-toy-creeper-soft-doll-inspired-by-a-minecraft-movi
 image_alt: "Mattel Minecraft Plush Toy, Creeper Soft Doll Inspired by A Minecraft Movie Character, 8-inch Collectible"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 18.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DC17JC6S/?tag=tsvglyc-20"

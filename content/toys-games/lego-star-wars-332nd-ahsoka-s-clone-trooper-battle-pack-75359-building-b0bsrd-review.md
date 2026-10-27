@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 Let’s cut to it: this is the battle pack Clone Wars fans have been begging for since 2020. The **LEGO Star Wars 332nd Ahsoka’s Clone Trooper Battle Pack (75359)** delivers exactly what the name promises — four troopers, three of them in Ahsoka’s distinctive orange-and-white 332nd markings — and it does so at a price point that finally makes army-building feasible. If you’ve been piecing together a Season 7 Siege of Mandalore display, this is your foundation.
 
 **What’s in the box**

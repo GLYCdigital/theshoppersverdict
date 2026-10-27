@@ -7,7 +7,7 @@ slug: "ws-game-company-yahtzee-vintage-bookshelf-edition-luxury-dice-game-in-lin
 image_alt: "WS Game Company Yahtzee Vintage Bookshelf Edition, Luxury Dice Game in Linen-Wrapped Book Case with Slipcase, Premium Sc"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 44.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B075SCWZND/?tag=tsvglyc-20"

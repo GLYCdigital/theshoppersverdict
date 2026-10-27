@@ -21,6 +21,9 @@ cons:
   - "Die change requires a small hex key that's easy to lose (and not magnetized to the tool)"
 
 ---
+
+**Review Body:**
+
 Most wire crimpers under $50 are glorified pliers. You squeeze, pray, and hope the terminal doesn't pull off when you tug it. The 8-1 AWG crimping tool is not that tool. This is a proper ratcheting crimper that locks onto the lug and won't release until you've applied enough force to create a cold weld between copper and terminal. That single feature justifies the price for anyone who's ever had a bad crimp fail at the worst possible moment.
 
 **What you actually get**

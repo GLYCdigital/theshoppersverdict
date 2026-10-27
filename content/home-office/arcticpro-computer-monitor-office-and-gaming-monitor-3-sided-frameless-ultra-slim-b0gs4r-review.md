@@ -7,7 +7,7 @@ slug: "arcticpro-computer-monitor-office-and-gaming-monitor-3-sided-frameless-ul
 image_alt: "ArcticPro 3-sided frameless computer monitor on a desk showing a vibrant desktop wallpaper"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 67.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GS4RL6J9/?tag=tsvglyc-20"

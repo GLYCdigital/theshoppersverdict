@@ -7,7 +7,7 @@ slug: "100pcs-hair-ties-for-women-seamless-cotton-hair-bands-no-crease-no-b0b87z
 image_alt: "100PCS seamless cotton hair ties for women displayed in a clear pouch, showing the fabric-covered bands in assorted neutral colors"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 6.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B87ZR99V/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "sephix-monster-truck-toys-for-toddler-boys-gift-2-pack-trucks-for-b0drv9-
 image_alt: "SEPHIX Monster Truck Toys for Toddler Boys Gift:2 Pack Trucks for Boys Age 2-4, Light-Up Wheels Monster Trucks for Kids "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 18.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DRV953PT/?tag=tsvglyc-20"

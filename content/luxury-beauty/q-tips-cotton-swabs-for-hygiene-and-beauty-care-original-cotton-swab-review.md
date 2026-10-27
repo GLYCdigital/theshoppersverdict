@@ -19,7 +19,7 @@ faq:
   - question: "Is the Q-tips Cotton Swabs For Hygiene durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-06-20
-price: null
+price: 17.93
 review_count: 29035
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0014CZ16Q/?tag=tsvglyc-20"

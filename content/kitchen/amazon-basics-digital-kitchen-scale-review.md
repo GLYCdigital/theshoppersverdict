@@ -7,7 +7,7 @@ slug: "amazon-basics-digital-kitchen-scale-review"
 image_alt: "Amazon Basics Digital Kitchen Scale with stainless steel surface and digital display"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 19.56
 review_count: 132
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B06X9NQ8GX/?tag=tsvglyc-20"

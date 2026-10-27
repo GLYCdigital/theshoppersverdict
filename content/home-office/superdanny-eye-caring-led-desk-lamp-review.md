@@ -19,7 +19,7 @@ faq:
   - question: "Is the gooseneck durable?"
     answer: "Yes. The metal gooseneck is reinforced and stays exactly where you bend it. Unlike rubber goosenecks that sag over time, this one holds its position consistently."
 date: 2026-05-26
-price: null
+price: 22.98
 review_count: 667
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F4KRS3Y6/?tag=tsvglyc-20"

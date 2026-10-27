@@ -7,7 +7,7 @@ slug: "teenitor-40-pcs-invisible-hair-nets-for-ballet-recital-12-20-28-b0bbpz-re
 image_alt: "Teenitor 40 pcs Invisible Hair Nets for Ballet Recital(12, 20, 28 Inch), Ballerina Buns Hair Nets, 80 pcs Bobby Pins for"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 6.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BBPZXDY1/?tag=tsvglyc-20"

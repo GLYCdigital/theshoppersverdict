@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the NEO CHAIR Office Desk?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-08-02
-price: null
+price: 96.40
 review_count: 2602
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C6N95T1Y/?tag=tsvglyc-20"

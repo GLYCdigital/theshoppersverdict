@@ -22,7 +22,7 @@ faq:
   - question: "Does the GK-1 leave a metallic taste in the water?"
     answer: "No. Multiple reviewers confirm that the stainless steel construction leaves no residual metallic taste or smell in the water. This is a common concern with metal kettles, but Cuisinart has addressed it well with the GK-1."
 date: 2026-07-27
-price: null
+price: 154.85
 review_count: 21509
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08KCT8T6C/?tag=tsvglyc-20"

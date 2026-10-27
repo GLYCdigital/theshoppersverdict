@@ -22,7 +22,7 @@ faq:
   - question: "Does the BUNN Velocity Brew have a learning curve?"
     answer: "Yes, there's a brief priming period. The first 2-3 pots may not reach full temperature while the internal reservoir heats up. After that, it brews piping hot every time."
 date: 2026-07-18
-price: null
+price: 124.95
 review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"

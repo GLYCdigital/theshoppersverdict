@@ -8,7 +8,7 @@ slug: "aula-sc580-wireless-gaming-mouse-tri-mode-2-4g-bt5-0-usb-b0d4qc-review"
 image_alt: "AULA SC580 wireless gaming mouse in black with RGB lighting, showing tri-mode connectivity options"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 26.9
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4QCXRWT/?tag=tsvglyc-20"

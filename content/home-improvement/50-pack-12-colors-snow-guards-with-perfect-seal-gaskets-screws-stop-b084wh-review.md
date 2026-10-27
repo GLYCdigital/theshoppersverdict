@@ -7,7 +7,7 @@ slug: "50-pack-12-colors-snow-guards-with-perfect-seal-gaskets-screws-stop-b084w
 image_alt: "50 pack of 12 color snow guards with rubber seal gaskets and mounting screws for metal roofing"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 145.41
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B084WH79CR/?tag=tsvglyc-20"

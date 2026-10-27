@@ -7,7 +7,7 @@ slug: "toilet-float-replacement-kit-universal-toilet-flusher-b0dnmn-review"
 image_alt: "Toilet Float Replacement Kit, Universal Toilet Flusher"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 15.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNMN7WX2/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "nottingham-knife-set-b0f29w-review"
 image_alt: "Nottingham knife set"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 59.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F29WWPM7/?tag=tsvglyc-20"

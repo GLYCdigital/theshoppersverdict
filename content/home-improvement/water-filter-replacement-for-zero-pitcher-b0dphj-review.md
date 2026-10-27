@@ -7,7 +7,7 @@ slug: "water-filter-replacement-for-zero-pitcher-b0dphj-review"
 image_alt: "Water Filter Replacement for Zero Pitcher"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 22.97
 review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0DPHJ8PCJ/?tag=tsvglyc-20"

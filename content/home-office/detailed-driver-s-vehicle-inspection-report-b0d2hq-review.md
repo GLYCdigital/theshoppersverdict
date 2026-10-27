@@ -7,7 +7,7 @@ slug: "detailed-driver-s-vehicle-inspection-report-b0d2hq-review"
 image_alt: "Stack of Detailed Driver's Vehicle Inspection Report forms showing vehicle inspection checklist layout"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 7.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D2HQ476M/?tag=tsvglyc-20"

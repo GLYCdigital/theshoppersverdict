@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 Most "ocean" colognes smell like a swimming pool filter mixed with blue dye. Inis the Energy of the Sea is not that. This Irish import from the tiny village of Carron actually captures what the Atlantic coast smells like — wet stone, kelp drying on sand, and cold clean air. It's a 4.8-star rated fragrance with 240+ Amazon ratings for a reason, but it's also a specific mood. Let's break down whether that mood fits your routine.
 
 **What You Actually Get**

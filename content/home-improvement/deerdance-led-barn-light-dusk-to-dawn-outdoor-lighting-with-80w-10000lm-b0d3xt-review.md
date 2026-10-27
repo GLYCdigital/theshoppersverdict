@@ -7,7 +7,7 @@ slug: "deerdance-led-barn-light-dusk-to-dawn-outdoor-lighting-with-80w-10000lm-b
 image_alt: "deerdance LED barn light with dusk to dawn sensor mounted on outdoor wall"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 35.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D3XTJQ2B/?tag=tsvglyc-20"

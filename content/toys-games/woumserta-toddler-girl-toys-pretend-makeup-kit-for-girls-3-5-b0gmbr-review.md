@@ -7,7 +7,7 @@ slug: "woumserta-toddler-girl-toys-pretend-makeup-kit-for-girls-3-5-b0gmbr-revie
 image_alt: "Woumserta Toddler Girl Toys, Pretend Makeup Kit for Girls 3-5"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GMBR2CMX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "scotch-heavy-duty-shipping-packing-tape-review"
 image_alt: "Scotch Heavy Duty Shipping Packing Tape roll with dispenser on cardboard box"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: 11.99
 review_count: 107827
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20"

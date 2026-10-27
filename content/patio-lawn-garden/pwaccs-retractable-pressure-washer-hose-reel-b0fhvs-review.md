@@ -7,7 +7,7 @@ slug: "pwaccs-retractable-pressure-washer-hose-reel-b0fhvs-review"
 image_alt: "PWACCS Retractable Pressure Washer Hose Reel"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 103.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FHVSX8P2/?tag=tsvglyc-20"

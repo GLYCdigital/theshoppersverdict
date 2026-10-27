@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Full Review:**
+
 Let’s be honest: most spice jars are either flimsy glass that shatters when you drop them or cheap plastic that stains and warps. The Dabacc 20-piece set sits in a sweet spot — it’s a bulk solution for organizing a chaotic spice drawer without breaking the bank.
 
 **What You Actually Get**

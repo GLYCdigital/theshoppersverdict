@@ -22,6 +22,9 @@ cons:
   - "At roughly $1.30 per setting, you're paying a premium over basic white plastic for aesthetics alone"
 
 ---
+
+**Review Body:**
+
 You're planning a party. You've got 12 guests confirmed. You need forks, knives, and spoons that won't embarrass you when someone drops a rib. This 36-piece set from Amazon — 12 of each utensil, all in matte black — looks like the answer. But does it hold up when the potato salad hits the table?
 
 Here's what I found after putting these through a real cookout test.

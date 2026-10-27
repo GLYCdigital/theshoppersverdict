@@ -7,7 +7,7 @@ slug: "fullwill-8qt-electric-pressure-cooker-review"
 image_alt: "Fullwill 8QT Electric Pressure Cooker Max with stainless steel inner pot and digital control panel"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 76.49
 review_count: 30
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G1LRQG32/?tag=tsvglyc-20"

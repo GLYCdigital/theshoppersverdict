@@ -7,7 +7,7 @@ slug: "air-fryer-paper-liners-125pcs-review"
 image_alt: "Air fryer paper liners in a basket with golden fried food, showing easy cleanup"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 31988
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B6PLG6G2/?tag=tsvglyc-20"

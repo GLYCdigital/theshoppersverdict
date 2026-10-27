@@ -7,7 +7,7 @@ slug: "tonpect-cow-stuffed-animal-with-mooing-sound-9-inch-ginger-colored-soft-b
 image_alt: "Tonpect Cow Stuffed Animal with Mooing Sound, 9 inch Ginger Colored, Soft Farm Toy for Boys Girls Gift Decoration"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 19.79
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C7PXCJSJ/?tag=tsvglyc-20"

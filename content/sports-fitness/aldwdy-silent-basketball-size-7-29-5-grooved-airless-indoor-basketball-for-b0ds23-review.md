@@ -7,7 +7,7 @@ slug: "aldwdy-silent-basketball-size-7-29-5-grooved-airless-indoor-basketball-fo
 image_alt: "ALDWDY Silent Basketball Size 7 grooved airless indoor basketball on hardwood floor"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 34.97
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DS23QH61/?tag=tsvglyc-20"

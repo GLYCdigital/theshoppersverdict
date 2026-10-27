@@ -7,7 +7,7 @@ slug: "among-us-action-figures-series-3-pack-of-8-collectible-figurines-official
 image_alt: "Among Us Series 3 8-pack action figures showing colorful crewmates with accessories"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 49.93
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C4Q8FWHS/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "sweet-water-decor-tile-coffee-mugs-novelty-coffee-mugs-17oz-gold-handle-b
 image_alt: "Sweet Water Decor Tile Coffee Mugs | Novelty Coffee Mugs | 17oz Gold Handle Coffee Cup | Microwave & Dishwasher Safe"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FMM4G5RM/?tag=tsvglyc-20"

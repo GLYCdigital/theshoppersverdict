@@ -18,7 +18,7 @@ faq:
   - question: "Is the BRITA 35503 Standard Replacement durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-01
-price: null
+price: 32.31
 review_count: 235732
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00004SU18/?tag=tsvglyc-20"

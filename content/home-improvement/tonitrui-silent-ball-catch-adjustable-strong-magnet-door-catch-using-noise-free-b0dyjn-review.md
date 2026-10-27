@@ -7,7 +7,7 @@ slug: "tonitrui-silent-ball-catch-adjustable-strong-magnet-door-catch-using-nois
 image_alt: "Tonitrui Silent Ball Catch, Adjustable Strong Magnet Door Catchï¼ŒUsing Noise Free, Replacing Door Ball Catch, with Iden"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DYJNGWK5/?tag=tsvglyc-20"

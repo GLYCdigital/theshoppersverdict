@@ -16,6 +16,6 @@
     <span class="rating-text">— {{ $rating }}/5 ({{ .Params.review_count | default "N" }} reviews)</span>
   </div>
   {{ end }}
-  <p class="review-excerpt">{{ .Plain | plainify | truncate 120 }}</p>
+  <p class="review-excerpt">{{ .Summary | plainify | truncate 120 }}</p>
   <a href="{{ .RelPermalink }}" class="review-link" data-umami-event="card_click" data-umami-event-value="{{ .Title }}">Read Full Verdict →</a>
 </article>

@@ -7,7 +7,7 @@ slug: "kco-lighting-sputnik-chandelier-light-globe-shade-frosted-glass-ceiling-p
 image_alt: "KCO Lighting Sputnik Chandelier Light Globe Shade Frosted Glass Ceiling Pendant Light Modern Brass Kitchen Bedroom Flush"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 182.39
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLSN81GX/?tag=tsvglyc-20"

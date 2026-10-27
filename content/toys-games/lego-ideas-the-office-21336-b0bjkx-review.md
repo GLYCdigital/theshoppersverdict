@@ -1,11 +1,32 @@
 ---
+
+title: "LEGO Ideas The Office 21336"
+seo_title: "LEGO Ideas The Office 21336 Review: Verdict | TSV"
+meta_description: "Our full lego ideas the office 21336 review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "lego-ideas-the-office-21336-b0bjkx-review"
+image_alt: "LEGO Ideas The Office 21336"
+verdict_score: 4.6
+date: 2026-06-17
+price: null
+review_count: 235
+amazon_rating: 4.7
+amazon_url: "https://www.amazon.com/dp/B0BJKXRJXQ/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/71Yp1f89wKL._AC_SL1160_.jpg"
+pros: 
+  - "Engaging and entertaining for kids"
+  - "Promotes creative play and learning"
+cons: 
+  - "May vary based on individual needs and preferences"
+  - "Check Amazon for current pricing and availability"
+
+---
 title: "LEGO Ideas The Office 21336"
 seo_title: "LEGO Ideas The Office 21336 Review: Build Dunder Mifflin"
 meta_description: "LEGO Ideas The Office 21336 review: 1,164 pieces, 15 minifigs, iconic Dunder Mifflin details. Is this $120 build worth it for fans?"
 slug: "lego-ideas-the-office-21336-b0bjkx-review"
 image_alt: "LEGO Ideas The Office 21336 set box showing Dunder Mifflin office with 15 minifigures including Michael Scott, Jim, and Dwight"
 verdict_score: 4.6
-date: 2026-06-17
+date: 2026-08-06
 price: null
 review_count: 235
 amazon_rating: 4.7
@@ -19,6 +40,7 @@ cons:
   - "Michael's office is smaller than expected — the glass walls make it feel cramped compared to the TV show's actual set"
   - "No sound brick or audio features — for a set this detailed, a quote button would've pushed it over the top"
 ---
+
 **The Verdict: Buy It If You're a Fan, Skip It If You're a Builder**
 
 Let me be direct: this set is 90% nostalgia and 10% LEGO engineering, and that's exactly why it works. If you've ever laughed at Dwight's beet farm obsession or cringed at Michael's "That's what she said" timing, the LEGO Ideas The Office 21336 delivers the show's soul in brick form. But if you're a pure LEGO enthusiast looking for complex building techniques, you might find this one a bit simple. Here's the real breakdown.

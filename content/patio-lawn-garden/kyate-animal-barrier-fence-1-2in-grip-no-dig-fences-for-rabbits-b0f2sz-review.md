@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Rabbits treat your vegetable garden like an all-you-can-eat buffet, and you're tired of losing your lettuce before you ever get to harvest it. The KYATE Animal Barrier Fence promises a no-dig solution with its 1.2-inch grip stakes — no trenching, no concrete, no weekend project. But does a fence you just press into the ground actually hold up against a determined bunny? After digging into the specs and buyer experiences, here's the straight story.
 
 **What You Actually Get**

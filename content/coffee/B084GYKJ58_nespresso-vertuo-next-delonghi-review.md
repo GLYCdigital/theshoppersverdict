@@ -7,7 +7,7 @@ slug: "nespresso-vertuo-next-delonghi-review"
 image_alt: "Nespresso Vertuo Next coffee and espresso maker by De'Longhi in matte black with coffee cup"
 verdict_score: 4.1
 date: 2026-08-06
-price: null
+price: 160.30
 review_count: 2820
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B084GYKJ58/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "joyin-100-pcs-stamps-for-kids-self-ink-stamps-for-party-favor-b0frs9-revi
 image_alt: "JOYIN 100 Pcs Stamps for Kids Self-Ink Stamps for Party Favor, Carnival Prizes, School, Easter Egg Stuffers, Halloween, "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 15.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FRS9XQG2/?tag=tsvglyc-20"

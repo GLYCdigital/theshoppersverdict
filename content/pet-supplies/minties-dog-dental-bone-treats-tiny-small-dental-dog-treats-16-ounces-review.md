@@ -19,7 +19,7 @@ faq:
   - question: "Is the Minties Dog Dental Bone durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-07-05
-price: null
+price: 26.52
 review_count: 36607
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B076YLYVW8/?tag=tsvglyc-20"

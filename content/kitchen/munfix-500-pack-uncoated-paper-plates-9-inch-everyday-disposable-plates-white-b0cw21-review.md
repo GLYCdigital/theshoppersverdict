@@ -7,7 +7,7 @@ slug: "munfix-500-pack-uncoated-paper-plates-9-inch-everyday-disposable-plates-w
 image_alt: "Munfix 500 Pack Uncoated Paper Plates 9 Inch, Everyday Disposable Plates, White Dinner Plates for BBQ Party, Picnics, Tr"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 27.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW21LXKF/?tag=tsvglyc-20"

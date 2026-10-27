@@ -22,7 +22,7 @@ faq:
   - question: "Can you reuse Pureegg tablecloths?"
     answer: "They're designed as disposable, but some users report carefully folding and reusing them for a second event if they weren't stained or torn. The thin plastic means this is hit-or-miss — don't count on reuse, but treat it as a bonus if it happens."
 date: 2026-06-08
-price: null
+price: 9.97
 review_count: 6462
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBM682SQ/?tag=tsvglyc-20"

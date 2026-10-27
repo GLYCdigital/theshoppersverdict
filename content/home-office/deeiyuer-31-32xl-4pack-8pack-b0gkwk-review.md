@@ -7,7 +7,7 @@ slug: "deeiyuer-31-32xl-4pack-8pack-b0gkwk-review"
 image_alt: "DEEIYUER 31-inch and 32-inch XL shelf brackets in 4-pack and 8-pack configurations"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 31.89
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GKWKCG6R/?tag=tsvglyc-20"

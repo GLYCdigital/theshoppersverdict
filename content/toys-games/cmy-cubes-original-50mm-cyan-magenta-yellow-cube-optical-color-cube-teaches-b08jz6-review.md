@@ -7,7 +7,7 @@ slug: "cmy-cubes-original-50mm-cyan-magenta-yellow-cube-optical-color-cube-teach
 image_alt: "CMY Cubes Original 50mm optical color cube showing cyan, magenta and yellow faces with overlapping color shadows"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 29.95
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08JZ6Z4F2/?tag=tsvglyc-20"

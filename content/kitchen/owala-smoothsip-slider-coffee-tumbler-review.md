@@ -4,7 +4,7 @@ title: "Product Review: Owala SmoothSip Slider Coffee Tumbler — Leak-Proof Tra
 seo_title: "Owala SmoothSip Slider Coffee Tumbler Review | TSV"
 meta_description: "Owala SmoothSip Slider coffee tumbler keeps drinks hot or cold without leaking. Read our review of this 4.6-star insulated travel mug with 12K+ reviews."
 date: 2026-05-18
-price: null
+price: 24.99
 slug: "owala-smoothsip-slider-coffee-tumbler-review"
 review_count: 12678
 amazon_rating: 4.6

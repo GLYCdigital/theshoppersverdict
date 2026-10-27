@@ -7,7 +7,7 @@ slug: "vk-6067b-filter-replacement-fit-for-hokeki-vk-6067b-air-purifier-and-b094
 image_alt: "VK-6067B Filter Replacement Fit For HOKEKI VK-6067B Air Purifier and For Vremi Air Purifier, 3-Stage Filtration With HEP"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 30.98
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B094C8THQC/?tag=tsvglyc-20"

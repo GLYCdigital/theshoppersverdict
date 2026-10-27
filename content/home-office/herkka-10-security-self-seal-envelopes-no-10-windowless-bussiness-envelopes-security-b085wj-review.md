@@ -7,7 +7,7 @@ slug: "herkka-10-security-self-seal-envelopes-no-10-windowless-bussiness-envelop
 image_alt: "HERKKA #10 Security Self-Seal Envelopes, No.10 Windowless Bussiness Envelopes, Security Tinted with Printer Friendly Des"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 24.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B085WJMWC9/?tag=tsvglyc-20"

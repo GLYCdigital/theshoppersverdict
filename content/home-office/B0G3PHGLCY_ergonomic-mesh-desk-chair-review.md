@@ -7,7 +7,7 @@ slug: "ergonomic-mesh-desk-chair-headrest-lumbar-review"
 image_alt: "Ergonomic mesh desk chair with adjustable lumbar support, padded headrest, and breathable back mesh in a home office setting"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: 169.99
 review_count: 1
 amazon_rating: 5.0
 amazon_url: "https://www.amazon.com/dp/B0G3PHGLCY/?tag=tsvglyc-20"

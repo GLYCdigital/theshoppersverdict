@@ -7,7 +7,7 @@ slug: "pelon-pelo-rico-mini-tamarind-candy-0-45-oz-pack-of-18-b0f3m3-review"
 image_alt: "Pelon Pelo Rico Mini Tamarind Candy, 0.45 oz (Pack of 18)"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 4.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F3M39KPZ/?tag=tsvglyc-20"

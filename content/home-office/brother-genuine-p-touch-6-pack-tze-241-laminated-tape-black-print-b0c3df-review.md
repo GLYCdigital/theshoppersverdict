@@ -7,7 +7,7 @@ slug: "brother-genuine-p-touch-6-pack-tze-241-laminated-tape-black-print-b0c3df-
 image_alt: "Brother Genuine P-Touch TZe-241 laminated tape 6-pack in black on white"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 98.9
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C3DFHY74/?tag=tsvglyc-20"

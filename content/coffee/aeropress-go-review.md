@@ -7,7 +7,7 @@ slug: "aeropress-go-review"
 image_alt: "Aeropress Go travel coffee press fully assembled with mug, lid, and scoop on a table"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: $39.95
 review_count: 12876
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07YVL8SF3/?tag=tsvglyc-20"

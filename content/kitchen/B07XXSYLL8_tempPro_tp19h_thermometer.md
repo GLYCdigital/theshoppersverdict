@@ -8,7 +8,7 @@ slug: "temppro-tp19h-digital-meat-thermometer-review"
 image_alt: "TempPro TP19H digital meat thermometer with probe and magnetic backing"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 54396
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20"

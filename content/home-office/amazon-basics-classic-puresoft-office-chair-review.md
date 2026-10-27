@@ -7,7 +7,7 @@ slug: "amazon-basics-classic-puresoft-office-chair-review"
 image_alt: "Amazon Basics Classic Puresoft Padded Office Chair with armrests and adjustable height"
 verdict_score: 3.8
 date: 2026-08-06
-price: null
+price: 83.99
 review_count: 40351
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B081H3Y5NW/?tag=tsvglyc-20"

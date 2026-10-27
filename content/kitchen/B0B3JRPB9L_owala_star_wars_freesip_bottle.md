@@ -7,7 +7,7 @@ slug: "owala-star-wars-freesip-bottle-review"
 image_alt: "Owala Star Wars FreeSip Bottle in Darth Vader design showing the two-in-one lid with straw and chug spout"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 27.99
 review_count: 14469
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B3JRPB9L/?tag=tsvglyc-20"

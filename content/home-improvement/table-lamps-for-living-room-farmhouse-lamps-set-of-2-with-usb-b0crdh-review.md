@@ -7,7 +7,7 @@ slug: "table-lamps-for-living-room-farmhouse-lamps-set-of-2-with-usb-b0crdh-revi
 image_alt: "Table Lamps for Living Room - Farmhouse Lamps Set of 2 with USB C+A & Outlet, 3-Way Dimmable Touch Lamps for Night Stand"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 64.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CRDHPMSW/?tag=tsvglyc-20"

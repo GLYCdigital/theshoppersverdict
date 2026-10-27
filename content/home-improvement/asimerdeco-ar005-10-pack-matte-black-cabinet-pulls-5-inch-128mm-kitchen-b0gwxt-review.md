@@ -7,7 +7,7 @@ slug: "asimerdeco-ar005-10-pack-matte-black-cabinet-pulls-5-inch-128mm-kitchen-b
 image_alt: "Asimerdeco AR005 matte black cabinet pulls 5-inch 10 pack on kitchen cabinets"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 32.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GWXTND8F/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "hamilton-beach-wave-crusher-blender-review"
 image_alt: "Hamilton Beach Wave Crusher Blender with 40-ounce glass jar and stainless steel Wave Action blades"
 verdict_score: 4.1
 date: 2026-08-06
-price: null
+price: 34.95
 review_count: 18434
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0086DY572/?tag=tsvglyc-20"

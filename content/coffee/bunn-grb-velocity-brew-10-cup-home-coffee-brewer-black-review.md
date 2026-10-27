@@ -7,7 +7,7 @@ slug: "bunn-grb-velocity-brew-10-cup-home-coffee-brewer-black-review"
 image_alt: "BUNN GRB Velocity Brew 10-cup home coffee brewer in black with glass carafe"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 124.95
 review_count: 17203
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20"

@@ -8,7 +8,7 @@ slug: flexispot-standing-desk-review
 verdict_score: 4.6
 review_count: 4413
 amazon_rating: 4.6
-price: null
+price: $219.99
 amazon_url: "https://www.amazon.com/dp/B07H2WGFQN?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/717OHX3si4L._AC_SL1500_.jpg"
 image_alt: "FlexiSpot EN2 electric standing desk in office setting with dual monitors"

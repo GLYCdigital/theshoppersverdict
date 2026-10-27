@@ -7,7 +7,7 @@ slug: "2-pack-stackable-conference-room-chairs-with-wheels-and-paddle-ergonomic-
 image_alt: "Two stackable mesh conference chairs with wheels and padded arms shown side by side"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 104.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BM949DCX/?tag=tsvglyc-20"

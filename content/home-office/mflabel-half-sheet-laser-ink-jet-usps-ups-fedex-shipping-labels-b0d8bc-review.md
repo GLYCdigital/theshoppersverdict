@@ -7,7 +7,7 @@ slug: "mflabel-half-sheet-laser-ink-jet-usps-ups-fedex-shipping-labels-b0d8bc-re
 image_alt: "MFLABEL Half Sheet Laser/Ink Jet USPS UPS FedEx Shipping Labels"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 4.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D8BCWXS2/?tag=tsvglyc-20"

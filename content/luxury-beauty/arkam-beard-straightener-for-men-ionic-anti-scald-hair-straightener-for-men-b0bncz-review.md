@@ -7,7 +7,7 @@ slug: "arkam-beard-straightener-for-men-ionic-anti-scald-hair-straightener-for-m
 image_alt: "Arkam beard straightener for men with ionic technology and anti-scald heating plates"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 30.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BNCZ9PK4/?tag=tsvglyc-20"

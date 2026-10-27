@@ -16,7 +16,7 @@ faq:
   - question: "Is the Chess Set Magnetic, Board good for beginners?"
     answer: "Yes - many reviewers mention this as their first toy or game and were satisfied with the experience."
 date: 2026-08-02
-price: null
+price: 18.99
 review_count: 655
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BHX6H96Q/?tag=tsvglyc-20"

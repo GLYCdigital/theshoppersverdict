@@ -19,7 +19,7 @@ faq:
   - question: "Is this product worth buying?"
     answer: "Based on thousands of Amazon reviews, this product delivers solid value for its price point. It has strong ratings and satisfied customers, though it's not perfect for everyone."
 date: 2026-06-02
-price: null
+price: 19.97
 review_count: 10188
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01ENK41Q6/?tag=tsvglyc-20"

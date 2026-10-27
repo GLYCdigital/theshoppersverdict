@@ -7,7 +7,7 @@ slug: "cork-mill-marble-decorative-bowl-for-home-decor-handcrafted-natural-stone
 image_alt: "Cork & Mill handcrafted natural marble decorative bowl on a kitchen counter"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 68.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJTLLX4B/?tag=tsvglyc-20"

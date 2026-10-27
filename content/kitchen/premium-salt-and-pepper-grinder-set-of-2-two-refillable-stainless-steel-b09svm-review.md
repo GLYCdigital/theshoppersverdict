@@ -7,7 +7,7 @@ slug: "premium-salt-and-pepper-grinder-set-of-2-two-refillable-stainless-steel-b
 image_alt: "Premium Salt and Pepper Grinder Set of 2 - Two Refillable Stainless Steel Sea Salt & Spice Shakers with Adjustable Coars"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 16.97
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09SVMXBYC/?tag=tsvglyc-20"

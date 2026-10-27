@@ -7,7 +7,7 @@ slug: "zavothy-hydration-backpack-with-2l-hydration-bladder-water-backpack-for-h
 image_alt: "Zavothy Hydration Backpack with 2L Hydration Bladder Water Backpack for Hiking Hydration Pack for Running Cycling Hiking"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 23.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GWDF6Q8Y/?tag=tsvglyc-20"

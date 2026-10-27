@@ -19,7 +19,7 @@ faq:
   - question: "How does Starbucks Espresso Roast compare to the café version?"
     answer: "The roast profile matches Starbucks café espresso — bold, full-bodied, with caramel notes. Brewed small, it's remarkably close to what you'd get in-store."
 date: 2026-07-14
-price: null
+price: 47.57
 review_count: 995
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGL212LX/?tag=tsvglyc-20"

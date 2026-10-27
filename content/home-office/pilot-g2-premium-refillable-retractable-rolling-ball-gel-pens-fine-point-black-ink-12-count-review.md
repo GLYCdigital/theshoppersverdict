@@ -20,7 +20,7 @@ faq:
   - question: "What point sizes are available for Pilot G2?"
     answer: "Pilot G2 comes in four point sizes: 0.38mm (extra fine), 0.5mm (fine), 0.7mm (medium), and 1.0mm (bold). The fine point (0.5mm) in this 12-pack strikes the ideal balance between precision and smoothness."
 date: 2026-07-09
-price: null
+price: 19.89
 review_count: 32711
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20"

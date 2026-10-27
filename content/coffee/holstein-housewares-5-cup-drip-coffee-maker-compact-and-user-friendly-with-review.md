@@ -19,7 +19,7 @@ faq:
   - question: "Is the Holstein Housewares 5 Cup portable enough for travel?"
     answer: "Yes - reviewers consistently mention using it while traveling and appreciate its portability."
 date: 2026-08-02
-price: null
+price: 26.67
 review_count: 13338
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B077V4LNL5/?tag=tsvglyc-20"

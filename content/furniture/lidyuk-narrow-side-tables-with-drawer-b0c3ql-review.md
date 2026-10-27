@@ -7,7 +7,7 @@ slug: "lidyuk-narrow-side-tables-with-drawer-b0c3ql-review"
 image_alt: "LIDYUK Narrow Side Tables with Drawer"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 52.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3QLX5FX/?tag=tsvglyc-20"

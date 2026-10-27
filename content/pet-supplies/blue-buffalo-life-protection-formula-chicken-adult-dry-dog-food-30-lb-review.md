@@ -20,7 +20,7 @@ faq:
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-04
 last_verified: 2026-08-04
-price: null
+price: 22.86
 review_count: 29471
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0009YWKUA/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "tritard-coastal-area-rugs-for-living-room-bedroom-b0b9fk-review"
 image_alt: "Tritard Coastal Area Rugs for Living Room Bedroom"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 29.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0B9FKLP7Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "saviland-airbrush-gel-nail-polish-set-b0fdqv-review"
 image_alt: "SAVILAND Airbrush Gel Nail Polish Set"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 33.24
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FDQVNBLJ/?tag=tsvglyc-20"

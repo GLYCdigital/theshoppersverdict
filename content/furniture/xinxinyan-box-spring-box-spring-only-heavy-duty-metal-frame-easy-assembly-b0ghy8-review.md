@@ -7,7 +7,7 @@ slug: "xinxinyan-box-spring-box-spring-only-heavy-duty-metal-frame-easy-assembly
 image_alt: "XINXINYAN Box Spring, Box Spring Only, Heavy Duty Metal Frame, Easy Assembly, Noise Free"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 65.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GHY86L3M/?tag=tsvglyc-20"

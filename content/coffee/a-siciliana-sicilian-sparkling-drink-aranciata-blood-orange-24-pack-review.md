@@ -20,7 +20,7 @@ faq:
     answer: "The drink itself earns 5-star flavor reviews, but several buyers flag the Amazon price as steep for regular sipping. One said it's 'too expensive here on amazon for me to order it frequently' — worth it as a treat or for special occasions."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: null
+price: 52.99
 review_count: 226
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B087429FHR/?tag=tsvglyc-20"

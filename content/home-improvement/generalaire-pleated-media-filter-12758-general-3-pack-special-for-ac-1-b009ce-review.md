@@ -7,7 +7,7 @@ slug: "generalaire-pleated-media-filter-12758-general-3-pack-special-for-ac-1-b0
 image_alt: "GeneralAire 12758 pleated media filter 3-pack showing three white pleated filters stacked together"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 123.49
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B009CEVM6Q/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "valchiria-boxing-gloves-for-men-women-sparring-training-punching-mma-kick
 image_alt: "Valchiria Boxing Gloves for Men Women, Sparring Training Punching MMA Kickboxing Boxing Gloves, Heavy Bag Workout Gloves"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 16.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09NDB5Q89/?tag=tsvglyc-20"

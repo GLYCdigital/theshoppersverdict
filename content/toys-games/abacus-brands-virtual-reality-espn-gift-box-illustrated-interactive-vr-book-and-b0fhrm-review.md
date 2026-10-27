@@ -7,7 +7,7 @@ slug: "abacus-brands-virtual-reality-espn-gift-box-illustrated-interactive-vr-bo
 image_alt: "Abacus Brands Virtual Reality ESPN Gift Box with illustrated book and VR headset"
 verdict_score: 3.3
 date: 2026-08-06
-price: null
+price: 23.24
 review_count: 155
 amazon_rating: 3.1
 amazon_url: "https://www.amazon.com/dp/B0FHRMH144/?tag=tsvglyc-20"

@@ -21,6 +21,9 @@ cons:
   - "No page numbers or table of contents, which limits it as a strict bullet journal"
 
 ---
+
+**Review Body:**
+
 Let's do the math first. Twenty notebooks, 200 pages each — that's 4,000 pages of writing space. At the Dynta 20-pack's typical street price, you're looking at roughly $1.50 per journal. For that money, you'd normally get flimsy spiral notebooks that fall apart in a backpack. The Dynta journals are hardcover, stitched, and wrapped in a textured PU leather that looks far more expensive than it is. If you burn through notebooks the way most writers, students, or project managers do, this is the rare bulk buy that actually makes sense.
 
 **What's actually in the box**

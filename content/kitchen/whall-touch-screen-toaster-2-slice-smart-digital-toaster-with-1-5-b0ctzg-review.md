@@ -7,7 +7,7 @@ slug: "whall-touch-screen-toaster-2-slice-smart-digital-toaster-with-1-5-b0ctzg-
 image_alt: "WHALL Touch Screen Toaster 2 Slice,Smart Digital Toaster with 1.5 Wide Slots,6 Shade Settings & 6 Bread Types,Memory Fun"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 50.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTZGM597/?tag=tsvglyc-20"

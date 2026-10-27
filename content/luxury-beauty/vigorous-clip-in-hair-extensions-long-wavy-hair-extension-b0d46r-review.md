@@ -7,7 +7,7 @@ slug: "vigorous-clip-in-hair-extensions-long-wavy-hair-extension-b0d46r-review"
 image_alt: "Vigorous Clip in Hair Extensions Long Wavy Hair Extension"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 24.99
 review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0D46RGKLS/?tag=tsvglyc-20"

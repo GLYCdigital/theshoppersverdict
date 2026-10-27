@@ -7,7 +7,7 @@ slug: "malory-brass-outdoor-spot-lights-12v-ac-dc-low-voltage-led-landscape-b0by
 image_alt: "MALORY Brass Outdoor Spot Lights,12V AC/DC Low Voltage LED Landscape Lighting,Waterproof Spot Up Light for Garden,Patio "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 29.69
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BY2TRQ9H/?tag=tsvglyc-20"

@@ -21,6 +21,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 If you've ever watched a $40 soccer goal from the big-box store disintegrate after one season of "elite" backyard play, you know the drill. The frame buckles, the net rips at the corners, and you're left with a pile of plastic tubing by September.
 
 The Pro-Grade Kids Backyard Soccer Goal (B0DYDSWKK5) is built to break that cycle. With a 4.6-star average across 229 ratings, it's clearly doing something right. But is it actually pro-grade, or is that just marketing? Let's dig in.

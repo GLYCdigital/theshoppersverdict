@@ -7,7 +7,7 @@ slug: "luxu-glass-coffee-mugs-set-of-4-b0b289-review"
 image_alt: "LUXU Glass Coffee Mugs Set of 4"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 24.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B289BPSS/?tag=tsvglyc-20"

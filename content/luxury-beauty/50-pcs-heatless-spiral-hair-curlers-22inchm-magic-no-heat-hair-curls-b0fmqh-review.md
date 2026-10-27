@@ -7,7 +7,7 @@ slug: "50-pcs-heatless-spiral-hair-curlers-22inchm-magic-no-heat-hair-curls-b0fm
 image_alt: "50-piece heatless spiral hair curler set with satin rods and elastic ties for no-heat curling"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 26.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FMQHKVCM/?tag=tsvglyc-20"

@@ -21,6 +21,9 @@ cons:
   - "Small treat slots jam easily with soft or irregularly shaped treats; only works well with uniform kibble"
 
 ---
+
+**Review Body**
+
 You've seen the product image: a bright orange-and-blue two-piece toy with ribbed silicone flaps and a twisted lid. It looks like a puzzle, not a chew toy. And that's exactly the thing to understand before you buy the Animire Treat Dispensing Dog Toy — it's a mental workout with a food reward, not a demolition project for your Bulldog.
 
 At 3.9 stars from 195 ratings, the numbers tell a story of a solid mid-tier puzzle feeder that nails the concept but stumbles on a key promise: "long-lasting."

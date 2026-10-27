@@ -7,7 +7,7 @@ slug: "50-pack-reusable-meal-prep-containers-microwave-safe-food-storage-contain
 image_alt: "Stack of 50 reusable BPA-free meal prep containers with secure locking lids"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 20.49
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B079M174TQ/?tag=tsvglyc-20"

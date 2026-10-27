@@ -17,7 +17,7 @@ faq:
   - question: "Is the Keurig K-Iced Coffee Maker portable enough for travel?"
     answer: "Yes - reviewers consistently mention using it while traveling and appreciate its portability."
 date: 2026-05-27
-price: null
+price: 97.75
 review_count: 6819
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BSMGNYN3/?tag=tsvglyc-20"

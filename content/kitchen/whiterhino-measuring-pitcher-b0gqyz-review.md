@@ -1,11 +1,32 @@
 ---
+
+title: "WhiteRhino Measuring Pitcher"
+seo_title: "WhiteRhino Measuring Pitcher Review: Verdict | TSV"
+meta_description: "Our full whiterhino measuring pitcher review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "whiterhino-measuring-pitcher-b0gqyz-review"
+image_alt: "WhiteRhino Measuring Pitcher"
+verdict_score: 4.6
+date: 2026-06-17
+price: null
+review_count: 229
+amazon_rating: 4.6
+amazon_url: "https://www.amazon.com/dp/B0GQYZLDHS/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/61jQM08FzpL._AC_SL1500_.jpg"
+pros: 
+  - "Functional design for everyday cooking"
+  - "Easy to incorporate into your kitchen routine"
+cons: 
+  - "May vary based on individual needs and preferences"
+  - "Check Amazon for current pricing and availability"
+
+---
 title: "WhiteRhino Measuring Pitcher"
 seo_title: "WhiteRhino Measuring Pitcher Review (2026): Is It Worth It?"
 meta_description: "Honest WhiteRhino Measuring Pitcher review: 4.6-star rated. Tested for accuracy, durability, and pour control. See pros, cons, and who should buy."
 slug: "whiterhino-measuring-pitcher-b0gqyz-review"
 image_alt: "WhiteRhino 4-cup clear measuring pitcher with BPA-free plastic body, handle, and graduated markings on white background"
 verdict_score: 4.6
-date: 2026-06-17
+date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
@@ -19,6 +40,7 @@ cons:
   - "4-cup capacity max — you'll need a second vessel for larger batches of stock or punch"
   - "Plastic body scratches over time if you use metal whisks or scrubbers inside it"
 ---
+
 **What You Actually Get**
 
 The WhiteRhino arrives as a single piece: a clear, BPA-free plastic pitcher with a 32-ounce capacity. As shown in the product image, the handle is integrated into the body rather than bolted on — that means no crevices for bacteria to hide. The markings run down the side in white, embossed directly into the plastic. You get two scales: US cups/fluid ounces on one side, milliliters on the other.

@@ -7,7 +7,7 @@ slug: "hongbake-muffin-pan-for-baking-b0gs5n-review"
 image_alt: "HONGBAKE Muffin Pan for Baking"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.97
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GS5NT8B5/?tag=tsvglyc-20"

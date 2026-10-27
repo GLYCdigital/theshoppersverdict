@@ -21,6 +21,9 @@ cons:
   - "Bright colors fade noticeably after a few hours in direct UV sun; cosmetic only, not structural"
 
 ---
+
+**Review Body:**
+
 Most sand toy sets are an afterthought — flimsy plastic that cracks by lunchtime and gets left on the beach for someone else to deal with. The Beach Shell Collecting Set with 2 Collapsible Buckets is not that. At 4.7 stars across 235 ratings, this set has earned its reputation with a design that actually solves a real problem: how to haul sand toys without turning your car into a clown-car trunk.
 
 **What You Actually Get**

@@ -7,7 +7,7 @@ slug: "dazzle-glitter-bingo-dauber-dabber-ink-6-pack-mixed-colors-b00bi3-review"
 image_alt: "Dazzle Glitter Bingo Dauber 6-pack with mixed color ink dabbers laid out on a table"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 15.95
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00BI3QW3W/?tag=tsvglyc-20"

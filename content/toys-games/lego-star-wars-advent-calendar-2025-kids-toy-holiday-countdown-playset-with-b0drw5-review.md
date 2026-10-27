@@ -7,7 +7,7 @@ slug: "lego-star-wars-advent-calendar-2025-kids-toy-holiday-countdown-playset-wi
 image_alt: "LEGO Star Wars Advent Calendar 2025 Kids Toy - Holiday Countdown Playset with 24 Toys for Boys & Girls, Ages 6+ - Includ"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 43.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRW5JT6L/?tag=tsvglyc-20"

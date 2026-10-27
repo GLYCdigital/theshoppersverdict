@@ -7,7 +7,7 @@ slug: "doritos-minis-canisters-b0fgjv-review"
 image_alt: "Doritos Minis Canisters multi-pack showing individual snack containers"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 20.83
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FGJVX772/?tag=tsvglyc-20"

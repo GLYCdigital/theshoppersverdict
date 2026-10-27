@@ -7,7 +7,7 @@ slug: "oakvivo-12-6-w-x-14-17-h-14-76-w-x-b0g1mn-review"
 image_alt: "oakvivo 12.6 W x 14.17 H & 14.76 W x 17.32 H Round Set of 2 Ottoman with Storage Vanity Stool for Makeup Multifunctional"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 87.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G1MN7NGR/?tag=tsvglyc-20"

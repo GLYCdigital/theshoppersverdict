@@ -7,7 +7,7 @@ slug: "hard-plastic-card-sleeves-premium-baseball-card-sleeves-b0d9qz-review"
 image_alt: "Stack of premium hard plastic baseball card sleeves with a single card inserted, showing clear rigid protection"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 13.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9QZDNXL/?tag=tsvglyc-20"

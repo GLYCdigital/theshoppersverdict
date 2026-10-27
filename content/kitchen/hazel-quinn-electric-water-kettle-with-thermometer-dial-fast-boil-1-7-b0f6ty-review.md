@@ -7,7 +7,7 @@ slug: "hazel-quinn-electric-water-kettle-with-thermometer-dial-fast-boil-1-7-b0f
 image_alt: "Hazel Quinn Electric Water Kettle with Thermometer Dial, Fast Boil, 1.7 L Cordless Stainless Steel Tea Kettles, BPA-free"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 65.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F6TYZ1MS/?tag=tsvglyc-20"

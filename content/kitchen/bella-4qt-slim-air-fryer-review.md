@@ -7,7 +7,7 @@ slug: "bella-4qt-slim-air-fryer-review"
 image_alt: "bella 4Qt Slim Air Fryer with digital touchscreen controls and nonstick basket on a kitchen counter"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 59.99
 review_count: 3689
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CYJDVT31/?tag=tsvglyc-20"

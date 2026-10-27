@@ -7,7 +7,7 @@ slug: "gobidex-100pcs-magnetic-blocks-kid-building-toys-for-3-years-old-girls-b0
 image_alt: "GobiDex 100-piece magnetic building blocks set in bright colors, spread out on a table showing various geometric shapes"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 23.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D3PL4CP9/?tag=tsvglyc-20"

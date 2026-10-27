@@ -7,7 +7,7 @@ slug: "trivd-frol-4-6-8-10-roof-vent-cap-b0gtpg-review"
 image_alt: "Trivd Frol 4/6/8/10 Roof Vent Cap"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 31.34
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTPGJLS2/?tag=tsvglyc-20"

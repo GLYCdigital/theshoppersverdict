@@ -18,7 +18,7 @@ faq:
   - question: "Is the Voltset 12V Solar Battery Charger durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-06-28
-price: null
+price: 51.76
 review_count: 1571
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BWY64QTY/?tag=tsvglyc-20"

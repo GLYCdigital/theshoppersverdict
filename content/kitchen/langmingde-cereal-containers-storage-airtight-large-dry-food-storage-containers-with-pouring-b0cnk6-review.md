@@ -7,7 +7,7 @@ slug: "langmingde-cereal-containers-storage-airtight-large-dry-food-storage-cont
 image_alt: "LANGMINGDE Cereal Containers Storage, Airtight Large Dry Food Storage Containers with Pouring Spout Measuring Cup for Sn"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 18.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CNK68X2S/?tag=tsvglyc-20"

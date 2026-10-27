@@ -7,7 +7,7 @@ slug: "pikmin-3-deluxe-nintendo-switch-b08fc1-review"
 image_alt: "Pikmin 3 Deluxe - Nintendo Switch"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 47.66
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08FC1GZ62/?tag=tsvglyc-20"

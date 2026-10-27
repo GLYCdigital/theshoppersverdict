@@ -7,7 +7,7 @@ slug: "vivohome-stand-mixer-review"
 image_alt: "VIVOHOME 660W 6.5L tilt-head stand mixer in silver with stainless steel bowl and attachments"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 149.99
 review_count: 3713
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B086BY5MYC/?tag=tsvglyc-20"

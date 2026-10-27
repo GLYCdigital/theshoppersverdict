@@ -7,7 +7,7 @@ slug: "dr-elseys-ultra-cat-litter-review"
 image_alt: "Dr. Elsey's Ultra Cat Litter bag with clumping clay litter for odor control"
 verdict_score: 8.5
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 95521
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20"

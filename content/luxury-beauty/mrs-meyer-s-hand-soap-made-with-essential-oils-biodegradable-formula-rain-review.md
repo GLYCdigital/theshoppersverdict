@@ -19,7 +19,7 @@ faq:
   - question: "Is the Mrs. Meyer's Hand Soap durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-07-12
-price: null
+price: 31.30
 review_count: 16155
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07TJG79HP/?tag=tsvglyc-20"

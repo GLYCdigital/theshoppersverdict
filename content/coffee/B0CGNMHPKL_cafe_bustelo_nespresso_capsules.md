@@ -7,7 +7,7 @@ slug: "cafe-bustelo-nespresso-capsules-review"
 image_alt: "Café Bustelo aluminum espresso capsules arranged beside a Nespresso machine"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 24.98
 review_count: 1751
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CGNMHPKL/?tag=tsvglyc-20"

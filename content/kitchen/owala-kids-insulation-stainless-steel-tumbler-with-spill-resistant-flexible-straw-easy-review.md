@@ -19,7 +19,7 @@ faq:
     answer: "Yes - several reviewers bought this as a gift and the recipients were pleased."
 date: 2026-08-05
 last_verified: 2026-08-05
-price: null
+price: 22.68
 review_count: 6855
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CR5HLCVQ/?tag=tsvglyc-20"
@@ -31,6 +31,9 @@ cons:
   - "Minor drawbacks noted by some users"
 
 ---
+
+**Review Body:**
+
 You know that feeling when you drop $25 on a kid's water bottle and it ends up leaking all over the car seat, or the straw valve gets so gross you have to throw the whole thing away? The Owala Kids 12oz Tumbler was designed specifically to kill those problems. With 6,855 Amazon ratings averaging 4.4 stars, it's clearly working for most families — but it's not perfect, and here's the honest breakdown.
 
 **What You Actually Get**

@@ -7,7 +7,7 @@ slug: "sinley-led-neon-rope-lights-control-with-app-remote-flexible-led-rope-b0g
 image_alt: "SINLEY Led Neon Rope Lights Control with App/Remote,Flexible Led Rope Lights,Multiple Modes,IP68 Outdoor RGB Neon Lights"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GWHSMFM2/?tag=tsvglyc-20"

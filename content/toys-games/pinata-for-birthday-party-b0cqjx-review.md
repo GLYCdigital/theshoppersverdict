@@ -7,7 +7,7 @@ slug: "pinata-for-birthday-party-b0cqjx-review"
 image_alt: "Pinata for Birthday Party"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 19.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQJXQ1D3/?tag=tsvglyc-20"

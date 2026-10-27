@@ -7,7 +7,7 @@ slug: "amazon-basics-office-stapler-review"
 image_alt: "Amazon Basics Office Stapler with black matte finish, loaded with standard staples"
 verdict_score: 8.8
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"

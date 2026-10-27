@@ -7,7 +7,7 @@ slug: "poraxy-5-in-1-stem-kits-for-kids-age-8-10-science-b086dq-review"
 image_alt: "Poraxy 5 in 1 STEM Kits for Kids Age 8-10, Science Building Project Craft for 8-13, Model Car Kit, STEM Toys for Boys Gi"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 16.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B086DQNK7F/?tag=tsvglyc-20"

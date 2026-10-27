@@ -7,7 +7,7 @@ slug: "ukeetap-expandable-silverware-organizer-review"
 image_alt: "Ukeetap extra large expandable bamboo silverware organizer with adjustable dividers in a kitchen drawer"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 5543
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2TB2MMP/?tag=tsvglyc-20"

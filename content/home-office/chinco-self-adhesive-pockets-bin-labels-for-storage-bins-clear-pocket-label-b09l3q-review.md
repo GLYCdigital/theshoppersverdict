@@ -7,7 +7,7 @@ slug: "chinco-self-adhesive-pockets-bin-labels-for-storage-bins-clear-pocket-lab
 image_alt: "Chinco self adhesive clear label pockets mounted on storage bins with white paper labels inserted"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 8.95
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09L3QJ6GH/?tag=tsvglyc-20"

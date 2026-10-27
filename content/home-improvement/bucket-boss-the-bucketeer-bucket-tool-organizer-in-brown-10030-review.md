@@ -7,7 +7,7 @@ slug: "bucket-boss-the-bucketeer-bucket-tool-organizer-in-brown-10030-review"
 image_alt: "Bucket Boss Bucketeer brown tool organizer wrapped around a standard 5-gallon bucket with 16 pockets and loops"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 16.48
 review_count: 12043
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00GK4TOWK/?tag=tsvglyc-20"

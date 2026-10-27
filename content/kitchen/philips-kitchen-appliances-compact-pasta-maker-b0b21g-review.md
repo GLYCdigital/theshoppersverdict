@@ -7,7 +7,7 @@ slug: "philips-kitchen-appliances-compact-pasta-maker-b0b21g-review"
 image_alt: "Philips Kitchen Appliances Compact Pasta Maker"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 229.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0B21G55VV/?tag=tsvglyc-20"

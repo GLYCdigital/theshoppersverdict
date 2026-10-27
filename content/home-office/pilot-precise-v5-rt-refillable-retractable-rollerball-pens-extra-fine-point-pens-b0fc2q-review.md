@@ -7,7 +7,7 @@ slug: "pilot-precise-v5-rt-refillable-retractable-rollerball-pens-extra-fine-poi
 image_alt: "Pilot Precise V5 RT Refillable & Retractable Rollerball Pens, Extra Fine Point Pens 0.5 mm, Black, Tub of 48 - Ideal for"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.29
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FC2QGH51/?tag=tsvglyc-20"

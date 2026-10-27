@@ -7,7 +7,7 @@ slug: "traeger-grills-bac504-full-length-grill-cover-grill-accessory-pro-780-b07
 image_alt: "Traeger Grills BAC504 Full-Length Grill Cover Grill Accessory - Pro 780"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 70.55
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B07NP48BJY/?tag=tsvglyc-20"

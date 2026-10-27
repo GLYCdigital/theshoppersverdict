@@ -9,7 +9,7 @@ verdict_score: 4.1
 review_count: 5527
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CFFSNQNT?tag=tsvglyc-20"
-price: null
+price: $125
 amazon_image: "https://m.media-amazon.com/images/I/71vfV3A45NL._AC_SL1500_.jpg"
 image_alt: "Nespresso Vertuo Next coffee machine in black on a marble countertop"
 keywords: [Nespresso Vertuo Next review, Vertuo Next coffee machine, best Nespresso machine, Nespresso Vertuo Next vs Vertuo Plus, Vertuo Next review 2026]

@@ -7,7 +7,7 @@ slug: "fohere-3-in-1-sandwich-maker-b0cf47-review"
 image_alt: "FOHERE 3 in 1 Sandwich Maker with removable grill, waffle, and sandwich plates on a kitchen countertop"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 54.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CF47KF9S/?tag=tsvglyc-20"

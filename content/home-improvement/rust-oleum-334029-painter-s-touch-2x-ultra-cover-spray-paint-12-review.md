@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Rust-Oleum 334029 Painter's Touch 2X?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the tool or home improvement product category. The main drawbacks (quality) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-05
-price: null
+price: 12.89
 review_count: 93774
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002BWOS5I/?tag=tsvglyc-20"

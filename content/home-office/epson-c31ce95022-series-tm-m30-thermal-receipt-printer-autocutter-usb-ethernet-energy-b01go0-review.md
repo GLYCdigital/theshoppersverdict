@@ -7,7 +7,7 @@ slug: "epson-c31ce95022-series-tm-m30-thermal-receipt-printer-autocutter-usb-eth
 image_alt: "Compact Epson TM-M30 thermal receipt printer with auto cutter, showing USB and Ethernet ports"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 189.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01GO08MW2/?tag=tsvglyc-20"

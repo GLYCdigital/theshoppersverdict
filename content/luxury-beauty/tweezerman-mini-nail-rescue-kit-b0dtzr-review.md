@@ -7,7 +7,7 @@ slug: "tweezerman-mini-nail-rescue-kit-b0dtzr-review"
 image_alt: "Tweezerman Mini Nail Rescue Kit"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.54
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DTZRXH48/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "jetech-rotating-case-for-samsung-galaxy-tab-s10-lite-s10-fe-s9-b0d4qw-rev
 image_alt: "JETech Rotating Case for Samsung Galaxy Tab S10 Lite / S10 FE / S9 FE 10.9-Inch / S9 11-Inch with S Pen Holder, 360 Degr"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D4QWGBQ1/?tag=tsvglyc-20"

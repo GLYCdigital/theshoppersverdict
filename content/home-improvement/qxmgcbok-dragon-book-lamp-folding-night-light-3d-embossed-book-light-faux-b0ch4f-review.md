@@ -7,7 +7,7 @@ slug: "qxmgcbok-dragon-book-lamp-folding-night-light-3d-embossed-book-light-faux
 image_alt: "QXMGCBOK Dragon Book Lamp,Folding Night Light,3D Embossed Book Light,Faux Books for Decoration,Decorative Books,Book Lov"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 42.59
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CH4F5Y8D/?tag=tsvglyc-20"

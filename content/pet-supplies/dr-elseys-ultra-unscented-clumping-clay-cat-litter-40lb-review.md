@@ -19,7 +19,7 @@ faq:
   - question: "Does this litter track everywhere?"
     answer: "Tracking is significantly reduced compared to standard clumping litters. No litter is 100% track-free, but Dr. Elsey's larger, denser granules track less than the fine-grain alternatives. A mat under the box helps further."
 date: 2026-07-11
-price: null
+price: 22.99
 review_count: 95521
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20"

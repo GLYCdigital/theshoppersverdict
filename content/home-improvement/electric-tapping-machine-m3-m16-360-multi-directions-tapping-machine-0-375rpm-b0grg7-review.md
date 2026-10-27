@@ -7,7 +7,7 @@ slug: "electric-tapping-machine-m3-m16-360-multi-directions-tapping-machine-0-37
 image_alt: "Electric tapping machine M3-M16 with 360 degree multi-directional arm and chuck"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 389.0
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GRG7YWDP/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "magnetic-tape-12-feet-magnet-tape-roll-1-wide-x-12-ft-b08xyz-review"
 image_alt: "Magnetic Tape, 12 Feet Magnet Tape Roll (1 Wide x 12 ft Long), with 3M Strong Adhesive Backing. Perfect for DIY, Art Pro"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 14.95
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08XYZCZ31/?tag=tsvglyc-20"

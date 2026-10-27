@@ -7,7 +7,7 @@ slug: "cat-scratcher-2-in-1-cat-scratching-board-cat-cardboard-scratch-lounger-b
 image_alt: "2 in 1 cat scratching board with curved cardboard lounge surface and ball toy, natural brown color"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 27.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWHT58MX/?tag=tsvglyc-20"

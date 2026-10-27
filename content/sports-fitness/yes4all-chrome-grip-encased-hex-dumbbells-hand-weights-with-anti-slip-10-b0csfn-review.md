@@ -7,7 +7,7 @@ slug: "yes4all-chrome-grip-encased-hex-dumbbells-hand-weights-with-anti-slip-10-
 image_alt: "Yes4All Chrome Grip Encased Hex Dumbbells â€“ Hand Weights With Anti-Slip 10-30 LBS Pair"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.42
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CSFNPGXM/?tag=tsvglyc-20"

@@ -76,7 +76,7 @@ Tree Hugger Fantastic Fruit Bubble Gum earns a solid 4 out of 5. It's not perfec
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B00BI77UM0/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

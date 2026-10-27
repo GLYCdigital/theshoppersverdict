@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Pedigree Dentastix Large Breed?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-07-12
-price: null
+price: 64.66
 review_count: 11328
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07NJLMDNQ/?tag=tsvglyc-20"

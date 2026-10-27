@@ -21,6 +21,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Most Pikler triangles claim to be "7-in-1" but actually deliver two or three usable configurations and a pile of frustration. The Tiny Land set is different. This is a climbing gym that earns its versatility claim — and holds up to the daily abuse of an energetic toddler.
 
 ## What You Actually Get

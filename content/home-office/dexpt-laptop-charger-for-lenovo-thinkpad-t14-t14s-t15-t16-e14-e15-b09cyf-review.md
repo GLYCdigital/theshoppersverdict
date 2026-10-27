@@ -7,7 +7,7 @@ slug: "dexpt-laptop-charger-for-lenovo-thinkpad-t14-t14s-t15-t16-e14-e15-b09cyf-
 image_alt: "Dexpt 65W USB-C laptop charger for Lenovo ThinkPad T14 with detachable cable and folding prongs"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 15.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09CYFP1HC/?tag=tsvglyc-20"

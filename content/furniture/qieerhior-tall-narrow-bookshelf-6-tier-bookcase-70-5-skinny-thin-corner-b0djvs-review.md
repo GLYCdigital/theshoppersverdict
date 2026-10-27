@@ -7,7 +7,7 @@ slug: "qieerhior-tall-narrow-bookshelf-6-tier-bookcase-70-5-skinny-thin-corner-b
 image_alt: "QieerHior Tall Narrow Bookshelf 6-Tier Bookcase,70.5 Skinny Thin Corner Shelf Slim Storage Cabinet,Wood DVD CD Media Cub"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 79.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJVSTVJB/?tag=tsvglyc-20"

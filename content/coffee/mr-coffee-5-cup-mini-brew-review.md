@@ -7,7 +7,7 @@ slug: "mr-coffee-5-cup-mini-brew-review"
 image_alt: "Mr. Coffee 5-Cup Mini Brew Switch Coffee Maker in black with carafe and warming plate"
 verdict_score: 4.4
 date: 2026-08-06
-price: null
+price: 26.99
 review_count: 27799
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08QD33PZ2/?tag=tsvglyc-20"

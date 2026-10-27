@@ -7,7 +7,7 @@ slug: "jinchan-christmas-vintage-area-rug-christmas-tree-christmas-reindeer-wash
 image_alt: "jinchan Christmas Vintage Area Rug Christmas Tree Christmas Reindeer Washable Indoor Door Mat Non-Slip Holiday Decor Rug"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 13.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJDY3SG3/?tag=tsvglyc-20"
@@ -72,7 +72,7 @@ A: Yes, the latex backing grips well and doesn't leave residue or scratches. Jus
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0FJDY3SG3/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

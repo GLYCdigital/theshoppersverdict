@@ -7,7 +7,7 @@ slug: "chefman-2qt-mini-air-fryer-review"
 image_alt: "CHEFMAN 2 Qt Mini Air Fryer compact countertop appliance with basket"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: Check price on Amazon
 review_count: 29177
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DC11YH4J/?tag=tsvglyc-20"

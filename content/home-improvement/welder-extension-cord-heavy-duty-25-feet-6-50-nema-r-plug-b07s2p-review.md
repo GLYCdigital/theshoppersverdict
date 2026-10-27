@@ -7,7 +7,7 @@ slug: "welder-extension-cord-heavy-duty-25-feet-6-50-nema-r-plug-b07s2p-review"
 image_alt: "Welder Extension Cord, Heavy Duty 25 Feet 6-50 Nema R Plug Welding Cord with ETL Approved"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07S2P6HG6/?tag=tsvglyc-20"

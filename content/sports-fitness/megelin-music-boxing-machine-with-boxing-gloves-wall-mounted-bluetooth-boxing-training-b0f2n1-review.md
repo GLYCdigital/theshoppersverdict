@@ -7,7 +7,7 @@ slug: "megelin-music-boxing-machine-with-boxing-gloves-wall-mounted-bluetooth-bo
 image_alt: "MEGELIN Music Boxing Machine with Boxing Gloves,Wall Mounted, Bluetooth Boxing Training Punching Equipment"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 79.0
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F2N1VN67/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "magnetic-garage-door-windows-and-decorations-b0cj82-review"
 image_alt: "Magnetic Garage Door Windows and Decorations"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 34.95
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJ829GKQ/?tag=tsvglyc-20"

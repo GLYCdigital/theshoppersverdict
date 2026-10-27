@@ -7,7 +7,7 @@ slug: "delta-nicoli-centerset-brushed-gold-bathroom-faucet-with-sprayer-4-inch-3
 image_alt: "Delta Nicoli centerset brushed gold bathroom faucet with pull-down sprayer installed on a white vanity sink"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 154.9
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DK9X9XH2/?tag=tsvglyc-20"

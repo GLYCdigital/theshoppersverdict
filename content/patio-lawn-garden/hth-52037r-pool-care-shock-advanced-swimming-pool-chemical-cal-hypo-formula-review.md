@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the HTH 52037R Pool Care Shock?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the outdoor or garden product category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-06
-price: null
+price: 54.55
 review_count: 13985
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09R82X1S5/?tag=tsvglyc-20"

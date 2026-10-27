@@ -19,7 +19,7 @@ faq:
   - question: "How many cans fit in the Ninja 30-quart FrostVault cooler?"
     answer: "The 30-quart capacity fits up to 48 cans with no ice, or approximately 26 cans with ice. The Dry Zone drawer adds separate storage for food items that shouldn't get wet."
 date: 2026-07-31
-price: null
+price: 47.73
 review_count: 991
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CV5M1DK2/?tag=tsvglyc-20"

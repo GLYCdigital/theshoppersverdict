@@ -7,7 +7,7 @@ slug: "klein-tools-ac-circuit-breaker-finder-kit-electric-tester-gfci-tester-lea
 image_alt: "Klein Tools AC Circuit Breaker Finder Kit, Electric Tester, GFCI Tester, Leads"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 59.98
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GS1G9FBV/?tag=tsvglyc-20"

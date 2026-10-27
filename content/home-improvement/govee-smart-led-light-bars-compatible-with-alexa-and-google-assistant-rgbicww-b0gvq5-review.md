@@ -7,7 +7,7 @@ slug: "govee-smart-led-light-bars-compatible-with-alexa-and-google-assistant-rgb
 image_alt: "Govee Smart LED Light Bars, Compatible with Alexa and Google Assistant, RGBICWW WiFi TV Backlights with Scene and Music "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 49.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GVQ5214P/?tag=tsvglyc-20"

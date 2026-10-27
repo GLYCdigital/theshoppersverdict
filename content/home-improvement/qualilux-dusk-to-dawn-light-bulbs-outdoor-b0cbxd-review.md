@@ -7,7 +7,7 @@ slug: "qualilux-dusk-to-dawn-light-bulbs-outdoor-b0cbxd-review"
 image_alt: "Qualilux Dusk to Dawn Light Bulbs, Outdoor"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 7.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBXD793N/?tag=tsvglyc-20"

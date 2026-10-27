@@ -7,7 +7,7 @@ slug: "l-or-al-professionnel-paris-pro-longer-mask-reduces-breakage-appearance-o
 image_alt: "LOrÃ©al Professionnel Paris Pro Longer Mask - Reduces Breakage & Appearance of Split Ends For Thin & Fine Hair Types, Ad"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 48.0
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0968VX473/?tag=tsvglyc-20"

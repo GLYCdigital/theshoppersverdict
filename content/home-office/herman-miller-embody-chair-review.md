@@ -7,7 +7,7 @@ slug: "herman-miller-embody-chair-review"
 image_alt: "Herman Miller Embody ergonomic office chair with BackFit adjustment and pixelated support surface"
 verdict_score: 4.0
 date: 2026-08-06
-price: null
+price: 1919
 review_count: 479
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01DGM7ZII/?tag=tsvglyc-20"

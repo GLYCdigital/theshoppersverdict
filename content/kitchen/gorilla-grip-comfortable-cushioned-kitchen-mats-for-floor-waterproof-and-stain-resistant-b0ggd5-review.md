@@ -7,7 +7,7 @@ slug: "gorilla-grip-comfortable-cushioned-kitchen-mats-for-floor-waterproof-and-
 image_alt: "GORILLA GRIP Comfortable Cushioned Kitchen Mats for Floor, Waterproof and Stain Resistant Soft Top, 3/4 Inch Thick Ergon"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 36.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GGD5ZRML/?tag=tsvglyc-20"

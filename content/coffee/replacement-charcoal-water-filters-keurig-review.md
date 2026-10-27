@@ -7,7 +7,7 @@ slug: "replacement-charcoal-water-filters-keurig-review"
 image_alt: "Replacement charcoal water filter designed for Keurig coffee makers showing the round filter cartridge and mesh housing"
 verdict_score: 4.8
 date: 2026-08-06
-price: null
+price: 11.66
 review_count: 10976
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01F3896DA/?tag=tsvglyc-20"

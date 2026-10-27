@@ -7,7 +7,7 @@ slug: "kitstorack-k-tv-tray-table-parent-b0dyyf-review"
 image_alt: "Kitstorack K-TV-Tray-Table-Parent"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 47.49
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DYYFF7VG/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "leevan-non-slip-kitchen-mat-pvc-huoli-b0dkfg-review"
 image_alt: "LEEVAN Non Slip Kitchen Mat PVC HUOLI"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 29.69
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DKFGRBGW/?tag=tsvglyc-20"

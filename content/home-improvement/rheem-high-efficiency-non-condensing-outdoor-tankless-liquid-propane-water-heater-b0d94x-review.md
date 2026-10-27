@@ -7,7 +7,7 @@ slug: "rheem-high-efficiency-non-condensing-outdoor-tankless-liquid-propane-wate
 image_alt: "Rheem High Efficiency Non-Condensing Outdoor Tankless Liquid Propane Water Heater"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 756.61
 review_count: 195
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0D94XQRH3/?tag=tsvglyc-20"

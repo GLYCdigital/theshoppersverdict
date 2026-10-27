@@ -21,6 +21,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**The Review Body**
+
 Let’s be blunt: most "star projectors" for kids are glorified flashlights with a sticker over the lens. This one, marketed for girls aged 1–10, actually earns its place on a nightstand. It’s not a toy that will end up in the "ignore" pile after a week — it solves a real problem (getting a kid to stay in bed) while doubling as a low-key sensory toy.
 
 **What You Get**

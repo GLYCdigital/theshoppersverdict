@@ -7,7 +7,7 @@ slug: "hp-218a-toner-parent-b0gl92-review"
 image_alt: "HP 218A Toner (Parent)"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 78.89
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GL92Y3SV/?tag=tsvglyc-20"

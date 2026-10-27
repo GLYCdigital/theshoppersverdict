@@ -7,7 +7,7 @@ slug: "zeyu-farmhouse-pendant-lighting-016-1-b09vg9-review"
 image_alt: "zeyu Farmhouse Pendant Lighting, 016-1"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 55.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09VG9XW11/?tag=tsvglyc-20"

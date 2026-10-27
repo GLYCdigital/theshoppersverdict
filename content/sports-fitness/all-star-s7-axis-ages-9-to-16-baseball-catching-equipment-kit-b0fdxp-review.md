@@ -7,7 +7,7 @@ slug: "all-star-s7-axis-ages-9-to-16-baseball-catching-equipment-kit-b0fdxp-revi
 image_alt: "All-Star S7 Axis youth catcher's gear kit for ages 9-16 with helmet, chest protector, and leg guards"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 479.95
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FDXPTC53/?tag=tsvglyc-20"

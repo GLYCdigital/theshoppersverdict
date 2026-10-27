@@ -7,7 +7,7 @@ slug: "biopure-antibacterial-hand-wipes-fresh-morning-breeze-b0d4dz-review"
 image_alt: "Biopure Antibacterial Hand Wipes Fresh Morning Breeze package with dispenser lid"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 5.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4DZQZ16/?tag=tsvglyc-20"

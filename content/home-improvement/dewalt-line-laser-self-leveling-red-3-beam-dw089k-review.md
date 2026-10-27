@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the DEWALT Line Laser, Self-Leveling, Red?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the tool or home improvement product category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-22
-price: null
+price: 755.98
 review_count: 1446
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B005OH6IPA/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "kadision-led-wall-pack-light-with-0-90-adjustable-head-dusk-to-b078td-rev
 image_alt: "kadision LED Wall Pack Light with 0-90Â° Adjustable Head Dusk-to-Dawn Photocell, Waterproof Security Lighting Fixture fo"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 52.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B078TDTXDY/?tag=tsvglyc-20"

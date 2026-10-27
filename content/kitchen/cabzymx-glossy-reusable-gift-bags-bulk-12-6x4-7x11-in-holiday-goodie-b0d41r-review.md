@@ -7,7 +7,7 @@ slug: "cabzymx-glossy-reusable-gift-bags-bulk-12-6x4-7x11-in-holiday-goodie-b0d4
 image_alt: "Cabzymx glossy reusable gift bags bulk pack in festive holiday patterns with handles"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 16.59
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D41RRCHW/?tag=tsvglyc-20"

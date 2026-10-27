@@ -7,7 +7,7 @@ slug: "huanuo-glass-standing-desk-with-drawers-35-x-20-inch-electric-adjustable-
 image_alt: "HUANUO Glass Standing Desk with Drawers White"
 verdict_score: 4.7
 date: 2026-07-09
-price: null
+price: 179.99
 review_count: 84
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G48RMMJY/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "chbuuero-taco-holders-set-of-4-taco-stand-stainless-steel-taco-holder-b0b
 image_alt: "Set of 4 stainless steel taco holders standing upright with a loaded taco in one holder"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 8.59
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BB9MVDM1/?tag=tsvglyc-20"

@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 Let's be honest: most kids' reward stickers are flimsy, flat-colored afterthoughts that peel off within a day. The Small Rainbow Foil Star Metallic Stickers are not that. These are the stickers you actually *want* to hand out — the ones that catch the light, make a kid's eyes go wide, and stay put on a chore chart for weeks.
 
 Here's the real story after digging through 235 ratings and testing the physics of a foil star.

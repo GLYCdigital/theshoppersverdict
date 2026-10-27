@@ -22,7 +22,7 @@ faq:
   - question: "How does the coffee quality compare to a Keurig?"
     answer: "Most reviewers report significantly better taste than Keurig K-Cups. The pour-over method extracts more flavor from the grounds, resulting in a richer, cleaner cup."
 date: 2026-07-23
-price: null
+price: 19.97
 review_count: 10188
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01ENK41Q6/?tag=tsvglyc-20"

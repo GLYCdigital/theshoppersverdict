@@ -8,7 +8,7 @@ slug: "harworlife-magnetic-tiles-diamond-magnetic-blocks-building-set-magnet-til
 image_alt: "HarworLife Diamond Magnetic Tiles building blocks set with colorful translucent shapes arranged in a 3D castle structure"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 29.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FV2N9BQZ/?tag=tsvglyc-20"

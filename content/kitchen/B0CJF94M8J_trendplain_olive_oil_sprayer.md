@@ -7,7 +7,7 @@ slug: "trendplain-olive-oil-sprayer-review"
 image_alt: "TrendPlain Olive Oil Sprayer bottle with stainless steel nozzle dispensing a fine mist of oil"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 7.99
 review_count: 39232
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJF94M8J/?tag=tsvglyc-20"

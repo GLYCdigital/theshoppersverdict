@@ -7,7 +7,7 @@ slug: "davines-liquid-spell-reinforcing-bodifying-fluid-liquid-to-foam-volumizin
 image_alt: "Davines Liquid Spell Reinforcing Bodifying Fluid in a white pump bottle with minimal Italian design"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 55.0
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B08G18SPJX/?tag=tsvglyc-20"

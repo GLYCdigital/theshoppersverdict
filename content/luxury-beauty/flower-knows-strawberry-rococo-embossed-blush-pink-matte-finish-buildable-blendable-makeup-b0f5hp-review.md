@@ -7,7 +7,7 @@ slug: "flower-knows-strawberry-rococo-embossed-blush-pink-matte-finish-buildable
 image_alt: "Flower Knows Strawberry Rococo Embossed Blush,Pink Matte Finish,Buildable & Blendable Makeup Blush for cheeks,Soft & Lon"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 22.5
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F5HPNKFW/?tag=tsvglyc-20"

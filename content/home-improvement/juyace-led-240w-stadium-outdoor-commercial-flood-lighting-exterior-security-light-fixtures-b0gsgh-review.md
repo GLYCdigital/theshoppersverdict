@@ -7,7 +7,7 @@ slug: "juyace-led-240w-stadium-outdoor-commercial-flood-lighting-exterior-securi
 image_alt: "Juyace LED 240W Stadium Outdoor Commercial Flood Lighting Exterior Security Light Fixtures"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 129.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSGHS5XY/?tag=tsvglyc-20"

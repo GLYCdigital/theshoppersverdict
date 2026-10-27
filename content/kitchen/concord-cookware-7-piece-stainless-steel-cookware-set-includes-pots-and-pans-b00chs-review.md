@@ -7,7 +7,7 @@ slug: "concord-cookware-7-piece-stainless-steel-cookware-set-includes-pots-and-p
 image_alt: "Concord Cookware 7-piece stainless steel pot and pan set with lids arranged on a stovetop"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 59.98
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00CHSJK90/?tag=tsvglyc-20"

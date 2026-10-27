@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Full Review**
+
 Let's cut to the chase: Girl Scout Thin Mints are the Beyoncé of the cookie world—universally adored, slightly overhyped, but undeniably talented. After 210 Amazon ratings averaging 4.2 stars, the consensus is clear: these are good cookies. But are they *worth* the annual frenzy, the freezer-stashing, the “my coworker’s niece is selling them” pressure? Here’s the real breakdown.
 
 **What you actually get**  

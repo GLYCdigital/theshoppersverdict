@@ -7,7 +7,7 @@ slug: "zozen-chainsaw-mill-with-lumber-guide-brackets-portable-sawmill-kit-can-b
 image_alt: "Zozen Chainsaw Mill with Lumber Guide Brackets, Portable Sawmill Kit - Can be Assembled into 3 sizes for Independent Use"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 99.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D9GCB83C/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "thinkfun-gravity-maze-marble-run-brain-game-and-stem-toy-for-boys-b0b15j-
 image_alt: "ThinkFun Gravity Maze Marble Run Brain Game and STEM Toy for Boys and Girls"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 37.85
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B15JR6J6/?tag=tsvglyc-20"

@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Copper post lights have a classic look that plastic fixtures just can't fake. The JHOTEC All Copper Solar Outdoor Post Light goes after that premium aesthetic at a mid-range price point, and it mostly delivers — with some compromises you need to know about before you buy.
 
 **What You Actually Get**

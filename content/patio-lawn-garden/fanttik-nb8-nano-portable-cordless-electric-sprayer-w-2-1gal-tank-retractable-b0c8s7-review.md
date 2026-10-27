@@ -22,6 +22,9 @@ cons:
   - "Included shoulder strap feels thin and digs in when the tank is full (nearly 18 lbs with liquid)"
 
 ---
+
+**Review Body**
+
 Most cordless sprayers under $100 are toys. They leak, they dribble, or they die halfway through a fence line. The Fanttik NB8 Nano isn't that—but it's also not the professional-grade unit the marketing photos suggest. Here's the honest breakdown after digging through 204 ratings (4.1 stars) and user feedback.
 
 **What You Actually Get**

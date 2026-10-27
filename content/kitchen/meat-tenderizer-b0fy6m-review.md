@@ -7,7 +7,7 @@ slug: "meat-tenderizer-b0fy6m-review"
 image_alt: "meat tenderizer"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 8.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FY6MV3SL/?tag=tsvglyc-20"

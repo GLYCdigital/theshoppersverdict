@@ -22,7 +22,7 @@ faq:
   - question: "What comes in the box?"
     answer: "The knife comes in a custom lined black box, making it suitable as a gift. It includes the knife itself with a protective edge cover. Some deliveries from Amazon may have the protective cover displaced during shipping."
 date: 2026-07-27
-price: null
+price: 25.79
 review_count: 96
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FVS6WSSW/?tag=tsvglyc-20"

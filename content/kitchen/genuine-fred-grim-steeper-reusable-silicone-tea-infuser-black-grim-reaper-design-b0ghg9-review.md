@@ -7,7 +7,7 @@ slug: "genuine-fred-grim-steeper-reusable-silicone-tea-infuser-black-grim-reaper
 image_alt: "Genuine Fred Grim Steeper Reusable Silicone Tea Infuser, Black Grim Reaper Design, Fun and Clever Kitchen Gadget for Tea"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 15.36
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GHG9JNLS/?tag=tsvglyc-20"

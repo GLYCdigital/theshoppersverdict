@@ -7,7 +7,7 @@ slug: "stockpot-brushed-stainless-steel-heavy-duty-induction-pot-with-lid-and-ri
 image_alt: "Stockpot â€“ Brushed Stainless Steel â€“ Heavy Duty Induction Pot with Lid and Riveted Handles"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 39.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F9KG1SCH/?tag=tsvglyc-20"

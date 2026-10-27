@@ -7,7 +7,7 @@ slug: "animal-barrier-fence-no-dig-garden-edging-border-for-yard-anti-digging-b0
 image_alt: "No-dig animal barrier fence installed as garden edging border with flexible metal panels"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 44.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F4JZTSQB/?tag=tsvglyc-20"

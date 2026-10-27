@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body:**
+
 You'd think an envelope is an envelope. Then you buy a box of cheap ones, and the flap curls, the glue doesn't stick, or the paper feels like tissue. These small envelopes (listed as the 20240827 model) avoid those traps — but they're not without a quirk or two. Here's the real breakdown after digging through the specs and what 235 buyers actually said.
 
 **What you're actually getting**

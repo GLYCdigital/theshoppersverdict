@@ -22,7 +22,7 @@ faq:
   - question: "Does this set come with a storage case?"
     answer: "Yes. The set includes a durable storage pouch or case that keeps the pliers organized and accessible. Owners appreciate this feature for preventing tools from getting scattered in a toolbox."
 date: 2026-07-27
-price: null
+price: 45.10
 review_count: 18147
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0105SSMRO/?tag=tsvglyc-20"

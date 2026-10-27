@@ -7,7 +7,7 @@ slug: "adolph-s-marinade-in-minutes-original-meat-tenderizing-marinade-1-oz-pack
 image_alt: "Adolph's Marinade In Minutes Original Meat Tenderizing Marinade packet"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 53.09
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00BFSPDLM/?tag=tsvglyc-20"

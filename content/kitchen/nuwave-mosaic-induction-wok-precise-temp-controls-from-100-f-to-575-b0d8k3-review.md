@@ -7,7 +7,7 @@ slug: "nuwave-mosaic-induction-wok-precise-temp-controls-from-100-f-to-575-b0d8k
 image_alt: "Nuwave Mosaic Induction Wok, Precise Temp Controls from 100Â°F to 575Â°F in 5Â°F, Wok Hei, Infuse Complex Charred Aroma "
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 125.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D8K3FPJM/?tag=tsvglyc-20"

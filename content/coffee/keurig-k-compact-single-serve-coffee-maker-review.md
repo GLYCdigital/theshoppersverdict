@@ -7,7 +7,7 @@ slug: "keurig-k-compact-single-serve-coffee-maker-review"
 image_alt: "Keurig K-Compact single-serve coffee maker with drip tray and water reservoir"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 69.99
 review_count: 11194
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BV9HKMNT/?tag=tsvglyc-20"

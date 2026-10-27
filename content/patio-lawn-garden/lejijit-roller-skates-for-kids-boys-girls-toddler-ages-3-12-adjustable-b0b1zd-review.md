@@ -7,7 +7,7 @@ slug: "lejijit-roller-skates-for-kids-boys-girls-toddler-ages-3-12-adjustable-b0
 image_alt: "LEJIJIT Roller Skates for Kids Boys Girls Toddler Ages 3-12, Adjustable 4 Sizes for Kids and Youth Teen with Light Up Wh"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 36.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B1ZDXW77/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "hivi-swans-os-10-hifi-stereo-speakers-bluetooth-5-0-active-computer-b0bg7
 image_alt: "HiVi-Swans OS-10 HiFi Stereo Speakers, Bluetooth 5.0 Active Computer Bookshelf Speakers - 4 Dynamic Woofer, Powered Desk"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 170.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BG7WWWC1/?tag=tsvglyc-20"

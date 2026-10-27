@@ -7,7 +7,7 @@ slug: "art3d-peel-and-stick-flexible-vinyl-molding-trim-for-wall-tile-edges-b09p
 image_alt: "Art3d flexible vinyl molding trim applied to wall tile edge showing white peel and stick edging strip"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09P56JV1L/?tag=tsvglyc-20"

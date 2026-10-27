@@ -19,7 +19,7 @@ faq:
   - question: "Where are Ticonderoga pencils manufactured?"
     answer: "Ticonderoga pencils are manufactured in both China and Mexico. Quality varies between facilities, with some users reporting that recent Chinese-made batches rival the quality of Mexican-made versions."
 date: 2026-07-11
-price: null
+price: 5.63
 review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"

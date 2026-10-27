@@ -16,7 +16,7 @@ faq:
   - question: "Is the WEKAPO Beach Blanket a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a sports or fitness item, this is a safe choice."
 date: 2026-07-03
-price: null
+price: 32.26
 review_count: 14673
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B08X6VQBGJ/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "komigan-intelligent-motion-triggered-led-stair-lighting-kit-kmg-3233-60-c
 image_alt: "KOMIGAN Intelligent Motion Triggered LED Stair Lighting Kit KMG-3233, 60 Cuttable LED Strip Light for Indoor LED Stair L"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 329.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJWLTKVY/?tag=tsvglyc-20"

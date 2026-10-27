@@ -7,7 +7,7 @@ slug: "adjustable-pedestal-poster-sign-stand-8-5-x-11-advertising-business-menu-
 image_alt: "Adjustable pedestal poster sign stand holding an 8.5x11 inch advertising sign on a black base"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 35.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08BS6F31Y/?tag=tsvglyc-20"

@@ -1,11 +1,32 @@
 ---
+
+title: "Torani"
+seo_title: "Torani Review: Verdict | TSV"
+meta_description: "Our full torani review. Read Amazon customer insights, pros, cons, and our verdict."
+slug: "torani-b0dy32-review"
+image_alt: "Torani"
+verdict_score: 4.6
+date: 2026-06-17
+price: null
+review_count: 229
+amazon_rating: 4.6
+amazon_url: "https://www.amazon.com/dp/B0DY32HF9L/?tag=tsvglyc-20"
+amazon_image: "https://m.media-amazon.com/images/I/81Onb80m92L._SL1500_.jpg"
+pros: 
+  - "Rich flavor profile from quality ingredients"
+  - "Easy brewing process for daily enjoyment"
+cons: 
+  - "May vary based on individual needs and preferences"
+  - "Check Amazon for current pricing and availability"
+
+---
 title: "Torani"
 seo_title: "Torani Coffee Syrup Review: Worth It? (2026)"
 meta_description: "Honest Torani coffee syrup review with 229 ratings. Flavor, sweetness, and cost per drink compared. See if it beats your local café."
 slug: "torani-b0dy32-review"
 image_alt: "Torani coffee syrup bottle with flavor pump dispenser"
 verdict_score: 4.6
-date: 2026-06-17
+date: 2026-08-06
 price: null
 review_count: 229
 amazon_rating: 4.6
@@ -19,6 +40,7 @@ cons:
   - "Classic syrup is sweetener-forward; if you want sugar-free, you need to buy the separate SF line"
   - "Flavor intensity varies by variety — some need more pumps than the label suggests"
 ---
+
 Let's be honest: most flavored coffee syrups taste like the liquid version of a scented candle. Torani is not most syrups.
 
 This is the brand you've already tasted — whether you knew it or not. Walk into any coffee shop that isn't a national chain, and there's a good chance the vanilla or caramel in your latte came from one of those tall, colorful bottles. Torani has been making flavored syrups since 1925, and they've essentially become the default for cafes that want reliable flavor without the proprietary Starbucks-style supply chain.

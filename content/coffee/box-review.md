@@ -19,7 +19,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: null
+price: 19.99
 review_count: 1930
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PHNNGP6/?tag=tsvglyc-20"

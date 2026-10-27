@@ -18,7 +18,7 @@ faq:
   - question: "Is the Roter Mond 4 Slice Toaster a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a kitchen appliance, this is a safe choice."
 date: 2026-06-25
-price: null
+price: 79.05
 review_count: 1296
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CGZZSND3/?tag=tsvglyc-20"

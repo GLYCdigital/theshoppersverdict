@@ -7,7 +7,7 @@ slug: "067h-067-black-toner-cartridge-067-toner-high-yield-replacement-for-canon
 image_alt: "067H high-yield black toner cartridge replacement for Canon imageCLASS printers"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 45.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DLZJ3RJW/?tag=tsvglyc-20"

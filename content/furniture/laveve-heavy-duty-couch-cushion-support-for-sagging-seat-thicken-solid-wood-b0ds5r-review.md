@@ -7,7 +7,7 @@ slug: "laveve-heavy-duty-couch-cushion-support-for-sagging-seat-thicken-solid-wo
 image_alt: "LAVEVE Heavy Duty Couch Cushion Support for Sagging Seat, Thicken Solid Wood Sofa Under Cushions Boards,Perfectly Fix an"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 27.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DS5RD3G7/?tag=tsvglyc-20"
@@ -83,7 +83,7 @@ A: Only on the stationary seat portion. They'll interfere with the reclining mec
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0DS5RD3G7/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

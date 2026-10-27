@@ -7,7 +7,7 @@ slug: "amazon-basics-cross-cut-shredder-review"
 image_alt: "Amazon Basics 8-sheet cross cut paper shredder with removable bin shown on white background"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 35.83
 review_count: 75213
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20"

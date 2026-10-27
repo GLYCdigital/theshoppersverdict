@@ -7,7 +7,7 @@ slug: "autonomous-ergochair-2-review"
 image_alt: "Autonomous ErgoChair 2 in black mesh with adjustable armrests and lumbar support shown in a home office setting"
 verdict_score: 4.3
 date: 2026-08-06
-price: null
+price: $523.95
 review_count: 29
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FL2F3W34/?tag=tsvglyc-20"

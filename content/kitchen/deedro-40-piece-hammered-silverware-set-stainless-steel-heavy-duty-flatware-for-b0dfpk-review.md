@@ -7,7 +7,7 @@ slug: "deedro-40-piece-hammered-silverware-set-stainless-steel-heavy-duty-flatwa
 image_alt: "Deedro 40-piece hammered stainless steel flatware set arranged on a wooden table showing forks, knives, and spoons"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 21.99
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFPK1H31/?tag=tsvglyc-20"

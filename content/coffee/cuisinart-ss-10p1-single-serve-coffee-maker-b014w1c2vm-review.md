@@ -22,7 +22,7 @@ faq:
   - question: "Does the SS-10P1 have a rinse cycle?"
     answer: "Yes, the rinse feature is highly praised. Running a rinse cycle after a brew cleans the internal lines effectively — reviewers describe the resulting water as completely clear."
 date: 2026-07-18
-price: null
+price: 121.99
 review_count: 19328
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20"
@@ -91,7 +91,7 @@ The Cuisinart SS-10P1 earns its 4.0 rating honestly. It's not flashy, not featur
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

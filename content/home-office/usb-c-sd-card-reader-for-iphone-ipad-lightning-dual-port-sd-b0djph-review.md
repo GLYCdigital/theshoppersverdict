@@ -20,6 +20,9 @@ cons:
   - "Check Amazon for current pricing and availability"
 
 ---
+
+**Review Body**
+
 Most photographers I know carry a dongle graveyard. A Lightning card reader for the old iPhone, a USB-C one for the new iPad, and a third adapter that never quite works. This dual-port reader from the B0DJPH4ZNR line tries to collapse that pile into a single accessory. Does it earn its place in your camera bag? I tested it against real-world file transfers, not just spec sheets.
 
 **What you actually get**

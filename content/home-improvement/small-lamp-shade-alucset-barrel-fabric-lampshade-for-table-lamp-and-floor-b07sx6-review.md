@@ -7,7 +7,7 @@ slug: "small-lamp-shade-alucset-barrel-fabric-lampshade-for-table-lamp-and-floor
 image_alt: "Small Lamp Shade, Alucset Barrel Fabric Lampshade for Table Lamp and Floor Light, 6x10x7.5 inch, Natural Linen Hand Craf"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 36.99
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07SX6YT74/?tag=tsvglyc-20"

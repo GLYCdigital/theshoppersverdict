@@ -7,7 +7,7 @@ slug: "7am2m-am100-am105-am111-electric-toothbrush-brush-heads-x-8-b0f215-review
 image_alt: "8-pack of 7AM2M AM100/AM105/AM111 replacement electric toothbrush brush heads in clear packaging"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F215H4ZZ/?tag=tsvglyc-20"

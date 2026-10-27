@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the LULUCATCH Mouse & Insect?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the outdoor or garden product category."
 date: 2026-08-01
-price: null
+price: 7.98
 review_count: 4887
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BLG8NL23/?tag=tsvglyc-20"

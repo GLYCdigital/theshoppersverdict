@@ -7,7 +7,7 @@ slug: "nutpods-classic-chocolate-unsweetened-dairy-b0dk3z-review"
 image_alt: "nutpods Classic Chocolate Unsweetened Dairy"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 18.29
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DK3ZRGW8/?tag=tsvglyc-20"

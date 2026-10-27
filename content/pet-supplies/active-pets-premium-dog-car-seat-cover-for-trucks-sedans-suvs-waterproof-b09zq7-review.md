@@ -7,7 +7,7 @@ slug: "active-pets-premium-dog-car-seat-cover-for-trucks-sedans-suvs-waterproof-
 image_alt: "Active Pets Premium waterproof dog car seat cover installed on rear bench seat"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 44.98
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZQ7ZXRL/?tag=tsvglyc-20"

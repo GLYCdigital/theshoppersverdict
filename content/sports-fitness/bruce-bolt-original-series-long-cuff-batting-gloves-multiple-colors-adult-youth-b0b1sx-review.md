@@ -7,7 +7,7 @@ slug: "bruce-bolt-original-series-long-cuff-batting-gloves-multiple-colors-adult
 image_alt: "BRUCE BOLT Original Series long cuff batting gloves in multiple colorways for adult and youth players"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 90.0
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B1SX22XD/?tag=tsvglyc-20"

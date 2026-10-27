@@ -7,7 +7,7 @@ slug: "freshmage-sandwich-containers-b0ct34-review"
 image_alt: "Freshmage Sandwich containers"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 17.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CT34X2D6/?tag=tsvglyc-20"

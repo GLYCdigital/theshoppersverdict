@@ -7,7 +7,7 @@ slug: "keragen-brazilian-smoothing-keratin-hair-treatment-blowout-straightening-
 image_alt: "KERAGEN - Brazilian Smoothing Keratin Hair Treatment, Blowout Straightening System for Dry and Damaged Hair - Forte, Sul"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 37.24
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B011IVFVTO/?tag=tsvglyc-20"

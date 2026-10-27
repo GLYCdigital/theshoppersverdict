@@ -8,7 +8,7 @@ slug: "imarku-knife-set-with-block-review"
 image_alt: "imarku 15-piece knife set with wooden block displaying chef's knife, santoku, and steak knives"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 49.99
 review_count: 2531
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2XBWG2M/?tag=tsvglyc-20"

@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Safer Home Flying Insect Trap?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the piece of furniture category. The main drawbacks (customer_service) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-03
-price: null
+price: 10.97
 review_count: 52084
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09T3T1FYN/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "pisol-butter-dish-with-lid-for-countertop-and-refrigerator-door-shelf-air
 image_alt: "Pisol Butter Dish with Lid for Countertop and Refrigerator Door Shelf, Airtight Butter Keeper Container, Locking Butter "
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 8.49
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DX22DFN6/?tag=tsvglyc-20"

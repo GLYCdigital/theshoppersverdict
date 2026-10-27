@@ -7,7 +7,7 @@ slug: "cosori-turboblaze-air-fryer-review"
 image_alt: "Cosori TurboBlaze 9-in-1 Air Fryer 6 Quart with digital touchscreen and square basket on a kitchen counter"
 verdict_score: 4.5
 date: 2026-08-06
-price: null
+price: 100
 review_count: 19790
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C33CHG99/?tag=tsvglyc-20"

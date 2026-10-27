@@ -7,7 +7,7 @@ slug: "revlon-photoready-pressed-face-powder-with-brush-longwearing-oil-free-fra
 image_alt: "Revlon PhotoReady Pressed Face Powder with Brush, Longwearing Oil Free, Fragrance Free, Noncomedogenic Makeup"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 9.99
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08GGY5WYZ/?tag=tsvglyc-20"

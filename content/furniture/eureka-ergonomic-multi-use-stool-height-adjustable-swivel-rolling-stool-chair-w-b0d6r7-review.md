@@ -22,6 +22,9 @@ cons:
   - "Assembly requires an Allen wrench (included), and the gas-lift cylinder can be stubborn to seat fully — expect 10–15 minutes of fiddling"
 
 ---
+
+**Review Body:**
+
 Most "multi-use" stools are a compromise that excels at nothing. The EUREKA ERGONOMIC Multi-Use Stool is different — it's a rolling, swiveling, height-adjustable perch that actually earns its keep in multiple rooms. With a 4.6-star average across 229 Amazon ratings, the consensus is clear: this stool punches above its price point. But it's not without quirks. Here's the honest breakdown.
 
 **What You Actually Get**

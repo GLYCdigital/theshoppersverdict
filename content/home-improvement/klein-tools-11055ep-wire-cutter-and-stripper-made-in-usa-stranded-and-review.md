@@ -12,7 +12,7 @@ image_alt: "Klein Tools 11055EP Wire Cutter and Stripper — Made in USA electri
 amazon_rating: 4.8
 review_count: 8277
 verdict_score: 4.6
-price: null
+price: 18.01
 categories: 
   - "Home Improvement"
   - "Tools & Home Maintenance"

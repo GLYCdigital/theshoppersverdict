@@ -7,7 +7,7 @@ slug: "hoshanho-3-piece-knife-set-review"
 image_alt: "HOSHANHO 3-piece Japanese chef knife set with pakkawood handles displayed on wooden cutting board"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 150.99
 review_count: 905
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CKZ1MJ7Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "imusa-electric-espresso-maker-review"
 image_alt: "IMUSA 6 or 3 cup electric espresso maker with carafe and steam wand on countertop"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 34.99
 review_count: 2253
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BTR46TJM/?tag=tsvglyc-20"

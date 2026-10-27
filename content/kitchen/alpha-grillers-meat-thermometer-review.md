@@ -7,7 +7,7 @@ slug: "alpha-grillers-meat-thermometer-review"
 image_alt: "Alpha Grillers digital instant read meat thermometer with backlit display and foldable probe"
 verdict_score: 4.7
 date: 2026-08-06
-price: null
+price: 12.97
 review_count: 88627
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20"

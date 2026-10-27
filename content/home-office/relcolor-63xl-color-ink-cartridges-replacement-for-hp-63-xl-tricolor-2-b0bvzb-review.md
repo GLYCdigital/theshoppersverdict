@@ -7,7 +7,7 @@ slug: "relcolor-63xl-color-ink-cartridges-replacement-for-hp-63-xl-tricolor-2-b0
 image_alt: "Relcolor 63XL Color Ink Cartridges Replacement for HP 63 XL Tricolor 2-Pack for HP63 HP63XL for 4650 3830 5255 4520 5258"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 29.99
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BVZB4SWW/?tag=tsvglyc-20"

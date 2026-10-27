@@ -7,7 +7,7 @@ slug: "monkemon-134792700-dryer-heating-element-137032600-thermal-limiter-and-32
 image_alt: "Monkemon 134792700 Dryer Heating Element, 137032600 Thermal Limiter and 3204267 Thermostat Compatible with Electrolux Fr"
 verdict_score: 4.2
 date: 2026-06-17
-price: null
+price: 34.99
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B08136MBYD/?tag=tsvglyc-20"

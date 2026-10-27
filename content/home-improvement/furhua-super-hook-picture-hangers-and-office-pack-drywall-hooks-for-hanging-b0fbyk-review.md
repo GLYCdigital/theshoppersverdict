@@ -7,7 +7,7 @@ slug: "furhua-super-hook-picture-hangers-and-office-pack-drywall-hooks-for-hangi
 image_alt: "FURHUA Super Hook picture hangers and office pack with drywall hooks shown against a wall"
 verdict_score: 4.6
 date: 2026-08-06
-price: null
+price: 8.99
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FBYK3X9L/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "wolf-cables-heavy-duty-cat6-plenum-cable-1000ft-utp-23awg-550mhz-dsx-b0gm
 image_alt: "WOLF CABLES | Heavy-Duty CAT6 Plenum Cable 1000ft | UTP, 23AWG, 550MHz | DSX-8000 Certified | Stable & Remarkable Perfor"
 verdict_score: 3.7
 date: 2026-06-17
-price: null
+price: 129.99
 review_count: 190
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0GMPWTJ23/?tag=tsvglyc-20"

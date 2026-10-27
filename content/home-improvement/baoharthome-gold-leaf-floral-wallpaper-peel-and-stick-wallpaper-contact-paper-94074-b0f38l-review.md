@@ -7,7 +7,7 @@ slug: "baoharthome-gold-leaf-floral-wallpaper-peel-and-stick-wallpaper-contact-p
 image_alt: "BaoHArtHome gold leaf floral peel and stick wallpaper roll shown partially unrolled with pattern visible"
 verdict_score: 4.2
 date: 2026-08-06
-price: null
+price: 18.89
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F38L1FLY/?tag=tsvglyc-20"

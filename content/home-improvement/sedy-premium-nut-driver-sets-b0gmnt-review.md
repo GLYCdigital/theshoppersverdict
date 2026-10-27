@@ -7,7 +7,7 @@ slug: "sedy-premium-nut-driver-sets-b0gmnt-review"
 image_alt: "SEDY Premium Nut Driver Sets"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 14.99
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GMNT1SQ4/?tag=tsvglyc-20"

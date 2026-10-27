@@ -19,7 +19,7 @@ faq:
   - question: "What brew sizes does the K-Mini support?"
     answer: "You can brew any cup size between 6 and 12 ounces using standard Keurig K-Cup pods. The machine is also compatible with the My K-Cup Universal Reusable Coffee Filter for brewing your own ground coffee."
 date: 2026-07-25
-price: null
+price: 73.0
 review_count: 635
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B085FQBG5F/?tag=tsvglyc-20"

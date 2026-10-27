@@ -7,7 +7,7 @@ slug: "tonling-thick-rubber-apron-47-2-x-33-5-inch-waterproof-long-b0894m-review
 image_alt: "TonLing Thick Rubber Apron, 47.2 x 33.5 Inch Waterproof, Long Chemical Resistant, Adjustable for Dishwashing, Cleaning F"
 verdict_score: 4.6
 date: 2026-06-17
-price: null
+price: 25.93
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0894MJLL6/?tag=tsvglyc-20"
