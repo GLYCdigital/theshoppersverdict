@@ -479,6 +479,23 @@ def validate_generated_post(path):
         val = price.group(1).strip().strip('"')
         if val not in ("null", "") and not re.fullmatch(r"\$?\d+(\.\d+)?", val):
             return f"non-numeric price: {val!r}"
+    # Gemma ruling 2026-10-27, condition 3 (Art): a published count must point at an
+    # observation — no derivation, no defaults. This one REJECTS; the ladder rule
+    # below only strips a rating. Keep the two consequences distinct.
+    counted = re.search(r"(?m)^review_count:\s*(\d+)", text)
+    obs = re.search(r"(?m)^ratings_observed:\s*(\d+)", text)
+    obs_at = re.search(r"(?m)^observed_at:\s*(\d{4}-\d{2}-\d{2})", text)
+    if counted and int(counted.group(1)) > 0:
+        if not (obs and obs_at and int(obs.group(1)) >= 1):
+            return ("review_count without provenance — needs ratings_observed + "
+                    "observed_at (no derivation, no defaults)")
+        try:
+            age = (date.today() - date.fromisoformat(obs_at.group(1))).days
+        except ValueError:
+            return f"observed_at is not a date: {obs_at.group(1)!r}"
+        if age > 90:
+            return (f"observed_at {obs_at.group(1)} is {age} days old — "
+                    "re-observe before publishing")
     # Ruling 2026-10-27: the generated ladder is any count in 150..250 that is a
     # multiple of 5 (a formula test misses 4.1x204 and 4.6x229). The consequence
     # is not a publish block — strip the rating, still publish — so this returns
