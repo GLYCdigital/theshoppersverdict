@@ -127,17 +127,22 @@
     {{- $product = merge $product (dict "description" .) -}}
   {{- end -}}
 
-  {{- /* AggregateRating */ -}}
+  {{- /* AggregateRating — only from an observed review count.
+         A zero count is not "one review": clamping it to 1 published a fabricated
+         AggregateRating (ratingCount 1, ratingValue 4.x) on pages where we hold no
+         ratings at all. schema.org requires ratingCount/reviewCount > 0, so we omit
+         the block entirely and let the Product stand on its own. */ -}}
   {{- $ratingCount := .Params.review_count | default 0 | int -}}
-  {{- if lt $ratingCount 1 }}{{ $ratingCount = 1 }}{{ end -}}
-  {{- $aggregateRating := dict
-    "@type" "AggregateRating"
-    "ratingValue" (.Params.amazon_rating | string)
-    "bestRating" "5"
-    "worstRating" "1"
-    "ratingCount" ($ratingCount | string)
-  -}}
-  {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
+  {{- if ge $ratingCount 1 -}}
+    {{- $aggregateRating := dict
+      "@type" "AggregateRating"
+      "ratingValue" (.Params.amazon_rating | string)
+      "bestRating" "5"
+      "worstRating" "1"
+      "ratingCount" ($ratingCount | string)
+    -}}
+    {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
+  {{- end -}}
 
   {{- /* Offer — only when we hold a real, numeric price. Both this block and the
          homepage ranking read price through partials/price.html so the two checks
