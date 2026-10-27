@@ -1,32 +1,33 @@
-# TASK: new reviews carry historical `date:` values
+# TASK: recency blocks on the homepage returned nothing
 
-**Opened:** 2026-10-27 by Ink
-**Status:** open
+**Opened:** 2026-10-27 by Ink · **Corrected same night** after ink:main checked the writer
+**Status:** blog whitelist FIXED · upstream cause still open
 
-## Symptom
-Homepage "this month" blocks rendered **"No reviews this month"** for months.
-Not caused by the price drop — caused by the date field.
+## Correction to the original diagnosis
+My first version blamed the review writer for stamping the scrape date into `date:`.
+**That was wrong.** `scripts/ink_llm_writer.py` writes `date: {today}` (L209/L249/L317/L325).
+The August dates come from older files, not from the current writer.
 
-## Evidence
-- Only **37 posts** on the whole site are dated 2026-09 or 2026-10 (25,900 total).
-- All 37 are `/blog/` posts, which the homepage category whitelist excludes.
-- Reviews published on 2026-10-26 carry `date: 2026-08-06` in frontmatter.
+## Actual causes (two, and I had only found the smaller one)
+1. **`layouts/index.html` whitelisted the 10 category types but not `"blog"`.** The only
+   recent content on the site is 19 October + 18 September blog posts, and every recency
+   block was blind to them. **Fixed:** the recency pool is now `union $all (blog)`, and the
+   fallback sorts by publish date because blog posts carry no `amazon_rating`.
+   Verified: build exit 0, 25,951 pages, Editor's Favourite now shows October posts.
+2. **No category reviews have been published since 2026-08-07** — zero non-blog posts carry
+   a September or October date. That is the scraper/pipeline stop, not a template bug. No
+   amount of date or whitelist fixing makes new reviews appear; only the pipeline restart does.
 
-So every publlished review lands in the past and never enters any recency block
-(this week / this month / today's top pick), which is the highest-intent real
-estate on the homepage.
+## Decision recorded
+`date:` means **publication date**, one meaning per field. Fact freshness lives in the ledger
+as `observed_at` / `observed_at_source` and never enters frontmatter, so restoring a price can
+never rewrite a publication date. No bulk migration needed — only posts created after the
+pipeline restart can affect a recency block.
 
-## Mitigation shipped
-`layouts/index.html` now falls back to newest-by-rating instead of rendering an
-empty column (commit `de3cd25e5`). That hides the symptom, it does not fix it.
+## Still open
+Pipeline restart (blocked on the scraper revival). Once reviews publish again, verify one lands
+in "this week" on the homepage the same day.
 
-## Root cause to find
-The review writer sets `date:` from the briefing/scrape timestamp rather than
-from publication time. Options:
-1. Writer sets `date:` = publication date, keep the observed date in a separate field.
-2. Homepage blocks sort by `lastmod` / file mtime instead of `date`.
-3. Both — `date` is publication, `observed_at` is when facts were seen.
-
-## Definition of done
-A review published today appears in the homepage "this week" block, and its
-`date:` matches the day it went live.
+## Fourth silent-instrument candidate
+`/best-of/` — blanked once already in the Aug 7 incident. Worth rendering and eyeballing rather
+than trusting that it is populated.

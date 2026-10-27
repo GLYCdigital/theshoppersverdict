@@ -10,7 +10,12 @@
 {{ $weekTop3 := first 3 (sort $weekPages ".Params.amazon_rating" "desc") }}
 
 {{ $monthAgo := now.AddDate 0 0 -30 }}
-{{ $monthPages := where $all "Date" "ge" $monthAgo }}
+{{/* Recency blocks must include /blog/: 19 October posts are real, recent and
+     currently invisible to the homepage because the category whitelist above
+     omits "blog". A recency block that excludes the only recent content is an
+     instrument returning nothing. */}}
+{{ $recentPool := union $all (where .Site.RegularPages "Type" "blog") }}
+{{ $monthPages := where $recentPool "Date" "ge" $monthAgo }}
 {{/* Only numeric prices may enter the priced ranking. A text value such as
      "Check price on Amazon" or "N/A" used to sort into this block as a string,
      putting contradictory prices on the homepage. Type guard lives here, not in
@@ -30,7 +35,9 @@
        writes historical `date:` values), so "this month" is empty and the
        column reads "No reviews this month" on the live homepage. Fall back to
        the newest posts overall by rating — never to an empty state. */}}
-  {{ $monthTop3 = first 3 (sort (first 30 $newest) ".Params.amazon_rating" "desc") }}
+  {{/* Blog posts carry no amazon_rating, so sort the fallback by publish date
+       rather than letting an absent param order the column arbitrarily. */}}
+  {{ $monthTop3 = first 3 (sort (first 30 (union $all (where .Site.RegularPages "Type" "blog")).ByDate.Reverse) "Date" "desc") }}
 {{ end }}
 
 <!-- Hero Banner (weekly rotation) -->
