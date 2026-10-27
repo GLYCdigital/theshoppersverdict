@@ -25,7 +25,7 @@ CONTENT = ROOT / "content"
 LEDGER = ROOT / "state" / "product_ledger.json"
 FRESH_DAYS = 14
 
-NUMERIC = re.compile(r'^price:\s*(?:"([0-9][0-9.]*)"|([0-9][0-9.]*))\s*$', re.M)
+NUMERIC = re.compile(r'^price:\s*(?:\$\s*"?([0-9][0-9.]*)"?|"?([0-9][0-9.]*)"?)\s*$', re.M)
 ASIN = re.compile(r'/(?:dp|gp/product)/([A-Z0-9]{10})')
 
 
