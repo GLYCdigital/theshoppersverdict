@@ -426,20 +426,45 @@ def validate_generated_post(path):
             return f"dead affiliate link: {url_val[:60]}"
     if "dp/None" in body:
         return "dead affiliate link: /dp/None/"
-    # Fabricated-rating guard (2026-10-27 audit). review_count in this corpus is
+    # Fabricated-rating guard (2026-10-27 audit): review_count in this corpus is
     # not measured — it is a ladder keyed to the star rating (8 values cover 89%
-    # of 25.8k pages). The ladder is detected with a +/-1 tolerance because the
-    # corpus stores 204/229 where the naive formula gives 205/230, and those two
-    # bands are the modal case (4.6 x 229 alone is ~5,000 pages).
+    # of 25.8k pages). A count that arithmetic can derive is not an observation.
     rating = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
     count = re.search(r"(?m)^review_count:\s*(\d+)", text)
-    if rating and count:
+    verdict = re.search(r"(?m)^verdict_score:\s*([\d.]+)", text)
+    # Provenance rule (2026-10-27 ruling, Option B): a count may only stand when we
+    # can point at an observation — an observed count plus the date it was observed,
+    # no older than 90 days. No derivation, no defaults, no fallback estimate.
+    observed = re.search(r"(?m)^ratings_observed:\s*(\d+)", text)
+    observed_at = re.search(r"(?m)^observed_at:\s*(\d{4}-\d{2}-\d{2})", text)
+    provenanced = bool(observed and observed_at and int(observed.group(1)) >= 1)
+    if provenanced:
+        try:
+            age = (date.today() - date.fromisoformat(observed_at.group(1))).days
+        except ValueError:
+            return f"observed_at is not a date: {observed_at.group(1)!r}"
+        if age > 90:
+            return (f"observed_at {observed_at.group(1)} is {age} days old — "
+                    "re-observe before publishing")
+    counted = re.search(r"(?m)^review_count:\s*(\d+)", text)
+    if counted and int(counted.group(1)) > 0 and not provenanced:
+        return ("review_count without provenance — needs ratings_observed + "
+                "observed_at (no derivation, no defaults)")
+    if rating and count and not provenanced:
         r = float(rating.group(1))
         ladder = max(150, 150 + 5 * round((r - 3.0) * 10))
+        # ±1: the corpus ladder truncates rather than rounds at 4.1 (204, not 205)
+        # and 4.6 (229, not 230) — an exact compare misses those two bands, which
+        # together hold ~5.9k pages including the largest cluster on the site.
         if abs(int(count.group(1)) - ladder) <= 1:
             return (
                 f"review_count {count.group(1)} looks derived from amazon_rating {r:g} "
-                f"(ladder ~{ladder}) — needs an observed count"
+                f"(ladder value {ladder}) — needs an observed count"
+            )
+        if verdict and abs(float(verdict.group(1)) - r) < 0.05:
+            return (
+                f"amazon_rating {r:g} equals verdict_score — Amazon rating must be "
+                "observed, not copied from our own verdict"
             )
     price = re.search(r"(?m)^price:\s*(.+)$", text)
     if price:
@@ -447,24 +472,6 @@ def validate_generated_post(path):
         if val not in ("null", "") and not re.fullmatch(r"\$?\d+(\.\d+)?", val):
             return f"non-numeric price: {val!r}"
     return None
-
-
-def post_warnings(path):
-    """Non-blocking advisory checks. Returns a list of strings.
-
-    amazon_rating == verdict_score is NOT evidence of fabrication: several
-    hundred pages carry genuine 5-6 figure counts with an identical star value
-    (e.g. 547,591 ratings @ 4.6). Warning, never a block."""
-    text = path.read_text(encoding="utf-8", errors="replace")
-    out = []
-    r = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
-    v = re.search(r"(?m)^verdict_score:\s*([\d.]+)", text)
-    if r and v and abs(float(r.group(1)) - float(v.group(1))) < 0.05:
-        out.append(
-            f"amazon_rating {r.group(1)} equals verdict_score — confirm the rating was "
-            "observed, not copied (warning only)"
-        )
-    return out
 
 
 # ── Main ───────────────────────────────────────────────────────────
