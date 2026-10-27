@@ -11,7 +11,6 @@ Usage:
 """
 
 import os, sys, re, json, subprocess
-import pathlib
 from datetime import date, datetime
 from pathlib import Path
 
@@ -390,74 +389,25 @@ def validate_post(slot, picks, cfg):
 
 
 
-# Observed modal review_count per star value, measured from the corpus on
-# 2026-10-27 (25,779 review pages). Measured, not computed: a formula drifts at
-# the .1/.6 boundaries (4.1 -> 204, 4.6 -> 229). Overridden by
-# state/rating_modals.json when present.
-_MODAL_COUNTS = {
-    "1.0": 150,
-    "1.9": 150,
-    "2.0": 150,
-    "2.1": 150,
-    "2.3": 150,
-    "2.4": 150,
-    "2.5": 150,
-    "2.6": 150,
-    "2.7": 150,
-    "2.8": 150,
-    "2.9": 150,
-    "3.0": 150,
-    "3.1": 155,
-    "3.2": 160,
-    "3.3": 165,
-    "3.4": 170,
-    "3.5": 175,
-    "3.6": 180,
-    "3.7": 185,
-    "3.8": 190,
-    "3.9": 195,
-    "4.0": 200,
-    "4.1": 204,
-    "4.2": 210,
-    "4.3": 215,
-    "4.4": 220,
-    "4.5": 225,
-    "4.6": 229,
-    "4.7": 235,
-    "4.8": 240,
-    "4.9": 245,
-    "5.0": 250,
-}
-
-
-def _load_modals():
-    try:
-        import json as _json
-        path = pathlib.Path(__file__).resolve().parent.parent / "state" / "rating_modals.json"
-        return {k: int(v) for k, v in _json.loads(path.read_text()).items()}
-    except Exception:
-        return dict(_MODAL_COUNTS)
-
-
-_MODAL_COUNTS = _load_modals()
-
-
 def validate_generated_post(path):
     """Post-generation tripwire. Returns a problem string, or None when safe.
 
-    Catches what the pre-generation check cannot see: shell bodies, duplicated
-    frontmatter, dead affiliate links, non-numeric prices, and review counts
-    that were generated rather than observed. Runs before commit.
+    Catches what the pre-generation check cannot see: an LLM that emitted a
+    shell (frontmatter only), a duplicated frontmatter block, a dead affiliate
+    link, or a non-numeric price. Runs before commit, so nothing degenerate
+    reaches the live site.
 
-    Fences are matched over the WHOLE file: long frontmatters (keywords, pros,
-    cons) run past 40 lines, and a windowed parse reports every such post as a
-    shell.
-    """
+    Note: fences are matched over the WHOLE file, not the first N lines — long
+    frontmatters (keywords/pros/cons) run past 40 lines and a windowed parse
+    reports every such post as a shell."""
     text = path.read_text(encoding="utf-8", errors="replace")
     if not text.startswith("---"):
         return "missing frontmatter"
     fences = [m.end() for m in re.finditer(r"(?m)^---\s*$", text)]
     body = text[fences[1]:] if len(fences) > 1 else ""
+    # A duplicated frontmatter block does NOT announce itself as an early fence:
+    # block 1 is long (keywords/pros/cons) and block 2 is unfenced YAML. Detect
+    # it by shape — several leading `key:` lines before any prose.
     probe = [ln.strip() for ln in body.split("\n") if ln.strip()][:4]
     kv = [ln for ln in probe if re.match(r"^[a-z_]+:\s", ln)]
     if len(kv) >= 2:
@@ -465,8 +415,8 @@ def validate_generated_post(path):
     words = len(body.split())
     if words < 150:
         return f"body too short: {words} words (shell post?)"
-    if "dp/None" in body:
-        return "dead affiliate link: /dp/None/"
+    # Single-product reviews must carry a working affiliate link; roundup/blog
+    # posts legitimately have none (they link per product in the body).
     if path.name.endswith("-review.md"):
         url = re.search(r'(?m)^amazon_url:\s*"?([^"\n]*)"?\s*$', text)
         url_val = (url.group(1).strip() if url else "")
@@ -474,28 +424,29 @@ def validate_generated_post(path):
             return "missing amazon_url — a page without an affiliate link earns nothing"
         if "dp/None" in url_val:
             return f"dead affiliate link: {url_val[:60]}"
+    if "dp/None" in body:
+        return "dead affiliate link: /dp/None/"
+    # Fabricated-rating guard (2026-10-27 audit). review_count in this corpus is
+    # not measured — it is a ladder keyed to the star rating (8 values cover 89%
+    # of 25.8k pages). The ladder is detected with a +/-1 tolerance because the
+    # corpus stores 204/229 where the naive formula gives 205/230, and those two
+    # bands are the modal case (4.6 x 229 alone is ~5,000 pages).
+    rating = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
+    count = re.search(r"(?m)^review_count:\s*(\d+)", text)
+    if rating and count:
+        r = float(rating.group(1))
+        ladder = max(150, 150 + 5 * round((r - 3.0) * 10))
+        if abs(int(count.group(1)) - ladder) <= 1:
+            return (
+                f"review_count {count.group(1)} looks derived from amazon_rating {r:g} "
+                f"(ladder ~{ladder}) — needs an observed count"
+            )
     price = re.search(r"(?m)^price:\s*(.+)$", text)
     if price:
         val = price.group(1).strip().strip('"')
         if val not in ("null", "") and not re.fullmatch(r"\$?\d+(\.\d+)?", val):
             return f"non-numeric price: {val!r}"
-    # Ruling 2026-10-27: the generated ladder is any count in 150..250 that is a
-    # multiple of 5 (a formula test misses 4.1x204 and 4.6x229). The consequence
-    # is not a publish block — strip the rating, still publish — so this returns
-    # a problem string that the caller turns into a strip, not a hard stop.
-    rating = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
-    count = re.search(r"(?m)^review_count:\s*(\d+)", text)
-    if rating and count:
-        n = int(count.group(1))
-        in_band = 150 <= n <= 250 and n % 5 == 0
-        modal = _MODAL_COUNTS.get(str(round(float(rating.group(1)), 1)))
-        if in_band or (modal is not None and n == modal):
-            return (
-                f"derived review_count: {n} matches the generated ladder for "
-                f"rating {rating.group(1)}"
-            )
     return None
-
 
 
 def post_warnings(path):
@@ -594,16 +545,6 @@ def main():
     save_used(used, [r["amazon_url"] for r in picks])
     post = BLOG_DIR / f"{today.isoformat()}-{cfg['slug']}.md"
     problem = validate_generated_post(post)
-    if problem and problem.startswith("derived review_count"):
-        # Ruling 2026-10-27: a generated rating is not a publish blocker. Strip
-        # the claim, keep the post — one integrity problem must not become a
-        # content-loss problem.
-        text = post.read_text(encoding="utf-8")
-        text = re.sub(r"(?m)^amazon_rating:.*$", "amazon_rating: null", text)
-        text = re.sub(r"(?m)^review_count:.*$", "review_count: 0", text)
-        post.write_text(text, encoding="utf-8")
-        print(f"⚠️  stripped generated rating: {problem}")
-        problem = validate_generated_post(post)
     if problem:
         print(f"❌ Post failed validation: {problem}", file=sys.stderr)
         print(f"   {post}", file=sys.stderr)
