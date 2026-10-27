@@ -7,7 +7,7 @@ slug: "ninja-nutri-blender-pro-bn401-review"
 image_alt: "Ninja Nutri-Blender Pro BN401 with 1200-watt motor and two Nutri cups on a kitchen counter"
 verdict_score: 8.8
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 11352
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QXJ31WR/?tag=tsvglyc-20"

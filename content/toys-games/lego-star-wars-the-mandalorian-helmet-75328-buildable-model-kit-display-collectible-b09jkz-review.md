@@ -1,32 +1,11 @@
 ---
-
 title: "LEGO Star Wars The Mandalorian Helmet 75328 Buildable Model "
-seo_title: "LEGO Star Wars The Mandalorian Helmet 75328 Builda Review"
-meta_description: "Our full lego star wars the mandalorian helmet 75328 buildable model  review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "lego-star-wars-the-mandalorian-helmet-75328-buildable-model-kit-display-collectible-b09jkz-review"
-image_alt: "LEGO Star Wars The Mandalorian Helmet 75328 Buildable Model Kit, Display Collectible Decoration Set for Adults, Men, Wom"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 245
-amazon_rating: 4.9
-amazon_url: "https://www.amazon.com/dp/B09JKZM4CM/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/815jsmzTHsL._AC_SL1500_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Safe materials and thoughtful design for children"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
-title: "LEGO Star Wars The Mandalorian Helmet 75328 Buildable Model"
 seo_title: "LEGO Mandalorian Helmet 75328 Review: A Display-Worthy Build"
 meta_description: "Read our honest LEGO Star Wars Mandalorian Helmet 75328 review. 584 pieces, premium display piece. Learn pros, cons, and who should buy it."
 slug: "lego-star-wars-the-mandalorian-helmet-75328-buildable-model-kit-display-collectible-b09jkz-review"
 image_alt: "LEGO Star Wars The Mandalorian Helmet 75328 buildable model kit displayed on a shelf"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 245
 amazon_rating: 4.9

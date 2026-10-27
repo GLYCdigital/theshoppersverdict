@@ -1,32 +1,11 @@
 ---
-
-title: "Tuf-Tite Bundle RISER, LID & ADAPTER RING FOR SEPTIC TANK"
-seo_title: "Tuf-Tite Bundle RISER, LID & ADAPTER RING FOR SEPT Review"
-meta_description: "Our full tuf-tite bundle riser, lid & adapter ring for septic tank review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "tuf-tite-bundle-riser-lid-adapter-ring-for-septic-tank-b083ss-review"
-image_alt: "Tuf-Tite Bundle RISER, LID & ADAPTER RING FOR SEPTIC TANK"
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 200
-amazon_rating: 4.0
-amazon_url: "https://www.amazon.com/dp/B083SSNHNB/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/3153tspghKL._AC_SX355_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Good value for the price point"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Tuf-Tite Bundle RISER, LID & ADAPTER RING FOR SEPTIC TANK"
 seo_title: "Tuf-Tite Septic Riser Bundle Review: Worth It? | 2026"
 meta_description: "Tuf-Tite septic riser, lid & adapter bundle review. We break down fit, durability, and installation pain points before you dig."
 slug: "tuf-tite-bundle-riser-lid-adapter-ring-for-septic-tank-b083ss-review"
 image_alt: "Tuf-Tite septic tank riser bundle with lid and adapter ring shown on grass"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 200
 amazon_rating: 4.0

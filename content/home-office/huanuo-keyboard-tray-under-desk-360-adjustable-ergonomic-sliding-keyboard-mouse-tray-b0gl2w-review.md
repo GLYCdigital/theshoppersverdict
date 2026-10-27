@@ -1,32 +1,11 @@
 ---
-
-title: "HUANUO Keyboard Tray Under Desk, 360 Adjustable Ergonomic Sl"
-seo_title: "HUANUO Keyboard Tray Under Desk, 360 Adjustable Er Review"
-meta_description: "Our full huanuo keyboard tray under desk, 360 adjustable ergonomic sl review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "huanuo-keyboard-tray-under-desk-360-adjustable-ergonomic-sliding-keyboard-mouse-tray-b0gl2w-review"
-image_alt: "HUANUO Keyboard Tray Under Desk, 360 Adjustable Ergonomic Sliding Keyboard & Mouse Tray, Under Desk Keyboard Tray Slide "
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 215
-amazon_rating: 4.3
-amazon_url: "https://www.amazon.com/dp/B0GL2WBNVT/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71mzdPU6jBL._AC_SL1500_.jpg"
-pros: 
-  - "Versatile and adjustable for different needs"
-  - "Designed for comfort during extended use"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "HUANUO Keyboard Tray Under Desk, 360 Adjustable Ergonomic Sl"
 seo_title: "HUANUO Keyboard Tray Review: 360 Adjustable & Sturdy"
 meta_description: "HUANUO 360 adjustable keyboard tray review: Is the clamp mount stable? Does it save desk space? We break down ergonomics, build, and value."
 slug: "huanuo-keyboard-tray-under-desk-360-adjustable-ergonomic-sliding-keyboard-mouse-tray-b0gl2w-review"
 image_alt: "HUANUO ergonomic sliding keyboard and mouse tray mounted under a desk with a mouse pad"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 215
 amazon_rating: 4.3

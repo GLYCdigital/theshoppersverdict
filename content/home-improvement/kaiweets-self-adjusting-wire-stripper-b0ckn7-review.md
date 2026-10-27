@@ -1,32 +1,11 @@
 ---
-
-title: "KAIWEETS Self Adjusting Wire Stripper"
-seo_title: "KAIWEETS Self Adjusting Wire Stripper Review: Verdict | T"
-meta_description: "Our full kaiweets self adjusting wire stripper review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "kaiweets-self-adjusting-wire-stripper-b0ckn7-review"
-image_alt: "KAIWEETS Self Adjusting Wire Stripper"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 225
-amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0CKN7V2FS/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71RdQF33LTL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Solid construction for reliable performance"
-  - "Practical tool for home projects"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "KAIWEETS Self Adjusting Wire Stripper"
 seo_title: "KAIWEETS Self Adjusting Wire Stripper Review (2026)"
 meta_description: "KAIWEETS self-adjusting wire stripper review: Does it live up to the 4.5-star rating? We test the jaws, crimper, and cutter for solid & stranded wire."
 slug: "kaiweets-self-adjusting-wire-stripper-b0ckn7-review"
 image_alt: "KAIWEETS self-adjusting wire stripper with crimping tool holding a stripped wire"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 225
 amazon_rating: 4.5

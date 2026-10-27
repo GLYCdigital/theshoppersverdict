@@ -1,32 +1,11 @@
 ---
-
-title: "Milk-Bone Limited Edition Holiday Dog Treats, Small Biscuits"
-seo_title: "Milk-Bone Limited Edition Holiday Dog Treats, Smal Review"
-meta_description: "Our full milk-bone limited edition holiday dog treats, small biscuits review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "milk-bone-limited-edition-holiday-dog-treats-small-biscuits-24-ounce-reusable-b0g3qq-review"
-image_alt: "Milk-Bone Limited Edition Holiday Dog Treats, Small Biscuits, 24 Ounce Reusable Tin"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 229
-amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0G3QQ8NTD/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71iykBEWQhL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Made with your pet's comfort in mind"
-  - "Practical and easy to maintain"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Milk-Bone Limited Edition Holiday Dog Treats, Small Biscuits"
 seo_title: "Milk-Bone Holiday Dog Treats Review: Small Biscuits (2026)"
 meta_description: "Honest Milk-Bone Limited Edition Holiday Dog Treats review: flavor, crunch, value, and whether these small biscuits are worth it for your pup this season."
 slug: "milk-bone-limited-edition-holiday-dog-treats-small-biscuits-24-ounce-reusable-b0g3qq-review"
 image_alt: "Milk-Bone Limited Edition Holiday Dog Treats small biscuits in a red reusable tin with festive snowman design"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 229
 amazon_rating: 4.6

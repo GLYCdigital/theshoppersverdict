@@ -7,7 +7,7 @@ slug: "dewalt-20v-max-cordless-drill-driver-review"
 image_alt: "DEWALT 20V Max Cordless Drill Driver Set with two batteries and charger shown on a workbench"
 verdict_score: 4.5
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 49327
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20"

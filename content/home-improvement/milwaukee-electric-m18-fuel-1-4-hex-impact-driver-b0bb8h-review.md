@@ -1,32 +1,11 @@
 ---
-
-title: "Milwaukee Electric - M18 Fuel. 1/4 HEX Impact Driver"
-seo_title: "Milwaukee Electric - M18 Fuel. 1/4 HEX Impact Driv Review"
-meta_description: "Our full milwaukee electric - m18 fuel. 1/4 hex impact driver review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "milwaukee-electric-m18-fuel-1-4-hex-impact-driver-b0bb8h-review"
-image_alt: "Milwaukee Electric - M18 Fuel. 1/4 HEX Impact Driver"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 235
-amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B0BB8H1NKX/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/519nl9uuUKL._AC_SL1100_.jpg"
-pros: 
-  - "Solid construction for reliable performance"
-  - "Practical tool for home projects"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Milwaukee Electric - M18 Fuel. 1/4 HEX Impact Driver"
 seo_title: "Milwaukee M18 Fuel Impact Driver Review: Is It Worth It?"
 meta_description: "Milwaukee M18 Fuel 1/4 Hex Impact Driver review: Power, speed, and real-world performance. See if this 4.7-star driver is right for your toolbox."
 slug: "milwaukee-electric-m18-fuel-1-4-hex-impact-driver-b0bb8h-review"
 image_alt: "Milwaukee M18 Fuel 1/4 Hex Impact Driver with battery and bit inserted"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 235
 amazon_rating: 4.7

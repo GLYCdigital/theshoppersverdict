@@ -1,32 +1,11 @@
 ---
-
-title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair, Modern Com"
-seo_title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair,  Review"
-meta_description: "Our full lexicon 360 degree swivel accent chair arm chair, modern com review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "lexicon-360-degree-swivel-accent-chair-arm-chair-modern-comfy-barrel-chair-b0fdhb-review"
-image_alt: "Lexicon 360 Degree Swivel Accent Chair Arm Chair, Modern Comfy Barrel Chair, Open Back Round Chair with Metal Swivel Bas"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 225
-amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0FDHBJ4L9/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/91bHUeksukL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Stylish design that complements your space"
-  - "Clean, modern design that complements your decor"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Lexicon 360 Degree Swivel Accent Chair Arm Chair, Modern Com"
 seo_title: "Lexicon Swivel Accent Chair Review: Worth It? [2026]"
 meta_description: "Read our honest Lexicon 360-degree swivel accent chair review. See how the modern barrel design holds up, real user feedback, and who should buy it."
 slug: "lexicon-360-degree-swivel-accent-chair-arm-chair-modern-comfy-barrel-chair-b0fdhb-review"
 image_alt: "Modern Lexicon 360-degree swivel accent chair in a living room setting with a neutral fabric finish"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 225
 amazon_rating: 4.5

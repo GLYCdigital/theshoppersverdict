@@ -1,32 +1,11 @@
 ---
-
-title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/s, Interna"
-seo_title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/ Review"
-meta_description: "Our full fanxiangnvme ssd pcie gen4 m.2 ssd, up to 5200 mb/s, interna review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "fanxiangnvme-ssd-pcie-gen4-m-2-ssd-up-to-5200-mb-s-b0d2ql-review"
-image_alt: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/s, Internal Gaming SSD for PS5"
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 220
-amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B0D2QLYQ2W/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/51pS27vJ21L._AC_SL1500_.jpg"
-pros: 
-  - "Designed for productivity and comfort"
-  - "Quality build for daily office use"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "fanxiangNVMe SSD PCIe Gen4 M.2 SSD, Up to 5200 MB/s, Interna"
 seo_title: "fanxiang NVMe SSD Gen4 Review: 5200 MB/s Speed"
 meta_description: "Is the fanxiang NVMe SSD Gen4 worth it? We analyze real user reviews, speed, and thermals. Find out if this 5200 MB/s drive is right for your build."
 slug: "fanxiangnvme-ssd-pcie-gen4-m-2-ssd-up-to-5200-mb-s-b0d2ql-review"
 image_alt: "fanxiang NVMe SSD PCIe Gen4 M.2 internal solid state drive with heatsink option"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 220
 amazon_rating: 4.4

@@ -1,35 +1,11 @@
 ---
-
-title: "Large Dog Bed Orthopedic Washable"
-seo_title: "Large Dog Bed Orthopedic Washable Review: Verdict | TSV"
-meta_description: "Our full large dog bed orthopedic washable review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "large-dog-bed-orthopedic-washable-b0dck7-review"
-image_alt: "Large Dog Bed Orthopedic Washable"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 225
-amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0DCK7F8VT/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/613syeE7uhL._AC_SL1500_.jpg"
-pros: 
-  - "Spacious size for added convenience"
-  - "Good value for the price point"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
-**Frontmatter**
-
----
 title: "Large Dog Bed Orthopedic Washable"
 seo_title: "Large Dog Bed Orthopedic Washable Review: 2026 Buyer's Guide"
 meta_description: "Honest Large Dog Bed Orthopedic Washable review: Is the 4.5-star foam bed worth it? We analyze support, washability, and durability for big breeds."
 slug: "large-dog-bed-orthopedic-washable-b0dck7-review"
 image_alt: "Large orthopedic dog bed with washable cover and supportive foam base for big breeds"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 225
 amazon_rating: 4.5

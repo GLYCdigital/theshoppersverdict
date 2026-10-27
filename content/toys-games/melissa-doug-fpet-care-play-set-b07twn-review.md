@@ -1,32 +1,11 @@
 ---
-
-title: "Melissa & Doug FPet Care Play Set"
-seo_title: "Melissa & Doug FPet Care Play Set Review: Verdict | TSV"
-meta_description: "Our full melissa & doug fpet care play set review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "melissa-doug-fpet-care-play-set-b07twn-review"
-image_alt: "Melissa & Doug FPet Care Play Set"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 240
-amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B07TWN41KX/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/81DUn4lvVkL._AC_SL1500_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Safe materials and thoughtful design for children"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Melissa & Doug FPet Care Play Set"
 seo_title: "Melissa & Doug FPet Care Play Set Review (2026): Worth It?"
 meta_description: "Honest Melissa & Doug FPet Care Play Set review: 20+ pieces, vet role-play, and durability tested. See pros, cons, and who should buy it."
 slug: "melissa-doug-fpet-care-play-set-b07twn-review"
 image_alt: "Melissa & Doug FPet Care Play Set with plush puppy, vet tools, and carrier case"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 240
 amazon_rating: 4.8

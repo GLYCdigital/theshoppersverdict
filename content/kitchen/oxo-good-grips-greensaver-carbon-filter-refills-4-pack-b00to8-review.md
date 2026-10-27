@@ -1,32 +1,11 @@
 ---
-
-title: "OXO Good Grips GreenSaver Carbon Filter Refills 4 Pack"
-seo_title: "OXO Good Grips GreenSaver Carbon Filter Refills 4  Review"
-meta_description: "Our full oxo good grips greensaver carbon filter refills 4 pack review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "oxo-good-grips-greensaver-carbon-filter-refills-4-pack-b00to8-review"
-image_alt: "OXO Good Grips GreenSaver Carbon Filter Refills 4 Pack"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 235
-amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B00TO8X0OM/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61GElonNlxL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Good value for the price point"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "OXO Good Grips GreenSaver Carbon Filter Refills 4 Pack"
 seo_title: "OXO GreenSaver Carbon Filter Refills Review (4 Pack)"
 meta_description: "Honest OXO GreenSaver carbon filter refill review. We test shelf life, odor control, and fit. See if these 4-pack filters are worth the money before you buy."
 slug: "oxo-good-grips-greensaver-carbon-filter-refills-4-pack-b00to8-review"
 image_alt: "OXO Good Grips GreenSaver Carbon Filter Refills 4 Pack on white background"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 235
 amazon_rating: 4.7

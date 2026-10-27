@@ -1,10 +1,9 @@
 ---
-
 title: "SUNLEI Loft Bed with Desk, Metal Loft Bed with 2 Built-in La"
-seo_title: "SUNLEI Loft Bed with Desk, Metal Loft Bed with 2 B Review"
-meta_description: "Our full sunlei loft bed with desk, metal loft bed with 2 built-in la review. Read Amazon customer insights, pros, cons, and our verdict."
+seo_title: "Sunlei Loft Bed With Desk Review: Is It Worth It?"
+meta_description: "Sunlei loft bed with desk review: assess the metal frame, built-in storage, and weight capacity. See who should buy it and real tradeoffs before you purchase."
 slug: "sunlei-loft-bed-with-desk-metal-loft-bed-with-2-built-in-b0dz2b-review"
-image_alt: "SUNLEI Loft Bed with Desk, Metal Loft Bed with 2 Built-in Ladders, Noise Free for Small Bedroom, Space-Saving Bed Frame"
+image_alt: "Sunlei metal loft bed with built-in desk and storage shelves in a bedroom"
 verdict_score: 4.2
 date: 2026-06-17
 price: null
@@ -12,26 +11,6 @@ review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DZ2BJRDN/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/81DxYpLLJ9L._AC_SL1500_.jpg"
-pros: 
-  - "Space-saving and portable design"
-  - "Clean, modern design that complements your decor"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
-title: "Sunlei Loft Bed With Desk Metal Loft Bed With 2 Built In B0Dz2B Review"
-seo_title: "Sunlei Loft Bed With Desk Review: Is It Worth It?"
-meta_description: "Sunlei loft bed with desk review: assess the metal frame, built-in storage, and weight capacity. See who should buy it and real tradeoffs before you purchase."
-slug: "sunlei-loft-bed-with-desk-metal-loft-bed-with-2-built-in-b0dz2b-review"
-image_alt: "Sunlei metal loft bed with built-in desk and storage shelves in a bedroom"
-verdict_score: 4.0
-date: 2026-08-06
-price: Check price on Amazon
-review_count: 0
-amazon_rating: 4.0
-amazon_url: "https://www.amazon.com/dp/None/?tag=tsvglyc-20"
-amazon_image: "
 pros:
   - "Solid all-steel construction with a high weight capacity, reducing the bounce common in cheaper loft beds."
   - "Integrated desk and two built-in shelves maximize floor space without requiring separate furniture purchases."

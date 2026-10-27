@@ -7,7 +7,7 @@ slug: "chemex-pour-over-coffeemaker-review"
 image_alt: "Chemex 8-cup pour-over glass coffeemaker with wooden collar and glass carafe on a countertop"
 verdict_score: 9.2
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 8655
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000I1WP7W/?tag=tsvglyc-20"

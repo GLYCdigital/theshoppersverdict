@@ -7,7 +7,7 @@ slug: "cuisinart-food-processor-14-cup-review"
 image_alt: "Cuisinart 14-cup food processor with stainless steel blade and work bowl on countertop"
 verdict_score: 9.0
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 21370
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08K1SPT9W/?tag=tsvglyc-20"

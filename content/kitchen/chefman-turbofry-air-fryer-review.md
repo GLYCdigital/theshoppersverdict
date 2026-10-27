@@ -7,7 +7,7 @@ slug: "chefman-turbofry-8qt-air-fryer-review"
 image_alt: "Chefman TurboFry 8 Quart air fryer with dual basket controls and digital touchscreen on a kitchen counter"
 verdict_score: 8.5
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 16432
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08DKYBTPH/?tag=tsvglyc-20"

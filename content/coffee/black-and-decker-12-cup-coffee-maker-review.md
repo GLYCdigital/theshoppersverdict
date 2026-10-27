@@ -7,7 +7,7 @@ slug: "black-and-decker-12-cup-coffee-maker-review"
 image_alt: "BLACK+DECKER 12-cup programmable coffee maker with glass carafe and digital display"
 verdict_score: 4.2
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 49033
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B01GJOMWVA/?tag=tsvglyc-20"

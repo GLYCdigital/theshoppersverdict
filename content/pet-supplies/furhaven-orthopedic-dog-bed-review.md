@@ -7,7 +7,7 @@ slug: "furhaven-orthopedic-dog-bed-review"
 image_alt: "Furhaven Orthopedic Dog Bed with plush faux fur surface and supportive foam base"
 verdict_score: 4.5
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 79789
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20"

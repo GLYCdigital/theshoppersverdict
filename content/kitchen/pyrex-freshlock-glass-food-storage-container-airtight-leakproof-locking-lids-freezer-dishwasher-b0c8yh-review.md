@@ -1,33 +1,11 @@
 ---
-
-title: "Pyrex Freshlock Glass Food Storage Container, Airtight & Lea"
-seo_title: "Pyrex Freshlock Glass Food Storage Container, Airt Review"
-meta_description: "Our full pyrex freshlock glass food storage container, airtight & lea review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "pyrex-freshlock-glass-food-storage-container-airtight-leakproof-locking-lids-freezer-dishwasher-b0c8yh-review"
-image_alt: "Pyrex Freshlock Glass Food Storage Container, Airtight & Leakproof Locking Lids, Freezer Dishwasher Microwave Safe"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 229
-amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0C8YHZQFS/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61gfPTXX1FL._AC_SL1500_.jpg"
-pros: 
-  - "Premium quality construction and materials"
-  - "Safe materials you can trust"
-  - "Spacious size for added convenience"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Pyrex Freshlock Glass Food Storage Container, Airtight & Lea"
 seo_title: "Pyrex Freshlock Glass Container Review: Leakproof Lids"
 meta_description: "Pyrex Freshlock glass food storage review: Are the airtight, leakproof lids worth it? We test durability, freezer safety, and sealing. Read before you buy."
 slug: "pyrex-freshlock-glass-food-storage-container-airtight-leakproof-locking-lids-freezer-dishwasher-b0c8yh-review"
 image_alt: "Pyrex Freshlock glass food storage container with blue airtight locking lid"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 229
 amazon_rating: 4.6

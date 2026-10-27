@@ -1,32 +1,11 @@
 ---
-
-title: "Minwax 67100 Teak Oil"
-seo_title: "Minwax 67100 Teak Oil Review: Verdict | TSV"
-meta_description: "Our full minwax 67100 teak oil review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "minwax-67100-teak-oil-b003of-review"
-image_alt: "Minwax 67100 Teak Oil"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 235
-amazon_rating: 4.7
-amazon_url: "https://www.amazon.com/dp/B003OF7AGU/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/51tzAFiSO1L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Solid construction for reliable performance"
-  - "Practical tool for home projects"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Minwax 67100 Teak Oil"
 seo_title: "Minwax Teak Oil Review: Real Results & Honest Verdict"
 meta_description: "Read our honest Minwax 67100 Teak Oil review. See how it performs on outdoor furniture, its pros, cons, and if it's right for your next project."
 slug: "minwax-67100-teak-oil-b003of-review"
 image_alt: "Minwax 67100 Teak Oil quart can with wood finish sample"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 235
 amazon_rating: 4.7

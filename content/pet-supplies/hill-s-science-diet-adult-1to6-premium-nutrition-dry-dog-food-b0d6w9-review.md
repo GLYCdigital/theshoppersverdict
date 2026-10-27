@@ -1,32 +1,11 @@
 ---
-
-title: "Hill's Science Diet Adult 1to6 Premium Nutrition Dry Dog Foo"
-seo_title: "Hill's Science Diet Adult 1to6 Premium Nutrition D Review"
-meta_description: "Our full hill's science diet adult 1to6 premium nutrition dry dog foo review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "hill-s-science-diet-adult-1to6-premium-nutrition-dry-dog-food-b0d6w9-review"
-image_alt: "Hills Science Diet Adult 1to6 Premium Nutrition Dry Dog Food"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 240
-amazon_rating: 4.8
-amazon_url: "https://www.amazon.com/dp/B0D6W92SST/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/81bd5ly4S1L._AC_SL1500_.jpg"
-pros: 
-  - "Premium quality construction and materials"
-  - "Promotes learning and development"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Hill's Science Diet Adult 1to6 Premium Nutrition Dry Dog Foo"
 seo_title: "Hill's Science Diet Adult 1to6 Dog Food Review (2026)"
 meta_description: "Honest Hill's Science Diet Adult 1to6 review: ingredient analysis, real owner feedback, portion guidance, and who should buy this premium kibble."
 slug: "hill-s-science-diet-adult-1to6-premium-nutrition-dry-dog-food-b0d6w9-review"
 image_alt: "Bag of Hill's Science Diet Adult 1to6 Premium Nutrition dry dog food with kibble close-up"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 240
 amazon_rating: 4.8

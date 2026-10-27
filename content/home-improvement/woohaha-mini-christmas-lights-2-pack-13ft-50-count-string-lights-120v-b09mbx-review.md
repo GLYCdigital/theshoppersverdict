@@ -1,32 +1,11 @@
 ---
-
-title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count String Li"
-seo_title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count Review"
-meta_description: "Our full woohaha mini christmas lights,2 pack 13ft 50 count string li review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "woohaha-mini-christmas-lights-2-pack-13ft-50-count-string-lights-120v-b09mbx-review"
-image_alt: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count String Lights, 120V UL Plug Extendable Xmas Tree Lights for Christmas"
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 220
-amazon_rating: 4.4
-amazon_url: "https://www.amazon.com/dp/B09MBX26DW/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/91J0Fj9TBGL._AC_SL1500_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Good value for the price point"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "woohaha Mini Christmas Lights,2 Pack 13ft 50 Count String Li"
 seo_title: "woohaha Mini Christmas Lights Review: 2-Pack 13ft String"
 meta_description: "Honest woohaha Mini Christmas Lights review: 2-pack, 13ft, 50 count. Are these 120V string lights worth it? We cover durability, brightness, and real buyer feedback."
 slug: "woohaha-mini-christmas-lights-2-pack-13ft-50-count-string-lights-120v-b09mbx-review"
 image_alt: "Two spools of woohaha Mini Christmas Lights showing green wire and clear mini bulbs"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 220
 amazon_rating: 4.4

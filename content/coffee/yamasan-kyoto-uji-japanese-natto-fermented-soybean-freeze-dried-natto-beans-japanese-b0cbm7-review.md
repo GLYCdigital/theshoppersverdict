@@ -1,32 +1,11 @@
 ---
-
-title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean, Freeze-D"
-seo_title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean Review"
-meta_description: "Our full yamasan kyoto uji japanese natto fermented soybean, freeze-d review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "yamasan-kyoto-uji-japanese-natto-fermented-soybean-freeze-dried-natto-beans-japanese-b0cbm7-review"
-image_alt: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean, Freeze-Dried Natto Beans, Japanese Probiotic and Prebiotic Superfood"
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 200
-amazon_rating: 4.0
-amazon_url: "https://www.amazon.com/dp/B0CBM7ZR7C/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/812DkkuGnSL._SL1500_.jpg"
-pros: 
-  - "Premium quality construction and materials"
-  - "Good value for the price point"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "YAMASAN KYOTO UJI Japanese Natto Fermented Soybean, Freeze-D"
 seo_title: "YAMASAN Kyoto Uji Natto Review: Freeze-Dried Beans Worth It?"
 meta_description: "Honest YAMASAN KYOTO UJI freeze-dried natto review: taste, texture, prep, and value. See if this Japanese superfood fits your pantry."
 slug: "yamasan-kyoto-uji-japanese-natto-fermented-soybean-freeze-dried-natto-beans-japanese-b0cbm7-review"
 image_alt: "YAMASAN KYOTO UJI freeze-dried Japanese natto fermented soybean package with product details"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 200
 amazon_rating: 4.0

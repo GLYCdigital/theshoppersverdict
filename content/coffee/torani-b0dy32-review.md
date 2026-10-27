@@ -1,32 +1,11 @@
 ---
-
-title: "Torani"
-seo_title: "Torani Review: Verdict | TSV"
-meta_description: "Our full torani review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "torani-b0dy32-review"
-image_alt: "Torani"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 229
-amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0DY32HF9L/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/81Onb80m92L._SL1500_.jpg"
-pros: 
-  - "Rich flavor profile from quality ingredients"
-  - "Easy brewing process for daily enjoyment"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Torani"
 seo_title: "Torani Coffee Syrup Review: Worth It? (2026)"
 meta_description: "Honest Torani coffee syrup review with 229 ratings. Flavor, sweetness, and cost per drink compared. See if it beats your local café."
 slug: "torani-b0dy32-review"
 image_alt: "Torani coffee syrup bottle with flavor pump dispenser"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 229
 amazon_rating: 4.6

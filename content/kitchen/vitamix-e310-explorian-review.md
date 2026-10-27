@@ -8,7 +8,7 @@ slug: vitamix-e310-explorian-review
 verdict_score: 4.6
 review_count: 5477
 amazon_rating: 4.6
-price: N/A
+price: null
 amazon_url: "https://www.amazon.com/dp/B0758JHZM3?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/71lMUuj9RtL._AC_SL1500_.jpg"
 image_alt: "Vitamix E310 Explorian blender on countertop with variable speed dial"

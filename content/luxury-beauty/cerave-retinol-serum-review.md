@@ -7,7 +7,7 @@ slug: "cerave-retinol-serum-review"
 image_alt: "CeraVe Retinol Serum bottle with dropper, showing the cream-colored serum texture"
 verdict_score: 4.5
 date: 2026-08-06
-price: Check price on Amazon
+price: null
 review_count: 56080
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20"

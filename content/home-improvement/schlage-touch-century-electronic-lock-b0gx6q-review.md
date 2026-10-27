@@ -1,32 +1,11 @@
 ---
-
-title: "Schlage Touch Century Electronic Lock"
-seo_title: "Schlage Touch Century Electronic Lock Review: Verdict | T"
-meta_description: "Our full schlage touch century electronic lock review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "schlage-touch-century-electronic-lock-b0gx6q-review"
-image_alt: "Schlage Touch Century Electronic Lock"
-verdict_score: 4.2
-date: 2026-06-17
-price: null
-review_count: 200
-amazon_rating: 4.0
-amazon_url: "https://www.amazon.com/dp/B0GX6Q49D5/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_.gif"
-pros: 
-  - "Solid construction for reliable performance"
-  - "Practical tool for home projects"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Schlage Touch Century Electronic Lock"
 seo_title: "Schlage Touch Century Electronic Lock Review (2026): Is It Worth It?"
 meta_description: "Read our honest Schlage Touch Century Electronic Lock review. We break down the touchscreen, build quality, and security features to help you decide."
 slug: "schlage-touch-century-electronic-lock-b0gx6q-review"
 image_alt: "Schlage Touch Century Electronic Lock on a front door with keypad illuminated"
 verdict_score: 4.2
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 200
 amazon_rating: 4.0

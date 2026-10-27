@@ -1,32 +1,11 @@
 ---
-
-title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water Filled Squ"
-seo_title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water  Review"
-meta_description: "Our full purple leaf offset patio umbrella base sand/water filled squ review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "purple-leaf-offset-patio-umbrella-base-sand-water-filled-square-b07n78-review"
-image_alt: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water Filled Squareâ€¦"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 229
-amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B07N78VPYS/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/710TspMu64L._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Great value with multiple components included"
-  - "Modern features and smart functionality"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "PURPLE LEAF Offset Patio Umbrella Base Sand/Water Filled Squ"
 seo_title: "PURPLE LEAF Umbrella Base Review: 4.6-Star Stability"
 meta_description: "Read our honest PURPLE LEAF Offset Patio Umbrella Base review. Is the 4.6-star sand/water-filled square base worth it? We break down stability, weight, and fit."
 slug: "purple-leaf-offset-patio-umbrella-base-sand-water-filled-square-b07n78-review"
 image_alt: "PURPLE LEAF square offset patio umbrella base filled with sand and water on a deck"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 229
 amazon_rating: 4.6

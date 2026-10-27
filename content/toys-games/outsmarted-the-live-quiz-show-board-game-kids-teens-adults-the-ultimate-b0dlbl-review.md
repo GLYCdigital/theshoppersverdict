@@ -1,33 +1,11 @@
 ---
-
-title: "Outsmarted - The Live Quiz Show Board Game | Kids, Teens & A"
-seo_title: "Outsmarted - The Live Quiz Show Board Game | Kids, Review"
-meta_description: "Our full outsmarted - the live quiz show board game | kids, teens & a review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "outsmarted-the-live-quiz-show-board-game-kids-teens-adults-the-ultimate-b0dlbl-review"
-image_alt: "Outsmarted - The Live Quiz Show Board Game | Kids, Teens & Adults | The Ultimate Family Game Night | Age 8+ | Perfect fo"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 225
-amazon_rating: 4.5
-amazon_url: "https://www.amazon.com/dp/B0DLBLVND6/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/71sMoYXU0sL._AC_SL1500_.jpg"
-pros: 
-  - "Versatile and adjustable for different needs"
-  - "Modern features and smart functionality"
-  - "Designed with children's safety and fun in mind"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
 title: "Outsmarted - The Live Quiz Show Board Game | Kids, Teens & A"
 seo_title: "Outsmarted Board Game Review: Live Quiz Show Fun"
 meta_description: "Honest Outsmarted board game review: Is this live quiz show game worth it for family game night? We break down gameplay, replay value, and who should buy."
 slug: "outsmarted-the-live-quiz-show-board-game-kids-teens-adults-the-ultimate-b0dlbl-review"
 image_alt: "Outsmarted live quiz show board game box with colorful game board and question cards"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 225
 amazon_rating: 4.5
