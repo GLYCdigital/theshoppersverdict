@@ -11,7 +11,17 @@
 
 {{ $monthAgo := now.AddDate 0 0 -30 }}
 {{ $monthPages := where $all "Date" "ge" $monthAgo }}
-{{ $monthPriced := where $monthPages ".Params.price" "ne" nil }}
+{{/* Only numeric prices may enter the priced ranking. A text value such as
+     "Check price on Amazon" or "N/A" used to sort into this block as a string,
+     putting contradictory prices on the homepage. Type guard lives here, not in
+     content, so no future edit can re-introduce it. */}}
+{{ $monthPriced := slice }}
+{{ range $monthPages }}
+  {{ $rawPrice := printf "%v" (.Params.price | default "") }}
+  {{ if findRE "^[0-9]+(?:\\.[0-9]+)?$" $rawPrice }}
+    {{ $monthPriced = $monthPriced | append . }}
+  {{ end }}
+{{ end }}
 {{ $monthTop3 := first 3 (sort $monthPriced ".Params.price" "desc") }}
 
 <!-- Hero Banner (weekly rotation) -->
