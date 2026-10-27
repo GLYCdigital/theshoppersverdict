@@ -1,0 +1,53 @@
+{
+  "slug": "best-kitchen-midrange",
+  "slot": "price_bracket",
+  "topic": "Best Kitchen Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "Ultrean Food Scale Digital Kitchen",
+      "url": "/kitchen/ultrean-digital-kitchen-food-scale-b08czdynf7-review/",
+      "amazon_url": "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71TV+iWbGlL._SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 6.98,
+      "count": 21051,
+      "pros": [
+        "Ultrean food scale review",
+        "best digital kitchen scale",
+        "Ultrean kitchen scale"
+      ]
+    },
+    {
+      "title": "OmieBox Bento Lunch Box With",
+      "url": "/kitchen/omiebox-bento-lunch-box-with-insulated-thermos-for-kids-blue-sky-review/",
+      "amazon_url": "https://www.amazon.com/dp/B017SGIMV2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71o6jvN+kSL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.5,
+      "price": 52.01,
+      "count": 20427,
+      "pros": [
+        "omiebox bento lunch review",
+        "kitchen appliance review",
+        "best kitchen gadget"
+      ]
+    },
+    {
+      "title": "Cosori in TurboBlaze Air Fryer",
+      "url": "/kitchen/cosori-turboblaze-air-fryer-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0C33CHG99/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81R9sA3IyBL._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.8,
+      "price": 100,
+      "count": 19790,
+      "pros": [
+        "Max 450\u00b0F heat with 5-minute preheat \u2014 noticeably faster than the 400\u00b0F limit on the older Cosori Pro II",
+        "Square 6-quart basket fits a 5-pound chicken or a full frozen pizza without the shaking blind spots round baskets create",
+        "9 presets plus a 12-hour keep-warm mode that actually holds food crispy, not soggy"
+      ]
+    }
+  ]
+}
