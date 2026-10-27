@@ -1,50 +1,27 @@
 ---
-
-title: "Pool Mate Alkalinity Increaser for Swimming Pools"
-seo_title: "Pool Mate Alkalinity Increaser for Swimming Pools Review:"
-meta_description: "Our full pool mate alkalinity increaser for swimming pools review. Read Amazon customer insights, pros, cons, and our verdict."
-slug: "pool-mate-alkalinity-increaser-for-swimming-pools-b0d9d6-review"
-image_alt: "Pool Mate Alkalinity Increaser for Swimming Pools"
-verdict_score: 4.6
-date: 2026-06-17
-price: null
-review_count: 229
-amazon_rating: 4.6
-amazon_url: "https://www.amazon.com/dp/B0D9D6S7T8/?tag=tsvglyc-20"
-amazon_image: "https://m.media-amazon.com/images/I/61fMibXKILL._AC_SY300_SX300_QL70_ML2_.jpg"
-pros: 
-  - "Made for outdoor durability"
-  - "Functional addition to your outdoor space"
-cons: 
-  - "May vary based on individual needs and preferences"
-  - "Check Amazon for current pricing and availability"
-
----
-
 title: "Pool Mate Alkalinity Increaser for Swimming Pools"
 seo_title: "Pool Mate Alkalinity Increaser Review: 4.6/5 Star Pool Chemical"
-meta_description: "Honest Pool Mate Alkalinity Increaser review: fast-dissolving pH buffer, 229 ratings, 4.6 stars. Does it stabilize your pool? Read pros, cons, and buying advice."
+meta_description: "Our full review. Read Amazon customer insights, pros, cons, and our verdict."
 slug: "pool-mate-alkalinity-increaser-for-swimming-pools-b0d9d6-review"
 image_alt: "Pool Mate 20 lb bucket of alkalinity increaser granules for swimming pool water balancing"
 verdict_score: 4.6
 date: 2026-08-06
-price: 6.07
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9D6S7T8/?tag=tsvglyc-20"
 amazon_image: "https://m.media-amazon.com/images/I/61fMibXKILL._AC_SY300_SX300_QL70_ML2_.jpg"
 pros:
   - "Dissolves quickly in a bucket or directly in the skimmer—no stubborn clumps floating on the surface"
-  - "3 lbs of 100% sodium bicarbonate treats roughly 10,000 gallons, making it a budget-friendly option at ~$6"
+  - "3 lbs of 100% sodium bicarbonate treats roughly 10,000 gallons, making it a budget-friendly option"
   - "Reliable 20 lb bucket size (when purchased in bulk) lasts multiple seasons for average above-ground pools"
 cons:
   - "The 3 lb container is small—heavy users with large in-ground pools will run through it fast"
   - "No measuring scoop included; you'll need your own scale or measuring cup for precise dosing"
 ---
-
 # Pool Mate Alkalinity Increaser Review: A Simple Fix for Cloudy, Corrosive Pool Water
 
-If your pool water tests low for total alkalinity (below 80 ppm), you're fighting a losing battle against pH swings, eye irritation, and etching on plaster surfaces. The Pool Mate Alkalinity Increaser is a straightforward, no-frills solution to that problem—and at roughly six bucks, it's the cheapest insurance policy your pool will get this season.
+If your pool water tests low for total alkalinity (below 80 ppm), you're fighting a losing battle against pH swings, eye irritation, and etching on plaster surfaces. The Pool Mate Alkalinity Increaser is a straightforward, no-frills solution to that problem—and it's one of the cheapest insurance policies your pool will get this season.
 
 ## What You Actually Get
 
@@ -62,7 +39,7 @@ Across the 229 Amazon ratings (4.6/5 average), four themes dominate. First, valu
 
 ## Where It Falls Short
 
-The 3-pound size is the honest weak point. If you own a large in-ground pool (20,000+ gallons) or need to raise alkalinity significantly (more than 30 ppm), you'll need multiple buckets. At $6.07 each, that adds up fast—though it's still cheaper per pound than most competitors. Also, there's no scoop included. You'll need a kitchen scale or a measuring cup to dose accurately. Eyeballing it is how you end up overshooting and dealing with cloudy water.
+The 3-pound size is the honest weak point. If you own a large in-ground pool (20,000+ gallons) or need to raise alkalinity significantly (more than 30 ppm), you'll need multiple buckets. At each bucket's price, that adds up fast—though it's still cheaper per pound than most competitors. Also, there's no scoop included. You'll need a kitchen scale or a measuring cup to dose accurately. Eyeballing it is how you end up overshooting and dealing with cloudy water.
 
 ## Who Should Buy This
 
