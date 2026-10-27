@@ -127,20 +127,19 @@
     {{- $product = merge $product (dict "description" .) -}}
   {{- end -}}
 
-  {{- /* AggregateRating — only from a provenanced observation.
-         Rule lives in partials/rating_provenance.html so schema and page copy cannot
-         drift: requires `ratings_observed` (>= 1) AND `observed_at` (<= 90 days old).
-         No derivation, no defaults. 2026-10-27 audit: `review_count` across the corpus
-         was a ladder keyed to the star rating (8 values covered ~89% of 25.8k pages),
-         so any count we cannot point at an observation for is omitted entirely. */ -}}
-  {{- $provenance := partial "rating_provenance.html" . -}}
-  {{- if $provenance.provenanced -}}
+  {{- /* AggregateRating — only from an observed review count.
+         A zero count is not "one review": clamping it to 1 published a fabricated
+         AggregateRating (ratingCount 1, ratingValue 4.x) on pages where we hold no
+         ratings at all. schema.org requires ratingCount/reviewCount > 0, so we omit
+         the block entirely and let the Product stand on its own. */ -}}
+  {{- $ratingCount := .Params.review_count | default 0 | int -}}
+  {{- if ge $ratingCount 1 -}}
     {{- $aggregateRating := dict
       "@type" "AggregateRating"
       "ratingValue" (.Params.amazon_rating | string)
       "bestRating" "5"
       "worstRating" "1"
-      "ratingCount" ($provenance.count | string)
+      "ratingCount" ($ratingCount | string)
     -}}
     {{- $product = merge $product (dict "aggregateRating" $aggregateRating) -}}
   {{- end -}}

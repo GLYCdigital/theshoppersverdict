@@ -17,25 +17,12 @@
 
       <div class="review-header">
         <h1 itemprop="name">{{ .Title }}</h1>
-        {{- $provenance := partial "rating_provenance.html" . -}}
-        {{- if $provenance.provenanced }}
-        <p class="review-meta">Reviewed from <strong>{{ $provenance.count }} Amazon customer reviews</strong></p>
-        {{- else }}
-        {{- $ourScore := .Params.verdict_score | default .Params.amazon_rating }}
-        {{- with $ourScore }}
-        <p class="review-meta">Our verdict, from our own analysis of the product and its reviews</p>
-        {{- end }}
-        {{- end }}
-        {{- if $provenance.provenanced }}
+        {{ with .Params.review_count }}
+        <p class="review-meta">Reviewed from <strong>{{ . }} Amazon customer reviews</strong></p>
+        {{ end }}
         {{ with .Params.amazon_rating }}
         <div class="review-stars-header">{{ partial "stars.html" . }} <span class="rating-text">{{ . }}/5 on Amazon</span></div>
         {{ end }}
-        {{- else }}
-        {{- $ourRating := .Params.verdict_score | default .Params.amazon_rating -}}
-        {{ with $ourRating }}
-        <div class="review-stars-header">{{ partial "stars.html" . }} <span class="rating-text">Our verdict: {{ . }}/5</span></div>
-        {{ end }}
-        {{- end }}
       </div>
 
       {{ with .Params.amazon_image }}
