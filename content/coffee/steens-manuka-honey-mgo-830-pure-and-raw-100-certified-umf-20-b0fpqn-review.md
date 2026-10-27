@@ -84,7 +84,7 @@ A: Yes, for authenticity. UMF is independently tested and verified. Non-certifie
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0FPQN465V/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

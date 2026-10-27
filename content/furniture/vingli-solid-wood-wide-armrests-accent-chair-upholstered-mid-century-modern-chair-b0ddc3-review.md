@@ -81,7 +81,7 @@ A: No. The seat and back cushions are attached to the frame with hook-and-loop f
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0DDC3RNBH/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

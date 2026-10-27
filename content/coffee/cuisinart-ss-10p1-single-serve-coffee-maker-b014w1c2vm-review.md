@@ -91,7 +91,7 @@ The Cuisinart SS-10P1 earns its 4.0 rating honestly. It's not flashy, not featur
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

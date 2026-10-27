@@ -84,7 +84,7 @@ The Viplov Upholstered Bordered Bed is a calculated bet. The design deserves a l
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0DLP67XMK/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

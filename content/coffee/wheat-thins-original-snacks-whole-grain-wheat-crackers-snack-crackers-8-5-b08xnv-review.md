@@ -78,7 +78,7 @@ At the current price point (check Amazon for live pricing), you're paying a slig
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B08XNVDQJX/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

@@ -71,7 +71,7 @@ The Wampat 3 Drawer Dresser earns a 4.0/5 for doing exactly what it claims: affo
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0F5BG5KMD/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 

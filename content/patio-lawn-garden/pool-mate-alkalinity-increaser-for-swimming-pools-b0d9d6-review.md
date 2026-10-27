@@ -5,7 +5,7 @@ meta_description: "Our full review. Read Amazon customer insights, pros, cons, a
 slug: "pool-mate-alkalinity-increaser-for-swimming-pools-b0d9d6-review"
 image_alt: "Pool Mate 20 lb bucket of alkalinity increaser granules for swimming pool water balancing"
 verdict_score: 4.6
-date: 2026-08-06
+date: 2026-06-17
 price: null
 review_count: 229
 amazon_rating: 4.6

@@ -79,7 +79,7 @@ The Tekamon Modular Couch B0Crv3 earns a solid 4.0/5. It's a well-designed piece
 
 ## Where to Buy
 
-👉 **[Check Price on Amazon →](https://www.amazon.com/dp/None/?tag=tsvglyc-20)**
+👉 **[Check Price on Amazon →](https://www.amazon.com/dp/B0CRV36S3R/?tag=tsvglyc-20)**
 
 *We earn a small commission at no extra cost to you — this helps fund more honest reviews.*
 
