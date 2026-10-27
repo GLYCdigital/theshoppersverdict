@@ -34,6 +34,10 @@ Every product on our site goes through the same rigorous process:
 
 The Shopper's Verdict is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. This doesn't influence our verdicts — we recommend what the data says, not what pays best.
 
+## Corrections
+
+When we get something wrong, we publish it. Our [corrections log](/corrections/) records what was wrong, when we found out, and what changed — including the 27 October 2026 correction to how we present Amazon review counts and star ratings.
+
 ## The Team
 
 The Shopper's Verdict is built by a small team of researchers, writers, and data analysts who are tired of fluff reviews. We're customers first, reviewers second. Every product we cover is one we'd want an honest answer about ourselves.

@@ -415,6 +415,15 @@ def validate_generated_post(path):
     words = len(body.split())
     if words < 150:
         return f"body too short: {words} words (shell post?)"
+    # Single-product reviews must carry a working affiliate link; roundup/blog
+    # posts legitimately have none (they link per product in the body).
+    if path.name.endswith("-review.md"):
+        url = re.search(r'(?m)^amazon_url:\s*"?([^"\n]*)"?\s*$', text)
+        url_val = (url.group(1).strip() if url else "")
+        if not url_val:
+            return "missing amazon_url — a page without an affiliate link earns nothing"
+        if "dp/None" in url_val:
+            return f"dead affiliate link: {url_val[:60]}"
     if "dp/None" in body:
         return "dead affiliate link: /dp/None/"
     # Fabricated-rating guard (2026-10-27 audit): review_count in this corpus is
@@ -423,10 +432,31 @@ def validate_generated_post(path):
     rating = re.search(r"(?m)^amazon_rating:\s*([\d.]+)", text)
     count = re.search(r"(?m)^review_count:\s*(\d+)", text)
     verdict = re.search(r"(?m)^verdict_score:\s*([\d.]+)", text)
-    if rating and count:
+    # Provenance rule (2026-10-27 ruling, Option B): a count may only stand when we
+    # can point at an observation — an observed count plus the date it was observed,
+    # no older than 90 days. No derivation, no defaults, no fallback estimate.
+    observed = re.search(r"(?m)^ratings_observed:\s*(\d+)", text)
+    observed_at = re.search(r"(?m)^observed_at:\s*(\d{4}-\d{2}-\d{2})", text)
+    provenanced = bool(observed and observed_at and int(observed.group(1)) >= 1)
+    if provenanced:
+        try:
+            age = (date.today() - date.fromisoformat(observed_at.group(1))).days
+        except ValueError:
+            return f"observed_at is not a date: {observed_at.group(1)!r}"
+        if age > 90:
+            return (f"observed_at {observed_at.group(1)} is {age} days old — "
+                    "re-observe before publishing")
+    counted = re.search(r"(?m)^review_count:\s*(\d+)", text)
+    if counted and int(counted.group(1)) > 0 and not provenanced:
+        return ("review_count without provenance — needs ratings_observed + "
+                "observed_at (no derivation, no defaults)")
+    if rating and count and not provenanced:
         r = float(rating.group(1))
         ladder = max(150, 150 + 5 * round((r - 3.0) * 10))
-        if int(count.group(1)) == ladder:
+        # ±1: the corpus ladder truncates rather than rounds at 4.1 (204, not 205)
+        # and 4.6 (229, not 230) — an exact compare misses those two bands, which
+        # together hold ~5.9k pages including the largest cluster on the site.
+        if abs(int(count.group(1)) - ladder) <= 1:
             return (
                 f"review_count {count.group(1)} looks derived from amazon_rating {r:g} "
                 f"(ladder value {ladder}) — needs an observed count"
