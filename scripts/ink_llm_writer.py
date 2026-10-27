@@ -5,6 +5,11 @@ ink_llm_writer.py — LLM-powered review writer for the daily pipeline.
 Reads a single scraped Amazon briefing JSON, generates a DeepSeek-chat review,
 and writes it to the correct content/<category>/<slug>-review.md.
 
+Date semantics (decided 2026-10-27): frontmatter `date` is the PUBLICATION date
+and always comes from date.today(). Fact freshness (when a price or spec was
+observed) lives in state/product_ledger.json as `observed_at` /
+`observed_at_source` and must never be written into `date`.
+
 Design: single-review, called once per briefing by the pipeline runner.
 Same architecture as Til's generate_review.py — stdin JSON or --file path.
 
