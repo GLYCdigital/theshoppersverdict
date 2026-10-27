@@ -19,7 +19,7 @@ faq:
   - question: "Is the ESPRO Light P3 French Press a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a coffee maker or brewer, this is a safe choice."
 date: 2026-06-28
-price: 51.69
+price: null
 review_count: 3037
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B011WTM622/?tag=tsvglyc-20"

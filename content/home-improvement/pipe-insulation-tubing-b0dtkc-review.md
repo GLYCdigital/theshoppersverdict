@@ -7,7 +7,7 @@ slug: "pipe-insulation-tubing-b0dtkc-review"
 image_alt: "Pipe Insulation Tubing"
 verdict_score: 4.2
 date: 2026-06-17
-price: 13.19
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DTKC3N13/?tag=tsvglyc-20"

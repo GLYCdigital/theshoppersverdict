@@ -7,7 +7,7 @@ slug: "hoobro-bar-table-height-adjustable-round-pub-table-27-35-4-inches-b0c68b-
 image_alt: "HOOBRO Bar Table, Height-Adjustable Round Pub Table 27-35.4 Inches, Cocktail Table with Base, Modern Style, Suitable for"
 verdict_score: 4.2
 date: 2026-06-17
-price: 58.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C68BZDCX/?tag=tsvglyc-20"

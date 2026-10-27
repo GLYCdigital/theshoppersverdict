@@ -7,7 +7,7 @@ slug: "demitasse-espresso-spoons-mini-coffee-spoon-4-7-inches-stainless-steel-sm
 image_alt: "Set of demitasse espresso spoons, 4.7-inch mini stainless steel coffee spoons"
 verdict_score: 4.6
 date: 2026-08-06
-price: 6.58
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09CP1GTPP/?tag=tsvglyc-20"

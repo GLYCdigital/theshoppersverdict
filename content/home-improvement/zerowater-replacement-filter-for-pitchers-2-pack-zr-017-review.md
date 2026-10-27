@@ -20,7 +20,7 @@ faq:
   - question: "Is ZeroWater NSF certified?"
     answer: "Yes. ZeroWater is the only filter pitcher certified by NSF to reduce both lead and chromium. The filters also meet FDA standards for TDS levels in purified bottled water."
 date: 2026-07-09
-price: 44.99
+price: null
 review_count: 72073
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B001CUQ1C8/?tag=tsvglyc-20"

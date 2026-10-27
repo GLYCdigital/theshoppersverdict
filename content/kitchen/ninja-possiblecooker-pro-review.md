@@ -7,7 +7,7 @@ slug: "ninja-possiblecooker-pro-review"
 image_alt: "Ninja 14-in-1 PossibleCooker PRO multi-cooker with air fryer basket and 6.5 quart ceramic-coated pot"
 verdict_score: 4.5
 date: 2026-08-06
-price: 169.99
+price: null
 review_count: 6229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B4PPHG8G/?tag=tsvglyc-20"

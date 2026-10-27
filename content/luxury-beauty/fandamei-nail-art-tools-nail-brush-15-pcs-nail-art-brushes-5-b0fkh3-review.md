@@ -7,7 +7,7 @@ slug: "fandamei-nail-art-tools-nail-brush-15-pcs-nail-art-brushes-5-b0fkh3-revie
 image_alt: "FANDAMEI 15-piece nail art brush set with assorted tips laid out on a clean surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 8.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FKH3P8G6/?tag=tsvglyc-20"

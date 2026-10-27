@@ -19,7 +19,7 @@ faq:
   - question: "Can you adjust the height while the laptop is on the stand?"
     answer: "No. The hinges are very stiff by design to ensure stability. You'll need to remove the laptop to adjust the height, then replace it."
 date: 2026-07-14
-price: 35.99
+price: null
 review_count: 10236
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08M94BTYC/?tag=tsvglyc-20"

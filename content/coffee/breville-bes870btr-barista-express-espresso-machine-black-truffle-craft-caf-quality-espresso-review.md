@@ -19,7 +19,7 @@ faq:
   - question: "Is the Breville BES870BTR Barista Express durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-01
-price: 699.95
+price: null
 review_count: 27735
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GKQFHV6X/?tag=tsvglyc-20"

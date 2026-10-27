@@ -7,7 +7,7 @@ slug: "pool-mate-alkalinity-increaser-for-swimming-pools-b0d9d6-review"
 image_alt: "Pool Mate Alkalinity Increaser for Swimming Pools"
 verdict_score: 4.6
 date: 2026-06-17
-price: 6.07
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D9D6S7T8/?tag=tsvglyc-20"

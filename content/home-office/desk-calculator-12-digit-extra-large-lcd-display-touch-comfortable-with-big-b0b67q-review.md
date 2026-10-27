@@ -7,7 +7,7 @@ slug: "desk-calculator-12-digit-extra-large-lcd-display-touch-comfortable-with-b
 image_alt: "12-digit desk calculator with extra-large LCD display and large comfortable keys on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 15.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B67QN29F/?tag=tsvglyc-20"

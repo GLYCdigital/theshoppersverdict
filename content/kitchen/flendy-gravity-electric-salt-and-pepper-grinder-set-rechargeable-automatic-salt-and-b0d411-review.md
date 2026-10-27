@@ -7,7 +7,7 @@ slug: "flendy-gravity-electric-salt-and-pepper-grinder-set-rechargeable-automati
 image_alt: "Flendy gravity electric salt and pepper grinder set with USB-C charging base and adjustable ceramic grinders in black"
 verdict_score: 4.2
 date: 2026-08-06
-price: 32.29
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D411621P/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "kollide-by-relatable-exciting-magnetic-game-for-family-game-night-great-f
 image_alt: "Kollide By Relatable, Exciting Magnetic Game for Family Game Night, Great Fun Games for Kids, Includes 1 Rope, 20 Magnet"
 verdict_score: 4.6
 date: 2026-06-17
-price: 17.97
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTKR7JSK/?tag=tsvglyc-20"

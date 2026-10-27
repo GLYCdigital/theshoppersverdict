@@ -7,7 +7,7 @@ slug: "amazon-basics-amzhff-paper-letter-hanging-file-file-folder-b0d6vn-review"
 image_alt: "Amazon Basics letter-size hanging file folders with metal frame rods and reinforced tabs"
 verdict_score: 4.6
 date: 2026-08-06
-price: 26.39
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D6VNJ478/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "plusgutter-11-5ft-long-gutter-downspout-extensions-flexible-drain-downspo
 image_alt: "plusgutter 11.5ft Long Gutter Downspout Extensions Flexible, Drain Downspout Extender, Down Spout Drain Extender, Gutter"
 verdict_score: 4.6
 date: 2026-06-17
-price: 25.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F37BHL9R/?tag=tsvglyc-20"

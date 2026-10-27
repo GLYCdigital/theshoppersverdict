@@ -7,7 +7,7 @@ slug: "chefman-2-qt-mini-air-fryer-b0cvnkdqr-review"
 image_alt: "CHEFMAN 2 Qt Mini Air Fryer"
 verdict_score: 4.4
 date: 2026-07-09
-price: 49.99
+price: null
 review_count: 29179
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CVNK5DQR/?tag=tsvglyc-20"

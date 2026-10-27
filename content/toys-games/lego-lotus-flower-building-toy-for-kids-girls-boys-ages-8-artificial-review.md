@@ -16,7 +16,7 @@ faq:
   - question: "Is the LEGO Lotus Flower - good for beginners?"
     answer: "Yes - many reviewers mention this as their first toy or game and were satisfied with the experience."
 date: 2026-07-09
-price: 37.01
+price: null
 review_count: 4082
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZT7H8CN/?tag=tsvglyc-20"

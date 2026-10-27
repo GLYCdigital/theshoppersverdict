@@ -7,7 +7,7 @@ slug: "mccafe-breakfast-blend-k-cup-pods-review"
 image_alt: "McCafe Breakfast Blend K-Cup pods in four 24-count boxes, light roast coffee for Keurig brewers"
 verdict_score: 4.8
 date: 2026-08-06
-price: 63.98
+price: null
 review_count: 7584
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08DBYHWT1/?tag=tsvglyc-20"

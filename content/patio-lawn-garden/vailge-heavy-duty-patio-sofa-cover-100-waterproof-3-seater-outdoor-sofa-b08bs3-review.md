@@ -7,7 +7,7 @@ slug: "vailge-heavy-duty-patio-sofa-cover-100-waterproof-3-seater-outdoor-sofa-b
 image_alt: "Vailge Heavy Duty Patio Sofa Cover, 100% Waterproof 3-Seater Outdoor Sofa Cover,Lawn Patio Furniture Covers with Air Ven"
 verdict_score: 4.6
 date: 2026-06-17
-price: 37.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08BS34ZGD/?tag=tsvglyc-20"

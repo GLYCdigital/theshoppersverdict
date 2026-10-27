@@ -7,7 +7,7 @@ slug: "colourpop-lippie-lip-pencil-vault-high-pigment-long-lasting-sharpenable-l
 image_alt: "ColourPop Lippie Lip Pencil Vault with 24 shade lip liners arranged in rainbow color order"
 verdict_score: 4.6
 date: 2026-08-06
-price: 29.0
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F72BT5XT/?tag=tsvglyc-20"

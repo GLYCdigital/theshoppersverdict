@@ -19,7 +19,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the tool or home improvement product category."
 date: 2026-08-05
 last_verified: 2026-08-05
-price: 27.64
+price: null
 review_count: 4231
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CKV2BNZL/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "losha-lashes-fluffy-false-eyelashes-14-pairs-vegan-eye-lashes-kit-wispy-b
 image_alt: "Losha Lashes Fluffy False Eyelashes 14 Pairs Vegan Eye Lashes Kit Wispy Fake Eyelashes Soft Faux Mink Lashes Pack"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.58
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DZH5XPDV/?tag=tsvglyc-20"

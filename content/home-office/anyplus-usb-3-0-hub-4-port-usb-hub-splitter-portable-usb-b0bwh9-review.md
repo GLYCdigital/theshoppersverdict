@@ -7,7 +7,7 @@ slug: "anyplus-usb-3-0-hub-4-port-usb-hub-splitter-portable-usb-b0bwh9-review"
 image_alt: "ANYPLUS USB 3.0 4-port hub with compact aluminum body and attached cable on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 9.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BWH9DZRV/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "yrtsh-leather-gardening-gloves-for-women-flexible-breathable-spandex-thor
 image_alt: "YRTSH Leather Gardening Gloves for Women Flexible Breathable Spandex,Thorn Proof Garden Gloves for Yard Gardening Gift"
 verdict_score: 4.6
 date: 2026-06-17
-price: 15.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BXCXG6S2/?tag=tsvglyc-20"

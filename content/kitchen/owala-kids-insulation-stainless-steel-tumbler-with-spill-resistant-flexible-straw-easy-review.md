@@ -19,7 +19,7 @@ faq:
     answer: "Yes - several reviewers bought this as a gift and the recipients were pleased."
 date: 2026-08-05
 last_verified: 2026-08-05
-price: 22.68
+price: null
 review_count: 6855
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CR5HLCVQ/?tag=tsvglyc-20"

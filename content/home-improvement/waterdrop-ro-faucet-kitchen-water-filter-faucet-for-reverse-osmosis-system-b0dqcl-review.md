@@ -7,7 +7,7 @@ slug: "waterdrop-ro-faucet-kitchen-water-filter-faucet-for-reverse-osmosis-syste
 image_alt: "Waterdrop RO Faucet Kitchen Water Filter Faucet for Reverse Osmosis System"
 verdict_score: 4.6
 date: 2026-06-17
-price: 37.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DQCL2KZ1/?tag=tsvglyc-20"

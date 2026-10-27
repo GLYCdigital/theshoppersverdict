@@ -7,7 +7,7 @@ slug: "replacement-lid-for-pyrex-9x13-casserole-glass-baking-dish-container-b0g4
 image_alt: "Replacement Lid for Pyrex 9x13 Casserole Glass Baking Dish Container"
 verdict_score: 4.2
 date: 2026-06-17
-price: 11.95
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G4SPVDNF/?tag=tsvglyc-20"

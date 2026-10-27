@@ -7,7 +7,7 @@ slug: "forlim-electric-salt-and-pepper-grinder-set-rechargeable-with-led-light-a
 image_alt: "FORLIM Electric Salt and Pepper Grinder Set Rechargeable with LED Light, Adjustable Coarseness Automatic Salt Pepper Mil"
 verdict_score: 4.6
 date: 2026-06-17
-price: 20.69
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0F7L5182G/?tag=tsvglyc-20"

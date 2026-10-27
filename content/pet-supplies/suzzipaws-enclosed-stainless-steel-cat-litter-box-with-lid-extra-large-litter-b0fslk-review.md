@@ -7,7 +7,7 @@ slug: "suzzipaws-enclosed-stainless-steel-cat-litter-box-with-lid-extra-large-li
 image_alt: "Suzzipaws Enclosed Stainless Steel Cat Litter Box with Lid Extra Large Litter Box for Big Cats"
 verdict_score: 4.6
 date: 2026-06-17
-price: 79.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FSLK8182/?tag=tsvglyc-20"

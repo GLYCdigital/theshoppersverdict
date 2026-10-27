@@ -19,7 +19,7 @@ faq:
   - question: "Does the K155 require a direct water line?"
     answer: "No. The K155 operates with a removable 90 oz reservoir. It does not need a direct water hookup, giving you flexibility in where you place it."
 date: 2026-07-11
-price: 355.00
+price: null
 review_count: 4977
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"

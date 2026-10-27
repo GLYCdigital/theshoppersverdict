@@ -7,7 +7,7 @@ slug: "wooden-dollhouse-b0d45m-review"
 image_alt: "Wooden Dollhouse"
 verdict_score: 4.2
 date: 2026-06-17
-price: 129.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D45MC1QQ/?tag=tsvglyc-20"

@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Arrow Fastener T50 Heavy?"
     answer: "If the features match what you are looking for, yes. With 6+ reviews averaging strongly, it is a reliable choice in the tool or home improvement product category."
 date: 2026-07-11
-price: 20
+price: null
 review_count: 4846
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00002ND61/?tag=tsvglyc-20"

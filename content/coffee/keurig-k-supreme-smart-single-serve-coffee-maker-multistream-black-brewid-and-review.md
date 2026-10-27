@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the Keurig K Supreme Smart?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-24
-price: 130.99
+price: null
 review_count: 2012
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B0B5W1YJN1/?tag=tsvglyc-20"

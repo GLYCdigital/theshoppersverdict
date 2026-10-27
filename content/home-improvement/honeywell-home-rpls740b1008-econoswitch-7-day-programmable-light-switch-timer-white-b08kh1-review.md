@@ -7,7 +7,7 @@ slug: "honeywell-home-rpls740b1008-econoswitch-7-day-programmable-light-switch-t
 image_alt: "Honeywell Home RPLS740B1008 Econoswitch 7-Day Programmable Light Switch Timer, White"
 verdict_score: 4.6
 date: 2026-06-17
-price: 48.33
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08KH12FRT/?tag=tsvglyc-20"

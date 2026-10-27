@@ -7,7 +7,7 @@ slug: "lepro-small-desk-lamp-with-clamp-review"
 image_alt: "Lepro white clamp desk lamp with gooseneck arm, USB cable, and LED light head on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 16.14
+price: null
 review_count: 9694
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09XF3HRGW/?tag=tsvglyc-20"

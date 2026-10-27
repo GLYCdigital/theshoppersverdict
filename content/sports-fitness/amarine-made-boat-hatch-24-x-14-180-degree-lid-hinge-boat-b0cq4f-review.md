@@ -7,7 +7,7 @@ slug: "amarine-made-boat-hatch-24-x-14-180-degree-lid-hinge-boat-b0cq4f-review"
 image_alt: "Amarine Made 24 inch by 14 inch white boat deck hatch with 180 degree lid hinge and gasket seal"
 verdict_score: 4.6
 date: 2026-08-06
-price: 51.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQ4FMJKC/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "ergotron-lx-monitor-arm-review"
 image_alt: "Ergotron LX Single Monitor Desk Mount holding a widescreen display on a wooden desk with cable management visible"
 verdict_score: 4.6
 date: 2026-08-06
-price: 195.99
+price: null
 review_count: 2374
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01FW15TV6/?tag=tsvglyc-20"

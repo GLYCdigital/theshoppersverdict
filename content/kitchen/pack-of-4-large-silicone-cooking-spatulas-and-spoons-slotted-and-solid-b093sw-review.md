@@ -7,7 +7,7 @@ slug: "pack-of-4-large-silicone-cooking-spatulas-and-spoons-slotted-and-solid-b0
 image_alt: "Pack of 4 Large Silicone Cooking Spatulas and Spoons, Slotted and Solid Stainless Steel Cooking Utensils Set, Non-stick "
 verdict_score: 4.6
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B093SWQ877/?tag=tsvglyc-20"

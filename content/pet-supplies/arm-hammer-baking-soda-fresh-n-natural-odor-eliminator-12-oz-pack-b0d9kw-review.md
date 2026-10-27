@@ -7,7 +7,7 @@ slug: "arm-hammer-baking-soda-fresh-n-natural-odor-eliminator-12-oz-pack-b0d9kw-
 image_alt: "Arm & Hammer Baking Soda Fresh-n-Natural Odor Eliminator 12 oz shaker bottle for pet odors"
 verdict_score: 4.6
 date: 2026-08-06
-price: 11.85
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0D9KW4J4W/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "yiabivo-solar-powered-bird-bath-with-fountains-for-hummingbirds-stable-st
 image_alt: "Yiabivo Solar Powered Bird Bath with Fountains for Hummingbirds,Stable Stylish Design with 5-Prong Base Stake Plastic Bi"
 verdict_score: 3.7
 date: 2026-06-17
-price: 36.99
+price: null
 review_count: 175
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B0CZJG2SQG/?tag=tsvglyc-20"

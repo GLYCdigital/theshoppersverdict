@@ -7,7 +7,7 @@ slug: "basytodio-mini-magnetic-drawing-board-party-favors-bulk-for-kids-4-8-b0fv
 image_alt: "Basytodio Mini Magnetic Drawing Board party favors bulk pack for kids ages 4-8"
 verdict_score: 4.6
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FVLW2ZH3/?tag=tsvglyc-20"

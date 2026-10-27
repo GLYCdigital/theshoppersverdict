@@ -7,7 +7,7 @@ slug: "nespresso-vertuo-pop-deluxe-espresso-machine-review"
 image_alt: "Nespresso Vertuo Pop+ Deluxe coffee and espresso machine in a compact colorful design with capsule inserted"
 verdict_score: 4.0
 date: 2026-08-06
-price: 151.00
+price: null
 review_count: 2
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CKHC8JCW/?tag=tsvglyc-20"

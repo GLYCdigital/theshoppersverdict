@@ -7,7 +7,7 @@ slug: "masthome-cookie-jar-1-gallon-glass-jar-with-lid-wide-mouth-glass-b0g5mf-r
 image_alt: "Masthome Cookie Jar, 1 Gallon Glass Jar with Lid, Wide Mouth Glass Jars with Lid for Flour Candy Cookie Coffee Bean"
 verdict_score: 4.6
 date: 2026-06-17
-price: 46.26
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G5MFQ615/?tag=tsvglyc-20"

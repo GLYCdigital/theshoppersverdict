@@ -19,7 +19,7 @@ faq:
   - question: "Does the MultiServe Plus work with coffee pods?"
     answer: "No — the MultiServe Plus is a pod-free design. It uses ground coffee only, which is more sustainable and cost-effective than pod-based systems."
 date: 2026-07-25
-price: 149.95
+price: null
 review_count: 745
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0CTKX82FG/?tag=tsvglyc-20"

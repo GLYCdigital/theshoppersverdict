@@ -19,7 +19,7 @@ faq:
   - question: "Does the 50lb bag cover a large area?"
     answer: "Yes. A 50lb bag of Kentucky 31 covers approximately 10,000-15,000 square feet for new seeding, or 5,000-7,500 square feet for overseeding, depending on your spread rate."
 date: 2026-07-11
-price: 53.06
+price: null
 review_count: 179
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B001PCUTB2/?tag=tsvglyc-20"

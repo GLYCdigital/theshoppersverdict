@@ -7,7 +7,7 @@ slug: "100-pcs-26-bit-proximity-cr80-cards-weigand-prox-blank-printable-swipe-b0
 image_alt: "Stack of blank white 26-bit proximity CR80 cards with Weigand format, printable surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 72.35
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01FZM5ZWK/?tag=tsvglyc-20"

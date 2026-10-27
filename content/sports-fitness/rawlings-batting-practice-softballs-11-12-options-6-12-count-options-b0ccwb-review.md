@@ -7,7 +7,7 @@ slug: "rawlings-batting-practice-softballs-11-12-options-6-12-count-options-b0cc
 image_alt: "Rawlings | Batting Practice Softballs | 11 & 12 Options | 6 & 12 Count Options"
 verdict_score: 4.6
 date: 2026-06-17
-price: 79.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CCWB3TLP/?tag=tsvglyc-20"

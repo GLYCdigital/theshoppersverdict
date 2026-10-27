@@ -19,7 +19,7 @@ faq:
   - question: "Is the Amazon Gift Card Balance Reload a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a beauty or skincare product, this is a safe choice."
 date: 2026-06-24
-price: 288.87
+price: null
 review_count: 547591
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CHTVMXZJ/?tag=tsvglyc-20"

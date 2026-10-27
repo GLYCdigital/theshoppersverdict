@@ -7,7 +7,7 @@ slug: "sony-mdr-zx110-wired-headphones-review"
 image_alt: "Sony MDR-ZX110 black on-ear wired headphones folded flat showing swiveling ear cups"
 verdict_score: 4.4
 date: 2026-08-06
-price: 14.88
+price: null
 review_count: 96105
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20"

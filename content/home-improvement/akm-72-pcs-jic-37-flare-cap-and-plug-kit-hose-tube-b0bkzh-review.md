@@ -7,7 +7,7 @@ slug: "akm-72-pcs-jic-37-flare-cap-and-plug-kit-hose-tube-b0bkzh-review"
 image_alt: "AKM 72 piece JIC 37 degree flare cap and plug kit with assorted sizes on display"
 verdict_score: 4.6
 date: 2026-08-06
-price: 56.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BKZHH563/?tag=tsvglyc-20"

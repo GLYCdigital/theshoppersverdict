@@ -7,7 +7,7 @@ slug: "teenage-mutant-ninja-turtles-classic-mutant-4-pack-bundle-by-playmates-to
 image_alt: "Teenage Mutant Ninja Turtles Classic Mutant 4-Pack Bundle by Playmates Toys"
 verdict_score: 4.6
 date: 2026-06-17
-price: 86.33
+price: null
 review_count: 245
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0DJG4M3ML/?tag=tsvglyc-20"

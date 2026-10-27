@@ -7,7 +7,7 @@ slug: "dalstrong-pizza-wheel-b0djpx-review"
 image_alt: "Dalstrong Pizza Wheel cutting through a crispy pizza crust on a wooden cutting board"
 verdict_score: 4.6
 date: 2026-08-06
-price: 99.0
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJPX7GFW/?tag=tsvglyc-20"

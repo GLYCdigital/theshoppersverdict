@@ -7,7 +7,7 @@ slug: "petsafe-scoopfree-automatic-cat-litter-box-waste-bin-liners-drawstring-li
 image_alt: "PetSafe ScoopFree Automatic Cat Litter Box Waste Bin Liners â€“ Drawstring Litter Box Liner for ScoopFree Self Cleaning "
 verdict_score: 4.2
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FD93NWR1/?tag=tsvglyc-20"

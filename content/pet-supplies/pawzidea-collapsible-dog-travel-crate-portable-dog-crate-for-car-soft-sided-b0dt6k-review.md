@@ -7,7 +7,7 @@ slug: "pawzidea-collapsible-dog-travel-crate-portable-dog-crate-for-car-soft-sid
 image_alt: "PAWZIDEA Collapsible Dog Travel Crate, Portable Dog Crate for Car, Soft-Sided Kennel for Medium and Large Dogs, Pop-Up M"
 verdict_score: 4.6
 date: 2026-06-17
-price: 149.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DT6KG6G9/?tag=tsvglyc-20"

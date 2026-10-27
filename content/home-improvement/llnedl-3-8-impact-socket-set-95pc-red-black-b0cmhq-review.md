@@ -7,7 +7,7 @@ slug: "llnedl-3-8-impact-socket-set-95pc-red-black-b0cmhq-review"
 image_alt: "LLNEDL 3/8 Impact Socket Set 95pc Red & Black"
 verdict_score: 4.6
 date: 2026-06-17
-price: 57.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CMHQDYB7/?tag=tsvglyc-20"

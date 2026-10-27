@@ -7,7 +7,7 @@ slug: "fuji-2804-t75g-mini-mite-4-platinum-t75g-gravity-hvlp-spray-system-b0943k
 image_alt: "Fuji 2804-T75G Mini-Mite 4 PLATINUM gravity HVLP spray system with T75G spray gun and turbine unit"
 verdict_score: 4.6
 date: 2026-08-06
-price: 1049.0
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0943KPTTX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "lefei-monster-truck-for-boys-3-4-5-6-7-year-old-b0czlh-review"
 image_alt: "LEFEI Monster Truck for Boys 3 4 5 6 7 Year Old,4 Pack Push and Go Friction Powered Car Toys, Double-Directions Inertia "
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.03
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CZLHJCDV/?tag=tsvglyc-20"

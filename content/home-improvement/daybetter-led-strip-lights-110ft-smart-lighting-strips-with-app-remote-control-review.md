@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the DAYBETTER LED Strip Lights?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the tool or home improvement product category."
 date: 2026-07-24
-price: 9.99
+price: null
 review_count: 35541
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DN1K2RLD/?tag=tsvglyc-20"

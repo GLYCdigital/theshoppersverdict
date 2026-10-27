@@ -7,7 +7,7 @@ slug: "breville-barista-pro-espresso-machine-bes878-review"
 image_alt: "Breville Barista Pro espresso machine in brushed stainless steel with integrated grinder and steam wand"
 verdict_score: 4.3
 date: 2026-08-06
-price: 849.95
+price: null
 review_count: 3357
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08133HX34/?tag=tsvglyc-20"

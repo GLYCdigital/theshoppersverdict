@@ -7,7 +7,7 @@ slug: "walensee-lawn-leveling-rake-levelawn-tool-heavy-duty-effort-saving-lawn-l
 image_alt: "Walensee Lawn Leveling Rake, Levelawn Tool, Heavy Duty Effort Saving Lawn Level Tool, Steel Handle Lawn Leveler for Yard"
 verdict_score: 4.2
 date: 2026-06-17
-price: 32.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVS6JVFF/?tag=tsvglyc-20"

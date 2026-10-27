@@ -7,7 +7,7 @@ slug: "new-cutting-board-by-ototo-wooden-plastic-cutting-boards-for-kitchen-fun-
 image_alt: "NEW!! Cutting Board by OTOTO â€“ Wooden & Plastic Cutting Boards for Kitchen, Fun & Spooky Kitchen Gadgets, Housewarming"
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.95
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CJV63B7H/?tag=tsvglyc-20"

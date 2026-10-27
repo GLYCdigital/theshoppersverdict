@@ -17,7 +17,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the outdoor or garden product category."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: 94.99
+price: null
 review_count: 1876
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BC3BMVKS/?tag=tsvglyc-20"

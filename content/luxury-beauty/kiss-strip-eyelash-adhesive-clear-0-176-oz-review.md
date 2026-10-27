@@ -19,7 +19,7 @@ faq:
   - question: "How long does KISS eyelash glue last?"
     answer: "The adhesive provides all-day hold, with many users reporting lashes stay in place for 10-12 hours without lifting. It removes easily with makeup remover without damaging natural lashes."
 date: 2026-07-31
-price: 12.65
+price: null
 review_count: 131821
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B01BMMOAFU/?tag=tsvglyc-20"

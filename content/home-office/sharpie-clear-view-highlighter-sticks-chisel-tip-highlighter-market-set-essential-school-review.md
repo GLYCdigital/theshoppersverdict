@@ -19,7 +19,7 @@ faq:
   - question: "Is the Sharpie Clear View Highlighter Sticks durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-08
-price: 10.60
+price: null
 review_count: 16096
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B019QROV9S/?tag=tsvglyc-20"

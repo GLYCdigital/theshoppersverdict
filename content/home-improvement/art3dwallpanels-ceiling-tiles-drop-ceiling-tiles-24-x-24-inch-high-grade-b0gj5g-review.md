@@ -7,7 +7,7 @@ slug: "art3dwallpanels-ceiling-tiles-drop-ceiling-tiles-24-x-24-inch-high-grade-
 image_alt: "Art3dwallpanels 24x24 inch drop ceiling tiles with textured white finish"
 verdict_score: 4.2
 date: 2026-08-06
-price: 49.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GJ5GG5JZ/?tag=tsvglyc-20"

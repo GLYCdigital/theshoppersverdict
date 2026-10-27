@@ -19,7 +19,7 @@ faq:
   - question: "How long does STAR BRITE teak oil last on outdoor surfaces?"
     answer: "Under normal outdoor conditions, expect 3-6 months of protection depending on sun exposure and weather. Marine environments with heavy rain or direct sun may require more frequent reapplication."
 date: 2026-07-11
-price: 90.82
+price: null
 review_count: 818
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B011KK8VZ4/?tag=tsvglyc-20"

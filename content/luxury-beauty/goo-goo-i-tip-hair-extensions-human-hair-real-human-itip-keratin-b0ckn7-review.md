@@ -7,7 +7,7 @@ slug: "goo-goo-i-tip-hair-extensions-human-hair-real-human-itip-keratin-b0ckn7-r
 image_alt: "GOO GOO I Tip Hair Extensions Human Hair, Real Human Itip Keratin Hair Extensions Pre Bonded"
 verdict_score: 4.2
 date: 2026-06-17
-price: 46.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CKN7D525/?tag=tsvglyc-20"

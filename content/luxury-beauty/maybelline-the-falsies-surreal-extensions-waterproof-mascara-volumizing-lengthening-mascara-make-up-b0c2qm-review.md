@@ -7,7 +7,7 @@ slug: "maybelline-the-falsies-surreal-extensions-waterproof-mascara-volumizing-l
 image_alt: "Maybelline The Falsies Surreal Extensions Waterproof Mascara, Volumizing, Lengthening Mascara Make Up, Very Black, 1 Cou"
 verdict_score: 4.2
 date: 2026-06-17
-price: 10.98
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0C2QMG3K7/?tag=tsvglyc-20"

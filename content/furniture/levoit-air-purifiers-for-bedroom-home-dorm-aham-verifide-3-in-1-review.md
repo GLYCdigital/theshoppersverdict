@@ -16,7 +16,7 @@ faq:
   - question: "Is the LEVOIT Air Purifiers for Bedroom durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-02
-price: 22.04
+price: null
 review_count: 44114
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09GTRVJQM/?tag=tsvglyc-20"

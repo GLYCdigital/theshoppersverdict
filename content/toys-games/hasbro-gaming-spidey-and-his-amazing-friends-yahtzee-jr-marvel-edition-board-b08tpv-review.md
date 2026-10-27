@@ -7,7 +7,7 @@ slug: "hasbro-gaming-spidey-and-his-amazing-friends-yahtzee-jr-marvel-edition-bo
 image_alt: "Hasbro Spidey and His Amazing Friends Yahtzee Jr. Marvel edition box with Spider-Man dice and scoring pad"
 verdict_score: 4.6
 date: 2026-08-06
-price: 14.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08TPVQQMN/?tag=tsvglyc-20"

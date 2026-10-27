@@ -7,7 +7,7 @@ slug: "professional-large-micro-cookware-3-quart-microwave-rice-cooker-microwave
 image_alt: "Professional Large Micro Cookware 3 Quart, Microwave Rice Cooker, Microwave Steamer for Vegetables, Safe as Mixing and S"
 verdict_score: 4.6
 date: 2026-06-17
-price: 28.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DBLCG8V3/?tag=tsvglyc-20"

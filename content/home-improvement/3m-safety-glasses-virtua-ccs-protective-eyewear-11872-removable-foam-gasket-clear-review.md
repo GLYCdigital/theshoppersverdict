@@ -7,7 +7,7 @@ slug: "3m-safety-glasses-virtua-ccs-protective-eyewear-11872-removable-foam-gask
 image_alt: "3M Virtua CCS safety glasses with clear anti-fog lenses and removable foam gasket"
 verdict_score: 4.2
 date: 2026-08-06
-price: 22.37
+price: null
 review_count: 24995
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00AEXKR4C/?tag=tsvglyc-20"

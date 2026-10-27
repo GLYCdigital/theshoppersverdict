@@ -19,7 +19,7 @@ faq:
   - question: "Are ZeroWater filters NSF certified?"
     answer: "Yes. They are NSF certified to reduce Lead and other heavy metals, and the 5-stage system targets chlorine-resistant cysts and trace pharmaceuticals."
 date: 2026-07-15
-price: 72.11
+price: null
 review_count: 22628
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00C7N7L1E/?tag=tsvglyc-20"

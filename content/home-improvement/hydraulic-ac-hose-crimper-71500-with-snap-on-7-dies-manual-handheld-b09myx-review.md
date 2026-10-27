@@ -7,7 +7,7 @@ slug: "hydraulic-ac-hose-crimper-71500-with-snap-on-7-dies-manual-handheld-b09my
 image_alt: "Hydraulic AC Hose Crimper 71500 with Snap-On 7 Dies, Manual Handheld A/C Hose Crimper Kit for AC Hose, Auto A/C Line Air"
 verdict_score: 4.6
 date: 2026-06-17
-price: 112.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09MYX3QLG/?tag=tsvglyc-20"

@@ -14,7 +14,7 @@ faq:
   - question: "Should I buy the FRIZCOL 3-in-1 Camping Fan?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the sports or fitness item category."
 date: 2026-07-24
-price: 28.47
+price: null
 review_count: 2916
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BVTHPXLB/?tag=tsvglyc-20"

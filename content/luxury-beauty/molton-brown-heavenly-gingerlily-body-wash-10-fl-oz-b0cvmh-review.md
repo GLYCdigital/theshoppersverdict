@@ -7,7 +7,7 @@ slug: "molton-brown-heavenly-gingerlily-body-wash-10-fl-oz-b0cvmh-review"
 image_alt: "Molton Brown Heavenly Gingerlily Body Wash 10 fl. oz."
 verdict_score: 4.6
 date: 2026-06-17
-price: 36.0
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CVMHFCS7/?tag=tsvglyc-20"

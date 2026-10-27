@@ -7,7 +7,7 @@ slug: "namtso-glow-in-the-dark-rocks-outdoor-solar-rocks-for-landscaping-outdoor
 image_alt: "NAMTSO Glow in The Dark Rocks Outdoor, Solar Rocks for Landscaping, Outdoor Decor Glow in The Dark Stones, Glowing Pebbl"
 verdict_score: 3.7
 date: 2026-06-17
-price: 12.99
+price: null
 review_count: 180
 amazon_rating: 3.6
 amazon_url: "https://www.amazon.com/dp/B0GN955RKK/?tag=tsvglyc-20"

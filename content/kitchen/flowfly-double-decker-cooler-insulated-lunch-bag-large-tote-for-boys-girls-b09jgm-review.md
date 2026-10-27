@@ -7,7 +7,7 @@ slug: "flowfly-double-decker-cooler-insulated-lunch-bag-large-tote-for-boys-girl
 image_alt: "FlowFly Double Decker Cooler insulated lunch bag large tote in teal with dual zippered compartments"
 verdict_score: 4.6
 date: 2026-08-06
-price: 18.59
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09JGM81P6/?tag=tsvglyc-20"

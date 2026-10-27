@@ -7,7 +7,7 @@ slug: "sam-villa-lightweight-quiet-ionic-professional-hair-dryer-with-variable-s
 image_alt: "Sam Villa Lightweight & Quiet Ionic Professional Hair Dryer With Variable Speed & Temperature"
 verdict_score: 4.6
 date: 2026-06-17
-price: 225.0
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09RTTN8R7/?tag=tsvglyc-20"

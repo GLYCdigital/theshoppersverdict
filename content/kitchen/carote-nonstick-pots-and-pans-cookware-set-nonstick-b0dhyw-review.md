@@ -7,7 +7,7 @@ slug: "carote-nonstick-pots-and-pans-cookware-set-nonstick-b0dhyw-review"
 image_alt: "CAROTE 10-piece nonstick granite cookware set with pots, pans, and lids arranged on a kitchen countertop"
 verdict_score: 4.2
 date: 2026-08-06
-price: 69.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DHYWWPSL/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "iuzeai-golf-practice-net-heavy-duty-nylon-netting-10x10ft-10x15ft-10x20ft
 image_alt: "IUZEAI Golf Practice Net - Heavy Duty Nylon Netting, 10x10ft/10x15ft/10x20ft"
 verdict_score: 4.2
 date: 2026-06-17
-price: 29.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0D667JZ2J/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "simple-mills-almond-flour-crackers-snack-packs-healthy-snacks-for-kids-ch
 image_alt: "Simple Mills Almond Flour Crackers Snack Packs, Healthy Snacks for Kids, Cheese Crackers, Gluten Free"
 verdict_score: 4.6
 date: 2026-06-17
-price: 5.86
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GFVDJYPG/?tag=tsvglyc-20"

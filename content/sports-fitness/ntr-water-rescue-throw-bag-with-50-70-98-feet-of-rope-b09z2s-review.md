@@ -7,7 +7,7 @@ slug: "ntr-water-rescue-throw-bag-with-50-70-98-feet-of-rope-b09z2s-review"
 image_alt: "NTR Water Rescue Throw Bag with 50/70/98 Feet of Rope in 3/10 Inch Tensile Strength Rated to 1844lbs, Throwable Device f"
 verdict_score: 4.6
 date: 2026-06-17
-price: 21.57
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09Z2SNTS4/?tag=tsvglyc-20"

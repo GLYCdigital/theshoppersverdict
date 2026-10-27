@@ -19,7 +19,7 @@ faq:
   - question: "Does Laird Focus Coffee actually help with focus and energy?"
     answer: "Most reviewers report a clean, jitter-free energy boost. One buyer said 'I'm awake, but not jittery,' while another reported better afternoon energy and easier sleep at night."
 date: 2026-08-02
-price: 25.0
+price: null
 review_count: 336
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08TTHJTLL/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "vallisco-carpet-tile-30-pack-12-b0gh7j-review"
 image_alt: "VallisCo Carpet Tile 30 Pack 12â€"
 verdict_score: 4.2
 date: 2026-06-17
-price: 31.27
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0GH7JY5ZN/?tag=tsvglyc-20"

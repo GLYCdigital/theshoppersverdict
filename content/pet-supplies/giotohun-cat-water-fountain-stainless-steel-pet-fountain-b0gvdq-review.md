@@ -7,7 +7,7 @@ slug: "giotohun-cat-water-fountain-stainless-steel-pet-fountain-b0gvdq-review"
 image_alt: "GIOTOHUN stainless steel cat water fountain with white plastic top and water stream visible"
 verdict_score: 4.2
 date: 2026-08-06
-price: 24.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GVDQ8X66/?tag=tsvglyc-20"

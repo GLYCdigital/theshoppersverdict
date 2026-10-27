@@ -7,7 +7,7 @@ slug: "kitchen-faucet-with-pull-down-sprayer-single-level-stainless-steel-kitche
 image_alt: "Kitchen Faucet with Pull Down Sprayer, Single Level Stainless Steel Kitchen Sink Faucets, Single Handle High Arc Brushed"
 verdict_score: 4.2
 date: 2026-06-17
-price: 35.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09GXXNRKD/?tag=tsvglyc-20"

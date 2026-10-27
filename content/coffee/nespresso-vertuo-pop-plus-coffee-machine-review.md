@@ -7,7 +7,7 @@ slug: "nespresso-vertuo-pop-plus-coffee-machine-review"
 image_alt: "Nespresso Vertuo Pop+ Deluxe coffee machine in pastel color with coffee cup underneath"
 verdict_score: 4.3
 date: 2026-08-06
-price: 94.00
+price: null
 review_count: 1256
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DVD67F76/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "simply-charmed-pug-ceramic-pour-over-review"
 image_alt: "Simply Charmed pug-shaped ceramic pour over coffee dripper sitting on a mug, ready for brewing"
 verdict_score: 4.6
 date: 2026-08-06
-price: 21.95
+price: null
 review_count: 1985
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07PC2T9KZ/?tag=tsvglyc-20"

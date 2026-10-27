@@ -7,7 +7,7 @@ slug: "purina-fancy-feast-grilled-wet-cat-food-seafood-collection-review"
 image_alt: "Purina Fancy Feast Grilled Wet Cat Food Seafood Collection Variety Pack"
 verdict_score: 4.6
 date: 2026-07-09
-price: 11.43
+price: null
 review_count: 47059
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20"

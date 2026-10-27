@@ -7,7 +7,7 @@ slug: "ridgid-23498-model-rc-1625-aluminum-ratchet-action-1-8-to-1-b0bjql-review
 image_alt: "RIDGID 23498 Model RC-1625 Aluminum Ratchet Action 1/8 to 1-5/8 Plastic Pipe And Tubing Cutter, Silver"
 verdict_score: 4.6
 date: 2026-06-17
-price: 97.17
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BJQLD6QK/?tag=tsvglyc-20"

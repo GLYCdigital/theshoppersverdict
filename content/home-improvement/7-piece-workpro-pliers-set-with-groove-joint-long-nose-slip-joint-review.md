@@ -18,7 +18,7 @@ faq:
   - question: "Is the 7-piece WORKPRO Pliers Set with a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a tool or home improvement product, this is a safe choice."
 date: 2026-06-25
-price: 45.10
+price: null
 review_count: 18147
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0105SSMRO/?tag=tsvglyc-20"

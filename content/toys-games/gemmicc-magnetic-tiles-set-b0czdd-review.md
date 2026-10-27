@@ -7,7 +7,7 @@ slug: "gemmicc-magnetic-tiles-set-b0czdd-review"
 image_alt: "Gemmicc Magnetic Tiles Set colorful plastic geometric shapes arranged in a 3D castle structure"
 verdict_score: 4.6
 date: 2026-08-06
-price: 12.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CZDDYH7B/?tag=tsvglyc-20"

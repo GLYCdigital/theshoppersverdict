@@ -7,7 +7,7 @@ slug: "18-pack-replacement-parts-accessories-compatible-for-irobot-roomba-i3-i3-
 image_alt: "18-pack iRobot Roomba replacement parts kit with filters, side brushes, and roller brushes"
 verdict_score: 4.6
 date: 2026-08-06
-price: 19.49
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DWLWDQJK/?tag=tsvglyc-20"

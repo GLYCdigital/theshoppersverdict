@@ -7,7 +7,7 @@ slug: "oneluck-cat-cage-indoor-with-litter-box-diy-cat-playpen-detachable-metal-
 image_alt: "Oneluck Cat Cage Indoor with Litter Box DIY Cat Playpen Detachable Metal Wire Kennel Crate Large Exercise Place Ideal fo"
 verdict_score: 4.2
 date: 2026-06-17
-price: 99.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FPFVHMDH/?tag=tsvglyc-20"

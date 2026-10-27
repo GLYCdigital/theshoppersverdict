@@ -8,7 +8,7 @@ slug: "cnraqr-pc-racing-game-usb-handbrake-b0dp73-review"
 image_alt: "CNRAQR PC Racing Game USB Handbrake mounted on a sim racing rig with a black metal body and red lever grip"
 verdict_score: 4.2
 date: 2026-08-06
-price: 69.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DP73ZRGR/?tag=tsvglyc-20"

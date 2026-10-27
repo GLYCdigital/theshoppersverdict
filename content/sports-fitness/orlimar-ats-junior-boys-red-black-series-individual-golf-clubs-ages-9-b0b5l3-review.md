@@ -7,7 +7,7 @@ slug: "orlimar-ats-junior-boys-red-black-series-individual-golf-clubs-ages-9-b0b
 image_alt: "Orlimar ATS Junior Boys Red/Black Series Individual Golf Clubs (Ages 9-12)"
 verdict_score: 4.6
 date: 2026-06-17
-price: 35.3
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B5L3P4XP/?tag=tsvglyc-20"

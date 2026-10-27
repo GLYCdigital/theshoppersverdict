@@ -7,7 +7,7 @@ slug: "kata-20pc-hole-saw-set-and-6inch-hole-saw-b0cqqp-review"
 image_alt: "KATA 20PC Hole Saw Set and 6inch Hole Sawâ€¦"
 verdict_score: 4.2
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CQQPSVJ4/?tag=tsvglyc-20"

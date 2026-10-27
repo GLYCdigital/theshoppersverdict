@@ -7,7 +7,7 @@ slug: "case-for-surface-pro-7-6-5-4-b0cnlg-review"
 image_alt: "Surface Pro 7 6 5 4 protective case with textured back and kickstand cutout"
 verdict_score: 4.2
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0CNLGTL7Z/?tag=tsvglyc-20"

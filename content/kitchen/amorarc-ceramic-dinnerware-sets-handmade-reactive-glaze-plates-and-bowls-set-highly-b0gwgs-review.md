@@ -7,7 +7,7 @@ slug: "amorarc-ceramic-dinnerware-sets-handmade-reactive-glaze-plates-and-bowls-
 image_alt: "AmorArc handmade reactive glaze ceramic dinnerware set with plates and bowls in earthy speckled tones"
 verdict_score: 4.6
 date: 2026-08-06
-price: 79.95
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWGSNG2P/?tag=tsvglyc-20"

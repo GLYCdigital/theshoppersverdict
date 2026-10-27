@@ -7,7 +7,7 @@ slug: "american-crew-daily-moisturizing-conditioner-b0cjkv-review"
 image_alt: "AMERICAN CREW Daily Moisturizing Conditioner bottle with pump dispenser"
 verdict_score: 4.6
 date: 2026-08-06
-price: 9.95
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CJKVNVQ3/?tag=tsvglyc-20"

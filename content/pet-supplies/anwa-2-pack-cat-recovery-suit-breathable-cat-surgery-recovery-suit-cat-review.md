@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the ANWA 2 PACK Cat?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-08-02
-price: 35.46
+price: null
 review_count: 978
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BZ7RCXPT/?tag=tsvglyc-20"

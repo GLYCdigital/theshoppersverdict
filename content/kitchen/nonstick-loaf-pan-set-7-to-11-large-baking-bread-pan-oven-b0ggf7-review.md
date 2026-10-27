@@ -7,7 +7,7 @@ slug: "nonstick-loaf-pan-set-7-to-11-large-baking-bread-pan-oven-b0ggf7-review"
 image_alt: "Nonstick Loaf Pan Set, 7 to 11 Large Baking Bread Pan, Oven Safe Up to 450Â°F, PFOA, PFOS, PTFE Free, Space Saving Stack"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GGF7DK3Z/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "msi-gaming-rtx-5070-ti-16g-shadow-3x-oc-graphics-card-16gb-b0dzz6-review"
 image_alt: "msi Gaming RTX 5070 TI 16G Shadow 3X OC Graphics Card (16GB GDDR7, 256-bit, Extreme Performance: 2497 MHz, DisplayPort x"
 verdict_score: 4.6
 date: 2026-06-17
-price: 979.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DZZ63JXD/?tag=tsvglyc-20"

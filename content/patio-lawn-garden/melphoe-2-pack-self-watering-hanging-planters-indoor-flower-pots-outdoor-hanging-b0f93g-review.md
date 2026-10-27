@@ -7,7 +7,7 @@ slug: "melphoe-2-pack-self-watering-hanging-planters-indoor-flower-pots-outdoor-
 image_alt: "Melphoe 2 Pack Self Watering Hanging Planters Indoor Flower Pots, Outdoor Hanging Basket, Plant Hanger with 3Hooks Drain"
 verdict_score: 4.2
 date: 2026-06-17
-price: 15.98
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F93GVY1N/?tag=tsvglyc-20"

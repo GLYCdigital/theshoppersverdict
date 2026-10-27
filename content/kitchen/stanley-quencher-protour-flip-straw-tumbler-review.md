@@ -7,7 +7,7 @@ slug: "stanley-quencher-protour-flip-straw-tumbler-review"
 image_alt: "STANLEY Quencher ProTour Flip Straw Tumbler in 40oz size with flip straw lid and handle"
 verdict_score: 4.6
 date: 2026-08-06
-price: 45
+price: null
 review_count: 16902
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GPFTVFRY/?tag=tsvglyc-20"

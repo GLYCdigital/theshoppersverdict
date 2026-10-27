@@ -22,7 +22,7 @@ faq:
   - question: "Does the scale come with batteries?"
     answer: "Yes, batteries are included, though some reviewers report that the included batteries were cheap or dead on arrival. It uses a small flat lithium battery (CR2032 style)."
 date: 2026-07-18
-price: 6.98
+price: null
 review_count: 21051
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20"

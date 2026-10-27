@@ -7,7 +7,7 @@ slug: "mason-jars-8-oz-verones-canning-jars-jelly-jars-with-regular-lids-b0b5tw-
 image_alt: "Mason Jars 8 OZ, VERONES Canning Jars Jelly Jars With Regular Lids, Ideal for Jam, Honey, Wedding Favors, Shower Favors"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0B5TWLP4H/?tag=tsvglyc-20"

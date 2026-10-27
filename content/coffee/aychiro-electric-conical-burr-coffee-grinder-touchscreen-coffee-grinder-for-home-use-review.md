@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the AYCHIRO Electric Conical Burr?"
     answer: "If the features match what you are looking for, yes. With 5+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-05-26
-price: 79.99
+price: null
 review_count: 28
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GYJCYF4D/?tag=tsvglyc-20"

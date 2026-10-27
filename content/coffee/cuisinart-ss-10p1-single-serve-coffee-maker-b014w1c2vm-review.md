@@ -22,7 +22,7 @@ faq:
   - question: "Does the SS-10P1 have a rinse cycle?"
     answer: "Yes, the rinse feature is highly praised. Running a rinse cycle after a brew cleans the internal lines effectively — reviewers describe the resulting water as completely clear."
 date: 2026-07-18
-price: 121.99
+price: null
 review_count: 19328
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20"

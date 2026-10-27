@@ -19,7 +19,7 @@ faq:
   - question: "Is the EUHOMY espresso machine worth buying?"
     answer: "The EUHOMY offers impressive specs for its price — 20-bar pump, PID temperature control, 58mm portafilter, and a built-in grinder. However, buyer experiences are mixed. About half of reviewers report great results once dialed in, while some encountered quality control issues with inconsistent shot pulls and steam wand operation."
 date: 2026-07-31
-price: 336.85
+price: null
 review_count: 173
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FR4Y4D2H/?tag=tsvglyc-20"

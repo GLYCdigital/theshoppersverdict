@@ -7,7 +7,7 @@ slug: "hap-tim-insulated-lunchbox-b07r5h-review"
 image_alt: "Hap Tim Insulated lunchbox"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07R5HR9XB/?tag=tsvglyc-20"

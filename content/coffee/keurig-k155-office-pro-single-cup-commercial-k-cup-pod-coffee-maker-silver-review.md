@@ -7,7 +7,7 @@ slug: "keurig-k155-office-pro-single-cup-commercial-k-cup-pod-coffee-maker-silve
 image_alt: "Keurig K155 Office Pro commercial K-Cup coffee maker in brushed silver with large water reservoir and drip tray"
 verdict_score: 4.3
 date: 2026-08-06
-price: 355
+price: null
 review_count: 4977
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B00DWKEHU4/?tag=tsvglyc-20"

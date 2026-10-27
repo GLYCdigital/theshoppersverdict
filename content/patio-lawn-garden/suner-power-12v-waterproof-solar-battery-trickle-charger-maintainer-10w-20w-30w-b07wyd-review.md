@@ -7,7 +7,7 @@ slug: "suner-power-12v-waterproof-solar-battery-trickle-charger-maintainer-10w-2
 image_alt: "SUNER POWER 12V Waterproof Solar Battery Trickle Charger & Maintainer - 10W 20W 30W 50W Solar Panel Built-in Smart MPPT "
 verdict_score: 4.2
 date: 2026-06-17
-price: 59.95
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07WYDSQYK/?tag=tsvglyc-20"

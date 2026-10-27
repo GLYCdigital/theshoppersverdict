@@ -7,7 +7,7 @@ slug: "pellor-wood-tree-swing-seat-hanging-swing-seat-for-adult-kids-children-b0
 image_alt: "PELLOR Wood Tree Swing Seat Hanging Swing Seat for Adult Kids Children Swing Chair Indoor and Outdoor Garden Play"
 verdict_score: 4.2
 date: 2026-06-17
-price: 34.28
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DQ3JBMV3/?tag=tsvglyc-20"

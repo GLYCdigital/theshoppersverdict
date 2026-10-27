@@ -7,7 +7,7 @@ slug: "adjustable-air-vent-deflector-for-ac-ceiling-wall-floor-9-b0fy6x-review"
 image_alt: "Adjustable air vent deflector mounted on a ceiling AC vent, redirecting airflow downward"
 verdict_score: 4.2
 date: 2026-08-06
-price: 23.98
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FY6XP3MD/?tag=tsvglyc-20"

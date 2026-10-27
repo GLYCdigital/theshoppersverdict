@@ -22,7 +22,7 @@ faq:
   - question: "Can you use these for nail polish removal?"
     answer: "Yes. One owner reported being able to remove polish from all ten nails with just one cotton round, noting they absorb well without falling apart. This makes them last longer than traditional cotton balls for nail care."
 date: 2026-07-27
-price: 4.17
+price: null
 review_count: 51312
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09542G9ZN/?tag=tsvglyc-20"

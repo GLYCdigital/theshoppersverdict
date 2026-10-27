@@ -7,7 +7,7 @@ slug: "heavy-duty-clear-repair-tpae-patch-for-bounce-house-pool-floats-tent-b0c2
 image_alt: "Heavy Duty Clear Repair Tpae Patch for Bounce House, Pool Floats, Tent, Canopy, Tarp, Leather, Waterproof"
 verdict_score: 4.2
 date: 2026-06-17
-price: 12.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0C2HNQKYY/?tag=tsvglyc-20"

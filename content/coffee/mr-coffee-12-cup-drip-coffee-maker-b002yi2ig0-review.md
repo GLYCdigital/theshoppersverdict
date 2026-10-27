@@ -22,7 +22,7 @@ faq:
   - question: "How long does this coffee maker last?"
     answer: "Owners routinely report 5-10+ years of service. Several reviewers mention replacing 15-20 year old Mr. Coffee units that were still functional but showing their age."
 date: 2026-07-18
-price: 40.00
+price: null
 review_count: 44539
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20"

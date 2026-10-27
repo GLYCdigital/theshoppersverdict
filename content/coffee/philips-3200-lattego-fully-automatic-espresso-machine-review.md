@@ -19,7 +19,7 @@ faq:
   - question: "What coffee varieties can the 3200 make?"
     answer: "The Philips 3200 prepares five varieties: espresso, coffee, americano, cappuccino, and latte macchiato. The intuitive touch display lets you select and customize each one with a single tap."
 date: 2026-07-25
-price: 570.6
+price: null
 review_count: 6190
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B07VFY4MXM/?tag=tsvglyc-20"

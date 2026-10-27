@@ -7,7 +7,7 @@ slug: "peach-cat-banana-duck-plush-toy-cute-plushie-hugging-plush-pillow-duck-b0
 image_alt: "PEACH CAT Banana Duck Plush Toy Cute Plushie Hugging Plush Pillow Duck Stuffed Animal for Girls and Boys"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09YH3WP4L/?tag=tsvglyc-20"

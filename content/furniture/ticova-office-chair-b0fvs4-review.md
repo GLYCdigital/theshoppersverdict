@@ -7,7 +7,7 @@ slug: "ticova-office-chair-b0fvs4-review"
 image_alt: "Ticova Office Chair"
 verdict_score: 4.2
 date: 2026-06-17
-price: 199.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FVS4RM6P/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "amazon-basics-5-cup-coffee-maker-review"
 image_alt: "Amazon Basics 5 cup drip coffee maker with glass carafe and warming plate"
 verdict_score: 4.2
 date: 2026-08-06
-price: 19.94
+price: null
 review_count: 1261
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0D9QFRJMX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "benresive-reusable-sticker-book-for-toddlers-stickers-for-kids-travel-toy
 image_alt: "Benresive reusable sticker book for toddlers with colorful vehicle and scene stickers, closed and open views"
 verdict_score: 4.6
 date: 2026-08-06
-price: 11.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DRFQS21T/?tag=tsvglyc-20"

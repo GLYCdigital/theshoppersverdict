@@ -7,7 +7,7 @@ slug: "giant-trellis-108-b0bzlt-review"
 image_alt: "Tall 108-inch garden trellis standing in a backyard with climbing vines"
 verdict_score: 4.2
 date: 2026-08-06
-price: 124.95
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0BZLTNR4Q/?tag=tsvglyc-20"

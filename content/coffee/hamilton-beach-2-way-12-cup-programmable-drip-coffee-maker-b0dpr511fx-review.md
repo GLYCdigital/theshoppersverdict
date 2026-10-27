@@ -22,7 +22,7 @@ faq:
   - question: "Is this coffee maker compact?"
     answer: "Yes. Multiple reviewers mention its compact footprint as a key selling point. It fits well on smaller countertops without sacrificing the full 12-cup capacity."
 date: 2026-07-23
-price: 89.99
+price: null
 review_count: 625
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DPR511FX/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "ailzfei-legal-pads-8-5-x-11-college-ruled-white-paper-note-b0cmdh-review"
 image_alt: "Stack of AILZFEI legal pads 8.5 x 11 college ruled white paper with perforated sheets"
 verdict_score: 4.2
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CMDH8JDH/?tag=tsvglyc-20"

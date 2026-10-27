@@ -7,7 +7,7 @@ slug: "lonedruid-outdoor-wall-light-fixtures-exterior-wall-lantern-waterproof-sc
 image_alt: "LONEDRUID Outdoor Wall Light Fixtures Exterior Wall Lantern Waterproof Sconce Porch Lights Wall Mount with Hammered Glas"
 verdict_score: 4.6
 date: 2026-06-17
-price: 69.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08RMN5KB6/?tag=tsvglyc-20"

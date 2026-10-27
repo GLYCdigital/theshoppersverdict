@@ -7,7 +7,7 @@ slug: "mbooyome-modern-lazy-chair-with-ottoman-accent-lounge-chair-leisure-uphol
 image_alt: "MBOOYOME Modern Lazy Chair with Ottoman, Accent Lounge Chair Leisure Upholstered Sofa Chair Set for Living Room"
 verdict_score: 4.6
 date: 2026-06-17
-price: 129.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BZTY83C7/?tag=tsvglyc-20"

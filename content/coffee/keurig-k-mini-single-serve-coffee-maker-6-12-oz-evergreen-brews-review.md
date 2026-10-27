@@ -19,7 +19,7 @@ faq:
   - question: "Is the Keurig K Mini Single portable enough for travel?"
     answer: "Yes - reviewers consistently mention using it while traveling and appreciate its portability."
 date: 2026-07-30
-price: 49.99
+price: null
 review_count: 219
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B46C5H4Y/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "brewin-13-piece-knife-set-review"
 image_alt: "Brewin 13-piece multicolor kitchen knife set with sharpener and blade guards displayed on counter"
 verdict_score: 4.9
 date: 2026-08-06
-price: 11.99
+price: null
 review_count: 290
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FCKGK5R6/?tag=tsvglyc-20"

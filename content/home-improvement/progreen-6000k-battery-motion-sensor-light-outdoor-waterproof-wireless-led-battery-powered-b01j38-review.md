@@ -7,7 +7,7 @@ slug: "progreen-6000k-battery-motion-sensor-light-outdoor-waterproof-wireless-le
 image_alt: "ProGreen 6000K Battery Motion Sensor Light Outdoor Waterproof Wireless LED Battery Powered Wall Light Auto On/Off Night "
 verdict_score: 4.2
 date: 2026-06-17
-price: 24.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B01J38JFVY/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "Does Wirecutter recommend the ESPRO French Press?"
     answer: "Yes. Multiple buyers mention discovering the ESPRO through Wirecutter's recommendation, and it consistently ranks among the top French presses for its innovative double-filter design."
 date: 2026-07-23
-price: 51.69
+price: null
 review_count: 3037
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B011WTM622/?tag=tsvglyc-20"

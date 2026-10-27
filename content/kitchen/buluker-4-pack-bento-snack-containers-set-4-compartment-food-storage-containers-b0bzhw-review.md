@@ -7,7 +7,7 @@ slug: "buluker-4-pack-bento-snack-containers-set-4-compartment-food-storage-cont
 image_alt: "buluker 4 pack bento snack containers with 4 compartments, stacked showing colorful lids and divided interior"
 verdict_score: 4.6
 date: 2026-08-06
-price: 8.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZHWXMNB/?tag=tsvglyc-20"

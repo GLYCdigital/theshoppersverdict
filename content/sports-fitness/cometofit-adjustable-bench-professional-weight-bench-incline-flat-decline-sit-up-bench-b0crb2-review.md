@@ -7,7 +7,7 @@ slug: "cometofit-adjustable-bench-professional-weight-bench-incline-flat-decline
 image_alt: "Cometofit adjustable weight bench in incline position with padded backrest and sturdy steel frame"
 verdict_score: 4.2
 date: 2026-08-06
-price: 119.95
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CRB246P7/?tag=tsvglyc-20"

@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the GOOTOP Bug Zapper Outdoor, Mosquito?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the outdoor or garden product category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-02
-price: 43.18
+price: null
 review_count: 26716
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B09PQF39PG/?tag=tsvglyc-20"

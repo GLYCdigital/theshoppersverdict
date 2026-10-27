@@ -22,7 +22,7 @@ faq:
   - question: "Is the stapler easy to load?"
     answer: "Yes. The bottom-loading mechanism is straightforward — push the release, slide the staple strip in, and close. Refilling takes about 10 seconds."
 date: 2026-07-18
-price: 6.31
+price: null
 review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"

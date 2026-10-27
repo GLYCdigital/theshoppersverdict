@@ -7,7 +7,7 @@ slug: "accguan-glass-jars-with-silver-lids-mason-jars-for-gifts-crafts-wedding-b
 image_alt: "Accguan glass mason jars with silver lids arranged for gift giving and kitchen storage"
 verdict_score: 4.6
 date: 2026-08-06
-price: 18.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FN2ZV35N/?tag=tsvglyc-20"

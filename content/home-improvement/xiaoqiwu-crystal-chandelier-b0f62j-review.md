@@ -7,7 +7,7 @@ slug: "xiaoqiwu-crystal-chandelier-b0f62j-review"
 image_alt: "XIAOQIWU Crystal Chandelier"
 verdict_score: 4.2
 date: 2026-06-17
-price: 318.98
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F62JBL9J/?tag=tsvglyc-20"

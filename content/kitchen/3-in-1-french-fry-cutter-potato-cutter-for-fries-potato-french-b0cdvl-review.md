@@ -7,7 +7,7 @@ slug: "3-in-1-french-fry-cutter-potato-cutter-for-fries-potato-french-b0cdvl-rev
 image_alt: "3-in-1 French fry cutter with interchangeable blades and suction base on a kitchen counter"
 verdict_score: 4.2
 date: 2026-08-06
-price: 26.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CDVL41BN/?tag=tsvglyc-20"

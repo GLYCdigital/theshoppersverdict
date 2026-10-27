@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Utopia Bedding Throw Pillows?"
     answer: "If the features match what you are looking for, yes. With 7+ reviews averaging strongly, it is a reliable choice in the piece of furniture category."
 date: 2026-07-13
-price: 24.17
+price: null
 review_count: 156476
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01NBNDC1T/?tag=tsvglyc-20"

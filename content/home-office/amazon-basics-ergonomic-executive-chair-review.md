@@ -7,7 +7,7 @@ slug: "amazon-basics-ergonomic-executive-chair-review"
 image_alt: "Amazon Basics Ergonomic Executive Office Desk Chair in black faux leather with padded armrests and lumbar support"
 verdict_score: 4.2
 date: 2026-08-06
-price: 149.25
+price: null
 review_count: 3938
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07V8ZMFDQ/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "ddr4-ram-pc4-computer-module-b0cn9b-review"
 image_alt: "DDR4 RAM PC4 computer memory module with heat spreader on black background"
 verdict_score: 4.2
 date: 2026-08-06
-price: 45.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CN9B1JLG/?tag=tsvglyc-20"

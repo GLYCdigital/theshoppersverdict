@@ -7,7 +7,7 @@ slug: "a-tech-ddr4-2133mhz-pc4-17000-non-ecc-unbuffered-dimm-kits-of-b09q3p-revi
 image_alt: "A-Tech DDR4 2133MHz PC4-17000 Non-ECC Unbuffered DIMM memory module for desktop computers"
 verdict_score: 4.6
 date: 2026-08-06
-price: 42.61
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09Q3PPTX8/?tag=tsvglyc-20"

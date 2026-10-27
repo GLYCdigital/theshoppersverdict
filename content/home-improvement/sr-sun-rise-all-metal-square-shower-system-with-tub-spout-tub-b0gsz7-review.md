@@ -7,7 +7,7 @@ slug: "sr-sun-rise-all-metal-square-shower-system-with-tub-spout-tub-b0gsz7-revi
 image_alt: "SR SUN RISE All Metal Square Shower System with Tub Spout, Tub Shower Faucet Set, High Pressure Rain Shower Head and Han"
 verdict_score: 4.2
 date: 2026-06-17
-price: 349.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GSZ7V9L1/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "gitelsnour-cat-tree-for-indoor-cats-71-180cm-multi-level-cat-tower-b0f2sf
 image_alt: "Gitelsnour 71-inch multi-level cat tree with sisal scratching posts, perches, and a hanging toy for indoor cats"
 verdict_score: 4.6
 date: 2026-08-06
-price: 66.49
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F2SFCV3P/?tag=tsvglyc-20"

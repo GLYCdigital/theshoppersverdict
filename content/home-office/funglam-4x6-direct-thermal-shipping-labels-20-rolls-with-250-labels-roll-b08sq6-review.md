@@ -7,7 +7,7 @@ slug: "funglam-4x6-direct-thermal-shipping-labels-20-rolls-with-250-labels-roll-
 image_alt: "FungLam 4x6 Direct Thermal Shipping Labels, 20 Rolls with 250 Labels/Roll, 1 Core, Compatible Zebra 2844 ZP-450 ZP-500 Z"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08SQ6L5DM/?tag=tsvglyc-20"

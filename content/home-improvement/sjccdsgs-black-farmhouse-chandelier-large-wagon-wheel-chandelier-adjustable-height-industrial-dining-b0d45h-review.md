@@ -7,7 +7,7 @@ slug: "sjccdsgs-black-farmhouse-chandelier-large-wagon-wheel-chandelier-adjustab
 image_alt: "SJCCDSGS Black Farmhouse Chandelier, Large Wagon Wheel Chandelier Adjustable Height Industrial Dining Room Light Fixture"
 verdict_score: 4.6
 date: 2026-06-17
-price: 149.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D45HY8HS/?tag=tsvglyc-20"

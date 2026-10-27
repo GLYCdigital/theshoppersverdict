@@ -7,7 +7,7 @@ slug: "d-cent-hardware-wallet-biometric-cold-wallet-for-crypto-with-fingerprint-
 image_alt: "D'CENT biometric hardware wallet with fingerprint sensor and touchscreen display"
 verdict_score: 4.2
 date: 2026-08-06
-price: 239.0
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FGXQLZL9/?tag=tsvglyc-20"

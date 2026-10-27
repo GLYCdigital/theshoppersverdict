@@ -7,7 +7,7 @@ slug: "tap-bit-set-black-b0cdfz-review"
 image_alt: "Tap Bit Set-Black"
 verdict_score: 4.2
 date: 2026-06-17
-price: 16.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CDFZJZDG/?tag=tsvglyc-20"

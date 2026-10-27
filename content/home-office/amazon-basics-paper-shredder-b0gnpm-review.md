@@ -7,7 +7,7 @@ slug: "amazon-basics-paper-shredder-b0gnpm-review"
 image_alt: "Amazon Basics Paper Shredder with 8-sheet cross-cut capacity in a compact home office design"
 verdict_score: 4.6
 date: 2026-08-06
-price: 31.63
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GNPMYYKZ/?tag=tsvglyc-20"

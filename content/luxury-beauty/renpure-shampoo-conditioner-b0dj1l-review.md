@@ -7,7 +7,7 @@ slug: "renpure-shampoo-conditioner-b0dj1l-review"
 image_alt: "Renpure Shampoo & Conditioner"
 verdict_score: 4.2
 date: 2026-06-17
-price: 14.24
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJ1LTDTG/?tag=tsvglyc-20"

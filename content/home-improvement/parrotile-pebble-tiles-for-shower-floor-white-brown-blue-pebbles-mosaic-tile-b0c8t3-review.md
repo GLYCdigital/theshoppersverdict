@@ -7,7 +7,7 @@ slug: "parrotile-pebble-tiles-for-shower-floor-white-brown-blue-pebbles-mosaic-t
 image_alt: "Parrotile Pebble Tiles for Shower Floor White Brown Blue Pebbles Mosaic Tile Sheets 12 x 12 Bathroom Backsplash Wall Flo"
 verdict_score: 4.6
 date: 2026-06-17
-price: 87.95
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C8T3RLWM/?tag=tsvglyc-20"

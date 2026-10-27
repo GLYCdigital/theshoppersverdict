@@ -19,7 +19,7 @@ faq:
   - question: "Is the MCHOSE Laptop Stand with 360° a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a home office accessory, this is a safe choice."
 date: 2026-06-21
-price: 35.67
+price: null
 review_count: 1810
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BHYFZW46/?tag=tsvglyc-20"

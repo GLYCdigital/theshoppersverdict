@@ -7,7 +7,7 @@ slug: "bestway-saluspa-filter-cartridge-vi-2-pack-compatible-with-all-saluspa-in
 image_alt: "Two Bestway SaluSpa Type VI filter cartridges shown side by side on white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 15.49
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C2CQ9YVY/?tag=tsvglyc-20"

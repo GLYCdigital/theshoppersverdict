@@ -7,7 +7,7 @@ slug: "moleskine-classic-notebook-large-plain-black-hard-cover-5-x-8-25-888370-r
 image_alt: "Moleskine Classic Notebook, Large, Plain, Black, Hard Cover (5 x 8.25)"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/8883701143/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "nealfit-ankle-weights-1-2-3-4-6-10-lbs-for-men-b0dd3b-review"
 image_alt: "NEALFIT Ankle Weights 1/2/3/4/6/10 LBS for Men Women Kids, Leg Arm Wrist Weights with Adjustable Strap for Running, Aero"
 verdict_score: 4.6
 date: 2026-06-17
-price: 13.59
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DD3BP86Y/?tag=tsvglyc-20"

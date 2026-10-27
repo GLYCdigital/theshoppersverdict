@@ -22,7 +22,7 @@ faq:
   - question: "Is the remote control easy to use?"
     answer: "Yes. The remote is solid, sleek, and responsive. It comes with a battery included, unlike some competitors. The fan also has a touch control panel on the unit itself."
 date: 2026-07-27
-price: 69.99
+price: null
 review_count: 47208
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09MKPDJRT/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "lcubro-25pcs-sandpaper-wet-dry-sandpaper-high-grit-1000-2000-3000-5000-b0
 image_alt: "LCubro 25PCS Sandpaper, Wet Dry Sandpaper, High Grit 1000 2000 3000 5000 7000 Sandpaper Sheets"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KX5186H/?tag=tsvglyc-20"

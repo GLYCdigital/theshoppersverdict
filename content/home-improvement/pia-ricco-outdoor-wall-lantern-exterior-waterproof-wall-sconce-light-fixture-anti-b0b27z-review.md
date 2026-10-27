@@ -7,7 +7,7 @@ slug: "pia-ricco-outdoor-wall-lantern-exterior-waterproof-wall-sconce-light-fixt
 image_alt: "Pia Ricco Outdoor Wall Lantern, Exterior Waterproof Wall Sconce Light Fixture, Anti-Rust Black Wall Mount Lighting with "
 verdict_score: 4.6
 date: 2026-06-17
-price: 27.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0B27Z7DRR/?tag=tsvglyc-20"

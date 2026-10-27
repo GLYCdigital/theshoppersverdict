@@ -7,7 +7,7 @@ slug: "air-fryer-paper-liners-120pcs-review"
 image_alt: "Baker's Signature Air Fryer Paper Liners 120-Pack with perforated square liners stacked on a countertop"
 verdict_score: 4.0
 date: 2026-08-06
-price: 11.99
+price: null
 review_count: 24510
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C6Y8NYK1/?tag=tsvglyc-20"

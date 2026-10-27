@@ -7,7 +7,7 @@ slug: "face-body-glitter-hair-glitter-sparkles-chunky-face-glitter-gel-for-girls
 image_alt: "Chunky face and body glitter gel in a jar with applicator showing sparkles"
 verdict_score: 4.6
 date: 2026-08-06
-price: 8.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DJ4RPLLX/?tag=tsvglyc-20"

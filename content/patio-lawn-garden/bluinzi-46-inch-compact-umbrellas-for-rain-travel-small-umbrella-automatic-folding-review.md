@@ -19,7 +19,7 @@ faq:
   - question: "How does the automatic open and close work on the Bluinzi umbrella?"
     answer: "The umbrella has two buttons — one to open the canopy and one to close it. The automatic close feature is less common on compact umbrellas and adds convenience, especially when getting in and out of cars. Note that the canopy opens and closes with surprising force, which may soften over time with use."
 date: 2026-07-31
-price: 16.99
+price: null
 review_count: 1106
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D1KRCCF9/?tag=tsvglyc-20"

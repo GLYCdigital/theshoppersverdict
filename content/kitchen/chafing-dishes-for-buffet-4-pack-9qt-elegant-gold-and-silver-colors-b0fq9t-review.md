@@ -7,7 +7,7 @@ slug: "chafing-dishes-for-buffet-4-pack-9qt-elegant-gold-and-silver-colors-b0fq9
 image_alt: "Chafing dishes for buffet 4 pack in elegant gold and silver colors with 9QT capacity, stainless steel construction, and fuel holders"
 verdict_score: 4.6
 date: 2026-08-06
-price: 99.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FQ9TRB2C/?tag=tsvglyc-20"

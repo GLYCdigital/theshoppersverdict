@@ -7,7 +7,7 @@ slug: "ocato-24-count-cute-holographic-fabric-hair-scrunchies-for-women-girls-ha
 image_alt: "OCATO 24 Count Cute Holographic Fabric Hair Scrunchies for Women Girls: Hair Ties with Gift Bag for Gym Dance Party Favo"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7Z8T5G2/?tag=tsvglyc-20"

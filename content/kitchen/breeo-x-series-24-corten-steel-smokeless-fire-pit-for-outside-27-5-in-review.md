@@ -19,7 +19,7 @@ faq:
   - question: "What cooking accessories work with the Breeo X Series 24?"
     answer: "The X Series 24 is compatible with Breeo's full range of live-fire cooking accessories, including grill grates, pizza oven attachments, griddles, roasting sticks, and paella pans. Users report cooking pizzas, barbecues, smores, paellas, and skewers directly over the fire."
 date: 2026-07-31
-price: 239.00
+price: null
 review_count: 273
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09WG9DDPS/?tag=tsvglyc-20"

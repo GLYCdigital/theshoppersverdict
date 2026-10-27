@@ -4,7 +4,7 @@ title: "Product Review: HydroJug Traveler — 32 oz Insulated Water Bottle"
 seo_title: "HydroJug Traveler 32 oz Water Bottle Review | TSV"
 meta_description: "HydroJug Traveler 32 oz water bottle keeps drinks ice-cold all day with a leak-resistant flip straw design. Read our review of this 4.6-star insulated tumbler."
 date: 2026-05-18
-price: 29.74
+price: null
 slug: "hydrojug-traveler-32oz-water-bottle-review"
 review_count: 19144
 amazon_rating: 4.6

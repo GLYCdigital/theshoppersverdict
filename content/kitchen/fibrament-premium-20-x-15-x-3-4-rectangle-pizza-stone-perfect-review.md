@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the FibraMent® Premium 20\ x?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the kitchen appliance category."
 date: 2026-07-30
-price: 49.99
+price: null
 review_count: 33
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D94X5639/?tag=tsvglyc-20"

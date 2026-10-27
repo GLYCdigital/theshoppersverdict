@@ -7,7 +7,7 @@ slug: "truss-net-hair-mask-deep-conditioning-treatment-b0ch3z-review"
 image_alt: "TRUSS Net Hair Mask - Deep Conditioning Treatment"
 verdict_score: 4.6
 date: 2026-06-17
-price: 57.0
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CH3ZVCXV/?tag=tsvglyc-20"

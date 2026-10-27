@@ -7,7 +7,7 @@ slug: "fb-absolute-24-25-mega-box-b0dm6k-review"
 image_alt: "FB Absolute (24-25) Mega Box sealed product with player cards visible"
 verdict_score: 4.2
 date: 2026-08-06
-price: 89.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DM6KH369/?tag=tsvglyc-20"

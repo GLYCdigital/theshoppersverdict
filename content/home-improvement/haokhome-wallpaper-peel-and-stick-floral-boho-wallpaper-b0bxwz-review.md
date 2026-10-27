@@ -7,7 +7,7 @@ slug: "haokhome-wallpaper-peel-and-stick-floral-boho-wallpaper-b0bxwz-review"
 image_alt: "HAOKHOME Wallpaper Peel and Stick Floral Boho Wallpaper"
 verdict_score: 4.6
 date: 2026-06-17
-price: 8.54
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BXWZ6TMY/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the VIVO Height Adjustable 32?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-07-30
-price: 209.99
+price: null
 review_count: 600
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8LBV86T/?tag=tsvglyc-20"

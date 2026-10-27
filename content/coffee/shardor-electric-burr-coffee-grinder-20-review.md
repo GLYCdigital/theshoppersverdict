@@ -21,7 +21,7 @@ faq:
   - question: "What is the difference between the SHARDOR 1.0 and 2.0?"
     answer: "The 2.0 model features an upgraded motor, a more compact footprint, and improved burr alignment for more consistent grinds. The adjustment dial has tighter detents for better precision. The overall design is also more streamlined compared to the original."
 date: 2026-07-26
-price: 39.98
+price: null
 review_count: 5509
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B087F8N6W3/?tag=tsvglyc-20"

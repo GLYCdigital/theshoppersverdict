@@ -7,7 +7,7 @@ slug: "carote-cooking-utensils-set-b0fy2n-review"
 image_alt: "CAROTE 23-piece nylon cooking utensils set with hanging storage container and holder"
 verdict_score: 4.6
 date: 2026-08-06
-price: 39.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FY2NMR9F/?tag=tsvglyc-20"

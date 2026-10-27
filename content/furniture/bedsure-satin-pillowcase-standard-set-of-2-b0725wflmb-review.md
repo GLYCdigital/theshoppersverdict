@@ -7,7 +7,7 @@ slug: "bedsure-satin-pillowcase-standard-set-of-2-b0725wflmb-review"
 image_alt: "Bedsure Satin Pillowcase Beige Standard Set of 2"
 verdict_score: 4.4
 date: 2026-07-17
-price: 20.67
+price: null
 review_count: 31489
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0725WFLMB/?tag=tsvglyc-20"

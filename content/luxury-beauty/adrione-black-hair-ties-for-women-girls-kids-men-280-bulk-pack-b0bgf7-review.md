@@ -7,7 +7,7 @@ slug: "adrione-black-hair-ties-for-women-girls-kids-men-280-bulk-pack-b0bgf7-rev
 image_alt: "ADRIONE 280-count black hair ties bulk pack with elastic bands fanned out on neutral background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 9.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BGF77TXM/?tag=tsvglyc-20"

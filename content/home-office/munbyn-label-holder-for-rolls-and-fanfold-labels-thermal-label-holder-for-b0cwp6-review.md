@@ -7,7 +7,7 @@ slug: "munbyn-label-holder-for-rolls-and-fanfold-labels-thermal-label-holder-for
 image_alt: "MUNBYN Label Holder for Rolls and Fanfold Labels, Thermal Label Holder for Desktop Label Printer, Accessory Supplies for"
 verdict_score: 4.6
 date: 2026-06-17
-price: 27.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CWP6CPRY/?tag=tsvglyc-20"

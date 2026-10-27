@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Lavazza Espresso Whole Bean?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-13
-price: 45.40
+price: null
 review_count: 17433
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00P0ZMWEC/?tag=tsvglyc-20"

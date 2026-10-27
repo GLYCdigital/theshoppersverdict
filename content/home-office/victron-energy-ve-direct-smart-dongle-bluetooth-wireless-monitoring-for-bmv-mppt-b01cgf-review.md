@@ -7,7 +7,7 @@ slug: "victron-energy-ve-direct-smart-dongle-bluetooth-wireless-monitoring-for-b
 image_alt: "Victron Energy VE.Direct Smart Dongle (Bluetooth) - Wireless Monitoring for BMV & MPPT - Compatible with iOS & Android v"
 verdict_score: 4.6
 date: 2026-06-17
-price: 39.95
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01CGFF8Q2/?tag=tsvglyc-20"

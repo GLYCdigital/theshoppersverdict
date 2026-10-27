@@ -19,7 +19,7 @@ faq:
   - question: "How long do Klein lineman's pliers typically last?"
     answer: "One 40-year electrician veteran reports buying 2 pairs per year for heavy daily use. Light users may get a decade or more from a single pair."
 date: 2026-07-14
-price: 91.66
+price: null
 review_count: 1329
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000CEMSLS/?tag=tsvglyc-20"

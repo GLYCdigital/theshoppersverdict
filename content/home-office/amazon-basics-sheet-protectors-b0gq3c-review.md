@@ -7,7 +7,7 @@ slug: "amazon-basics-sheet-protectors-b0gq3c-review"
 image_alt: "Amazon Basics clear sheet protectors stacked in a box showing 200 count packaging"
 verdict_score: 4.6
 date: 2026-08-06
-price: 8.39
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GQ3C9XMK/?tag=tsvglyc-20"

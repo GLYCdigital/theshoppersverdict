@@ -7,7 +7,7 @@ slug: "hedge-trimmer-cordless-for-dewalt-20v-max-battery-1200rpm-grass-trimmer-e
 image_alt: "Hedge Trimmer Cordless for DEWALT 20V MAX Battery, 1200RPM Grass Trimmer Electric Hedge Trimmer, 2 in 1 Design, Perfect "
 verdict_score: 4.6
 date: 2026-06-17
-price: 49.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FJXKRBQF/?tag=tsvglyc-20"

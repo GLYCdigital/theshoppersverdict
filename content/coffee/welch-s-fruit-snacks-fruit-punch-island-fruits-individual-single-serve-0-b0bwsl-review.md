@@ -7,7 +7,7 @@ slug: "welch-s-fruit-snacks-fruit-punch-island-fruits-individual-single-serve-0-
 image_alt: "Welchs Fruit Snacks, Fruit Punch & Island Fruits, Individual Single Serve 0.8 oz bags (Pack of 40)"
 verdict_score: 4.6
 date: 2026-06-17
-price: 8.74
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BWSLB73Z/?tag=tsvglyc-20"

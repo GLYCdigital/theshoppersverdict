@@ -7,7 +7,7 @@ slug: "cuisinart-stand-mixer-12-speed-5-5-quart-b01h7r1ejy-review"
 image_alt: "Cuisinart Stand Mixer 5.5 Quart"
 verdict_score: 4.6
 date: 2026-07-09
-price: 297.60
+price: null
 review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"

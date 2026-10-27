@@ -7,7 +7,7 @@ slug: "amazon-basics-two-pocket-plastic-dividers-8-tab-set-b0cqt1-review"
 image_alt: "Amazon Basics 8-tab two-pocket plastic dividers with clear tabs and reinforced top edge"
 verdict_score: 4.6
 date: 2026-08-06
-price: 3.92
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CQT1GGG9/?tag=tsvglyc-20"

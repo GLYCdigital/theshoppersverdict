@@ -7,7 +7,7 @@ slug: "kvyusflourish-self-watering-pots-for-indoor-plants-b0bndq-review"
 image_alt: "KvyusFlourish Self-Watering Pots for Indoor Plants"
 verdict_score: 4.6
 date: 2026-06-17
-price: 41.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BNDQBXWK/?tag=tsvglyc-20"

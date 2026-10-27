@@ -7,7 +7,7 @@ slug: "bella-10-speed-countertop-blender-slim-review"
 image_alt: "bella 10 Speed Countertop Blender with 48-ounce glass jar and stainless steel blades"
 verdict_score: 4.0
 date: 2026-08-06
-price: 39.99
+price: null
 review_count: 2439
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CYJ9YJVY/?tag=tsvglyc-20"

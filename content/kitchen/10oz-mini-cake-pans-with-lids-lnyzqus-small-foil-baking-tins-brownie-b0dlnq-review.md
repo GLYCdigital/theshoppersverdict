@@ -7,7 +7,7 @@ slug: "10oz-mini-cake-pans-with-lids-lnyzqus-small-foil-baking-tins-brownie-b0dl
 image_alt: "LNYZQUS 10oz mini foil cake pans with clear plastic lids stacked and ready for baking or gifting"
 verdict_score: 4.6
 date: 2026-08-06
-price: 25.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DLNQ3F6R/?tag=tsvglyc-20"

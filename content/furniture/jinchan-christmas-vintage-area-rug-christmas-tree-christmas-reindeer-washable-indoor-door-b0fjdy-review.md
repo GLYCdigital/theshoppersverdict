@@ -7,7 +7,7 @@ slug: "jinchan-christmas-vintage-area-rug-christmas-tree-christmas-reindeer-wash
 image_alt: "jinchan Christmas Vintage Area Rug Christmas Tree Christmas Reindeer Washable Indoor Door Mat Non-Slip Holiday Decor Rug"
 verdict_score: 4.2
 date: 2026-06-17
-price: 13.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FJDY3SG3/?tag=tsvglyc-20"

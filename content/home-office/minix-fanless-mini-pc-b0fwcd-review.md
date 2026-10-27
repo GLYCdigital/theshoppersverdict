@@ -7,7 +7,7 @@ slug: "minix-fanless-mini-pc-b0fwcd-review"
 image_alt: "MINIX Fanless MINI PC"
 verdict_score: 4.6
 date: 2026-06-17
-price: 439.9
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FWCD9G7G/?tag=tsvglyc-20"

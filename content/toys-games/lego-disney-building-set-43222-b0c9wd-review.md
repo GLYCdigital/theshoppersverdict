@@ -7,7 +7,7 @@ slug: "lego-disney-building-set-43222-b0c9wd-review"
 image_alt: "LEGO - Disney Building Set, 43222"
 verdict_score: 4.6
 date: 2026-06-17
-price: 537.0
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0C9WDG86C/?tag=tsvglyc-20"

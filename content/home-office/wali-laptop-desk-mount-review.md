@@ -7,7 +7,7 @@ slug: "wali-laptop-desk-mount-review"
 image_alt: "WALI laptop desk mount holding a 17-inch notebook with ventilated tray and adjustable monitor arm in black"
 verdict_score: 4.3
 date: 2026-08-06
-price: 29.44
+price: null
 review_count: 5882
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07BDQQVN2/?tag=tsvglyc-20"

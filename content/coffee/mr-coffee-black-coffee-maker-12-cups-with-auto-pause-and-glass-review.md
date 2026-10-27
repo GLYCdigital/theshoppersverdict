@@ -22,7 +22,7 @@ faq:
   - question: "Does the Mr. Coffee 12-cup use paper filters?"
     answer: "Yes, it takes standard basket-style paper filters. A reusable gold-tone filter is available separately but not included."
 date: 2026-06-08
-price: 40
+price: null
 review_count: 44539
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20"

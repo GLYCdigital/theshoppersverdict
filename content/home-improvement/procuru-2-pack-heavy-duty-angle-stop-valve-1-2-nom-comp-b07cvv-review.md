@@ -7,7 +7,7 @@ slug: "procuru-2-pack-heavy-duty-angle-stop-valve-1-2-nom-comp-b07cvv-review"
 image_alt: "PROCURU 2-Pack Heavy Duty Angle Stop Valve 1/2 Nom Comp Inlet x 3/8 OD Comp Outlet, Quarter Turn Shut Off (PCAS12-2P)"
 verdict_score: 4.6
 date: 2026-06-17
-price: 15.9
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07CVV1XNT/?tag=tsvglyc-20"

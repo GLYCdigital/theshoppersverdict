@@ -20,7 +20,7 @@ faq:
     answer: "Mixed results. One reviewer found it 'tasted flat' with non-dairy options and recommends dairy milk to bring out the flavor, while another enjoyed it mixed with oat milk and found the flavor pleasant."
 date: 2026-08-03
 last_verified: 2026-08-03
-price: 5.99
+price: null
 review_count: 131
 amazon_rating: 3.9
 amazon_url: "https://www.amazon.com/dp/B006E9RWL6/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "delta-modern-14-series-shower-faucet-set-matte-black-shower-head-and-b0ft
 image_alt: "Delta Modern 14 Series matte black shower faucet set with handheld sprayer and shower head installed in a modern bathroom"
 verdict_score: 4.6
 date: 2026-08-06
-price: 262.65
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FTGJ6QFJ/?tag=tsvglyc-20"

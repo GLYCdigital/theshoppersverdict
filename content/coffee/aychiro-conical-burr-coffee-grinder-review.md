@@ -7,7 +7,7 @@ slug: "aychiro-conical-burr-coffee-grinder-review"
 image_alt: "AYCHIRO electric conical burr coffee grinder with touchscreen display and detachable hopper in black"
 verdict_score: 4.6
 date: 2026-08-06
-price: 79.99
+price: null
 review_count: 28
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0GYJCYF4D/?tag=tsvglyc-20"

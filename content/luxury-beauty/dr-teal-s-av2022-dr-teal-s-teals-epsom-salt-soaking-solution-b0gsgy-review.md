@@ -7,7 +7,7 @@ slug: "dr-teal-s-av2022-dr-teal-s-teals-epsom-salt-soaking-solution-b0gsgy-revie
 image_alt: "Dr Teal's Epsom Salt Soaking Solution bag with lavender scent and 5-pound size visible"
 verdict_score: 4.6
 date: 2026-08-06
-price: 18.02
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GSGYN6VJ/?tag=tsvglyc-20"

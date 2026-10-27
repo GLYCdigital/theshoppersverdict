@@ -7,7 +7,7 @@ slug: "spachoice-1-pint-premium-metal-free-b0fbm7-review"
 image_alt: "SpaChoice 1-Pint Premium Metal Free"
 verdict_score: 4.6
 date: 2026-06-17
-price: 16.47
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FBM73KXM/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "Does the lid leak?"
     answer: "When properly seated, the lid seals well. You have to press firmly to get it on completely. The slide closure should be in the closed position before blending. Some users with arthritis find the lid difficult to remove."
 date: 2026-07-11
-price: 24.95
+price: null
 review_count: 70156
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B00065L6CU/?tag=tsvglyc-20"

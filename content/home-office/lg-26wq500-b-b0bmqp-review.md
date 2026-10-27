@@ -7,7 +7,7 @@ slug: "lg-26wq500-b-b0bmqp-review"
 image_alt: "LG 26WQ500-B"
 verdict_score: 4.6
 date: 2026-06-17
-price: 250.0
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BMQP624X/?tag=tsvglyc-20"

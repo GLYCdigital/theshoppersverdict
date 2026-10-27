@@ -16,7 +16,7 @@ faq:
   - question: "Is the XPIY Tricycle for Toddlers a good gift?"
     answer: "Yes - several reviewers bought this as a gift and the recipients were pleased."
 date: 2026-08-02
-price: 54.99
+price: null
 review_count: 726
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09M3W5GKZ/?tag=tsvglyc-20"

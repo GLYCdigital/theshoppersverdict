@@ -7,7 +7,7 @@ slug: "pantene-miracle-rescue-deep-conditioner-with-melting-pro-v-pearls-for-dry
 image_alt: "Pantene Miracle Rescue Deep Conditioner with Melting Pro-V Pearls - For Dry, Damaged, or Color-Treated Hair - Intense Mo"
 verdict_score: 4.6
 date: 2026-06-17
-price: 12.97
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FD8VVNNT/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "gpatio-st38-outdoor-string-lights-shatterproof-patio-lights-b0gstz-review
 image_alt: "GPATIO ST38 Outdoor String Lights Shatterproof Patio Lights"
 verdict_score: 4.6
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GSTZLFXY/?tag=tsvglyc-20"

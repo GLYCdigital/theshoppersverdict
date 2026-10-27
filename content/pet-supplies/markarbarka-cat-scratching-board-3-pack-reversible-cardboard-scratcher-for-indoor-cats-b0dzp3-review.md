@@ -7,7 +7,7 @@ slug: "markarbarka-cat-scratching-board-3-pack-reversible-cardboard-scratcher-fo
 image_alt: "MARKARBARKA Cat Scratching Board 3 Pack â€“ Reversible Cardboard Scratcher for Indoor Cats, Wide Boxed Scratch Pads with"
 verdict_score: 4.6
 date: 2026-06-17
-price: 15.97
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DZP34JD5/?tag=tsvglyc-20"

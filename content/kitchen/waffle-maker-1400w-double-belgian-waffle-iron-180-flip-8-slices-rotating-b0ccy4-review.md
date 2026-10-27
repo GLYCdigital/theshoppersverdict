@@ -7,7 +7,7 @@ slug: "waffle-maker-1400w-double-belgian-waffle-iron-180-flip-8-slices-rotating-
 image_alt: "Waffle Maker, 1400W Double Belgian Waffle Iron 180Â° Flip, 8 Slices, Rotating & Nonstick Plates, Removable Drip Tray for"
 verdict_score: 4.6
 date: 2026-06-17
-price: 49.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCY4CBG6/?tag=tsvglyc-20"

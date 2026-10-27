@@ -7,7 +7,7 @@ slug: "home-master-hardware-heavy-duty-shelf-l-brackets-shelf-support-corner-bra
 image_alt: "HOME MASTER HARDWARE Heavy Duty Shelf L Brackets Shelf Support Corner Brace Joint Right Angle Bracket Black with Screws "
 verdict_score: 4.6
 date: 2026-06-17
-price: 32.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08S1H3WYD/?tag=tsvglyc-20"

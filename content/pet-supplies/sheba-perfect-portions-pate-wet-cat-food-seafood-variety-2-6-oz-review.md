@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Sheba Perfect Portions Pate?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-08-01
-price: 22.99
+price: null
 review_count: 24850
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B075QK5SP2/?tag=tsvglyc-20"

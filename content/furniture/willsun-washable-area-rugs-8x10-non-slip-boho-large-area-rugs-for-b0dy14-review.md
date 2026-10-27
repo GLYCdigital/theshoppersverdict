@@ -7,7 +7,7 @@ slug: "willsun-washable-area-rugs-8x10-non-slip-boho-large-area-rugs-for-b0dy14-
 image_alt: "WILLSUN Washable Area Rugs, 8x10 Non-Slip Boho Large Area Rugs for Living Room, Bedroom, Machine Washable Vintage Rug, I"
 verdict_score: 4.6
 date: 2026-06-17
-price: 44.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DY14F9BY/?tag=tsvglyc-20"

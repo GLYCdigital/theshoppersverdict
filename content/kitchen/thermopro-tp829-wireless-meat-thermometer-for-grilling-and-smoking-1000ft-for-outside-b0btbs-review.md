@@ -7,7 +7,7 @@ slug: "thermopro-tp829-wireless-meat-thermometer-for-grilling-and-smoking-1000ft
 image_alt: "ThermoPro TP829 Wireless Meat Thermometer for Grilling and Smoking, 1000FT, for Outside Grill with 4 Meat Probes, BBQ Th"
 verdict_score: 4.6
 date: 2026-06-17
-price: 47.48
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BTBSH2N6/?tag=tsvglyc-20"

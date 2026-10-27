@@ -7,7 +7,7 @@ slug: "putroad-52-inch-ceiling-fans-with-lights-brushed-nickel-ceiling-fan-with-
 image_alt: "putroad 52 Inch Ceiling Fans with Lights, Brushed Nickel Ceiling Fan with Remote, Dimmable 6 Speeds DC Quiet Modern Ceil"
 verdict_score: 4.2
 date: 2026-06-17
-price: 64.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D1C869C2/?tag=tsvglyc-20"

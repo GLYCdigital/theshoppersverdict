@@ -19,7 +19,7 @@ faq:
   - question: "Why does this VIDI chair have no customer reviews?"
     answer: "This is a relatively new listing on Amazon, so verified buyer feedback is still building. Until reviews accumulate, the verdict below is based on the manufacturer's published specifications."
 date: 2026-08-02
-price: 249.99
+price: null
 review_count: 0
 amazon_rating: null
 amazon_url: "https://www.amazon.com/dp/B0GV3X5T9T/?tag=tsvglyc-20"

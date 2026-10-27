@@ -7,7 +7,7 @@ slug: "godinger-dublin-cocktail-shaker-martini-shaker-17oz-b0dntw-review"
 image_alt: "Godinger Dublin Cocktail Shaker, Martini Shaker, 17oz"
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.89
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DNTWXPN4/?tag=tsvglyc-20"

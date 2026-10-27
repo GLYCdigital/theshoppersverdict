@@ -7,7 +7,7 @@ slug: "sony-mdrex15lp-in-ear-earbud-headphones-review"
 image_alt: "Sony MDREX15LP in-ear earbud headphones with 3.5mm jack and in-line remote"
 verdict_score: 4.3
 date: 2026-08-06
-price: 9.99
+price: null
 review_count: 10006
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B00Q6P4CMA/?tag=tsvglyc-20"

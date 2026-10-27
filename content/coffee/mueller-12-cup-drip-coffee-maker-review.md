@@ -7,7 +7,7 @@ slug: "mueller-12-cup-drip-coffee-maker-review"
 image_alt: "Mueller 12-cup programmable drip coffee maker with glass carafe and reusable filter on kitchen counter"
 verdict_score: 4.2
 date: 2026-08-06
-price: 29.99
+price: null
 review_count: 8406
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BM3C13B6/?tag=tsvglyc-20"

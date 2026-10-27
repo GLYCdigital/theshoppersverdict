@@ -7,7 +7,7 @@ slug: "anytalk-solar-lanterns-outdoor-waterproof-hanging-garden-decor-solar-lant
 image_alt: "ANYTALK solar lantern hanging in a garden with warm LED glow at dusk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 26.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D14MNVTW/?tag=tsvglyc-20"

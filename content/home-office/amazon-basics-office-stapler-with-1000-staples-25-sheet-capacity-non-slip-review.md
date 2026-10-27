@@ -12,7 +12,7 @@ faq:
   - question: "Does the stapler jam frequently?"
     answer: "No. Jamming is rarely mentioned in reviews. The mechanism is straightforward and feeds staples reliably. One reviewer specifically notes it doesn't jam."
 date: 2026-07-09
-price: 6.31
+price: null
 review_count: 52636
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20"

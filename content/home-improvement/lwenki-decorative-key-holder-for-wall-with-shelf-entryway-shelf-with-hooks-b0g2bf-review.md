@@ -7,7 +7,7 @@ slug: "lwenki-decorative-key-holder-for-wall-with-shelf-entryway-shelf-with-hook
 image_alt: "Lwenki Decorative Key Holder for Wall with Shelf, Entryway Shelf with Hooks Holds Leashes, Jackets and Glasses â€“ Sturd"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G2BFZ2SH/?tag=tsvglyc-20"

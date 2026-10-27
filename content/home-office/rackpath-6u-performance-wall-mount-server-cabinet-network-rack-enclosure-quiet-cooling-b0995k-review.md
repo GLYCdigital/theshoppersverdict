@@ -7,7 +7,7 @@ slug: "rackpath-6u-performance-wall-mount-server-cabinet-network-rack-enclosure-
 image_alt: "RackPath 6U Performance Wall Mount Server Cabinet Network Rack Enclosure, Quiet Cooling Fan, Locking Glass Door, Black"
 verdict_score: 4.2
 date: 2026-06-17
-price: 129.98
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0995KJY7T/?tag=tsvglyc-20"

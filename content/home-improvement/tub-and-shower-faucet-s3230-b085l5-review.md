@@ -7,7 +7,7 @@ slug: "tub-and-shower-faucet-s3230-b085l5-review"
 image_alt: "Tub and Shower Faucet S3230"
 verdict_score: 4.2
 date: 2026-06-17
-price: 175.0
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B085L519HR/?tag=tsvglyc-20"

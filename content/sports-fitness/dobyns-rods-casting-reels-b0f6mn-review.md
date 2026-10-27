@@ -7,7 +7,7 @@ slug: "dobyns-rods-casting-reels-b0f6mn-review"
 image_alt: "Dobyns Rods casting reel with ergonomic handle and compact frame shown on dark background"
 verdict_score: 4.2
 date: 2026-08-06
-price: 99.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0F6MN6Z78/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "getlay-tall-garden-fence-flower-bed-fence-wide-door-low-threshold-fence-b
 image_alt: "Getlay tall garden fence panels installed around a flower bed with a low threshold gate"
 verdict_score: 4.6
 date: 2026-08-06
-price: 85.65
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DJBMM6HH/?tag=tsvglyc-20"

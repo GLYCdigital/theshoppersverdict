@@ -7,7 +7,7 @@ slug: "adams-handmade-soap-liquid-foaming-soap-1-gal-b0dx2h-review"
 image_alt: "Adams Handmade Soap Liquid Foaming Soap one gallon refill bottle with pump dispenser"
 verdict_score: 4.6
 date: 2026-08-06
-price: 37.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DX2HJ487/?tag=tsvglyc-20"

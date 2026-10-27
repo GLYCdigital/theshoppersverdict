@@ -7,7 +7,7 @@ slug: "cloudy-bay-05-step-lights-b0c9f7-review"
 image_alt: "CLOUDY BAY 05 Step Lights installed on outdoor staircase at dusk showing warm white LED illumination"
 verdict_score: 4.6
 date: 2026-08-06
-price: 99.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C9F7GBBV/?tag=tsvglyc-20"

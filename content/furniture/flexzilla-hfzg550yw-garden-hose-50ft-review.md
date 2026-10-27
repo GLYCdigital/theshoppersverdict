@@ -19,7 +19,7 @@ faq:
   - question: "How does Flexzilla perform in cold weather?"
     answer: "It remains flexible in cold temperatures, unlike rubber hoses that stiffen up. It stays pliable down to sub-freezing temperatures."
 date: 2026-07-15
-price: 84.48
+price: null
 review_count: 96795
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B003TFE7ZM/?tag=tsvglyc-20"

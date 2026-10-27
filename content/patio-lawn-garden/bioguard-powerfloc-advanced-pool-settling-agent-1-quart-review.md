@@ -19,7 +19,7 @@ faq:
   - question: "Should I use BioGuard PowerFloc or a pool clarifier?"
     answer: "PowerFloc is a flocculant, which is more aggressive than a clarifier. Flocculants cause particles to sink to the bottom for vacuuming, while clarifiers make particles small enough to be caught by the filter. PowerFloc is the better choice for severely cloudy water, heavy algae die-off, or after shocking. Clarifiers work better for routine maintenance."
 date: 2026-07-31
-price: 30.99
+price: null
 review_count: 822
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B07C2C8F9R/?tag=tsvglyc-20"

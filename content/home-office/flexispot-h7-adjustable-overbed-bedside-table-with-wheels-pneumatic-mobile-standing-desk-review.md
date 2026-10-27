@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the FLEXISPOT H7 Adjustable Overbed Bedside?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the home office accessory category. The main drawbacks (features) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-21
-price: 149.99
+price: null
 review_count: 2627
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0G2VJS9JS/?tag=tsvglyc-20"

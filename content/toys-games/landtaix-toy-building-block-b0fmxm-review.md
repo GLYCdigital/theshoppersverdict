@@ -7,7 +7,7 @@ slug: "landtaix-toy-building-block-b0fmxm-review"
 image_alt: "Landtaix Toy Building Block"
 verdict_score: 4.6
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FMXM1PFF/?tag=tsvglyc-20"

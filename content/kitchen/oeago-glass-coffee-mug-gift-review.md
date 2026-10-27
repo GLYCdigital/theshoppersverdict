@@ -7,7 +7,7 @@ slug: "oeago-glass-coffee-mug-gift-review"
 image_alt: "OEAGO double-wall glass coffee mug with bamboo lid and silicone sleeve in a latte color"
 verdict_score: 4.6
 date: 2026-08-06
-price: 14.99
+price: null
 review_count: 7849
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09JNRXJD6/?tag=tsvglyc-20"

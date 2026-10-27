@@ -7,7 +7,7 @@ slug: "decorative-fences-b0df29-review"
 image_alt: "Decorative garden fence panels installed along a flower bed border"
 verdict_score: 3.7
 date: 2026-08-06
-price: 27.99
+price: null
 review_count: 185
 amazon_rating: 3.7
 amazon_url: "https://www.amazon.com/dp/B0DF29J8YK/?tag=tsvglyc-20"

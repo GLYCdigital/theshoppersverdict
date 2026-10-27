@@ -7,7 +7,7 @@ slug: "s99080166-bp28-bathroom-vent-bath-fan-motor-kit-replacement-by-fetechmate
 image_alt: "S99080166 BP28 Bathroom Vent Bath Fan Motor Kit Replacement by Fetechmate Fit for Bro-an Nu-Tone 655 679 657 658 Exhaust"
 verdict_score: 4.6
 date: 2026-06-17
-price: 18.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1WX7X4F/?tag=tsvglyc-20"

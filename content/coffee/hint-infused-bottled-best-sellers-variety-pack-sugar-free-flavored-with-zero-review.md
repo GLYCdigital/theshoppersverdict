@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the Hint Infused Bottled, Best?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-12
-price: 17.88
+price: null
 review_count: 33615
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B01E6WOVX4/?tag=tsvglyc-20"

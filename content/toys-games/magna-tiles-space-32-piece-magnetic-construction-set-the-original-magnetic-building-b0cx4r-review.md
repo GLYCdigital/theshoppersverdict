@@ -7,7 +7,7 @@ slug: "magna-tiles-space-32-piece-magnetic-construction-set-the-original-magneti
 image_alt: "MAGNA-TILES Space 32-Piece Magnetic Construction Set, The Original Magnetic Building Brand"
 verdict_score: 4.6
 date: 2026-06-17
-price: 49.98
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CX4RD68N/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "djiex-gaming-monitor-b0gvdf-review"
 image_alt: "DJiEX Gaming Monitor on a desk setup showing a vibrant gaming scene with a keyboard and mouse in the foreground"
 verdict_score: 4.2
 date: 2026-08-06
-price: 84.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GVDFZY4M/?tag=tsvglyc-20"

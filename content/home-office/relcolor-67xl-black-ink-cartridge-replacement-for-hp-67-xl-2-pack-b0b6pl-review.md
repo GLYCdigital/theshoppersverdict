@@ -7,7 +7,7 @@ slug: "relcolor-67xl-black-ink-cartridge-replacement-for-hp-67-xl-2-pack-b0b6pl-
 image_alt: "Relcolor 67XL Black Ink Cartridge Replacement for HP 67 XL 2 Pack for HP67 HP67XL for 2855e 2827e 2700 2755e 4100 4255e "
 verdict_score: 4.2
 date: 2026-06-17
-price: 36.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0B6PLJ3GS/?tag=tsvglyc-20"

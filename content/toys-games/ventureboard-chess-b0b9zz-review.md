@@ -7,7 +7,7 @@ slug: "ventureboard-chess-b0b9zz-review"
 image_alt: "VentureBoard Chess"
 verdict_score: 4.2
 date: 2026-06-17
-price: 49.0
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9ZZ9CRN/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "franklin-sports-nfl-kids-football-uniform-set-nfl-youth-football-costume-
 image_alt: "Franklin Sports NFL Kids Football Uniform Set with jersey, pants, and padding for youth players"
 verdict_score: 4.6
 date: 2026-08-06
-price: 79.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BDY9S6QK/?tag=tsvglyc-20"

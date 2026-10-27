@@ -7,7 +7,7 @@ slug: "ahari-unlimited-premium-tennis-trainer-set-pro-rebounder-with-metal-base-
 image_alt: "Ahari Unlimited Premium Tennis Trainer Set with Pro Rebounder and metal base on a court"
 verdict_score: 4.2
 date: 2026-08-06
-price: 59.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08JCM99SN/?tag=tsvglyc-20"

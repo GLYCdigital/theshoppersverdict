@@ -7,7 +7,7 @@ slug: "amazon-basics-single-monitor-stand-review"
 image_alt: "Amazon Basics Single Monitor Stand holding a computer monitor on a desk"
 verdict_score: 4.5
 date: 2026-08-06
-price: 24.13
+price: null
 review_count: 18048
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07DHK5DHN/?tag=tsvglyc-20"

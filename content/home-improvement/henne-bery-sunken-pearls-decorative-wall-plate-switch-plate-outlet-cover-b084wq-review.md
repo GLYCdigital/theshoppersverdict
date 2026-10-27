@@ -7,7 +7,7 @@ slug: "henne-bery-sunken-pearls-decorative-wall-plate-switch-plate-outlet-cover-
 image_alt: "Henne Bery Sunken Pearls Decorative Wall Plate Switch Plate Outlet Cover"
 verdict_score: 4.6
 date: 2026-06-17
-price: 11.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B084WQ57ZV/?tag=tsvglyc-20"

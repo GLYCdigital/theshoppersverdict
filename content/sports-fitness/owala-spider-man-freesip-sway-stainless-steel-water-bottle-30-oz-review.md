@@ -17,7 +17,7 @@ faq:
     answer: "Yes - reviewers consistently mention using it while traveling and appreciate its portability."
 date: 2026-08-07
 last_verified: 2026-08-07
-price: 39.99
+price: null
 review_count: 622
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GWCWCR65/?tag=tsvglyc-20"

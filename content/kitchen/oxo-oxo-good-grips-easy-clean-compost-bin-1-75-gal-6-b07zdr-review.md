@@ -7,7 +7,7 @@ slug: "oxo-oxo-good-grips-easy-clean-compost-bin-1-75-gal-6-b07zdr-review"
 image_alt: "OXO OXO Good Grips Easy-Clean Compost Bin - 1.75 GAL/6.62 L"
 verdict_score: 4.6
 date: 2026-06-17
-price: 26.54
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07ZDRX791/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "rubbermaid-brilliance-tritan-plastic-food-storage-containers-b079m8fptw-r
 image_alt: "Rubbermaid Brilliance Tritan Plastic Food Storage Containers"
 verdict_score: 4.6
 date: 2026-07-09
-price: 24.99
+price: null
 review_count: 58959
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B079M8FPTW/?tag=tsvglyc-20"

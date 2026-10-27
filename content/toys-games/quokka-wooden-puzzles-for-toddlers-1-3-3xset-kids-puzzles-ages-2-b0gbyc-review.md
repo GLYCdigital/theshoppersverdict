@@ -7,7 +7,7 @@ slug: "quokka-wooden-puzzles-for-toddlers-1-3-3xset-kids-puzzles-ages-2-b0gbyc-r
 image_alt: "QUOKKA Wooden Puzzles for Toddlers 1-3 â€“ 3xSET Kids Puzzles Ages 2-4 â€“ Montessori Toy Puzzle for Toddlers 3-5"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GBYCWBMT/?tag=tsvglyc-20"

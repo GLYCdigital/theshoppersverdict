@@ -7,7 +7,7 @@ slug: "dynasty-hardware-pocket-door-latch-round-sliding-handle-for-hall-or-close
 image_alt: "DYNASTY HARDWARE round pocket door latch and sliding handle for hall or closet doors"
 verdict_score: 4.6
 date: 2026-08-06
-price: 26.12
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GC9MRGBD/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "official-arduino-starter-kit-k000007-12-diy-projects-with-electronic-comp
 image_alt: "Official Arduino Starter Kit [K000007] - 12 DIY Projects with Electronic Components & English Projects Book - Original K"
 verdict_score: 4.6
 date: 2026-06-17
-price: 103.45
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B009UKZV0A/?tag=tsvglyc-20"

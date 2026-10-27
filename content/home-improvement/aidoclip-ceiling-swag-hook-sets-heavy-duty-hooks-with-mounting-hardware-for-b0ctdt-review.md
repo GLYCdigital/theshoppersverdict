@@ -7,7 +7,7 @@ slug: "aidoclip-ceiling-swag-hook-sets-heavy-duty-hooks-with-mounting-hardware-f
 image_alt: "Aidoclip Ceiling Swag Hook Sets with heavy-duty metal hooks and mounting hardware on a white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 12.59
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CTDT32TJ/?tag=tsvglyc-20"

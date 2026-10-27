@@ -18,7 +18,7 @@ faq:
   - question: "Is the DREO All-in-1 Milk Frother durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-07-30
-price: 89.99
+price: null
 review_count: 764
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DFLG7V7J/?tag=tsvglyc-20"

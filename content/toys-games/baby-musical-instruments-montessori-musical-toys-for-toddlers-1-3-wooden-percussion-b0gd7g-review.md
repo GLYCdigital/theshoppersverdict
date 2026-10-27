@@ -7,7 +7,7 @@ slug: "baby-musical-instruments-montessori-musical-toys-for-toddlers-1-3-wooden-
 image_alt: "Wooden Montessori musical instrument set for toddlers including xylophone, maracas, and tambourine"
 verdict_score: 4.6
 date: 2026-08-06
-price: 35.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GD7GNDFX/?tag=tsvglyc-20"

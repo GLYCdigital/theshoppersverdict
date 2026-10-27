@@ -7,7 +7,7 @@ slug: "scribbledo-12-small-white-board-dry-erase-boards-classroom-pack-mini-whit
 image_alt: "Scribbledo 12 Small White Board Dry Erase Boards Classroom Pack Mini White Boards 9x12â€"
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09J5FBBCC/?tag=tsvglyc-20"

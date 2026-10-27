@@ -7,7 +7,7 @@ slug: "set-of-2-10-inch-hanging-planters-for-indoor-plants-with-self-b0dfbw-revi
 image_alt: "Set of 2-10 Inch Hanging Planters for Indoor Plants with Self-Watering Includes Hanging Pots for Plants, Outdoor Hanging"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DFBWQN34/?tag=tsvglyc-20"

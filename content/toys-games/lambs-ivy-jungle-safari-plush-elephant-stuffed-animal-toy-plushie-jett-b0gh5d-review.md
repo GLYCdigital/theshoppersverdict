@@ -7,7 +7,7 @@ slug: "lambs-ivy-jungle-safari-plush-elephant-stuffed-animal-toy-plushie-jett-b0
 image_alt: "Lambs & Ivy Jungle Safari Plush Elephant Stuffed Animal Toy Plushie - Jett"
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GH5D8J2Q/?tag=tsvglyc-20"

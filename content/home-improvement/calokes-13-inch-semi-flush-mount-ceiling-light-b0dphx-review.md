@@ -7,7 +7,7 @@ slug: "calokes-13-inch-semi-flush-mount-ceiling-light-b0dphx-review"
 image_alt: "CALOKES 13-inch semi-flush mount ceiling light installed in a modern living room with warm LED glow"
 verdict_score: 4.6
 date: 2026-08-06
-price: 49.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPHXVDY2/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "hamilton-beach-electric-coffee-grinder-review"
 image_alt: "Hamilton Beach 80396C electric coffee grinder in grey with removable stainless steel chamber and grind settings dial"
 verdict_score: 4.3
 date: 2026-08-06
-price: 43.95
+price: null
 review_count: 1433
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09SVN2SR9/?tag=tsvglyc-20"

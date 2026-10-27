@@ -7,7 +7,7 @@ slug: "dikaida-bathroom-light-fixtures-modern-2-3-4-6-8-light-vanity-b0dp2n-revi
 image_alt: "DIKAIDA modern vanity light fixture with black metal frame and clear glass shades"
 verdict_score: 4.6
 date: 2026-08-06
-price: 39.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DP2N69N9/?tag=tsvglyc-20"

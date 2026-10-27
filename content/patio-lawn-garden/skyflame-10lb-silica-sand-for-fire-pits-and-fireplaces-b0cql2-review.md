@@ -7,7 +7,7 @@ slug: "skyflame-10lb-silica-sand-for-fire-pits-and-fireplaces-b0cql2-review"
 image_alt: "Skyflame 10Lb Silica Sand for Fire Pits and Fireplaces"
 verdict_score: 4.6
 date: 2026-06-17
-price: 27.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CQL2Q1BV/?tag=tsvglyc-20"

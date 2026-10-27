@@ -7,7 +7,7 @@ slug: "scocanopy-ripstop-replacement-top-for-the-lowe-s-gazebo-model-gf-12s004b-
 image_alt: "SCOCANOPY Ripstop Replacement Top for The Lowes Gazebo Model #GF-12S004B-1 / GF-12S004BTO"
 verdict_score: 4.2
 date: 2026-06-17
-price: 72.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CVF5572Q/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "universal-toilet-flapper-replacement-compatible-with-most-american-standa
 image_alt: "Universal Toilet Flapper Replacement - Compatible with Most American Standard Kohler Fluidmaster Toto Gerber Toilets Tan"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.98
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CS6J6RG3/?tag=tsvglyc-20"

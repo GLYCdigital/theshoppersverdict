@@ -7,7 +7,7 @@ slug: "duorest-folding-floor-chair-latex-seat-system-with-twin-backrests-maintai
 image_alt: "Duorest folding floor chair with latex seat and twin backrests shown from a slight angle"
 verdict_score: 4.2
 date: 2026-08-06
-price: 159.0
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BZS3D18H/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "skateboard-bike-helmet-for-adults-adjustable-knee-elbow-pads-wrist-guards
 image_alt: "Skateboard Bike Helmet for Adults Adjustable Knee Elbow Pads Wrist Guards Protective Gear Helmets Set Teens for Bicycle "
 verdict_score: 4.6
 date: 2026-06-17
-price: 41.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09B256VYC/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "appliance-casters-sliders-review"
 image_alt: "Eight black plastic appliance sliders with adjustable straps positioned under a coffee maker on a kitchen counter"
 verdict_score: 4.4
 date: 2026-08-06
-price: 8.98
+price: null
 review_count: 1116
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DKNPMD37/?tag=tsvglyc-20"

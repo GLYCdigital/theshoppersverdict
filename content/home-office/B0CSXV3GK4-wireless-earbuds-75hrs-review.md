@@ -7,7 +7,7 @@ slug: "wireless-earbuds-75hrs-review"
 image_alt: "Wireless Earbuds 75hrs with charging case shown on a desk next to a laptop"
 verdict_score: 4.3
 date: 2026-08-06
-price: 39.99
+price: null
 review_count: 27403
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CSXV3GK4/?tag=tsvglyc-20"

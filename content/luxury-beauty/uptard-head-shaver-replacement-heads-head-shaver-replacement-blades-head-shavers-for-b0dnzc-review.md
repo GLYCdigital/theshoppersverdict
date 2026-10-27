@@ -7,7 +7,7 @@ slug: "uptard-head-shaver-replacement-heads-head-shaver-replacement-blades-head-
 image_alt: "UPTARD Head Shaver Replacement Heads,Head Shaver Replacement Blades, Head Shavers for Bald Men,Head shavers for Men, Sta"
 verdict_score: 4.2
 date: 2026-06-17
-price: 15.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DNZCY2WZ/?tag=tsvglyc-20"

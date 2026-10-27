@@ -7,7 +7,7 @@ slug: "mongbyya-sleeping-bag-liner-lightweight-compact-sleeping-bag-sack-portabl
 image_alt: "MongByYa Sleeping Bag Liner Lightweight Compact Sleeping Bag Sack Portable Clean Travel Sheet Camping Sleep Sheet for Ba"
 verdict_score: 4.6
 date: 2026-06-17
-price: 25.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D12L8KSL/?tag=tsvglyc-20"

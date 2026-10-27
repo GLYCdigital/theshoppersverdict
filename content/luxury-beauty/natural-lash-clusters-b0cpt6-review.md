@@ -7,7 +7,7 @@ slug: "natural-lash-clusters-b0cpt6-review"
 image_alt: "Natural Lash Clusters"
 verdict_score: 4.2
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CPT61MCP/?tag=tsvglyc-20"

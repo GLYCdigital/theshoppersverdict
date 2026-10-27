@@ -7,7 +7,7 @@ slug: "tea-tree-lavender-mint-taming-cream-rich-hair-styling-cream-for-coarse-b0
 image_alt: "Tea Tree Lavender Mint Taming Cream, Rich Hair Styling Cream, For Coarse, Curly + Dry Hair, 3.4 fl. oz."
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.0
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07Q9B4762/?tag=tsvglyc-20"

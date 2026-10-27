@@ -7,7 +7,7 @@ slug: "hp-67xl-black-high-yield-ink-cartridge-review"
 image_alt: "HP 67XL black high-yield ink cartridge packaged in original HP retail box"
 verdict_score: 3.5
 date: 2026-08-06
-price: 35.89
+price: null
 review_count: 53365
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08412PTS8/?tag=tsvglyc-20"

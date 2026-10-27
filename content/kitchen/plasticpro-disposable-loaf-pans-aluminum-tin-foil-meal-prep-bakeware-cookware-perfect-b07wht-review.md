@@ -7,7 +7,7 @@ slug: "plasticpro-disposable-loaf-pans-aluminum-tin-foil-meal-prep-bakeware-cook
 image_alt: "Plasticpro Disposable Loaf Pans Aluminum Tin Foil Meal Prep Bakeware - Cookware Perfect for Baking Cakes, Bread, Meatloa"
 verdict_score: 4.2
 date: 2026-06-17
-price: 7.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07WHTR94W/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "How difficult is it to adjust the height?"
     answer: "The stand is intentionally stiff so it maintains position. You need to apply firm pressure to change height settings. This makes it great for a 'set and forget' setup but less ideal if you adjust frequently."
 date: 2026-07-27
-price: 20.99
+price: null
 review_count: 3298
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BLRJ4R8F/?tag=tsvglyc-20"

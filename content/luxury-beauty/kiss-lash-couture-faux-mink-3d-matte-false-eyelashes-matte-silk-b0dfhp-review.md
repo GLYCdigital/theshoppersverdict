@@ -7,7 +7,7 @@ slug: "kiss-lash-couture-faux-mink-3d-matte-false-eyelashes-matte-silk-b0dfhp-re
 image_alt: "KISS Lash Couture Faux Mink 3D Matte False Eyelashes, Matte Silk"
 verdict_score: 4.2
 date: 2026-06-17
-price: 6.7
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DFHPP7CQ/?tag=tsvglyc-20"

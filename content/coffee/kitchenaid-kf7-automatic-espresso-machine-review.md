@@ -7,7 +7,7 @@ slug: "kitchenaid-kf7-automatic-espresso-machine-review"
 image_alt: "KitchenAid KF7 fully automatic espresso machine with stainless steel finish and control panel"
 verdict_score: 4.1
 date: 2026-08-06
-price: 1449.99
+price: null
 review_count: 154
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DT1QRVD2/?tag=tsvglyc-20"

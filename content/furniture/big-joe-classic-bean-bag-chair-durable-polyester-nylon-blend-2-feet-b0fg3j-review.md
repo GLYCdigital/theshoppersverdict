@@ -7,7 +7,7 @@ slug: "big-joe-classic-bean-bag-chair-durable-polyester-nylon-blend-2-feet-b0fg3
 image_alt: "Big Joe Classic Bean Bag Chair in durable polyester nylon blend fabric, shown in a living room setting"
 verdict_score: 4.2
 date: 2026-08-06
-price: 37.93
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FG3JMFKF/?tag=tsvglyc-20"

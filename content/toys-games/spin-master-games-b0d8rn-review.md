@@ -7,7 +7,7 @@ slug: "spin-master-games-b0d8rn-review"
 image_alt: "Spin Master Games"
 verdict_score: 4.6
 date: 2026-06-17
-price: 34.95
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8RNTN6M/?tag=tsvglyc-20"

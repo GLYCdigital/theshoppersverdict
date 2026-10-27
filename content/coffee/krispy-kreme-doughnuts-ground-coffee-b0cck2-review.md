@@ -7,7 +7,7 @@ slug: "krispy-kreme-doughnuts-ground-coffee-b0cck2-review"
 image_alt: "Krispy Kreme Doughnuts Ground Coffee"
 verdict_score: 4.6
 date: 2026-06-17
-price: 11.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CCK2JCPS/?tag=tsvglyc-20"

@@ -8,7 +8,7 @@ slug: "anker-soundcore-q20i-headphones-review"
 image_alt: "Anker Soundcore Q20i wireless over-ear headphones in black with plush ear cushions"
 verdict_score: 4.5
 date: 2026-08-06
-price: 39.99
+price: null
 review_count: 63317
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20"

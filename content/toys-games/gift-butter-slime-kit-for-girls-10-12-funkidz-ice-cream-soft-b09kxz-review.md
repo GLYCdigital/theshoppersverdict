@@ -7,7 +7,7 @@ slug: "gift-butter-slime-kit-for-girls-10-12-funkidz-ice-cream-soft-b09kxz-revie
 image_alt: "FunKidz Ice Cream Soft Butter Slime Kit with six pastel slime containers and mix-in toppings arranged on a play surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 23.39
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09KXZDQN5/?tag=tsvglyc-20"

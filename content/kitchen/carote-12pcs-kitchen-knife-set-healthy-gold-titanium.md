@@ -7,7 +7,7 @@ slug: "carote-12-piece-gold-kitchen-knife-set-review"
 image_alt: "CAROTE 12-piece gold kitchen knife set with block, including chef knife, santoku, and steak knives"
 verdict_score: 4.5
 date: 2026-08-06
-price: 21.98
+price: null
 review_count: 494
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DQGNWCNC/?tag=tsvglyc-20"

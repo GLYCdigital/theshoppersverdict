@@ -7,7 +7,7 @@ slug: "decorative-string-lights-buoy-string-lights-set-of-10-lights-for-outdoor-
 image_alt: "Set of 10 buoy-shaped decorative string lights with warm white LEDs on a dark outdoor patio background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 20.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08QMRQ4TT/?tag=tsvglyc-20"

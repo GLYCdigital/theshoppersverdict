@@ -17,7 +17,7 @@ faq:
   - question: "Is the Pour Over Ceramic - durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-06-02
-price: 13.99
+price: null
 review_count: 1021
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BW8X97ZQ/?tag=tsvglyc-20"

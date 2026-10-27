@@ -7,7 +7,7 @@ slug: "tryme-solar-wind-chimes-outdoor-wind-chimes-birthday-gifts-for-mom-b0cp9k
 image_alt: "Tryme Solar Wind Chimes Outdoor Wind Chimes Birthday Gifts for Mom"
 verdict_score: 4.2
 date: 2026-06-17
-price: 31.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CP9KH8XL/?tag=tsvglyc-20"

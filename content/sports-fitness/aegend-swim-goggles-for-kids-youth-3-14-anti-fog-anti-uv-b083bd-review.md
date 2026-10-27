@@ -7,7 +7,7 @@ slug: "aegend-swim-goggles-for-kids-youth-3-14-anti-fog-anti-uv-b083bd-review"
 image_alt: "Aegend kids swim goggles with clear anti-fog lenses and adjustable strap on a child"
 verdict_score: 4.6
 date: 2026-08-06
-price: 12.59
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B083BD1MHM/?tag=tsvglyc-20"

@@ -19,7 +19,7 @@ faq:
   - question: "Can this be used in commercial kitchens?"
     answer: "Yes. Advion is labeled for use in commercial, residential, and industrial sites including restaurants and food handling areas when applied according to the label."
 date: 2026-07-15
-price: 9.99
+price: null
 review_count: 62510
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0148W0WOE/?tag=tsvglyc-20"

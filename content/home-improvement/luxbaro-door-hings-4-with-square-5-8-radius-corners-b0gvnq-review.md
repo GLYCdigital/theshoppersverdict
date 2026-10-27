@@ -7,7 +7,7 @@ slug: "luxbaro-door-hings-4-with-square-5-8-radius-corners-b0gvnq-review"
 image_alt: "Luxbaro Door Hings 4 with Square & 5/8 Radius Corners"
 verdict_score: 4.6
 date: 2026-06-17
-price: 16.14
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVNQ3LS9/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "makita-dub185z-cordless-handheld-leaf-blower-powered-by-18v-lxt-li-ion-b0
 image_alt: "Makita DUB185Z Cordless Handheld Leaf Blower Powered by 18V LXT Li-Ion Battery"
 verdict_score: 4.6
 date: 2026-06-17
-price: 82.0
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08FNYKHF5/?tag=tsvglyc-20"

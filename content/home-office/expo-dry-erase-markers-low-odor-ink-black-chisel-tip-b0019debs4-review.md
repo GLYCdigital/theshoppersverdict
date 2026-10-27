@@ -22,7 +22,7 @@ faq:
   - question: "What is the chisel tip good for?"
     answer: "The chisel tip allows both fine detail writing (using the narrow edge) and bold highlighting (using the wide edge). It's the most versatile tip shape for whiteboard work."
 date: 2026-07-23
-price: 38.44
+price: null
 review_count: 17289
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0019DEBS4/?tag=tsvglyc-20"

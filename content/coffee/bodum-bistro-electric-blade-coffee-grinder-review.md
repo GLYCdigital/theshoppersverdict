@@ -7,7 +7,7 @@ slug: "bodum-bistro-electric-blade-coffee-grinder-review"
 image_alt: "Bodum Bistro electric blade coffee grinder with stainless steel blades and clear lid on countertop"
 verdict_score: 4.4
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 7645
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0043073WQ/?tag=tsvglyc-20"

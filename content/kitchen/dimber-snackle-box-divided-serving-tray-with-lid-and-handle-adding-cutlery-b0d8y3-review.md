@@ -7,7 +7,7 @@ slug: "dimber-snackle-box-divided-serving-tray-with-lid-and-handle-adding-cutler
 image_alt: "Dimber Snackle Box divided serving tray with clear lid and carrying handle"
 verdict_score: 4.6
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D8Y3ZSJP/?tag=tsvglyc-20"

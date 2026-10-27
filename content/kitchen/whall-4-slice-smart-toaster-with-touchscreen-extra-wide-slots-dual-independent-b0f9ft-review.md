@@ -7,7 +7,7 @@ slug: "whall-4-slice-smart-toaster-with-touchscreen-extra-wide-slots-dual-indepe
 image_alt: "Whall 4-Slice Smart Toaster with Touchscreen & Extra-Wide Slots, Dual Independent Control, 6 Browning Levels & 6 Bread T"
 verdict_score: 4.2
 date: 2026-06-17
-price: 69.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0F9FT81YN/?tag=tsvglyc-20"

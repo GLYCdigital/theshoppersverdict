@@ -7,7 +7,7 @@ slug: "poemoon-flower-elegant-chandeliers-luxury-chandelier-lighting-modern-ceil
 image_alt: "Poemoon Flower Elegant Chandeliers Luxury Chandelier Lighting Modern Ceiling Pendant Light Fixture for Living Room Dinin"
 verdict_score: 4.6
 date: 2026-06-17
-price: 138.56
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0G7XV7THF/?tag=tsvglyc-20"

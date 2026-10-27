@@ -7,7 +7,7 @@ slug: "art3d-ceiling-tiles-b09sjg-review"
 image_alt: "Art3d PVC ceiling tiles installed over a textured ceiling showing the white coffered panel pattern"
 verdict_score: 4.2
 date: 2026-08-06
-price: 60.71
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B09SJGFLW3/?tag=tsvglyc-20"

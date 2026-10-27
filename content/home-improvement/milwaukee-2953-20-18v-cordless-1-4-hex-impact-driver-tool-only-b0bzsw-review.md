@@ -7,7 +7,7 @@ slug: "milwaukee-2953-20-18v-cordless-1-4-hex-impact-driver-tool-only-b0bzsw-rev
 image_alt: "Milwaukee 2953-20 18V Cordless 1/4 Hex Impact Driver (Tool Only)"
 verdict_score: 4.6
 date: 2026-06-17
-price: 141.27
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BZSWTVCV/?tag=tsvglyc-20"

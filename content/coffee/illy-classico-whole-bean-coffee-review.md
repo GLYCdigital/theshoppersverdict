@@ -7,7 +7,7 @@ slug: "illy-classico-whole-bean-coffee-review"
 image_alt: "illy Classico Whole Bean Coffee bag with red and silver branding"
 verdict_score: 4.6
 date: 2026-08-06
-price: 89.94
+price: null
 review_count: 6307
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07HRVYPJ7/?tag=tsvglyc-20"

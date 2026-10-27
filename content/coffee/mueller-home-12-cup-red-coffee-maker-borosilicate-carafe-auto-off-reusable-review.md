@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the MUELLER HOME 12-Cup Red?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-08-01
-price: 39.99
+price: null
 review_count: 9033
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DJRN24YK/?tag=tsvglyc-20"

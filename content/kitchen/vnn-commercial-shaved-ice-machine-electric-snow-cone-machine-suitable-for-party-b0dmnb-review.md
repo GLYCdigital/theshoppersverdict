@@ -7,7 +7,7 @@ slug: "vnn-commercial-shaved-ice-machine-electric-snow-cone-machine-suitable-for
 image_alt: "VNN Commercial Shaved Ice Machine - Electric Snow Cone Machine, Suitable for Party Activities, Family Gatherings, Events"
 verdict_score: 4.2
 date: 2026-06-17
-price: 169.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DMNB546G/?tag=tsvglyc-20"

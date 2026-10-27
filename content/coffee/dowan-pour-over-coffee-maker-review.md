@@ -7,7 +7,7 @@ slug: "dowan-pour-over-coffee-maker-review"
 image_alt: "White porcelain DOWAN pour over coffee dripper sitting on a ceramic mug, ready for manual brewing"
 verdict_score: 4.6
 date: 2026-08-06
-price: 13.24
+price: null
 review_count: 1939
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07RT4S7K9/?tag=tsvglyc-20"

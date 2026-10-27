@@ -7,7 +7,7 @@ slug: "ugreen-nas-dxp8800-plus-8-bay-desktop-nasync-intel-i5-1235u-10-b0d22h-rev
 image_alt: "UGREEN NAS DXP8800 Plus 8-Bay Desktop NASync, Intel i5 1235u 10-Core CPU, 8GB DDR5 RAM, Bulit-in 128G SSD for System, 2*"
 verdict_score: 4.2
 date: 2026-06-17
-price: 1282.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D22HGH4N/?tag=tsvglyc-20"

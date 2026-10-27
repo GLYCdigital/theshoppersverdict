@@ -7,7 +7,7 @@ slug: "ergear-height-adjustable-electric-standing-desk-review"
 image_alt: "ErGear 48x24 electric standing desk in vintage brown finish with dual motor memory presets"
 verdict_score: 4.5
 date: 2026-08-06
-price: 159.99
+price: null
 review_count: 11146
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0B422BBHT/?tag=tsvglyc-20"

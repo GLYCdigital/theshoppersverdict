@@ -7,7 +7,7 @@ slug: "orison-outdoor-ceiling-fans-with-light-wet-rated-outdoor-hanging-fan-for-
 image_alt: "Orison Outdoor Ceiling Fans with Light, Wet Rated Outdoor Hanging Fan for Gazebo, Plug in Caged Lighting for Pergola Can"
 verdict_score: 4.6
 date: 2026-06-17
-price: 149.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DD2XMPFT/?tag=tsvglyc-20"

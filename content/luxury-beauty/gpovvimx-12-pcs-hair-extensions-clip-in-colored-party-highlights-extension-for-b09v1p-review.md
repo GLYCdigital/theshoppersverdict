@@ -7,7 +7,7 @@ slug: "gpovvimx-12-pcs-hair-extensions-clip-in-colored-party-highlights-extensio
 image_alt: "GPOVVIMX 12 PCS Hair Extensions Clip in, Colored Party Highlights Extension for Kids Girls Synthetic Hairpiece Straight "
 verdict_score: 4.2
 date: 2026-06-17
-price: 11.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09V1PCZ9G/?tag=tsvglyc-20"

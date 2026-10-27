@@ -7,7 +7,7 @@ slug: "amazon-basics-gentle-mild-liquid-hand-soap-refill-50-oz-b09hhdhxwx-review
 image_alt: "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill 50 oz"
 verdict_score: 4.5
 date: 2026-07-17
-price: 3.82
+price: null
 review_count: 44666
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09HHDHXWX/?tag=tsvglyc-20"

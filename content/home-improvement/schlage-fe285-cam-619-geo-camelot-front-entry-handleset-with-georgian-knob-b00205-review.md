@@ -7,7 +7,7 @@ slug: "schlage-fe285-cam-619-geo-camelot-front-entry-handleset-with-georgian-kno
 image_alt: "Schlage FE285 CAM 619 GEO Camelot Front Entry Handleset with Georgian Knob, Lower Half Grip, Satin Nickel"
 verdict_score: 4.6
 date: 2026-06-17
-price: 111.32
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B002053PAU/?tag=tsvglyc-20"

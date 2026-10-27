@@ -19,7 +19,7 @@ faq:
   - question: "Is the Amazon Basics Double-Tipped Cotton Swabs durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-06-28
-price: 3.47
+price: null
 review_count: 76595
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09541P9WH/?tag=tsvglyc-20"

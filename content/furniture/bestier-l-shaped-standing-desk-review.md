@@ -22,7 +22,7 @@ faq:
   - question: "What is the desktop quality like?"
     answer: "Reviewers consistently describe it as high quality. The wood is described as 'smooth and laminated' made from thickened P2 grade particle board with a durable steel frame. It is described as heavy and sturdy."
 date: 2026-07-27
-price: 145.92
+price: null
 review_count: 159
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D4FGM58N/?tag=tsvglyc-20"

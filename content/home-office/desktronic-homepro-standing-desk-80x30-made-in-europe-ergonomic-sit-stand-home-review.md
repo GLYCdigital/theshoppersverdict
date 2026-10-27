@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Desktronic HomePro Standing Desk?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-08-02
-price: 119.99
+price: null
 review_count: 909
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0G8ZPGFYQ/?tag=tsvglyc-20"

@@ -17,7 +17,7 @@ faq:
   - question: "Is the Desk Lamp with Charger portable enough for travel?"
     answer: "Yes - reviewers consistently mention using it while traveling and appreciate its portability."
 date: 2026-06-01
-price: 15.99
+price: null
 review_count: 166
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FNMXPRJH/?tag=tsvglyc-20"

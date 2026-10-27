@@ -7,7 +7,7 @@ slug: "hansgrohe-01850181-3-4-inch-ibox-with-service-stop-b07bwq-review"
 image_alt: "Hansgrohe 01850181 3/4-Inch iBox with Service Stopâ€¦"
 verdict_score: 4.6
 date: 2026-06-17
-price: 122.89
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BWQWRGF/?tag=tsvglyc-20"

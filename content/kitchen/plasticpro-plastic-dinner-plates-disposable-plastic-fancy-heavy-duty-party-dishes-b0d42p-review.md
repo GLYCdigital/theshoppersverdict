@@ -7,7 +7,7 @@ slug: "plasticpro-plastic-dinner-plates-disposable-plastic-fancy-heavy-duty-part
 image_alt: "PLASTICPRO Plastic Dinner Plates Disposable Plastic Fancy Heavy Duty Party Dishes"
 verdict_score: 4.2
 date: 2026-06-17
-price: 16.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D42P3XQQ/?tag=tsvglyc-20"

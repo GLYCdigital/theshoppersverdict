@@ -7,7 +7,7 @@ slug: "electric-train-set-b0fk4k-review"
 image_alt: "Electric train set with locomotive, passenger cars, and oval track layout on floor"
 verdict_score: 4.2
 date: 2026-08-06
-price: 62.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0FK4K9GCK/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "amd-ryzen-5-8500g-6-core-12-thread-desktop-processor-b0cq4j-review"
 image_alt: "AMD Ryzen 5 8500G desktop processor in retail packaging showing the 6-core Zen 4 CPU and Radeon 740M integrated graphics"
 verdict_score: 4.6
 date: 2026-08-06
-price: 149.95
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CQ4JV8D5/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "lego-icons-land-rover-classic-defender-90-model-car-building-set-for-b0bs
 image_alt: "LEGO Icons Land Rover Classic Defender 90, Model Car Building Set for Adults and Classic Car Lovers, This Immersive Proj"
 verdict_score: 4.6
 date: 2026-06-17
-price: 278.94
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0BSR933M2/?tag=tsvglyc-20"

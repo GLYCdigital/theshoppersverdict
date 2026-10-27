@@ -7,7 +7,7 @@ slug: "extendable-plant-stakes-adjustable-length-plant-support-stakes-orchid-sti
 image_alt: "Extendable plant stakes with adjustable length and clips supporting an orchid plant"
 verdict_score: 4.6
 date: 2026-08-06
-price: 12.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F1MZ55JX/?tag=tsvglyc-20"

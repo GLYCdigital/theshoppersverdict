@@ -18,7 +18,7 @@ faq:
   - question: "Is the Cuisinart Stand Mixer, 12 Speed a good gift?"
     answer: "Yes, several reviewers bought this as a gift and reported that the recipient was happy with it. If you are shopping for someone who needs a kitchen appliance, this is a safe choice."
 date: 2026-06-28
-price: 297.60
+price: null
 review_count: 9956
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01H7R1EJY/?tag=tsvglyc-20"

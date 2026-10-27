@@ -22,7 +22,7 @@ faq:
   - question: "Does this work in all Keurig models?"
     answer: "Yes. These are standard K-Cup pods compatible with all Keurig K-Cup brewers, including K-Elite, K-Classic, K-Select, and Mini Plus models."
 date: 2026-07-23
-price: 47.57
+price: null
 review_count: 995
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0FGL212LX/?tag=tsvglyc-20"

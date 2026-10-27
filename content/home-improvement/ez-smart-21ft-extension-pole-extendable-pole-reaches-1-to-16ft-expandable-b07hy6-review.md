@@ -7,7 +7,7 @@ slug: "ez-smart-21ft-extension-pole-extendable-pole-reaches-1-to-16ft-expandable
 image_alt: "EZ Smart 21ft extension pole extended to full reach in a residential setting"
 verdict_score: 4.2
 date: 2026-08-06
-price: 84.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07HY6ZKSY/?tag=tsvglyc-20"

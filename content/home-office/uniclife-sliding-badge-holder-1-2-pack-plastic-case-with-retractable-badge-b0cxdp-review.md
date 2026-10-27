@@ -7,7 +7,7 @@ slug: "uniclife-sliding-badge-holder-1-2-pack-plastic-case-with-retractable-badg
 image_alt: "Uniclife Sliding Badge Holder 1/2 Pack Plastic Case with Retractable Badge Reel Carabiner Clip & Detachable Lanyard Stra"
 verdict_score: 4.6
 date: 2026-06-17
-price: 5.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CXDP8VYJ/?tag=tsvglyc-20"

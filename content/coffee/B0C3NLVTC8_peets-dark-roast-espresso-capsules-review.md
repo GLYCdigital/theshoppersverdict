@@ -7,7 +7,7 @@ slug: "peets-dark-roast-espresso-capsules-variety-pack-review"
 image_alt: "Peet's Coffee Dark Roast Espresso Capsules Variety Pack box with assorted aluminum capsules"
 verdict_score: 4.5
 date: 2026-08-06
-price: 58.42
+price: null
 review_count: 283
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C3NLVTC8/?tag=tsvglyc-20"

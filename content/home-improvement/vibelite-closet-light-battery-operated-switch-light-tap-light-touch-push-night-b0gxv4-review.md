@@ -7,7 +7,7 @@ slug: "vibelite-closet-light-battery-operated-switch-light-tap-light-touch-push-
 image_alt: "VIBELITE Closet Light, Battery Operated Switch Light, Tap Light, Touch, Push Night Lights, Wall Wireless Mount Under Cab"
 verdict_score: 4.2
 date: 2026-06-17
-price: 11.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GXV4VB8M/?tag=tsvglyc-20"

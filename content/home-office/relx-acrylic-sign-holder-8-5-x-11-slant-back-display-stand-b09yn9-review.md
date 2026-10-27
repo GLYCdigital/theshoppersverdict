@@ -7,7 +7,7 @@ slug: "relx-acrylic-sign-holder-8-5-x-11-slant-back-display-stand-b09yn9-review"
 image_alt: "Relx Acrylic Sign Holder - 8.5 x 11, Slant Back Display Stand with Clear Frames for Store, Restaurant"
 verdict_score: 4.2
 date: 2026-06-17
-price: 22.94
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09YN9J32N/?tag=tsvglyc-20"

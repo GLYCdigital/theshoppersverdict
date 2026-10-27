@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the KitchenAid 7 Quart Bowl-Lift?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the kitchen appliance category."
 date: 2026-06-04
-price: 644.95
+price: null
 review_count: 2527
 amazon_rating: 3.8
 amazon_url: "https://www.amazon.com/dp/B0BRNVPK1L/?tag=tsvglyc-20"

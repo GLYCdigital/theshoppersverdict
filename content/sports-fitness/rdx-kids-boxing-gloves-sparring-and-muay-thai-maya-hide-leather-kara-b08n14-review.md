@@ -7,7 +7,7 @@ slug: "rdx-kids-boxing-gloves-sparring-and-muay-thai-maya-hide-leather-kara-b08n
 image_alt: "RDX Kids Boxing Gloves Sparring and Muay Thai Maya Hide Leather, Kara Patent Pending Junior Training Mitt for Kickboxing"
 verdict_score: 4.6
 date: 2026-06-17
-price: 32.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B08N14NWMN/?tag=tsvglyc-20"

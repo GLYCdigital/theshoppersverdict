@@ -7,7 +7,7 @@ slug: "bella-10-speed-blender-plum-review"
 image_alt: "bella 10 Speed Blender in plum purple with 40-ounce glass jar and measuring cap"
 verdict_score: 4.0
 date: 2026-08-06
-price: 29.93
+price: null
 review_count: 2450
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0CZPGWJ8L/?tag=tsvglyc-20"

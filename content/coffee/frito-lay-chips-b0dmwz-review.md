@@ -7,7 +7,7 @@ slug: "frito-lay-chips-b0dmwz-review"
 image_alt: "Frito-Lay variety chip pack assortment with multiple snack bags"
 verdict_score: 4.6
 date: 2026-08-06
-price: 13.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DMWZHGMC/?tag=tsvglyc-20"

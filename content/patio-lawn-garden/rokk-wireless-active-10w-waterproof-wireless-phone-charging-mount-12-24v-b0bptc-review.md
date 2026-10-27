@@ -7,7 +7,7 @@ slug: "rokk-wireless-active-10w-waterproof-wireless-phone-charging-mount-12-24v-
 image_alt: "ROKK Wireless - Active. 10W Waterproof Wireless Phone Charging Mount 12/24V"
 verdict_score: 4.6
 date: 2026-06-17
-price: 184.9
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BPTCV1L6/?tag=tsvglyc-20"

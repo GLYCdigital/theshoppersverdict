@@ -7,7 +7,7 @@ slug: "geedel-rotary-cheese-grater-kitchen-mandoline-vegetable-slicer-with-3-int
 image_alt: "Geedel Rotary Cheese Grater, Kitchen Mandoline Vegetable Slicer with 3 Interchangeable Blades, Easy to Clean Rotary Grat"
 verdict_score: 4.6
 date: 2026-06-17
-price: 29.97
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08XMHN6YW/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "honbo-58-fighter-plane-kite-for-kids-adults-easy-to-fly-beach-b0dkf6-revi
 image_alt: "HONBO 58-inch fighter plane kite in flight with colorful design and long tail"
 verdict_score: 4.2
 date: 2026-08-06
-price: 16.8
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DKF6VCMW/?tag=tsvglyc-20"

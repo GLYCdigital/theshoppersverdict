@@ -19,7 +19,7 @@ faq:
   - question: "Is the Ticonderoga Wood-Cased Pencils, durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-07-12
-price: 17.13
+price: null
 review_count: 392
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0D2LRBNVT/?tag=tsvglyc-20"

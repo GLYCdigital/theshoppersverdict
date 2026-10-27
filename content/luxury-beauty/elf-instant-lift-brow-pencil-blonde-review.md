@@ -19,7 +19,7 @@ faq:
   - question: "Is e.l.f. cruelty-free?"
     answer: "Yes. All e.l.f. products are 100% vegan, cruelty-free, and Leaping Bunny certified. No animal testing at any stage of production."
 date: 2026-07-15
-price: 9.57
+price: null
 review_count: 14358
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07PBQZ3KF/?tag=tsvglyc-20"

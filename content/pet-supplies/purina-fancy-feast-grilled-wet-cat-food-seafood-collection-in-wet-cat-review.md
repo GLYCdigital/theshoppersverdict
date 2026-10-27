@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Purina Fancy Feast Grilled Wet?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the pet product category. The main drawbacks (features) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-03
-price: 11.43
+price: null
 review_count: 47059
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20"

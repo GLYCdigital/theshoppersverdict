@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the Breville BES880BSS Barista Touch?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-24
-price: 799.95
+price: null
 review_count: 3867
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B078WMLXXG/?tag=tsvglyc-20"

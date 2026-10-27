@@ -7,7 +7,7 @@ slug: "seeutek-electric-concrete-vibrator-b07bw7-review"
 image_alt: "Seeutek Electric Concrete Vibrator"
 verdict_score: 4.2
 date: 2026-06-17
-price: 62.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B07BW7ZB6C/?tag=tsvglyc-20"

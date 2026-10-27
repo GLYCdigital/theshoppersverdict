@@ -7,7 +7,7 @@ slug: "belleboost-jelly-bedazzling-rhinestones-for-crafting-and-nails-b0f4kc-rev
 image_alt: "BELLEBOOST jelly bedazzling rhinestones in assorted colors for nail art and crafting projects"
 verdict_score: 4.6
 date: 2026-08-06
-price: 6.42
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F4KCHMXL/?tag=tsvglyc-20"

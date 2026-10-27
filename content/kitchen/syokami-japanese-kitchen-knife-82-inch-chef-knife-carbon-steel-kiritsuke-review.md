@@ -7,7 +7,7 @@ slug: "syokami-japanese-kitchen-knife-82-inch-chef-knife-carbon-steel-kiritsuke-
 image_alt: "SYOKAMI 8.2 inch Japanese kiritsuke chef knife with carbon steel blade and wooden handle"
 verdict_score: 4.6
 date: 2026-08-06
-price: 36.99
+price: null
 review_count: 904
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0F3J4FBWC/?tag=tsvglyc-20"

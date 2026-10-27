@@ -7,7 +7,7 @@ slug: "902xl-ink-cartridges-for-hp-printers-replacement-for-hp-902xl-ink-cartrid
 image_alt: "902XL ink cartridges for HP printers replacement for HP 902X — four-color set displayed on white background"
 verdict_score: 4.2
 date: 2026-08-06
-price: 23.89
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DDTB3Y6W/?tag=tsvglyc-20"

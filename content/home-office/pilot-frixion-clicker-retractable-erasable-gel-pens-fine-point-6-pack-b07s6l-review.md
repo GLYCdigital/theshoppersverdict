@@ -7,7 +7,7 @@ slug: "pilot-frixion-clicker-retractable-erasable-gel-pens-fine-point-6-pack-b07
 image_alt: "Pilot FriXion Clicker Retractable Erasable Gel Pens, Fine Point, 6 Pack"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.9
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07S6L441P/?tag=tsvglyc-20"

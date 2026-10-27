@@ -19,7 +19,7 @@ faq:
   - question: "Is the CEVING World's First 60g good for beginners?"
     answer: "Yes - many reviewers mention this as their first coffee maker or brewer and were satisfied with the experience."
 date: 2026-07-30
-price: 29.99
+price: null
 review_count: 590
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0DTHN8ZMG/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "dagou-peel-and-stick-backsplash-3d-wall-tiles-self-adhesive-oil-proof-b0f
 image_alt: "DAGOU 3D peel and stick backsplash wall tiles in white, showing textured self-adhesive panels for kitchen or bathroom"
 verdict_score: 4.2
 date: 2026-08-06
-price: 32.9
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FSQG1W29/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "vadania-heavy-duty-drawer-slide-with-lock-silver-b0fsz7-review"
 image_alt: "VADANIA Heavy Duty Drawer Slide with Lock Silver"
 verdict_score: 4.2
 date: 2026-06-17
-price: 22.86
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FSZ7MVF3/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "omlivlies-cat-bed-b0d2qz-review"
 image_alt: "OMLIVLIES cat Bed"
 verdict_score: 4.6
 date: 2026-06-17
-price: 23.45
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D2QZGNSQ/?tag=tsvglyc-20"

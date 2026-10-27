@@ -7,7 +7,7 @@ slug: "oxo-brew-conical-burr-coffee-grinder-review"
 image_alt: "OXO Brew Conical Burr Coffee Grinder with hopper and grind container on countertop"
 verdict_score: 4.2
 date: 2026-08-06
-price: 109.95
+price: null
 review_count: 22830
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B07CSKGLMM/?tag=tsvglyc-20"

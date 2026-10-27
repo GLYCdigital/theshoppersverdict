@@ -7,7 +7,7 @@ slug: "omnica-2026-laptop-i5-16-inch-laptop-computer-up-to-3-60ghz-b0g3pp-review
 image_alt: "Omnica 2026 Laptop i5, 16 inch Laptop Computer Up to 3.60GHz"
 verdict_score: 4.2
 date: 2026-06-17
-price: 319.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0G3PPZVZ2/?tag=tsvglyc-20"

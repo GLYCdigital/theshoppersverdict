@@ -7,7 +7,7 @@ slug: "technivorm-moccamaster-kbgv-select-review"
 image_alt: "Technivorm Moccamaster KBGV Select coffee maker with glass carafe on countertop"
 verdict_score: 4.5
 date: 2026-08-06
-price: 349
+price: null
 review_count: 4851
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CXKL8CT2/?tag=tsvglyc-20"

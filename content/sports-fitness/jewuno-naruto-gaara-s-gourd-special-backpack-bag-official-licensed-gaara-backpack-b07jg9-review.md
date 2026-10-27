@@ -7,7 +7,7 @@ slug: "jewuno-naruto-gaara-s-gourd-special-backpack-bag-official-licensed-gaara-
 image_alt: "JEWUNO Naruto Gaaras Gourd Special Backpack Bag ~ Official Licensed Gaara Backpack"
 verdict_score: 4.6
 date: 2026-06-17
-price: 75.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07JG9Y7H3/?tag=tsvglyc-20"

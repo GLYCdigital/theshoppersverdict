@@ -7,7 +7,7 @@ slug: "bk-beauty-core-line-extension-face-set-5pc-professional-makeup-brush-set-
 image_alt: "BK Beauty Core Line Extension 5-piece professional face brush set arranged on a neutral background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 140.0
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CW2BNZTJ/?tag=tsvglyc-20"

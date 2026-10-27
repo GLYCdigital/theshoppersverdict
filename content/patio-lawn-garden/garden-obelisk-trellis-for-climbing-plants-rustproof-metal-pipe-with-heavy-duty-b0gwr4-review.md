@@ -7,7 +7,7 @@ slug: "garden-obelisk-trellis-for-climbing-plants-rustproof-metal-pipe-with-heav
 image_alt: "Rustproof metal garden obelisk trellis with climbing plants in a backyard flower bed"
 verdict_score: 4.2
 date: 2026-08-06
-price: 17.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0GWR4NP3X/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "employee-appreciation-gifts-bulk-inspirational-notebooks-small-notepads-w
 image_alt: "Bulk pack of small inspirational notebooks with motivational pens for employee appreciation gifts"
 verdict_score: 4.6
 date: 2026-08-06
-price: 15.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DL9SD68V/?tag=tsvglyc-20"

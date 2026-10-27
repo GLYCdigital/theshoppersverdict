@@ -7,7 +7,7 @@ slug: "pro-frog-animal-life-saver-saving-escape-ramp-bridge-ladder-for-swimming-
 image_alt: "Pro Frog Animal Life Saver Saving Escape Ramp Bridge Ladder for Swimming Pool Floating Small Wildlife Critter Duck Duckl"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D1V6QKJ8/?tag=tsvglyc-20"

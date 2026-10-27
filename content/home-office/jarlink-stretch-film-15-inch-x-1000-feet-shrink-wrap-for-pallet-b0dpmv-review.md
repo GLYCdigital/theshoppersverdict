@@ -7,7 +7,7 @@ slug: "jarlink-stretch-film-15-inch-x-1000-feet-shrink-wrap-for-pallet-b0dpmv-re
 image_alt: "JARLINK Stretch Film, 15 Inch x 1000 Feet Shrink Wrap for Pallet Wrap, Industrial Strength Stretch Wrap with Handles, Mo"
 verdict_score: 4.6
 date: 2026-06-17
-price: 16.98
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0DPMV5YHJ/?tag=tsvglyc-20"

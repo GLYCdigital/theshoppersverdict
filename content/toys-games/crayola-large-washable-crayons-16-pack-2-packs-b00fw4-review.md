@@ -7,7 +7,7 @@ slug: "crayola-large-washable-crayons-16-pack-2-packs-b00fw4-review"
 image_alt: "Two boxes of Crayola Large Washable Crayons in assorted colors on a white surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 12.15
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00FW4LMAQ/?tag=tsvglyc-20"

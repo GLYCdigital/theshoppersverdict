@@ -7,7 +7,7 @@ slug: "efomao-big-and-tall-office-chair-review"
 image_alt: "Efomao Big and Tall Office Chair with wide seat, high backrest, and adjustable lumbar support in black bonded leather"
 verdict_score: 4.2
 date: 2026-08-06
-price: 244.79
+price: null
 review_count: 4072
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FS1DBG4M/?tag=tsvglyc-20"

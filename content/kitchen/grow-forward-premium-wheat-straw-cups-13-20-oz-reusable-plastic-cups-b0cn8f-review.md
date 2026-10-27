@@ -7,7 +7,7 @@ slug: "grow-forward-premium-wheat-straw-cups-13-20-oz-reusable-plastic-cups-b0cn
 image_alt: "Grow Forward Premium Wheat Straw Cups - 13 & 20 oz Reusable Plastic Cups Set of 8"
 verdict_score: 4.6
 date: 2026-06-17
-price: 15.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CN8FHXM1/?tag=tsvglyc-20"

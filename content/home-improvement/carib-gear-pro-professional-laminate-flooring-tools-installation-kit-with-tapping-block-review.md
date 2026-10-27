@@ -7,7 +7,7 @@ slug: "carib-gear-pro-professional-laminate-flooring-tools-installation-kit-with
 image_alt: "Carib Gear Pro laminate flooring installation kit with tapping block, rubber mallet, pull bar and spacers laid out on a wood floor"
 verdict_score: 4.6
 date: 2026-08-06
-price: 38.99
+price: null
 review_count: 176
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0BVQ8JNH6/?tag=tsvglyc-20"

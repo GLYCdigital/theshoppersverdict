@@ -19,7 +19,7 @@ faq:
   - question: "Why does the 30 oz tub have crumbs at the bottom?"
     answer: "Some settling of smaller pieces is normal during shipping. Most cats still enjoy the pieces, though one reviewer noted about 3 oz of powder they didn't use."
 date: 2026-07-14
-price: 13.25
+price: null
 review_count: 72281
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20"

@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Crock-Pot 7-Quart Manual Slow Cooker?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the kitchen appliance category. The main drawbacks (performance) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-30
-price: 58.20
+price: null
 review_count: 61497
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20"

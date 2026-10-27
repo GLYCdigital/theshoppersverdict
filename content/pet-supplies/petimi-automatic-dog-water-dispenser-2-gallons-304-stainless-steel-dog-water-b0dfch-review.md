@@ -7,7 +7,7 @@ slug: "petimi-automatic-dog-water-dispenser-2-gallons-304-stainless-steel-dog-wa
 image_alt: "PETIMI Automatic Dog Water Dispenser, 2 Gallons 304 Stainless Steel Dog Water Bowl for Indoor/Outdoor, Large Water Bowl "
 verdict_score: 4.2
 date: 2026-06-17
-price: 74.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DFCHD6X6/?tag=tsvglyc-20"

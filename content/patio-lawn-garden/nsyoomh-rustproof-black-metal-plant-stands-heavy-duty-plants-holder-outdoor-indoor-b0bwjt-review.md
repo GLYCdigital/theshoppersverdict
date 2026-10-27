@@ -7,7 +7,7 @@ slug: "nsyoomh-rustproof-black-metal-plant-stands-heavy-duty-plants-holder-outdo
 image_alt: "NSYOOMH Rustproof Black Metal Plant Stands Heavy Duty Plants Holder Outdoor Indoor, Round Wrought Iron Flower Planter Po"
 verdict_score: 4.6
 date: 2026-06-17
-price: 16.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BWJTXTK2/?tag=tsvglyc-20"

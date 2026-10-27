@@ -7,7 +7,7 @@ slug: "aula-wireless-mechanical-keyboard-75-tkl-custom-hot-swappable-gaming-keyb
 image_alt: "AULA wireless 75% mechanical keyboard with RGB backlighting and compact TKL layout on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 59.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D96DRD4T/?tag=tsvglyc-20"

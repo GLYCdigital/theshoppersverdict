@@ -22,7 +22,7 @@ faq:
   - question: "Does the Ultrean scale come with batteries?"
     answer: "Yes, batteries are included, though some users report receiving dead batteries. It uses a standard CR2032 coin cell battery, which is inexpensive and widely available."
 date: 2026-06-08
-price: 6.98
+price: null
 review_count: 21051
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20"

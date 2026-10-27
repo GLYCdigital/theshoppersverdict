@@ -7,7 +7,7 @@ slug: "67xl-ink-cartridges-black-color-combo-pack-compatible-for-hp-ink-67-b0dyn
 image_alt: "67XL black and tri-color ink cartridge combo pack for HP printers"
 verdict_score: 4.2
 date: 2026-08-06
-price: 39.69
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DYNTZXMN/?tag=tsvglyc-20"

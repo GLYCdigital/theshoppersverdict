@@ -7,7 +7,7 @@ slug: "voyee-switch-controllers-compatible-with-switch-lite-oled-programming-wir
 image_alt: "VOYEE Switch Controllers Compatible with Switch/Lite/OLED, Programming Wireless Pro Controller with Motion Control, Vibr"
 verdict_score: 4.2
 date: 2026-06-17
-price: 18.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D2YFD32Y/?tag=tsvglyc-20"

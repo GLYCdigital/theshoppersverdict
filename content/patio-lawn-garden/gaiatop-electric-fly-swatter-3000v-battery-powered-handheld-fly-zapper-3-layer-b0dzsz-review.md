@@ -7,7 +7,7 @@ slug: "gaiatop-electric-fly-swatter-3000v-battery-powered-handheld-fly-zapper-3-
 image_alt: "GAIATOP 3000V electric fly swatter with 3-layer mesh grid and ergonomic handle"
 verdict_score: 4.2
 date: 2026-08-06
-price: 12.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DZSZ5PV5/?tag=tsvglyc-20"

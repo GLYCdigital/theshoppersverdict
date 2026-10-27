@@ -7,7 +7,7 @@ slug: "12pcs-stainless-steel-serving-utensils-sets-large-serving-spoons-slotted-
 image_alt: "12-piece stainless steel serving utensils set with slotted spoons, solid serving spoons, and forks displayed on a kitchen counter"
 verdict_score: 4.6
 date: 2026-08-06
-price: 19.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CPTDTS3S/?tag=tsvglyc-20"

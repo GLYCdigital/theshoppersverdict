@@ -7,7 +7,7 @@ slug: "peasur-solar-motion-lights-outdoor-solar-security-light-with-3-modes-ip65
 image_alt: "Peasur Solar Motion Lights Outdoor, Solar Security Light with 3 Modes, IP65 Waterproof Flood Lights Outside for Camping "
 verdict_score: 4.6
 date: 2026-06-17
-price: 7.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F9DF54YY/?tag=tsvglyc-20"

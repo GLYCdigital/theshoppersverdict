@@ -7,7 +7,7 @@ slug: "whirlpool-w10165294rb-genuine-oem-trash-compactor-bags-60-pack-heavy-duty
 image_alt: "Whirlpool W10165294RB Genuine OEM Trash Compactor Bags (60-Pack) â€“ Heavy-Duty 15-Inch Replacement Bags â€“ Fits Kitche"
 verdict_score: 4.6
 date: 2026-06-17
-price: 45.27
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B001U0OJ7O/?tag=tsvglyc-20"

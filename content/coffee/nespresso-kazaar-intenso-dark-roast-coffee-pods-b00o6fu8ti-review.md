@@ -22,7 +22,7 @@ faq:
   - question: "How many shots of espresso does the 50-count box make?"
     answer: "50 capsules produce 50 single shots of espresso. If you use two capsules per drink (common for lattes or Americanos), the box yields 25 drinks."
 date: 2026-07-23
-price: 45
+price: null
 review_count: 3652
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00O6FU8TI/?tag=tsvglyc-20"

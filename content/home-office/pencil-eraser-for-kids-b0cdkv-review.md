@@ -7,7 +7,7 @@ slug: "pencil-eraser-for-kids-b0cdkv-review"
 image_alt: "Pencil Eraser for Kids"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CDKV28DP/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "hfs-r-heavy-duty-guillotine-paper-cutter-400-sheet-capacity-solid-steel-b
 image_alt: "HFS(R) Heavy Duty Guillotine Paper Cutter 400 Sheet Capacity | Solid Steel Construction"
 verdict_score: 4.2
 date: 2026-06-17
-price: 270.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B07FCXK6V5/?tag=tsvglyc-20"

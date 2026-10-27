@@ -7,7 +7,7 @@ slug: "oneida-true-rose-everyday-flatware-dinner-knives-b0fz6n-review"
 image_alt: "Oneida True Rose Everyday Flatware Dinner Knives"
 verdict_score: 4.6
 date: 2026-06-17
-price: 47.68
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FZ6N4J3F/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "eco-style-ecoco-gel-oil-oz-b0czst-review"
 image_alt: "Eco Style Ecoco Gel Oil jar showing product texture and packaging"
 verdict_score: 4.6
 date: 2026-08-06
-price: 21.6
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CZST8MGT/?tag=tsvglyc-20"

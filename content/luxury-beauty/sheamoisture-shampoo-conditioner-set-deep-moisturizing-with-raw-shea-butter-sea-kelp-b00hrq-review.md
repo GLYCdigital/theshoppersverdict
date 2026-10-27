@@ -7,7 +7,7 @@ slug: "sheamoisture-shampoo-conditioner-set-deep-moisturizing-with-raw-shea-butt
 image_alt: "SheaMoisture Shampoo & Conditioner Set, Deep Moisturizing with Raw Shea Butter, Sea Kelp & Argan Oil for Coily & Curly H"
 verdict_score: 4.6
 date: 2026-06-17
-price: 24.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B00HRQQNCO/?tag=tsvglyc-20"

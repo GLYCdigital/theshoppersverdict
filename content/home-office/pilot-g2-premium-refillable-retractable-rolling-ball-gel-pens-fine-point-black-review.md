@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the PILOT G2 Premium Refillable?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-07-09
-price: 19.89
+price: null
 review_count: 32711
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20"

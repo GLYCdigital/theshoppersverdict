@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Brita Longlast Replacement Water?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the tool or home improvement product category."
 date: 2026-07-12
-price: 47.71
+price: null
 review_count: 37212
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B01MU7973W/?tag=tsvglyc-20"

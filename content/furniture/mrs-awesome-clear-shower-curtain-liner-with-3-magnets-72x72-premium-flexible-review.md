@@ -17,7 +17,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 7+ reviews averaging strongly, it is a reliable choice in the piece of furniture category."
 date: 2026-08-04
 last_verified: 2026-08-04
-price: 14.52
+price: null
 review_count: 40052
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08NJ6VF9T/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "wemate-8pcs-ballpoint-pens-set-ballpoint-pen-bling-for-women-girly-pens-b
 image_alt: "WEMATE 8Pcs Ballpoint Pens Set,Ballpoint Pen Bling for Women,Girly Pens,Black and Blue Ink Ball Point Pen Gifts for Wedd"
 verdict_score: 4.6
 date: 2026-06-17
-price: 12.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTTDJJYV/?tag=tsvglyc-20"

@@ -20,7 +20,7 @@ faq:
   - question: "Do the notebook colors vary by order?"
     answer: "Yes. The color assortment may vary between shipments. If you order multiple 6-packs, you may not get matching sets. This is common across all bulk notebook listings."
 date: 2026-07-09
-price: 25.64
+price: null
 review_count: 42639
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00D3OR58A/?tag=tsvglyc-20"

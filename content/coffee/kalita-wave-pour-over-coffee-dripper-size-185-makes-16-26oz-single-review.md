@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Kalita Wave Pour Over Coffee?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the coffee maker or brewer category. The main drawbacks (performance) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-28
-price: 26.25
+price: null
 review_count: 1362
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B004W5KPSQ/?tag=tsvglyc-20"

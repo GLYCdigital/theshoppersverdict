@@ -7,7 +7,7 @@ slug: "jcd-1-2-cupcake-paper-box-perfect-for-bento-box-and-cupcakes-b0dxc9-revie
 image_alt: "JCD 1+2 Cupcake paper box Perfect for Bento Box and Cupcakes, Bento Cake and Boxes Combo, Boxes Fit 2 Regular Cupcakes a"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DXC9J83J/?tag=tsvglyc-20"

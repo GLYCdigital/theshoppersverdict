@@ -7,7 +7,7 @@ slug: "pacifica-hair-shampoo-best-sulfate-free-shampoo-anti-dandruff-shampoo-app
 image_alt: "Pacifica hair shampoo best sulfate free shampoo anti-dandruff shampoo Apple Cider Womens Men clarifying Keratin Wet Dry "
 verdict_score: 4.2
 date: 2026-06-17
-price: 14.0
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0DMF2K1ZV/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "What colors come in the 12-pack?"
     answer: "10 colors total: black (x2), blue (x2), red, green, orange, purple, yellow, pink, brown, and light blue. The red is sometimes reported as lighter/pinker than expected."
 date: 2026-06-08
-price: 6.99
+price: null
 review_count: 12591
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B9CDZ9BL/?tag=tsvglyc-20"

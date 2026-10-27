@@ -7,7 +7,7 @@ slug: "apple-earpods-lightning-connector-review"
 image_alt: "Apple EarPods with Lightning Connector on white background showing in-ear design and inline remote"
 verdict_score: 4.6
 date: 2026-08-06
-price: 15.98
+price: null
 review_count: 15710
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D7FVQ1ZB/?tag=tsvglyc-20"

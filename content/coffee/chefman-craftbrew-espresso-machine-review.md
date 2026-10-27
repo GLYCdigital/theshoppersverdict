@@ -7,7 +7,7 @@ slug: "chefman-craftbrew-espresso-machine-review"
 image_alt: "Chefman CraftBrew Espresso Machine with stainless steel milk frother and portafilter on countertop"
 verdict_score: 3.8
 date: 2026-08-06
-price: 82.99
+price: null
 review_count: 644
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DWBGD2R8/?tag=tsvglyc-20"

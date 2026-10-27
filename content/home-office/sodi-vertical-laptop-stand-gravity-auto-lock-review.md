@@ -19,7 +19,7 @@ faq:
   - question: "Will the stand scratch my laptop?"
     answer: "No. The interior has rubber tabs that only touch the laptop's edges. Multiple reviewers confirm no marks or scratches."
 date: 2026-07-14
-price: 29.99
+price: null
 review_count: 664
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0CC5FZCD9/?tag=tsvglyc-20"

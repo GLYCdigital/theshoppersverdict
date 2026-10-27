@@ -7,7 +7,7 @@ slug: "beoffer-3-pack-microfiber-hair-towel-wrap-super-absorbent-for-women-fast-
 image_alt: "Three BEoffer microfiber hair towel wraps in teal, purple, and gray with button loop closures"
 verdict_score: 4.6
 date: 2026-08-06
-price: 9.49
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BJPPSK8X/?tag=tsvglyc-20"

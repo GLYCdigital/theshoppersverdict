@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Temptations Cat Treats Classic Crunchy?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the pet product category. The main drawbacks (features) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-07
-price: 13.25
+price: null
 review_count: 72281
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20"

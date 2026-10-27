@@ -7,7 +7,7 @@ slug: "yinder-inspirational-sticky-notes-cute-motivational-sticky-notes-pad-end-
 image_alt: "Yinder Inspirational Sticky Notes Cute Motivational Sticky Notes Pad End of Year Employee Appreciation Gifts Bulk for Te"
 verdict_score: 4.2
 date: 2026-06-17
-price: 8.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F1TN88GP/?tag=tsvglyc-20"

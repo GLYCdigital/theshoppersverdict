@@ -7,7 +7,7 @@ slug: "nourison-home-22-ceramic-table-lamp-b0dtqk-review"
 image_alt: "Nourison Home 22 Ceramic Table Lamp"
 verdict_score: 4.2
 date: 2026-06-17
-price: 72.27
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DTQK52C5/?tag=tsvglyc-20"

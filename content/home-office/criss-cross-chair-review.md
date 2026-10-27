@@ -7,7 +7,7 @@ slug: "criss-cross-chair-review"
 image_alt: "Criss Cross Chair with flip-up arms in a home office setting showing the low-profile seat and padded armrests"
 verdict_score: 4.5
 date: 2026-08-06
-price: 99.99
+price: null
 review_count: 38
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GJDFSQ11/?tag=tsvglyc-20"

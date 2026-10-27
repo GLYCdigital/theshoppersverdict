@@ -7,7 +7,7 @@ slug: "24pcs-edge-foam-protection-corners-b0djm3-review"
 image_alt: "24-pack of white self-adhesive foam edge protection corners for desks and furniture"
 verdict_score: 4.2
 date: 2026-08-06
-price: 20.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0DJM3WPP7/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "steel-electrical-junction-box-indoor-outdoor-electrical-enclosure-box-wal
 image_alt: "Steel Electrical Junction Box, Indoor&Outdoor Electrical Enclosure Box, Wall Mounted Waterproof&Dustproof Metal Box, Uni"
 verdict_score: 4.2
 date: 2026-06-17
-price: 36.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0BL2FS114/?tag=tsvglyc-20"

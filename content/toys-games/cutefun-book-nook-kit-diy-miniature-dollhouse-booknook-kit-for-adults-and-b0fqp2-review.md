@@ -7,7 +7,7 @@ slug: "cutefun-book-nook-kit-diy-miniature-dollhouse-booknook-kit-for-adults-and
 image_alt: "Cutefun Book Nook Kit DIY miniature dollhouse with LED lights placed between books on a shelf"
 verdict_score: 4.6
 date: 2026-08-06
-price: 33.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FQP2K33Z/?tag=tsvglyc-20"

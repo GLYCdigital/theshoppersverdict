@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Adjustable Height Standing Desk?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-08-02
-price: 49.99
+price: null
 review_count: 142
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0FPCMX4BG/?tag=tsvglyc-20"

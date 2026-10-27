@@ -7,7 +7,7 @@ slug: "amazon-basics-displayport-to-displayport-hd-display-adapter-cable-b01n58-
 image_alt: "Amazon Basics DisplayPort to DisplayPort HD Display Adapter cable with gold-plated connectors"
 verdict_score: 4.6
 date: 2026-08-06
-price: 4.72
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N58WYS7/?tag=tsvglyc-20"

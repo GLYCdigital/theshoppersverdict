@@ -7,7 +7,7 @@ slug: "lenovo-20v-11-5a-230w-slim-tip-ac-adapter-for-legion-5i-b0d4lq-review"
 image_alt: "Lenovo 20V 11.5A 230W Slim Tip AC Adapter for Legion 5i Gen 9 Legion Slim 5 Gen 9 (16â€³ AMD) ThinkBook 16p Gen 4, Compa"
 verdict_score: 4.2
 date: 2026-06-17
-price: 49.64
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D4LQWN22/?tag=tsvglyc-20"

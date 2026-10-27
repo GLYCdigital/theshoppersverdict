@@ -7,7 +7,7 @@ slug: "yqwdmx-mural3-b0cwzv-review"
 image_alt: "YQWDMX - MURAL3"
 verdict_score: 4.2
 date: 2026-06-17
-price: 59.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CWZVTK6R/?tag=tsvglyc-20"

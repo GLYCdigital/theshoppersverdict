@@ -7,7 +7,7 @@ slug: "receipt-coupon-organizer-b0dwsc-review"
 image_alt: "Receipt Coupon Organizer"
 verdict_score: 4.6
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DWSCTY92/?tag=tsvglyc-20"

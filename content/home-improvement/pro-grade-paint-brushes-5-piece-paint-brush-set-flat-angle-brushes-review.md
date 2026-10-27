@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Pro Grade Paint Brushes?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the tool or home improvement product category."
 date: 2026-07-12
-price: 7.99
+price: null
 review_count: 71126
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07JHQ4L4F/?tag=tsvglyc-20"

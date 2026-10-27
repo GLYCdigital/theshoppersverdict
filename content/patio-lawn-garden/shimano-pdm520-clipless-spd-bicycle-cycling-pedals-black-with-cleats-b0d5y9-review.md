@@ -7,7 +7,7 @@ slug: "shimano-pdm520-clipless-spd-bicycle-cycling-pedals-black-with-cleats-b0d5
 image_alt: "Shimano PDM520 Clipless SPD Bicycle Cycling Pedals Black with Cleats"
 verdict_score: 4.6
 date: 2026-06-17
-price: 62.1
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D5Y9ZBM3/?tag=tsvglyc-20"

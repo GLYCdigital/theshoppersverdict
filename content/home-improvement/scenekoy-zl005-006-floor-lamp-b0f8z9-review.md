@@ -7,7 +7,7 @@ slug: "scenekoy-zl005-006-floor-lamp-b0f8z9-review"
 image_alt: "Scenekoy ZL005-006 Floor Lamp"
 verdict_score: 4.6
 date: 2026-06-17
-price: 119.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8Z9M6L3/?tag=tsvglyc-20"

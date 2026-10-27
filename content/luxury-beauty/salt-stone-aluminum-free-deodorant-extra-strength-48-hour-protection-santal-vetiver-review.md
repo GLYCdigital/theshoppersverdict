@@ -7,7 +7,7 @@ slug: "salt-stone-aluminum-free-deodorant-extra-strength-48-hour-protection-sant
 image_alt: "Salt & Stone Aluminum Free Deodorant Santal & Vetiver"
 verdict_score: 4.0
 date: 2026-07-09
-price: 31.93
+price: null
 review_count: 16763
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B08WYXNVQ7/?tag=tsvglyc-20"

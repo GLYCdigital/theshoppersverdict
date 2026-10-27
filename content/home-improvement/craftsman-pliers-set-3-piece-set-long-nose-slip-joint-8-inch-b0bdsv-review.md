@@ -7,7 +7,7 @@ slug: "craftsman-pliers-set-3-piece-set-long-nose-slip-joint-8-inch-b0bdsv-revie
 image_alt: "CRAFTSMAN 3-piece pliers set with 8-inch long nose and slip joint pliers laid out on workbench"
 verdict_score: 4.6
 date: 2026-08-06
-price: 40.52
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDSV2SJQ/?tag=tsvglyc-20"

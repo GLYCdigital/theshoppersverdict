@@ -7,7 +7,7 @@ slug: "thunderworks-games-cartographers-a-roll-player-tale-award-winning-game-of
 image_alt: "Thunderworks Games - Cartographers: A Roll Player Tale | Award-Winning Game of Fantasy Map Drawing | Strategy Board Game"
 verdict_score: 4.6
 date: 2026-06-17
-price: 29.95
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DBHG7GRP/?tag=tsvglyc-20"

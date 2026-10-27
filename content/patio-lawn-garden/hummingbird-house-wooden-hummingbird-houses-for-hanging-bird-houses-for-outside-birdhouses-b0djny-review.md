@@ -7,7 +7,7 @@ slug: "hummingbird-house-wooden-hummingbird-houses-for-hanging-bird-houses-for-o
 image_alt: "Hummingbird House, Wooden Hummingbird Houses for Hanging, Bird Houses for Outside, Birdhouses with Bow, String, Gardenin"
 verdict_score: 4.2
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DJNY8BCW/?tag=tsvglyc-20"

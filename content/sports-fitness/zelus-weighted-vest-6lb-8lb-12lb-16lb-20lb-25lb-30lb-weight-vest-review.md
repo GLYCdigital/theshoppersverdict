@@ -16,7 +16,7 @@ faq:
   - question: "Is the ZELUS Weighted Vest, durable enough for daily use?"
     answer: "Yes, many reviewers use it daily and report that it holds up well over time. A few mention long-term durability concerns, but the majority of daily users are satisfied."
 date: 2026-07-05
-price: 51.62
+price: null
 review_count: 16509
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07518RBH2/?tag=tsvglyc-20"

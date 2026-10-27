@@ -7,7 +7,7 @@ slug: "aiibe-20pack-usb-flash-drives-thumbdrives-b0cwp4-review"
 image_alt: "Aiibe 20Pack USB flash drives in assorted colors with swivel caps"
 verdict_score: 4.6
 date: 2026-08-06
-price: 54.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CWP4DJ7X/?tag=tsvglyc-20"

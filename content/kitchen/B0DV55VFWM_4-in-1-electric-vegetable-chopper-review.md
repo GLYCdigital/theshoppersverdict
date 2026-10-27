@@ -7,7 +7,7 @@ slug: "4-in-1-electric-vegetable-chopper-slicer-review"
 image_alt: "4-In-1 Electric Vegetable Chopper 200W with interchangeable blades and 2-liter bowl on a kitchen counter"
 verdict_score: 3.9
 date: 2026-08-06
-price: 259.99
+price: null
 review_count: 43
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0DV55VFWM/?tag=tsvglyc-20"

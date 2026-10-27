@@ -7,7 +7,7 @@ slug: "quaker-rice-crisps-caramel-9-8-oz-b09s84-review"
 image_alt: "Quaker Rice Crisps Caramel, 9.8 Oz"
 verdict_score: 4.6
 date: 2026-06-17
-price: 5.57
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09S84VZRV/?tag=tsvglyc-20"

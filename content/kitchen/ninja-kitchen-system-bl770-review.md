@@ -7,7 +7,7 @@ slug: "ninja-kitchen-system-bl770-review"
 image_alt: "Ninja Kitchen System BL770 with 72-oz blender pitcher, food processor bowl, and single-serve cups"
 verdict_score: 4.6
 date: 2026-08-06
-price: 169.99
+price: null
 review_count: 92840
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B00939I7EK/?tag=tsvglyc-20"

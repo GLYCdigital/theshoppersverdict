@@ -7,7 +7,7 @@ slug: "ninja-9-cup-food-processor-for-kitchen-1000pw-motor-9-cup-processing-bowl
 image_alt: "Ninja 9-Cup Food Processor BZ601"
 verdict_score: 4.7
 date: 2026-07-09
-price: 129.99
+price: null
 review_count: 12343
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GVL6RB6Z/?tag=tsvglyc-20"

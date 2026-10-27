@@ -7,7 +7,7 @@ slug: "maglaw-table-lamp-b0bx3r-review"
 image_alt: "maglaw Table Lamp"
 verdict_score: 4.2
 date: 2026-06-17
-price: 39.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0BX3RMNL4/?tag=tsvglyc-20"

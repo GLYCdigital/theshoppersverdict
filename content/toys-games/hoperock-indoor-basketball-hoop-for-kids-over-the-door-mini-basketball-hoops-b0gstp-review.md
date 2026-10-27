@@ -7,7 +7,7 @@ slug: "hoperock-indoor-basketball-hoop-for-kids-over-the-door-mini-basketball-ho
 image_alt: "HopeRock over-the-door mini basketball hoop mounted on a door with ball and pump included"
 verdict_score: 4.6
 date: 2026-08-06
-price: 37.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GSTPF47J/?tag=tsvglyc-20"

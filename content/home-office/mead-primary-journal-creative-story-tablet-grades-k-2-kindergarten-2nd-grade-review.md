@@ -19,7 +19,7 @@ faq:
   - question: "Is the Mead Primary Journal Creative durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-08-01
-price: 15.29
+price: null
 review_count: 3956
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00LT54P06/?tag=tsvglyc-20"

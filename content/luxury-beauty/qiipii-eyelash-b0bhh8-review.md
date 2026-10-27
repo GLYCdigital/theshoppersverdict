@@ -7,7 +7,7 @@ slug: "qiipii-eyelash-b0bhh8-review"
 image_alt: "qiipii Eyelash"
 verdict_score: 4.2
 date: 2026-06-17
-price: 5.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHH82LN7/?tag=tsvglyc-20"

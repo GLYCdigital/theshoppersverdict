@@ -8,7 +8,7 @@ slug: "furnace-filter-merv-11-b0g269-review"
 image_alt: "Furnace Filter MERV 11 pleated air filter showing media layers and cardboard frame"
 verdict_score: 4.6
 date: 2026-08-06
-price: 14.97
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0G269SZTB/?tag=tsvglyc-20"

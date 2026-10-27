@@ -7,7 +7,7 @@ slug: "biosilk-volumizing-therapy-texturizing-powder-b0gl6x-review"
 image_alt: "BioSilk Volumizing Therapy Texturizing Powder bottle with fine mist applicator"
 verdict_score: 4.2
 date: 2026-08-06
-price: 9.66
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GL6X1Y1R/?tag=tsvglyc-20"

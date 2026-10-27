@@ -7,7 +7,7 @@ slug: "beats-studio-pro-wireless-headphones-review"
 image_alt: "Beats Studio Pro wireless noise-canceling headphones in black with padded ear cushions"
 verdict_score: 4.5
 date: 2026-08-06
-price: 169.95
+price: null
 review_count: 27651
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C8PR4W22/?tag=tsvglyc-20"

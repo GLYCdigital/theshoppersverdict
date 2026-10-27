@@ -7,7 +7,7 @@ slug: "bath-bombs-for-kids-with-surprise-inside-24-pack-kids-bath-bombs-b0c6yc-r
 image_alt: "Colorful kids bath bombs with hidden surprise toy inside, 24 pack assortment for children's bathtime"
 verdict_score: 4.2
 date: 2026-08-06
-price: 21.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0C6YCHZ48/?tag=tsvglyc-20"

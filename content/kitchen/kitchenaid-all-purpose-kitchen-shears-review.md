@@ -7,7 +7,7 @@ slug: "kitchenaid-all-purpose-kitchen-shears-review"
 image_alt: "KitchenAid All Purpose Kitchen Shears with black handles, stainless steel blades, and protective sheath on a cutting board"
 verdict_score: 4.8
 date: 2026-08-06
-price: 7.59
+price: null
 review_count: 70845
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20"

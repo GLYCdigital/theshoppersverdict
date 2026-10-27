@@ -7,7 +7,7 @@ slug: "fuiobyvv-bed-frame-b0d17v-review"
 image_alt: "FUIOBYVV metal platform bed frame with wooden slats in a modern bedroom setting"
 verdict_score: 4.2
 date: 2026-08-06
-price: 79.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0D17VZDQ1/?tag=tsvglyc-20"

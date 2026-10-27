@@ -7,7 +7,7 @@ slug: "mofii-wireless-keyboard-and-mouse-combo-cute-keyboard-full-size-and-3-b0f
 image_alt: "MOFII Wireless Keyboard and Mouse Combo, Cute Keyboard Full Size and 3 DPI Adjustable Mouse, 2.4GHz Retro Typewriter Key"
 verdict_score: 4.2
 date: 2026-06-17
-price: 36.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0FZTQ1HMG/?tag=tsvglyc-20"

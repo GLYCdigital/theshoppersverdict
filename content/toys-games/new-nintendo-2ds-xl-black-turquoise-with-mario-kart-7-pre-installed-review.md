@@ -14,7 +14,7 @@ faq:
   - question: "Should I buy the New Nintendo 2DS XL?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the toy or game category."
 date: 2026-06-17
-price: 21.91
+price: null
 review_count: 6879
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B07GZJB8FG/?tag=tsvglyc-20"

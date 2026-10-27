@@ -7,7 +7,7 @@ slug: "bonfasvo-300-pack-catalog-envelopes-peel-seal-security-mailing-envelopes-
 image_alt: "Stack of Bonfasvo kraft catalog envelopes with peel and seal closure"
 verdict_score: 4.6
 date: 2026-08-06
-price: 28.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0BTVZ5CGW/?tag=tsvglyc-20"

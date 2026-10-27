@@ -7,7 +7,7 @@ slug: "schluter-ditra-xl-uncoupling-and-waterproofing-membrane-for-ceramic-and-s
 image_alt: "Schluter Ditra-XL Uncoupling and Waterproofing Membrane for Ceramic and Stone Tile Application - Quick Installation, Mad"
 verdict_score: 4.6
 date: 2026-06-17
-price: 411.43
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B018A2WO1W/?tag=tsvglyc-20"

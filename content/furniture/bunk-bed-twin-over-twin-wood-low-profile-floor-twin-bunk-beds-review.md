@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Bunk Bed Twin Over?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the piece of furniture category."
 date: 2026-06-17
-price: 33.10
+price: null
 review_count: 96
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0D6BGWLB8/?tag=tsvglyc-20"

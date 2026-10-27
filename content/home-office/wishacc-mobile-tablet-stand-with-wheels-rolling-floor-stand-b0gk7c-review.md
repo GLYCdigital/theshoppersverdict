@@ -7,7 +7,7 @@ slug: "wishacc-mobile-tablet-stand-with-wheels-rolling-floor-stand-b0gk7c-review
 image_alt: "wishacc Mobile Tablet Stand with Wheels, Rolling Floor Stand"
 verdict_score: 4.2
 date: 2026-06-17
-price: 56.99
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0GK7CHVB4/?tag=tsvglyc-20"

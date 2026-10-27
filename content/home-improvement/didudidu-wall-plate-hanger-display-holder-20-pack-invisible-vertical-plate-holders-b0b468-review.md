@@ -7,7 +7,7 @@ slug: "didudidu-wall-plate-hanger-display-holder-20-pack-invisible-vertical-plat
 image_alt: "DIDUDIDU invisible wall plate hanger display holders installed on a kitchen wall holding decorative ceramic plates vertically"
 verdict_score: 4.2
 date: 2026-08-06
-price: 9.49
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0B468X7N1/?tag=tsvglyc-20"

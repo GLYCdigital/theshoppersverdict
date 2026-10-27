@@ -19,7 +19,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the kitchen appliance category."
 date: 2026-08-05
 last_verified: 2026-08-05
-price: 13.99
+price: null
 review_count: 830
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0GDZLL8BK/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "elemis-pro-collagen-cleansing-balm-makeup-remover-hydrating-facial-cleans
 image_alt: "ELEMIS Pro-Collagen Cleansing Balm in white tub with pink lid, shown with the balm texture and its makeup-removing formula"
 verdict_score: 4.6
 date: 2026-08-06
-price: 61.20
+price: null
 review_count: 16002
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08MJZYW8P/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "chivixe-large-diffuser-attachment-compatible-with-shark-flexstyle-upgrade
 image_alt: "Chivixe large diffuser attachment installed on Shark Flex styler, showing wide nozzle and prongs"
 verdict_score: 4.2
 date: 2026-08-06
-price: 13.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0F94DRZN2/?tag=tsvglyc-20"

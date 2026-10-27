@@ -7,7 +7,7 @@ slug: "filtrete-16x25x4-ac-furnace-air-filter-mpr-1550-fits-honeywell-and-lennox
 image_alt: "Filtrete 16x25x4 MPR 1550 pleated AC furnace air filter in packaging"
 verdict_score: 4.2
 date: 2026-08-06
-price: 195.0
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B08XQMKFY2/?tag=tsvglyc-20"

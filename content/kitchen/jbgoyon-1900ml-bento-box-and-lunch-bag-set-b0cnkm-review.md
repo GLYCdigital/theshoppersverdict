@@ -7,7 +7,7 @@ slug: "jbgoyon-1900ml-bento-box-and-lunch-bag-set-b0cnkm-review"
 image_alt: "JBGOYON 1900ml Bento Box and Lunch Bag Set"
 verdict_score: 4.6
 date: 2026-06-17
-price: 27.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CNKMSGWL/?tag=tsvglyc-20"

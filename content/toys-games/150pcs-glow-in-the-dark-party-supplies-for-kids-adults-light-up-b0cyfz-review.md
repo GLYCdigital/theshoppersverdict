@@ -7,7 +7,7 @@ slug: "150pcs-glow-in-the-dark-party-supplies-for-kids-adults-light-up-b0cyfz-re
 image_alt: "150-piece glow in the dark party supplies set with bracelets, necklaces, and sticks laid out on a dark surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 25.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CYFZRZRV/?tag=tsvglyc-20"

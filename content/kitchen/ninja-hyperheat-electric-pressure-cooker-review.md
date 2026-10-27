@@ -7,7 +7,7 @@ slug: "ninja-hyperheat-electric-pressure-cooker-review"
 image_alt: "Ninja HyperHeat 9-in-1 electric pressure cooker with stainless steel pot and control panel"
 verdict_score: 4.6
 date: 2026-08-06
-price: 169.99
+price: null
 review_count: 128
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0FJ9FSDSY/?tag=tsvglyc-20"

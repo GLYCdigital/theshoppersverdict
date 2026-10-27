@@ -19,7 +19,7 @@ faq:
   - question: "Is the Pepper Cannon easy to refill?"
     answer: "Yes — the quick-release top allows for easy refills. It also includes a base cup for storage and one-handed peppering."
 date: 2026-07-25
-price: 101.8
+price: null
 review_count: 819
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09T7BWJNP/?tag=tsvglyc-20"

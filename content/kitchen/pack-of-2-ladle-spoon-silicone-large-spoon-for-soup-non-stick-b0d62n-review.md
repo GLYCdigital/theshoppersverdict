@@ -7,7 +7,7 @@ slug: "pack-of-2-ladle-spoon-silicone-large-spoon-for-soup-non-stick-b0d62n-revi
 image_alt: "Pack of 2 Ladle Spoon,Silicone Large Spoon for Soup,Non Stick Kitchen Utensils with High Heat Resistant,BPA Free Perfect"
 verdict_score: 4.6
 date: 2026-06-17
-price: 15.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D62NZ3RS/?tag=tsvglyc-20"

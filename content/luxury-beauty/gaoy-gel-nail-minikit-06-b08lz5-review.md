@@ -7,7 +7,7 @@ slug: "gaoy-gel-nail-minikit-06-b08lz5-review"
 image_alt: "GAOY Gel Nail MiniKit-06"
 verdict_score: 4.2
 date: 2026-06-17
-price: 17.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B08LZ5TNN8/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "tigeen-rave-sprouts-bean-sprout-funny-hair-clips-mixed-style-plant-hairpi
 image_alt: "Tigeen Rave Sprouts Bean Sprout Funny Hair Clips Mixed Style Plant Hairpins Hair Accessories for Home Party Irish"
 verdict_score: 4.6
 date: 2026-06-17
-price: 17.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FBWWV4QQ/?tag=tsvglyc-20"

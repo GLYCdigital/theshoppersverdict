@@ -7,7 +7,7 @@ slug: "2-pocket-folders01-b0d4j5-review"
 image_alt: "2-Pocket-Folders01 heavy-duty poly folders in assorted colors stacked on a desk"
 verdict_score: 4.6
 date: 2026-08-06
-price: 41.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D4J5QP4N/?tag=tsvglyc-20"

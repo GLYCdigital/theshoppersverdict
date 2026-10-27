@@ -7,7 +7,7 @@ slug: "cuisinart-egg-cooker-normal-brushed-stainless-steel-b0d6fq-review"
 image_alt: "Cuisinart Egg Cooker in brushed stainless steel with steaming tray and measuring cup"
 verdict_score: 4.6
 date: 2026-08-06
-price: 49.95
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D6FQRF17/?tag=tsvglyc-20"

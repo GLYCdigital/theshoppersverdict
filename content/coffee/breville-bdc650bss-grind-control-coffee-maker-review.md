@@ -22,7 +22,7 @@ faq:
   - question: "Can you use pre-ground coffee in the Breville Grind Control?"
     answer: "Yes. There is a dedicated pre-ground setting that bypasses the grinder entirely, so you can use store-bought grounds when you're out of beans or want a decaf batch. This makes the machine more flexible than most grind-and-brew units, though it partly defeats the freshness argument the machine is built around."
 date: 2026-08-04
-price: 399.95
+price: null
 review_count: 6540
 amazon_rating: 3.5
 amazon_url: "https://www.amazon.com/dp/B00VGGVQCI/?tag=tsvglyc-20"

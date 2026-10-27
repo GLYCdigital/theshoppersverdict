@@ -7,7 +7,7 @@ slug: "comfee-b0fy5n-review"
 image_alt: "COMFEE kitchen appliance on countertop showing compact design and control panel"
 verdict_score: 4.6
 date: 2026-08-06
-price: 66.34
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0FY5NDWMF/?tag=tsvglyc-20"

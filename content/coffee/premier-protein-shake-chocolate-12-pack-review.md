@@ -19,7 +19,7 @@ faq:
   - question: "What vitamins and minerals are in Premier Protein?"
     answer: "24 vitamins and minerals including antioxidants Vitamins C and E plus Zinc for immune support, 50% DV of calcium, and 30% DV of Vitamin D for bone health."
 date: 2026-07-15
-price: 46.49
+price: null
 review_count: 10753
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B008JGIZGS/?tag=tsvglyc-20"

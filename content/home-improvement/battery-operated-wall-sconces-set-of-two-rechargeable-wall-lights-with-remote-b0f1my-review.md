@@ -7,7 +7,7 @@ slug: "battery-operated-wall-sconces-set-of-two-rechargeable-wall-lights-with-re
 image_alt: "Pair of rechargeable battery operated wall sconces mounted above a bed, emitting warm ambient light"
 verdict_score: 4.6
 date: 2026-08-06
-price: 79.95
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F1MYD8QT/?tag=tsvglyc-20"

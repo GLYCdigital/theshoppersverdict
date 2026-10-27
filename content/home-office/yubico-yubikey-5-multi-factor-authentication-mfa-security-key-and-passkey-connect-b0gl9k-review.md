@@ -7,7 +7,7 @@ slug: "yubico-yubikey-5-multi-factor-authentication-mfa-security-key-and-passkey
 image_alt: "Yubico - YubiKey 5 - Multi-Factor authentication (MFA) Security Key and passkey, Connect via USB, FIDO Certified - Prote"
 verdict_score: 4.2
 date: 2026-06-17
-price: 85.0
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0GL9KVQQ3/?tag=tsvglyc-20"

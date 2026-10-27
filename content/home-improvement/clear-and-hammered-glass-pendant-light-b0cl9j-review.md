@@ -7,7 +7,7 @@ slug: "clear-and-hammered-glass-pendant-light-b0cl9j-review"
 image_alt: "Clear and hammered glass pendant light hanging over a kitchen island with warm Edison bulb glow"
 verdict_score: 4.6
 date: 2026-08-06
-price: 39.95
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0CL9J7BXZ/?tag=tsvglyc-20"

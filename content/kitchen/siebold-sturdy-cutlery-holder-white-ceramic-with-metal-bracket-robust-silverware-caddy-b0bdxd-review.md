@@ -7,7 +7,7 @@ slug: "siebold-sturdy-cutlery-holder-white-ceramic-with-metal-bracket-robust-sil
 image_alt: "SIEBOLD Sturdy Cutlery Holder White Ceramic With Metal Bracket Robust Silverware Caddy For Countertop - Spoon Holder Sil"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BDXDCJV2/?tag=tsvglyc-20"

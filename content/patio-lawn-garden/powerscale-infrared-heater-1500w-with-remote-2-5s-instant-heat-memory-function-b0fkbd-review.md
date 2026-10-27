@@ -7,7 +7,7 @@ slug: "powerscale-infrared-heater-1500w-with-remote-2-5s-instant-heat-memory-fun
 image_alt: "Powerscale Infrared Heater 1500W with Remote, 2.5s Instant Heat & Memory Function, Electric Patio Heater 4 Heat Levels, "
 verdict_score: 4.2
 date: 2026-06-17
-price: 109.99
+price: null
 review_count: 200
 amazon_rating: 4.0
 amazon_url: "https://www.amazon.com/dp/B0FKBDKP91/?tag=tsvglyc-20"

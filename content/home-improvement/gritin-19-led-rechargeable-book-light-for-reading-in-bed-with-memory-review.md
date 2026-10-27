@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Gritin 19 LED Rechargeable Book?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the tool or home improvement product category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-07
-price: 9.99
+price: null
 review_count: 39192
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0C3BC4QG2/?tag=tsvglyc-20"

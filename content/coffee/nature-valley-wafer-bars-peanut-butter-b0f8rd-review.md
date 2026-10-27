@@ -7,7 +7,7 @@ slug: "nature-valley-wafer-bars-peanut-butter-b0f8rd-review"
 image_alt: "Nature Valley Wafer Bars, Peanut Butter"
 verdict_score: 4.6
 date: 2026-06-17
-price: 3.47
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0F8RDX3QX/?tag=tsvglyc-20"

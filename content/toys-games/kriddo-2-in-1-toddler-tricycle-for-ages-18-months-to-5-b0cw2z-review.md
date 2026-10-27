@@ -7,7 +7,7 @@ slug: "kriddo-2-in-1-toddler-tricycle-for-ages-18-months-to-5-b0cw2z-review"
 image_alt: "KRIDDO 2-in-1 Toddler Tricycle for Ages 18 Months to 5 Years Old - Extended Push Handle for Effortless Push, Gift Trike "
 verdict_score: 4.2
 date: 2026-06-17
-price: 67.49
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CW2ZML2Q/?tag=tsvglyc-20"

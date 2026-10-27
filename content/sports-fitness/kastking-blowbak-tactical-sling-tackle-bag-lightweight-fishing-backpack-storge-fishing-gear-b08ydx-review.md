@@ -7,7 +7,7 @@ slug: "kastking-blowbak-tactical-sling-tackle-bag-lightweight-fishing-backpack-s
 image_alt: "KastKing BlowBak Tactical Sling Tackle Bag-Lightweight Fishing Backpack Storge Fishing Gear and Equipment,Gift for Men"
 verdict_score: 4.6
 date: 2026-06-17
-price: 22.94
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08YDXK45G/?tag=tsvglyc-20"

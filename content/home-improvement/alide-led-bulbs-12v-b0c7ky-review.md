@@ -7,7 +7,7 @@ slug: "alide-led-bulbs-12v-b0c7ky-review"
 image_alt: "ALIDE LED Bulbs 12V showing the small wedge base and bright white light output"
 verdict_score: 4.6
 date: 2026-08-06
-price: 17.98
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0C7KYPSBP/?tag=tsvglyc-20"

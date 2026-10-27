@@ -20,7 +20,7 @@ faq:
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the home office accessory category."
 date: 2026-08-05
 last_verified: 2026-08-05
-price: 49.99
+price: null
 review_count: 308
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0FCMD45WR/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "vevor-insulated-flexible-duct-b0d22q-review"
 image_alt: "VEVOR Insulated Flexible Duct"
 verdict_score: 4.6
 date: 2026-06-17
-price: 39.9
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0D22QLWVJ/?tag=tsvglyc-20"

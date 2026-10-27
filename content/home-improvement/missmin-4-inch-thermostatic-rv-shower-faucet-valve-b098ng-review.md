@@ -7,7 +7,7 @@ slug: "missmin-4-inch-thermostatic-rv-shower-faucet-valve-b098ng-review"
 image_alt: "MISSMIN 4 inch Thermostatic RV Shower Faucet Valve"
 verdict_score: 4.2
 date: 2026-06-17
-price: 69.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B098NGP43C/?tag=tsvglyc-20"

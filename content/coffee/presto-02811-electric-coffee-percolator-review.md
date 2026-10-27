@@ -7,7 +7,7 @@ slug: "presto-02811-electric-coffee-percolator-review"
 image_alt: "Presto 02811 stainless steel electric coffee percolator with glass knob lid"
 verdict_score: 4.5
 date: 2026-08-06
-price: 76.85
+price: null
 review_count: 19303
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B00006IV0Q/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "mineral-fusion-mascara-b0cl3c-review"
 image_alt: "Mineral Fusion Mascara"
 verdict_score: 4.2
 date: 2026-06-17
-price: 17.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0CL3CC28L/?tag=tsvglyc-20"

@@ -16,7 +16,7 @@ faq:
   - question: "Is the Camic Electric Stand Mixer,7.45 durable for daily use?"
     answer: "Yes, reviewers using it daily report it holds up well over time."
 date: 2026-05-27
-price: 179.99
+price: null
 review_count: 35
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GXHP97CM/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "purple-ladybug-300-pcs-bendable-wax-craft-sticks-imagination-sticks-for-k
 image_alt: "PURPLE LADYBUG 300 PCS Bendable Wax Craft Sticks, Imagination Sticks for Kids, Road Trip Essentials, Travel Toys for Tod"
 verdict_score: 4.6
 date: 2026-06-17
-price: 14.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07SJQ6LQY/?tag=tsvglyc-20"

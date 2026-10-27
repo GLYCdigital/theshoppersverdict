@@ -7,7 +7,7 @@ slug: "talentedeco-10-pack-ta010-matte-black-cabinet-pulls-3-75-inch-96mm-b0gwqh
 image_alt: "Talentedeco 10 Pack TA010 Matte Black Cabinet Pulls 3.75 Inch(96mm) Kitchen Cabinet Handles Cabinet Hardware for Drawer "
 verdict_score: 4.6
 date: 2026-06-17
-price: 28.79
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0GWQHLN68/?tag=tsvglyc-20"

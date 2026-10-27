@@ -19,7 +19,7 @@ faq:
   - question: "How is Viniferine better than vitamin C?"
     answer: "Caudalie's patented Viniferine (from grapevine sap) is 62 times more effective than vitamin C at inhibiting tyrosinase (the enzyme that produces dark spots), according to in-vitro tests. It also doesn't cause sun sensitivity, making it safer for daytime use."
 date: 2026-06-09
-price: 63.60
+price: null
 review_count: 94
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0D64WK4Z9/?tag=tsvglyc-20"

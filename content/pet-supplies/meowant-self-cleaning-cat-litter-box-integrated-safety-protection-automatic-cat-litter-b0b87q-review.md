@@ -7,7 +7,7 @@ slug: "meowant-self-cleaning-cat-litter-box-integrated-safety-protection-automat
 image_alt: "MeoWant Self-Cleaning Cat Litter Box, Integrated Safety Protection Automatic Cat Litter Box for Multi Cats, Extra Large/"
 verdict_score: 4.2
 date: 2026-06-17
-price: 329.99
+price: null
 review_count: 204
 amazon_rating: 4.1
 amazon_url: "https://www.amazon.com/dp/B0B87Q6Y2V/?tag=tsvglyc-20"

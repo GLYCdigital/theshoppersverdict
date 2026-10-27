@@ -7,7 +7,7 @@ slug: "bico-pasta-bowls-35oz-salad-bowl-set-of-4-large-ceramic-serving-b09klr-re
 image_alt: "Bico 35oz ceramic pasta bowls set of 4 in assorted colors, stacked on kitchen counter"
 verdict_score: 4.6
 date: 2026-08-06
-price: 37.99
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B09KLR2ZPV/?tag=tsvglyc-20"

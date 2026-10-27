@@ -16,7 +16,7 @@ faq:
   - question: "Should I buy the Zevo Flying Insect Trap -?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the piece of furniture category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-04
-price: 23.19
+price: null
 review_count: 81715
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B07T869RNY/?tag=tsvglyc-20"

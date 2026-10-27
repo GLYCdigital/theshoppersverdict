@@ -7,7 +7,7 @@ slug: "ultrawall-pegboard-wall-organizer-metal-pegboard-panels-garage-storage-sy
 image_alt: "Ultrawall Pegboard Wall Organizer, Metal Pegboard Panels, Garage Storage System with Hooks and Storage Bins"
 verdict_score: 4.2
 date: 2026-06-17
-price: 79.99
+price: null
 review_count: 220
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B0CTGVPGT7/?tag=tsvglyc-20"

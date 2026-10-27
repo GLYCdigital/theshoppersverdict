@@ -7,7 +7,7 @@ slug: "food-coloring-americolor-bright-white-soft-gel-paste-20-ounce-b00mhs-revi
 image_alt: "AmeriColor Bright White Soft Gel Paste 20 ounce tub with white frosting swatch"
 verdict_score: 4.6
 date: 2026-08-06
-price: 23.0
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00MHSRNNK/?tag=tsvglyc-20"

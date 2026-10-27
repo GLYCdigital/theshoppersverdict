@@ -7,7 +7,7 @@ slug: "avery-plastic-8-tab-two-tone-binder-dividers-with-two-pockets-insertable-
 image_alt: "Avery Plastic 8-Tab Two-Tone Binder Dividers with Two Pocket — multicolor tab dividers for 3-ring binders"
 verdict_score: 4.6
 date: 2026-08-06
-price: 123.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B09Q6C1RV1/?tag=tsvglyc-20"

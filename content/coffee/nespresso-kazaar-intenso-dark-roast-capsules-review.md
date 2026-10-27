@@ -19,7 +19,7 @@ faq:
   - question: "Does the Kazaar pod work with OriginalLine machines only?"
     answer: "Yes. These are OriginalLine capsules, compatible with all OriginalLine Nespresso machines, not Vertuo."
 date: 2026-07-14
-price: 45.00
+price: null
 review_count: 3652
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B00O6FU8TI/?tag=tsvglyc-20"

@@ -7,7 +7,7 @@ slug: "vitamix-2-speed-immersion-blender-whisk-attachment-professional-grade-han
 image_alt: "Vitamix 2-Speed Immersion Blender + Whisk Attachment, Professional-Grade Hand Blender with 350-Watt Motor and Stainless-"
 verdict_score: 4.6
 date: 2026-06-17
-price: 119.95
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D9MDP53M/?tag=tsvglyc-20"

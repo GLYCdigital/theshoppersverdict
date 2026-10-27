@@ -7,7 +7,7 @@ slug: "collegiate-set-of-three-headcovers-b06zy7-review"
 image_alt: "Collegiate Set of Three Headcovers — knit golf club covers in team colors with pom accents"
 verdict_score: 4.6
 date: 2026-08-06
-price: 68.38
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B06ZY7QGS1/?tag=tsvglyc-20"

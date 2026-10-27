@@ -7,7 +7,7 @@ slug: "living-puppets-hand-puppet-fine-european-design-ultra-soft-and-cuddly-pro
 image_alt: "Living Puppets - Hand Puppet - Fine European Design, Ultra-Soft and Cuddly, Promotes Child Development, Safety Certified"
 verdict_score: 4.6
 date: 2026-06-17
-price: 44.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0DD5JSH3W/?tag=tsvglyc-20"

@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the BOSCH GOP18V-28N 18V EC Brushless?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the tool or home improvement product category. The main drawbacks (performance) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-20
-price: 205.22
+price: null
 review_count: 654
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B01N37OSRF/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "What's the difference between Ninja BN401 and BN701?"
     answer: "The BN401 (Nutri-Blender Pro) is a personal blender with 24 oz cups designed for single servings and on-the-go use. The BN701 (Professional Plus) is a full-size pitcher blender for larger batches and families. The BN401 is more compact and better suited for individuals or couples."
 date: 2026-06-08
-price: 79.97
+price: null
 review_count: 11352
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B08QXJ31WR/?tag=tsvglyc-20"

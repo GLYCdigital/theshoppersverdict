@@ -7,7 +7,7 @@ slug: "senlukit-solar-fence-lights-outdoor-waterproof-high-brightness-led-spot-l
 image_alt: "SenLuKit Solar Fence Lights Outdoor Waterproof High Brightness LED Spot Lens Deck Lights 7 Mode"
 verdict_score: 4.2
 date: 2026-06-17
-price: 9.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0DX6SFTVS/?tag=tsvglyc-20"

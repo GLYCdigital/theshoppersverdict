@@ -7,7 +7,7 @@ slug: "smatree-x-series-hard-eva-protective-sleeve-case-for-dell-b0fxwx-review"
 image_alt: "Smatree X Series Hard EVA Protective Sleeve Case for DELL"
 verdict_score: 4.6
 date: 2026-06-17
-price: 35.99
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0FXWX8JKG/?tag=tsvglyc-20"

@@ -22,7 +22,7 @@ faq:
   - question: "Is this pack cheaper than buying from Nespresso directly?"
     answer: "Pricing fluctuates but is generally competitive with Nespresso's official pricing for variety packs. The convenience of Amazon delivery is the main advantage for Prime members."
 date: 2026-07-23
-price: 256.97
+price: null
 review_count: 8946
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BZJVFFNM/?tag=tsvglyc-20"

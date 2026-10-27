@@ -7,7 +7,7 @@ slug: "baker-s-signature-stainless-steel-mixing-bowls-with-lids-set-5-sizes-b0gv
 image_alt: "Nested set of five Baker's Signature stainless steel mixing bowls with clear lids displayed on a kitchen counter"
 verdict_score: 4.6
 date: 2026-08-06
-price: 34.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0GVNDFDPL/?tag=tsvglyc-20"

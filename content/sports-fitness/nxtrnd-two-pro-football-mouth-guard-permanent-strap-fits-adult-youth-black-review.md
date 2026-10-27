@@ -19,7 +19,7 @@ faq:
   - question: "Is the Nxtrnd mouth guard good for players with braces?"
     answer: "Yes, the manufacturer recommends the Nxtrnd Two Pro for both youth and adult players with or without braces. The universal fit design accommodates orthodontic work, and the cushioned bite pads provide comfort without interfering with braces brackets."
 date: 2026-07-31
-price: 16.99
+price: null
 review_count: 237
 amazon_rating: 4.9
 amazon_url: "https://www.amazon.com/dp/B0FKCZ8WH9/?tag=tsvglyc-20"

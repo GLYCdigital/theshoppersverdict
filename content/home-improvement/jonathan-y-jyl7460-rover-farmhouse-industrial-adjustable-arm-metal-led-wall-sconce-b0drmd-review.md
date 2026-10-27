@@ -7,7 +7,7 @@ slug: "jonathan-y-jyl7460-rover-farmhouse-industrial-adjustable-arm-metal-led-wa
 image_alt: "JONATHAN Y JYL7460 Rover Farmhouse Industrial Adjustable Arm Metal LED Wall Sconce"
 verdict_score: 4.2
 date: 2026-06-17
-price: 84.78
+price: null
 review_count: 215
 amazon_rating: 4.3
 amazon_url: "https://www.amazon.com/dp/B0DRMD47GW/?tag=tsvglyc-20"

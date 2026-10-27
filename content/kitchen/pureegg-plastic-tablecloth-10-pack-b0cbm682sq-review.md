@@ -22,7 +22,7 @@ faq:
   - question: "Do the tablecloths fit standard 6-foot tables?"
     answer: "Yes, the 54 x 108 inch size is the standard for rectangular 6-foot banquet tables. They fit cleanly with enough overhang on the sides and ends."
 date: 2026-07-18
-price: 9.97
+price: null
 review_count: 6462
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CBM682SQ/?tag=tsvglyc-20"

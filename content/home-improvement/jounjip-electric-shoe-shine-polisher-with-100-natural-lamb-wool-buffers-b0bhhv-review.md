@@ -7,7 +7,7 @@ slug: "jounjip-electric-shoe-shine-polisher-with-100-natural-lamb-wool-buffers-b
 image_alt: "JOUNJIP Electric Shoe Shine Polisher with 100% Natural Lamb Wool Buffers"
 verdict_score: 4.2
 date: 2026-06-17
-price: 187.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0BHHVM887/?tag=tsvglyc-20"

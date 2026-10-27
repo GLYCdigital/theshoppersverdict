@@ -7,7 +7,7 @@ slug: "d-d-book-tabs-parent-b0dsws-review"
 image_alt: "D&D Book Tabs Parent — colorful repositionable index tabs applied to a tabletop RPG rulebook"
 verdict_score: 4.6
 date: 2026-08-06
-price: 16.65
+price: null
 review_count: 235
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0DSWSPP4P/?tag=tsvglyc-20"

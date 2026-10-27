@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Ninja CREAMi Ice Cream Maker?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the kitchen appliance category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-08
-price: 265.12
+price: null
 review_count: 16112
 amazon_rating: 4.4
 amazon_url: "https://www.amazon.com/dp/B09QV24FFZ/?tag=tsvglyc-20"

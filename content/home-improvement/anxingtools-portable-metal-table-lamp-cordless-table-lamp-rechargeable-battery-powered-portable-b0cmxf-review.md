@@ -7,7 +7,7 @@ slug: "anxingtools-portable-metal-table-lamp-cordless-table-lamp-rechargeable-ba
 image_alt: "Anxingtools portable metal table lamp with cordless rechargeable battery, shown on a wooden table in warm light"
 verdict_score: 4.2
 date: 2026-08-06
-price: 27.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0CMXFK8N3/?tag=tsvglyc-20"

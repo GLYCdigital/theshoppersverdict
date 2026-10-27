@@ -7,7 +7,7 @@ slug: "dkovn-flag-football-belt-2pcs-adjustable-flag-football-belt-with-belt-and
 image_alt: "DkOvn 2-pack adjustable flag football belts with red and blue flags on a white background"
 verdict_score: 4.6
 date: 2026-08-06
-price: 25.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CD22KG8J/?tag=tsvglyc-20"

@@ -17,7 +17,7 @@ faq:
   - question: "Should I buy the Good 'n' Fun Kabobs?"
     answer: "If the features match what you are looking for, yes. With 0+ reviews averaging strongly, it is a reliable choice in the pet product category."
 date: 2026-07-24
-price: 17.98
+price: null
 review_count: 34584
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B07BVL8TQF/?tag=tsvglyc-20"

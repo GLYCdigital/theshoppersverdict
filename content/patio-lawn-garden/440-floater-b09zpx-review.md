@@ -7,7 +7,7 @@ slug: "440-floater-b09zpx-review"
 image_alt: "440 Floater pool accessory floating on water surface"
 verdict_score: 4.6
 date: 2026-08-06
-price: 13.98
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B09ZPXY82S/?tag=tsvglyc-20"

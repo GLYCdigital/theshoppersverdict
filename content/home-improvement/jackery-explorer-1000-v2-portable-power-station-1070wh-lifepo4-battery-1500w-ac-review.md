@@ -18,7 +18,7 @@ faq:
   - question: "Should I buy the Jackery Explorer 1000 v2 Portable?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the tool or home improvement product category. The main drawbacks (noise) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-06-28
-price: 42.70
+price: null
 review_count: 3352
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0D7PPG25F/?tag=tsvglyc-20"

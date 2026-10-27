@@ -7,7 +7,7 @@ slug: "lumina-lighting-4w-landscape-lighting-12v-landscape-lights-low-voltage-la
 image_alt: "Lumina LightingÂ® 4W Landscape Lighting 12V Landscape Lights Low Voltage Landscape Spotlights Warm White Waterproof Outd"
 verdict_score: 4.6
 date: 2026-06-17
-price: 45.59
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0CQPYP37M/?tag=tsvglyc-20"

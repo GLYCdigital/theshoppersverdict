@@ -7,7 +7,7 @@ slug: "govee-bluetooth-rgbw-outdoor-string-lights-patio-app-control-ip65-waterpr
 image_alt: "Govee Bluetooth RGBW Outdoor String Lights, Patio App Control, IP65 Waterproof Color Changing 30 LED Bulbs With DIY and "
 verdict_score: 4.2
 date: 2026-06-17
-price: 49.99
+price: null
 review_count: 210
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B09K7CJVCP/?tag=tsvglyc-20"

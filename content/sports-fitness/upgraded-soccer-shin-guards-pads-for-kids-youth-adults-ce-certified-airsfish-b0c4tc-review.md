@@ -7,7 +7,7 @@ slug: "upgraded-soccer-shin-guards-pads-for-kids-youth-adults-ce-certified-airsf
 image_alt: "Upgraded Soccer Shin Guards Pads for Kids Youth Adults, CE Certified AirsFish Shin Guard Sleeves Protection Gear for Boy"
 verdict_score: 4.6
 date: 2026-06-17
-price: 19.99
+price: null
 review_count: 229
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B0C4TCT185/?tag=tsvglyc-20"

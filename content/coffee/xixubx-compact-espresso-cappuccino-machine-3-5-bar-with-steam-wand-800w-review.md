@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the XIXUBX Compact Espresso &?"
     answer: "If the features match what you are looking for, yes. With 8+ reviews averaging strongly, it is a reliable choice in the coffee maker or brewer category."
 date: 2026-07-30
-price: 49.99
+price: null
 review_count: 924
 amazon_rating: 4.2
 amazon_url: "https://www.amazon.com/dp/B0F12TWP55/?tag=tsvglyc-20"

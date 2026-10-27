@@ -7,7 +7,7 @@ slug: "color-wow-money-masque-deep-hydrating-conditioning-treatment-by-celebrity
 image_alt: "COLOR WOW Money Masque deep hydrating conditioning treatment jar with product texture visible"
 verdict_score: 4.6
 date: 2026-08-06
-price: 15.0
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0CY8HJSPP/?tag=tsvglyc-20"

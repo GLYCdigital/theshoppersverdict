@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Ticonderoga Wood-Cased Pencils,?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the home office accessory category. The main drawbacks (quality) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-03
-price: 5.63
+price: null
 review_count: 68338
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20"

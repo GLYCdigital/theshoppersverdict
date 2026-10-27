@@ -7,7 +7,7 @@ slug: "lego-ideas-motorized-lighthouse-21335-adult-model-building-kit-complete-w
 image_alt: "LEGO Ideas Motorized Lighthouse 21335 Adult Model Building Kit, Complete with Rotating Lights, Quaint Cottage and a Myst"
 verdict_score: 4.6
 date: 2026-06-17
-price: 399.99
+price: null
 review_count: 240
 amazon_rating: 4.8
 amazon_url: "https://www.amazon.com/dp/B0B525G8WW/?tag=tsvglyc-20"

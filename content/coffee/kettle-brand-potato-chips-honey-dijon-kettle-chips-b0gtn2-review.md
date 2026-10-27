@@ -7,7 +7,7 @@ slug: "kettle-brand-potato-chips-honey-dijon-kettle-chips-b0gtn2-review"
 image_alt: "Kettle Brand Potato Chips, Honey Dijon Kettle Chips"
 verdict_score: 4.6
 date: 2026-06-17
-price: 8.38
+price: null
 review_count: 225
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B0GTN2V7DS/?tag=tsvglyc-20"

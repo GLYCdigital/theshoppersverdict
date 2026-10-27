@@ -19,7 +19,7 @@ faq:
   - question: "How bright is the 24W output?"
     answer: "Very bright. Reviewers consistently note the max brightness is intense enough to light up an entire workspace. The 5 color modes and dimming let you dial it down for late-night use."
 date: 2026-05-26
-price: 69.99
+price: null
 review_count: 3290
 amazon_rating: 4.7
 amazon_url: "https://www.amazon.com/dp/B0BRCJL4MM/?tag=tsvglyc-20"

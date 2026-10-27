@@ -7,7 +7,7 @@ slug: "mueller-pro-chopper-10-in-1-review"
 image_alt: "Mueller Pro Chopper 10-in-1 vegetable chopper with interchangeable blades and container"
 verdict_score: 4.4
 date: 2026-08-06
-price: 24.99
+price: null
 review_count: 39178
 amazon_rating: 4.5
 amazon_url: "https://www.amazon.com/dp/B08N9Q24M9/?tag=tsvglyc-20"

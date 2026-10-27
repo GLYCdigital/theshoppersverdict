@@ -19,7 +19,7 @@ faq:
   - question: "Should I buy the Softsoap Antibacterial Liquid Hand Soap?"
     answer: "If the features match what you're looking for, yes. With strong ratings from thousands of Amazon reviews, it's a reliable choice in the beauty or skincare product category. The main drawbacks (minor issues) are worth noting, but for most buyers, the positives outweigh them."
 date: 2026-07-07
-price: 7.75
+price: null
 review_count: 21351
 amazon_rating: 4.6
 amazon_url: "https://www.amazon.com/dp/B081FFRGZB/?tag=tsvglyc-20"
