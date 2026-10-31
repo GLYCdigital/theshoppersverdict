@@ -25,7 +25,8 @@ WEEKDAY_SLOTS = ["comparison", "price_bracket", "worth_it", "how_to",
                  "comparison", "seasonal", "deal_alert"]
 
 STOPWORDS = {"a", "an", "the", "and", "of", "for", "to", "in", "on", "with",
-             "vs", "v", "best", "review", "reviews", "your", "you", "is", "are"}
+             "vs", "v", "best", "review", "reviews", "your", "you", "is", "are",
+             "product", "products", "new", "pack"}
 
 CATEGORY_DIRS = [d.name for d in CONTENT.iterdir()
                  if d.is_dir() and d.name not in
@@ -267,6 +268,30 @@ def short_name(title, max_words=3):
     return "-".join(words[:max_words])
 
 
+def existing_slugs():
+    """Filenames of published blog posts, for slug collision checks."""
+    return {f.name for f in BLOG_DIR.glob("*.md")}
+
+
+def unique_slug(base, picks):
+    """Category-based slots (gift-guide-kitchen, best-kitchen-picks, …) are
+    keyword-only, so the same category can only ever produce that slug once.
+    Rather than aborting the run, disambiguate with a product token, then a
+    counter, so the post still ships with a clean evergreen URL."""
+    names = existing_slugs()
+    if not any(base in n for n in names):
+        return base
+    for n in (1, 2, 3):
+        cand = f"{base}-{short_name(picks[0]['title'], n) if picks else ''}".rstrip("-")
+        if cand and not any(cand in name for name in names):
+            return cand
+    for i in range(2, 20):
+        cand = f"{base}-{i}"
+        if not any(cand in name for name in names):
+            return cand
+    return base
+
+
 def make_slug(slot, picks):
     """Evergreen, keyword-only, 3-5 words, no year, no stopwords."""
     if slot == "comparison" and len(picks) >= 2:
@@ -336,7 +361,7 @@ def build_config(slot, picks):
         "pros": r.get("pros", []),
     } for r in picks]
     return {
-        "slug": make_slug(slot, picks),
+        "slug": unique_slug(make_slug(slot, picks), picks),
         "slot": slot,
         "topic": topic,
         "angle": build_angle(slot, picks),
