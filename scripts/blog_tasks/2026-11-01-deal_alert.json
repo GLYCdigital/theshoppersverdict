@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-coffee-deals-mr",
+  "slot": "deal_alert",
+  "topic": "Best Value Coffee Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "Mr Coffee Cup Mini Brew",
+      "url": "/coffee/mr-coffee-5-cup-mini-brew-review/",
+      "amazon_url": "https://www.amazon.com/dp/B08QD33PZ2/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61PRRg0wxqL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.4,
+      "price": 26.99,
+      "count": 27799,
+      "pros": [
+        "Grab-a-cup auto pause lets you pour mid-brew without dripping on the hot plate",
+        "Compact footprint (about 10.8 x 7.4 x 10.2 inches) fits under most upper cabinets",
+        "Simple rocker switch operation \u2014 no digital clock to program or buttons to decipher"
+      ]
+    },
+    {
+      "title": "HP XL Black High Yield",
+      "url": "/home-office/hp-910xl-black-high-yield-ink-cartridge-works-with-officejet-8010-8020-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07N3FYTW5/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71-Eh6P5WfL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 73.43,
+      "count": 22128,
+      "pros": [
+        "hp 910xl black review",
+        "home office review",
+        "office chair"
+      ]
+    },
+    {
+      "title": "Skullcandy Jib Wired Earbuds",
+      "url": "/home-office/skullcandy-jib-wired-earbuds-review/",
+      "amazon_url": "https://www.amazon.com/dp/B075F6TB7F/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51tE5dn5QxL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.4,
+      "price": 8.88,
+      "count": 20138,
+      "pros": [
+        "Flat tangle-free cable actually survives daily desk abuse and pocket stuffing",
+        "Inline mic with single-button control works for calls and music on both Android and iOS",
+        "Supreme bass tuning makes podcasts and conference calls sound fuller than $9 has any right to"
+      ]
+    }
+  ]
+}
