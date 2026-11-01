@@ -383,6 +383,21 @@ def validate_post(slot, picks, cfg):
         return f"missing/weak slug: {cfg.get('slug')!r}"
     if any(cfg["slug"] in f.name for f in BLOG_DIR.glob("*.md")):
         return f"duplicate slug: {cfg['slug']}"
+    # Cannibalization gate: does a page with the same search intent already
+    # exist? Near-duplicate intent splits rankings and link equity across 26k
+    # pages, so the run re-picks a fresh angle instead of publishing a twin.
+    try:
+        sys.path.insert(0, str(WORKSPACE / "scripts"))
+        from topic_overlap import check as topic_check
+        level, score, hit = topic_check(cfg["slug"], cfg.get("topic", ""))
+    except Exception as e:  # never let the gate be the reason nothing ships
+        print(f"⚠️  topic gate skipped: {e}", file=sys.stderr)
+        level, score, hit = "ok", 0.0, None
+    if level == "block":
+        return f"cannibalization {score:.2f}: {hit['u']}  [{hit['t'][:50]}]"
+    if level == "warn":
+        print(f"⚠️  topic overlap {score:.2f} with {hit['u']} — "
+              f"publishing a distinct angle", file=sys.stderr)
     return None
 
 
@@ -410,6 +425,7 @@ def main():
     # Pick, validate, and self-rectify: if the pick would make a degenerate
     # post, exclude those products and re-pick automatically (up to 4 tries).
     picks, cfg, problem, avoid = None, None, None, set()
+    cannibal_only = True
     for attempt in range(4):
         picks = pick_products(reviews, slot, used, count, avoid=avoid)
         if not picks:
@@ -419,12 +435,24 @@ def main():
         problem = validate_post(slot, picks, cfg)
         if not problem:
             break
+        if not problem.startswith("cannibalization"):
+            cannibal_only = False
         print(f"⚠️  Pre-publish check failed (attempt {attempt + 1}): {problem} — re-picking",
               file=sys.stderr)
         avoid.update(r["amazon_url"] for r in picks)
     else:
-        print(f"🛑 Pre-publish check still failing: {problem}", file=sys.stderr)
-        sys.exit(1)
+        if cannibal_only:
+            # Every retry only tripped the topic gate: ship anyway (a duplicate
+            # -ish post beats no post) but record it for consolidation review.
+            warn_log = WORKSPACE / "data" / "topic_overlap_warnings.log"
+            warn_log.parent.mkdir(parents=True, exist_ok=True)
+            with warn_log.open("a") as fh:
+                fh.write(f"{today.isoformat()}\t{cfg['slug']}\t{problem}\n")
+            print(f"⚠️  Topic gate exhausted retries, publishing anyway: {problem} "
+                  f"(logged to {warn_log.name})", file=sys.stderr)
+        else:
+            print(f"🛑 Pre-publish check still failing: {problem}", file=sys.stderr)
+            sys.exit(1)
 
     print(f"🎯 Topic: {cfg['topic']}")
     print(f"🔗 Products: {', '.join(p['title'][:40] for p in picks)}")
