@@ -1,0 +1,53 @@
+{
+  "slug": "best-home-improvement-picks-rust",
+  "slot": "price_bracket",
+  "topic": "Best Home Improvement Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "Rust Oleum Painter Touch Ultra",
+      "url": "/home-improvement/rust-oleum-painter-s-touch-2x-ultra-cover-spray-paint-flat-black-review/",
+      "amazon_url": "https://www.amazon.com/dp/B002BWOS7Q/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71OmicHmwgL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 9.99,
+      "count": 15525,
+      "pros": [
+        "rustoleum painters touch review",
+        "home improvement review",
+        "best tool review"
+      ]
+    },
+    {
+      "title": "Bucket Boss The Bucketeer Bucket",
+      "url": "/home-improvement/bucket-boss-the-bucketeer-bucket-tool-organizer-in-brown-10030-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00GK4TOWK/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51USgQXzqbL._AC_SL1000_.jpg",
+      "verdict": 4.6,
+      "rating": 4.8,
+      "price": 16.48,
+      "count": 12043,
+      "pros": [
+        "Heavy-duty 1680D ballistic-weave polyester with reinforced double stitching \u2014 handles daily job-site abuse",
+        "16 pockets and loops organize everything from screwdrivers to a 25-foot tape measure without bulging",
+        "Universal fit wraps any standard 5-gallon bucket (including Homer and Husky) with a secure hook-and-loop strap"
+      ]
+    },
+    {
+      "title": "Klein Tools EP Wire Cutter",
+      "url": "/home-improvement/klein-tools-11055ep-wire-cutter-and-stripper-made-in-usa-stranded-and-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00080DPNQ/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/51vtDdpy8vL._AC_SL1000_.jpg",
+      "verdict": 4.6,
+      "rating": 4.8,
+      "price": 18.01,
+      "count": 8277,
+      "pros": [
+        "Home Improvement",
+        "Tools & Home Maintenance",
+        "Electrical Tools"
+      ]
+    }
+  ]
+}
