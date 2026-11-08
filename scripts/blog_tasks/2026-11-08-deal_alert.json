@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-coffee-deals-ninja",
+  "slot": "deal_alert",
+  "topic": "Best Value Coffee Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "Ninja Specialty Coffee Maker Review",
+      "url": "/coffee/ninja-specialty-coffee-maker-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07PFLM2LK?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81BzHbm5GvL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 149.99,
+      "count": 19541,
+      "pros": [
+        "question: \"Is the Ninja Specialty Coffee Maker worth it?\"",
+        "question: \"How does the Ninja Specialty Coffee Maker compare to a Keurig?\"",
+        "question: \"Can the Ninja Specialty Coffee Maker make espresso?\""
+      ]
+    },
+    {
+      "title": "Cuisinart Coffee Maker SS Single",
+      "url": "/coffee/cuisinart-ss-10p1-single-serve-coffee-maker-b014w1c2vm-review/",
+      "amazon_url": "https://www.amazon.com/dp/B014W1C2VM/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61PGlCG580L._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.2,
+      "price": 121.99,
+      "count": 19328,
+      "pros": [
+        "Cuisinart SS-10P1 review",
+        "Cuisinart single serve coffee maker",
+        "best Keurig alternative coffee maker"
+      ]
+    },
+    {
+      "title": "Presto Stainless Steel Electric Coffee",
+      "url": "/coffee/presto-02811-electric-coffee-percolator-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00006IV0Q/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61rUS9j-40L._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.5,
+      "price": 76.85,
+      "count": 19303,
+      "pros": [
+        "Brews 12 cups of strong, hot coffee in about 10 minutes\u2014faster than most drip machines",
+        "All-stainless interior and exterior; no plastic touching your brew, no lingering flavors",
+        "Simple, mechanical design with no carafe to break; built like a tank for decades of use"
+      ]
+    }
+  ]
+}
