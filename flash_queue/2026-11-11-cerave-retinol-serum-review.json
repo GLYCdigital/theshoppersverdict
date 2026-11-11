@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/cerave-retinol-serum-review.md",
+  "slug": "cerave-retinol-serum-review",
+  "product": "CeraVe Retinol Serum",
+  "product_full": "CeraVe Retinol Serum",
+  "asin": "B07VWSN95S",
+  "site_url": "https://theshoppersverdict.com/cerave-retinol-serum-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71zvPJqU7FL._SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "56,080",
+  "price": "",
+  "summary": "Does CeraVe Retinol Serum actually smooth fine lines? Our expert review covers real results, ingredients, and who should buy it. 4.6/5 stars.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the CeraVe Retinol Serum, watch the next 40 seconds.",
+    "CeraVe Retinol Serum: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "56,080 Amazon reviews of the CeraVe Retinol Serum — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the CeraVe Retinol Serum. 56,080 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE CERAVE RETINOL SERUM",
+        "56,080 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Encapsulated retinol delivers visible smoothing without the peeling and redness typical of retinol. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Encapsulated retinol delivers visible"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Results appear slowly — expect 6-10 weeks before fine lines visibly soften. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Results appear slowly — expect 6-10 weeks"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: encapsulated retinol delivers visible smoothing without the peeling. The tradeoff: results appear slowly. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "ENCAPSULATED RETINOL DELIVERS VISIBLE",
+        "THE TRADEOFF",
+        "RESULTS APPEAR SLOWLY"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the CeraVe Retinol Serum before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "CERAVE RETINOL SERUM — HONEST REVIEW",
+    "THE CATCH NOBODY MENTIONS"
+  ],
+  "youtube": {
+    "title": "CeraVe Retinol Serum Review: Worth It? (Verdict 4.5/5)",
+    "description": "Does CeraVe Retinol Serum actually smooth fine lines? Our expert review covers real results, ingredients, and who should buy it. 4.6/5 stars.\n\nFull review: https://theshoppersverdict.com/cerave-retinol-serum-review/\n\nhttps://www.amazon.com/dp/B07VWSN95S/?tag=tsvglyc-20",
+    "tags": [
+      "cerave retinol serum",
+      "cerave retinol serum review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

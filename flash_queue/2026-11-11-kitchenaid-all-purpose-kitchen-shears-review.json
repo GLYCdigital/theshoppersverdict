@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/kitchenaid-all-purpose-kitchen-shears-review.md",
+  "slug": "kitchenaid-all-purpose-kitchen-shears-review",
+  "product": "KitchenAid All Purpose Kitchen",
+  "product_full": "KitchenAid All Purpose Kitchen Shears with Protective Sheath",
+  "asin": "B07PZF3QS3",
+  "site_url": "https://theshoppersverdict.com/kitchenaid-all-purpose-kitchen-shears-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg",
+  "verdict_score": 4.8,
+  "amazon_rating": 4.8,
+  "review_count": "70,845",
+  "price": "$7.59",
+  "summary": "KitchenAid All Purpose Kitchen Shears review: 4.8/5 stars from 70K+ shoppers. Tested for cutting, cracking, and cleaning. Is this $7.59 tool worth it?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the KitchenAid All Purpose Kitchen at $7.59, watch the next 40 seconds.",
+    "KitchenAid All Purpose Kitchen: 4.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "70,845 Amazon reviews of the KitchenAid All Purpose Kitchen — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the KitchenAid All Purpose Kitchen. 70,845 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KITCHENAID ALL PURPOSE KITCHEN",
+        "70,845 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Serrated micro-blades grip poultry skin and slippery herbs without slipping. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Serrated micro-blades grip poultry skin and"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Handles lack a locking mechanism — the included sheath is mandatory for safe drawer storage. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Handles lack a locking mechanism — the"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: serrated micro-blades grip poultry skin and slippery herbs without. The tradeoff: handles lack a locking mechanism. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "SERRATED MICRO-BLADES GRIP POULTRY SKIN AND",
+        "THE TRADEOFF",
+        "HANDLES LACK A LOCKING MECHANISM"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the KitchenAid All Purpose Kitchen before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.8/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$7.59 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "KitchenAid All Purpose Kitchen Review: Worth It? (Verdict 4.8/5)",
+    "description": "KitchenAid All Purpose Kitchen Shears review: 4.8/5 stars from 70K+ shoppers. Tested for cutting, cracking, and cleaning. Is this $7.59 tool worth it?\n\nFull review: https://theshoppersverdict.com/kitchenaid-all-purpose-kitchen-shears-review/\n\nhttps://www.amazon.com/dp/B07PZF3QS3/?tag=tsvglyc-20",
+    "tags": [
+      "kitchenaid all purpose kitchen",
+      "kitchenaid all purpose kitchen review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

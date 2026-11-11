@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/crock-pot-7-quart-manual-slow-cooker-family-size-serves-8-people-review.md",
+  "slug": "crock-pot-7-quart-manual-slow-cooker-family-size-serves-8-people-review",
+  "product": "Crock Pot 7 Quart Manual Slow",
+  "product_full": "Crock Pot 7 Quart Manual Slow Cooker Family Size Serves 8 People",
+  "asin": "B003OAJGJO",
+  "site_url": "https://theshoppersverdict.com/crock-pot-7-quart-manual-slow-cooker-family-size-serves-8-people-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71pKe7+88ZL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "61,497",
+  "price": "$58",
+  "summary": "Honest crock-pot 7-quart manual slow cooker, fa review based on 61,497+ Amazon reviews. Real pros, cons, FAQs, and our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Crock Pot 7 Quart Manual Slow at $58, watch the next 40 seconds.",
+    "Crock Pot 7 Quart Manual Slow: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "61,497 Amazon reviews of the Crock Pot 7 Quart Manual Slow — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Crock Pot 7 Quart Manual Slow. 61,497 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE CROCK POT 7 QUART MANUAL SLOW",
+        "61,497 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Easy to set up and use. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Easy to set up and use"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Performance may not satisfy power users. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Performance may not satisfy power users"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: easy to set up and use. The tradeoff: performance may not satisfy power users. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EASY TO SET UP AND USE",
+        "THE TRADEOFF",
+        "PERFORMANCE MAY NOT SATISFY POWER USERS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Crock Pot 7 Quart Manual Slow before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$58 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Crock Pot 7 Quart Manual Slow Review: Worth It? (Verdict 4.6/5)",
+    "description": "Honest crock-pot 7-quart manual slow cooker, fa review based on 61,497+ Amazon reviews. Real pros, cons, FAQs, and our verdict.\n\nFull review: https://theshoppersverdict.com/crock-pot-7-quart-manual-slow-cooker-family-size-serves-8-people-review/\n\nhttps://www.amazon.com/dp/B003OAJGJO/?tag=tsvglyc-20",
+    "tags": [
+      "crock pot 7 quart manual slow",
+      "crock pot 7 quart manual slow review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

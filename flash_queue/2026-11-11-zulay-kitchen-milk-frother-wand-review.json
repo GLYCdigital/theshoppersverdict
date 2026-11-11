@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/zulay-kitchen-milk-frother-wand-duracell.md",
+  "slug": "zulay-kitchen-milk-frother-wand-review",
+  "product": "Zulay Kitchen Powerful Milk",
+  "product_full": "Zulay Kitchen Powerful Milk Frother Wand — Triple Whisk, Duracell Batteries Included",
+  "asin": "B0DPXRJ2VY",
+  "site_url": "https://theshoppersverdict.com/zulay-kitchen-milk-frother-wand-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81b4+H-2cL6._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "219,000",
+  "price": "$19",
+  "summary": "Zulay Kitchen milk frother wand review: 4.6 stars from 219K ratings. Does the triple whisk deliver café-grade foam? We tested it. Pros, cons, verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Zulay Kitchen Powerful Milk at $19, watch the next 40 seconds.",
+    "Zulay Kitchen Powerful Milk: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "219,000 Amazon reviews of the Zulay Kitchen Powerful Milk — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Zulay Kitchen Powerful Milk. 219,000 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE ZULAY KITCHEN POWERFUL MILK",
+        "219,000 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Dual-speed motor with metal shaft that actually holds up to daily use — no wobble or melting. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Dual-speed motor with metal shaft that"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — AAA batteries drain faster than expected with heavy daily use — budget for replacements monthly. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "AAA batteries drain faster than expected"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: dual-speed motor. The tradeoff: aAA batteries drain faster than expected with heavy daily. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "DUAL-SPEED MOTOR",
+        "THE TRADEOFF",
+        "AAA BATTERIES DRAIN FASTER THAN EXPECTED"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Zulay Kitchen Powerful Milk before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$19 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Zulay Kitchen Powerful Milk Review: Worth It? (Verdict 4.6/5)",
+    "description": "Zulay Kitchen milk frother wand review: 4.6 stars from 219K ratings. Does the triple whisk deliver café-grade foam? We tested it. Pros, cons, verdict.\n\nFull review: https://theshoppersverdict.com/zulay-kitchen-milk-frother-wand-review/\n\nhttps://www.amazon.com/dp/B0DPXRJ2VY/?tag=tsvglyc-20",
+    "tags": [
+      "zulay kitchen powerful milk",
+      "zulay kitchen powerful milk review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

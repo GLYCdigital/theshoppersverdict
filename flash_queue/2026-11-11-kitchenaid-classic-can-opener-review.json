@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/B07YP2VH4B_kitchenaid_can_opener.md",
+  "slug": "kitchenaid-classic-can-opener-review",
+  "product": "KitchenAid Classic Can Opener",
+  "product_full": "KitchenAid Classic Can Opener",
+  "asin": "B07YP2VH4B",
+  "site_url": "https://theshoppersverdict.com/kitchenaid-classic-can-opener-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51yO+bt+mqL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "90,153",
+  "price": "$14",
+  "summary": "KitchenAid Classic Can Opener review: 90,000+ ratings, 4.6 stars. We tested cutting action, handle comfort, and durability. See pros, cons, and who should buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the KitchenAid Classic Can Opener at $14, watch the next 40 seconds.",
+    "KitchenAid Classic Can Opener: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "90,153 Amazon reviews of the KitchenAid Classic Can Opener — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the KitchenAid Classic Can Opener. 90,153 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KITCHENAID CLASSIC CAN OPENER",
+        "90,153 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Effortless, smooth rotation even on large #10 cans — the cutting wheel bites cleanly without needing white-knuckle force. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Effortless, smooth rotation even on large"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Auxiliary bottle opener built into the handle is nearly useless — too small and awkwardly positioned for practical use. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Auxiliary bottle opener built into the"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: effortless, smooth rotation even on large #10 cans. The tradeoff: auxiliary bottle opener built into the handle is nearly. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EFFORTLESS, SMOOTH ROTATION EVEN ON LARGE",
+        "THE TRADEOFF",
+        "AUXILIARY BOTTLE OPENER BUILT INTO THE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the KitchenAid Classic Can Opener before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$14 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "KitchenAid Classic Can Opener Review: Worth It? (Verdict 4.5/5)",
+    "description": "KitchenAid Classic Can Opener review: 90,000+ ratings, 4.6 stars. We tested cutting action, handle comfort, and durability. See pros, cons, and who should buy.\n\nFull review: https://theshoppersverdict.com/kitchenaid-classic-can-opener-review/\n\nhttps://www.amazon.com/dp/B07YP2VH4B/?tag=tsvglyc-20",
+    "tags": [
+      "kitchenaid classic can opener",
+      "kitchenaid classic can opener review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/B00NJ2M33I_sony_zx110_wired_headphones.md",
+  "slug": "sony-mdr-zx110-wired-headphones-review",
+  "product": "Sony MDR-ZX110 Wired Headphones",
+  "product_full": "Sony MDR-ZX110 Wired Headphones",
+  "asin": "B00NJ2M33I",
+  "site_url": "https://theshoppersverdict.com/sony-mdr-zx110-wired-headphones-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/41CiQ7hR31L._AC_SL1000_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.5,
+  "review_count": "96,105",
+  "price": "$15",
+  "summary": "Sony MDR-ZX110 review: 4.5-star wired headphones at $14.88. Deep bass, foldable design, 1.2m cord. Are they worth it for office use? Find out.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Sony MDR-ZX110 Wired Headphones at $15, watch the next 40 seconds.",
+    "Sony MDR-ZX110 Wired Headphones: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "96,105 Amazon reviews of the Sony MDR-ZX110 Wired Headphones — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Sony MDR-ZX110 Wired Headphones. 96,105 Amazon ratings, averaging 4.5 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE SONY MDR-ZX110 WIRED HEADPHONES",
+        "96,105 Amazon ratings, averaging 45 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 30mm neodymium drivers deliver surprisingly punchy bass for a $15 pair. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "30mm neodymium drivers deliver surprisingly"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — On-ear design clamps harder than over-ear models; glasses wearers will feel it. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "On-ear design clamps harder than over-ear"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 30mm neodymium drivers deliver surprisingly punchy bass. The tradeoff: on-ear design clamps harder than over-ear models. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "30MM NEODYMIUM DRIVERS DELIVER SURPRISINGLY",
+        "THE TRADEOFF",
+        "ON-EAR DESIGN CLAMPS HARDER THAN OVER-EAR"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Sony MDR-ZX110 Wired Headphones before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$15 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Sony MDR-ZX110 Wired Headphones Review: Worth It? (Verdict 4.4/5)",
+    "description": "Sony MDR-ZX110 review: 4.5-star wired headphones at $14.88. Deep bass, foldable design, 1.2m cord. Are they worth it for office use? Find out.\n\nFull review: https://theshoppersverdict.com/sony-mdr-zx110-wired-headphones-review/\n\nhttps://www.amazon.com/dp/B00NJ2M33I/?tag=tsvglyc-20",
+    "tags": [
+      "sony mdr-zx110 wired headphones",
+      "sony mdr-zx110 wired headphones review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

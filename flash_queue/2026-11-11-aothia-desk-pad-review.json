@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/B086BLQZ5L_aothia_desk_pad.md",
+  "slug": "aothia-desk-pad-review",
+  "product": "Aothia Desk Pad",
+  "product_full": "Aothia Desk Pad",
+  "asin": "B086BLQZ5L",
+  "site_url": "https://theshoppersverdict.com/aothia-desk-pad-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81XADFHuLDL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "77,004",
+  "price": "$8.99",
+  "summary": "Aothia Desk Pad review: 4.6-star rated, $8.99 desk protector. Is the non-slip surface worth it? We break down durability, size options, and who should buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Aothia Desk Pad at $8.99, watch the next 40 seconds.",
+    "Aothia Desk Pad: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "77,004 Amazon reviews of the Aothia Desk Pad — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Aothia Desk Pad. 77,004 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE AOTHIA DESK PAD",
+        "77,004 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 3mm natural rubber base grips hard surfaces without sliding — even during frantic gaming sessions. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "3mm natural rubber base grips hard surfaces"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — New-pad smell lingers for a few days — air it out before putting it on your desk. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "New-pad smell lingers for a few days — air"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 3mm natural rubber base grips hard surfaces without sliding. The tradeoff: new-pad smell lingers for a few days. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "3MM NATURAL RUBBER BASE GRIPS HARD SURFACES",
+        "THE TRADEOFF",
+        "NEW-PAD SMELL LINGERS FOR A FEW DAYS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Aothia Desk Pad before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "AOTHIA DESK PAD — HONEST REVIEW",
+    "$8.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Aothia Desk Pad Review: Worth It? (Verdict 4.5/5)",
+    "description": "Aothia Desk Pad review: 4.6-star rated, $8.99 desk protector. Is the non-slip surface worth it? We break down durability, size options, and who should buy.\n\nFull review: https://theshoppersverdict.com/aothia-desk-pad-review/\n\nhttps://www.amazon.com/dp/B086BLQZ5L/?tag=tsvglyc-20",
+    "tags": [
+      "aothia desk pad",
+      "aothia desk pad review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

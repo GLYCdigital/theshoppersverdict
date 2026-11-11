@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/pet-supplies/dr-elseys-ultra-unscented-clumping-clay-cat-litter-40lb-review.md",
+  "slug": "dr-elseys-ultra-unscented-clumping-clay-cat-litter-40lb-review",
+  "product": "Dr. Elsey's Ultra UnScented",
+  "product_full": "Dr. Elsey's Ultra UnScented Clumping Clay Cat Litter, 40 lb Bag",
+  "asin": "B0009X29WK",
+  "site_url": "https://theshoppersverdict.com/dr-elseys-ultra-unscented-clumping-clay-cat-litter-40lb-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71gV7T7iW-L._AC_SL1444_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.3,
+  "review_count": "95,521",
+  "price": "$23",
+  "summary": "Dr. Elsey's Ultra Unscented Clumping Cat Litter review: 95,521 reviews analyzed. 99.9% dust-free, hard clumping, low tracking. Is the 40lb bag the best value in cat litter?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Dr. Elsey's Ultra UnScented at $23, watch the next 40 seconds.",
+    "Dr. Elsey's Ultra UnScented: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "95,521 Amazon reviews of the Dr. Elsey's Ultra UnScented — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Dr. Elsey's Ultra UnScented. 95,521 Amazon ratings, averaging 4.3 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE DR. ELSEY'S ULTRA UNSCENTED",
+        "95,521 Amazon ratings, averaging 43 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 95,521 reviews — one of the most trusted cat litters on Amazon. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "95,521 reviews — one of the most trusted"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Clumps can bond to the bottom of the box if you don't use enough depth (fill 3-4 inches). Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Clumps can bond to the bottom of the box if"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 95,521 reviews. The tradeoff: clumps can bond to the bottom of the box. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "95,521 REVIEWS",
+        "THE TRADEOFF",
+        "CLUMPS CAN BOND TO THE BOTTOM OF THE BOX"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Dr. Elsey's Ultra UnScented before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$23 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Dr. Elsey's Ultra UnScented Review: Worth It? (Verdict 4.4/5)",
+    "description": "Dr. Elsey's Ultra Unscented Clumping Cat Litter review: 95,521 reviews analyzed. 99.9% dust-free, hard clumping, low tracking. Is the 40lb bag the best value in cat litter?\n\nFull review: https://theshoppersverdict.com/dr-elseys-ultra-unscented-clumping-clay-cat-litter-40lb-review/\n\nhttps://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+    "tags": [
+      "dr. elsey's ultra unscented",
+      "dr. elsey's ultra unscented review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

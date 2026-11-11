@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/seoulceuticals-vitamin-c-serum-review.md",
+  "slug": "seoulceuticals-vitamin-c-serum-review",
+  "product": "$20 CE Ferulic Alternative",
+  "product_full": "$20 CE Ferulic Alternative",
+  "asin": "B072K1LNNY",
+  "site_url": "https://theshoppersverdict.com/seoulceuticals-vitamin-c-serum-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B072K1LNNY/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81ofNgqKRUL._SL1500_.jpg",
+  "verdict_score": 8.5,
+  "amazon_rating": 4.4,
+  "review_count": "27,650",
+  "price": "$20",
+  "summary": "Our honest SeoulCeuticals 20% Vitamin C Hyaluronic Acid Serum review. Real customer insights on this K-beauty antioxidant serum with 27,000+ reviews.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the $20 CE Ferulic Alternative at $20, watch the next 40 seconds.",
+    "$20 CE Ferulic Alternative: 8.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "27,650 Amazon reviews of the $20 CE Ferulic Alternative — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the $20 CE Ferulic Alternative. 27,650 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE $20 CE FERULIC ALTERNATIVE",
+        "27,650 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Excellent value at $20 — a fraction of the cost of Skinceuticals CE Ferulic ($169+). That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Excellent value at $20 — a fraction of the"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — L-Ascorbic Acid (pure Vitamin C) is less stable than derivatives — requires careful storage. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "L-Ascorbic Acid (pure Vitamin C) is less"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: excellent value at $20. The tradeoff: l-Ascorbic Acid (pure Vitamin C) is less stable. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EXCELLENT VALUE AT $20",
+        "THE TRADEOFF",
+        "L-ASCORBIC ACID (PURE VITAMIN C) IS LESS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 8.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 8.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the $20 CE Ferulic Alternative before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B072K1LNNY/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "8.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$20 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "$20 CE Ferulic Alternative Review: Worth It? (Verdict 8.5/5)",
+    "description": "Our honest SeoulCeuticals 20% Vitamin C Hyaluronic Acid Serum review. Real customer insights on this K-beauty antioxidant serum with 27,000+ reviews.\n\nFull review: https://theshoppersverdict.com/seoulceuticals-vitamin-c-serum-review/\n\nhttps://www.amazon.com/dp/B072K1LNNY/?tag=tsvglyc-20",
+    "tags": [
+      "$20 ce ferulic alternative",
+      "$20 ce ferulic alternative review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

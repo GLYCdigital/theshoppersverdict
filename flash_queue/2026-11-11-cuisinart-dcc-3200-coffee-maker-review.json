@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/B00MVWGQX0_cuisinart_dcc3200_coffee_maker.md",
+  "slug": "cuisinart-dcc-3200-coffee-maker-review",
+  "product": "Cuisinart DCC-3200 PerfecTemp",
+  "product_full": "Cuisinart DCC-3200 PerfecTemp Coffee Maker",
+  "asin": "B00MVWGQX0",
+  "site_url": "https://theshoppersverdict.com/cuisinart-dcc-3200-coffee-maker-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71io+Gh4ApL._AC_SL1500_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.5,
+  "review_count": "43,350",
+  "price": "$90",
+  "summary": "Cuisinart DCC-3200 PerfecTemp review: 12-cup programmable brewer with fast brew time and hot plate. See pros, cons, and who should buy it.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Cuisinart DCC-3200 PerfecTemp at $90, watch the next 40 seconds.",
+    "Cuisinart DCC-3200 PerfecTemp: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "43,350 Amazon reviews of the Cuisinart DCC-3200 PerfecTemp — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Cuisinart DCC-3200 PerfecTemp. 43,350 Amazon ratings, averaging 4.5 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE CUISINART DCC-3200 PERFECTEMP",
+        "43,350 Amazon ratings, averaging 45 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Brews a full 12-cup pot in roughly 7–8 minutes — noticeably faster than most drip machines at this price. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Brews a full 12-cup pot in roughly 7–8"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Carafe is glass and fragile; several long-term owners report cracks after 12–18 months of daily use. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Carafe is glass and fragile; several"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: brews a full 12-cup pot in roughly 7–8 minutes. The tradeoff: carafe is glass and fragile. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "BREWS A FULL 12-CUP POT IN ROUGHLY 7–8",
+        "THE TRADEOFF",
+        "CARAFE IS GLASS AND FRAGILE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Cuisinart DCC-3200 PerfecTemp before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$90 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Cuisinart DCC-3200 PerfecTemp Review: Worth It? (Verdict 4.4/5)",
+    "description": "Cuisinart DCC-3200 PerfecTemp review: 12-cup programmable brewer with fast brew time and hot plate. See pros, cons, and who should buy it.\n\nFull review: https://theshoppersverdict.com/cuisinart-dcc-3200-coffee-maker-review/\n\nhttps://www.amazon.com/dp/B00MVWGQX0/?tag=tsvglyc-20",
+    "tags": [
+      "cuisinart dcc-3200 perfectemp",
+      "cuisinart dcc-3200 perfectemp review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/keurig-k-express-single-serve-coffee-maker-review.md",
+  "slug": "keurig-k-express-single-serve-coffee-maker-review",
+  "product": "Keurig K-Express",
+  "product_full": "Keurig K-Express",
+  "asin": "B09715G57M",
+  "site_url": "https://theshoppersverdict.com/keurig-k-express-single-serve-coffee-maker-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B09715G57M?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/611S4FYZhsL._AC_SL1500_.jpg",
+  "verdict_score": 4.0,
+  "amazon_rating": 4.3,
+  "review_count": "48,296",
+  "price": "$89.99",
+  "summary": "Our Keurig K-Express review covers brew speed, Strong button performance, and value at $89.99. Is this the best budget-friendly Keurig? Find out.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Keurig K-Express at $89.99, watch the next 40 seconds.",
+    "Keurig K-Express: 4.0 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "48,296 Amazon reviews of the Keurig K-Express — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Keurig K-Express. 48,296 Amazon ratings, averaging 4.3 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KEURIG K-EXPRESS",
+        "48,296 Amazon ratings, averaging 43 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Fast heat-up and brew time — coffee in under 2 minutes. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Fast heat-up and brew time — coffee in"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — No temperature control or programmable timer. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "No temperature control or programmable timer"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: fast heat-up and brew time. The tradeoff: no temperature control or programmable timer. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "FAST HEAT-UP AND BREW TIME",
+        "THE TRADEOFF",
+        "NO TEMPERATURE CONTROL OR PROGRAMMABLE TIMER"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.0 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.0/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Keurig K-Express before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B09715G57M?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.0/5 — WORTH IT?",
+    "KEURIG K-EXPRESS — HONEST REVIEW",
+    "$89.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Keurig K-Express Review: Worth It? (Verdict 4.0/5)",
+    "description": "Our Keurig K-Express review covers brew speed, Strong button performance, and value at $89.99. Is this the best budget-friendly Keurig? Find out.\n\nFull review: https://theshoppersverdict.com/keurig-k-express-single-serve-coffee-maker-review/\n\nhttps://www.amazon.com/dp/B09715G57M?tag=tsvglyc-20",
+    "tags": [
+      "keurig k-express",
+      "keurig k-express review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/amazon-basics-cross-cut-shredder-review.md",
+  "slug": "amazon-basics-cross-cut-shredder-review",
+  "product": "Amazon Basics 8-Sheet Cross Cut",
+  "product_full": "Amazon Basics 8-Sheet Cross Cut Paper Shredder",
+  "asin": "B0C6LZ8S34",
+  "site_url": "https://theshoppersverdict.com/amazon-basics-cross-cut-shredder-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/719njn2SJ1L._AC_SL1500_.jpg",
+  "verdict_score": 4.2,
+  "amazon_rating": 4.3,
+  "review_count": "75,213",
+  "price": "$36",
+  "summary": "Honest Amazon Basics 8-sheet cross cut shredder review: performance, noise, capacity, and real buyer feedback. Is this $36 shredder worth it?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Amazon Basics 8-Sheet Cross Cut at $36, watch the next 40 seconds.",
+    "Amazon Basics 8-Sheet Cross Cut: 4.2 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "75,213 Amazon reviews of the Amazon Basics 8-Sheet Cross Cut — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Amazon Basics 8-Sheet Cross Cut. 75,213 Amazon ratings, averaging 4.3 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE AMAZON BASICS 8-SHEET CROSS CUT",
+        "75,213 Amazon ratings, averaging 43 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Genuine 8-sheet capacity handles typical mail and bank statements without jamming. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Genuine 8-sheet capacity handles typical"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Loud — measured around 70-75 dB in use; you'll hear it in the next room. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Loud — measured around 70-75 dB in use;"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: genuine 8-sheet capacity handles typical mail and bank statements. The tradeoff: loud — measured around 70-75 dB in use. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "GENUINE 8-SHEET CAPACITY HANDLES TYPICAL",
+        "THE TRADEOFF",
+        "LOUD — MEASURED AROUND 70-75 DB IN USE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.2 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.2/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Amazon Basics 8-Sheet Cross Cut before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.2/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$36 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Amazon Basics 8-Sheet Cross Cut Review: Worth It? (Verdict 4.2/5)",
+    "description": "Honest Amazon Basics 8-sheet cross cut shredder review: performance, noise, capacity, and real buyer feedback. Is this $36 shredder worth it?\n\nFull review: https://theshoppersverdict.com/amazon-basics-cross-cut-shredder-review/\n\nhttps://www.amazon.com/dp/B0C6LZ8S34/?tag=tsvglyc-20",
+    "tags": [
+      "amazon basics 8-sheet cross cut",
+      "amazon basics 8-sheet cross cut review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

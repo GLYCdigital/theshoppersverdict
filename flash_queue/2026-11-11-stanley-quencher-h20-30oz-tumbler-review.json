@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/stanley-quencher-h20-30oz-tumbler-review.md",
+  "slug": "stanley-quencher-h20-30oz-tumbler-review",
+  "product": "STANLEY Quencher H2.0 Tumbler",
+  "product_full": "STANLEY Quencher H2.0 Tumbler",
+  "asin": "B0CP9YB3Q4",
+  "site_url": "https://theshoppersverdict.com/stanley-quencher-h20-30oz-tumbler-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51-U5dEbEBL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.7,
+  "review_count": "92,925",
+  "price": "$25",
+  "summary": "STANLEY Quencher H2.0 Tumbler review: 30oz capacity, 40°F cold for 11 hours, leak-resistant lid. Is the viral hype real? Honest pros, cons & verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the STANLEY Quencher H2.0 Tumbler at $25, watch the next 40 seconds.",
+    "STANLEY Quencher H2.0 Tumbler: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "92,925 Amazon reviews of the STANLEY Quencher H2.0 Tumbler — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the STANLEY Quencher H2.0 Tumbler. 92,925 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE STANLEY QUENCHER H2.0 TUMBLER",
+        "92,925 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Keeps ice intact for 11+ hours and drinks cold for up to 2 days — verified by thousands of user tests, not just marketing claims. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Keeps ice intact for 11+ hours and drinks"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Hand-wash only — the dishwasher will ruin the vacuum seal and exterior finish over time. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Hand-wash only — the dishwasher will ruin"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: keeps ice intact for 11+ hours and drinks cold. The tradeoff: hand-wash only. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "KEEPS ICE INTACT FOR 11+ HOURS AND DRINKS",
+        "THE TRADEOFF",
+        "HAND-WASH ONLY"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the STANLEY Quencher H2.0 Tumbler before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$25 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "STANLEY Quencher H2.0 Tumbler Review: Worth It? (Verdict 4.6/5)",
+    "description": "STANLEY Quencher H2.0 Tumbler review: 30oz capacity, 40°F cold for 11 hours, leak-resistant lid. Is the viral hype real? Honest pros, cons & verdict.\n\nFull review: https://theshoppersverdict.com/stanley-quencher-h20-30oz-tumbler-review/\n\nhttps://www.amazon.com/dp/B0CP9YB3Q4/?tag=tsvglyc-20",
+    "tags": [
+      "stanley quencher h2.0 tumbler",
+      "stanley quencher h2.0 tumbler review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

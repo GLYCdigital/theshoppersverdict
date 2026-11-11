@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/amazon-basics-gentle-mild-hand-soap-refill-50-oz-b09hhdhxwx-review.md",
+  "slug": "amazon-basics-gentle-mild-liquid-hand-soap-refill-50-oz-b09hhdhxwx-review",
+  "product": "Amazon Basics Gentle & Mild Clear",
+  "product_full": "Amazon Basics Gentle & Mild Clear Liquid Hand Soap Refill, Triclosan-Free, 50 oz",
+  "asin": "B09HHDHXWX",
+  "site_url": "https://theshoppersverdict.com/amazon-basics-gentle-mild-liquid-hand-soap-refill-50-oz-b09hhdhxwx-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B09HHDHXWX/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/61F5elwBZYL._SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "44,666",
+  "price": "$3.82",
+  "summary": "Amazon Basics Gentle & Mild hand soap refill review: 44,666 ratings. Dermatologist tested, triclosan-free 50 oz refill. Is it as good as Softsoap?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Amazon Basics Gentle & Mild Clear at $3.82, watch the next 40 seconds.",
+    "Amazon Basics Gentle & Mild Clear: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "44,666 Amazon reviews of the Amazon Basics Gentle & Mild Clear — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Amazon Basics Gentle & Mild Clear. 44,666 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE AMAZON BASICS GENTLE & MILD CLEAR",
+        "44,666 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 50 oz refill bottle at $3.82 — hands-down the best value per ounce in liquid hand soap. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "50 oz refill bottle at $3.82 — hands-down"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Clear formula means you can't easily see soap level in opaque dispensers. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Clear formula means you can't easily see"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 50 oz refill bottle at $3.82. The tradeoff: clear formula means you can't easily see soap level. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "50 OZ REFILL BOTTLE AT $3.82",
+        "THE TRADEOFF",
+        "CLEAR FORMULA MEANS YOU CAN'T EASILY SEE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Amazon Basics Gentle & Mild Clear before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B09HHDHXWX/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$3.82 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Amazon Basics Gentle & Mild Clear Review: Worth It? (Verdict 4.5/5)",
+    "description": "Amazon Basics Gentle & Mild hand soap refill review: 44,666 ratings. Dermatologist tested, triclosan-free 50 oz refill. Is it as good as Softsoap?\n\nFull review: https://theshoppersverdict.com/amazon-basics-gentle-mild-liquid-hand-soap-refill-50-oz-b09hhdhxwx-review/\n\nhttps://www.amazon.com/dp/B09HHDHXWX/?tag=tsvglyc-20",
+    "tags": [
+      "amazon basics gentle & mild clear",
+      "amazon basics gentle & mild clear review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

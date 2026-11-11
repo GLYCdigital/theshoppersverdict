@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/laneige-lip-sleeping-mask-review.md",
+  "slug": "laneige-lip-sleeping-mask-berry-review",
+  "product": "LANEIGE Lip Sleeping Mask Berry",
+  "product_full": "LANEIGE Lip Sleeping Mask Berry",
+  "asin": "B07XXPHQZK",
+  "site_url": "https://theshoppersverdict.com/laneige-lip-sleeping-mask-berry-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51bHKet2shL._AC_SL1500_.jpg",
+  "verdict_score": 8.8,
+  "amazon_rating": 4.6,
+  "review_count": "35,666",
+  "price": "$14.90",
+  "summary": "Our honest LANEIGE Lip Sleeping Mask Berry review. Real customer insights on this viral overnight lip treatment. See pros, cons, who should buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the LANEIGE Lip Sleeping Mask Berry at $14.90, watch the next 40 seconds.",
+    "LANEIGE Lip Sleeping Mask Berry: 8.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "35,666 Amazon reviews of the LANEIGE Lip Sleeping Mask Berry — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the LANEIGE Lip Sleeping Mask Berry. 35,666 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE LANEIGE LIP SLEEPING MASK BERRY",
+        "35,666 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Noticeable overnight hydration — visibly softer, smoother lips by morning. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Noticeable overnight hydration — visibly"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Premium pricing for a lip product — $15 for a small jar feels expensive at first glance. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Premium pricing for a lip product — $15 for"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: noticeable overnight hydration. The tradeoff: premium pricing for a lip product. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "NOTICEABLE OVERNIGHT HYDRATION",
+        "THE TRADEOFF",
+        "PREMIUM PRICING FOR A LIP PRODUCT"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 8.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 8.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the LANEIGE Lip Sleeping Mask Berry before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "8.8/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$14.90 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "LANEIGE Lip Sleeping Mask Berry Review: Worth It? (Verdict 8.8/5)",
+    "description": "Our honest LANEIGE Lip Sleeping Mask Berry review. Real customer insights on this viral overnight lip treatment. See pros, cons, who should buy.\n\nFull review: https://theshoppersverdict.com/laneige-lip-sleeping-mask-berry-review/\n\nhttps://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+    "tags": [
+      "laneige lip sleeping mask berry",
+      "laneige lip sleeping mask berry review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

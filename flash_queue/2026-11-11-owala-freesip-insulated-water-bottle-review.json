@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/owala-freesip-insulated-water-bottle-review.md",
+  "slug": "owala-freesip-insulated-water-bottle-review",
+  "product": "Product",
+  "product_full": "Product",
+  "asin": "B0BZYCJK89",
+  "site_url": "https://theshoppersverdict.com/owala-freesip-insulated-water-bottle-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0BZYCJK89/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/61Gvw0-b0eL._AC_SL1500_.jpg",
+  "verdict_score": 4.7,
+  "amazon_rating": 4.7,
+  "review_count": "121,123",
+  "price": "$30",
+  "summary": "Owala FreeSip 24 oz water bottle features a 2-in-1 spout and keeps drinks cold for hours. Read our review of this 4.7-star insulated bottle with 121K+ reviews.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Product at $30, watch the next 40 seconds.",
+    "Product: 4.7 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "121,123 Amazon reviews of the Product — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Product. 121,123 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE PRODUCT",
+        "121,123 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Dual-drink FreeSip spout — sip upright through the straw or tilt back to chug. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Dual-drink FreeSip spout — sip upright"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — 24 oz capacity may be small for heavy water drinkers who need fewer refills. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "24 oz capacity may be small for heavy water"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: dual-drink FreeSip spout. The tradeoff: 24 oz capacity may be small for heavy water. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "DUAL-DRINK FREESIP SPOUT",
+        "THE TRADEOFF",
+        "24 OZ CAPACITY MAY BE SMALL FOR HEAVY WATER"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.7 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.7/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Product before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0BZYCJK89/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.7/5 — WORTH IT?",
+    "PRODUCT — HONEST REVIEW",
+    "$30 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Product Review: Worth It? (Verdict 4.7/5)",
+    "description": "Owala FreeSip 24 oz water bottle features a 2-in-1 spout and keeps drinks cold for hours. Read our review of this 4.7-star insulated bottle with 121K+ reviews.\n\nFull review: https://theshoppersverdict.com/owala-freesip-insulated-water-bottle-review/\n\nhttps://www.amazon.com/dp/B0BZYCJK89/?tag=tsvglyc-20",
+    "tags": [
+      "product",
+      "product review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

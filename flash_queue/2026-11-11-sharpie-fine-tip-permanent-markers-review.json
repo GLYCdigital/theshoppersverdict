@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/sharpie-fine-tip-permanent-markers-review.md",
+  "slug": "sharpie-fine-tip-permanent-markers-review",
+  "product": "Sharpie Fine Point Permanent",
+  "product_full": "Sharpie Fine Point Permanent Markers",
+  "asin": "B00006IFHD",
+  "site_url": "https://theshoppersverdict.com/sharpie-fine-tip-permanent-markers-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81wGuZOL1fL._AC_SL1500_.jpg",
+  "verdict_score": 4.8,
+  "amazon_rating": 4.8,
+  "review_count": "44,828",
+  "price": "$8.99",
+  "summary": "Sharpie Fine Point Permanent Markers review: bold, smear-resistant ink, durable tips, and 24-count value. See pros, cons, and who should buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Sharpie Fine Point Permanent at $8.99, watch the next 40 seconds.",
+    "Sharpie Fine Point Permanent: 4.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "44,828 Amazon reviews of the Sharpie Fine Point Permanent — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Sharpie Fine Point Permanent. 44,828 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE SHARPIE FINE POINT PERMANENT",
+        "44,828 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Quick-drying, smear-resistant ink that holds up on glossy surfaces, plastic, and metal — not just paper. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Quick-drying, smear-resistant ink that"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Ink can bleed through thin paper (standard printer paper, notebooks) — use a barrier sheet underneath. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Ink can bleed through thin paper (standard"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: quick-drying, smear-resistant ink. The tradeoff: ink can bleed through thin paper (standard printer paper. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "QUICK-DRYING, SMEAR-RESISTANT INK",
+        "THE TRADEOFF",
+        "INK CAN BLEED THROUGH THIN PAPER (STANDARD"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Sharpie Fine Point Permanent before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.8/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$8.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Sharpie Fine Point Permanent Review: Worth It? (Verdict 4.8/5)",
+    "description": "Sharpie Fine Point Permanent Markers review: bold, smear-resistant ink, durable tips, and 24-count value. See pros, cons, and who should buy.\n\nFull review: https://theshoppersverdict.com/sharpie-fine-tip-permanent-markers-review/\n\nhttps://www.amazon.com/dp/B00006IFHD/?tag=tsvglyc-20",
+    "tags": [
+      "sharpie fine point permanent",
+      "sharpie fine point permanent review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

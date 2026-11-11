@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/B07XXSYLL8_tempPro_tp19h_thermometer.md",
+  "slug": "temppro-tp19h-digital-meat-thermometer-review",
+  "product": "TempPro TP19H Digital Meat",
+  "product_full": "TempPro TP19H Digital Meat Thermometer",
+  "asin": "B07XXSYLL8",
+  "site_url": "https://theshoppersverdict.com/temppro-tp19h-digital-meat-thermometer-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71GAhr0v1hL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "54,396",
+  "price": "$14",
+  "summary": "TempPro TP19H digital meat thermometer review: 2-3 second readout, magnetic back, 54K+ ratings. Is it worth $14? Read our honest verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the TempPro TP19H Digital Meat at $14, watch the next 40 seconds.",
+    "TempPro TP19H Digital Meat: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "54,396 Amazon reviews of the TempPro TP19H Digital Meat — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the TempPro TP19H Digital Meat. 54,396 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE TEMPPRO TP19H DIGITAL MEAT",
+        "54,396 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 2-3 second readout with ±0.9°F accuracy — faster than thermometers twice the price. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "2-3 second readout with ±0.9°F accuracy —"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — No backlight — grilling at dusk or in a dark oven means squinting at the display. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "No backlight — grilling at dusk or in a"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 2-3 second readout with ±0.9°F accuracy. The tradeoff: no backlight. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "2-3 SECOND READOUT WITH ±0.9°F ACCURACY",
+        "THE TRADEOFF",
+        "NO BACKLIGHT"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the TempPro TP19H Digital Meat before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$14 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "TempPro TP19H Digital Meat Review: Worth It? (Verdict 4.5/5)",
+    "description": "TempPro TP19H digital meat thermometer review: 2-3 second readout, magnetic back, 54K+ ratings. Is it worth $14? Read our honest verdict.\n\nFull review: https://theshoppersverdict.com/temppro-tp19h-digital-meat-thermometer-review/\n\nhttps://www.amazon.com/dp/B07XXSYLL8/?tag=tsvglyc-20",
+    "tags": [
+      "temppro tp19h digital meat",
+      "temppro tp19h digital meat review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/truskin-vitamin-c-serum-review.md",
+  "slug": "truskin-vitamin-c-serum-review",
+  "product": "TruSkin Vitamin C Serum",
+  "product_full": "TruSkin Vitamin C Serum",
+  "asin": "B01EKUBU5Y",
+  "site_url": "https://theshoppersverdict.com/truskin-vitamin-c-serum-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B01EKUBU5Y/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71BUbYFwDQL._SL1500_.jpg",
+  "verdict_score": 4.2,
+  "amazon_rating": 4.4,
+  "review_count": "155,363",
+  "price": "$34.99",
+  "summary": "Our full TruSkin Vitamin C Serum review. 155,000+ Amazon reviews analyzed. See real customer results, pros, cons, and our verdict on this $34.99 brightening sensation.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the TruSkin Vitamin C Serum at $34.99, watch the next 40 seconds.",
+    "TruSkin Vitamin C Serum: 4.2 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "155,363 Amazon reviews of the TruSkin Vitamin C Serum — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the TruSkin Vitamin C Serum. 155,363 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE TRUSKIN VITAMIN C SERUM",
+        "155,363 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Remarkable brightening effect — noticeably evens skin tone within weeks. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Remarkable brightening effect — noticeably"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Results take 4-6 weeks of consistent use — not an overnight fix. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Results take 4-6 weeks of consistent use —"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: remarkable brightening effect. The tradeoff: results take 4-6 weeks of consistent use. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "REMARKABLE BRIGHTENING EFFECT",
+        "THE TRADEOFF",
+        "RESULTS TAKE 4-6 WEEKS OF CONSISTENT USE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.2 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.2/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the TruSkin Vitamin C Serum before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B01EKUBU5Y/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.2/5 — WORTH IT?",
+    "TRUSKIN VITAMIN C SERUM — HONEST REVIEW",
+    "$34.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "TruSkin Vitamin C Serum Review: Worth It? (Verdict 4.2/5)",
+    "description": "Our full TruSkin Vitamin C Serum review. 155,000+ Amazon reviews analyzed. See real customer results, pros, cons, and our verdict on this $34.99 brightening sensation.\n\nFull review: https://theshoppersverdict.com/truskin-vitamin-c-serum-review/\n\nhttps://www.amazon.com/dp/B01EKUBU5Y/?tag=tsvglyc-20",
+    "tags": [
+      "truskin vitamin c serum",
+      "truskin vitamin c serum review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

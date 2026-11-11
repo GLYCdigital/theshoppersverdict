@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/luxury-beauty/laneige-lip-sleeping-mask-nourish-hydrate-vitamin-c-murumuru-shea-butter-antioxidants-review.md",
+  "slug": "laneige-lip-sleeping-mask-nourish-hydrate-vitamin-c-murumuru-shea-butter-antioxidants-review",
+  "product": "Laneige Lip Sleeping Mask Nourish",
+  "product_full": "Laneige Lip Sleeping Mask Nourish Hydrate Vitamin C Murumuru Shea Butt",
+  "asin": "B07XXPHQZK",
+  "site_url": "https://theshoppersverdict.com/laneige-lip-sleeping-mask-nourish-hydrate-vitamin-c-murumuru-shea-butter-antioxidants-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51bHKet2shL._SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "36,756",
+  "price": "",
+  "summary": "Our full laneige lip sleeping mask: nourish, hydrate, vitamin c, murumuru & shea butter, antioxidants, flaky, dry lips. Read real Amazon customer insights, p",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Laneige Lip Sleeping Mask Nourish, watch the next 40 seconds.",
+    "Laneige Lip Sleeping Mask Nourish: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "36,756 Amazon reviews of the Laneige Lip Sleeping Mask Nourish — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Laneige Lip Sleeping Mask Nourish. 36,756 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE LANEIGE LIP SLEEPING MASK NOURISH",
+        "36,756 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Good overall value. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Good overall value"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — May not suit everyone's needs. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "May not suit everyone's needs"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: good overall value. The tradeoff: may not suit everyone's needs. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "GOOD OVERALL VALUE",
+        "THE TRADEOFF",
+        "MAY NOT SUIT EVERYONE'S NEEDS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Laneige Lip Sleeping Mask Nourish before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "THE CATCH NOBODY MENTIONS"
+  ],
+  "youtube": {
+    "title": "Laneige Lip Sleeping Mask Nourish Review: Worth It? (Verdict 4.6/5)",
+    "description": "Our full laneige lip sleeping mask: nourish, hydrate, vitamin c, murumuru & shea butter, antioxidants, flaky, dry lips. Read real Amazon customer insights, p\n\nFull review: https://theshoppersverdict.com/laneige-lip-sleeping-mask-nourish-hydrate-vitamin-c-murumuru-shea-butter-antioxidants-review/\n\nhttps://www.amazon.com/dp/B07XXPHQZK/?tag=tsvglyc-20",
+    "tags": [
+      "laneige lip sleeping mask nourish",
+      "laneige lip sleeping mask nourish review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review.md",
+  "slug": "keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review",
+  "product": "Keurig K Mini Plus Single Serve K",
+  "product_full": "Keurig K Mini Plus Single Serve K Cup Pod Coffee Maker With",
+  "asin": "B09RQ4Z2X6",
+  "site_url": "https://theshoppersverdict.com/keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B09RQ4Z2X6/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51y11sa0e0L._AC_SL1500_.jpg",
+  "verdict_score": 4.2,
+  "amazon_rating": 4.4,
+  "review_count": "39,272",
+  "price": "$95",
+  "summary": "Our full keurig k-mini plus single serve k-cup pod coffee maker, with 6 to 12oz brew size, stores up to 9 k-cup pods, travel mug friendly, misty green. Read",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Keurig K Mini Plus Single Serve K at $95, watch the next 40 seconds.",
+    "Keurig K Mini Plus Single Serve K: 4.2 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "39,272 Amazon reviews of the Keurig K Mini Plus Single Serve K — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Keurig K Mini Plus Single Serve K. 39,272 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KEURIG K MINI PLUS SINGLE SERVE K",
+        "39,272 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Strong performance that meets expectations. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Strong performance that meets expectations"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Larger footprint than expected. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Larger footprint than expected"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: strong performance. The tradeoff: larger footprint than expected. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "STRONG PERFORMANCE",
+        "THE TRADEOFF",
+        "LARGER FOOTPRINT THAN EXPECTED"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.2 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.2/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Keurig K Mini Plus Single Serve K before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B09RQ4Z2X6/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.2/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$95 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Keurig K Mini Plus Single Serve K Review: Worth It? (Verdict 4.2/5)",
+    "description": "Our full keurig k-mini plus single serve k-cup pod coffee maker, with 6 to 12oz brew size, stores up to 9 k-cup pods, travel mug friendly, misty green. Read\n\nFull review: https://theshoppersverdict.com/keurig-k-mini-plus-single-serve-k-cup-pod-coffee-maker-with-review/\n\nhttps://www.amazon.com/dp/B09RQ4Z2X6/?tag=tsvglyc-20",
+    "tags": [
+      "keurig k mini plus single serve k",
+      "keurig k mini plus single serve k review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

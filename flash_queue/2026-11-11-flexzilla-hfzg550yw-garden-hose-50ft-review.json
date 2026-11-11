@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/furniture/flexzilla-hfzg550yw-garden-hose-50ft-review.md",
+  "slug": "flexzilla-hfzg550yw-garden-hose-50ft-review",
+  "product": "Flexzilla HFZG550YW Garden",
+  "product_full": "Flexzilla HFZG550YW Garden Lead-In Hose 5/8 In. x 50 ft, Heavy Duty",
+  "asin": "B003TFE7ZM",
+  "site_url": "https://theshoppersverdict.com/flexzilla-hfzg550yw-garden-hose-50ft-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B003TFE7ZM/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71oERUaDzWL._AC_SL1500_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.4,
+  "review_count": "96,795",
+  "price": "$84",
+  "summary": "Flexzilla HFZG550YW garden hose review: 96,795 reviews analyzed. Lightweight, drinking water safe, heavy duty. Is it the best hose you'll ever buy?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Flexzilla HFZG550YW Garden at $84, watch the next 40 seconds.",
+    "Flexzilla HFZG550YW Garden: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "96,795 Amazon reviews of the Flexzilla HFZG550YW Garden — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Flexzilla HFZG550YW Garden. 96,795 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE FLEXZILLA HFZG550YW GARDEN",
+        "96,795 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Virtually kink-free — unrolls and moves without fighting you. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Virtually kink-free — unrolls and moves"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Hybrid polymer can puncture easier than reinforced rubber. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Hybrid polymer can puncture easier than"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: virtually kink-free. The tradeoff: hybrid polymer can puncture easier than reinforced rubber. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "VIRTUALLY KINK-FREE",
+        "THE TRADEOFF",
+        "HYBRID POLYMER CAN PUNCTURE EASIER THAN"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Flexzilla HFZG550YW Garden before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B003TFE7ZM/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$84 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Flexzilla HFZG550YW Garden Review: Worth It? (Verdict 4.4/5)",
+    "description": "Flexzilla HFZG550YW garden hose review: 96,795 reviews analyzed. Lightweight, drinking water safe, heavy duty. Is it the best hose you'll ever buy?\n\nFull review: https://theshoppersverdict.com/flexzilla-hfzg550yw-garden-hose-50ft-review/\n\nhttps://www.amazon.com/dp/B003TFE7ZM/?tag=tsvglyc-20",
+    "tags": [
+      "flexzilla hfzg550yw garden",
+      "flexzilla hfzg550yw garden review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

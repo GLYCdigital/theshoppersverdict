@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/ezlifego-double-sided-tape-heavy-duty-review.md",
+  "slug": "ezlifego-double-sided-tape-heavy-duty-review",
+  "product": "EZlifego Double Sided Tape Heavy",
+  "product_full": "EZlifego Double Sided Tape Heavy Duty",
+  "asin": "B07VNSXY31",
+  "site_url": "https://theshoppersverdict.com/ezlifego-double-sided-tape-heavy-duty-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71GY6lixaLL._SL1500_.jpg",
+  "verdict_score": 4.0,
+  "amazon_rating": 4.4,
+  "review_count": "128,788",
+  "price": "$9.99",
+  "summary": "EZlifego Double Sided Tape Heavy Duty review: real stickiness tests, surface limits, and who should buy. 128K ratings at 4.4 stars — see our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the EZlifego Double Sided Tape Heavy at $9.99, watch the next 40 seconds.",
+    "EZlifego Double Sided Tape Heavy: 4.0 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "128,788 Amazon reviews of the EZlifego Double Sided Tape Heavy — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the EZlifego Double Sided Tape Heavy. 128,788 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE EZLIFEGO DOUBLE SIDED TAPE HEAVY",
+        "128,788 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Genuinely strong hold on smooth surfaces — holds command hooks and LED strips securely where cheaper tape fails. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Genuinely strong hold on smooth surfaces —"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Surface prep is non-negotiable — any dust, oil, or textured paint will kill the bond and cause premature failure. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Surface prep is non-negotiable — any dust"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: genuinely strong hold on smooth surfaces. The tradeoff: surface prep is non-negotiable. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "GENUINELY STRONG HOLD ON SMOOTH SURFACES",
+        "THE TRADEOFF",
+        "SURFACE PREP IS NON-NEGOTIABLE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.0 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.0/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the EZlifego Double Sided Tape Heavy before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.0/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$9.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "EZlifego Double Sided Tape Heavy Review: Worth It? (Verdict 4.0/5)",
+    "description": "EZlifego Double Sided Tape Heavy Duty review: real stickiness tests, surface limits, and who should buy. 128K ratings at 4.4 stars — see our verdict.\n\nFull review: https://theshoppersverdict.com/ezlifego-double-sided-tape-heavy-duty-review/\n\nhttps://www.amazon.com/dp/B07VNSXY31/?tag=tsvglyc-20",
+    "tags": [
+      "ezlifego double sided tape heavy",
+      "ezlifego double sided tape heavy review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

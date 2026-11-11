@@ -495,6 +495,15 @@ def main():
         print(f"❌ Post not found: {post}", file=sys.stderr)
         sys.exit(1)
 
+    # Hand a ready-to-render Shorts job to Flash (non-fatal: never blocks publish).
+    try:
+        sr = subprocess.run(
+            [sys.executable, str(WORKSPACE / "scripts" / "shorts_from_review.py"), str(post)],
+            capture_output=True, text=True, timeout=120)
+        print(sr.stdout.strip() or "🎬 Shorts job: " + (sr.stderr.strip()[:200]))
+    except Exception as exc:  # noqa: BLE001
+        print(f"⚠️  Shorts job skipped: {exc}", file=sys.stderr)
+
     subprocess.run(["git", "add", str(post), str(task_file), str(STATE_FILE)],
                    cwd=WORKSPACE, check=True)
     subprocess.run(

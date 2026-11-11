@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/keurig-k-mini-plus-review.md",
+  "slug": "keurig-k-mini-plus-review",
+  "product": "Keurig K-Mini Plus",
+  "product_full": "Keurig K-Mini Plus",
+  "asin": "B07DR89BR6",
+  "site_url": "https://theshoppersverdict.com/keurig-k-mini-plus-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/615DwR2X19L._AC_SL1500_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.4,
+  "review_count": "39,293",
+  "price": "$94.99",
+  "summary": "Our detailed Keurig K-Mini Plus review covers brew performance design and value. See how this ultra-compact single-serve coffee maker stacks up.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Keurig K-Mini Plus at $94.99, watch the next 40 seconds.",
+    "Keurig K-Mini Plus: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "39,293 Amazon reviews of the Keurig K-Mini Plus — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Keurig K-Mini Plus. 39,293 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KEURIG K-MINI PLUS",
+        "39,293 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Ultra-compact design fits in the tightest spaces. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Ultra-compact design fits in the tightest"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Only brews 6 to 12 oz no custom cup sizes. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Only brews 6 to 12 oz no custom cup sizes"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: ultra-compact design fits in the tightest spaces. The tradeoff: only brews 6 to 12 oz no custom cup. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "ULTRA-COMPACT DESIGN FITS IN THE TIGHTEST",
+        "THE TRADEOFF",
+        "ONLY BREWS 6 TO 12 OZ NO CUSTOM CUP"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Keurig K-Mini Plus before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "KEURIG K-MINI PLUS — HONEST REVIEW",
+    "$94.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Keurig K-Mini Plus Review: Worth It? (Verdict 4.4/5)",
+    "description": "Our detailed Keurig K-Mini Plus review covers brew performance design and value. See how this ultra-compact single-serve coffee maker stacks up.\n\nFull review: https://theshoppersverdict.com/keurig-k-mini-plus-review/\n\nhttps://www.amazon.com/dp/B07DR89BR6?tag=tsvglyc-20",
+    "tags": [
+      "keurig k-mini plus",
+      "keurig k-mini plus review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

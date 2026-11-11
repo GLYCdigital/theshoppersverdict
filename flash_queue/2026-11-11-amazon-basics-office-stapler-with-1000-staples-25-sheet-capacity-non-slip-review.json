@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-non-slip-review.md",
+  "slug": "amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-non-slip-review",
+  "product": "Amazon Basics Office Stapler With",
+  "product_full": "Amazon Basics Office Stapler With Staples 25 Sheet Capacity Non Slip",
+  "asin": "B079ZV4V3C",
+  "site_url": "https://theshoppersverdict.com/amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-non-slip-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71ORqgJajrL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "52,636",
+  "price": "$6.31",
+  "summary": "Amazon Basics stapler review: 52,636 reviews analyzed. 25-sheet capacity, non-slip base, 1000 staples included. The ultimate budget office staple.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Amazon Basics Office Stapler With at $6.31, watch the next 40 seconds.",
+    "Amazon Basics Office Stapler With: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "52,636 Amazon reviews of the Amazon Basics Office Stapler With — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Amazon Basics Office Stapler With. 52,636 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE AMAZON BASICS OFFICE STAPLER WITH",
+        "52,636 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Exceptional value at $6.31 — cheaper than lunch, lasts for years. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Exceptional value at $6.31 — cheaper than"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — All-plastic construction — not built for heavy daily institutional use. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "All-plastic construction — not built for"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: exceptional value at $6.31. The tradeoff: all-plastic construction. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EXCEPTIONAL VALUE AT $6.31",
+        "THE TRADEOFF",
+        "ALL-PLASTIC CONSTRUCTION"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Amazon Basics Office Stapler With before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$6.31 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Amazon Basics Office Stapler With Review: Worth It? (Verdict 4.6/5)",
+    "description": "Amazon Basics stapler review: 52,636 reviews analyzed. 25-sheet capacity, non-slip base, 1000 staples included. The ultimate budget office staple.\n\nFull review: https://theshoppersverdict.com/amazon-basics-office-stapler-with-1000-staples-25-sheet-capacity-non-slip-review/\n\nhttps://www.amazon.com/dp/B079ZV4V3C/?tag=tsvglyc-20",
+    "tags": [
+      "amazon basics office stapler with",
+      "amazon basics office stapler with review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

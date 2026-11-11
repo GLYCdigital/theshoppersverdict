@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/B0C3HCD34R_soundcore_anker_q20i_headphones.md",
+  "slug": "anker-soundcore-q20i-headphones-review",
+  "product": "Anker Soundcore Q20i Headphones",
+  "product_full": "Anker Soundcore Q20i Headphones",
+  "asin": "B0C3HCD34R",
+  "site_url": "https://theshoppersverdict.com/anker-soundcore-q20i-headphones-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_SL1200_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "63,317",
+  "price": "$40",
+  "summary": "Anker Soundcore Q20i review: 4.6-star budget headphones with ANC, 40-hour battery, and deep bass. See if they're worth $39.99 for your workspace.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Anker Soundcore Q20i Headphones at $40, watch the next 40 seconds.",
+    "Anker Soundcore Q20i Headphones: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "63,317 Amazon reviews of the Anker Soundcore Q20i Headphones — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Anker Soundcore Q20i Headphones. 63,317 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE ANKER SOUNDCORE Q20I HEADPHONES",
+        "63,317 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 40-hour battery life with ANC on — a full work week without touching a charger. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "40-hour battery life with ANC on — a full"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Plastic build feels creaky at the hinge points; don't toss them in a bag unprotected. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Plastic build feels creaky at the hinge"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 40-hour battery life with ANC. The tradeoff: plastic build feels creaky at the hinge points. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "40-HOUR BATTERY LIFE WITH ANC",
+        "THE TRADEOFF",
+        "PLASTIC BUILD FEELS CREAKY AT THE HINGE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Anker Soundcore Q20i Headphones before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$40 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Anker Soundcore Q20i Headphones Review: Worth It? (Verdict 4.5/5)",
+    "description": "Anker Soundcore Q20i review: 4.6-star budget headphones with ANC, 40-hour battery, and deep bass. See if they're worth $39.99 for your workspace.\n\nFull review: https://theshoppersverdict.com/anker-soundcore-q20i-headphones-review/\n\nhttps://www.amazon.com/dp/B0C3HCD34R/?tag=tsvglyc-20",
+    "tags": [
+      "anker soundcore q20i headphones",
+      "anker soundcore q20i headphones review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

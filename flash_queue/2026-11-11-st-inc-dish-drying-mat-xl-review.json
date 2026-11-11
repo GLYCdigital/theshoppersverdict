@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/st-inc-dish-drying-mat-xl-review.md",
+  "slug": "st-inc-dish-drying-mat-xl-review",
+  "product": "S&T INC. Dish Drying Mat XL",
+  "product_full": "S&T INC. Dish Drying Mat XL",
+  "asin": "B07N9JTJ6K",
+  "site_url": "https://theshoppersverdict.com/st-inc-dish-drying-mat-xl-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/A1+xPqVrEtL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.7,
+  "review_count": "37,493",
+  "price": "$14",
+  "summary": "S&T INC. Dish Drying Mat XL review: 4.7-star rated, 37k+ reviews. We test absorbency, durability, and size. Honest pros, cons, and buying advice.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the S&T INC. Dish Drying Mat XL at $14, watch the next 40 seconds.",
+    "S&T INC. Dish Drying Mat XL: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "37,493 Amazon reviews of the S&T INC. Dish Drying Mat XL — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the S&T INC. Dish Drying Mat XL. 37,493 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE S&T INC. DISH DRYING MAT XL",
+        "37,493 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Genuinely XL at 16.5 x 24 inches — covers double sinks and most countertop drying zones. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Genuinely XL at 16.5 x 24 inches — covers"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Slippery on smooth granite or quartz when wet — needs a grippy mat underneath or a fully dry counter. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Slippery on smooth granite or quartz when"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: genuinely XL at 16.5 x 24 inches. The tradeoff: slippery on smooth granite or quartz when wet. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "GENUINELY XL AT 16.5 X 24 INCHES",
+        "THE TRADEOFF",
+        "SLIPPERY ON SMOOTH GRANITE OR QUARTZ WHEN"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the S&T INC. Dish Drying Mat XL before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$14 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "S&T INC. Dish Drying Mat XL Review: Worth It? (Verdict 4.6/5)",
+    "description": "S&T INC. Dish Drying Mat XL review: 4.7-star rated, 37k+ reviews. We test absorbency, durability, and size. Honest pros, cons, and buying advice.\n\nFull review: https://theshoppersverdict.com/st-inc-dish-drying-mat-xl-review/\n\nhttps://www.amazon.com/dp/B07N9JTJ6K/?tag=tsvglyc-20",
+    "tags": [
+      "s&t inc. dish drying mat xl",
+      "s&t inc. dish drying mat xl review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

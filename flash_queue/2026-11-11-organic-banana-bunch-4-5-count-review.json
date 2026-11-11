@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/organic-banana-bunch-4-5-count-review.md",
+  "slug": "organic-banana-bunch-4-5-count-review",
+  "product": "Organic Banana Bunch",
+  "product_full": "Organic Banana Bunch (4-5 Count)",
+  "asin": "B07ZLF9G83",
+  "site_url": "https://theshoppersverdict.com/organic-banana-bunch-4-5-count-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07ZLF9G83/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71gI-IUNUkL._SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "42,807",
+  "price": "$53",
+  "summary": "Honest organic banana bunch (4-5 count) review based on 42,807+ Amazon reviews. Real pros, cons, FAQs, and our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Organic Banana Bunch at $53, watch the next 40 seconds.",
+    "Organic Banana Bunch: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "42,807 Amazon reviews of the Organic Banana Bunch — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Organic Banana Bunch. 42,807 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE ORGANIC BANANA BUNCH",
+        "42,807 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Solid build quality that holds up. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Solid build quality that holds up"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Minor drawbacks to be aware of. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Minor drawbacks to be aware of"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: solid build quality. The tradeoff: minor drawbacks to be aware. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "SOLID BUILD QUALITY",
+        "THE TRADEOFF",
+        "MINOR DRAWBACKS TO BE AWARE"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Organic Banana Bunch before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07ZLF9G83/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "ORGANIC BANANA BUNCH — HONEST REVIEW",
+    "$53 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Organic Banana Bunch Review: Worth It? (Verdict 4.6/5)",
+    "description": "Honest organic banana bunch (4-5 count) review based on 42,807+ Amazon reviews. Real pros, cons, FAQs, and our verdict.\n\nFull review: https://theshoppersverdict.com/organic-banana-bunch-4-5-count-review/\n\nhttps://www.amazon.com/dp/B07ZLF9G83/?tag=tsvglyc-20",
+    "tags": [
+      "organic banana bunch",
+      "organic banana bunch review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

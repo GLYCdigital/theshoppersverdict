@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-ink-12-count-review.md",
+  "slug": "pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-ink-12-count-review",
+  "product": "Pilot G2 Premium Refillable",
+  "product_full": "Pilot G2 Premium Refillable Retractable Rolling Ball Gel Pens Fine Poi",
+  "asin": "B001GAOTSW",
+  "site_url": "https://theshoppersverdict.com/pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-ink-12-count-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/713GdY+wh4L._SL1500_.jpg",
+  "verdict_score": 4.8,
+  "amazon_rating": 4.8,
+  "review_count": "32,711",
+  "price": "$20",
+  "summary": "Pilot G2 gel pen review: 32,711 reviews analyzed. Smooth rolling ball, refillable, comfortable grip. Is the $19.89 12-pack worth the hype? Full verdict inside.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Pilot G2 Premium Refillable at $20, watch the next 40 seconds.",
+    "Pilot G2 Premium Refillable: 4.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "32,711 Amazon reviews of the Pilot G2 Premium Refillable — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Pilot G2 Premium Refillable. 32,711 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE PILOT G2 PREMIUM REFILLABLE",
+        "32,711 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Smooth, consistent ink flow from the first word to the last. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Smooth, consistent ink flow from the first"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Occasional packaging damage in transit (pens survive, boxes don't). Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Occasional packaging damage in transit"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: smooth, consistent ink flow from the first word. The tradeoff: occasional packaging damage in transit. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "SMOOTH, CONSISTENT INK FLOW FROM THE FIRST",
+        "THE TRADEOFF",
+        "OCCASIONAL PACKAGING DAMAGE IN TRANSIT"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Pilot G2 Premium Refillable before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.8/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$20 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Pilot G2 Premium Refillable Review: Worth It? (Verdict 4.8/5)",
+    "description": "Pilot G2 gel pen review: 32,711 reviews analyzed. Smooth rolling ball, refillable, comfortable grip. Is the $19.89 12-pack worth the hype? Full verdict inside.\n\nFull review: https://theshoppersverdict.com/pilot-g2-premium-refillable-retractable-rolling-ball-gel-pens-fine-point-black-ink-12-count-review/\n\nhttps://www.amazon.com/dp/B001GAOTSW/?tag=tsvglyc-20",
+    "tags": [
+      "pilot g2 premium refillable",
+      "pilot g2 premium refillable review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

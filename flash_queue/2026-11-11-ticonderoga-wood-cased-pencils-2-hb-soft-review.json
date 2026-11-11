@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/ticonderoga-wood-cased-pencils-2-hb-soft-review.md",
+  "slug": "ticonderoga-wood-cased-pencils-2-hb-soft-review",
+  "product": "Ticonderoga Wood-Cased Pencils",
+  "product_full": "Ticonderoga Wood-Cased Pencils, Pre-Sharpened, 2 HB Soft, Yellow, 12 Count",
+  "asin": "B000JEAAP2",
+  "site_url": "https://theshoppersverdict.com/ticonderoga-wood-cased-pencils-2-hb-soft-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81GqVVIzKKL._AC_SL1500_.jpg",
+  "verdict_score": 4.7,
+  "amazon_rating": 4.8,
+  "review_count": "68,338",
+  "price": "$5.63",
+  "summary": "Ticonderoga wood-cased pencils review: 68,338 reviews analyzed. Classic #2 HB pencils, pre-sharpened, 12-pack. Are they still the best pencils money can buy?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Ticonderoga Wood-Cased Pencils at $5.63, watch the next 40 seconds.",
+    "Ticonderoga Wood-Cased Pencils: 4.7 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "68,338 Amazon reviews of the Ticonderoga Wood-Cased Pencils — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Ticonderoga Wood-Cased Pencils. 68,338 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE TICONDEROGA WOOD-CASED PENCILS",
+        "68,338 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 68,338 reviews with a 4.8★ average — one of Amazon's highest-rated writing instruments. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "68,338 reviews with a 4.8★ average — one of"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Quality varies between production runs — some batches use lower-grade wood. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Quality varies between production runs —"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 68,338 reviews with a 4.8★ average. The tradeoff: quality varies between production runs. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "68,338 REVIEWS WITH A 4.8★ AVERAGE",
+        "THE TRADEOFF",
+        "QUALITY VARIES BETWEEN PRODUCTION RUNS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.7 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.7/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Ticonderoga Wood-Cased Pencils before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.7/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$5.63 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Ticonderoga Wood-Cased Pencils Review: Worth It? (Verdict 4.7/5)",
+    "description": "Ticonderoga wood-cased pencils review: 68,338 reviews analyzed. Classic #2 HB pencils, pre-sharpened, 12-pack. Are they still the best pencils money can buy?\n\nFull review: https://theshoppersverdict.com/ticonderoga-wood-cased-pencils-2-hb-soft-review/\n\nhttps://www.amazon.com/dp/B000JEAAP2/?tag=tsvglyc-20",
+    "tags": [
+      "ticonderoga wood-cased pencils",
+      "ticonderoga wood-cased pencils review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

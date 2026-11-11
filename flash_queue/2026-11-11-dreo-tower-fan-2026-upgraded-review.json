@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/furniture/dreo-tower-fan-2026-upgraded-review.md",
+  "slug": "dreo-tower-fan-2026-upgraded-review",
+  "product": "DREO Tower Fan 2026",
+  "product_full": "DREO Tower Fan 2026",
+  "asin": "B09MKPDJRT",
+  "site_url": "https://theshoppersverdict.com/dreo-tower-fan-2026-upgraded-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B09MKPDJRT/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71gv46SSzvL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "47,208",
+  "price": "$70",
+  "summary": "DREO Tower Fan for Bedroom review: 47,208+ Amazon reviews analyzed. 2026 upgraded DC motor, 28ft/s velocity, 20dB ultra quiet, 8 speeds, 4 modes. Real pros, cons, and our verdict on this popular tower fan.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the DREO Tower Fan 2026 at $70, watch the next 40 seconds.",
+    "DREO Tower Fan 2026: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "47,208 Amazon reviews of the DREO Tower Fan 2026 — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the DREO Tower Fan 2026. 47,208 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE DREO TOWER FAN 2026",
+        "47,208 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Exceptionally quiet at low speeds — ideal for bedrooms and offices. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Exceptionally quiet at low speeds — ideal"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Some owners report decreasing airflow power after 2-3 years. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Some owners report decreasing airflow power"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: exceptionally quiet at low speeds. The tradeoff: some owners report decreasing airflow power after 2-3 years. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EXCEPTIONALLY QUIET AT LOW SPEEDS",
+        "THE TRADEOFF",
+        "SOME OWNERS REPORT DECREASING AIRFLOW POWER"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the DREO Tower Fan 2026 before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B09MKPDJRT/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "DREO TOWER FAN 2026 — HONEST REVIEW",
+    "$70 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "DREO Tower Fan 2026 Review: Worth It? (Verdict 4.5/5)",
+    "description": "DREO Tower Fan for Bedroom review: 47,208+ Amazon reviews analyzed. 2026 upgraded DC motor, 28ft/s velocity, 20dB ultra quiet, 8 speeds, 4 modes. Real pros, cons, and our verdict on this popular tower fan.\n\nFull review: https://theshoppersverdict.com/dreo-tower-fan-2026-upgraded-review/\n\nhttps://www.amazon.com/dp/B09MKPDJRT/?tag=tsvglyc-20",
+    "tags": [
+      "dreo tower fan 2026",
+      "dreo tower fan 2026 review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/furniture/syngenta-advion-cockroach-gel-bait-383920-review.md",
+  "slug": "syngenta-advion-cockroach-gel-bait-383920-review",
+  "product": "Syngenta 383920 Advion Cockroach",
+  "product_full": "Syngenta 383920 Advion Cockroach Gel Bait 4 x 30 Gram Tubes",
+  "asin": "B0148W0WOE",
+  "site_url": "https://theshoppersverdict.com/syngenta-advion-cockroach-gel-bait-383920-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0148W0WOE/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81nuGmgWIrL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.6,
+  "review_count": "62,510",
+  "price": "$9.99",
+  "summary": "Syngenta Advion Cockroach Gel Bait review: 62,510 reviews analyzed. Professional-grade roach control that actually works. Is it the best DIY pest solution?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Syngenta 383920 Advion Cockroach at $9.99, watch the next 40 seconds.",
+    "Syngenta 383920 Advion Cockroach: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "62,510 Amazon reviews of the Syngenta 383920 Advion Cockroach — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Syngenta 383920 Advion Cockroach. 62,510 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE SYNGENTA 383920 ADVION COCKROACH",
+        "62,510 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Professional-grade formula that actually eliminates infestations. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Professional-grade formula that actually"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Not a quick fix — takes several days to see full results. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Not a quick fix — takes several days to see"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: professional-grade formula. The tradeoff: not a quick fix. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "PROFESSIONAL-GRADE FORMULA",
+        "THE TRADEOFF",
+        "NOT A QUICK FIX"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Syngenta 383920 Advion Cockroach before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0148W0WOE/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$9.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Syngenta 383920 Advion Cockroach Review: Worth It? (Verdict 4.6/5)",
+    "description": "Syngenta Advion Cockroach Gel Bait review: 62,510 reviews analyzed. Professional-grade roach control that actually works. Is it the best DIY pest solution?\n\nFull review: https://theshoppersverdict.com/syngenta-advion-cockroach-gel-bait-383920-review/\n\nhttps://www.amazon.com/dp/B0148W0WOE/?tag=tsvglyc-20",
+    "tags": [
+      "syngenta 383920 advion cockroach",
+      "syngenta 383920 advion cockroach review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

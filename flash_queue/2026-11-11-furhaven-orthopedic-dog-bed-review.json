@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/pet-supplies/furhaven-orthopedic-dog-bed-review.md",
+  "slug": "furhaven-orthopedic-dog-bed-review",
+  "product": "Furhaven Orthopedic Dog Bed",
+  "product_full": "Furhaven Orthopedic Dog Bed",
+  "asin": "B0759JPRKY",
+  "site_url": "https://theshoppersverdict.com/furhaven-orthopedic-dog-bed-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71xK-gJaK4L._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.4,
+  "review_count": "79,789",
+  "price": "$200",
+  "summary": "Furhaven Orthopedic Dog Bed review: 79K+ ratings, 4.4 stars. We break down support, durability, and whether it's worth your money.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Furhaven Orthopedic Dog Bed at $200, watch the next 40 seconds.",
+    "Furhaven Orthopedic Dog Bed: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "79,789 Amazon reviews of the Furhaven Orthopedic Dog Bed — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Furhaven Orthopedic Dog Bed. 79,789 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE FURHAVEN ORTHOPEDIC DOG BED",
+        "79,789 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Egg-crate orthopedic foam base provides genuine joint relief without the $150+ price tag of memory foam competitors. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Egg-crate orthopedic foam base provides"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Foam is only 4 inches thick at the center; heavier dogs (80+ lbs) will compress it noticeably within months. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Foam is only 4 inches thick at the center;"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: egg-crate orthopedic foam base provides genuine joint relief without. The tradeoff: foam is only 4 inches thick at the center. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EGG-CRATE ORTHOPEDIC FOAM BASE PROVIDES",
+        "THE TRADEOFF",
+        "FOAM IS ONLY 4 INCHES THICK AT THE CENTER"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Furhaven Orthopedic Dog Bed before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$200 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Furhaven Orthopedic Dog Bed Review: Worth It? (Verdict 4.5/5)",
+    "description": "Furhaven Orthopedic Dog Bed review: 79K+ ratings, 4.4 stars. We break down support, durability, and whether it's worth your money.\n\nFull review: https://theshoppersverdict.com/furhaven-orthopedic-dog-bed-review/\n\nhttps://www.amazon.com/dp/B0759JPRKY/?tag=tsvglyc-20",
+    "tags": [
+      "furhaven orthopedic dog bed",
+      "furhaven orthopedic dog bed review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/pet-supplies/temptations-cat-treats-classic-chicken-flavor-review.md",
+  "slug": "temptations-cat-treats-classic-chicken-flavor-review",
+  "product": "Temptations Cat Treats",
+  "product_full": "Temptations Cat Treats, Classic Crunchy and Soft, Chicken Flavor, 30 oz Tub",
+  "asin": "B01LNB6SA0",
+  "site_url": "https://theshoppersverdict.com/temptations-cat-treats-classic-chicken-flavor-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/8108Aln7zcL._AC_SL1500_.jpg",
+  "verdict_score": 4.8,
+  "amazon_rating": 4.8,
+  "review_count": "72,281",
+  "price": "$13",
+  "summary": "Read our Temptations Classic Chicken Cat Treats review based on 72,000+ Amazon reviews. Crunchy outside, soft inside, under 2 calories each — the ultimate cat snack?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Temptations Cat Treats at $13, watch the next 40 seconds.",
+    "Temptations Cat Treats: 4.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "72,281 Amazon reviews of the Temptations Cat Treats — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Temptations Cat Treats. 72,281 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE TEMPTATIONS CAT TREATS",
+        "72,281 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Cats absolutely love them — near-universal appeal. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Cats absolutely love them — near-universal"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Some cats may get sick if they eat too many too fast. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Some cats may get sick if they eat too many"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: cats absolutely love them. The tradeoff: some cats may get sick if they eat too. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "CATS ABSOLUTELY LOVE THEM",
+        "THE TRADEOFF",
+        "SOME CATS MAY GET SICK IF THEY EAT TOO"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Temptations Cat Treats before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.8/5 — WORTH IT?",
+    "TEMPTATIONS CAT TREATS — HONEST REVIEW",
+    "$13 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Temptations Cat Treats Review: Worth It? (Verdict 4.8/5)",
+    "description": "Read our Temptations Classic Chicken Cat Treats review based on 72,000+ Amazon reviews. Crunchy outside, soft inside, under 2 calories each — the ultimate cat snack?\n\nFull review: https://theshoppersverdict.com/temptations-cat-treats-classic-chicken-flavor-review/\n\nhttps://www.amazon.com/dp/B01LNB6SA0/?tag=tsvglyc-20",
+    "tags": [
+      "temptations cat treats",
+      "temptations cat treats review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

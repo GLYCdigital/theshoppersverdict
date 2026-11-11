@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/alpha-grillers-meat-thermometer-review.md",
+  "slug": "alpha-grillers-meat-thermometer-review",
+  "product": "Alpha Grillers Meat Thermometer",
+  "product_full": "Alpha Grillers Meat Thermometer Digital Instant Read",
+  "asin": "B00S93EQUK",
+  "site_url": "https://theshoppersverdict.com/alpha-grillers-meat-thermometer-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81bpKKv68-L._AC_SL1500_.jpg",
+  "verdict_score": 4.7,
+  "amazon_rating": 4.8,
+  "review_count": "88,627",
+  "price": "$13",
+  "summary": "Alpha Grillers instant read thermometer review: 2-3 second readings, backlit display, and magnetic back for $13. See if it beats ThermoPop.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Alpha Grillers Meat Thermometer at $13, watch the next 40 seconds.",
+    "Alpha Grillers Meat Thermometer: 4.7 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "88,627 Amazon reviews of the Alpha Grillers Meat Thermometer — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Alpha Grillers Meat Thermometer. 88,627 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE ALPHA GRILLERS MEAT THERMOMETER",
+        "88,627 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: 2-3 second read time matches thermometers costing 3x as much. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "2-3 second read time matches thermometers"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — No auto-off timer means the battery drains if you forget to power down (lasts ~2 years with normal use). Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "No auto-off timer means the battery drains"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: 2-3 second read time matches thermometers costing 3x as. The tradeoff: no auto-off timer means the battery drains if you. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "2-3 SECOND READ TIME MATCHES THERMOMETERS",
+        "THE TRADEOFF",
+        "NO AUTO-OFF TIMER MEANS THE BATTERY DRAINS"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.7 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.7/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Alpha Grillers Meat Thermometer before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.7/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$13 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Alpha Grillers Meat Thermometer Review: Worth It? (Verdict 4.7/5)",
+    "description": "Alpha Grillers instant read thermometer review: 2-3 second readings, backlit display, and magnetic back for $13. See if it beats ThermoPop.\n\nFull review: https://theshoppersverdict.com/alpha-grillers-meat-thermometer-review/\n\nhttps://www.amazon.com/dp/B00S93EQUK/?tag=tsvglyc-20",
+    "tags": [
+      "alpha grillers meat thermometer",
+      "alpha grillers meat thermometer review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/keurig-k-elite-single-serve-coffee-maker-review.md",
+  "slug": "keurig-k-elite-single-serve-coffee-maker-review",
+  "product": "Keurig K-Elite",
+  "product_full": "Keurig K-Elite",
+  "asin": "B078NN17K3",
+  "site_url": "https://theshoppersverdict.com/keurig-k-elite-single-serve-coffee-maker-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B078NN17K3?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71eood2xIWL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.6,
+  "review_count": "71,423",
+  "price": "$10",
+  "summary": "Our detailed Keurig K-Elite review covers brew strength, temperature control, iced coffee capability, and value. See how this 4.6-star coffee maker stacks up.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Keurig K-Elite at $10, watch the next 40 seconds.",
+    "Keurig K-Elite: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "71,423 Amazon reviews of the Keurig K-Elite — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Keurig K-Elite. 71,423 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE KEURIG K-ELITE",
+        "71,423 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Excellent brew quality with Strong Brew button for bolder cups. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Excellent brew quality with Strong Brew"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Premium price point compared to other Keurig models. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Premium price point compared to other"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: excellent brew quality. The tradeoff: premium price point compared to other Keurig models. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EXCELLENT BREW QUALITY",
+        "THE TRADEOFF",
+        "PREMIUM PRICE POINT COMPARED TO OTHER"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Keurig K-Elite before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B078NN17K3?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "KEURIG K-ELITE — HONEST REVIEW",
+    "$10 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Keurig K-Elite Review: Worth It? (Verdict 4.5/5)",
+    "description": "Our detailed Keurig K-Elite review covers brew strength, temperature control, iced coffee capability, and value. See how this 4.6-star coffee maker stacks up.\n\nFull review: https://theshoppersverdict.com/keurig-k-elite-single-serve-coffee-maker-review/\n\nhttps://www.amazon.com/dp/B078NN17K3?tag=tsvglyc-20",
+    "tags": [
+      "keurig k-elite",
+      "keurig k-elite review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

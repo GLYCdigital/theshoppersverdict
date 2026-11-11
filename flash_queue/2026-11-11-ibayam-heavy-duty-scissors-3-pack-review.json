@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/ibayam-heavy-duty-scissors-3-pack-review.md",
+  "slug": "ibayam-heavy-duty-scissors-3-pack-review",
+  "product": "iBayam Heavy Duty Scissors 3-Pack",
+  "product_full": "iBayam Heavy Duty Scissors 3-Pack",
+  "asin": "B07YDDX4JL",
+  "site_url": "https://theshoppersverdict.com/ibayam-heavy-duty-scissors-3-pack-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/61iVyRt2AfL._AC_SL1200_.jpg",
+  "verdict_score": 4.8,
+  "amazon_rating": 4.8,
+  "review_count": "85,889",
+  "price": "$9.99",
+  "summary": "iBayam Heavy Duty Scissors 3-Pack review: Sharp titanium blades, 3 sizes, under $10. See real pros, cons, and who should buy these 4.8-star shears.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the iBayam Heavy Duty Scissors 3-Pack at $9.99, watch the next 40 seconds.",
+    "iBayam Heavy Duty Scissors 3-Pack: 4.8 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "85,889 Amazon reviews of the iBayam Heavy Duty Scissors 3-Pack — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the iBayam Heavy Duty Scissors 3-Pack. 85,889 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE IBAYAM HEAVY DUTY SCISSORS 3-PACK",
+        "85,889 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Titanium-coated blades stay sharp through cardboard, plastic packaging, and fabric without rusting. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Titanium-coated blades stay sharp through"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Not truly 'heavy duty' for cutting thick materials like leather or multiple layers of denim. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Not truly 'heavy duty' for cutting thick"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: titanium-coated blades stay sharp through cardboard. The tradeoff: not truly 'heavy duty' for cutting thick materials like. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "TITANIUM-COATED BLADES STAY SHARP THROUGH",
+        "THE TRADEOFF",
+        "NOT TRULY 'HEAVY DUTY' FOR CUTTING THICK"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.8 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.8/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the iBayam Heavy Duty Scissors 3-Pack before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.8/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$9.99 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "iBayam Heavy Duty Scissors 3-Pack Review: Worth It? (Verdict 4.8/5)",
+    "description": "iBayam Heavy Duty Scissors 3-Pack review: Sharp titanium blades, 3 sizes, under $10. See real pros, cons, and who should buy these 4.8-star shears.\n\nFull review: https://theshoppersverdict.com/ibayam-heavy-duty-scissors-3-pack-review/\n\nhttps://www.amazon.com/dp/B07YDDX4JL/?tag=tsvglyc-20",
+    "tags": [
+      "ibayam heavy duty scissors 3-pack",
+      "ibayam heavy duty scissors 3-pack review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

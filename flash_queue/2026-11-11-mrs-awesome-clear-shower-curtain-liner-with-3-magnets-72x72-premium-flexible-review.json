@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/furniture/mrs-awesome-clear-shower-curtain-liner-with-3-magnets-72x72-premium-flexible-review.md",
+  "slug": "mrs-awesome-clear-shower-curtain-liner-with-3-magnets-72x72-premium-flexible-review",
+  "product": "Mrs Awesome Clear Shower Curtain",
+  "product_full": "Mrs Awesome Clear Shower Curtain Liner With 3 Magnets 72x72 Premium Fl",
+  "asin": "B08NJ6VF9T",
+  "site_url": "https://theshoppersverdict.com/mrs-awesome-clear-shower-curtain-liner-with-3-magnets-72x72-premium-flexible-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B08NJ6VF9T/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71V7L0wjQ-L._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.5,
+  "review_count": "40,052",
+  "price": "$15",
+  "summary": "Works great for keeping the water in the shower like its meant to, and it 40,052+ Amazon reviews analyzed. Real pros, cons, and our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Mrs Awesome Clear Shower Curtain at $15, watch the next 40 seconds.",
+    "Mrs Awesome Clear Shower Curtain: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "40,052 Amazon reviews of the Mrs Awesome Clear Shower Curtain — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Mrs Awesome Clear Shower Curtain. 40,052 Amazon ratings, averaging 4.5 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE MRS AWESOME CLEAR SHOWER CURTAIN",
+        "40,052 Amazon ratings, averaging 45 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Works great for keeping the water in the shower like its meant to.. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Works great for keeping the water in the"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — This is thin and flimsy like a cheap disposable picnic / ground sheet.. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "This is thin and flimsy like a cheap"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: works great for keeping the water in the shower. The tradeoff: this is thin and flimsy like a cheap disposable. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "WORKS GREAT FOR KEEPING THE WATER IN THE",
+        "THE TRADEOFF",
+        "THIS IS THIN AND FLIMSY LIKE A CHEAP"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Mrs Awesome Clear Shower Curtain before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B08NJ6VF9T/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$15 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Mrs Awesome Clear Shower Curtain Review: Worth It? (Verdict 4.6/5)",
+    "description": "Works great for keeping the water in the shower like its meant to, and it 40,052+ Amazon reviews analyzed. Real pros, cons, and our verdict.\n\nFull review: https://theshoppersverdict.com/mrs-awesome-clear-shower-curtain-liner-with-3-magnets-72x72-premium-flexible-review/\n\nhttps://www.amazon.com/dp/B08NJ6VF9T/?tag=tsvglyc-20",
+    "tags": [
+      "mrs awesome clear shower curtain",
+      "mrs awesome clear shower curtain review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

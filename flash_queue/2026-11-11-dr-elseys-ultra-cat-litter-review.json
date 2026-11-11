@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/pet-supplies/dr-elseys-ultra-cat-litter-review.md",
+  "slug": "dr-elseys-ultra-cat-litter-review",
+  "product": "Dr. Elsey's Ultra Cat Litter",
+  "product_full": "Dr. Elsey's Ultra Cat Litter",
+  "asin": "B0009X29WK",
+  "site_url": "https://theshoppersverdict.com/dr-elseys-ultra-cat-litter-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71gV7T7iW-L._AC_SL1444_.jpg",
+  "verdict_score": 8.5,
+  "amazon_rating": 4.3,
+  "review_count": "95,521",
+  "price": "",
+  "summary": "We tested Dr. Elsey's Ultra Cat Litter for odor control, clumping, and dust. Read our honest 2026 review before you buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Dr. Elsey's Ultra Cat Litter, watch the next 40 seconds.",
+    "Dr. Elsey's Ultra Cat Litter: 8.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "95,521 Amazon reviews of the Dr. Elsey's Ultra Cat Litter — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Dr. Elsey's Ultra Cat Litter. 95,521 Amazon ratings, averaging 4.3 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE DR. ELSEY'S ULTRA CAT LITTER",
+        "95,521 Amazon ratings, averaging 43 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Superior ammonia odor control — 10-day guarantee actually holds up for multi-cat households. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Superior ammonia odor control — 10-day"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Generates noticeable dust at pour time despite claims of 99.9% dust-free. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Generates noticeable dust at pour time"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: superior ammonia odor control. The tradeoff: generates noticeable dust at pour time despite claims. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "SUPERIOR AMMONIA ODOR CONTROL",
+        "THE TRADEOFF",
+        "GENERATES NOTICEABLE DUST AT POUR TIME"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 8.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 8.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Dr. Elsey's Ultra Cat Litter before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "8.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "THE CATCH NOBODY MENTIONS"
+  ],
+  "youtube": {
+    "title": "Dr. Elsey's Ultra Cat Litter Review: Worth It? (Verdict 8.5/5)",
+    "description": "We tested Dr. Elsey's Ultra Cat Litter for odor control, clumping, and dust. Read our honest 2026 review before you buy.\n\nFull review: https://theshoppersverdict.com/dr-elseys-ultra-cat-litter-review/\n\nhttps://www.amazon.com/dp/B0009X29WK/?tag=tsvglyc-20",
+    "tags": [
+      "dr. elsey's ultra cat litter",
+      "dr. elsey's ultra cat litter review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

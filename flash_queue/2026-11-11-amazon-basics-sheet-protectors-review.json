@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/amazon-basics-sheet-protectors-review.md",
+  "slug": "amazon-basics-sheet-protectors-review",
+  "product": "Amazon Basics Sheet Protectors",
+  "product_full": "Amazon Basics Sheet Protectors",
+  "asin": "B07R8D1RHS",
+  "site_url": "https://theshoppersverdict.com/amazon-basics-sheet-protectors-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B07R8D1RHS/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81kw30b3USL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.7,
+  "review_count": "54,638",
+  "price": "$8.39",
+  "summary": "Amazon Basics Sheet Protectors review: 4.7★ from 54K+ buyers. Are they durable, clear, and worth $8.39? We tested them for smudging, fit, and value.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Amazon Basics Sheet Protectors at $8.39, watch the next 40 seconds.",
+    "Amazon Basics Sheet Protectors: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "54,638 Amazon reviews of the Amazon Basics Sheet Protectors — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Amazon Basics Sheet Protectors. 54,638 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE AMAZON BASICS SHEET PROTECTORS",
+        "54,638 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Reinforced top edge resists tearing at the punched holes — the #1 failure point on cheap protectors. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Reinforced top edge resists tearing at the"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Slightly tight fit — letter-size paper can buckle if you're inserting cardstock or anything over 24 lb. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Slightly tight fit — letter-size paper can"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: reinforced top edge resists tearing at the punched holes. The tradeoff: slightly tight fit. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "REINFORCED TOP EDGE RESISTS TEARING AT THE",
+        "THE TRADEOFF",
+        "SLIGHTLY TIGHT FIT"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Amazon Basics Sheet Protectors before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B07R8D1RHS/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$8.39 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Amazon Basics Sheet Protectors Review: Worth It? (Verdict 4.5/5)",
+    "description": "Amazon Basics Sheet Protectors review: 4.7★ from 54K+ buyers. Are they durable, clear, and worth $8.39? We tested them for smudging, fit, and value.\n\nFull review: https://theshoppersverdict.com/amazon-basics-sheet-protectors-review/\n\nhttps://www.amazon.com/dp/B07R8D1RHS/?tag=tsvglyc-20",
+    "tags": [
+      "amazon basics sheet protectors",
+      "amazon basics sheet protectors review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

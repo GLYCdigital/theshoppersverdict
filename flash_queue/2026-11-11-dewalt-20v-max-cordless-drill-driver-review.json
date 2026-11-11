@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-improvement/dewalt-20v-max-cordless-drill-driver-review.md",
+  "slug": "dewalt-20v-max-cordless-drill-driver-review",
+  "product": "DEWALT 20V Max Cordless Drill",
+  "product_full": "DEWALT 20V Max Cordless Drill Driver Set",
+  "asin": "B00ET5VMTU",
+  "site_url": "https://theshoppersverdict.com/dewalt-20v-max-cordless-drill-driver-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81dmm7FomNL._AC_SL1500_.jpg",
+  "verdict_score": 4.5,
+  "amazon_rating": 4.8,
+  "review_count": "49,327",
+  "price": "",
+  "summary": "Honest DEWALT 20V Max Cordless Drill Driver review: torque, battery life, build quality, and real buyer feedback. See pros, cons, and who should buy.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the DEWALT 20V Max Cordless Drill, watch the next 40 seconds.",
+    "DEWALT 20V Max Cordless Drill: 4.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "49,327 Amazon reviews of the DEWALT 20V Max Cordless Drill — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the DEWALT 20V Max Cordless Drill. 49,327 Amazon ratings, averaging 4.8 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE DEWALT 20V MAX CORDLESS DRILL",
+        "49,327 Amazon ratings, averaging 48 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: High-torque 340 UWO motor handles 3-inch hole saws and 6-inch lag screws without bogging down. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "High-torque 340 UWO motor handles 3-inch"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Heavy at 3.6 lbs with battery — arm fatigue sets in during overhead work. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Heavy at 3.6 lbs with battery — arm fatigue"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: high-torque 340 UWO motor handles 3-inch hole saws. The tradeoff: heavy at 3.6 lbs with battery. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "HIGH-TORQUE 340 UWO MOTOR HANDLES 3-INCH",
+        "THE TRADEOFF",
+        "HEAVY AT 3.6 LBS WITH BATTERY"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the DEWALT 20V Max Cordless Drill before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.5/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "THE CATCH NOBODY MENTIONS"
+  ],
+  "youtube": {
+    "title": "DEWALT 20V Max Cordless Drill Review: Worth It? (Verdict 4.5/5)",
+    "description": "Honest DEWALT 20V Max Cordless Drill Driver review: torque, battery life, build quality, and real buyer feedback. See pros, cons, and who should buy.\n\nFull review: https://theshoppersverdict.com/dewalt-20v-max-cordless-drill-driver-review/\n\nhttps://www.amazon.com/dp/B00ET5VMTU/?tag=tsvglyc-20",
+    "tags": [
+      "dewalt 20v max cordless drill",
+      "dewalt 20v max cordless drill review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

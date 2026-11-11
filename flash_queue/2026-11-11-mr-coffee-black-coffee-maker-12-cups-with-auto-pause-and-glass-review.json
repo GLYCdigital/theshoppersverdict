@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/coffee/mr-coffee-black-coffee-maker-12-cups-with-auto-pause-and-glass-review.md",
+  "slug": "mr-coffee-black-coffee-maker-12-cups-with-auto-pause-and-glass-review",
+  "product": "Mr Coffee Black Coffee Maker 12",
+  "product_full": "Mr Coffee Black Coffee Maker 12 Cups With Auto Pause And Glass",
+  "asin": "B002YI2IG0",
+  "site_url": "https://theshoppersverdict.com/mr-coffee-black-coffee-maker-12-cups-with-auto-pause-and-glass-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71LB1AbsorL._AC_SL1500_.jpg",
+  "verdict_score": 4.4,
+  "amazon_rating": 4.4,
+  "review_count": "44,539",
+  "price": "$40",
+  "summary": "Our verdict on the Mr. Coffee 12-Cup Coffee Maker: 44,539 real reviews analyzed. Auto pause, glass carafe, simple operation. Is this $40 drip maker all you need?",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Mr Coffee Black Coffee Maker 12 at $40, watch the next 40 seconds.",
+    "Mr Coffee Black Coffee Maker 12: 4.4 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "44,539 Amazon reviews of the Mr Coffee Black Coffee Maker 12 — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Mr Coffee Black Coffee Maker 12. 44,539 Amazon ratings, averaging 4.4 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE MR COFFEE BLACK COFFEE MAKER 12",
+        "44,539 Amazon ratings, averaging 44 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Dead simple — no clock, no timer, no complicated buttons. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Dead simple — no clock, no timer, no"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — No auto shut-off — must be turned off manually. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "No auto shut-off — must be turned off"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: dead simple. The tradeoff: no auto shut-off. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "DEAD SIMPLE",
+        "THE TRADEOFF",
+        "NO AUTO SHUT-OFF"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.4 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.4/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Mr Coffee Black Coffee Maker 12 before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.4/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$40 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Mr Coffee Black Coffee Maker 12 Review: Worth It? (Verdict 4.4/5)",
+    "description": "Our verdict on the Mr. Coffee 12-Cup Coffee Maker: 44,539 real reviews analyzed. Auto pause, glass carafe, simple operation. Is this $40 drip maker all you need?\n\nFull review: https://theshoppersverdict.com/mr-coffee-black-coffee-maker-12-cups-with-auto-pause-and-glass-review/\n\nhttps://www.amazon.com/dp/B002YI2IG0/?tag=tsvglyc-20",
+    "tags": [
+      "mr coffee black coffee maker 12",
+      "mr coffee black coffee maker 12 review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

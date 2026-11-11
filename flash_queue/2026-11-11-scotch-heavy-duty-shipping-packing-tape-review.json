@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/home-office/scotch-heavy-duty-shipping-packing-tape-B000J07BRQ.md",
+  "slug": "scotch-heavy-duty-shipping-packing-tape-review",
+  "product": "Scotch Heavy Duty Shipping",
+  "product_full": "Scotch Heavy Duty Shipping Packing Tape",
+  "asin": "B000J07BRQ",
+  "site_url": "https://theshoppersverdict.com/scotch-heavy-duty-shipping-packing-tape-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/817GKjo-ufL._SL1500_.jpg",
+  "verdict_score": 4.3,
+  "amazon_rating": 4.7,
+  "review_count": "107,827",
+  "price": "$12",
+  "summary": "Scotch Heavy Duty Shipping Packing Tape review: 4.7/5 from 107K+ ratings. Is this $12 tape worth it for moving & shipping? Real pros, cons, verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Scotch Heavy Duty Shipping at $12, watch the next 40 seconds.",
+    "Scotch Heavy Duty Shipping: 4.3 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "107,827 Amazon reviews of the Scotch Heavy Duty Shipping — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Scotch Heavy Duty Shipping. 107,827 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE SCOTCH HEAVY DUTY SHIPPING",
+        "107,827 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Adhesive locks down fast — no waiting for it to set, and it stays put on recycled cardboard. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Adhesive locks down fast — no waiting for"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — The included plastic dispenser is flimsy; the metal cutting blade dulls after heavy use. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "The included plastic dispenser is flimsy;"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: adhesive locks down fast. The tradeoff: the included plastic dispenser is flimsy. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "ADHESIVE LOCKS DOWN FAST",
+        "THE TRADEOFF",
+        "THE INCLUDED PLASTIC DISPENSER IS FLIMSY"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.3 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.3/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Scotch Heavy Duty Shipping before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.3/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$12 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Scotch Heavy Duty Shipping Review: Worth It? (Verdict 4.3/5)",
+    "description": "Scotch Heavy Duty Shipping Packing Tape review: 4.7/5 from 107K+ ratings. Is this $12 tape worth it for moving & shipping? Real pros, cons, verdict.\n\nFull review: https://theshoppersverdict.com/scotch-heavy-duty-shipping-packing-tape-review/\n\nhttps://www.amazon.com/dp/B000J07BRQ/?tag=tsvglyc-20",
+    "tags": [
+      "scotch heavy duty shipping",
+      "scotch heavy duty shipping review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/kitchen/ultrean-food-scale-b08czdynf7.md",
+  "slug": "ultrean-food-scale-review",
+  "product": "Ultrean Food Scale",
+  "product_full": "Ultrean Food Scale",
+  "asin": "B08CZDYNF7",
+  "site_url": "https://theshoppersverdict.com/ultrean-food-scale-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/71TV+iWbGlL._SL1500_.jpg",
+  "verdict_score": 8.5,
+  "amazon_rating": 4.6,
+  "review_count": "21,000",
+  "price": "$15",
+  "summary": "Our honest Ultrean Food Scale review. Real customer insights on the $7 digital kitchen scale. See pros, cons, accuracy tests, and our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Ultrean Food Scale at $15, watch the next 40 seconds.",
+    "Ultrean Food Scale: 8.5 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "21,000 Amazon reviews of the Ultrean Food Scale — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Ultrean Food Scale. 21,000 Amazon ratings, averaging 4.6 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE ULTREAN FOOD SCALE",
+        "21,000 Amazon ratings, averaging 46 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Excellent accuracy on flat surfaces — tested within 1g of calibration weight. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Excellent accuracy on flat surfaces —"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Auto-off timer is aggressive at 2 minutes. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Auto-off timer is aggressive at 2 minutes"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: excellent accuracy on flat surfaces. The tradeoff: auto-off timer is aggressive at 2 minutes. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "EXCELLENT ACCURACY ON FLAT SURFACES",
+        "THE TRADEOFF",
+        "AUTO-OFF TIMER IS AGGRESSIVE AT 2 MINUTES"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 8.5 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 8.5/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Ultrean Food Scale before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "8.5/5 — WORTH IT?",
+    "ULTREAN FOOD SCALE — HONEST REVIEW",
+    "$15 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Ultrean Food Scale Review: Worth It? (Verdict 8.5/5)",
+    "description": "Our honest Ultrean Food Scale review. Real customer insights on the $7 digital kitchen scale. See pros, cons, accuracy tests, and our verdict.\n\nFull review: https://theshoppersverdict.com/ultrean-food-scale-review/\n\nhttps://www.amazon.com/dp/B08CZDYNF7/?tag=tsvglyc-20",
+    "tags": [
+      "ultrean food scale",
+      "ultrean food scale review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}

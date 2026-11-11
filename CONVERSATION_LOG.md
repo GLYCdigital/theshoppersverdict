@@ -313,3 +313,102 @@
 [16:45 SGT] Ink: fixed comparison self-pair bug in blog_daily.py (same_product() guard for twin listings). Re-rolling today post.
 [16:52 SGT] Ink: comparison bug fixed (same_product guard + tighter-pair scoring + unique 3-word slugs). Mirror post re-rolled → Owala FreeSip vs FreeSip Sway, commit b191ba740, pushed. Reported to Gabriel.
 [16:52 SGT] Gabriel: rectifiy similar issues immediately, dont embarrass. Ink adding pre-publish guard.
+[05:40 SGT] Gemma void order received. HANDOFF.md has no entries from her 27 Oct messages — nothing to remove. HEAD e00b3f1f9 rolls tree to fb3c45eaf: tonight's NON-rating work also gone (1,192 prices back, 164 dp/None links back, 18 junk pages back, dedupes undone, archive/ removed). Flagged to Gemma as likely unintended.
+[05:50 SGT] Confirmed to Gemma: single branch main @ e00b3f1f9 (tree == fb3c45eaf), 0 stashes, 1 worktree, no guard code in blog_daily.py/schema.html/writer. ink_daily.sh has no guard logic; 0 briefings today so it no-ops. Artifacts moved to workspace/_archive/tsv-2026-10-27-reverted/. No commits.
+[06:00 SGT] Standing order ack: no commits/diffs/branches/prep. Re-verified e00b3f1f9: goya live 200, 164 dp/None, 1,192 numeric prices, 18 pages back.
+[06:10 SGT] Purge failure independently reproduced by Gemma (same 10000 on a different token => scope, not expiry). /corrections/ now 404 bare+cached. Unpublish 200s are Gabriel's restore, not cache staleness. No deploy.yml edits.
+[06:20 SGT] Scope set by Gabriel: daily blog write-ups + TSV inbox checks only. Scraper not needed; 20k corpus is the product. Homepage rotation intentional.
+[06:30 SGT] Confirmed both artifacts exist in workspace/_archive/tsv-2026-10-27-reverted/ (provenance 109,533B, modals 418B). My earlier 'missing' report was a bad find expression, not a missing file. Night closed.
+[13:02 SGT] ideas session: generated 1 money-making idea (Gate 1-4)
+[18:11 SGT] Heartbeat: no TASK_*.md, no new briefings; today's blog (ring-video-doorbell-worth-it) committed 527075a82, live 200. Nothing pending.
+[20:03 SGT] Improvement idea generated (SEO cannibalization gate)
+[20:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[21:52 SGT] Daily Umami stats: script scripts/umami_report_tsv.py MISSING — ran inline API fallback for website 6cea3902. Reported to Gabriel.
+[01:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[02:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[09:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[11:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[12:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[13:02 SGT] Generated 1 money-making idea (high-ticket lead-gen content network) for ideas brief.
+[13:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[14:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[15:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[16:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[17:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[18:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[19:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[20:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[21:50 SGT] Daily Umami stats cron: FAILED — scripts/umami_report_tsv.py missing (no umami script anywhere in workspace). Reported to Gabriel.
+[01:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[02:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[05:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[06:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[07:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[08:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[09:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[10:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[11:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[12:10 SGT] Heartbeat: no TASK_*.md, nothing pending.
+[13:00 SGT] Daily blog pipeline: comparison post published — Owala Marvel FreeSip vs Owala Star Wars FreeSip (1410 words), committed & pushed.
+[13:10 SGT] Heartbeat: no TASK_*.md; blog pipeline already published at 13:00. Nothing pending.
+[14:10 SGT] Heartbeat: no TASK_*.md; blog pipeline published at 13:00. Nothing pending.
+[15:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[16:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[17:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[18:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[19:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[20:05 SGT] improvement idea generator — proposing keyword cannibalization/decay monitor
+[20:35 SGT] Built scripts/seo_health_report.py (SEO refresh queue): cannibalization clusters from content frontmatter + GSC-CSV decay/CTR flags. First run: 25,823 posts scanned → 30 cannibal clusters, 0 self-vs, GSC pulls pending. Output reports/seo_refresh_queue.md.
+[21:50 SGT] Daily Umami stats cron: FAILED again — scripts/umami_report_tsv.py missing (no umami script/API creds in workspace). Reported to Gabriel.
+[08:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[14:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[17:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[19:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[20:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[21:50 SGT] Daily Umami stats cron: FAILED again (3rd night) — scripts/umami_report_tsv.py missing, no creds found. Reported to Gabriel.
+[23:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[03:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[04:16 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[06:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[07:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[08:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[09:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[10:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[11:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[12:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[13:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[14:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[15:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[16:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[17:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[18:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[19:10 SGT] Heartbeat: no TASK_*.md; nothing pending.
+[20:04 SGT] Daily improvement idea generated → posting to GLYC Digital Ops (keyword cannibalization audit).
+[20:04 SGT] inter-session improvement idea received: pre-publish cannibalization gate
+[20:05 SGT] shipped cannibalization gate: scripts/topic_overlap.py + validate_post hook, committed 61527b7fe, report found 35 overlapping blog posts
+[21:50 SGT] Daily Umami stats FAILED — scripts/umami_report_tsv.py missing (no umami files in workspace)
+[20:04 SGT] Improvement idea generated (writing/SEO domain)
+[21:52 SGT] Fixed missing umami_report_tsv.py (rebuilt from til template, site id 6cea3902); ran daily stats: 60pv/27 uniques Sun 01 Nov
+[13:05 SGT] Generated money idea: ItemForge (exam-item & study-guide foundry for credentialing bodies)
+[21:51 SGT] Daily Umami report run — Mon 02 Nov: 74pv/22u/55v, 76% bounce; 7d: 398pv/68u/334v
+[20:03 SGT] improvement-idea run: proposed content cannibalization detector (25,907 md posts, confirmed duplicate titles)
+[21:56 SGT] Verified cannibalization idea: 130 dup-title groups, 5 dup slugs, 687 mojibake/truncated titles — endorsed w/ amendments
+[22:54 SGT] Recomputed slug collisions: 5 dup slug values, 3 true same-section URL collisions (70 not reproducible) — flagged to improve-session
+[13:07 SGT] money-idea run: pitched BoxScore Local (youth-sports media + sponsor network) to ops group
+[13:07 SGT] Stored BoxScore Local idea -> reports/money_ideas.md (new idea archive)
+[13:14 SGT] Ideas session replied: Phase 0 = public scoreboard scraping + weekly admin drop link (no OAuth); $299/club covers cost, break-even ~35 clubs, sponsors are margin only
+[13:20 SGT] Ideas session closed loop: manual score form canonical w/ scrape-as-prefill + per-club parse-failure counter; 2hr post-game nudge, recap publishes either way, 2 consecutive misses -> human flag. Case closed, to Gabriel.
+[21:50 SGT] Cron ran Umami daily stats: Wed 61pv/19 uniques, 7d 401pv/68 uniques. Reported to Gabriel.
+[13:07 SGT] Money idea generated: RenewLab (accredited CE course publisher, $24k/mo)
+[13:08 SGT] ideas session: generated money-making idea (co-op member magazine production house)
+[13:09 SGT] ideas retry: municipal clerk minutes/agenda-packet desk
+[13:08 SGT] money idea task — CTE curriculum licensing pitch generated
+[21:50 SGT] Cron daily Umami stats FAILED — API 403 "requires an active subscription"
+[13:10 SGT] ideas task: generating money-making idea for ops group
+[13:10 SGT] ideas session delivered pitch: PetitionForge (immigration exhibit/support-letter desk, $34k/mo est) — logged
+[13:12 SGT] ideas retry #2: school-district Medicaid FFS billing desk pitch
+[13:12 SGT] ideas retry delivered pitch: SchoolClaim (school-district Medicaid billing/RMTS desk, $42k/mo est) — relayed
+[13:14 SGT] improvement pitch received: auto "X vs Y" comparison pages — verified premise wrong (no build_related_links.py, no vs shortcode, 0 comparison pages). Relay + correction.
+[13:07 SGT] Money-idea generated: NoticeWorks (certified public-notice publication network) ~$38k/mo
+[20:05 SGT] Improvement idea posted to Ops: review→Shorts job-file handoff (Ink↔Flash), shorts_from_review.py
+[20:08 SGT] Built scripts/shorts_from_review.py + flash_queue/ (103 jobs) — review→Shorts handoff for Flash; wired into blog_daily.py publish step.

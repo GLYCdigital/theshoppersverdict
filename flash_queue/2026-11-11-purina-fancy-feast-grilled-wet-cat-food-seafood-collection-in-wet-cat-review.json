@@ -1,0 +1,111 @@
+{
+  "schema": "tsv.shorts.v1",
+  "generated": "2026-11-11T20:08:32",
+  "source_file": "content/pet-supplies/purina-fancy-feast-grilled-wet-cat-food-seafood-collection-in-wet-cat-review.md",
+  "slug": "purina-fancy-feast-grilled-wet-cat-food-seafood-collection-in-wet-cat-review",
+  "product": "Purina Fancy Feast Grilled Wet",
+  "product_full": "Purina Fancy Feast Grilled Wet Cat Food Seafood Collection In Wet Cat",
+  "asin": "B001STX13U",
+  "site_url": "https://theshoppersverdict.com/purina-fancy-feast-grilled-wet-cat-food-seafood-collection-in-wet-cat-review/",
+  "affiliate_url": "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20",
+  "product_image": "https://m.media-amazon.com/images/I/81K7YvcfLpL._AC_SL1500_.jpg",
+  "verdict_score": 4.6,
+  "amazon_rating": 4.7,
+  "review_count": "47,059",
+  "price": "$11",
+  "summary": "Honest purina fancy feast grilled wet cat food  review based on 47,059+ Amazon reviews. Real pros, cons, FAQs, and our verdict.",
+  "duration_target_sec": 55,
+  "track": "suggest: upbeat lo-fi, 90bpm, ducked under VO",
+  "hooks": [
+    "Stop. If you're about to buy the Purina Fancy Feast Grilled Wet at $11, watch the next 40 seconds.",
+    "Purina Fancy Feast Grilled Wet: 4.6 out of 5. Here's what the 4-star reviewers won't tell you.",
+    "47,059 Amazon reviews of the Purina Fancy Feast Grilled Wet — and one thing nobody mentions."
+  ],
+  "beats": [
+    {
+      "beat": 1,
+      "t": "0:00-0:08",
+      "vo": "This is the Purina Fancy Feast Grilled Wet. 47,059 Amazon ratings, averaging 4.7 stars. So I dug through the reviews so you don't have to.",
+      "onscreen": [
+        "THE PURINA FANCY FEAST GRILLED WET",
+        "47,059 Amazon ratings, averaging 47 stars"
+      ],
+      "broll": "product hero shot, slow push-in",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 2,
+      "t": "0:08-0:20",
+      "vo": "First, the good news: Solid build quality that holds up. That's the part that actually holds up in daily use.",
+      "onscreen": [
+        "WHAT ACTUALLY WORKS",
+        "Solid build quality that holds up"
+      ],
+      "broll": "product in use, hands close-up",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 3,
+      "t": "0:20-0:32",
+      "vo": "Now the catch — Missing some advanced features. Nobody puts that in the listing photos.",
+      "onscreen": [
+        "THE CATCH",
+        "Missing some advanced features"
+      ],
+      "broll": "detail shot, slight dutch angle",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 4,
+      "t": "0:32-0:44",
+      "vo": "The upside: solid build quality. The tradeoff: missing some advanced features. That's your call before checkout.",
+      "onscreen": [
+        "THE UPSIDE",
+        "SOLID BUILD QUALITY",
+        "THE TRADEOFF",
+        "MISSING SOME ADVANCED FEATURES"
+      ],
+      "broll": "compare shot / price overlay",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    },
+    {
+      "beat": 5,
+      "t": "0:44-0:55",
+      "vo": "My verdict: 4.6 out of 5. Full breakdown with the review data is linked below — check today's price before you commit.",
+      "onscreen": [
+        "VERDICT 4.6/5",
+        "LINK IN DESCRIPTION"
+      ],
+      "broll": "logo end card + product",
+      "track": "suggest: upbeat lo-fi, 90bpm"
+    }
+  ],
+  "cta": {
+    "vo": "Link's in the description — check today's price on the Purina Fancy Feast Grilled Wet before you buy.",
+    "onscreen": "LINK IN DESCRIPTION",
+    "url": "https://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20",
+    "button_text": "Check Price on Amazon"
+  },
+  "thumbnail_text": [
+    "4.6/5 — WORTH IT?",
+    "HONEST REVIEW",
+    "$11 — BUY OR SKIP?"
+  ],
+  "youtube": {
+    "title": "Purina Fancy Feast Grilled Wet Review: Worth It? (Verdict 4.6/5)",
+    "description": "Honest purina fancy feast grilled wet cat food  review based on 47,059+ Amazon reviews. Real pros, cons, FAQs, and our verdict.\n\nFull review: https://theshoppersverdict.com/purina-fancy-feast-grilled-wet-cat-food-seafood-collection-in-wet-cat-review/\n\nhttps://www.amazon.com/dp/B001STX13U/?tag=tsvglyc-20",
+    "tags": [
+      "purina fancy feast grilled wet",
+      "purina fancy feast grilled wet review",
+      "amazon finds",
+      "honest review",
+      "worth it"
+    ],
+    "hashtags": [
+      "#shorts",
+      "#amazonfinds",
+      "#review"
+    ]
+  },
+  "status": "ready"
+}
