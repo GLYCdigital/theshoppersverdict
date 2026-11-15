@@ -1,0 +1,53 @@
+{
+  "slug": "best-value-coffee-deals-lavazza",
+  "slot": "deal_alert",
+  "topic": "Best Value Coffee Deals",
+  "angle": "Which products are genuinely worth their current price \u2014 and which to skip.",
+  "reviews": [
+    {
+      "title": "Lavazza Espresso Whole Bean Coffee",
+      "url": "/coffee/lavazza-espresso-whole-bean-coffee-medium-roast-100-arabica-2-2-lb-review/",
+      "amazon_url": "https://www.amazon.com/dp/B00P0ZMWEC/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61oeFSnXatL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 45.4,
+      "count": 17433,
+      "pros": [
+        "lavazza espresso whole review",
+        "coffee maker review",
+        "espresso machine"
+      ]
+    },
+    {
+      "title": "EXPO Dry Erase Markers Low",
+      "url": "/home-office/expo-dry-erase-markers-low-odor-ink-black-chisel-tip-b0019debs4-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0019DEBS4/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81bbHRTP9LL._AC_SL1500_.jpg",
+      "verdict": 4.8,
+      "rating": 4.8,
+      "price": 38.44,
+      "count": 17289,
+      "pros": [
+        "EXPO dry erase markers review",
+        "best dry erase markers",
+        "EXPO low odor markers"
+      ]
+    },
+    {
+      "title": "BUNN GRB Velocity Brew Cup",
+      "url": "/coffee/bunn-grb-velocity-brew-10-cup-home-coffee-brewer-black-review/",
+      "amazon_url": "https://www.amazon.com/dp/B000FFRZ26/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61c-0mF4CjL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 124.95,
+      "count": 17203,
+      "pros": [
+        "Fully brews 10 cups in about 3 minutes \u2014 no waiting for water to heat",
+        "Spray-head design evenly saturates grounds; consistently better extraction than drip machines twice the price",
+        "Commercial-grade stainless internals; 17,000+ owners report 5\u201310 year lifespans"
+      ]
+    }
+  ]
+}
