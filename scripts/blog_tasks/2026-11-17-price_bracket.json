@@ -1,0 +1,53 @@
+{
+  "slug": "best-kitchen-picks-hamilton",
+  "slot": "price_bracket",
+  "topic": "Best Kitchen Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "Hamilton Beach Classic Stand and",
+      "url": "/kitchen/hamilton-beach-classic-stand-and-hand-mixer-4-quarts-6-speeds-with-review/",
+      "amazon_url": "https://www.amazon.com/dp/B01ELH85RW/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71akGobl6nL._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.2,
+      "price": 62.95,
+      "count": 16042,
+      "pros": [
+        "hamilton beach classic review",
+        "kitchen appliance review",
+        "best kitchen gadget"
+      ]
+    },
+    {
+      "title": "Homaxy Waffle Dish Cloths Review",
+      "url": "/kitchen/homaxy-waffle-dish-cloths-review/",
+      "amazon_url": "https://www.amazon.com/dp/B07WMQP4SF?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81YlKeBDwML._AC_SL1500_.jpg",
+      "verdict": 4.5,
+      "rating": 4.5,
+      "price": 11,
+      "count": 15393,
+      "pros": [
+        "Highly absorbent 100% cotton waffle weave dries quickly",
+        "Soft texture won't scratch non-stick cookware or glassware",
+        "Great value at under $12 for a 6-pack"
+      ]
+    },
+    {
+      "title": "Rubbermaid Brilliance Glass Food Storage",
+      "url": "/kitchen/rubbermaid-brilliance-glass-food-storage-containers-assorted-sizes-set-of-9-bpa-review/",
+      "amazon_url": "https://www.amazon.com/dp/B08BR9HBZ3/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/71H+hPWNagL._AC_SL1500_.jpg",
+      "verdict": 4.6,
+      "rating": 4.6,
+      "price": 78.99,
+      "count": 13886,
+      "pros": [
+        "rubbermaid brilliance glass review",
+        "kitchen appliance review",
+        "best kitchen gadget"
+      ]
+    }
+  ]
+}
