@@ -1,0 +1,53 @@
+{
+  "slug": "best-kitchen-picks-cisily",
+  "slot": "price_bracket",
+  "topic": "Best Kitchen Picks",
+  "angle": "Ranked picks that deliver the most value per dollar.",
+  "reviews": [
+    {
+      "title": "Cisily Sponge Holder for Kitchen",
+      "url": "/kitchen/cisily-sponge-holder-b0c3qz7snf/",
+      "amazon_url": "https://www.amazon.com/dp/B0C3QZ7SNF/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg",
+      "verdict": 4.2,
+      "rating": 4.5,
+      "price": 13.99,
+      "count": 12796,
+      "pros": [
+        "Fits over most standard faucets without tools \u2014 no drilling or adhesive that fails after a month",
+        "Vented design actually lets sponges and brushes dry out, preventing that sour, bacteria-laden smell",
+        "High brush holder keeps tall bottle brushes and scrub brushes upright instead of leaning in a puddle"
+      ]
+    },
+    {
+      "title": "Product Review Owala SmoothSip Slider",
+      "url": "/kitchen/owala-smoothsip-slider-coffee-tumbler-review/",
+      "amazon_url": "https://www.amazon.com/dp/B0DF472VMZ/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/311JdFvhtVL._AC_SL1200_.jpg",
+      "verdict": 4.5,
+      "rating": 4.6,
+      "price": 24.99,
+      "count": 12678,
+      "pros": [
+        "Owala SmoothSip Slider",
+        "insulated coffee tumbler",
+        "leak proof travel mug"
+      ]
+    },
+    {
+      "title": "DOQAUS Ice Cube Tray Set",
+      "url": "/kitchen/B0D8PSDMYH_doqaus_ice_cube_tray_set/",
+      "amazon_url": "https://www.amazon.com/dp/B0D8PSDMYH/?tag=tsvglyc-20",
+      "amazon_image": "https://m.media-amazon.com/images/I/61NNkHyvrjL._AC_SL1500_.jpg",
+      "verdict": 4.4,
+      "rating": 4.5,
+      "price": 13.99,
+      "count": 12639,
+      "pros": [
+        "Stackable design with spill-proof lids means you can actually fill trays and shove them in the freezer without losing half the water en route",
+        "Flexible food-grade silicone releases cubes with a simple twist \u2014 no more banging trays against the counter and losing a finger",
+        "Two different cube sizes (small and large) give you flexibility for cocktails, iced coffee, or lunchbox cooling without buying two separate sets"
+      ]
+    }
+  ]
+}
