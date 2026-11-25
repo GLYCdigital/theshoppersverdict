@@ -412,3 +412,118 @@
 [13:07 SGT] Money-idea generated: NoticeWorks (certified public-notice publication network) ~$38k/mo
 [20:05 SGT] Improvement idea posted to Ops: review→Shorts job-file handoff (Ink↔Flash), shorts_from_review.py
 [20:08 SGT] Built scripts/shorts_from_review.py + flash_queue/ (103 jobs) — review→Shorts handoff for Flash; wired into blog_daily.py publish step.
+[13:07 SGT] Money idea generated (CRA exam-prep bureau) for Ops group
+[21:50 SGT 2026-11-12] Daily Umami report FAILED — api.umami.is returns 403 'API access requires an active subscription'. Script crashes on KeyError pageviews.
+[01:12 SGT 2026-11-13] Hardened umami_report_tsv.py (clean error, exit 2 instead of KeyError). Root cause: Umami API 403 "requires an active subscription" — needs Gabriel to renew/upgrade.
+[20:03 SGT] improvement idea generated (SEO decay refresh queue)
+[21:50 SGT] umami daily report FAILED: API 403 "requires an active subscription"
+[13:02 SGT] blog_daily.py OK — 2026-11-14 seasonal gift guide (sports fitness), 1676 words, pushed
+[13:11 SGT] Ink: pitched money-making idea HallPass (agent-run virtual trade show + vendor matchmaking network, $36k/mo)
+[20:05 SGT] Ink: pitched improvement idea — weekly published-review ASIN/price freshness audit (dead-ASIN detection + price drift + image 404 queues), posted to Ops group
+[20:04 SGT] Ink: inbound improve-session idea (weekly ASIN/price audit) — duplicate of 20:05 pitch; saved to memory/2026-11-14.md
+[13:10 SGT] Money-idea task: pitched SkylineBench (building energy-benchmarking compliance desk)
+[20:04 SGT] Daily improvement idea generated (freshness/price-drift auto-refresh) for ops group
+[20:04 SGT] Ink: inbound improve-session idea (weekly ASIN/price-drift audit) — duplicate of 2026-11-14 20:05 pitch; replied with writer-side acceptance criteria, no action taken
+[20:04 SGT] Ink: inbound improve v2 (pre-publish intent gate) — exists already for blogs (topic_overlap.py + validate_post); gap = reviews + GSC + MERGE. Replied.
+[20:05 SGT] Ink: inbound improve v3 (intent gate coverage gap) — matches my own analysis; approved scope, gave Cody exact hook point (ink_review_writer.write_review L548/678) + 7-day decision rule
+[21:50 SGT] Daily Umami stats run FAILED: API 403 'access requires an active subscription'
+[13:11 SGT] pitched money idea: Laytime/demurrage claims desk
+[21:50 SGT] Umami daily stats report FAILED — API 403 "requires an active subscription"
+[13:11 SGT] Ink: generated money-making idea (Heritage Echo — multilingual audio-tour rev-share network) for ops pitch.
+[20:04 SGT] improvement-idea session: drafting 1 idea
+[20:04 SGT] Ink: reviewed 2026-11-20 improvement idea (enrich_post.py FAQ/skip-section pass); audited briefing corpus — 2199 review texts across 305 of 916 ASINs, no Q&A stored, 25,920 posts live, only 184 w/ FAQ. Replied w/ scoped counter-proposal.
+[20:07 SGT] Ink: posted improvement idea (grounded FAQ/skip-section enrichment, scoped to 305 posts w/ review corpus) to ops group
+[21:50 SGT] Daily Umami stats report FAILED: API 403 "requires an active subscription" (website 6cea3902...)
+[00:10 SGT] Ink: heartbeat — no TASK_*.md pending; flagging Umami stats 403 blocker to Gabriel
+[08:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:14 SGT] Money idea pitched: DocketWorks (regulatory public-comment desk) ~$34k/mo
+[14:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[16:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[17:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[18:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[19:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[20:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[23:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[00:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[01:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[03:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[04:11 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[06:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[07:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[08:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[09:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[10:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[11:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[12:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:20 SGT] ideas session: pitched AnswerShare Index ($48k/mo) for 2026-11-22
+[14:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[15:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[16:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[17:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[18:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[19:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[20:02 SGT] improvement idea generated (dead-ASIN link rot monitor) for 2026-11-22 generator
+[20:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:50 SGT] Daily Umami stats cron FAILED — API 403 'requires an active subscription' (website 6cea3902-…). Reported to Gabriel.
+[22:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[23:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[00:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[01:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[03:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[04:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[05:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[06:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[07:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[08:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[09:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[10:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[11:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[12:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[14:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[15:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[17:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[18:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[19:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[20:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:50 SGT] Umami stats report FAILED — 403 'API access requires an active subscription' on website 6cea3902. No stats delivered.
+[22:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[00:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[01:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[02:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[03:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[04:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[05:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[06:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[07:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[09:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[10:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[11:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[12:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:09 SGT] Money-idea task recv (2026-11-24), generating idea + posting to ops
+[13:10 SGT] Ink: ops — posted money-idea AirLedger (2026-11-24) to ops group
+[13:11 SGT] Idea retry #2 (FlowCert backflow compliance) - posting to ops
+[13:11 SGT] Ink: ops — posted money-idea FlowCert (2026-11-24 retry 2) to ops group
+[15:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[20:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[21:50 SGT] Umami daily stats failed: 403 API access requires an active subscription.
+[22:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[00:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[01:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[02:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[03:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[04:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[05:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[06:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[07:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[08:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[09:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[10:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[11:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[12:10 SGT] Ink: heartbeat — no TASK_*.md pending; no action
+[13:02 SGT] Gabriel asked to explain the EarPods cannibalization issue
+[13:03 SGT] Gabriel: Fix it — gate hard-fail + canonical on today's EarPods post

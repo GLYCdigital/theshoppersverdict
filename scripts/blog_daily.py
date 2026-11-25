@@ -442,14 +442,17 @@ def main():
         avoid.update(r["amazon_url"] for r in picks)
     else:
         if cannibal_only:
-            # Every retry only tripped the topic gate: ship anyway (a duplicate
-            # -ish post beats no post) but record it for consolidation review.
-            warn_log = WORKSPACE / "data" / "topic_overlap_warnings.log"
+            # Every retry only tripped the topic gate: HARD STOP. A near-duplicate
+            # post cannibalizes an existing page's rankings, so we refuse to ship
+            # it. Log for manual pick and fail loudly (exit 1) so the retry cron
+            # and ops alert fire instead of silently publishing a twin.
+            warn_log = WORKSPACE / "logs" / "topic_overlap_warnings.log"
             warn_log.parent.mkdir(parents=True, exist_ok=True)
             with warn_log.open("a") as fh:
-                fh.write(f"{today.isoformat()}\t{cfg['slug']}\t{problem}\n")
-            print(f"⚠️  Topic gate exhausted retries, publishing anyway: {problem} "
+                fh.write(f"{today.isoformat()}\t{cfg['slug']}\tHARD-STOP\t{problem}\n")
+            print(f"🛑 Topic gate exhausted retries — refusing to publish duplicate: {problem} "
                   f"(logged to {warn_log.name})", file=sys.stderr)
+            sys.exit(1)
         else:
             print(f"🛑 Pre-publish check still failing: {problem}", file=sys.stderr)
             sys.exit(1)
